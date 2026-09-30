@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-30T00:13:13+00:00",
-  "snapshot": "2026-09-30T00:13:13+00:00",
+  "generated_at": "2026-09-30T01:06:12+00:00",
+  "snapshot": "2026-09-30T01:06:12+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "kia-south-vancouver-wmwxm5c55et730240",
@@ -14,17 +14,20 @@
       "condition": "used",
       "odometer_km": 94854,
       "price_cad": 10995.0,
+      "price_note": null,
       "color": "Brown",
       "dealer_id": "kia-south-vancouver",
       "vin": "WMWXM5C55ET730240",
       "stock": "KV14727",
       "listing_url": "https://www.kiavancouver.com/vehicles/2014/mini/3-door/vancouver/bc/71355362/?sale_class=used",
+      "dealer_url": "https://www.kiavancouver.com/vehicles/2014/mini/3-door/vancouver/bc/71355362/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T23:19:07",
+      "snapshot": "2026-09-26T23:23:40",
       "go_url": "https://carwhisper.ca/go/kia-south-vancouver-wmwxm5c55et730240",
       "region": "Lower Mainland",
       "city": "Vancouver",
       "province": "BC",
-      "dealer_name": "Kia South Vancouver",
-      "snapshot": "2026-09-30T00:13:13+00:00"
+      "dealer_name": "Kia South Vancouver"
     },
     {
       "pub_id": "kia-south-vancouver-wmwxp5c56j2g61715",
@@ -36,39 +39,20 @@
       "condition": "used",
       "odometer_km": 154453,
       "price_cad": 12995.0,
+      "price_note": null,
       "color": "Grey",
       "dealer_id": "kia-south-vancouver",
       "vin": "WMWXP5C56J2G61715",
       "stock": "KV05426",
       "listing_url": "https://www.kiavancouver.com/vehicles/2018/mini/3-door/vancouver/bc/71244484/?sale_class=used",
+      "dealer_url": "https://www.kiavancouver.com/vehicles/2018/mini/3-door/vancouver/bc/71244484/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T23:21:36",
+      "snapshot": "2026-09-26T23:23:40",
       "go_url": "https://carwhisper.ca/go/kia-south-vancouver-wmwxp5c56j2g61715",
       "region": "Lower Mainland",
       "city": "Vancouver",
       "province": "BC",
-      "dealer_name": "Kia South Vancouver",
-      "snapshot": "2026-09-30T00:13:13+00:00"
-    },
-    {
-      "pub_id": "go-richmond-kia-wmwxp5c36h2d71385",
-      "year": 2017,
-      "make": "MINI",
-      "model": "3 Door",
-      "propulsion": "gas",
-      "propulsion_source": "stated",
-      "condition": "used",
-      "odometer_km": 86990,
-      "price_cad": 13795.0,
-      "color": "Red",
-      "dealer_id": "go-richmond-kia",
-      "vin": "WMWXP5C36H2D71385",
-      "stock": "PK02782",
-      "listing_url": "https://www.gorichmondkia.ca/vehicles/2017/mini/3-door/richmond/bc/71258248/?sale_class=used",
-      "go_url": "https://carwhisper.ca/go/go-richmond-kia-wmwxp5c36h2d71385",
-      "region": "Lower Mainland",
-      "city": "Richmond",
-      "province": "BC",
-      "dealer_name": "Go Richmond Kia",
-      "snapshot": "2026-09-30T00:13:13+00:00"
+      "dealer_name": "Kia South Vancouver"
     }
   ]
 }

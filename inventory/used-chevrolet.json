@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-30T00:13:13+00:00",
-  "snapshot": "2026-09-30T00:13:13+00:00",
+  "generated_at": "2026-09-30T01:06:12+00:00",
+  "snapshot": "2026-09-30T01:06:12+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "kia-south-vancouver-2gnalbek9g6332965",
@@ -15,40 +15,20 @@
       "condition": "used",
       "odometer_km": 131764,
       "price_cad": 9995.0,
+      "price_note": null,
       "color": "Blue",
       "dealer_id": "kia-south-vancouver",
       "vin": "2GNALBEK9G6332965",
       "stock": "KV36992",
       "listing_url": "https://www.kiavancouver.com/vehicles/2016/chevrolet/equinox/vancouver/bc/71292971/?sale_class=used",
+      "dealer_url": "https://www.kiavancouver.com/vehicles/2016/chevrolet/equinox/vancouver/bc/71292971/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T23:20:06",
+      "snapshot": "2026-09-26T23:23:40",
       "go_url": "https://carwhisper.ca/go/kia-south-vancouver-2gnalbek9g6332965",
       "region": "Lower Mainland",
       "city": "Vancouver",
       "province": "BC",
-      "dealer_name": "Kia South Vancouver",
-      "snapshot": "2026-09-30T00:13:13+00:00"
-    },
-    {
-      "pub_id": "go-richmond-kia-2gnaxvex2l6120582",
-      "year": 2020,
-      "make": "Chevrolet",
-      "model": "Equinox",
-      "body_type": "suv",
-      "propulsion": "gas",
-      "propulsion_source": "stated",
-      "condition": "used",
-      "odometer_km": 113108,
-      "price_cad": 18995.0,
-      "color": "Silver",
-      "dealer_id": "go-richmond-kia",
-      "vin": "2GNAXVEX2L6120582",
-      "stock": "P120582",
-      "listing_url": "https://www.gorichmondkia.ca/vehicles/2020/chevrolet/equinox/richmond/bc/71161050/?sale_class=used",
-      "go_url": "https://carwhisper.ca/go/go-richmond-kia-2gnaxvex2l6120582",
-      "region": "Lower Mainland",
-      "city": "Richmond",
-      "province": "BC",
-      "dealer_name": "Go Richmond Kia",
-      "snapshot": "2026-09-30T00:13:13+00:00"
+      "dealer_name": "Kia South Vancouver"
     },
     {
       "pub_id": "go-kia-west-3gn7dsrp2ss181278",
@@ -60,17 +40,20 @@
       "condition": "used",
       "odometer_km": 91669,
       "price_cad": 33498.0,
+      "price_note": null,
       "color": "White",
       "dealer_id": "go-kia-west",
       "vin": "3GN7DSRP2SS181278",
       "stock": "E968938",
       "listing_url": "https://www.kiawest.com/vehicles/2025/chevrolet/equinox-ev/coquitlam/bc/70357096/?sale_class=used",
+      "dealer_url": "https://www.kiawest.com/vehicles/2025/chevrolet/equinox-ev/coquitlam/bc/70357096/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T13:43:36",
+      "snapshot": "2026-09-27T00:25:15",
       "go_url": "https://carwhisper.ca/go/go-kia-west-3gn7dsrp2ss181278",
       "region": "Lower Mainland",
       "city": "Coquitlam",
       "province": "BC",
-      "dealer_name": "Go Kia West",
-      "snapshot": "2026-09-30T00:13:13+00:00"
+      "dealer_name": "Go Kia West"
     },
     {
       "pub_id": "kia-south-vancouver-3gnkdgrj5ss206533",
@@ -83,17 +66,20 @@
       "condition": "used",
       "odometer_km": 8151,
       "price_cad": 52995.0,
+      "price_note": null,
       "color": "Black",
       "dealer_id": "kia-south-vancouver",
       "vin": "3GNKDGRJ5SS206533",
       "stock": "KV01681",
       "listing_url": "https://www.kiavancouver.com/vehicles/2025/chevrolet/blazer-ev/vancouver/bc/70536951/?sale_class=used",
+      "dealer_url": "https://www.kiavancouver.com/vehicles/2025/chevrolet/blazer-ev/vancouver/bc/70536951/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T22:13:08",
+      "snapshot": "2026-09-26T23:23:40",
       "go_url": "https://carwhisper.ca/go/kia-south-vancouver-3gnkdgrj5ss206533",
       "region": "Lower Mainland",
       "city": "Vancouver",
       "province": "BC",
-      "dealer_name": "Kia South Vancouver",
-      "snapshot": "2026-09-30T00:13:13+00:00"
+      "dealer_name": "Kia South Vancouver"
     }
   ]
 }

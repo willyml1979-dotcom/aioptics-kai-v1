@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T00:13:13+00:00",
-  "snapshot": "2026-09-30T00:13:13+00:00",
+  "generated_at": "2026-09-30T01:06:12+00:00",
+  "snapshot": "2026-09-30T01:06:12+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 3,
   "vehicles": [
@@ -14,17 +14,20 @@
       "condition": "used",
       "odometer_km": 128499,
       "price_cad": 28498.0,
+      "price_note": null,
       "color": "Grey",
       "dealer_id": "go-kia-west",
       "vin": "1C6RR7MM4JS315237",
       "stock": "NE69394",
       "listing_url": "https://www.kiawest.com/vehicles/2018/ram/1500-crew-cab/coquitlam/bc/71194465/?sale_class=used",
+      "dealer_url": "https://www.kiawest.com/vehicles/2018/ram/1500-crew-cab/coquitlam/bc/71194465/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:06:47",
+      "snapshot": "2026-09-27T00:25:15",
       "go_url": "https://carwhisper.ca/go/go-kia-west-1c6rr7mm4js315237",
       "region": "Lower Mainland",
       "city": "Coquitlam",
       "province": "BC",
-      "dealer_name": "Go Kia West",
-      "snapshot": "2026-09-30T00:13:13+00:00"
+      "dealer_name": "Go Kia West"
     },
     {
       "pub_id": "go-kia-west-3c6mrvjg3se543862",
@@ -32,22 +35,25 @@
       "make": "RAM",
       "model": "ProMaster Cargo Van",
       "body_type": "van",
-      "propulsion": "gas",
+      "propulsion": "electric",
       "propulsion_source": "stated",
       "condition": "used",
       "odometer_km": 52021,
       "price_cad": 46798.0,
+      "price_note": null,
       "color": "White",
       "dealer_id": "go-kia-west",
       "vin": "3C6MRVJG3SE543862",
       "stock": "PW1359",
       "listing_url": "https://www.kiawest.com/vehicles/2025/ram/promaster-cargo-van/coquitlam/bc/70690179/?sale_class=used",
+      "dealer_url": "https://www.kiawest.com/vehicles/2025/ram/promaster-cargo-van/coquitlam/bc/70690179/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T12:14:17",
+      "snapshot": "2026-09-27T00:25:15",
       "go_url": "https://carwhisper.ca/go/go-kia-west-3c6mrvjg3se543862",
       "region": "Lower Mainland",
       "city": "Coquitlam",
       "province": "BC",
-      "dealer_name": "Go Kia West",
-      "snapshot": "2026-09-30T00:13:13+00:00"
+      "dealer_name": "Go Kia West"
     },
     {
       "pub_id": "go-kia-west-1c6srfrt8rn148967",
@@ -59,17 +65,20 @@
       "condition": "used",
       "odometer_km": 82259,
       "price_cad": 59698.0,
+      "price_note": null,
       "color": "Black",
       "dealer_id": "go-kia-west",
       "vin": "1C6SRFRT8RN148967",
       "stock": "PW1382",
       "listing_url": "https://www.kiawest.com/vehicles/2024/ram/1500-crew-cab/coquitlam/bc/70974788/?sale_class=used",
+      "dealer_url": "https://www.kiawest.com/vehicles/2024/ram/1500-crew-cab/coquitlam/bc/70974788/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T13:44:31",
+      "snapshot": "2026-09-27T00:25:15",
       "go_url": "https://carwhisper.ca/go/go-kia-west-1c6srfrt8rn148967",
       "region": "Lower Mainland",
       "city": "Coquitlam",
       "province": "BC",
-      "dealer_name": "Go Kia West",
-      "snapshot": "2026-09-30T00:13:13+00:00"
+      "dealer_name": "Go Kia West"
     }
   ]
 }

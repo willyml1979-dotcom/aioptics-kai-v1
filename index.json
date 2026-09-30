@@ -1,6 +1,7 @@
 {
-  "generated_at": "2026-09-30T00:13:13+00:00",
+  "generated_at": "2026-09-30T01:06:12+00:00",
   "contract_version": "kai-v1",
+  "go_url_ready": false,
   "coverage": [
     {
       "dealer_id": "go-kia-west",
@@ -13,7 +14,7 @@
       ],
       "new_count": 527,
       "used_count": 178,
-      "snapshot": "2026-09-30T00:13:13+00:00",
+      "snapshot": "2026-09-30T01:06:12+00:00",
       "status": "ok",
       "reason": null
     },
@@ -28,22 +29,7 @@
       ],
       "new_count": 164,
       "used_count": 59,
-      "snapshot": "2026-09-30T00:13:13+00:00",
-      "status": "ok",
-      "reason": null
-    },
-    {
-      "dealer_id": "go-richmond-kia",
-      "name": "Go Richmond Kia",
-      "city": "Richmond",
-      "region": "Lower Mainland",
-      "province": "BC",
-      "brands": [
-        "Kia"
-      ],
-      "new_count": 30,
-      "used_count": 112,
-      "snapshot": "2026-09-30T00:13:13+00:00",
+      "snapshot": "2026-09-30T01:06:12+00:00",
       "status": "ok",
       "reason": null
     },
@@ -58,718 +44,201 @@
       ],
       "new_count": 44,
       "used_count": 15,
-      "snapshot": "2026-09-30T00:13:13+00:00",
+      "snapshot": "2026-09-30T01:06:12+00:00",
       "status": "ok",
       "reason": null
     }
   ],
   "failed_feeds": [],
-  "catalog": [
+  "catalog_index": [
     {
       "condition": "used",
       "make": "mitsubishi",
-      "count": 10,
-      "file": "inventory/used-mitsubishi.json"
+      "vehicle_count": 6,
+      "file_count": 1,
+      "catalog_file": "catalog-used-mitsubishi.json"
     },
     {
       "condition": "used",
       "make": "honda",
-      "count": 36,
-      "file": "inventory/used-honda.json"
+      "vehicle_count": 27,
+      "file_count": 1,
+      "catalog_file": "catalog-used-honda.json"
     },
     {
       "condition": "used",
       "make": "ford",
-      "count": 9,
-      "file": "inventory/used-ford.json"
+      "vehicle_count": 8,
+      "file_count": 1,
+      "catalog_file": "catalog-used-ford.json"
     },
     {
       "condition": "used",
       "make": "kia",
-      "model": "soul",
-      "count": 8,
-      "file": "inventory/used-kia-soul.json"
-    },
-    {
-      "condition": "used",
-      "make": "kia",
-      "model": "rondo",
-      "count": 1,
-      "file": "inventory/used-kia-rondo.json"
-    },
-    {
-      "condition": "used",
-      "make": "kia",
-      "model": "sportage",
-      "count": 16,
-      "file": "inventory/used-kia-sportage.json"
-    },
-    {
-      "condition": "used",
-      "make": "kia",
-      "model": "forte-sedan",
-      "count": 16,
-      "file": "inventory/used-kia-forte-sedan.json"
-    },
-    {
-      "condition": "used",
-      "make": "kia",
-      "model": "seltos",
-      "count": 26,
-      "file": "inventory/used-kia-seltos.json"
-    },
-    {
-      "condition": "used",
-      "make": "kia",
-      "model": "rio-hatchback-5-door",
-      "count": 2,
-      "file": "inventory/used-kia-rio-hatchback-5-door.json"
-    },
-    {
-      "condition": "used",
-      "make": "kia",
-      "model": "sedona",
-      "count": 4,
-      "file": "inventory/used-kia-sedona.json"
-    },
-    {
-      "condition": "used",
-      "make": "kia",
-      "model": "stinger",
-      "count": 1,
-      "file": "inventory/used-kia-stinger.json"
-    },
-    {
-      "condition": "used",
-      "make": "kia",
-      "model": "sorento",
-      "count": 9,
-      "file": "inventory/used-kia-sorento.json"
-    },
-    {
-      "condition": "used",
-      "make": "kia",
-      "model": "forte-hatchback",
-      "count": 1,
-      "file": "inventory/used-kia-forte-hatchback.json"
-    },
-    {
-      "condition": "used",
-      "make": "kia",
-      "model": "soul-ev",
-      "count": 20,
-      "file": "inventory/used-kia-soul-ev.json"
-    },
-    {
-      "condition": "used",
-      "make": "kia",
-      "model": "optima-sedan",
-      "count": 1,
-      "file": "inventory/used-kia-optima-sedan.json"
-    },
-    {
-      "condition": "used",
-      "make": "kia",
-      "model": "k4",
-      "count": 3,
-      "file": "inventory/used-kia-k4.json"
-    },
-    {
-      "condition": "used",
-      "make": "kia",
-      "model": "telluride",
-      "count": 10,
-      "file": "inventory/used-kia-telluride.json"
-    },
-    {
-      "condition": "used",
-      "make": "kia",
-      "model": "niro-plug-in-hybrid",
-      "count": 3,
-      "file": "inventory/used-kia-niro-plug-in-hybrid.json"
-    },
-    {
-      "condition": "used",
-      "make": "kia",
-      "model": "k5",
-      "count": 1,
-      "file": "inventory/used-kia-k5.json"
-    },
-    {
-      "condition": "used",
-      "make": "kia",
-      "model": "niro-ev",
-      "count": 5,
-      "file": "inventory/used-kia-niro-ev.json"
-    },
-    {
-      "condition": "used",
-      "make": "kia",
-      "model": "niro-hybrid",
-      "count": 2,
-      "file": "inventory/used-kia-niro-hybrid.json"
-    },
-    {
-      "condition": "used",
-      "make": "kia",
-      "model": "sportage-hybrid",
-      "count": 3,
-      "file": "inventory/used-kia-sportage-hybrid.json"
-    },
-    {
-      "condition": "used",
-      "make": "kia",
-      "model": "carnival",
-      "count": 7,
-      "file": "inventory/used-kia-carnival.json"
-    },
-    {
-      "condition": "used",
-      "make": "kia",
-      "model": "sportage-plug-in-hybrid",
-      "count": 2,
-      "file": "inventory/used-kia-sportage-plug-in-hybrid.json"
-    },
-    {
-      "condition": "used",
-      "make": "kia",
-      "model": "sorento-hybrid",
-      "count": 3,
-      "file": "inventory/used-kia-sorento-hybrid.json"
-    },
-    {
-      "condition": "used",
-      "make": "kia",
-      "model": "ev4",
-      "count": 1,
-      "file": "inventory/used-kia-ev4.json"
-    },
-    {
-      "condition": "used",
-      "make": "kia",
-      "model": "sorento-plug-in-hybrid",
-      "count": 2,
-      "file": "inventory/used-kia-sorento-plug-in-hybrid.json"
-    },
-    {
-      "condition": "used",
-      "make": "kia",
-      "model": "ev6",
-      "count": 1,
-      "file": "inventory/used-kia-ev6.json"
-    },
-    {
-      "condition": "used",
-      "make": "kia",
-      "model": "ev9",
-      "count": 1,
-      "file": "inventory/used-kia-ev9.json"
-    },
-    {
-      "condition": "used",
-      "make": "kia",
-      "model": "ev9-land-awd",
-      "count": 1,
-      "file": "inventory/used-kia-ev9-land-awd.json"
-    },
-    {
-      "condition": "used",
-      "make": "kia",
-      "model": "rio-hatchback-5-door-ex",
-      "count": 1,
-      "file": "inventory/used-kia-rio-hatchback-5-door-ex.json"
-    },
-    {
-      "condition": "used",
-      "make": "kia",
-      "model": "soul-ev-ev-limited",
-      "count": 1,
-      "file": "inventory/used-kia-soul-ev-ev-limited.json"
+      "vehicle_count": 94,
+      "file_count": 18,
+      "catalog_file": "catalog-used-kia.json"
     },
     {
       "condition": "used",
       "make": "hyundai",
-      "count": 32,
-      "file": "inventory/used-hyundai.json"
+      "vehicle_count": 23,
+      "file_count": 1,
+      "catalog_file": "catalog-used-hyundai.json"
     },
     {
       "condition": "used",
       "make": "bmw",
-      "count": 8,
-      "file": "inventory/used-bmw.json"
+      "vehicle_count": 6,
+      "file_count": 1,
+      "catalog_file": "catalog-used-bmw.json"
     },
     {
       "condition": "used",
       "make": "nissan",
-      "count": 15,
-      "file": "inventory/used-nissan.json"
+      "vehicle_count": 13,
+      "file_count": 1,
+      "catalog_file": "catalog-used-nissan.json"
     },
     {
       "condition": "used",
       "make": "audi",
-      "count": 3,
-      "file": "inventory/used-audi.json"
+      "vehicle_count": 2,
+      "file_count": 1,
+      "catalog_file": "catalog-used-audi.json"
     },
     {
       "condition": "used",
       "make": "chevrolet",
-      "count": 4,
-      "file": "inventory/used-chevrolet.json"
+      "vehicle_count": 3,
+      "file_count": 1,
+      "catalog_file": "catalog-used-chevrolet.json"
     },
     {
       "condition": "used",
       "make": "dodge",
-      "count": 2,
-      "file": "inventory/used-dodge.json"
+      "vehicle_count": 2,
+      "file_count": 1,
+      "catalog_file": "catalog-used-dodge.json"
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
-      "count": 14,
-      "file": "inventory/used-mercedes-benz.json"
+      "vehicle_count": 12,
+      "file_count": 1,
+      "catalog_file": "catalog-used-mercedes-benz.json"
     },
     {
       "condition": "used",
       "make": "ram",
-      "count": 3,
-      "file": "inventory/used-ram.json"
+      "vehicle_count": 3,
+      "file_count": 1,
+      "catalog_file": "catalog-used-ram.json"
     },
     {
       "condition": "used",
       "make": "toyota",
-      "count": 22,
-      "file": "inventory/used-toyota.json"
+      "vehicle_count": 14,
+      "file_count": 1,
+      "catalog_file": "catalog-used-toyota.json"
     },
     {
       "condition": "used",
       "make": "lexus",
-      "count": 3,
-      "file": "inventory/used-lexus.json"
+      "vehicle_count": 3,
+      "file_count": 1,
+      "catalog_file": "catalog-used-lexus.json"
     },
     {
       "condition": "used",
       "make": "mazda",
-      "count": 10,
-      "file": "inventory/used-mazda.json"
+      "vehicle_count": 8,
+      "file_count": 1,
+      "catalog_file": "catalog-used-mazda.json"
     },
     {
       "condition": "used",
       "make": "volkswagen",
-      "count": 12,
-      "file": "inventory/used-volkswagen.json"
+      "vehicle_count": 10,
+      "file_count": 1,
+      "catalog_file": "catalog-used-volkswagen.json"
     },
     {
       "condition": "used",
       "make": "subaru",
-      "count": 10,
-      "file": "inventory/used-subaru.json"
+      "vehicle_count": 4,
+      "file_count": 1,
+      "catalog_file": "catalog-used-subaru.json"
     },
     {
       "condition": "used",
       "make": "cadillac",
-      "count": 3,
-      "file": "inventory/used-cadillac.json"
+      "vehicle_count": 2,
+      "file_count": 1,
+      "catalog_file": "catalog-used-cadillac.json"
     },
     {
       "condition": "used",
       "make": "genesis",
-      "count": 3,
-      "file": "inventory/used-genesis.json"
+      "vehicle_count": 3,
+      "file_count": 1,
+      "catalog_file": "catalog-used-genesis.json"
     },
     {
       "condition": "used",
       "make": "volvo",
-      "count": 1,
-      "file": "inventory/used-volvo.json"
+      "vehicle_count": 1,
+      "file_count": 1,
+      "catalog_file": "catalog-used-volvo.json"
     },
     {
       "condition": "used",
       "make": "acura",
-      "count": 1,
-      "file": "inventory/used-acura.json"
+      "vehicle_count": 1,
+      "file_count": 1,
+      "catalog_file": "catalog-used-acura.json"
     },
     {
       "condition": "used",
       "make": "tesla",
-      "count": 3,
-      "file": "inventory/used-tesla.json"
+      "vehicle_count": 1,
+      "file_count": 1,
+      "catalog_file": "catalog-used-tesla.json"
     },
     {
       "condition": "new",
       "make": "kia",
-      "model": "k4",
-      "shard": "part1",
-      "count": 33,
-      "file": "inventory/new-kia-k4-part1.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "k4",
-      "shard": "part2",
-      "count": 32,
-      "file": "inventory/new-kia-k4-part2.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "k4-hatchback",
-      "count": 9,
-      "file": "inventory/new-kia-k4-hatchback.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "seltos",
-      "shard": "part1",
-      "count": 37,
-      "file": "inventory/new-kia-seltos-part1.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "seltos",
-      "shard": "part2",
-      "count": 37,
-      "file": "inventory/new-kia-seltos-part2.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "seltos",
-      "shard": "part3",
-      "count": 37,
-      "file": "inventory/new-kia-seltos-part3.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "niro-hybrid",
-      "count": 11,
-      "file": "inventory/new-kia-niro-hybrid.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "sportage",
-      "shard": "part1",
-      "count": 46,
-      "file": "inventory/new-kia-sportage-part1.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "sportage",
-      "shard": "part2",
-      "count": 46,
-      "file": "inventory/new-kia-sportage-part2.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "sportage",
-      "shard": "part3",
-      "count": 46,
-      "file": "inventory/new-kia-sportage-part3.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "carnival",
-      "count": 42,
-      "file": "inventory/new-kia-carnival.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "ev4",
-      "count": 3,
-      "file": "inventory/new-kia-ev4.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "niro-ev",
-      "shard": "part1",
-      "count": 45,
-      "file": "inventory/new-kia-niro-ev-part1.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "niro-ev",
-      "shard": "part2",
-      "count": 45,
-      "file": "inventory/new-kia-niro-ev-part2.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "niro-ev",
-      "shard": "part3",
-      "count": 43,
-      "file": "inventory/new-kia-niro-ev-part3.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "ev3",
-      "count": 2,
-      "file": "inventory/new-kia-ev3.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "sportage-hybrid",
-      "count": 17,
-      "file": "inventory/new-kia-sportage-hybrid.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "sorento-hybrid",
-      "count": 27,
-      "file": "inventory/new-kia-sorento-hybrid.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "sorento",
-      "count": 1,
-      "file": "inventory/new-kia-sorento.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "ev4",
-      "count": 9,
-      "file": "inventory/new-kia-ev4.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "sorento-plug-in-hybrid",
-      "count": 10,
-      "file": "inventory/new-kia-sorento-plug-in-hybrid.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "ev5",
-      "count": 5,
-      "file": "inventory/new-kia-ev5.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "carnival-hybrid",
-      "count": 12,
-      "file": "inventory/new-kia-carnival-hybrid.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "ev9",
-      "count": 10,
-      "file": "inventory/new-kia-ev9.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "sportage-hybrid-sx-hev",
-      "count": 35,
-      "file": "inventory/new-kia-sportage-hybrid-sx-hev.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "sportage-hybrid-ex-hev",
-      "count": 24,
-      "file": "inventory/new-kia-sportage-hybrid-ex-hev.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "sportage-hybrid-ex-premium-hev",
-      "count": 19,
-      "file": "inventory/new-kia-sportage-hybrid-ex-premium-hev.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "ev9-land",
-      "count": 5,
-      "file": "inventory/new-kia-ev9-land.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "ev9-land-w-plus-package",
-      "count": 1,
-      "file": "inventory/new-kia-ev9-land-w-plus-package.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "ev5-gt-line",
-      "count": 3,
-      "file": "inventory/new-kia-ev5-gt-line.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "ev5-land",
-      "count": 5,
-      "file": "inventory/new-kia-ev5-land.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "ev5-gt-line-limited",
-      "count": 4,
-      "file": "inventory/new-kia-ev5-gt-line-limited.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "sportage-plug-in-hybrid-ex-phev",
-      "count": 2,
-      "file": "inventory/new-kia-sportage-plug-in-hybrid-ex-phev.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "sportage-plug-in-hybrid-ex-premium-phev",
-      "count": 1,
-      "file": "inventory/new-kia-sportage-plug-in-hybrid-ex-premium-phev.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "ev3-gt-line-limited",
-      "count": 1,
-      "file": "inventory/new-kia-ev3-gt-line-limited.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "sportage-plug-in-hybrid-sx-phev",
-      "count": 1,
-      "file": "inventory/new-kia-sportage-plug-in-hybrid-sx-phev.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "seltos-lx",
-      "count": 1,
-      "file": "inventory/new-kia-seltos-lx.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "ev3-gt-line",
-      "count": 1,
-      "file": "inventory/new-kia-ev3-gt-line.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "seltos-ex-premium",
-      "count": 1,
-      "file": "inventory/new-kia-seltos-ex-premium.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "ev5-land-awd",
-      "count": 1,
-      "file": "inventory/new-kia-ev5-land-awd.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "sportage-plug-in-hybrid-ex-premium-awd",
-      "count": 1,
-      "file": "inventory/new-kia-sportage-plug-in-hybrid-ex-premium-awd.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "ev4-wind-premium",
-      "count": 1,
-      "file": "inventory/new-kia-ev4-wind-premium.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "ev5-wind-fwd",
-      "count": 1,
-      "file": "inventory/new-kia-ev5-wind-fwd.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "ev3-gt-line-awd",
-      "count": 1,
-      "file": "inventory/new-kia-ev3-gt-line-awd.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "ev3-gt-line-limited-awd",
-      "count": 1,
-      "file": "inventory/new-kia-ev3-gt-line-limited-awd.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "ev3-wind-awd",
-      "count": 1,
-      "file": "inventory/new-kia-ev3-wind-awd.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "ev4-wind-premium-fwd",
-      "count": 3,
-      "file": "inventory/new-kia-ev4-wind-premium-fwd.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
-      "model": "k4-lx",
-      "count": 2,
-      "file": "inventory/new-kia-k4-lx.json"
+      "vehicle_count": 691,
+      "file_count": 24,
+      "catalog_file": "catalog-new-kia.json"
     },
     {
       "condition": "used",
       "make": "mini",
-      "count": 3,
-      "file": "inventory/used-mini.json"
+      "vehicle_count": 2,
+      "file_count": 1,
+      "catalog_file": "catalog-used-mini.json"
     },
     {
       "condition": "used",
       "make": "land-rover",
-      "count": 1,
-      "file": "inventory/used-land-rover.json"
+      "vehicle_count": 1,
+      "file_count": 1,
+      "catalog_file": "catalog-used-land-rover.json"
     },
     {
       "condition": "used",
       "make": "jeep",
-      "count": 3,
-      "file": "inventory/used-jeep.json"
-    },
-    {
-      "condition": "used",
-      "make": "gmc",
-      "count": 1,
-      "file": "inventory/used-gmc.json"
+      "vehicle_count": 3,
+      "file_count": 1,
+      "catalog_file": "catalog-used-jeep.json"
     },
     {
       "condition": "new",
       "make": "toyota",
-      "count": 44,
-      "file": "inventory/new-toyota.json"
+      "vehicle_count": 44,
+      "file_count": 11,
+      "catalog_file": "catalog-new-toyota.json"
     }
   ],
   "not_covered": "Un dealer, ciudad o marca ausente NO significa que el vehiculo no exista, solo que no esta en estas fuentes."
