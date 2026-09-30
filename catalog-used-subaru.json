@@ -1,13 +1,285 @@
 {
-  "generated_at": "2026-09-30T18:55:51+00:00",
+  "generated_at": "2026-09-30T22:02:37+00:00",
   "condition": "used",
   "make": "subaru",
   "files": [
     {
       "condition": "used",
       "make": "subaru",
+      "model": "Legacy Sedan",
+      "count": 5,
+      "file": "inventory/used-subaru-legacy-sedan.json"
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Crosstrek",
+      "shard": "Kootenays",
+      "count": 3,
+      "file": "inventory/used-subaru-crosstrek-kootenays.json"
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Crosstrek",
+      "shard": "Lower Mainland",
+      "count": 12,
+      "file": "inventory/used-subaru-crosstrek-lower-mainland.json"
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Crosstrek",
+      "shard": "Norte/Cariboo",
       "count": 4,
-      "file": "inventory/used-subaru.json"
+      "file": "inventory/used-subaru-crosstrek-norte-cariboo.json"
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Crosstrek",
+      "shard": "Okanagan",
+      "count": 13,
+      "file": "inventory/used-subaru-crosstrek-okanagan.json"
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Crosstrek",
+      "shard": "Vancouver Island",
+      "count": 7,
+      "file": "inventory/used-subaru-crosstrek-vancouver-island.json"
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Crosstrek",
+      "shard": "sin-region",
+      "count": 9,
+      "file": "inventory/used-subaru-crosstrek-sin-region.json"
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Solterra",
+      "count": 5,
+      "file": "inventory/used-subaru-solterra.json"
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Outback",
+      "shard": "Kootenays",
+      "count": 3,
+      "file": "inventory/used-subaru-outback-kootenays.json"
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Outback",
+      "shard": "Lower Mainland",
+      "count": 8,
+      "file": "inventory/used-subaru-outback-lower-mainland.json"
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Outback",
+      "shard": "Norte/Cariboo",
+      "count": 8,
+      "file": "inventory/used-subaru-outback-norte-cariboo.json"
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Outback",
+      "shard": "Okanagan",
+      "count": 15,
+      "file": "inventory/used-subaru-outback-okanagan.json"
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Outback",
+      "shard": "Vancouver Island",
+      "count": 3,
+      "file": "inventory/used-subaru-outback-vancouver-island.json"
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Outback",
+      "shard": "sin-region",
+      "count": 12,
+      "file": "inventory/used-subaru-outback-sin-region.json"
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Forester",
+      "shard": "Kootenays",
+      "count": 1,
+      "file": "inventory/used-subaru-forester-kootenays.json"
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Forester",
+      "shard": "Lower Mainland",
+      "count": 6,
+      "file": "inventory/used-subaru-forester-lower-mainland.json"
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Forester",
+      "shard": "Norte/Cariboo",
+      "count": 8,
+      "file": "inventory/used-subaru-forester-norte-cariboo.json"
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Forester",
+      "shard": "Okanagan",
+      "count": 8,
+      "file": "inventory/used-subaru-forester-okanagan.json"
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Forester",
+      "shard": "Thompson-Okanagan",
+      "count": 1,
+      "file": "inventory/used-subaru-forester-thompson-okanagan.json"
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Forester",
+      "shard": "Vancouver Island",
+      "count": 5,
+      "file": "inventory/used-subaru-forester-vancouver-island.json"
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Forester",
+      "shard": "sin-region",
+      "count": 14,
+      "file": "inventory/used-subaru-forester-sin-region.json"
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "WRX",
+      "count": 17,
+      "file": "inventory/used-subaru-wrx.json"
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Impreza",
+      "count": 12,
+      "file": "inventory/used-subaru-impreza.json"
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Ascent",
+      "count": 8,
+      "file": "inventory/used-subaru-ascent.json"
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "BRZ",
+      "count": 5,
+      "file": "inventory/used-subaru-brz.json"
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "WRX Sport CVT",
+      "count": 1,
+      "file": "inventory/used-subaru-wrx-sport-cvt.json"
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Crosstrek Touring AWD",
+      "count": 1,
+      "file": "inventory/used-subaru-crosstrek-touring-awd.json"
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Forester Wilderness",
+      "count": 1,
+      "file": "inventory/used-subaru-forester-wilderness.json"
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Crosstrek Outdoor CVT",
+      "count": 1,
+      "file": "inventory/used-subaru-crosstrek-outdoor-cvt.json"
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "WRX STI",
+      "count": 2,
+      "file": "inventory/used-subaru-wrx-sti.json"
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Crosstrek SPORT",
+      "count": 1,
+      "file": "inventory/used-subaru-crosstrek-sport.json"
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Crosstrek LIMITED",
+      "count": 2,
+      "file": "inventory/used-subaru-crosstrek-limited.json"
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "WRX Sport-tech",
+      "count": 1,
+      "file": "inventory/used-subaru-wrx-sport-tech.json"
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Crosstrek Hybrid",
+      "count": 3,
+      "file": "inventory/used-subaru-crosstrek-hybrid.json"
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Crosstrek BC Car",
+      "count": 2,
+      "file": "inventory/used-subaru-crosstrek-bc-car.json"
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "BRZ Sport-tech",
+      "count": 1,
+      "file": "inventory/used-subaru-brz-sport-tech.json"
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Crosstrek Convenience",
+      "count": 1,
+      "file": "inventory/used-subaru-crosstrek-convenience.json"
     }
   ]
 }

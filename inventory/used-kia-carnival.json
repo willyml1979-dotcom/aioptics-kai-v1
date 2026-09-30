@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-30T18:55:51+00:00",
-  "snapshot": "2026-09-30T18:55:51+00:00",
+  "generated_at": "2026-09-30T22:02:37+00:00",
+  "snapshot": "2026-09-30T22:02:37+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 9,
   "vehicles": [
     {
       "pub_id": "go-kia-west-kndnb5h3xn6120890",
@@ -28,6 +28,31 @@
       "city": "Coquitlam",
       "province": "BC",
       "dealer_name": "Go Kia West"
+    },
+    {
+      "pub_id": "murray-hyundai-white-rock-kndnb5h30p6278870",
+      "year": 2023,
+      "make": "Kia",
+      "model": "Carnival",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 77698,
+      "price_cad": 32500.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "murray-hyundai-white-rock",
+      "vin": "KNDNB5H30P6278870",
+      "stock": "M4787",
+      "listing_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2023/kia/carnival/surrey/bc/71396497/?sale_class=used",
+      "dealer_url": "https://www.murrayhyundaiwhiterock.com/vehicles/2023/kia/carnival/surrey/bc/71396497/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T15:59:36",
+      "snapshot": "2026-09-26T16:02:10",
+      "go_url": "https://carwhisper.ca/go/murray-hyundai-white-rock-kndnb5h30p6278870",
+      "region": "Lower Mainland",
+      "city": "Surrey",
+      "province": "BC",
+      "dealer_name": "Murray Hyundai White Rock"
     },
     {
       "pub_id": "kia-south-vancouver-kndnc5h36n6176192",
@@ -79,6 +104,32 @@
       "city": "Coquitlam",
       "province": "BC",
       "dealer_name": "Go Kia West"
+    },
+    {
+      "pub_id": "lougheed-hyundai-kndnb5h38p6262352",
+      "year": 2023,
+      "make": "Kia",
+      "model": "Carnival",
+      "body_type": "suv",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 47995,
+      "price_cad": 35694.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "lougheed-hyundai",
+      "vin": "KNDNB5H38P6262352",
+      "stock": "H26756A",
+      "listing_url": "https://www.lougheedhyundai.com/vehicles/2023/kia/carnival/coquitlam/bc/71071490/?sale_class=used",
+      "dealer_url": "https://www.lougheedhyundai.com/vehicles/2023/kia/carnival/coquitlam/bc/71071490/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T03:33:58",
+      "snapshot": "2026-09-26T03:37:06",
+      "go_url": "https://carwhisper.ca/go/lougheed-hyundai-kndnb5h38p6262352",
+      "region": "Lower Mainland",
+      "city": "Coquitlam",
+      "province": "BC",
+      "dealer_name": "Lougheed Hyundai"
     },
     {
       "pub_id": "go-kia-west-kndnb5h32p6284606",
@@ -155,6 +206,31 @@
       "city": "Coquitlam",
       "province": "BC",
       "dealer_name": "Go Kia West"
+    },
+    {
+      "pub_id": "murray-kia-abbotsford-kndne5k39s6484150",
+      "year": 2025,
+      "make": "Kia",
+      "model": "Carnival",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 25498,
+      "price_cad": 49446.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "murray-kia-abbotsford",
+      "vin": "KNDNE5K39S6484150",
+      "stock": "2026",
+      "listing_url": "https://www.murraykiaabbotsford.com/vehicles/2025/kia/carnival/abbotsford/bc/71097846/?sale_class=used",
+      "dealer_url": "https://www.murraykiaabbotsford.com/vehicles/2025/kia/carnival/abbotsford/bc/71097846/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T13:19:02",
+      "snapshot": "2026-09-26T13:23:37",
+      "go_url": "https://carwhisper.ca/go/murray-kia-abbotsford-kndne5k39s6484150",
+      "region": "Lower Mainland",
+      "city": "Abbotsford",
+      "province": "BC",
+      "dealer_name": "Murray Kia Abbotsford"
     }
   ]
 }

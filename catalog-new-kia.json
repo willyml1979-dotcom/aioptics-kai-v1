@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T18:55:51+00:00",
+  "generated_at": "2026-09-30T22:02:37+00:00",
   "condition": "new",
   "make": "kia",
   "files": [
@@ -8,7 +8,7 @@
       "make": "kia",
       "model": "K4",
       "shard": "part1",
-      "count": 31,
+      "count": 29,
       "file": "inventory/new-kia-k4-part1.json"
     },
     {
@@ -16,15 +16,23 @@
       "make": "kia",
       "model": "K4",
       "shard": "part2",
-      "count": 30,
+      "count": 29,
       "file": "inventory/new-kia-k4-part2.json"
+    },
+    {
+      "condition": "new",
+      "make": "kia",
+      "model": "K4",
+      "shard": "part3",
+      "count": 28,
+      "file": "inventory/new-kia-k4-part3.json"
     },
     {
       "condition": "new",
       "make": "kia",
       "model": "Seltos",
       "shard": "part1",
-      "count": 38,
+      "count": 37,
       "file": "inventory/new-kia-seltos-part1.json"
     },
     {
@@ -32,7 +40,7 @@
       "make": "kia",
       "model": "Seltos",
       "shard": "part2",
-      "count": 38,
+      "count": 37,
       "file": "inventory/new-kia-seltos-part2.json"
     },
     {
@@ -46,16 +54,17 @@
     {
       "condition": "new",
       "make": "kia",
-      "model": "Niro",
-      "count": 11,
-      "file": "inventory/new-kia-niro.json"
+      "model": "Seltos",
+      "shard": "part4",
+      "count": 35,
+      "file": "inventory/new-kia-seltos-part4.json"
     },
     {
       "condition": "new",
       "make": "kia",
       "model": "Sportage",
       "shard": "part1",
-      "count": 34,
+      "count": 36,
       "file": "inventory/new-kia-sportage-part1.json"
     },
     {
@@ -63,7 +72,7 @@
       "make": "kia",
       "model": "Sportage",
       "shard": "part2",
-      "count": 34,
+      "count": 36,
       "file": "inventory/new-kia-sportage-part2.json"
     },
     {
@@ -71,7 +80,7 @@
       "make": "kia",
       "model": "Sportage",
       "shard": "part3",
-      "count": 34,
+      "count": 36,
       "file": "inventory/new-kia-sportage-part3.json"
     },
     {
@@ -79,7 +88,7 @@
       "make": "kia",
       "model": "Sportage",
       "shard": "part4",
-      "count": 34,
+      "count": 36,
       "file": "inventory/new-kia-sportage-part4.json"
     },
     {
@@ -87,7 +96,7 @@
       "make": "kia",
       "model": "Sportage",
       "shard": "part5",
-      "count": 34,
+      "count": 36,
       "file": "inventory/new-kia-sportage-part5.json"
     },
     {
@@ -95,7 +104,7 @@
       "make": "kia",
       "model": "Sportage",
       "shard": "part6",
-      "count": 34,
+      "count": 36,
       "file": "inventory/new-kia-sportage-part6.json"
     },
     {
@@ -103,15 +112,38 @@
       "make": "kia",
       "model": "Sportage",
       "shard": "part7",
-      "count": 34,
+      "count": 36,
       "file": "inventory/new-kia-sportage-part7.json"
+    },
+    {
+      "condition": "new",
+      "make": "kia",
+      "model": "Sportage",
+      "shard": "part8",
+      "count": 36,
+      "file": "inventory/new-kia-sportage-part8.json"
+    },
+    {
+      "condition": "new",
+      "make": "kia",
+      "model": "Sportage",
+      "shard": "part9",
+      "count": 31,
+      "file": "inventory/new-kia-sportage-part9.json"
+    },
+    {
+      "condition": "new",
+      "make": "kia",
+      "model": "Niro",
+      "count": 14,
+      "file": "inventory/new-kia-niro.json"
     },
     {
       "condition": "new",
       "make": "kia",
       "model": "Niro EV",
       "shard": "part1",
-      "count": 34,
+      "count": 37,
       "file": "inventory/new-kia-niro-ev-part1.json"
     },
     {
@@ -119,7 +151,7 @@
       "make": "kia",
       "model": "Niro EV",
       "shard": "part2",
-      "count": 34,
+      "count": 37,
       "file": "inventory/new-kia-niro-ev-part2.json"
     },
     {
@@ -127,7 +159,7 @@
       "make": "kia",
       "model": "Niro EV",
       "shard": "part3",
-      "count": 34,
+      "count": 37,
       "file": "inventory/new-kia-niro-ev-part3.json"
     },
     {
@@ -135,22 +167,46 @@
       "make": "kia",
       "model": "Niro EV",
       "shard": "part4",
-      "count": 31,
+      "count": 37,
       "file": "inventory/new-kia-niro-ev-part4.json"
     },
     {
       "condition": "new",
       "make": "kia",
+      "model": "Niro EV",
+      "shard": "part5",
+      "count": 35,
+      "file": "inventory/new-kia-niro-ev-part5.json"
+    },
+    {
+      "condition": "new",
+      "make": "kia",
       "model": "EV3",
-      "count": 7,
+      "count": 11,
       "file": "inventory/new-kia-ev3.json"
+    },
+    {
+      "condition": "new",
+      "make": "kia",
+      "model": "Sorento",
+      "shard": "part1",
+      "count": 27,
+      "file": "inventory/new-kia-sorento-part1.json"
+    },
+    {
+      "condition": "new",
+      "make": "kia",
+      "model": "Sorento",
+      "shard": "part2",
+      "count": 27,
+      "file": "inventory/new-kia-sorento-part2.json"
     },
     {
       "condition": "new",
       "make": "kia",
       "model": "Carnival",
       "shard": "part1",
-      "count": 21,
+      "count": 30,
       "file": "inventory/new-kia-carnival-part1.json"
     },
     {
@@ -158,35 +214,28 @@
       "make": "kia",
       "model": "Carnival",
       "shard": "part2",
-      "count": 21,
+      "count": 29,
       "file": "inventory/new-kia-carnival-part2.json"
     },
     {
       "condition": "new",
       "make": "kia",
-      "model": "Sorento",
-      "count": 38,
-      "file": "inventory/new-kia-sorento.json"
-    },
-    {
-      "condition": "new",
-      "make": "kia",
       "model": "EV4",
-      "count": 13,
+      "count": 16,
       "file": "inventory/new-kia-ev4.json"
     },
     {
       "condition": "new",
       "make": "kia",
       "model": "EV5",
-      "count": 19,
+      "count": 24,
       "file": "inventory/new-kia-ev5.json"
     },
     {
       "condition": "new",
       "make": "kia",
       "model": "EV9",
-      "count": 16,
+      "count": 23,
       "file": "inventory/new-kia-ev9.json"
     }
   ]

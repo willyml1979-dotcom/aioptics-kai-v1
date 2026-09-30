@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-09-30T18:55:51+00:00",
+  "generated_at": "2026-09-30T22:02:37+00:00",
   "condition": "used",
   "make": "kia",
   "files": [
     {
       "condition": "used",
       "make": "kia",
+      "model": "Sportage",
+      "count": 35,
+      "file": "inventory/used-kia-sportage.json"
+    },
+    {
+      "condition": "used",
+      "make": "kia",
+      "model": "Forte",
+      "count": 20,
+      "file": "inventory/used-kia-forte.json"
+    },
+    {
+      "condition": "used",
+      "make": "kia",
       "model": "Soul",
-      "count": 6,
+      "count": 8,
       "file": "inventory/used-kia-soul.json"
     },
     {
@@ -20,29 +34,22 @@
     {
       "condition": "used",
       "make": "kia",
-      "model": "Sportage",
-      "count": 16,
-      "file": "inventory/used-kia-sportage.json"
-    },
-    {
-      "condition": "used",
-      "make": "kia",
-      "model": "Forte",
-      "count": 12,
-      "file": "inventory/used-kia-forte.json"
-    },
-    {
-      "condition": "used",
-      "make": "kia",
       "model": "Seltos",
-      "count": 19,
+      "count": 34,
       "file": "inventory/used-kia-seltos.json"
     },
     {
       "condition": "used",
       "make": "kia",
+      "model": "Sorento",
+      "count": 15,
+      "file": "inventory/used-kia-sorento.json"
+    },
+    {
+      "condition": "used",
+      "make": "kia",
       "model": "Rio",
-      "count": 1,
+      "count": 5,
       "file": "inventory/used-kia-rio.json"
     },
     {
@@ -62,9 +69,16 @@
     {
       "condition": "used",
       "make": "kia",
-      "model": "Sorento",
-      "count": 10,
-      "file": "inventory/used-kia-sorento.json"
+      "model": "Niro EV",
+      "count": 6,
+      "file": "inventory/used-kia-niro-ev.json"
+    },
+    {
+      "condition": "used",
+      "make": "kia",
+      "model": "Niro",
+      "count": 9,
+      "file": "inventory/used-kia-niro.json"
     },
     {
       "condition": "used",
@@ -77,56 +91,42 @@
       "condition": "used",
       "make": "kia",
       "model": "K4",
-      "count": 2,
+      "count": 4,
       "file": "inventory/used-kia-k4.json"
     },
     {
       "condition": "used",
       "make": "kia",
       "model": "Telluride",
-      "count": 7,
+      "count": 11,
       "file": "inventory/used-kia-telluride.json"
     },
     {
       "condition": "used",
       "make": "kia",
-      "model": "Niro",
-      "count": 4,
-      "file": "inventory/used-kia-niro.json"
-    },
-    {
-      "condition": "used",
-      "make": "kia",
       "model": "K5",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-kia-k5.json"
     },
     {
       "condition": "used",
       "make": "kia",
-      "model": "Niro EV",
-      "count": 3,
-      "file": "inventory/used-kia-niro-ev.json"
-    },
-    {
-      "condition": "used",
-      "make": "kia",
       "model": "Carnival",
-      "count": 6,
+      "count": 9,
       "file": "inventory/used-kia-carnival.json"
     },
     {
       "condition": "used",
       "make": "kia",
       "model": "EV6",
-      "count": 1,
+      "count": 3,
       "file": "inventory/used-kia-ev6.json"
     },
     {
       "condition": "used",
       "make": "kia",
       "model": "EV9",
-      "count": 1,
+      "count": 3,
       "file": "inventory/used-kia-ev9.json"
     }
   ]

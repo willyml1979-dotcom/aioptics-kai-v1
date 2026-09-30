@@ -1,13 +1,235 @@
 {
-  "generated_at": "2026-09-30T18:55:51+00:00",
+  "generated_at": "2026-09-30T22:02:37+00:00",
   "condition": "used",
   "make": "toyota",
   "files": [
     {
       "condition": "used",
       "make": "toyota",
-      "count": 14,
-      "file": "inventory/used-toyota.json"
+      "model": "RAV4",
+      "shard": "part1",
+      "count": 28,
+      "file": "inventory/used-toyota-rav4-part1.json"
+    },
+    {
+      "condition": "used",
+      "make": "toyota",
+      "model": "RAV4",
+      "shard": "part2",
+      "count": 28,
+      "file": "inventory/used-toyota-rav4-part2.json"
+    },
+    {
+      "condition": "used",
+      "make": "toyota",
+      "model": "RAV4",
+      "shard": "part3",
+      "count": 26,
+      "file": "inventory/used-toyota-rav4-part3.json"
+    },
+    {
+      "condition": "used",
+      "make": "toyota",
+      "model": "Prius",
+      "count": 5,
+      "file": "inventory/used-toyota-prius.json"
+    },
+    {
+      "condition": "used",
+      "make": "toyota",
+      "model": "Camry",
+      "count": 21,
+      "file": "inventory/used-toyota-camry.json"
+    },
+    {
+      "condition": "used",
+      "make": "toyota",
+      "model": "Corolla",
+      "shard": "part1",
+      "count": 25,
+      "file": "inventory/used-toyota-corolla-part1.json"
+    },
+    {
+      "condition": "used",
+      "make": "toyota",
+      "model": "Corolla",
+      "shard": "part2",
+      "count": 25,
+      "file": "inventory/used-toyota-corolla-part2.json"
+    },
+    {
+      "condition": "used",
+      "make": "toyota",
+      "model": "C-HR",
+      "count": 5,
+      "file": "inventory/used-toyota-c-hr.json"
+    },
+    {
+      "condition": "used",
+      "make": "toyota",
+      "model": "FJ Cruiser",
+      "count": 2,
+      "file": "inventory/used-toyota-fj-cruiser.json"
+    },
+    {
+      "condition": "used",
+      "make": "toyota",
+      "model": "bZ4X",
+      "count": 9,
+      "file": "inventory/used-toyota-bz4x.json"
+    },
+    {
+      "condition": "used",
+      "make": "toyota",
+      "model": "Corolla Cross",
+      "count": 6,
+      "file": "inventory/used-toyota-corolla-cross.json"
+    },
+    {
+      "condition": "used",
+      "make": "toyota",
+      "model": "Sienna",
+      "count": 10,
+      "file": "inventory/used-toyota-sienna.json"
+    },
+    {
+      "condition": "used",
+      "make": "toyota",
+      "model": "Highlander",
+      "count": 21,
+      "file": "inventory/used-toyota-highlander.json"
+    },
+    {
+      "condition": "used",
+      "make": "toyota",
+      "model": "GR86",
+      "count": 3,
+      "file": "inventory/used-toyota-gr86.json"
+    },
+    {
+      "condition": "used",
+      "make": "toyota",
+      "model": "Prius Prime",
+      "count": 10,
+      "file": "inventory/used-toyota-prius-prime.json"
+    },
+    {
+      "condition": "used",
+      "make": "toyota",
+      "model": "Tundra",
+      "count": 29,
+      "file": "inventory/used-toyota-tundra.json"
+    },
+    {
+      "condition": "used",
+      "make": "toyota",
+      "model": "Tacoma",
+      "shard": "Lower Mainland",
+      "count": 17,
+      "file": "inventory/used-toyota-tacoma-lower-mainland.json"
+    },
+    {
+      "condition": "used",
+      "make": "toyota",
+      "model": "Tacoma",
+      "shard": "Norte/Cariboo",
+      "count": 3,
+      "file": "inventory/used-toyota-tacoma-norte-cariboo.json"
+    },
+    {
+      "condition": "used",
+      "make": "toyota",
+      "model": "Tacoma",
+      "shard": "Okanagan",
+      "count": 9,
+      "file": "inventory/used-toyota-tacoma-okanagan.json"
+    },
+    {
+      "condition": "used",
+      "make": "toyota",
+      "model": "Tacoma",
+      "shard": "Thompson-Okanagan",
+      "count": 1,
+      "file": "inventory/used-toyota-tacoma-thompson-okanagan.json"
+    },
+    {
+      "condition": "used",
+      "make": "toyota",
+      "model": "Tacoma",
+      "shard": "Vancouver Island",
+      "count": 7,
+      "file": "inventory/used-toyota-tacoma-vancouver-island.json"
+    },
+    {
+      "condition": "used",
+      "make": "toyota",
+      "model": "Tacoma",
+      "shard": "sin-region",
+      "count": 2,
+      "file": "inventory/used-toyota-tacoma-sin-region.json"
+    },
+    {
+      "condition": "used",
+      "make": "toyota",
+      "model": "Venza",
+      "count": 9,
+      "file": "inventory/used-toyota-venza.json"
+    },
+    {
+      "condition": "used",
+      "make": "toyota",
+      "model": "4Runner",
+      "count": 13,
+      "file": "inventory/used-toyota-4runner.json"
+    },
+    {
+      "condition": "used",
+      "make": "toyota",
+      "model": "Grand Highlander",
+      "count": 2,
+      "file": "inventory/used-toyota-grand-highlander.json"
+    },
+    {
+      "condition": "used",
+      "make": "toyota",
+      "model": "Land Cruiser",
+      "count": 1,
+      "file": "inventory/used-toyota-land-cruiser.json"
+    },
+    {
+      "condition": "used",
+      "make": "toyota",
+      "model": "Sequoia",
+      "count": 3,
+      "file": "inventory/used-toyota-sequoia.json"
+    },
+    {
+      "condition": "used",
+      "make": "toyota",
+      "model": "Yaris Hatchback 5-Door",
+      "count": 1,
+      "file": "inventory/used-toyota-yaris-hatchback-5-door.json"
+    },
+    {
+      "condition": "used",
+      "make": "toyota",
+      "model": "Solterra",
+      "count": 2,
+      "file": "inventory/used-toyota-solterra.json"
+    },
+    {
+      "condition": "used",
+      "make": "toyota",
+      "model": "Supra",
+      "count": 2,
+      "file": "inventory/used-toyota-supra.json"
+    },
+    {
+      "condition": "used",
+      "make": "toyota",
+      "model": "Matrix BASE",
+      "count": 1,
+      "file": "inventory/used-toyota-matrix-base.json"
     }
   ]
 }

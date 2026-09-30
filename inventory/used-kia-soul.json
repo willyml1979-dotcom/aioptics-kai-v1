@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-30T18:55:51+00:00",
-  "snapshot": "2026-09-30T18:55:51+00:00",
+  "generated_at": "2026-09-30T22:02:37+00:00",
+  "snapshot": "2026-09-30T22:02:37+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 8,
   "vehicles": [
     {
       "pub_id": "go-kia-west-kndjp3a57e7040568",
@@ -128,6 +128,31 @@
       "dealer_name": "Go Kia West"
     },
     {
+      "pub_id": "richmond-hyundai-kndj23au6l7021335",
+      "year": 2020,
+      "make": "Kia",
+      "model": "Soul",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 88600,
+      "price_cad": 14998.0,
+      "price_note": null,
+      "color": "Grey",
+      "dealer_id": "richmond-hyundai",
+      "vin": "KNDJ23AU6L7021335",
+      "stock": "RUTNA02",
+      "listing_url": "https://www.richmondhyundai.ca/vehicles/2020/kia/soul/richmond/bc/ad12918709/?sale_class=used",
+      "dealer_url": "https://www.richmondhyundai.ca/vehicles/2020/kia/soul/richmond/bc/ad12918709/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T02:15:53",
+      "snapshot": "2026-09-26T02:36:15",
+      "go_url": "https://carwhisper.ca/go/richmond-hyundai-kndj23au6l7021335",
+      "region": "Lower Mainland",
+      "city": "Richmond",
+      "province": "BC",
+      "dealer_name": "Richmond Hyundai"
+    },
+    {
       "pub_id": "go-kia-west-kndj33au4p7874402",
       "year": 2023,
       "make": "Kia",
@@ -151,6 +176,32 @@
       "city": "Coquitlam",
       "province": "BC",
       "dealer_name": "Go Kia West"
+    },
+    {
+      "pub_id": "island-chevrolet-buick-gmc-kndj33au5l7077070",
+      "year": 2020,
+      "make": "Kia",
+      "model": "Soul",
+      "body_type": "hatchback",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 119521,
+      "price_cad": 14888.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "island-chevrolet-buick-gmc",
+      "vin": "KNDJ33AU5L7077070",
+      "stock": "NP21634",
+      "listing_url": "https://www.islandgm.com/vehicles/2020/kia/soul/duncan/bc/70880104/?sale_class=used",
+      "dealer_url": "https://www.islandgm.com/vehicles/2020/kia/soul/duncan/bc/70880104/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T09:15:28",
+      "snapshot": "2026-09-26T09:53:06",
+      "go_url": "https://carwhisper.ca/go/island-chevrolet-buick-gmc-kndj33au5l7077070",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Island Chevrolet Buick GMC"
     }
   ]
 }

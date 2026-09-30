@@ -1,13 +1,281 @@
 {
-  "generated_at": "2026-09-30T18:55:51+00:00",
+  "generated_at": "2026-09-30T22:02:37+00:00",
   "condition": "used",
   "make": "hyundai",
   "files": [
     {
       "condition": "used",
       "make": "hyundai",
+      "model": "Santa Fe Sport",
+      "count": 10,
+      "file": "inventory/used-hyundai-santa-fe-sport.json"
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Santa Fe",
+      "count": 32,
+      "file": "inventory/used-hyundai-santa-fe.json"
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "SONATA",
+      "count": 6,
+      "file": "inventory/used-hyundai-sonata.json"
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Elantra",
+      "shard": "Lower Mainland",
+      "count": 28,
+      "file": "inventory/used-hyundai-elantra-lower-mainland.json"
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Elantra",
+      "shard": "Okanagan",
+      "count": 7,
+      "file": "inventory/used-hyundai-elantra-okanagan.json"
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Elantra",
+      "shard": "Vancouver Island",
+      "count": 4,
+      "file": "inventory/used-hyundai-elantra-vancouver-island.json"
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "ACCENT Sedan",
+      "count": 1,
+      "file": "inventory/used-hyundai-accent-sedan.json"
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "ACCENT Hatchback",
+      "count": 3,
+      "file": "inventory/used-hyundai-accent-hatchback.json"
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Tucson",
+      "shard": "Lower Mainland",
+      "count": 36,
+      "file": "inventory/used-hyundai-tucson-lower-mainland.json"
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Tucson",
+      "shard": "Norte/Cariboo",
+      "count": 4,
+      "file": "inventory/used-hyundai-tucson-norte-cariboo.json"
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Tucson",
+      "shard": "Okanagan",
+      "count": 7,
+      "file": "inventory/used-hyundai-tucson-okanagan.json"
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Tucson",
+      "shard": "Vancouver Island",
+      "count": 5,
+      "file": "inventory/used-hyundai-tucson-vancouver-island.json"
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Tucson",
+      "shard": "sin-region",
+      "count": 1,
+      "file": "inventory/used-hyundai-tucson-sin-region.json"
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "IONIQ Electric",
+      "count": 2,
+      "file": "inventory/used-hyundai-ioniq-electric.json"
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Elantra GT",
+      "count": 1,
+      "file": "inventory/used-hyundai-elantra-gt.json"
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Kona",
+      "count": 32,
+      "file": "inventory/used-hyundai-kona.json"
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Venue",
       "count": 23,
-      "file": "inventory/used-hyundai.json"
+      "file": "inventory/used-hyundai-venue.json"
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Elantra Hybrid",
+      "count": 2,
+      "file": "inventory/used-hyundai-elantra-hybrid.json"
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "IONIQ Plug-In-Hybrid",
+      "count": 1,
+      "file": "inventory/used-hyundai-ioniq-plug-in-hybrid.json"
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Kona Electric",
+      "count": 11,
+      "file": "inventory/used-hyundai-kona-electric.json"
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Palisade",
+      "count": 21,
+      "file": "inventory/used-hyundai-palisade.json"
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Santa Cruz",
+      "count": 6,
+      "file": "inventory/used-hyundai-santa-cruz.json"
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Tucson Hybrid",
+      "count": 10,
+      "file": "inventory/used-hyundai-tucson-hybrid.json"
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Santa Fe Hybrid",
+      "count": 13,
+      "file": "inventory/used-hyundai-santa-fe-hybrid.json"
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Elantra N",
+      "count": 4,
+      "file": "inventory/used-hyundai-elantra-n.json"
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Kona N",
+      "count": 1,
+      "file": "inventory/used-hyundai-kona-n.json"
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "IONIQ 6",
+      "count": 2,
+      "file": "inventory/used-hyundai-ioniq-6.json"
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "IONIQ 5",
+      "count": 3,
+      "file": "inventory/used-hyundai-ioniq-5.json"
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Sonata Hybrid",
+      "count": 2,
+      "file": "inventory/used-hyundai-sonata-hybrid.json"
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Palisade Hybrid",
+      "count": 3,
+      "file": "inventory/used-hyundai-palisade-hybrid.json"
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "IONIQ 9",
+      "count": 1,
+      "file": "inventory/used-hyundai-ioniq-9.json"
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "IONIQ 5 N",
+      "count": 1,
+      "file": "inventory/used-hyundai-ioniq-5-n.json"
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "IONIQ 5 Preferred RWD",
+      "count": 1,
+      "file": "inventory/used-hyundai-ioniq-5-preferred-rwd.json"
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Elantra Preferred",
+      "count": 1,
+      "file": "inventory/used-hyundai-elantra-preferred.json"
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Tucson Preferred",
+      "count": 2,
+      "file": "inventory/used-hyundai-tucson-preferred.json"
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Santa Fe Preferred",
+      "count": 1,
+      "file": "inventory/used-hyundai-santa-fe-preferred.json"
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Santa Fe XL",
+      "count": 1,
+      "file": "inventory/used-hyundai-santa-fe-xl.json"
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Tucson Plug-In Hybrid",
+      "count": 1,
+      "file": "inventory/used-hyundai-tucson-plug-in-hybrid.json"
     }
   ]
 }
