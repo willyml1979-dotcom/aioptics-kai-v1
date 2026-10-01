@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T22:02:37+00:00",
+  "generated_at": "2026-10-01T22:26:47+00:00",
   "condition": "used",
   "make": "lexus",
   "files": [
@@ -7,7 +7,41 @@
       "condition": "used",
       "make": "lexus",
       "count": 29,
-      "file": "inventory/used-lexus.json"
+      "file": "inventory/used-lexus.json",
+      "models": [
+        {
+          "model": "ES",
+          "count": 4
+        },
+        {
+          "model": "GX",
+          "count": 1
+        },
+        {
+          "model": "IS",
+          "count": 2
+        },
+        {
+          "model": "NX",
+          "count": 9
+        },
+        {
+          "model": "NX Hybrid",
+          "count": 1
+        },
+        {
+          "model": "NX NX 200T",
+          "count": 1
+        },
+        {
+          "model": "RX",
+          "count": 6
+        },
+        {
+          "model": "UX",
+          "count": 5
+        }
+      ]
     }
   ]
 }

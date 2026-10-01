@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T22:02:37+00:00",
+  "generated_at": "2026-10-01T22:26:47+00:00",
   "condition": "new",
   "make": "chrysler",
   "files": [
@@ -7,7 +7,21 @@
       "condition": "new",
       "make": "chrysler",
       "count": 16,
-      "file": "inventory/new-chrysler.json"
+      "file": "inventory/new-chrysler.json",
+      "models": [
+        {
+          "model": "GRAND CARAVAN",
+          "count": 6
+        },
+        {
+          "model": "PACIFICA",
+          "count": 5
+        },
+        {
+          "model": "Pacifica",
+          "count": 5
+        }
+      ]
     }
   ]
 }

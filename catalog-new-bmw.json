@@ -1,21 +1,33 @@
 {
-  "generated_at": "2026-09-30T22:02:37+00:00",
+  "generated_at": "2026-10-01T22:26:47+00:00",
   "condition": "new",
   "make": "bmw",
   "files": [
     {
       "condition": "new",
       "make": "bmw",
-      "model": "2 Series Gran Coupe",
+      "model": "2 Series Gran",
       "count": 15,
-      "file": "inventory/new-bmw-2-series-gran-coupe.json"
+      "file": "inventory/new-bmw-2-series-gran.json",
+      "models": [
+        {
+          "model": "2 Series Gran",
+          "count": 15
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "bmw",
       "model": "X2",
       "count": 35,
-      "file": "inventory/new-bmw-x2.json"
+      "file": "inventory/new-bmw-x2.json",
+      "models": [
+        {
+          "model": "X2",
+          "count": 35
+        }
+      ]
     },
     {
       "condition": "new",
@@ -23,7 +35,13 @@
       "model": "X1",
       "shard": "part1",
       "count": 34,
-      "file": "inventory/new-bmw-x1-part1.json"
+      "file": "inventory/new-bmw-x1-part1.json",
+      "models": [
+        {
+          "model": "X1",
+          "count": 34
+        }
+      ]
     },
     {
       "condition": "new",
@@ -31,7 +49,13 @@
       "model": "X1",
       "shard": "part2",
       "count": 34,
-      "file": "inventory/new-bmw-x1-part2.json"
+      "file": "inventory/new-bmw-x1-part2.json",
+      "models": [
+        {
+          "model": "X1",
+          "count": 34
+        }
+      ]
     },
     {
       "condition": "new",
@@ -39,21 +63,39 @@
       "model": "X1",
       "shard": "part3",
       "count": 33,
-      "file": "inventory/new-bmw-x1-part3.json"
+      "file": "inventory/new-bmw-x1-part3.json",
+      "models": [
+        {
+          "model": "X1",
+          "count": 33
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "bmw",
-      "model": "3 Series Sedan",
+      "model": "3 Series",
       "count": 27,
-      "file": "inventory/new-bmw-3-series-sedan.json"
+      "file": "inventory/new-bmw-3-series.json",
+      "models": [
+        {
+          "model": "3 Series",
+          "count": 27
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "bmw",
-      "model": "2 Series Coupe",
+      "model": "2 Series",
       "count": 5,
-      "file": "inventory/new-bmw-2-series-coupe.json"
+      "file": "inventory/new-bmw-2-series.json",
+      "models": [
+        {
+          "model": "2 Series",
+          "count": 5
+        }
+      ]
     },
     {
       "condition": "new",
@@ -61,7 +103,13 @@
       "model": "X3",
       "shard": "part1",
       "count": 25,
-      "file": "inventory/new-bmw-x3-part1.json"
+      "file": "inventory/new-bmw-x3-part1.json",
+      "models": [
+        {
+          "model": "X3",
+          "count": 25
+        }
+      ]
     },
     {
       "condition": "new",
@@ -69,21 +117,39 @@
       "model": "X3",
       "shard": "part2",
       "count": 25,
-      "file": "inventory/new-bmw-x3-part2.json"
+      "file": "inventory/new-bmw-x3-part2.json",
+      "models": [
+        {
+          "model": "X3",
+          "count": 25
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "bmw",
-      "model": "4 Series Gran Coupe",
+      "model": "4 Series Gran",
       "count": 16,
-      "file": "inventory/new-bmw-4-series-gran-coupe.json"
+      "file": "inventory/new-bmw-4-series-gran.json",
+      "models": [
+        {
+          "model": "4 Series Gran",
+          "count": 16
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "bmw",
-      "model": "4 Series Coupe",
+      "model": "4 Series",
       "count": 6,
-      "file": "inventory/new-bmw-4-series-coupe.json"
+      "file": "inventory/new-bmw-4-series.json",
+      "models": [
+        {
+          "model": "4 Series",
+          "count": 6
+        }
+      ]
     },
     {
       "condition": "new",
@@ -91,7 +157,13 @@
       "model": "i4",
       "shard": "part1",
       "count": 32,
-      "file": "inventory/new-bmw-i4-part1.json"
+      "file": "inventory/new-bmw-i4-part1.json",
+      "models": [
+        {
+          "model": "i4",
+          "count": 32
+        }
+      ]
     },
     {
       "condition": "new",
@@ -99,133 +171,247 @@
       "model": "i4",
       "shard": "part2",
       "count": 31,
-      "file": "inventory/new-bmw-i4-part2.json"
+      "file": "inventory/new-bmw-i4-part2.json",
+      "models": [
+        {
+          "model": "i4",
+          "count": 31
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "bmw",
       "model": "4 Series Convertible",
       "count": 1,
-      "file": "inventory/new-bmw-4-series-convertible.json"
+      "file": "inventory/new-bmw-4-series-convertible.json",
+      "models": [
+        {
+          "model": "4 Series Convertible",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "bmw",
-      "model": "5 Series Sedan",
+      "model": "5 Series",
       "count": 5,
-      "file": "inventory/new-bmw-5-series-sedan.json"
+      "file": "inventory/new-bmw-5-series.json",
+      "models": [
+        {
+          "model": "5 Series",
+          "count": 5
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "bmw",
-      "model": "i5 Sedan",
+      "model": "i5",
       "count": 3,
-      "file": "inventory/new-bmw-i5-sedan.json"
+      "file": "inventory/new-bmw-i5.json",
+      "models": [
+        {
+          "model": "i5",
+          "count": 3
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "bmw",
       "model": "M2",
       "count": 3,
-      "file": "inventory/new-bmw-m2.json"
+      "file": "inventory/new-bmw-m2.json",
+      "models": [
+        {
+          "model": "M2",
+          "count": 3
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "bmw",
       "model": "X5",
       "count": 6,
-      "file": "inventory/new-bmw-x5.json"
+      "file": "inventory/new-bmw-x5.json",
+      "models": [
+        {
+          "model": "X5",
+          "count": 6
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "bmw",
       "model": "iX",
       "count": 13,
-      "file": "inventory/new-bmw-ix.json"
+      "file": "inventory/new-bmw-ix.json",
+      "models": [
+        {
+          "model": "iX",
+          "count": 13
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "bmw",
       "model": "X6",
       "count": 9,
-      "file": "inventory/new-bmw-x6.json"
+      "file": "inventory/new-bmw-x6.json",
+      "models": [
+        {
+          "model": "X6",
+          "count": 9
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "bmw",
       "model": "8 Series Convertible",
       "count": 1,
-      "file": "inventory/new-bmw-8-series-convertible.json"
+      "file": "inventory/new-bmw-8-series-convertible.json",
+      "models": [
+        {
+          "model": "8 Series Convertible",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "bmw",
       "model": "M4 Convertible",
       "count": 2,
-      "file": "inventory/new-bmw-m4-convertible.json"
+      "file": "inventory/new-bmw-m4-convertible.json",
+      "models": [
+        {
+          "model": "M4 Convertible",
+          "count": 2
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "bmw",
-      "model": "M3 Sedan",
+      "model": "M3",
       "count": 1,
-      "file": "inventory/new-bmw-m3-sedan.json"
+      "file": "inventory/new-bmw-m3.json",
+      "models": [
+        {
+          "model": "M3",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "bmw",
       "model": "X7",
       "count": 9,
-      "file": "inventory/new-bmw-x7.json"
+      "file": "inventory/new-bmw-x7.json",
+      "models": [
+        {
+          "model": "X7",
+          "count": 9
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "bmw",
-      "model": "M4 Coupe",
+      "model": "M4",
       "count": 1,
-      "file": "inventory/new-bmw-m4-coupe.json"
+      "file": "inventory/new-bmw-m4.json",
+      "models": [
+        {
+          "model": "M4",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "bmw",
-      "model": "M5 Sedan",
+      "model": "M5",
       "count": 3,
-      "file": "inventory/new-bmw-m5-sedan.json"
+      "file": "inventory/new-bmw-m5.json",
+      "models": [
+        {
+          "model": "M5",
+          "count": 3
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "bmw",
       "model": "X5 M",
       "count": 6,
-      "file": "inventory/new-bmw-x5-m.json"
+      "file": "inventory/new-bmw-x5-m.json",
+      "models": [
+        {
+          "model": "X5 M",
+          "count": 6
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "bmw",
       "model": "M5 Touring",
       "count": 4,
-      "file": "inventory/new-bmw-m5-touring.json"
+      "file": "inventory/new-bmw-m5-touring.json",
+      "models": [
+        {
+          "model": "M5 Touring",
+          "count": 4
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "bmw",
       "model": "X6 M",
       "count": 3,
-      "file": "inventory/new-bmw-x6-m.json"
+      "file": "inventory/new-bmw-x6-m.json",
+      "models": [
+        {
+          "model": "X6 M",
+          "count": 3
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "bmw",
       "model": "7 Series",
       "count": 2,
-      "file": "inventory/new-bmw-7-series.json"
+      "file": "inventory/new-bmw-7-series.json",
+      "models": [
+        {
+          "model": "7 Series",
+          "count": 2
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "bmw",
       "model": "i7",
       "count": 1,
-      "file": "inventory/new-bmw-i7.json"
+      "file": "inventory/new-bmw-i7.json",
+      "models": [
+        {
+          "model": "i7",
+          "count": 1
+        }
+      ]
     }
   ]
 }

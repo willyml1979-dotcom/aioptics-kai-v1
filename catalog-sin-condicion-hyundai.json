@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T22:02:37+00:00",
+  "generated_at": "2026-10-01T22:26:47+00:00",
   "condition": "sin-condicion",
   "make": "hyundai",
   "files": [
@@ -7,7 +7,13 @@
       "condition": "sin-condicion",
       "make": "hyundai",
       "count": 1,
-      "file": "inventory/sin-condicion-hyundai.json"
+      "file": "inventory/sin-condicion-hyundai.json",
+      "models": [
+        {
+          "model": "Tucson Preferred AWD",
+          "count": 1
+        }
+      ]
     }
   ]
 }

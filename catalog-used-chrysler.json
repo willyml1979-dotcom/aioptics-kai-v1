@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T22:02:37+00:00",
+  "generated_at": "2026-10-01T22:26:47+00:00",
   "condition": "used",
   "make": "chrysler",
   "files": [
@@ -7,7 +7,37 @@
       "condition": "used",
       "make": "chrysler",
       "count": 27,
-      "file": "inventory/used-chrysler.json"
+      "file": "inventory/used-chrysler.json",
+      "models": [
+        {
+          "model": "200",
+          "count": 2
+        },
+        {
+          "model": "300",
+          "count": 4
+        },
+        {
+          "model": "GRAND CARAVAN",
+          "count": 1
+        },
+        {
+          "model": "GRAND CARAVANSXT 2WD",
+          "count": 1
+        },
+        {
+          "model": "Grand Caravan",
+          "count": 2
+        },
+        {
+          "model": "PACIFICA",
+          "count": 1
+        },
+        {
+          "model": "Pacifica",
+          "count": 16
+        }
+      ]
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T22:02:37+00:00",
+  "generated_at": "2026-10-01T22:26:47+00:00",
   "condition": "used",
   "make": "mini",
   "files": [
@@ -7,7 +7,25 @@
       "condition": "used",
       "make": "mini",
       "count": 6,
-      "file": "inventory/used-mini.json"
+      "file": "inventory/used-mini.json",
+      "models": [
+        {
+          "model": "3 Door",
+          "count": 2
+        },
+        {
+          "model": "Countryman",
+          "count": 2
+        },
+        {
+          "model": "Countryman Cooper",
+          "count": 1
+        },
+        {
+          "model": "Countryman Cooper 5-Door",
+          "count": 1
+        }
+      ]
     }
   ]
 }

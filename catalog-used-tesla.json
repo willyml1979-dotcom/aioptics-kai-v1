@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T22:02:37+00:00",
+  "generated_at": "2026-10-01T22:26:47+00:00",
   "condition": "used",
   "make": "tesla",
   "files": [
@@ -7,7 +7,29 @@
       "condition": "used",
       "make": "tesla",
       "count": 38,
-      "file": "inventory/used-tesla.json"
+      "file": "inventory/used-tesla.json",
+      "models": [
+        {
+          "model": "Model 3",
+          "count": 20
+        },
+        {
+          "model": "Model S",
+          "count": 1
+        },
+        {
+          "model": "Model X",
+          "count": 2
+        },
+        {
+          "model": "Model Y",
+          "count": 14
+        },
+        {
+          "model": "Model Y Performance",
+          "count": 1
+        }
+      ]
     }
   ]
 }

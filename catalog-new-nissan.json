@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T22:02:37+00:00",
+  "generated_at": "2026-10-01T22:26:47+00:00",
   "condition": "new",
   "make": "nissan",
   "files": [
@@ -9,7 +9,13 @@
       "model": "Kicks",
       "shard": "part1",
       "count": 22,
-      "file": "inventory/new-nissan-kicks-part1.json"
+      "file": "inventory/new-nissan-kicks-part1.json",
+      "models": [
+        {
+          "model": "Kicks",
+          "count": 22
+        }
+      ]
     },
     {
       "condition": "new",
@@ -17,14 +23,26 @@
       "model": "Kicks",
       "shard": "part2",
       "count": 22,
-      "file": "inventory/new-nissan-kicks-part2.json"
+      "file": "inventory/new-nissan-kicks-part2.json",
+      "models": [
+        {
+          "model": "Kicks",
+          "count": 22
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "nissan",
-      "model": "Sentra Sedan",
+      "model": "Sentra",
       "count": 7,
-      "file": "inventory/new-nissan-sentra-sedan.json"
+      "file": "inventory/new-nissan-sentra.json",
+      "models": [
+        {
+          "model": "Sentra",
+          "count": 7
+        }
+      ]
     },
     {
       "condition": "new",
@@ -32,7 +50,13 @@
       "model": "Rogue",
       "shard": "part1",
       "count": 38,
-      "file": "inventory/new-nissan-rogue-part1.json"
+      "file": "inventory/new-nissan-rogue-part1.json",
+      "models": [
+        {
+          "model": "Rogue",
+          "count": 38
+        }
+      ]
     },
     {
       "condition": "new",
@@ -40,49 +64,91 @@
       "model": "Rogue",
       "shard": "part2",
       "count": 37,
-      "file": "inventory/new-nissan-rogue-part2.json"
+      "file": "inventory/new-nissan-rogue-part2.json",
+      "models": [
+        {
+          "model": "Rogue",
+          "count": 37
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "nissan",
       "model": "Leaf",
       "count": 25,
-      "file": "inventory/new-nissan-leaf.json"
+      "file": "inventory/new-nissan-leaf.json",
+      "models": [
+        {
+          "model": "Leaf",
+          "count": 25
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "nissan",
       "model": "Rogue Plug-In Hybrid",
       "count": 4,
-      "file": "inventory/new-nissan-rogue-plug-in-hybrid.json"
+      "file": "inventory/new-nissan-rogue-plug-in-hybrid.json",
+      "models": [
+        {
+          "model": "Rogue Plug-In Hybrid",
+          "count": 4
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "nissan",
       "model": "Murano",
       "count": 4,
-      "file": "inventory/new-nissan-murano.json"
+      "file": "inventory/new-nissan-murano.json",
+      "models": [
+        {
+          "model": "Murano",
+          "count": 4
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "nissan",
       "model": "Frontier Crew Cab",
       "count": 3,
-      "file": "inventory/new-nissan-frontier-crew-cab.json"
+      "file": "inventory/new-nissan-frontier-crew-cab.json",
+      "models": [
+        {
+          "model": "Frontier Crew Cab",
+          "count": 3
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "nissan",
       "model": "Pathfinder",
       "count": 4,
-      "file": "inventory/new-nissan-pathfinder.json"
+      "file": "inventory/new-nissan-pathfinder.json",
+      "models": [
+        {
+          "model": "Pathfinder",
+          "count": 4
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "nissan",
       "model": "Armada",
       "count": 1,
-      "file": "inventory/new-nissan-armada.json"
+      "file": "inventory/new-nissan-armada.json",
+      "models": [
+        {
+          "model": "Armada",
+          "count": 1
+        }
+      ]
     }
   ]
 }

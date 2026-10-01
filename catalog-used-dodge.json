@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T22:02:37+00:00",
+  "generated_at": "2026-10-01T22:26:47+00:00",
   "condition": "used",
   "make": "dodge",
   "files": [
@@ -8,70 +8,142 @@
       "make": "dodge",
       "model": "GRAND CARAVAN",
       "count": 5,
-      "file": "inventory/used-dodge-grand-caravan.json"
+      "file": "inventory/used-dodge-grand-caravan.json",
+      "models": [
+        {
+          "model": "GRAND CARAVAN",
+          "count": 4
+        },
+        {
+          "model": "Grand Caravan",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "dodge",
       "model": "DURANGO",
       "count": 13,
-      "file": "inventory/used-dodge-durango.json"
+      "file": "inventory/used-dodge-durango.json",
+      "models": [
+        {
+          "model": "DURANGO",
+          "count": 6
+        },
+        {
+          "model": "Durango",
+          "count": 7
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "dodge",
-      "model": "Grand Caravan Passenger Van",
+      "model": "Grand Caravan Passenger",
       "count": 4,
-      "file": "inventory/used-dodge-grand-caravan-passenger-van.json"
+      "file": "inventory/used-dodge-grand-caravan-passenger.json",
+      "models": [
+        {
+          "model": "Grand Caravan Passenger",
+          "count": 4
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "dodge",
       "model": "Charger",
       "count": 2,
-      "file": "inventory/used-dodge-charger.json"
+      "file": "inventory/used-dodge-charger.json",
+      "models": [
+        {
+          "model": "Charger",
+          "count": 2
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "dodge",
       "model": "Challenger",
       "count": 5,
-      "file": "inventory/used-dodge-challenger.json"
+      "file": "inventory/used-dodge-challenger.json",
+      "models": [
+        {
+          "model": "Challenger",
+          "count": 5
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "dodge",
       "model": "Hornet",
       "count": 5,
-      "file": "inventory/used-dodge-hornet.json"
+      "file": "inventory/used-dodge-hornet.json",
+      "models": [
+        {
+          "model": "HORNET",
+          "count": 3
+        },
+        {
+          "model": "Hornet",
+          "count": 2
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "dodge",
       "model": "CALIBER",
       "count": 1,
-      "file": "inventory/used-dodge-caliber.json"
+      "file": "inventory/used-dodge-caliber.json",
+      "models": [
+        {
+          "model": "CALIBER",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "dodge",
       "model": "Avenger",
       "count": 1,
-      "file": "inventory/used-dodge-avenger.json"
+      "file": "inventory/used-dodge-avenger.json",
+      "models": [
+        {
+          "model": "Avenger",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "dodge",
       "model": "RAM Crew Cab",
       "count": 1,
-      "file": "inventory/used-dodge-ram-crew-cab.json"
+      "file": "inventory/used-dodge-ram-crew-cab.json",
+      "models": [
+        {
+          "model": "RAM Crew Cab",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "dodge",
       "model": "Grand Caravan Passenger Van SE",
       "count": 1,
-      "file": "inventory/used-dodge-grand-caravan-passenger-van-se.json"
+      "file": "inventory/used-dodge-grand-caravan-passenger-van-se.json",
+      "models": [
+        {
+          "model": "Grand Caravan Passenger Van SE",
+          "count": 1
+        }
+      ]
     }
   ]
 }

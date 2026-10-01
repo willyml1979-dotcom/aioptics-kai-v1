@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T22:02:37+00:00",
+  "generated_at": "2026-10-01T22:26:47+00:00",
   "condition": "used",
   "make": "mercedes-benz",
   "files": [
@@ -8,602 +8,1057 @@
       "make": "mercedes-benz",
       "model": "M-Class",
       "count": 2,
-      "file": "inventory/used-mercedes-benz-m-class.json"
+      "file": "inventory/used-mercedes-benz-m-class.json",
+      "models": [
+        {
+          "model": "M-Class",
+          "count": 2
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLK-Class",
       "count": 3,
-      "file": "inventory/used-mercedes-benz-glk-class.json"
+      "file": "inventory/used-mercedes-benz-glk-class.json",
+      "models": [
+        {
+          "model": "GLK-Class",
+          "count": 3
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "B-Class",
       "count": 2,
-      "file": "inventory/used-mercedes-benz-b-class.json"
+      "file": "inventory/used-mercedes-benz-b-class.json",
+      "models": [
+        {
+          "model": "B-Class",
+          "count": 2
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
-      "model": "E-Class Sedan",
+      "model": "E-Class",
       "count": 2,
-      "file": "inventory/used-mercedes-benz-e-class-sedan.json"
+      "file": "inventory/used-mercedes-benz-e-class.json",
+      "models": [
+        {
+          "model": "E-Class",
+          "count": 2
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
-      "model": "CLA Sedan",
-      "count": 1,
-      "file": "inventory/used-mercedes-benz-cla-sedan.json"
+      "model": "CLA",
+      "count": 2,
+      "file": "inventory/used-mercedes-benz-cla.json",
+      "models": [
+        {
+          "model": "CLA",
+          "count": 2
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLA",
       "count": 6,
-      "file": "inventory/used-mercedes-benz-gla.json"
+      "file": "inventory/used-mercedes-benz-gla.json",
+      "models": [
+        {
+          "model": "GLA",
+          "count": 6
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLC",
-      "count": 5,
-      "file": "inventory/used-mercedes-benz-glc.json"
+      "count": 6,
+      "file": "inventory/used-mercedes-benz-glc.json",
+      "models": [
+        {
+          "model": "GLC",
+          "count": 6
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLE",
-      "count": 6,
-      "file": "inventory/used-mercedes-benz-gle.json"
+      "count": 7,
+      "file": "inventory/used-mercedes-benz-gle.json",
+      "models": [
+        {
+          "model": "GLE",
+          "count": 7
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLB",
       "count": 2,
-      "file": "inventory/used-mercedes-benz-glb.json"
+      "file": "inventory/used-mercedes-benz-glb.json",
+      "models": [
+        {
+          "model": "GLB",
+          "count": 2
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
-      "model": "C-Class Sedan",
-      "count": 4,
-      "file": "inventory/used-mercedes-benz-c-class-sedan.json"
+      "model": "C-Class",
+      "count": 5,
+      "file": "inventory/used-mercedes-benz-c-class.json",
+      "models": [
+        {
+          "model": "C-Class",
+          "count": 5
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "S-Class",
-      "count": 1,
-      "file": "inventory/used-mercedes-benz-s-class.json"
+      "count": 2,
+      "file": "inventory/used-mercedes-benz-s-class.json",
+      "models": [
+        {
+          "model": "S-Class",
+          "count": 2
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
-      "model": "Sprinter Cargo Van",
+      "model": "Sprinter Cargo",
       "count": 3,
-      "file": "inventory/used-mercedes-benz-sprinter-cargo-van.json"
+      "file": "inventory/used-mercedes-benz-sprinter-cargo.json",
+      "models": [
+        {
+          "model": "Sprinter Cargo",
+          "count": 3
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLS",
       "count": 3,
-      "file": "inventory/used-mercedes-benz-gls.json"
+      "file": "inventory/used-mercedes-benz-gls.json",
+      "models": [
+        {
+          "model": "GLS",
+          "count": 3
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
-      "model": "Sprinter Passenger Van",
+      "model": "Sprinter Passenger",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-sprinter-passenger-van.json"
+      "file": "inventory/used-mercedes-benz-sprinter-passenger.json",
+      "models": [
+        {
+          "model": "Sprinter Passenger",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
-      "model": "EQE SUV",
+      "model": "EQE",
       "count": 2,
-      "file": "inventory/used-mercedes-benz-eqe-suv.json"
-    },
-    {
-      "condition": "used",
-      "make": "mercedes-benz",
-      "model": "GLE Coupe",
-      "count": 1,
-      "file": "inventory/used-mercedes-benz-gle-coupe.json"
-    },
-    {
-      "condition": "used",
-      "make": "mercedes-benz",
-      "model": "S-Class Coupe",
-      "count": 1,
-      "file": "inventory/used-mercedes-benz-s-class-coupe.json"
+      "file": "inventory/used-mercedes-benz-eqe.json",
+      "models": [
+        {
+          "model": "EQE",
+          "count": 2
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "CLE Convertible",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-cle-convertible.json"
+      "file": "inventory/used-mercedes-benz-cle-convertible.json",
+      "models": [
+        {
+          "model": "CLE Convertible",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "G-Class",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-g-class.json"
-    },
-    {
-      "condition": "used",
-      "make": "mercedes-benz",
-      "model": "C-Class Coupe",
-      "count": 1,
-      "file": "inventory/used-mercedes-benz-c-class-coupe.json"
+      "file": "inventory/used-mercedes-benz-g-class.json",
+      "models": [
+        {
+          "model": "G-Class",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "C-Class C 300",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-c-class-c-300.json"
+      "file": "inventory/used-mercedes-benz-c-class-c-300.json",
+      "models": [
+        {
+          "model": "C-Class C 300",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "A-Class Sedan A 220 4MATIC Sedan",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-a-class-sedan-a-220-4matic-sedan.json"
+      "file": "inventory/used-mercedes-benz-a-class-sedan-a-220-4matic-sedan.json",
+      "models": [
+        {
+          "model": "A-Class Sedan A 220 4MATIC Sedan",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLB 250 4MATIC SUVin Kelowna",
       "count": 2,
-      "file": "inventory/used-mercedes-benz-glb-250-4matic-suvin-kelowna.json"
+      "file": "inventory/used-mercedes-benz-glb-250-4matic-suvin-kelowna.json",
+      "models": [
+        {
+          "model": "GLB 250 4MATIC SUVin Kelowna",
+          "count": 2
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "AMG GLC 43 4MATIC SUVin Kelowna",
       "count": 3,
-      "file": "inventory/used-mercedes-benz-amg-glc-43-4matic-suvin-kelowna.json"
+      "file": "inventory/used-mercedes-benz-amg-glc-43-4matic-suvin-kelowna.json",
+      "models": [
+        {
+          "model": "AMG GLC 43 4MATIC SUVin Kelowna",
+          "count": 2
+        },
+        {
+          "model": "AMG GLC 43 4MATIC+ SUVin Kelowna",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "C 300 4MATIC Coupein Kelowna",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-c-300-4matic-coupein-kelowna.json"
+      "file": "inventory/used-mercedes-benz-c-300-4matic-coupein-kelowna.json",
+      "models": [
+        {
+          "model": "C 300 4MATIC Coupein Kelowna",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLC 300 4MATIC SUVin Kelowna",
       "count": 2,
-      "file": "inventory/used-mercedes-benz-glc-300-4matic-suvin-kelowna.json"
+      "file": "inventory/used-mercedes-benz-glc-300-4matic-suvin-kelowna.json",
+      "models": [
+        {
+          "model": "GLC 300 4MATIC SUVin Kelowna",
+          "count": 2
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "E 350 4MATIC Sedanin Kelowna",
       "count": 2,
-      "file": "inventory/used-mercedes-benz-e-350-4matic-sedanin-kelowna.json"
+      "file": "inventory/used-mercedes-benz-e-350-4matic-sedanin-kelowna.json",
+      "models": [
+        {
+          "model": "E 350 4MATIC Sedanin Kelowna",
+          "count": 2
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "AMG C 43 4MATIC Sedanin Kelowna",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-amg-c-43-4matic-sedanin-kelowna.json"
+      "file": "inventory/used-mercedes-benz-amg-c-43-4matic-sedanin-kelowna.json",
+      "models": [
+        {
+          "model": "AMG C 43 4MATIC Sedanin Kelowna",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "AMG GLB 35 4MATIC SUVin Kelowna",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-amg-glb-35-4matic-suvin-kelowna.json"
+      "file": "inventory/used-mercedes-benz-amg-glb-35-4matic-suvin-kelowna.json",
+      "models": [
+        {
+          "model": "AMG GLB 35 4MATIC SUVin Kelowna",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLA 250 4MATIC SUVin Kelowna",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-gla-250-4matic-suvin-kelowna.json"
+      "file": "inventory/used-mercedes-benz-gla-250-4matic-suvin-kelowna.json",
+      "models": [
+        {
+          "model": "GLA 250 4MATIC SUVin Kelowna",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "C 300 4MATIC Sedanin Kelowna",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-c-300-4matic-sedanin-kelowna.json"
+      "file": "inventory/used-mercedes-benz-c-300-4matic-sedanin-kelowna.json",
+      "models": [
+        {
+          "model": "C 300 4MATIC Sedanin Kelowna",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "AMG GLC 43 4MATIC Coupein Kelowna",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-amg-glc-43-4matic-coupein-kelowna.json"
+      "file": "inventory/used-mercedes-benz-amg-glc-43-4matic-coupein-kelowna.json",
+      "models": [
+        {
+          "model": "AMG GLC 43 4MATIC Coupein Kelowna",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLE 450 4MATIC SUVin Kelowna",
       "count": 4,
-      "file": "inventory/used-mercedes-benz-gle-450-4matic-suvin-kelowna.json"
+      "file": "inventory/used-mercedes-benz-gle-450-4matic-suvin-kelowna.json",
+      "models": [
+        {
+          "model": "GLE 450 4MATIC SUVin Kelowna",
+          "count": 4
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "CLA 250 4MATIC Coupein Kelowna",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-cla-250-4matic-coupein-kelowna.json"
+      "file": "inventory/used-mercedes-benz-cla-250-4matic-coupein-kelowna.json",
+      "models": [
+        {
+          "model": "CLA 250 4MATIC Coupein Kelowna",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLS 450 4MATIC SUVin Kelowna",
       "count": 2,
-      "file": "inventory/used-mercedes-benz-gls-450-4matic-suvin-kelowna.json"
+      "file": "inventory/used-mercedes-benz-gls-450-4matic-suvin-kelowna.json",
+      "models": [
+        {
+          "model": "GLS 450 4MATIC SUVin Kelowna",
+          "count": 2
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLE 450 4MATIC Coupein Kelowna",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-gle-450-4matic-coupein-kelowna.json"
+      "file": "inventory/used-mercedes-benz-gle-450-4matic-coupein-kelowna.json",
+      "models": [
+        {
+          "model": "GLE 450 4MATIC Coupein Kelowna",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLE 350 4MATIC SUVin Kelowna",
       "count": 2,
-      "file": "inventory/used-mercedes-benz-gle-350-4matic-suvin-kelowna.json"
+      "file": "inventory/used-mercedes-benz-gle-350-4matic-suvin-kelowna.json",
+      "models": [
+        {
+          "model": "GLE 350 4MATIC SUVin Kelowna",
+          "count": 2
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "AMG GLE 53 4MATIC+ Coupein Kelowna",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-amg-gle-53-4matic-coupein-kelowna.json"
+      "file": "inventory/used-mercedes-benz-amg-gle-53-4matic-coupein-kelowna.json",
+      "models": [
+        {
+          "model": "AMG GLE 53 4MATIC+ Coupein Kelowna",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "AMG GLE 63 S 4MATIC+ SUVin Kelowna",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-amg-gle-63-s-4matic-suvin-kelowna.json"
+      "file": "inventory/used-mercedes-benz-amg-gle-63-s-4matic-suvin-kelowna.json",
+      "models": [
+        {
+          "model": "AMG GLE 63 S 4MATIC+ SUVin Kelowna",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
-      "model": "C300 4MATIC Sedan",
+      "model": "C300 4MATIC",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-c300-4matic-sedan.json"
+      "file": "inventory/used-mercedes-benz-c300-4matic.json",
+      "models": [
+        {
+          "model": "C300 4MATIC",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
-      "model": "CLA250 4MATIC Coupe",
+      "model": "CLA250 4MATIC",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-cla250-4matic-coupe.json"
+      "file": "inventory/used-mercedes-benz-cla250-4matic.json",
+      "models": [
+        {
+          "model": "CLA250 4MATIC",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
-      "model": "GLA250 4MATIC SUV",
+      "model": "GLA250 4MATIC",
       "count": 2,
-      "file": "inventory/used-mercedes-benz-gla250-4matic-suv.json"
+      "file": "inventory/used-mercedes-benz-gla250-4matic.json",
+      "models": [
+        {
+          "model": "GLA250 4MATIC",
+          "count": 2
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
-      "model": "GLA250 SUV",
+      "model": "GLA250",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-gla250-suv.json"
+      "file": "inventory/used-mercedes-benz-gla250.json",
+      "models": [
+        {
+          "model": "GLA250",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
-      "model": "GLC300 4MATIC SUV",
+      "model": "GLC300 4MATIC",
       "count": 3,
-      "file": "inventory/used-mercedes-benz-glc300-4matic-suv.json"
+      "file": "inventory/used-mercedes-benz-glc300-4matic.json",
+      "models": [
+        {
+          "model": "GLC300 4MATIC",
+          "count": 3
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
-      "model": "GLC350e 4MATIC SUV",
+      "model": "GLC350e 4MATIC",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-glc350e-4matic-suv.json"
+      "file": "inventory/used-mercedes-benz-glc350e-4matic.json",
+      "models": [
+        {
+          "model": "GLC350e 4MATIC",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
-      "model": "GLE350 4MATIC SUV",
+      "model": "GLE350 4MATIC",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-gle350-4matic-suv.json"
+      "file": "inventory/used-mercedes-benz-gle350-4matic.json",
+      "models": [
+        {
+          "model": "GLE350 4MATIC",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
-      "model": "GLE450e 4MATIC SUV",
+      "model": "GLE450e 4MATIC",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-gle450e-4matic-suv.json"
+      "file": "inventory/used-mercedes-benz-gle450e-4matic.json",
+      "models": [
+        {
+          "model": "GLE450e 4MATIC",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
-      "model": "GLE53 4MATIC+ Coupe",
+      "model": "GLE53 4MATIC+",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-gle53-4matic-coupe.json"
+      "file": "inventory/used-mercedes-benz-gle53-4matic.json",
+      "models": [
+        {
+          "model": "GLE53 4MATIC+",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "C 300 4matic Sedanin Nanaimo",
       "count": 2,
-      "file": "inventory/used-mercedes-benz-c-300-4matic-sedanin-nanaimo.json"
+      "file": "inventory/used-mercedes-benz-c-300-4matic-sedanin-nanaimo.json",
+      "models": [
+        {
+          "model": "C 300 4matic Sedanin Nanaimo",
+          "count": 2
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLA 250 4matic Suvin Nanaimo",
       "count": 3,
-      "file": "inventory/used-mercedes-benz-gla-250-4matic-suvin-nanaimo.json"
+      "file": "inventory/used-mercedes-benz-gla-250-4matic-suvin-nanaimo.json",
+      "models": [
+        {
+          "model": "GLA 250 4matic Suvin Nanaimo",
+          "count": 3
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "C 300 4matic Sedanin Victoria",
       "count": 2,
-      "file": "inventory/used-mercedes-benz-c-300-4matic-sedanin-victoria.json"
+      "file": "inventory/used-mercedes-benz-c-300-4matic-sedanin-victoria.json",
+      "models": [
+        {
+          "model": "C 300 4matic Sedanin Victoria",
+          "count": 2
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLC 300 4matic Suvin Nanaimo",
       "count": 3,
-      "file": "inventory/used-mercedes-benz-glc-300-4matic-suvin-nanaimo.json"
+      "file": "inventory/used-mercedes-benz-glc-300-4matic-suvin-nanaimo.json",
+      "models": [
+        {
+          "model": "GLC 300 4matic Suvin Nanaimo",
+          "count": 3
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
-      "model": "GLC 300 4matic Suv",
+      "model": "GLC 300 4matic",
       "count": 3,
-      "file": "inventory/used-mercedes-benz-glc-300-4matic-suv.json"
+      "file": "inventory/used-mercedes-benz-glc-300-4matic.json",
+      "models": [
+        {
+          "model": "GLC 300 4matic",
+          "count": 3
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLE 400 4matic Suvin Nanaimo",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-gle-400-4matic-suvin-nanaimo.json"
+      "file": "inventory/used-mercedes-benz-gle-400-4matic-suvin-nanaimo.json",
+      "models": [
+        {
+          "model": "GLE 400 4matic Suvin Nanaimo",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLB 250 4matic Suvin Nanaimo",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-glb-250-4matic-suvin-nanaimo.json"
+      "file": "inventory/used-mercedes-benz-glb-250-4matic-suvin-nanaimo.json",
+      "models": [
+        {
+          "model": "GLB 250 4matic Suvin Nanaimo",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLB 250 4matic Suv Awdin Victoria",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-glb-250-4matic-suv-awdin-victoria.json"
+      "file": "inventory/used-mercedes-benz-glb-250-4matic-suv-awdin-victoria.json",
+      "models": [
+        {
+          "model": "GLB 250 4matic Suv Awdin Victoria",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLB 35 AMG 4matic Suvin Nanaimo",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-glb-35-amg-4matic-suvin-nanaimo.json"
+      "file": "inventory/used-mercedes-benz-glb-35-amg-4matic-suvin-nanaimo.json",
+      "models": [
+        {
+          "model": "GLB 35 AMG 4matic Suvin Nanaimo",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLC 300 4matic Suv Awdin Victoria",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-glc-300-4matic-suv-awdin-victoria.json"
+      "file": "inventory/used-mercedes-benz-glc-300-4matic-suv-awdin-victoria.json",
+      "models": [
+        {
+          "model": "GLC 300 4matic Suv Awdin Victoria",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "C 43 AMG 4matic Sedanin Nanaimo",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-c-43-amg-4matic-sedanin-nanaimo.json"
+      "file": "inventory/used-mercedes-benz-c-43-amg-4matic-sedanin-nanaimo.json",
+      "models": [
+        {
+          "model": "C 43 AMG 4matic Sedanin Nanaimo",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
-      "model": "C 300 4matic Sedan",
+      "model": "C 300 4matic",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-c-300-4matic-sedan.json"
+      "file": "inventory/used-mercedes-benz-c-300-4matic.json",
+      "models": [
+        {
+          "model": "C 300 4matic",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "Sprinter 2500 Cargoin Victoria",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-sprinter-2500-cargoin-victoria.json"
+      "file": "inventory/used-mercedes-benz-sprinter-2500-cargoin-victoria.json",
+      "models": [
+        {
+          "model": "Sprinter 2500 Cargoin Victoria",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "A 35 AMG 4matic Hatch",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-a-35-amg-4matic-hatch.json"
+      "file": "inventory/used-mercedes-benz-a-35-amg-4matic-hatch.json",
+      "models": [
+        {
+          "model": "A 35 AMG 4matic Hatch",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLC 300 4matic Coupein Nanaimo",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-glc-300-4matic-coupein-nanaimo.json"
+      "file": "inventory/used-mercedes-benz-glc-300-4matic-coupein-nanaimo.json",
+      "models": [
+        {
+          "model": "GLC 300 4matic Coupein Nanaimo",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLE 63 AMG S 4maticin Nanaimo",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-gle-63-amg-s-4maticin-nanaimo.json"
+      "file": "inventory/used-mercedes-benz-gle-63-amg-s-4maticin-nanaimo.json",
+      "models": [
+        {
+          "model": "GLE 63 AMG S 4maticin Nanaimo",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "CLA 250 4matic Coupein Victoria",
       "count": 2,
-      "file": "inventory/used-mercedes-benz-cla-250-4matic-coupein-victoria.json"
+      "file": "inventory/used-mercedes-benz-cla-250-4matic-coupein-victoria.json",
+      "models": [
+        {
+          "model": "CLA 250 4matic Coupein Victoria",
+          "count": 2
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "Sprinter Cargo Van 2500 High Roof I4in Nanaimo",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-sprinter-cargo-van-2500-high-roof-i4in-nanaimo.json"
+      "file": "inventory/used-mercedes-benz-sprinter-cargo-van-2500-high-roof-i4in-nanaimo.json",
+      "models": [
+        {
+          "model": "Sprinter Cargo Van 2500 High Roof I4in Nanaimo",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLA 250 4matic Suvin Victoria",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-gla-250-4matic-suvin-victoria.json"
+      "file": "inventory/used-mercedes-benz-gla-250-4matic-suvin-victoria.json",
+      "models": [
+        {
+          "model": "GLA 250 4matic Suvin Victoria",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "Sprinter Cargo Van 2500 High Roof I4in Victoria",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-sprinter-cargo-van-2500-high-roof-i4in-victoria.json"
+      "file": "inventory/used-mercedes-benz-sprinter-cargo-van-2500-high-roof-i4in-victoria.json",
+      "models": [
+        {
+          "model": "Sprinter Cargo Van 2500 High Roof I4in Victoria",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "CLA 45 AMG 4matic+ Coupein Victoria",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-cla-45-amg-4matic-coupein-victoria.json"
+      "file": "inventory/used-mercedes-benz-cla-45-amg-4matic-coupein-victoria.json",
+      "models": [
+        {
+          "model": "CLA 45 AMG 4matic+ Coupein Victoria",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLA 250 SUVin Nanaimo",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-gla-250-suvin-nanaimo.json"
+      "file": "inventory/used-mercedes-benz-gla-250-suvin-nanaimo.json",
+      "models": [
+        {
+          "model": "GLA 250 SUVin Nanaimo",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "Sprinter Cargo Van 2500 Standard Roofin Nanaimo",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-sprinter-cargo-van-2500-standard-roofin-nanaimo.json"
+      "file": "inventory/used-mercedes-benz-sprinter-cargo-van-2500-standard-roofin-nanaimo.json",
+      "models": [
+        {
+          "model": "Sprinter Cargo Van 2500 Standard Roofin Nanaimo",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLE 350 4matic Suv Awdin Victoria",
       "count": 3,
-      "file": "inventory/used-mercedes-benz-gle-350-4matic-suv-awdin-victoria.json"
+      "file": "inventory/used-mercedes-benz-gle-350-4matic-suv-awdin-victoria.json",
+      "models": [
+        {
+          "model": "GLE 350 4matic Suv Awdin Victoria",
+          "count": 3
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLC 43 AMG 4matic Coupe Awdin Victoria",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-glc-43-amg-4matic-coupe-awdin-victoria.json"
+      "file": "inventory/used-mercedes-benz-glc-43-amg-4matic-coupe-awdin-victoria.json",
+      "models": [
+        {
+          "model": "GLC 43 AMG 4matic Coupe Awdin Victoria",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
-      "model": "GLE 450 4matic Suv",
+      "model": "GLE 450 4matic",
       "count": 2,
-      "file": "inventory/used-mercedes-benz-gle-450-4matic-suv.json"
+      "file": "inventory/used-mercedes-benz-gle-450-4matic.json",
+      "models": [
+        {
+          "model": "GLE 450 4matic",
+          "count": 2
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLE 350 4matic Suvin Nanaimo",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-gle-350-4matic-suvin-nanaimo.json"
+      "file": "inventory/used-mercedes-benz-gle-350-4matic-suvin-nanaimo.json",
+      "models": [
+        {
+          "model": "GLE 350 4matic Suvin Nanaimo",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLS 450 4matic Suvin Nanaimo",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-gls-450-4matic-suvin-nanaimo.json"
+      "file": "inventory/used-mercedes-benz-gls-450-4matic-suvin-nanaimo.json",
+      "models": [
+        {
+          "model": "GLS 450 4matic Suvin Nanaimo",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "Sprinter One Localin Victoria",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-sprinter-one-localin-victoria.json"
+      "file": "inventory/used-mercedes-benz-sprinter-one-localin-victoria.json",
+      "models": [
+        {
+          "model": "Sprinter One Localin Victoria",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "EQE 4matic Suvin Victoria",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-eqe-4matic-suvin-victoria.json"
+      "file": "inventory/used-mercedes-benz-eqe-4matic-suvin-victoria.json",
+      "models": [
+        {
+          "model": "EQE 4matic Suvin Victoria",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLC 350e 4matic Suv Awdin Victoria",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-glc-350e-4matic-suv-awdin-victoria.json"
+      "file": "inventory/used-mercedes-benz-glc-350e-4matic-suv-awdin-victoria.json",
+      "models": [
+        {
+          "model": "GLC 350e 4matic Suv Awdin Victoria",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "EQS 580 SUVin Victoria",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-eqs-580-suvin-victoria.json"
+      "file": "inventory/used-mercedes-benz-eqs-580-suvin-victoria.json",
+      "models": [
+        {
+          "model": "EQS 580 SUVin Victoria",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "E 450 4matic Sedanin Victoria",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-e-450-4matic-sedanin-victoria.json"
+      "file": "inventory/used-mercedes-benz-e-450-4matic-sedanin-victoria.json",
+      "models": [
+        {
+          "model": "E 450 4matic Sedanin Victoria",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLS 450 4matic Suv Awdin Victoria",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-gls-450-4matic-suv-awdin-victoria.json"
+      "file": "inventory/used-mercedes-benz-gls-450-4matic-suv-awdin-victoria.json",
+      "models": [
+        {
+          "model": "GLS 450 4matic Suv Awdin Victoria",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
-      "model": "S 600 4matic Coupe",
+      "model": "S 600 4matic",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-s-600-4matic-coupe.json"
+      "file": "inventory/used-mercedes-benz-s-600-4matic.json",
+      "models": [
+        {
+          "model": "S 600 4matic",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLE 53 4matic+ Coupe Awdin Victoria",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-gle-53-4matic-coupe-awdin-victoria.json"
-    },
-    {
-      "condition": "used",
-      "make": "mercedes-benz",
-      "model": "CLA Coupe",
-      "count": 1,
-      "file": "inventory/used-mercedes-benz-cla-coupe.json"
-    },
-    {
-      "condition": "used",
-      "make": "mercedes-benz",
-      "model": "GLC Coupe",
-      "count": 1,
-      "file": "inventory/used-mercedes-benz-glc-coupe.json"
+      "file": "inventory/used-mercedes-benz-gle-53-4matic-coupe-awdin-victoria.json",
+      "models": [
+        {
+          "model": "GLE 53 4matic+ Coupe Awdin Victoria",
+          "count": 1
+        }
+      ]
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T22:02:37+00:00",
+  "generated_at": "2026-10-01T22:26:47+00:00",
   "condition": "used",
   "make": "land-rover",
   "files": [
@@ -7,7 +7,29 @@
       "condition": "used",
       "make": "land-rover",
       "count": 9,
-      "file": "inventory/used-land-rover.json"
+      "file": "inventory/used-land-rover.json",
+      "models": [
+        {
+          "model": "Defender",
+          "count": 1
+        },
+        {
+          "model": "Discovery Sport",
+          "count": 2
+        },
+        {
+          "model": "RANGE ROVER VELAR",
+          "count": 3
+        },
+        {
+          "model": "Range Rover Evoque",
+          "count": 2
+        },
+        {
+          "model": "Range Rover Sport",
+          "count": 1
+        }
+      ]
     }
   ]
 }

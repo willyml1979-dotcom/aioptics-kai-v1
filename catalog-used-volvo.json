@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T22:02:37+00:00",
+  "generated_at": "2026-10-01T22:26:47+00:00",
   "condition": "used",
   "make": "volvo",
   "files": [
@@ -7,7 +7,65 @@
       "condition": "used",
       "make": "volvo",
       "count": 37,
-      "file": "inventory/used-volvo.json"
+      "file": "inventory/used-volvo.json",
+      "models": [
+        {
+          "model": "C40",
+          "count": 1
+        },
+        {
+          "model": "EX40",
+          "count": 1
+        },
+        {
+          "model": "S60",
+          "count": 3
+        },
+        {
+          "model": "V60",
+          "count": 1
+        },
+        {
+          "model": "V60 Cross Country",
+          "count": 3
+        },
+        {
+          "model": "V90 Cross Country",
+          "count": 1
+        },
+        {
+          "model": "XC40",
+          "count": 6
+        },
+        {
+          "model": "XC40 Recharge Pure Electric",
+          "count": 1
+        },
+        {
+          "model": "XC60",
+          "count": 4
+        },
+        {
+          "model": "XC60 Plug-in Hybrid",
+          "count": 1
+        },
+        {
+          "model": "XC90",
+          "count": 9
+        },
+        {
+          "model": "XC90 PLUS DARK THEME",
+          "count": 1
+        },
+        {
+          "model": "XC90 Plug-in Hybrid",
+          "count": 2
+        },
+        {
+          "model": "XC90 Recharge",
+          "count": 3
+        }
+      ]
     }
   ]
 }

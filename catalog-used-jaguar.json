@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T22:02:37+00:00",
+  "generated_at": "2026-10-01T22:26:47+00:00",
   "condition": "used",
   "make": "jaguar",
   "files": [
@@ -7,7 +7,25 @@
       "condition": "used",
       "make": "jaguar",
       "count": 4,
-      "file": "inventory/used-jaguar.json"
+      "file": "inventory/used-jaguar.json",
+      "models": [
+        {
+          "model": "F-Pace",
+          "count": 1
+        },
+        {
+          "model": "F-Type",
+          "count": 1
+        },
+        {
+          "model": "I-Pace",
+          "count": 1
+        },
+        {
+          "model": "XKR",
+          "count": 1
+        }
+      ]
     }
   ]
 }

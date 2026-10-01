@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T22:02:37+00:00",
+  "generated_at": "2026-10-01T22:26:47+00:00",
   "condition": "used",
   "make": "lincoln",
   "files": [
@@ -7,7 +7,45 @@
       "condition": "used",
       "make": "lincoln",
       "count": 11,
-      "file": "inventory/used-lincoln.json"
+      "file": "inventory/used-lincoln.json",
+      "models": [
+        {
+          "model": "Aviator",
+          "count": 1
+        },
+        {
+          "model": "CORSAIR",
+          "count": 1
+        },
+        {
+          "model": "Corsair",
+          "count": 3
+        },
+        {
+          "model": "MKX",
+          "count": 1
+        },
+        {
+          "model": "MKZ",
+          "count": 1
+        },
+        {
+          "model": "NAUTILUS",
+          "count": 1
+        },
+        {
+          "model": "NAVIGATOR",
+          "count": 1
+        },
+        {
+          "model": "Nautilus",
+          "count": 1
+        },
+        {
+          "model": "Navigator",
+          "count": 1
+        }
+      ]
     }
   ]
 }

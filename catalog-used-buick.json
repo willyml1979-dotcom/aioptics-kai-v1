@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T22:02:37+00:00",
+  "generated_at": "2026-10-01T22:26:47+00:00",
   "condition": "used",
   "make": "buick",
   "files": [
@@ -7,7 +7,29 @@
       "condition": "used",
       "make": "buick",
       "count": 16,
-      "file": "inventory/used-buick.json"
+      "file": "inventory/used-buick.json",
+      "models": [
+        {
+          "model": "Encore",
+          "count": 4
+        },
+        {
+          "model": "Encore GX",
+          "count": 5
+        },
+        {
+          "model": "Envision",
+          "count": 5
+        },
+        {
+          "model": "Envista",
+          "count": 1
+        },
+        {
+          "model": "Envista Sport Touring",
+          "count": 1
+        }
+      ]
     }
   ]
 }

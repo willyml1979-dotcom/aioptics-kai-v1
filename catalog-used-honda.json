@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T22:02:37+00:00",
+  "generated_at": "2026-10-01T22:26:47+00:00",
   "condition": "used",
   "make": "honda",
   "files": [
@@ -8,37 +8,85 @@
       "make": "honda",
       "model": "CR-V4WD EX Auto w/Leather",
       "count": 1,
-      "file": "inventory/used-honda-cr-v4wd-ex-auto-w-leather.json"
+      "file": "inventory/used-honda-cr-v4wd-ex-auto-w-leather.json",
+      "models": [
+        {
+          "model": "CR-V4WD EX Auto w/Leather",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "honda",
       "model": "CR-V Hybrid",
       "count": 30,
-      "file": "inventory/used-honda-cr-v-hybrid.json"
+      "file": "inventory/used-honda-cr-v-hybrid.json",
+      "models": [
+        {
+          "model": "CR-V Hybrid",
+          "count": 30
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "honda",
       "model": "Fit",
       "count": 7,
-      "file": "inventory/used-honda-fit.json"
+      "file": "inventory/used-honda-fit.json",
+      "models": [
+        {
+          "model": "Fit",
+          "count": 7
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "honda",
-      "model": "Civic Sedan",
+      "model": "Civic",
       "shard": "part1",
-      "count": 35,
-      "file": "inventory/used-honda-civic-sedan-part1.json"
+      "count": 26,
+      "file": "inventory/used-honda-civic-part1.json",
+      "models": [
+        {
+          "model": "Civic",
+          "count": 26
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "honda",
-      "model": "Civic Sedan",
+      "model": "Civic",
       "shard": "part2",
-      "count": 35,
-      "file": "inventory/used-honda-civic-sedan-part2.json"
+      "count": 26,
+      "file": "inventory/used-honda-civic-part2.json",
+      "models": [
+        {
+          "model": "Civic",
+          "count": 26
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
+      "model": "Civic",
+      "shard": "part3",
+      "count": 25,
+      "file": "inventory/used-honda-civic-part3.json",
+      "models": [
+        {
+          "model": "CIVIC",
+          "count": 3
+        },
+        {
+          "model": "Civic",
+          "count": 22
+        }
+      ]
     },
     {
       "condition": "used",
@@ -46,7 +94,13 @@
       "model": "CR-V",
       "shard": "Lower Mainland",
       "count": 32,
-      "file": "inventory/used-honda-cr-v-lower-mainland.json"
+      "file": "inventory/used-honda-cr-v-lower-mainland.json",
+      "models": [
+        {
+          "model": "CR-V",
+          "count": 32
+        }
+      ]
     },
     {
       "condition": "used",
@@ -54,7 +108,13 @@
       "model": "CR-V",
       "shard": "Okanagan",
       "count": 4,
-      "file": "inventory/used-honda-cr-v-okanagan.json"
+      "file": "inventory/used-honda-cr-v-okanagan.json",
+      "models": [
+        {
+          "model": "CR-V",
+          "count": 4
+        }
+      ]
     },
     {
       "condition": "used",
@@ -62,7 +122,13 @@
       "model": "CR-V",
       "shard": "Thompson-Okanagan",
       "count": 3,
-      "file": "inventory/used-honda-cr-v-thompson-okanagan.json"
+      "file": "inventory/used-honda-cr-v-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "CR-V",
+          "count": 3
+        }
+      ]
     },
     {
       "condition": "used",
@@ -70,7 +136,13 @@
       "model": "CR-V",
       "shard": "Vancouver Island",
       "count": 10,
-      "file": "inventory/used-honda-cr-v-vancouver-island.json"
+      "file": "inventory/used-honda-cr-v-vancouver-island.json",
+      "models": [
+        {
+          "model": "CR-V",
+          "count": 10
+        }
+      ]
     },
     {
       "condition": "used",
@@ -78,238 +150,390 @@
       "model": "CR-V",
       "shard": "sin-region",
       "count": 2,
-      "file": "inventory/used-honda-cr-v-sin-region.json"
+      "file": "inventory/used-honda-cr-v-sin-region.json",
+      "models": [
+        {
+          "model": "CR-V",
+          "count": 2
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "honda",
-      "model": "Accord Coupe",
-      "count": 1,
-      "file": "inventory/used-honda-accord-coupe.json"
-    },
-    {
-      "condition": "used",
-      "make": "honda",
-      "model": "Civic",
-      "count": 3,
-      "file": "inventory/used-honda-civic.json"
+      "model": "Accord",
+      "count": 9,
+      "file": "inventory/used-honda-accord.json",
+      "models": [
+        {
+          "model": "Accord",
+          "count": 9
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "honda",
       "model": "Pilot",
       "count": 13,
-      "file": "inventory/used-honda-pilot.json"
-    },
-    {
-      "condition": "used",
-      "make": "honda",
-      "model": "Accord Sedan",
-      "count": 8,
-      "file": "inventory/used-honda-accord-sedan.json"
-    },
-    {
-      "condition": "used",
-      "make": "honda",
-      "model": "Civic Coupe",
-      "count": 1,
-      "file": "inventory/used-honda-civic-coupe.json"
+      "file": "inventory/used-honda-pilot.json",
+      "models": [
+        {
+          "model": "Pilot",
+          "count": 13
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "honda",
       "model": "HR-V",
       "count": 17,
-      "file": "inventory/used-honda-hr-v.json"
-    },
-    {
-      "condition": "used",
-      "make": "honda",
-      "model": "Civic Hatchback",
-      "count": 3,
-      "file": "inventory/used-honda-civic-hatchback.json"
+      "file": "inventory/used-honda-hr-v.json",
+      "models": [
+        {
+          "model": "HR-V",
+          "count": 17
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "honda",
       "model": "Odyssey",
       "count": 14,
-      "file": "inventory/used-honda-odyssey.json"
+      "file": "inventory/used-honda-odyssey.json",
+      "models": [
+        {
+          "model": "Odyssey",
+          "count": 14
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "honda",
       "model": "Ridgeline",
       "count": 4,
-      "file": "inventory/used-honda-ridgeline.json"
+      "file": "inventory/used-honda-ridgeline.json",
+      "models": [
+        {
+          "model": "Ridgeline",
+          "count": 4
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "honda",
       "model": "HR-V Turbo Sport",
       "count": 6,
-      "file": "inventory/used-honda-hr-v-turbo-sport.json"
+      "file": "inventory/used-honda-hr-v-turbo-sport.json",
+      "models": [
+        {
+          "model": "HR-V Turbo Sport",
+          "count": 6
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "honda",
       "model": "Accord Hybrid",
       "count": 5,
-      "file": "inventory/used-honda-accord-hybrid.json"
+      "file": "inventory/used-honda-accord-hybrid.json",
+      "models": [
+        {
+          "model": "Accord Hybrid",
+          "count": 5
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "honda",
       "model": "Civic Type R",
       "count": 3,
-      "file": "inventory/used-honda-civic-type-r.json"
+      "file": "inventory/used-honda-civic-type-r.json",
+      "models": [
+        {
+          "model": "Civic Type R",
+          "count": 3
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "honda",
       "model": "Prologue",
       "count": 1,
-      "file": "inventory/used-honda-prologue.json"
+      "file": "inventory/used-honda-prologue.json",
+      "models": [
+        {
+          "model": "Prologue",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "honda",
       "model": "Passport",
       "count": 5,
-      "file": "inventory/used-honda-passport.json"
+      "file": "inventory/used-honda-passport.json",
+      "models": [
+        {
+          "model": "Passport",
+          "count": 5
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "honda",
       "model": "Pilot Touring 8-Passenger AWD",
       "count": 1,
-      "file": "inventory/used-honda-pilot-touring-8-passenger-awd.json"
+      "file": "inventory/used-honda-pilot-touring-8-passenger-awd.json",
+      "models": [
+        {
+          "model": "Pilot Touring 8-Passenger AWD",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "honda",
       "model": "CR-V Hybrid Touring AWD",
       "count": 1,
-      "file": "inventory/used-honda-cr-v-hybrid-touring-awd.json"
+      "file": "inventory/used-honda-cr-v-hybrid-touring-awd.json",
+      "models": [
+        {
+          "model": "CR-V Hybrid Touring AWD",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "honda",
       "model": "CR-V LX AWD",
       "count": 1,
-      "file": "inventory/used-honda-cr-v-lx-awd.json"
+      "file": "inventory/used-honda-cr-v-lx-awd.json",
+      "models": [
+        {
+          "model": "CR-V LX AWD",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "honda",
       "model": "Civic Sedan EX CVT",
       "count": 1,
-      "file": "inventory/used-honda-civic-sedan-ex-cvt.json"
+      "file": "inventory/used-honda-civic-sedan-ex-cvt.json",
+      "models": [
+        {
+          "model": "Civic Sedan EX CVT",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "honda",
       "model": "Passport Touring",
       "count": 1,
-      "file": "inventory/used-honda-passport-touring.json"
+      "file": "inventory/used-honda-passport-touring.json",
+      "models": [
+        {
+          "model": "Passport Touring",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "honda",
       "model": "Crosstour",
       "count": 1,
-      "file": "inventory/used-honda-crosstour.json"
+      "file": "inventory/used-honda-crosstour.json",
+      "models": [
+        {
+          "model": "Crosstour",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "honda",
       "model": "Civic Sedan Touring",
       "count": 1,
-      "file": "inventory/used-honda-civic-sedan-touring.json"
+      "file": "inventory/used-honda-civic-sedan-touring.json",
+      "models": [
+        {
+          "model": "Civic Sedan Touring",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "honda",
       "model": "Accord Sedan Touring",
       "count": 1,
-      "file": "inventory/used-honda-accord-sedan-touring.json"
+      "file": "inventory/used-honda-accord-sedan-touring.json",
+      "models": [
+        {
+          "model": "Accord Sedan Touring",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "honda",
       "model": "Accord Sedan SE",
       "count": 1,
-      "file": "inventory/used-honda-accord-sedan-se.json"
+      "file": "inventory/used-honda-accord-sedan-se.json",
+      "models": [
+        {
+          "model": "Accord Sedan SE",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "honda",
       "model": "Civic Hatchback Sport",
       "count": 1,
-      "file": "inventory/used-honda-civic-hatchback-sport.json"
+      "file": "inventory/used-honda-civic-hatchback-sport.json",
+      "models": [
+        {
+          "model": "Civic Hatchback Sport",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "honda",
       "model": "Civic Hatchback LX",
       "count": 1,
-      "file": "inventory/used-honda-civic-hatchback-lx.json"
+      "file": "inventory/used-honda-civic-hatchback-lx.json",
+      "models": [
+        {
+          "model": "Civic Hatchback LX",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "honda",
       "model": "Civic Sedan LX",
       "count": 3,
-      "file": "inventory/used-honda-civic-sedan-lx.json"
+      "file": "inventory/used-honda-civic-sedan-lx.json",
+      "models": [
+        {
+          "model": "Civic Sedan LX",
+          "count": 3
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "honda",
       "model": "Civic Sedan Sport",
       "count": 2,
-      "file": "inventory/used-honda-civic-sedan-sport.json"
+      "file": "inventory/used-honda-civic-sedan-sport.json",
+      "models": [
+        {
+          "model": "Civic Sedan Sport",
+          "count": 2
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "honda",
       "model": "CR-V Touring",
       "count": 2,
-      "file": "inventory/used-honda-cr-v-touring.json"
+      "file": "inventory/used-honda-cr-v-touring.json",
+      "models": [
+        {
+          "model": "CR-V Touring",
+          "count": 2
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "honda",
       "model": "HR-V Touring",
       "count": 1,
-      "file": "inventory/used-honda-hr-v-touring.json"
+      "file": "inventory/used-honda-hr-v-touring.json",
+      "models": [
+        {
+          "model": "HR-V Touring",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "honda",
       "model": "HR-V LX",
       "count": 1,
-      "file": "inventory/used-honda-hr-v-lx.json"
+      "file": "inventory/used-honda-hr-v-lx.json",
+      "models": [
+        {
+          "model": "HR-V LX",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "honda",
       "model": "HR-V Sport",
       "count": 1,
-      "file": "inventory/used-honda-hr-v-sport.json"
+      "file": "inventory/used-honda-hr-v-sport.json",
+      "models": [
+        {
+          "model": "HR-V Sport",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "honda",
       "model": "Odyssey SE",
       "count": 1,
-      "file": "inventory/used-honda-odyssey-se.json"
+      "file": "inventory/used-honda-odyssey-se.json",
+      "models": [
+        {
+          "model": "Odyssey SE",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "honda",
       "model": "Passport TrailSport",
       "count": 1,
-      "file": "inventory/used-honda-passport-trailsport.json"
+      "file": "inventory/used-honda-passport-trailsport.json",
+      "models": [
+        {
+          "model": "Passport TrailSport",
+          "count": 1
+        }
+      ]
     }
   ]
 }

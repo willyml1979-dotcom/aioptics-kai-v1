@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T22:02:37+00:00",
+  "generated_at": "2026-10-01T22:26:47+00:00",
   "condition": "new",
   "make": "jeep",
   "files": [
@@ -8,63 +8,137 @@
       "make": "jeep",
       "model": "GLADIATORMojave 4x4",
       "count": 1,
-      "file": "inventory/new-jeep-gladiatormojave-4x4.json"
+      "file": "inventory/new-jeep-gladiatormojave-4x4.json",
+      "models": [
+        {
+          "model": "GLADIATORMojave 4x4",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "jeep",
       "model": "WRANGLERSport 2 Door 4x4",
       "count": 1,
-      "file": "inventory/new-jeep-wranglersport-2-door-4x4.json"
+      "file": "inventory/new-jeep-wranglersport-2-door-4x4.json",
+      "models": [
+        {
+          "model": "WRANGLERSport 2 Door 4x4",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "jeep",
       "model": "GRAND CHEROKEE",
       "count": 14,
-      "file": "inventory/new-jeep-grand-cherokee.json"
+      "file": "inventory/new-jeep-grand-cherokee.json",
+      "models": [
+        {
+          "model": "GRAND CHEROKEE",
+          "count": 5
+        },
+        {
+          "model": "Grand Cherokee",
+          "count": 9
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "jeep",
       "model": "CHEROKEE",
       "count": 30,
-      "file": "inventory/new-jeep-cherokee.json"
+      "file": "inventory/new-jeep-cherokee.json",
+      "models": [
+        {
+          "model": "CHEROKEE",
+          "count": 13
+        },
+        {
+          "model": "Cherokee",
+          "count": 17
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "jeep",
       "model": "COMPASS",
       "count": 36,
-      "file": "inventory/new-jeep-compass.json"
+      "file": "inventory/new-jeep-compass.json",
+      "models": [
+        {
+          "model": "COMPASS",
+          "count": 31
+        },
+        {
+          "model": "Compass",
+          "count": 5
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "jeep",
       "model": "GLADIATOR",
       "count": 6,
-      "file": "inventory/new-jeep-gladiator.json"
+      "file": "inventory/new-jeep-gladiator.json",
+      "models": [
+        {
+          "model": "GLADIATOR",
+          "count": 3
+        },
+        {
+          "model": "Gladiator",
+          "count": 3
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "jeep",
       "model": "WRANGLER",
       "count": 19,
-      "file": "inventory/new-jeep-wrangler.json"
+      "file": "inventory/new-jeep-wrangler.json",
+      "models": [
+        {
+          "model": "WRANGLER",
+          "count": 11
+        },
+        {
+          "model": "Wrangler",
+          "count": 8
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "jeep",
       "model": "Wrangler Unlimited",
       "count": 11,
-      "file": "inventory/new-jeep-wrangler-unlimited.json"
+      "file": "inventory/new-jeep-wrangler-unlimited.json",
+      "models": [
+        {
+          "model": "Wrangler Unlimited",
+          "count": 11
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "jeep",
       "model": "GRAND CHEROKEE L",
       "count": 2,
-      "file": "inventory/new-jeep-grand-cherokee-l.json"
+      "file": "inventory/new-jeep-grand-cherokee-l.json",
+      "models": [
+        {
+          "model": "GRAND CHEROKEE L",
+          "count": 2
+        }
+      ]
     }
   ]
 }

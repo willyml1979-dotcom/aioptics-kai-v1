@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T22:02:37+00:00",
+  "generated_at": "2026-10-01T22:26:47+00:00",
   "condition": "used",
   "make": "cadillac",
   "files": [
@@ -7,7 +7,41 @@
       "condition": "used",
       "make": "cadillac",
       "count": 18,
-      "file": "inventory/used-cadillac.json"
+      "file": "inventory/used-cadillac.json",
+      "models": [
+        {
+          "model": "ATS",
+          "count": 1
+        },
+        {
+          "model": "CT5",
+          "count": 1
+        },
+        {
+          "model": "Escalade",
+          "count": 3
+        },
+        {
+          "model": "Escalade IQ",
+          "count": 1
+        },
+        {
+          "model": "Lyriq",
+          "count": 2
+        },
+        {
+          "model": "Optiq",
+          "count": 2
+        },
+        {
+          "model": "XT4",
+          "count": 4
+        },
+        {
+          "model": "XT5",
+          "count": 4
+        }
+      ]
     }
   ]
 }

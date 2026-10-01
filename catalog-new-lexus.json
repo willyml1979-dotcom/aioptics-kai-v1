@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T22:02:37+00:00",
+  "generated_at": "2026-10-01T22:26:47+00:00",
   "condition": "new",
   "make": "lexus",
   "files": [
@@ -8,63 +8,117 @@
       "make": "lexus",
       "model": "UX",
       "count": 28,
-      "file": "inventory/new-lexus-ux.json"
+      "file": "inventory/new-lexus-ux.json",
+      "models": [
+        {
+          "model": "UX",
+          "count": 28
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "lexus",
       "model": "NX",
       "count": 1,
-      "file": "inventory/new-lexus-nx.json"
+      "file": "inventory/new-lexus-nx.json",
+      "models": [
+        {
+          "model": "NX",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "lexus",
       "model": "NX Hybrid",
       "count": 3,
-      "file": "inventory/new-lexus-nx-hybrid.json"
+      "file": "inventory/new-lexus-nx-hybrid.json",
+      "models": [
+        {
+          "model": "NX Hybrid",
+          "count": 3
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "lexus",
       "model": "NX Plug-in Hybrid",
       "count": 5,
-      "file": "inventory/new-lexus-nx-plug-in-hybrid.json"
+      "file": "inventory/new-lexus-nx-plug-in-hybrid.json",
+      "models": [
+        {
+          "model": "NX Plug-in Hybrid",
+          "count": 5
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "lexus",
-      "model": "IS Sedan",
+      "model": "IS",
       "count": 1,
-      "file": "inventory/new-lexus-is-sedan.json"
+      "file": "inventory/new-lexus-is.json",
+      "models": [
+        {
+          "model": "IS",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "lexus",
       "model": "ES",
       "count": 2,
-      "file": "inventory/new-lexus-es.json"
+      "file": "inventory/new-lexus-es.json",
+      "models": [
+        {
+          "model": "ES",
+          "count": 2
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "lexus",
       "model": "RX",
       "count": 23,
-      "file": "inventory/new-lexus-rx.json"
+      "file": "inventory/new-lexus-rx.json",
+      "models": [
+        {
+          "model": "RX",
+          "count": 23
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "lexus",
       "model": "TX",
       "count": 7,
-      "file": "inventory/new-lexus-tx.json"
+      "file": "inventory/new-lexus-tx.json",
+      "models": [
+        {
+          "model": "TX",
+          "count": 7
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "lexus",
       "model": "RZ",
       "count": 2,
-      "file": "inventory/new-lexus-rz.json"
+      "file": "inventory/new-lexus-rz.json",
+      "models": [
+        {
+          "model": "RZ",
+          "count": 2
+        }
+      ]
     }
   ]
 }

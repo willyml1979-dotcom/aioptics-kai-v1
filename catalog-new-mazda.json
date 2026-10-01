@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T22:02:37+00:00",
+  "generated_at": "2026-10-01T22:26:47+00:00",
   "condition": "new",
   "make": "mazda",
   "files": [
@@ -8,28 +8,52 @@
       "make": "mazda",
       "model": "CX-90 PHEV",
       "count": 16,
-      "file": "inventory/new-mazda-cx-90-phev.json"
+      "file": "inventory/new-mazda-cx-90-phev.json",
+      "models": [
+        {
+          "model": "CX-90 PHEV",
+          "count": 16
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "mazda",
       "model": "CX-30",
       "count": 15,
-      "file": "inventory/new-mazda-cx-30.json"
+      "file": "inventory/new-mazda-cx-30.json",
+      "models": [
+        {
+          "model": "CX-30",
+          "count": 15
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "mazda",
       "model": "Mazda3 Sport",
       "count": 15,
-      "file": "inventory/new-mazda-mazda3-sport.json"
+      "file": "inventory/new-mazda-mazda3-sport.json",
+      "models": [
+        {
+          "model": "Mazda3 Sport",
+          "count": 15
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "mazda",
-      "model": "Mazda3 Sedan",
+      "model": "Mazda3",
       "count": 9,
-      "file": "inventory/new-mazda-mazda3-sedan.json"
+      "file": "inventory/new-mazda-mazda3.json",
+      "models": [
+        {
+          "model": "Mazda3",
+          "count": 9
+        }
+      ]
     },
     {
       "condition": "new",
@@ -37,7 +61,13 @@
       "model": "CX-5",
       "shard": "part1",
       "count": 35,
-      "file": "inventory/new-mazda-cx-5-part1.json"
+      "file": "inventory/new-mazda-cx-5-part1.json",
+      "models": [
+        {
+          "model": "CX-5",
+          "count": 35
+        }
+      ]
     },
     {
       "condition": "new",
@@ -45,28 +75,52 @@
       "model": "CX-5",
       "shard": "part2",
       "count": 35,
-      "file": "inventory/new-mazda-cx-5-part2.json"
+      "file": "inventory/new-mazda-cx-5-part2.json",
+      "models": [
+        {
+          "model": "CX-5",
+          "count": 35
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "mazda",
       "model": "CX-70 MHEV",
       "count": 7,
-      "file": "inventory/new-mazda-cx-70-mhev.json"
+      "file": "inventory/new-mazda-cx-70-mhev.json",
+      "models": [
+        {
+          "model": "CX-70 MHEV",
+          "count": 7
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "mazda",
       "model": "CX-90 MHEV",
       "count": 9,
-      "file": "inventory/new-mazda-cx-90-mhev.json"
+      "file": "inventory/new-mazda-cx-90-mhev.json",
+      "models": [
+        {
+          "model": "CX-90 MHEV",
+          "count": 9
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "mazda",
       "model": "CX-70 PHEV",
       "count": 11,
-      "file": "inventory/new-mazda-cx-70-phev.json"
+      "file": "inventory/new-mazda-cx-70-phev.json",
+      "models": [
+        {
+          "model": "CX-70 PHEV",
+          "count": 11
+        }
+      ]
     }
   ]
 }

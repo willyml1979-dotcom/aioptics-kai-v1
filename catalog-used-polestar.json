@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T22:02:37+00:00",
+  "generated_at": "2026-10-01T22:26:47+00:00",
   "condition": "used",
   "make": "polestar",
   "files": [
@@ -7,7 +7,13 @@
       "condition": "used",
       "make": "polestar",
       "count": 3,
-      "file": "inventory/used-polestar.json"
+      "file": "inventory/used-polestar.json",
+      "models": [
+        {
+          "model": "2",
+          "count": 3
+        }
+      ]
     }
   ]
 }

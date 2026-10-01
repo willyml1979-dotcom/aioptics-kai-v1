@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T22:02:37+00:00",
+  "generated_at": "2026-10-01T22:26:47+00:00",
   "condition": "used",
   "make": "mercedesbenz",
   "files": [
@@ -7,7 +7,13 @@
       "condition": "used",
       "make": "mercedesbenz",
       "count": 1,
-      "file": "inventory/used-mercedesbenz.json"
+      "file": "inventory/used-mercedesbenz.json",
+      "models": [
+        {
+          "model": "SL-CLASS",
+          "count": 1
+        }
+      ]
     }
   ]
 }

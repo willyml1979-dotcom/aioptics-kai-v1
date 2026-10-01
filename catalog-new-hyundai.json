@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T22:02:37+00:00",
+  "generated_at": "2026-10-01T22:26:47+00:00",
   "condition": "new",
   "make": "hyundai",
   "files": [
@@ -9,7 +9,13 @@
       "model": "Tucson Hybrid",
       "shard": "part1",
       "count": 34,
-      "file": "inventory/new-hyundai-tucson-hybrid-part1.json"
+      "file": "inventory/new-hyundai-tucson-hybrid-part1.json",
+      "models": [
+        {
+          "model": "Tucson Hybrid",
+          "count": 34
+        }
+      ]
     },
     {
       "condition": "new",
@@ -17,7 +23,13 @@
       "model": "Tucson Hybrid",
       "shard": "part2",
       "count": 34,
-      "file": "inventory/new-hyundai-tucson-hybrid-part2.json"
+      "file": "inventory/new-hyundai-tucson-hybrid-part2.json",
+      "models": [
+        {
+          "model": "Tucson Hybrid",
+          "count": 34
+        }
+      ]
     },
     {
       "condition": "new",
@@ -25,7 +37,13 @@
       "model": "Tucson Hybrid",
       "shard": "part3",
       "count": 34,
-      "file": "inventory/new-hyundai-tucson-hybrid-part3.json"
+      "file": "inventory/new-hyundai-tucson-hybrid-part3.json",
+      "models": [
+        {
+          "model": "Tucson Hybrid",
+          "count": 34
+        }
+      ]
     },
     {
       "condition": "new",
@@ -33,7 +51,13 @@
       "model": "Tucson Hybrid",
       "shard": "part4",
       "count": 34,
-      "file": "inventory/new-hyundai-tucson-hybrid-part4.json"
+      "file": "inventory/new-hyundai-tucson-hybrid-part4.json",
+      "models": [
+        {
+          "model": "Tucson Hybrid",
+          "count": 34
+        }
+      ]
     },
     {
       "condition": "new",
@@ -41,7 +65,13 @@
       "model": "Tucson Hybrid",
       "shard": "part5",
       "count": 34,
-      "file": "inventory/new-hyundai-tucson-hybrid-part5.json"
+      "file": "inventory/new-hyundai-tucson-hybrid-part5.json",
+      "models": [
+        {
+          "model": "Tucson Hybrid",
+          "count": 34
+        }
+      ]
     },
     {
       "condition": "new",
@@ -49,7 +79,13 @@
       "model": "Tucson Hybrid",
       "shard": "part6",
       "count": 29,
-      "file": "inventory/new-hyundai-tucson-hybrid-part6.json"
+      "file": "inventory/new-hyundai-tucson-hybrid-part6.json",
+      "models": [
+        {
+          "model": "Tucson Hybrid",
+          "count": 29
+        }
+      ]
     },
     {
       "condition": "new",
@@ -57,7 +93,13 @@
       "model": "Venue",
       "shard": "Lower Mainland",
       "count": 32,
-      "file": "inventory/new-hyundai-venue-lower-mainland.json"
+      "file": "inventory/new-hyundai-venue-lower-mainland.json",
+      "models": [
+        {
+          "model": "Venue",
+          "count": 32
+        }
+      ]
     },
     {
       "condition": "new",
@@ -65,7 +107,13 @@
       "model": "Venue",
       "shard": "Norte/Cariboo",
       "count": 5,
-      "file": "inventory/new-hyundai-venue-norte-cariboo.json"
+      "file": "inventory/new-hyundai-venue-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Venue",
+          "count": 5
+        }
+      ]
     },
     {
       "condition": "new",
@@ -73,14 +121,26 @@
       "model": "Venue",
       "shard": "Okanagan",
       "count": 6,
-      "file": "inventory/new-hyundai-venue-okanagan.json"
+      "file": "inventory/new-hyundai-venue-okanagan.json",
+      "models": [
+        {
+          "model": "Venue",
+          "count": 6
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "hyundai",
       "model": "IONIQ 5",
       "count": 16,
-      "file": "inventory/new-hyundai-ioniq-5.json"
+      "file": "inventory/new-hyundai-ioniq-5.json",
+      "models": [
+        {
+          "model": "IONIQ 5",
+          "count": 16
+        }
+      ]
     },
     {
       "condition": "new",
@@ -88,7 +148,13 @@
       "model": "Kona",
       "shard": "part1",
       "count": 37,
-      "file": "inventory/new-hyundai-kona-part1.json"
+      "file": "inventory/new-hyundai-kona-part1.json",
+      "models": [
+        {
+          "model": "Kona",
+          "count": 37
+        }
+      ]
     },
     {
       "condition": "new",
@@ -96,7 +162,13 @@
       "model": "Kona",
       "shard": "part2",
       "count": 37,
-      "file": "inventory/new-hyundai-kona-part2.json"
+      "file": "inventory/new-hyundai-kona-part2.json",
+      "models": [
+        {
+          "model": "Kona",
+          "count": 37
+        }
+      ]
     },
     {
       "condition": "new",
@@ -104,7 +176,13 @@
       "model": "Kona",
       "shard": "part3",
       "count": 37,
-      "file": "inventory/new-hyundai-kona-part3.json"
+      "file": "inventory/new-hyundai-kona-part3.json",
+      "models": [
+        {
+          "model": "Kona",
+          "count": 37
+        }
+      ]
     },
     {
       "condition": "new",
@@ -112,7 +190,17 @@
       "model": "Kona",
       "shard": "part4",
       "count": 37,
-      "file": "inventory/new-hyundai-kona-part4.json"
+      "file": "inventory/new-hyundai-kona-part4.json",
+      "models": [
+        {
+          "model": "KONA",
+          "count": 1
+        },
+        {
+          "model": "Kona",
+          "count": 36
+        }
+      ]
     },
     {
       "condition": "new",
@@ -120,7 +208,13 @@
       "model": "Kona",
       "shard": "part5",
       "count": 37,
-      "file": "inventory/new-hyundai-kona-part5.json"
+      "file": "inventory/new-hyundai-kona-part5.json",
+      "models": [
+        {
+          "model": "Kona",
+          "count": 37
+        }
+      ]
     },
     {
       "condition": "new",
@@ -128,7 +222,13 @@
       "model": "Elantra",
       "shard": "part1",
       "count": 31,
-      "file": "inventory/new-hyundai-elantra-part1.json"
+      "file": "inventory/new-hyundai-elantra-part1.json",
+      "models": [
+        {
+          "model": "Elantra",
+          "count": 31
+        }
+      ]
     },
     {
       "condition": "new",
@@ -136,7 +236,13 @@
       "model": "Elantra",
       "shard": "part2",
       "count": 31,
-      "file": "inventory/new-hyundai-elantra-part2.json"
+      "file": "inventory/new-hyundai-elantra-part2.json",
+      "models": [
+        {
+          "model": "Elantra",
+          "count": 31
+        }
+      ]
     },
     {
       "condition": "new",
@@ -144,7 +250,13 @@
       "model": "Elantra",
       "shard": "part3",
       "count": 31,
-      "file": "inventory/new-hyundai-elantra-part3.json"
+      "file": "inventory/new-hyundai-elantra-part3.json",
+      "models": [
+        {
+          "model": "Elantra",
+          "count": 31
+        }
+      ]
     },
     {
       "condition": "new",
@@ -152,7 +264,13 @@
       "model": "Elantra",
       "shard": "part4",
       "count": 31,
-      "file": "inventory/new-hyundai-elantra-part4.json"
+      "file": "inventory/new-hyundai-elantra-part4.json",
+      "models": [
+        {
+          "model": "Elantra",
+          "count": 31
+        }
+      ]
     },
     {
       "condition": "new",
@@ -160,21 +278,39 @@
       "model": "Elantra",
       "shard": "part5",
       "count": 31,
-      "file": "inventory/new-hyundai-elantra-part5.json"
+      "file": "inventory/new-hyundai-elantra-part5.json",
+      "models": [
+        {
+          "model": "Elantra",
+          "count": 31
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "hyundai",
       "model": "Elantra Hybrid",
       "count": 32,
-      "file": "inventory/new-hyundai-elantra-hybrid.json"
+      "file": "inventory/new-hyundai-elantra-hybrid.json",
+      "models": [
+        {
+          "model": "Elantra Hybrid",
+          "count": 32
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "hyundai",
       "model": "Elantra N",
       "count": 25,
-      "file": "inventory/new-hyundai-elantra-n.json"
+      "file": "inventory/new-hyundai-elantra-n.json",
+      "models": [
+        {
+          "model": "Elantra N",
+          "count": 25
+        }
+      ]
     },
     {
       "condition": "new",
@@ -182,7 +318,17 @@
       "model": "Tucson",
       "shard": "part1",
       "count": 32,
-      "file": "inventory/new-hyundai-tucson-part1.json"
+      "file": "inventory/new-hyundai-tucson-part1.json",
+      "models": [
+        {
+          "model": "TUCSON",
+          "count": 1
+        },
+        {
+          "model": "Tucson",
+          "count": 31
+        }
+      ]
     },
     {
       "condition": "new",
@@ -190,7 +336,13 @@
       "model": "Tucson",
       "shard": "part2",
       "count": 32,
-      "file": "inventory/new-hyundai-tucson-part2.json"
+      "file": "inventory/new-hyundai-tucson-part2.json",
+      "models": [
+        {
+          "model": "Tucson",
+          "count": 32
+        }
+      ]
     },
     {
       "condition": "new",
@@ -198,7 +350,13 @@
       "model": "Tucson",
       "shard": "part3",
       "count": 32,
-      "file": "inventory/new-hyundai-tucson-part3.json"
+      "file": "inventory/new-hyundai-tucson-part3.json",
+      "models": [
+        {
+          "model": "Tucson",
+          "count": 32
+        }
+      ]
     },
     {
       "condition": "new",
@@ -206,21 +364,39 @@
       "model": "Tucson",
       "shard": "part4",
       "count": 32,
-      "file": "inventory/new-hyundai-tucson-part4.json"
+      "file": "inventory/new-hyundai-tucson-part4.json",
+      "models": [
+        {
+          "model": "Tucson",
+          "count": 32
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "hyundai",
       "model": "Sonata Hybrid",
       "count": 18,
-      "file": "inventory/new-hyundai-sonata-hybrid.json"
+      "file": "inventory/new-hyundai-sonata-hybrid.json",
+      "models": [
+        {
+          "model": "Sonata Hybrid",
+          "count": 18
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "hyundai",
       "model": "Sonata",
       "count": 11,
-      "file": "inventory/new-hyundai-sonata.json"
+      "file": "inventory/new-hyundai-sonata.json",
+      "models": [
+        {
+          "model": "Sonata",
+          "count": 11
+        }
+      ]
     },
     {
       "condition": "new",
@@ -228,7 +404,13 @@
       "model": "Kona Electric",
       "shard": "part1",
       "count": 29,
-      "file": "inventory/new-hyundai-kona-electric-part1.json"
+      "file": "inventory/new-hyundai-kona-electric-part1.json",
+      "models": [
+        {
+          "model": "Kona Electric",
+          "count": 29
+        }
+      ]
     },
     {
       "condition": "new",
@@ -236,7 +418,13 @@
       "model": "Kona Electric",
       "shard": "part2",
       "count": 29,
-      "file": "inventory/new-hyundai-kona-electric-part2.json"
+      "file": "inventory/new-hyundai-kona-electric-part2.json",
+      "models": [
+        {
+          "model": "Kona Electric",
+          "count": 29
+        }
+      ]
     },
     {
       "condition": "new",
@@ -244,7 +432,13 @@
       "model": "Kona Electric",
       "shard": "part3",
       "count": 29,
-      "file": "inventory/new-hyundai-kona-electric-part3.json"
+      "file": "inventory/new-hyundai-kona-electric-part3.json",
+      "models": [
+        {
+          "model": "Kona Electric",
+          "count": 29
+        }
+      ]
     },
     {
       "condition": "new",
@@ -252,7 +446,13 @@
       "model": "Santa Fe Hybrid",
       "shard": "part1",
       "count": 31,
-      "file": "inventory/new-hyundai-santa-fe-hybrid-part1.json"
+      "file": "inventory/new-hyundai-santa-fe-hybrid-part1.json",
+      "models": [
+        {
+          "model": "Santa Fe Hybrid",
+          "count": 31
+        }
+      ]
     },
     {
       "condition": "new",
@@ -260,7 +460,13 @@
       "model": "Santa Fe Hybrid",
       "shard": "part2",
       "count": 31,
-      "file": "inventory/new-hyundai-santa-fe-hybrid-part2.json"
+      "file": "inventory/new-hyundai-santa-fe-hybrid-part2.json",
+      "models": [
+        {
+          "model": "Santa Fe Hybrid",
+          "count": 31
+        }
+      ]
     },
     {
       "condition": "new",
@@ -268,7 +474,13 @@
       "model": "Santa Fe Hybrid",
       "shard": "part3",
       "count": 31,
-      "file": "inventory/new-hyundai-santa-fe-hybrid-part3.json"
+      "file": "inventory/new-hyundai-santa-fe-hybrid-part3.json",
+      "models": [
+        {
+          "model": "Santa Fe Hybrid",
+          "count": 31
+        }
+      ]
     },
     {
       "condition": "new",
@@ -276,21 +488,43 @@
       "model": "Santa Fe Hybrid",
       "shard": "part4",
       "count": 31,
-      "file": "inventory/new-hyundai-santa-fe-hybrid-part4.json"
+      "file": "inventory/new-hyundai-santa-fe-hybrid-part4.json",
+      "models": [
+        {
+          "model": "Santa Fe Hybrid",
+          "count": 31
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "hyundai",
       "model": "Santa Fe",
       "count": 28,
-      "file": "inventory/new-hyundai-santa-fe.json"
+      "file": "inventory/new-hyundai-santa-fe.json",
+      "models": [
+        {
+          "model": "SANTA FE",
+          "count": 2
+        },
+        {
+          "model": "Santa Fe",
+          "count": 26
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "hyundai",
       "model": "Tucson Plug-In Hybrid",
       "count": 4,
-      "file": "inventory/new-hyundai-tucson-plug-in-hybrid.json"
+      "file": "inventory/new-hyundai-tucson-plug-in-hybrid.json",
+      "models": [
+        {
+          "model": "Tucson Plug-In Hybrid",
+          "count": 4
+        }
+      ]
     },
     {
       "condition": "new",
@@ -298,7 +532,13 @@
       "model": "Palisade",
       "shard": "part1",
       "count": 33,
-      "file": "inventory/new-hyundai-palisade-part1.json"
+      "file": "inventory/new-hyundai-palisade-part1.json",
+      "models": [
+        {
+          "model": "Palisade",
+          "count": 33
+        }
+      ]
     },
     {
       "condition": "new",
@@ -306,7 +546,13 @@
       "model": "Palisade",
       "shard": "part2",
       "count": 33,
-      "file": "inventory/new-hyundai-palisade-part2.json"
+      "file": "inventory/new-hyundai-palisade-part2.json",
+      "models": [
+        {
+          "model": "Palisade",
+          "count": 33
+        }
+      ]
     },
     {
       "condition": "new",
@@ -314,28 +560,52 @@
       "model": "Palisade",
       "shard": "part3",
       "count": 31,
-      "file": "inventory/new-hyundai-palisade-part3.json"
+      "file": "inventory/new-hyundai-palisade-part3.json",
+      "models": [
+        {
+          "model": "Palisade",
+          "count": 31
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "hyundai",
       "model": "Palisade Hybrid",
       "count": 28,
-      "file": "inventory/new-hyundai-palisade-hybrid.json"
+      "file": "inventory/new-hyundai-palisade-hybrid.json",
+      "models": [
+        {
+          "model": "Palisade Hybrid",
+          "count": 28
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "hyundai",
       "model": "IONIQ 9",
       "count": 25,
-      "file": "inventory/new-hyundai-ioniq-9.json"
+      "file": "inventory/new-hyundai-ioniq-9.json",
+      "models": [
+        {
+          "model": "IONIQ 9",
+          "count": 25
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "hyundai",
       "model": "Santa Fe Hybrid Luxury",
       "count": 1,
-      "file": "inventory/new-hyundai-santa-fe-hybrid-luxury.json"
+      "file": "inventory/new-hyundai-santa-fe-hybrid-luxury.json",
+      "models": [
+        {
+          "model": "Santa Fe Hybrid Luxury",
+          "count": 1
+        }
+      ]
     }
   ]
 }

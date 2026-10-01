@@ -1,42 +1,76 @@
 {
-  "generated_at": "2026-09-30T22:02:37+00:00",
+  "generated_at": "2026-10-01T22:26:47+00:00",
   "condition": "used",
   "make": "nissan",
   "files": [
     {
       "condition": "used",
       "make": "nissan",
-      "model": "Sentra Sedan",
-      "count": 16,
-      "file": "inventory/used-nissan-sentra-sedan.json"
+      "model": "Sentra",
+      "count": 17,
+      "file": "inventory/used-nissan-sentra.json",
+      "models": [
+        {
+          "model": "Sentra",
+          "count": 17
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "nissan",
       "model": "Altima",
       "count": 9,
-      "file": "inventory/used-nissan-altima.json"
+      "file": "inventory/used-nissan-altima.json",
+      "models": [
+        {
+          "model": "ALTIMA",
+          "count": 1
+        },
+        {
+          "model": "Altima",
+          "count": 8
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "nissan",
       "model": "Qashqai",
       "count": 6,
-      "file": "inventory/used-nissan-qashqai.json"
+      "file": "inventory/used-nissan-qashqai.json",
+      "models": [
+        {
+          "model": "Qashqai",
+          "count": 6
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "nissan",
       "model": "Kicks",
       "count": 18,
-      "file": "inventory/used-nissan-kicks.json"
+      "file": "inventory/used-nissan-kicks.json",
+      "models": [
+        {
+          "model": "Kicks",
+          "count": 18
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "nissan",
       "model": "Murano",
       "count": 6,
-      "file": "inventory/used-nissan-murano.json"
+      "file": "inventory/used-nissan-murano.json",
+      "models": [
+        {
+          "model": "Murano",
+          "count": 6
+        }
+      ]
     },
     {
       "condition": "used",
@@ -44,7 +78,13 @@
       "model": "Rogue",
       "shard": "Lower Mainland",
       "count": 24,
-      "file": "inventory/used-nissan-rogue-lower-mainland.json"
+      "file": "inventory/used-nissan-rogue-lower-mainland.json",
+      "models": [
+        {
+          "model": "Rogue",
+          "count": 24
+        }
+      ]
     },
     {
       "condition": "used",
@@ -52,7 +92,17 @@
       "model": "Rogue",
       "shard": "Okanagan",
       "count": 6,
-      "file": "inventory/used-nissan-rogue-okanagan.json"
+      "file": "inventory/used-nissan-rogue-okanagan.json",
+      "models": [
+        {
+          "model": "ROGUE",
+          "count": 1
+        },
+        {
+          "model": "Rogue",
+          "count": 5
+        }
+      ]
     },
     {
       "condition": "used",
@@ -60,7 +110,13 @@
       "model": "Rogue",
       "shard": "Thompson-Okanagan",
       "count": 3,
-      "file": "inventory/used-nissan-rogue-thompson-okanagan.json"
+      "file": "inventory/used-nissan-rogue-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "Rogue",
+          "count": 3
+        }
+      ]
     },
     {
       "condition": "used",
@@ -68,168 +124,307 @@
       "model": "Rogue",
       "shard": "Vancouver Island",
       "count": 15,
-      "file": "inventory/used-nissan-rogue-vancouver-island.json"
+      "file": "inventory/used-nissan-rogue-vancouver-island.json",
+      "models": [
+        {
+          "model": "Rogue",
+          "count": 15
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "nissan",
       "model": "Versa",
       "count": 6,
-      "file": "inventory/used-nissan-versa.json"
+      "file": "inventory/used-nissan-versa.json",
+      "models": [
+        {
+          "model": "Versa",
+          "count": 6
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "nissan",
-      "model": "Leaf Hatchback",
+      "model": "Leaf",
       "count": 2,
-      "file": "inventory/used-nissan-leaf-hatchback.json"
+      "file": "inventory/used-nissan-leaf.json",
+      "models": [
+        {
+          "model": "Leaf",
+          "count": 2
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "nissan",
       "model": "Pathfinder",
       "count": 8,
-      "file": "inventory/used-nissan-pathfinder.json"
+      "file": "inventory/used-nissan-pathfinder.json",
+      "models": [
+        {
+          "model": "PATHFINDER",
+          "count": 1
+        },
+        {
+          "model": "Pathfinder",
+          "count": 7
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "nissan",
       "model": "Kicks Play",
       "count": 11,
-      "file": "inventory/used-nissan-kicks-play.json"
+      "file": "inventory/used-nissan-kicks-play.json",
+      "models": [
+        {
+          "model": "KICKS PLAY",
+          "count": 3
+        },
+        {
+          "model": "Kicks Play",
+          "count": 8
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "nissan",
-      "model": "Maxima Sedan",
+      "model": "Maxima",
       "count": 3,
-      "file": "inventory/used-nissan-maxima-sedan.json"
+      "file": "inventory/used-nissan-maxima.json",
+      "models": [
+        {
+          "model": "Maxima",
+          "count": 3
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "nissan",
       "model": "Ariya",
       "count": 2,
-      "file": "inventory/used-nissan-ariya.json"
+      "file": "inventory/used-nissan-ariya.json",
+      "models": [
+        {
+          "model": "Ariya",
+          "count": 2
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "nissan",
-      "model": "370Z Coupe",
+      "model": "370Z",
       "count": 1,
-      "file": "inventory/used-nissan-370z-coupe.json"
+      "file": "inventory/used-nissan-370z.json",
+      "models": [
+        {
+          "model": "370Z",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "nissan",
       "model": "Titan Crew Cab",
       "count": 1,
-      "file": "inventory/used-nissan-titan-crew-cab.json"
+      "file": "inventory/used-nissan-titan-crew-cab.json",
+      "models": [
+        {
+          "model": "Titan Crew Cab",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "nissan",
       "model": "Z",
       "count": 2,
-      "file": "inventory/used-nissan-z.json"
+      "file": "inventory/used-nissan-z.json",
+      "models": [
+        {
+          "model": "Z",
+          "count": 2
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "nissan",
       "model": "GT-R",
       "count": 1,
-      "file": "inventory/used-nissan-gt-r.json"
+      "file": "inventory/used-nissan-gt-r.json",
+      "models": [
+        {
+          "model": "GT-R",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "nissan",
       "model": "Altima WS",
       "count": 1,
-      "file": "inventory/used-nissan-altima-ws.json"
+      "file": "inventory/used-nissan-altima-ws.json",
+      "models": [
+        {
+          "model": "Altima WS",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "nissan",
       "model": "Sentra SV",
       "count": 1,
-      "file": "inventory/used-nissan-sentra-sv.json"
+      "file": "inventory/used-nissan-sentra-sv.json",
+      "models": [
+        {
+          "model": "Sentra SV",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "nissan",
       "model": "Rogue SV",
       "count": 1,
-      "file": "inventory/used-nissan-rogue-sv.json"
+      "file": "inventory/used-nissan-rogue-sv.json",
+      "models": [
+        {
+          "model": "Rogue SV",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "nissan",
       "model": "Versa Note",
       "count": 1,
-      "file": "inventory/used-nissan-versa-note.json"
+      "file": "inventory/used-nissan-versa-note.json",
+      "models": [
+        {
+          "model": "Versa Note",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "nissan",
       "model": "Juke",
       "count": 1,
-      "file": "inventory/used-nissan-juke.json"
+      "file": "inventory/used-nissan-juke.json",
+      "models": [
+        {
+          "model": "Juke",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "nissan",
       "model": "Frontier Crew Cab",
       "count": 4,
-      "file": "inventory/used-nissan-frontier-crew-cab.json"
+      "file": "inventory/used-nissan-frontier-crew-cab.json",
+      "models": [
+        {
+          "model": "Frontier Crew Cab",
+          "count": 4
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "nissan",
       "model": "Armada",
       "count": 2,
-      "file": "inventory/used-nissan-armada.json"
+      "file": "inventory/used-nissan-armada.json",
+      "models": [
+        {
+          "model": "Armada",
+          "count": 2
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "nissan",
       "model": "Murano SV - CLAIM FREE",
       "count": 1,
-      "file": "inventory/used-nissan-murano-sv-claim-free.json"
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Sentra",
-      "count": 1,
-      "file": "inventory/used-nissan-sentra.json"
+      "file": "inventory/used-nissan-murano-sv-claim-free.json",
+      "models": [
+        {
+          "model": "Murano SV - CLAIM FREE",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "nissan",
       "model": "Frontier King Cab",
       "count": 1,
-      "file": "inventory/used-nissan-frontier-king-cab.json"
+      "file": "inventory/used-nissan-frontier-king-cab.json",
+      "models": [
+        {
+          "model": "Frontier King Cab",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "nissan",
       "model": "Rogue Plug-In Hybrid",
       "count": 1,
-      "file": "inventory/used-nissan-rogue-plug-in-hybrid.json"
+      "file": "inventory/used-nissan-rogue-plug-in-hybrid.json",
+      "models": [
+        {
+          "model": "Rogue Plug-In Hybrid",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "nissan",
       "model": "Versa 5dr HB I4 CVT 1.8 SL -Ltd Avail-",
       "count": 1,
-      "file": "inventory/used-nissan-versa-5dr-hb-i4-cvt-1-8-sl-ltd-avail.json"
+      "file": "inventory/used-nissan-versa-5dr-hb-i4-cvt-1-8-sl-ltd-avail.json",
+      "models": [
+        {
+          "model": "Versa 5dr HB I4 CVT 1.8 SL -Ltd Avail-",
+          "count": 1
+        }
+      ]
     },
     {
       "condition": "used",
       "make": "nissan",
       "model": "Sentra SR",
       "count": 1,
-      "file": "inventory/used-nissan-sentra-sr.json"
+      "file": "inventory/used-nissan-sentra-sr.json",
+      "models": [
+        {
+          "model": "Sentra SR",
+          "count": 1
+        }
+      ]
     }
   ]
 }

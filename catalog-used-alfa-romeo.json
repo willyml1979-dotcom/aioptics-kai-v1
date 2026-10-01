@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T22:02:37+00:00",
+  "generated_at": "2026-10-01T22:26:47+00:00",
   "condition": "used",
   "make": "alfa-romeo",
   "files": [
@@ -7,7 +7,13 @@
       "condition": "used",
       "make": "alfa-romeo",
       "count": 1,
-      "file": "inventory/used-alfa-romeo.json"
+      "file": "inventory/used-alfa-romeo.json",
+      "models": [
+        {
+          "model": "TONALE",
+          "count": 1
+        }
+      ]
     }
   ]
 }

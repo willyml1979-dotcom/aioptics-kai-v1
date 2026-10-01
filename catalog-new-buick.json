@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T22:02:37+00:00",
+  "generated_at": "2026-10-01T22:26:47+00:00",
   "condition": "new",
   "make": "buick",
   "files": [
@@ -8,14 +8,26 @@
       "make": "buick",
       "model": "Envista",
       "count": 21,
-      "file": "inventory/new-buick-envista.json"
+      "file": "inventory/new-buick-envista.json",
+      "models": [
+        {
+          "model": "Envista",
+          "count": 21
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "buick",
       "model": "Encore GX",
       "count": 26,
-      "file": "inventory/new-buick-encore-gx.json"
+      "file": "inventory/new-buick-encore-gx.json",
+      "models": [
+        {
+          "model": "Encore GX",
+          "count": 26
+        }
+      ]
     },
     {
       "condition": "new",
@@ -23,7 +35,13 @@
       "model": "Envision",
       "shard": "Lower Mainland",
       "count": 25,
-      "file": "inventory/new-buick-envision-lower-mainland.json"
+      "file": "inventory/new-buick-envision-lower-mainland.json",
+      "models": [
+        {
+          "model": "Envision",
+          "count": 25
+        }
+      ]
     },
     {
       "condition": "new",
@@ -31,21 +49,39 @@
       "model": "Envision",
       "shard": "Vancouver Island",
       "count": 37,
-      "file": "inventory/new-buick-envision-vancouver-island.json"
+      "file": "inventory/new-buick-envision-vancouver-island.json",
+      "models": [
+        {
+          "model": "Envision",
+          "count": 37
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "buick",
       "model": "Enclave",
       "count": 9,
-      "file": "inventory/new-buick-enclave.json"
+      "file": "inventory/new-buick-enclave.json",
+      "models": [
+        {
+          "model": "Enclave",
+          "count": 9
+        }
+      ]
     },
     {
       "condition": "new",
       "make": "buick",
       "model": "Encore GX Preferred",
       "count": 1,
-      "file": "inventory/new-buick-encore-gx-preferred.json"
+      "file": "inventory/new-buick-encore-gx-preferred.json",
+      "models": [
+        {
+          "model": "Encore GX Preferred",
+          "count": 1
+        }
+      ]
     }
   ]
 }

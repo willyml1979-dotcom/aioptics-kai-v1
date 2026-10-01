@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T22:02:37+00:00",
+  "generated_at": "2026-10-01T22:26:47+00:00",
   "condition": "new",
   "make": "dodge",
   "files": [
@@ -7,7 +7,33 @@
       "condition": "new",
       "make": "dodge",
       "count": 21,
-      "file": "inventory/new-dodge.json"
+      "file": "inventory/new-dodge.json",
+      "models": [
+        {
+          "model": "CHARGER",
+          "count": 3
+        },
+        {
+          "model": "CHARGER DAYTONA",
+          "count": 1
+        },
+        {
+          "model": "Charger",
+          "count": 2
+        },
+        {
+          "model": "DURANGO",
+          "count": 10
+        },
+        {
+          "model": "Durango",
+          "count": 4
+        },
+        {
+          "model": "HORNET",
+          "count": 1
+        }
+      ]
     }
   ]
 }

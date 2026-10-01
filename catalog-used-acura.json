@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T22:02:37+00:00",
+  "generated_at": "2026-10-01T22:26:47+00:00",
   "condition": "used",
   "make": "acura",
   "files": [
@@ -7,7 +7,33 @@
       "condition": "used",
       "make": "acura",
       "count": 15,
-      "file": "inventory/used-acura.json"
+      "file": "inventory/used-acura.json",
+      "models": [
+        {
+          "model": "ILX",
+          "count": 2
+        },
+        {
+          "model": "Integra",
+          "count": 1
+        },
+        {
+          "model": "MDX",
+          "count": 3
+        },
+        {
+          "model": "MDX A-SPEC",
+          "count": 1
+        },
+        {
+          "model": "RDX",
+          "count": 7
+        },
+        {
+          "model": "TL 4dr Sdn Auto 2WD A-Spec",
+          "count": 1
+        }
+      ]
     }
   ]
 }
