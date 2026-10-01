@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T22:26:47+00:00",
+  "generated_at": "2026-10-01T22:33:34+00:00",
   "condition": "used",
   "make": "volkswagen",
   "files": [
@@ -7,12 +7,12 @@
       "condition": "used",
       "make": "volkswagen",
       "model": "Taos",
-      "count": 22,
+      "count": 35,
       "file": "inventory/used-volkswagen-taos.json",
       "models": [
         {
           "model": "Taos",
-          "count": 22
+          "count": 35
         }
       ]
     },
@@ -20,12 +20,12 @@
       "condition": "used",
       "make": "volkswagen",
       "model": "Jetta",
-      "count": 9,
+      "count": 16,
       "file": "inventory/used-volkswagen-jetta.json",
       "models": [
         {
           "model": "Jetta",
-          "count": 9
+          "count": 16
         }
       ]
     },
@@ -33,28 +33,26 @@
       "condition": "used",
       "make": "volkswagen",
       "model": "Tiguan",
-      "count": 27,
-      "file": "inventory/used-volkswagen-tiguan.json",
+      "shard": "Lower Mainland",
+      "count": 23,
+      "file": "inventory/used-volkswagen-tiguan-lower-mainland.json",
       "models": [
         {
-          "model": "TIGUAN",
-          "count": 1
-        },
-        {
           "model": "Tiguan",
-          "count": 26
+          "count": 23
         }
       ]
     },
     {
       "condition": "used",
       "make": "volkswagen",
-      "model": "Golf",
+      "model": "Tiguan",
+      "shard": "Norte/Cariboo",
       "count": 2,
-      "file": "inventory/used-volkswagen-golf.json",
+      "file": "inventory/used-volkswagen-tiguan-norte-cariboo.json",
       "models": [
         {
-          "model": "Golf",
+          "model": "Tiguan",
           "count": 2
         }
       ]
@@ -62,42 +60,13 @@
     {
       "condition": "used",
       "make": "volkswagen",
-      "model": "Atlas",
-      "count": 10,
-      "file": "inventory/used-volkswagen-atlas.json",
-      "models": [
-        {
-          "model": "ATLAS",
-          "count": 1
-        },
-        {
-          "model": "Atlas",
-          "count": 9
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Golf GTI",
-      "count": 3,
-      "file": "inventory/used-volkswagen-golf-gti.json",
-      "models": [
-        {
-          "model": "Golf GTI",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Atlas Cross Sport",
+      "model": "Tiguan",
+      "shard": "Okanagan",
       "count": 8,
-      "file": "inventory/used-volkswagen-atlas-cross-sport.json",
+      "file": "inventory/used-volkswagen-tiguan-okanagan.json",
       "models": [
         {
-          "model": "Atlas Cross Sport",
+          "model": "Tiguan",
           "count": 8
         }
       ]
@@ -105,25 +74,41 @@
     {
       "condition": "used",
       "make": "volkswagen",
-      "model": "ID.4",
-      "count": 3,
-      "file": "inventory/used-volkswagen-id-4.json",
+      "model": "Tiguan",
+      "shard": "Thompson-Okanagan",
+      "count": 6,
+      "file": "inventory/used-volkswagen-tiguan-thompson-okanagan.json",
       "models": [
         {
-          "model": "ID.4",
-          "count": 3
+          "model": "Tiguan",
+          "count": 6
         }
       ]
     },
     {
       "condition": "used",
       "make": "volkswagen",
-      "model": "Golf R",
-      "count": 7,
-      "file": "inventory/used-volkswagen-golf-r.json",
+      "model": "Tiguan",
+      "shard": "Vancouver Island",
+      "count": 1,
+      "file": "inventory/used-volkswagen-tiguan-vancouver-island.json",
       "models": [
         {
-          "model": "Golf R",
+          "model": "Tiguan",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volkswagen",
+      "model": "Tiguan",
+      "shard": "sin-region",
+      "count": 7,
+      "file": "inventory/used-volkswagen-tiguan-sin-region.json",
+      "models": [
+        {
+          "model": "Tiguan",
           "count": 7
         }
       ]
@@ -131,207 +116,12 @@
     {
       "condition": "used",
       "make": "volkswagen",
-      "model": "Atlas Cross Sport Execline 3.6L 8sp at w/Tip 4MOTION",
-      "count": 1,
-      "file": "inventory/used-volkswagen-atlas-cross-sport-execline-3-6l-8sp-at-w-tip-4motion.json",
-      "models": [
-        {
-          "model": "Atlas Cross Sport Execline 3.6L 8sp at w/Tip 4MOTION",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Atlas Cross Sport Comfortline 2.0 TSI 4MOTION",
-      "count": 1,
-      "file": "inventory/used-volkswagen-atlas-cross-sport-comfortline-2-0-tsi-4motion.json",
-      "models": [
-        {
-          "model": "Atlas Cross Sport Comfortline 2.0 TSI 4MOTION",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Atlas Highline 3.6L 8sp at w/Tip 4MOTION (2)",
-      "count": 1,
-      "file": "inventory/used-volkswagen-atlas-highline-3-6l-8sp-at-w-tip-4motion-2.json",
-      "models": [
-        {
-          "model": "Atlas Highline 3.6L 8sp at w/Tip 4MOTION (2)",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Atlas Highline 3.6L 8sp at w/Tip 4MOTION",
-      "count": 1,
-      "file": "inventory/used-volkswagen-atlas-highline-3-6l-8sp-at-w-tip-4motion.json",
-      "models": [
-        {
-          "model": "Atlas Highline 3.6L 8sp at w/Tip 4MOTION",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Atlas Execline 2.0 TSI 4MOTION",
-      "count": 2,
-      "file": "inventory/used-volkswagen-atlas-execline-2-0-tsi-4motion.json",
-      "models": [
-        {
-          "model": "Atlas Execline 2.0 TSI 4MOTION",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Golf R 2.0T 7Sp at DSG w/Tip",
-      "count": 1,
-      "file": "inventory/used-volkswagen-golf-r-2-0t-7sp-at-dsg-w-tip.json",
-      "models": [
-        {
-          "model": "Golf R 2.0T 7Sp at DSG w/Tip",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "ID.4 Pro S RWD",
-      "count": 1,
-      "file": "inventory/used-volkswagen-id-4-pro-s-rwd.json",
-      "models": [
-        {
-          "model": "ID.4 Pro S RWD",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Jetta Comfortline 1.5 T 8Sp at w/Tip",
-      "count": 1,
-      "file": "inventory/used-volkswagen-jetta-comfortline-1-5-t-8sp-at-w-tip.json",
-      "models": [
-        {
-          "model": "Jetta Comfortline 1.5 T 8Sp at w/Tip",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Jetta Comfortline Auto",
-      "count": 1,
-      "file": "inventory/used-volkswagen-jetta-comfortline-auto.json",
-      "models": [
-        {
-          "model": "Jetta Comfortline Auto",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Jetta Highline Auto",
-      "count": 1,
-      "file": "inventory/used-volkswagen-jetta-highline-auto.json",
-      "models": [
-        {
-          "model": "Jetta Highline Auto",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Taos Trendline 4MOTION",
-      "count": 2,
-      "file": "inventory/used-volkswagen-taos-trendline-4motion.json",
-      "models": [
-        {
-          "model": "Taos Trendline 4MOTION",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Taos Comfortline 4MOTION",
-      "count": 2,
-      "file": "inventory/used-volkswagen-taos-comfortline-4motion.json",
-      "models": [
-        {
-          "model": "Taos Comfortline 4MOTION",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Taos Highline 4MOTION",
-      "count": 1,
-      "file": "inventory/used-volkswagen-taos-highline-4motion.json",
-      "models": [
-        {
-          "model": "Taos Highline 4MOTION",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "The Beetle Convertible Comfortline 2.5L 6sp at Tip",
-      "count": 1,
-      "file": "inventory/used-volkswagen-the-beetle-convertible-comfortline-2-5l-6sp-at-tip.json",
-      "models": [
-        {
-          "model": "The Beetle Convertible Comfortline 2.5L 6sp at Tip",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Tiguan Comfortline 2.0T 8sp at w/Tip 4M",
-      "count": 1,
-      "file": "inventory/used-volkswagen-tiguan-comfortline-2-0t-8sp-at-w-tip-4m.json",
-      "models": [
-        {
-          "model": "Tiguan Comfortline 2.0T 8sp at w/Tip 4M",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Tiguan Comfortline R-Line Black 2.0T 8sp at w/Tip 4M",
+      "model": "Golf",
       "count": 4,
-      "file": "inventory/used-volkswagen-tiguan-comfortline-r-line-black-2-0t-8sp-at-w-tip-4m.json",
+      "file": "inventory/used-volkswagen-golf.json",
       "models": [
         {
-          "model": "Tiguan Comfortline R-Line Black 2.0T 8sp at w/Tip 4M",
+          "model": "Golf",
           "count": 4
         }
       ]
@@ -339,12 +129,77 @@
     {
       "condition": "used",
       "make": "volkswagen",
-      "model": "Tiguan Trendline 2.0T 8sp at w/Tip 4M",
-      "count": 1,
-      "file": "inventory/used-volkswagen-tiguan-trendline-2-0t-8sp-at-w-tip-4m.json",
+      "model": "Atlas",
+      "count": 20,
+      "file": "inventory/used-volkswagen-atlas.json",
       "models": [
         {
-          "model": "Tiguan Trendline 2.0T 8sp at w/Tip 4M",
+          "model": "Atlas",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volkswagen",
+      "model": "Golf GTI",
+      "count": 6,
+      "file": "inventory/used-volkswagen-golf-gti.json",
+      "models": [
+        {
+          "model": "Golf GTI",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volkswagen",
+      "model": "Atlas Cross Sport",
+      "count": 13,
+      "file": "inventory/used-volkswagen-atlas-cross-sport.json",
+      "models": [
+        {
+          "model": "Atlas Cross Sport",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volkswagen",
+      "model": "ID.4",
+      "count": 6,
+      "file": "inventory/used-volkswagen-id-4.json",
+      "models": [
+        {
+          "model": "ID.4",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volkswagen",
+      "model": "Golf R",
+      "count": 10,
+      "file": "inventory/used-volkswagen-golf-r.json",
+      "models": [
+        {
+          "model": "Golf R",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volkswagen",
+      "model": "Beetle",
+      "count": 1,
+      "file": "inventory/used-volkswagen-beetle.json",
+      "models": [
+        {
+          "model": "Beetle",
           "count": 1
         }
       ]
@@ -352,325 +207,13 @@
     {
       "condition": "used",
       "make": "volkswagen",
-      "model": "Tiguan Comfortline R-Line Black Edition 4MOTION",
+      "model": "ID. Buzz",
       "count": 1,
-      "file": "inventory/used-volkswagen-tiguan-comfortline-r-line-black-edition-4motion.json",
+      "file": "inventory/used-volkswagen-id-buzz.json",
       "models": [
         {
-          "model": "Tiguan Comfortline R-Line Black Edition 4MOTION",
+          "model": "ID. Buzz",
           "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Tiguan Comfortline 4MOTION",
-      "count": 2,
-      "file": "inventory/used-volkswagen-tiguan-comfortline-4motion.json",
-      "models": [
-        {
-          "model": "Tiguan Comfortline 4MOTION",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Tiguan Trendline 4MOTION",
-      "count": 1,
-      "file": "inventory/used-volkswagen-tiguan-trendline-4motion.json",
-      "models": [
-        {
-          "model": "Tiguan Trendline 4MOTION",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Tiguan Highline",
-      "count": 1,
-      "file": "inventory/used-volkswagen-tiguan-highline.json",
-      "models": [
-        {
-          "model": "Tiguan Highline",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "JETTA SEDANS",
-      "count": 1,
-      "file": "inventory/used-volkswagen-jetta-sedans.json",
-      "models": [
-        {
-          "model": "JETTA SEDANS",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Golf SportWagen",
-      "count": 2,
-      "file": "inventory/used-volkswagen-golf-sportwagen.json",
-      "models": [
-        {
-          "model": "Golf SportWagen",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Jetta Sedan COMFORTLINE",
-      "count": 1,
-      "file": "inventory/used-volkswagen-jetta-sedan-comfortline.json",
-      "models": [
-        {
-          "model": "Jetta Sedan COMFORTLINE",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Atlas Cross Sport Trendline",
-      "count": 1,
-      "file": "inventory/used-volkswagen-atlas-cross-sport-trendline.json",
-      "models": [
-        {
-          "model": "Atlas Cross Sport Trendline",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Atlas Cross Sport Execline",
-      "count": 1,
-      "file": "inventory/used-volkswagen-atlas-cross-sport-execline.json",
-      "models": [
-        {
-          "model": "Atlas Cross Sport Execline",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Atlas Cross Sport Highline",
-      "count": 1,
-      "file": "inventory/used-volkswagen-atlas-cross-sport-highline.json",
-      "models": [
-        {
-          "model": "Atlas Cross Sport Highline",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Atlas AWD",
-      "count": 1,
-      "file": "inventory/used-volkswagen-atlas-awd.json",
-      "models": [
-        {
-          "model": "Atlas AWD",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Atlas Comfortline",
-      "count": 2,
-      "file": "inventory/used-volkswagen-atlas-comfortline.json",
-      "models": [
-        {
-          "model": "Atlas Comfortline",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Atlas Highline",
-      "count": 1,
-      "file": "inventory/used-volkswagen-atlas-highline.json",
-      "models": [
-        {
-          "model": "Atlas Highline",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Golf R BASE ONE OWNER / DSG",
-      "count": 1,
-      "file": "inventory/used-volkswagen-golf-r-base-one-owner-dsg.json",
-      "models": [
-        {
-          "model": "Golf R BASE ONE OWNER / DSG",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Golf R BASE",
-      "count": 1,
-      "file": "inventory/used-volkswagen-golf-r-base.json",
-      "models": [
-        {
-          "model": "Golf R BASE",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "ID. Buzz 1st Edition",
-      "count": 1,
-      "file": "inventory/used-volkswagen-id-buzz-1st-edition.json",
-      "models": [
-        {
-          "model": "ID. Buzz 1st Edition",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "ID.4 Pro S",
-      "count": 1,
-      "file": "inventory/used-volkswagen-id-4-pro-s.json",
-      "models": [
-        {
-          "model": "ID.4 Pro S",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "ID.4 Pro",
-      "count": 1,
-      "file": "inventory/used-volkswagen-id-4-pro.json",
-      "models": [
-        {
-          "model": "ID.4 Pro",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Jetta GLI Autobahn",
-      "count": 2,
-      "file": "inventory/used-volkswagen-jetta-gli-autobahn.json",
-      "models": [
-        {
-          "model": "Jetta GLI Autobahn",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Taos Highline",
-      "count": 3,
-      "file": "inventory/used-volkswagen-taos-highline.json",
-      "models": [
-        {
-          "model": "Taos Highline",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Taos Trendline",
-      "count": 2,
-      "file": "inventory/used-volkswagen-taos-trendline.json",
-      "models": [
-        {
-          "model": "Taos Trendline",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Taos Comfortline",
-      "count": 3,
-      "file": "inventory/used-volkswagen-taos-comfortline.json",
-      "models": [
-        {
-          "model": "Taos Comfortline",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Tiguan Comfortline",
-      "count": 2,
-      "file": "inventory/used-volkswagen-tiguan-comfortline.json",
-      "models": [
-        {
-          "model": "Tiguan Comfortline",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Tiguan Comfortline R-Line Black Edition",
-      "count": 2,
-      "file": "inventory/used-volkswagen-tiguan-comfortline-r-line-black-edition.json",
-      "models": [
-        {
-          "model": "Tiguan Comfortline R-Line Black Edition",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Tiguan Highline Turbo R-Line",
-      "count": 3,
-      "file": "inventory/used-volkswagen-tiguan-highline-turbo-r-line.json",
-      "models": [
-        {
-          "model": "Tiguan Highline Turbo R-Line",
-          "count": 3
         }
       ]
     },
@@ -678,116 +221,12 @@
       "condition": "used",
       "make": "volkswagen",
       "model": "Jetta GLI",
-      "count": 2,
+      "count": 4,
       "file": "inventory/used-volkswagen-jetta-gli.json",
       "models": [
         {
           "model": "Jetta GLI",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Atlas Comfortline 2.0 TSI 4MOTION",
-      "count": 1,
-      "file": "inventory/used-volkswagen-atlas-comfortline-2-0-tsi-4motion.json",
-      "models": [
-        {
-          "model": "Atlas Comfortline 2.0 TSI 4MOTION",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Atlas Execline",
-      "count": 1,
-      "file": "inventory/used-volkswagen-atlas-execline.json",
-      "models": [
-        {
-          "model": "Atlas Execline",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Golf GTI Autobahn",
-      "count": 1,
-      "file": "inventory/used-volkswagen-golf-gti-autobahn.json",
-      "models": [
-        {
-          "model": "Golf GTI Autobahn",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Golf GTI 380 Performance",
-      "count": 2,
-      "file": "inventory/used-volkswagen-golf-gti-380-performance.json",
-      "models": [
-        {
-          "model": "Golf GTI 380 Performance",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Jetta Trendline",
-      "count": 1,
-      "file": "inventory/used-volkswagen-jetta-trendline.json",
-      "models": [
-        {
-          "model": "Jetta Trendline",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Tiguan 2.0T Special Edition",
-      "count": 1,
-      "file": "inventory/used-volkswagen-tiguan-2-0t-special-edition.json",
-      "models": [
-        {
-          "model": "Tiguan 2.0T Special Edition",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Tiguan Highline R-Line",
-      "count": 1,
-      "file": "inventory/used-volkswagen-tiguan-highline-r-line.json",
-      "models": [
-        {
-          "model": "Tiguan Highline R-Line",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Jetta Sedan Trendline+",
-      "count": 1,
-      "file": "inventory/used-volkswagen-jetta-sedan-trendline.json",
-      "models": [
-        {
-          "model": "Jetta Sedan Trendline+",
-          "count": 1
+          "count": 4
         }
       ]
     }
