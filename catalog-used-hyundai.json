@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T22:33:34+00:00",
+  "generated_at": "2026-10-01T22:47:51+00:00",
   "condition": "used",
   "make": "hyundai",
   "files": [
@@ -7,12 +7,12 @@
       "condition": "used",
       "make": "hyundai",
       "model": "Santa Fe Sport",
-      "count": 10,
+      "count": 37,
       "file": "inventory/used-hyundai-santa-fe-sport.json",
       "models": [
         {
           "model": "Santa Fe Sport",
-          "count": 10
+          "count": 37
         }
       ]
     },
@@ -20,12 +20,54 @@
       "condition": "used",
       "make": "hyundai",
       "model": "Santa Fe",
-      "count": 32,
-      "file": "inventory/used-hyundai-santa-fe.json",
+      "shard": "part1",
+      "count": 34,
+      "file": "inventory/used-hyundai-santa-fe-part1.json",
       "models": [
         {
           "model": "Santa Fe",
-          "count": 32
+          "count": 34
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Santa Fe",
+      "shard": "part2",
+      "count": 34,
+      "file": "inventory/used-hyundai-santa-fe-part2.json",
+      "models": [
+        {
+          "model": "Santa Fe",
+          "count": 34
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Santa Fe",
+      "shard": "part3",
+      "count": 33,
+      "file": "inventory/used-hyundai-santa-fe-part3.json",
+      "models": [
+        {
+          "model": "Santa Fe",
+          "count": 33
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Tucson Preferred",
+      "count": 3,
+      "file": "inventory/used-hyundai-tucson-preferred.json",
+      "models": [
+        {
+          "model": "Tucson Preferred",
+          "count": 3
         }
       ]
     },
@@ -33,7 +75,7 @@
       "condition": "used",
       "make": "hyundai",
       "model": "SONATA",
-      "count": 6,
+      "count": 27,
       "file": "inventory/used-hyundai-sonata.json",
       "models": [
         {
@@ -42,7 +84,7 @@
         },
         {
           "model": "Sonata",
-          "count": 5
+          "count": 26
         }
       ]
     },
@@ -51,12 +93,12 @@
       "make": "hyundai",
       "model": "Elantra",
       "shard": "Lower Mainland",
-      "count": 28,
+      "count": 35,
       "file": "inventory/used-hyundai-elantra-lower-mainland.json",
       "models": [
         {
           "model": "Elantra",
-          "count": 28
+          "count": 35
         }
       ]
     },
@@ -65,12 +107,12 @@
       "make": "hyundai",
       "model": "Elantra",
       "shard": "Okanagan",
-      "count": 7,
+      "count": 22,
       "file": "inventory/used-hyundai-elantra-okanagan.json",
       "models": [
         {
           "model": "Elantra",
-          "count": 7
+          "count": 22
         }
       ]
     },
@@ -79,12 +121,26 @@
       "make": "hyundai",
       "model": "Elantra",
       "shard": "Vancouver Island",
-      "count": 4,
+      "count": 30,
       "file": "inventory/used-hyundai-elantra-vancouver-island.json",
       "models": [
         {
           "model": "Elantra",
-          "count": 4
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Elantra",
+      "shard": "sin-region",
+      "count": 1,
+      "file": "inventory/used-hyundai-elantra-sin-region.json",
+      "models": [
+        {
+          "model": "Elantra",
+          "count": 1
         }
       ]
     },
@@ -92,12 +148,16 @@
       "condition": "used",
       "make": "hyundai",
       "model": "ACCENT",
-      "count": 4,
+      "count": 23,
       "file": "inventory/used-hyundai-accent.json",
       "models": [
         {
           "model": "ACCENT",
-          "count": 4
+          "count": 9
+        },
+        {
+          "model": "Accent",
+          "count": 14
         }
       ]
     },
@@ -105,13 +165,13 @@
       "condition": "used",
       "make": "hyundai",
       "model": "Tucson",
-      "shard": "Lower Mainland",
-      "count": 36,
-      "file": "inventory/used-hyundai-tucson-lower-mainland.json",
+      "shard": "part1",
+      "count": 33,
+      "file": "inventory/used-hyundai-tucson-part1.json",
       "models": [
         {
           "model": "Tucson",
-          "count": 36
+          "count": 33
         }
       ]
     },
@@ -119,9 +179,9 @@
       "condition": "used",
       "make": "hyundai",
       "model": "Tucson",
-      "shard": "Norte/Cariboo",
-      "count": 4,
-      "file": "inventory/used-hyundai-tucson-norte-cariboo.json",
+      "shard": "part2",
+      "count": 33,
+      "file": "inventory/used-hyundai-tucson-part2.json",
       "models": [
         {
           "model": "TUCSON",
@@ -129,7 +189,7 @@
         },
         {
           "model": "Tucson",
-          "count": 3
+          "count": 32
         }
       ]
     },
@@ -137,13 +197,13 @@
       "condition": "used",
       "make": "hyundai",
       "model": "Tucson",
-      "shard": "Okanagan",
-      "count": 7,
-      "file": "inventory/used-hyundai-tucson-okanagan.json",
+      "shard": "part3",
+      "count": 33,
+      "file": "inventory/used-hyundai-tucson-part3.json",
       "models": [
         {
           "model": "Tucson",
-          "count": 7
+          "count": 33
         }
       ]
     },
@@ -151,9 +211,9 @@
       "condition": "used",
       "make": "hyundai",
       "model": "Tucson",
-      "shard": "Vancouver Island",
-      "count": 5,
-      "file": "inventory/used-hyundai-tucson-vancouver-island.json",
+      "shard": "part4",
+      "count": 31,
+      "file": "inventory/used-hyundai-tucson-part4.json",
       "models": [
         {
           "model": "TUCSON",
@@ -161,33 +221,19 @@
         },
         {
           "model": "Tucson",
-          "count": 4
+          "count": 30
         }
       ]
     },
     {
       "condition": "used",
       "make": "hyundai",
-      "model": "Tucson",
-      "shard": "sin-region",
-      "count": 1,
-      "file": "inventory/used-hyundai-tucson-sin-region.json",
-      "models": [
-        {
-          "model": "Tucson",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "hyundai",
-      "model": "IONIQ Electric",
+      "model": "Elantra 2016 GLS - sleek, reliable, and fuel-smart with style that goes the distance!in British Columbia",
       "count": 2,
-      "file": "inventory/used-hyundai-ioniq-electric.json",
+      "file": "inventory/used-hyundai-elantra-2016-gls-sleek-reliable-and-fuel-smart-with-style-that-goes-the-distance-in-british-columbia.json",
       "models": [
         {
-          "model": "IONIQ Electric",
+          "model": "Elantra 2016 GLS - sleek, reliable, and fuel-smart with style that goes the distance!in British Columbia",
           "count": 2
         }
       ]
@@ -195,12 +241,176 @@
     {
       "condition": "used",
       "make": "hyundai",
-      "model": "Elantra GT",
+      "model": "Tucson 2017 Premium AWD - smart, stylish, and built to make every drive feel better!in British Columbia",
+      "count": 2,
+      "file": "inventory/used-hyundai-tucson-2017-premium-awd-smart-stylish-and-built-to-make-every-drive-feel-better-in-british-columbia.json",
+      "models": [
+        {
+          "model": "Tucson 2017 Premium AWD - smart, stylish, and built to make every drive feel better!in British Columbia",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "IONIQ Electric",
+      "count": 4,
+      "file": "inventory/used-hyundai-ioniq-electric.json",
+      "models": [
+        {
+          "model": "IONIQ Electric",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Santa Fe Sport Luxuryin British Columbia",
       "count": 1,
+      "file": "inventory/used-hyundai-santa-fe-sport-luxuryin-british-columbia.json",
+      "models": [
+        {
+          "model": "Santa Fe Sport Luxuryin British Columbia",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Elantra GT",
+      "count": 3,
       "file": "inventory/used-hyundai-elantra-gt.json",
       "models": [
         {
           "model": "Elantra GT",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Santa Fe Sport AWD 4dr 2.0T Limited FULL LOAD! NAVIGATION! LEATHER! SUNROOF!in British Columbia",
+      "count": 2,
+      "file": "inventory/used-hyundai-santa-fe-sport-awd-4dr-2-0t-limited-full-load-navigation-leather-sunroof-in-british-columbia.json",
+      "models": [
+        {
+          "model": "Santa Fe Sport AWD 4dr 2.0T Limited FULL LOAD! NAVIGATION! LEATHER! SUNROOF!in British Columbia",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Santa Fe Sport AWD 4dr 2.4L SE LEATHER! SUNROOF! NO ACCIDENT!in British Columbia",
+      "count": 2,
+      "file": "inventory/used-hyundai-santa-fe-sport-awd-4dr-2-4l-se-leather-sunroof-no-accident-in-british-columbia.json",
+      "models": [
+        {
+          "model": "Santa Fe Sport AWD 4dr 2.4L SE LEATHER! SUNROOF! NO ACCIDENT!in British Columbia",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Santa Fe Sport AWD 4dr 2.0T Limited FULL LOAD! LEATHER! NAVIGATION! SUNROOF!in British Columbia",
+      "count": 2,
+      "file": "inventory/used-hyundai-santa-fe-sport-awd-4dr-2-0t-limited-full-load-leather-navigation-sunroof-in-british-columbia.json",
+      "models": [
+        {
+          "model": "Santa Fe Sport AWD 4dr 2.0T Limited FULL LOAD! LEATHER! NAVIGATION! SUNROOF!in British Columbia",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Santa Fe Sport 2.4L Luxury AWD HEATED LEATHER SEATS, BACK UP CAMERA, BLUETOOTH, SENSORS, WHEEL CONTROLS, 154,611 KMin British Columbia",
+      "count": 2,
+      "file": "inventory/used-hyundai-santa-fe-sport-2-4l-luxury-awd-heated-leather-seats-back-up-camera-bluetooth-sensors-wheel-controls-154-611-kmin-british-columbia.json",
+      "models": [
+        {
+          "model": "Santa Fe Sport 2.4L Luxury AWD HEATED LEATHER SEATS, BACK UP CAMERA, BLUETOOTH, SENSORS, WHEEL CONTROLS, 154,611 KMin British Columbia",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Santa Fe Sport 2018 - premium comfort, smooth ride, and space for every adventure.in British Columbia",
+      "count": 2,
+      "file": "inventory/used-hyundai-santa-fe-sport-2018-premium-comfort-smooth-ride-and-space-for-every-adventure-in-british-columbia.json",
+      "models": [
+        {
+          "model": "Santa Fe Sport 2018 - premium comfort, smooth ride, and space for every adventure.in British Columbia",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Kona",
+      "shard": "Lower Mainland",
+      "count": 23,
+      "file": "inventory/used-hyundai-kona-lower-mainland.json",
+      "models": [
+        {
+          "model": "Kona",
+          "count": 23
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Kona",
+      "shard": "Norte/Cariboo",
+      "count": 4,
+      "file": "inventory/used-hyundai-kona-norte-cariboo.json",
+      "models": [
+        {
+          "model": "KONA",
+          "count": 1
+        },
+        {
+          "model": "Kona",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Kona",
+      "shard": "Okanagan",
+      "count": 18,
+      "file": "inventory/used-hyundai-kona-okanagan.json",
+      "models": [
+        {
+          "model": "Kona",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Kona",
+      "shard": "Thompson-Okanagan",
+      "count": 1,
+      "file": "inventory/used-hyundai-kona-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "Kona",
           "count": 1
         }
       ]
@@ -209,16 +419,79 @@
       "condition": "used",
       "make": "hyundai",
       "model": "Kona",
-      "count": 32,
-      "file": "inventory/used-hyundai-kona.json",
+      "shard": "Vancouver Island",
+      "count": 29,
+      "file": "inventory/used-hyundai-kona-vancouver-island.json",
       "models": [
         {
-          "model": "KONA",
-          "count": 1
-        },
+          "model": "Kona",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Kona",
+      "shard": "sin-region",
+      "count": 2,
+      "file": "inventory/used-hyundai-kona-sin-region.json",
+      "models": [
         {
           "model": "Kona",
-          "count": 31
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Kona 2.0L Luxury AWD BLINDSPOT! BACKUP CAMERA! SUNROOF!in British Columbia",
+      "count": 2,
+      "file": "inventory/used-hyundai-kona-2-0l-luxury-awd-blindspot-backup-camera-sunroof-in-british-columbia.json",
+      "models": [
+        {
+          "model": "Kona 2.0L Luxury AWD BLINDSPOT! BACKUP CAMERA! SUNROOF!in British Columbia",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Sonata 2.4L Essential w/Sport Pkg NO ACCIDENT! SUNROOF!in British Columbia",
+      "count": 2,
+      "file": "inventory/used-hyundai-sonata-2-4l-essential-w-sport-pkg-no-accident-sunroof-in-british-columbia.json",
+      "models": [
+        {
+          "model": "Sonata 2.4L Essential w/Sport Pkg NO ACCIDENT! SUNROOF!in British Columbia",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Tucson AWD 4dr 1.6L Limited PANORAMIC SUNROOF! LEATHER INTERIOR! NAVIGATION! BACKUP CAMERA!in British Columbia",
+      "count": 2,
+      "file": "inventory/used-hyundai-tucson-awd-4dr-1-6l-limited-panoramic-sunroof-leather-interior-navigation-backup-camera-in-british-columbia.json",
+      "models": [
+        {
+          "model": "Tucson AWD 4dr 1.6L Limited PANORAMIC SUNROOF! LEATHER INTERIOR! NAVIGATION! BACKUP CAMERA!in British Columbia",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Tucson 1.6T Noir AWD PANORAMIC SUNROOF! HEATED SEATS & STEERING WHEEL! BACKUP CAMERA!in British Columbia",
+      "count": 2,
+      "file": "inventory/used-hyundai-tucson-1-6t-noir-awd-panoramic-sunroof-heated-seats-steering-wheel-backup-camera-in-british-columbia.json",
+      "models": [
+        {
+          "model": "Tucson 1.6T Noir AWD PANORAMIC SUNROOF! HEATED SEATS & STEERING WHEEL! BACKUP CAMERA!in British Columbia",
+          "count": 2
         }
       ]
     },
@@ -226,12 +499,82 @@
       "condition": "used",
       "make": "hyundai",
       "model": "Venue",
-      "count": 23,
-      "file": "inventory/used-hyundai-venue.json",
+      "shard": "Lower Mainland",
+      "count": 19,
+      "file": "inventory/used-hyundai-venue-lower-mainland.json",
       "models": [
         {
           "model": "Venue",
-          "count": 23
+          "count": 19
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Venue",
+      "shard": "Norte/Cariboo",
+      "count": 3,
+      "file": "inventory/used-hyundai-venue-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Venue",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Venue",
+      "shard": "Okanagan",
+      "count": 11,
+      "file": "inventory/used-hyundai-venue-okanagan.json",
+      "models": [
+        {
+          "model": "Venue",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Venue",
+      "shard": "Thompson-Okanagan",
+      "count": 1,
+      "file": "inventory/used-hyundai-venue-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "Venue",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Venue",
+      "shard": "Vancouver Island",
+      "count": 20,
+      "file": "inventory/used-hyundai-venue-vancouver-island.json",
+      "models": [
+        {
+          "model": "Venue",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Veloster",
+      "count": 12,
+      "file": "inventory/used-hyundai-veloster.json",
+      "models": [
+        {
+          "model": "Veloster",
+          "count": 12
         }
       ]
     },
@@ -239,12 +582,12 @@
       "condition": "used",
       "make": "hyundai",
       "model": "Elantra Hybrid",
-      "count": 2,
+      "count": 9,
       "file": "inventory/used-hyundai-elantra-hybrid.json",
       "models": [
         {
           "model": "Elantra Hybrid",
-          "count": 2
+          "count": 9
         }
       ]
     },
@@ -265,12 +608,25 @@
       "condition": "used",
       "make": "hyundai",
       "model": "Kona Electric",
-      "count": 11,
+      "count": 25,
       "file": "inventory/used-hyundai-kona-electric.json",
       "models": [
         {
           "model": "Kona Electric",
-          "count": 11
+          "count": 25
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Kona Pre Trendin Surrey",
+      "count": 1,
+      "file": "inventory/used-hyundai-kona-pre-trendin-surrey.json",
+      "models": [
+        {
+          "model": "Kona Pre Trendin Surrey",
+          "count": 1
         }
       ]
     },
@@ -278,8 +634,9 @@
       "condition": "used",
       "make": "hyundai",
       "model": "Palisade",
+      "shard": "Lower Mainland",
       "count": 21,
-      "file": "inventory/used-hyundai-palisade.json",
+      "file": "inventory/used-hyundai-palisade-lower-mainland.json",
       "models": [
         {
           "model": "Palisade",
@@ -290,8 +647,64 @@
     {
       "condition": "used",
       "make": "hyundai",
+      "model": "Palisade",
+      "shard": "Okanagan",
+      "count": 16,
+      "file": "inventory/used-hyundai-palisade-okanagan.json",
+      "models": [
+        {
+          "model": "Palisade",
+          "count": 16
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Palisade",
+      "shard": "Thompson-Okanagan",
+      "count": 1,
+      "file": "inventory/used-hyundai-palisade-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "Palisade",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Palisade",
+      "shard": "Vancouver Island",
+      "count": 13,
+      "file": "inventory/used-hyundai-palisade-vancouver-island.json",
+      "models": [
+        {
+          "model": "Palisade",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Palisade",
+      "shard": "sin-region",
+      "count": 3,
+      "file": "inventory/used-hyundai-palisade-sin-region.json",
+      "models": [
+        {
+          "model": "Palisade",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
       "model": "Santa Cruz",
-      "count": 6,
+      "count": 20,
       "file": "inventory/used-hyundai-santa-cruz.json",
       "models": [
         {
@@ -300,72 +713,7 @@
         },
         {
           "model": "Santa Cruz",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "hyundai",
-      "model": "Tucson Hybrid",
-      "count": 10,
-      "file": "inventory/used-hyundai-tucson-hybrid.json",
-      "models": [
-        {
-          "model": "Tucson Hybrid",
-          "count": 10
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "hyundai",
-      "model": "Santa Fe Hybrid",
-      "count": 13,
-      "file": "inventory/used-hyundai-santa-fe-hybrid.json",
-      "models": [
-        {
-          "model": "Santa Fe Hybrid",
-          "count": 13
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "hyundai",
-      "model": "Elantra N",
-      "count": 4,
-      "file": "inventory/used-hyundai-elantra-n.json",
-      "models": [
-        {
-          "model": "Elantra N",
-          "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "hyundai",
-      "model": "Kona N",
-      "count": 1,
-      "file": "inventory/used-hyundai-kona-n.json",
-      "models": [
-        {
-          "model": "Kona N",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "hyundai",
-      "model": "IONIQ 6",
-      "count": 2,
-      "file": "inventory/used-hyundai-ioniq-6.json",
-      "models": [
-        {
-          "model": "IONIQ 6",
-          "count": 2
+          "count": 19
         }
       ]
     },
@@ -373,11 +721,76 @@
       "condition": "used",
       "make": "hyundai",
       "model": "IONIQ 5",
-      "count": 3,
+      "count": 16,
       "file": "inventory/used-hyundai-ioniq-5.json",
       "models": [
         {
           "model": "IONIQ 5",
+          "count": 16
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Tucson Hybrid",
+      "count": 28,
+      "file": "inventory/used-hyundai-tucson-hybrid.json",
+      "models": [
+        {
+          "model": "Tucson Hybrid",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Santa Fe Hybrid",
+      "count": 17,
+      "file": "inventory/used-hyundai-santa-fe-hybrid.json",
+      "models": [
+        {
+          "model": "Santa Fe Hybrid",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Elantra N",
+      "count": 5,
+      "file": "inventory/used-hyundai-elantra-n.json",
+      "models": [
+        {
+          "model": "Elantra N",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Kona N",
+      "count": 2,
+      "file": "inventory/used-hyundai-kona-n.json",
+      "models": [
+        {
+          "model": "Kona N",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "IONIQ 6",
+      "count": 3,
+      "file": "inventory/used-hyundai-ioniq-6.json",
+      "models": [
+        {
+          "model": "IONIQ 6",
           "count": 3
         }
       ]
@@ -399,12 +812,12 @@
       "condition": "used",
       "make": "hyundai",
       "model": "Palisade Hybrid",
-      "count": 3,
+      "count": 4,
       "file": "inventory/used-hyundai-palisade-hybrid.json",
       "models": [
         {
           "model": "Palisade Hybrid",
-          "count": 3
+          "count": 4
         }
       ]
     },
@@ -412,12 +825,12 @@
       "condition": "used",
       "make": "hyundai",
       "model": "IONIQ 9",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-hyundai-ioniq-9.json",
       "models": [
         {
           "model": "IONIQ 9",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -463,13 +876,26 @@
     {
       "condition": "used",
       "make": "hyundai",
-      "model": "Tucson Preferred",
-      "count": 2,
-      "file": "inventory/used-hyundai-tucson-preferred.json",
+      "model": "Elantra Touring",
+      "count": 1,
+      "file": "inventory/used-hyundai-elantra-touring.json",
       "models": [
         {
-          "model": "Tucson Preferred",
-          "count": 2
+          "model": "Elantra Touring",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Sonata N Line",
+      "count": 1,
+      "file": "inventory/used-hyundai-sonata-n-line.json",
+      "models": [
+        {
+          "model": "Sonata N Line",
+          "count": 1
         }
       ]
     },
@@ -489,12 +915,246 @@
     {
       "condition": "used",
       "make": "hyundai",
-      "model": "Santa Fe XL",
+      "model": "Tucson GL  - Bluetooth",
       "count": 1,
+      "file": "inventory/used-hyundai-tucson-gl-bluetooth.json",
+      "models": [
+        {
+          "model": "Tucson GL  - Bluetooth",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Elantra 2016 GLS - sleek, reliable, and fuel-smart with style that goes the distance!in Kelowna",
+      "count": 1,
+      "file": "inventory/used-hyundai-elantra-2016-gls-sleek-reliable-and-fuel-smart-with-style-that-goes-the-distance-in-kelowna.json",
+      "models": [
+        {
+          "model": "Elantra 2016 GLS - sleek, reliable, and fuel-smart with style that goes the distance!in Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "IONIQ Electric Plus",
+      "count": 4,
+      "file": "inventory/used-hyundai-ioniq-electric-plus.json",
+      "models": [
+        {
+          "model": "IONIQ Electric Plus",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Santa Fe Sport Luxuryin Kelowna",
+      "count": 1,
+      "file": "inventory/used-hyundai-santa-fe-sport-luxuryin-kelowna.json",
+      "models": [
+        {
+          "model": "Santa Fe Sport Luxuryin Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Santa Fe XL",
+      "count": 5,
       "file": "inventory/used-hyundai-santa-fe-xl.json",
       "models": [
         {
           "model": "Santa Fe XL",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Santa Fe Sport AWD 4dr 2.0T Limited FULL LOAD! NAVIGATION! LEATHER! SUNROOF!in Kelowna",
+      "count": 1,
+      "file": "inventory/used-hyundai-santa-fe-sport-awd-4dr-2-0t-limited-full-load-navigation-leather-sunroof-in-kelowna.json",
+      "models": [
+        {
+          "model": "Santa Fe Sport AWD 4dr 2.0T Limited FULL LOAD! NAVIGATION! LEATHER! SUNROOF!in Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Santa Fe Sport AWD 4dr 2.4L SE LEATHER! SUNROOF! NO ACCIDENT!in Kelowna",
+      "count": 1,
+      "file": "inventory/used-hyundai-santa-fe-sport-awd-4dr-2-4l-se-leather-sunroof-no-accident-in-kelowna.json",
+      "models": [
+        {
+          "model": "Santa Fe Sport AWD 4dr 2.4L SE LEATHER! SUNROOF! NO ACCIDENT!in Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Santa Fe Sport AWD 4dr 2.0T Limited FULL LOAD! LEATHER! NAVIGATION! SUNROOF!in Kelowna",
+      "count": 1,
+      "file": "inventory/used-hyundai-santa-fe-sport-awd-4dr-2-0t-limited-full-load-leather-navigation-sunroof-in-kelowna.json",
+      "models": [
+        {
+          "model": "Santa Fe Sport AWD 4dr 2.0T Limited FULL LOAD! LEATHER! NAVIGATION! SUNROOF!in Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Santa Fe Sport 2.4L Luxury AWD HEATED LEATHER SEATS, BACK UP CAMERA, BLUETOOTH, SENSORS, WHEEL CONTROLS, 154,611 KMin Kelowna",
+      "count": 1,
+      "file": "inventory/used-hyundai-santa-fe-sport-2-4l-luxury-awd-heated-leather-seats-back-up-camera-bluetooth-sensors-wheel-controls-154-611-kmin-kelowna.json",
+      "models": [
+        {
+          "model": "Santa Fe Sport 2.4L Luxury AWD HEATED LEATHER SEATS, BACK UP CAMERA, BLUETOOTH, SENSORS, WHEEL CONTROLS, 154,611 KMin Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Santa Fe Sport 2018 - premium comfort, smooth ride, and space for every adventure.in Kelowna",
+      "count": 1,
+      "file": "inventory/used-hyundai-santa-fe-sport-2018-premium-comfort-smooth-ride-and-space-for-every-adventure-in-kelowna.json",
+      "models": [
+        {
+          "model": "Santa Fe Sport 2018 - premium comfort, smooth ride, and space for every adventure.in Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Kona 2.0L Luxury AWD BLINDSPOT! BACKUP CAMERA! SUNROOF!in Kelowna",
+      "count": 1,
+      "file": "inventory/used-hyundai-kona-2-0l-luxury-awd-blindspot-backup-camera-sunroof-in-kelowna.json",
+      "models": [
+        {
+          "model": "Kona 2.0L Luxury AWD BLINDSPOT! BACKUP CAMERA! SUNROOF!in Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Sonata 2.4L Essential w/Sport Pkg NO ACCIDENT! SUNROOF!in Kelowna",
+      "count": 1,
+      "file": "inventory/used-hyundai-sonata-2-4l-essential-w-sport-pkg-no-accident-sunroof-in-kelowna.json",
+      "models": [
+        {
+          "model": "Sonata 2.4L Essential w/Sport Pkg NO ACCIDENT! SUNROOF!in Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Tucson AWD 4dr 1.6L Limited PANORAMIC SUNROOF! LEATHER INTERIOR! NAVIGATION! BACKUP CAMERA!in Kelowna",
+      "count": 1,
+      "file": "inventory/used-hyundai-tucson-awd-4dr-1-6l-limited-panoramic-sunroof-leather-interior-navigation-backup-camera-in-kelowna.json",
+      "models": [
+        {
+          "model": "Tucson AWD 4dr 1.6L Limited PANORAMIC SUNROOF! LEATHER INTERIOR! NAVIGATION! BACKUP CAMERA!in Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Tucson 1.6T Noir AWD PANORAMIC SUNROOF! HEATED SEATS & STEERING WHEEL! BACKUP CAMERA!in Kelowna",
+      "count": 1,
+      "file": "inventory/used-hyundai-tucson-1-6t-noir-awd-panoramic-sunroof-heated-seats-steering-wheel-backup-camera-in-kelowna.json",
+      "models": [
+        {
+          "model": "Tucson 1.6T Noir AWD PANORAMIC SUNROOF! HEATED SEATS & STEERING WHEEL! BACKUP CAMERA!in Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Tucson 1.6T SE AWD NO ACCIDENT! LOW KMS! LEATHER ! SUNROOF!in Kelowna",
+      "count": 1,
+      "file": "inventory/used-hyundai-tucson-1-6t-se-awd-no-accident-low-kms-leather-sunroof-in-kelowna.json",
+      "models": [
+        {
+          "model": "Tucson 1.6T SE AWD NO ACCIDENT! LOW KMS! LEATHER ! SUNROOF!in Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "IONIQ 5in Kelowna",
+      "count": 1,
+      "file": "inventory/used-hyundai-ioniq-5in-kelowna.json",
+      "models": [
+        {
+          "model": "IONIQ 5in Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "ACCENT Hatchback 3-Door",
+      "count": 2,
+      "file": "inventory/used-hyundai-accent-hatchback-3-door.json",
+      "models": [
+        {
+          "model": "ACCENT Hatchback 3-Door",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Veracruz",
+      "count": 1,
+      "file": "inventory/used-hyundai-veracruz.json",
+      "models": [
+        {
+          "model": "Veracruz",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Santa Fe Sport AWD 4dr 2.4L Luxury LEATHER! BACKUP CAMERA!in British Columbia",
+      "count": 1,
+      "file": "inventory/used-hyundai-santa-fe-sport-awd-4dr-2-4l-luxury-leather-backup-camera-in-british-columbia.json",
+      "models": [
+        {
+          "model": "Santa Fe Sport AWD 4dr 2.4L Luxury LEATHER! BACKUP CAMERA!in British Columbia",
           "count": 1
         }
       ]
@@ -503,11 +1163,102 @@
       "condition": "used",
       "make": "hyundai",
       "model": "Tucson Plug-In Hybrid",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-hyundai-tucson-plug-in-hybrid.json",
       "models": [
         {
           "model": "Tucson Plug-In Hybrid",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "IONIQ 5in British Columbia",
+      "count": 1,
+      "file": "inventory/used-hyundai-ioniq-5in-british-columbia.json",
+      "models": [
+        {
+          "model": "IONIQ 5in British Columbia",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Elantra GL",
+      "count": 1,
+      "file": "inventory/used-hyundai-elantra-gl.json",
+      "models": [
+        {
+          "model": "Elantra GL",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Santa Fe Sport LIMITED",
+      "count": 1,
+      "file": "inventory/used-hyundai-santa-fe-sport-limited.json",
+      "models": [
+        {
+          "model": "Santa Fe Sport LIMITED",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Santa Fe ESSENTIAL",
+      "count": 1,
+      "file": "inventory/used-hyundai-santa-fe-essential.json",
+      "models": [
+        {
+          "model": "Santa Fe ESSENTIAL",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Elantra Essential IVT HEATED SEATS! LIKE NEW! NO ACCIDENT!",
+      "count": 1,
+      "file": "inventory/used-hyundai-elantra-essential-ivt-heated-seats-like-new-no-accident.json",
+      "models": [
+        {
+          "model": "Elantra Essential IVT HEATED SEATS! LIKE NEW! NO ACCIDENT!",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Kona Electric PREFERRED",
+      "count": 1,
+      "file": "inventory/used-hyundai-kona-electric-preferred.json",
+      "models": [
+        {
+          "model": "Kona Electric PREFERRED",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Equus",
+      "count": 1,
+      "file": "inventory/used-hyundai-equus.json",
+      "models": [
+        {
+          "model": "Equus",
           "count": 1
         }
       ]

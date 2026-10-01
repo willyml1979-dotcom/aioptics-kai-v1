@@ -1,48 +1,185 @@
 {
-  "generated_at": "2026-10-01T22:33:34+00:00",
+  "generated_at": "2026-10-01T22:47:51+00:00",
   "condition": "used",
   "make": "lincoln",
   "files": [
     {
       "condition": "used",
       "make": "lincoln",
-      "count": 11,
-      "file": "inventory/used-lincoln.json",
+      "model": "MKX",
+      "count": 6,
+      "file": "inventory/used-lincoln-mkx.json",
       "models": [
         {
-          "model": "Aviator",
-          "count": 1
-        },
+          "model": "MKX",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lincoln",
+      "model": "Corsair",
+      "count": 12,
+      "file": "inventory/used-lincoln-corsair.json",
+      "models": [
         {
           "model": "CORSAIR",
           "count": 1
         },
         {
           "model": "Corsair",
-          "count": 3
-        },
-        {
-          "model": "MKX",
-          "count": 1
-        },
-        {
-          "model": "MKZ",
-          "count": 1
-        },
-        {
-          "model": "NAUTILUS",
-          "count": 1
-        },
+          "count": 11
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lincoln",
+      "model": "Navigator",
+      "count": 5,
+      "file": "inventory/used-lincoln-navigator.json",
+      "models": [
         {
           "model": "NAVIGATOR",
           "count": 1
         },
         {
-          "model": "Nautilus",
+          "model": "Navigator",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lincoln",
+      "model": "MKT",
+      "count": 1,
+      "file": "inventory/used-lincoln-mkt.json",
+      "models": [
+        {
+          "model": "MKT",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lincoln",
+      "model": "Nautilus",
+      "count": 7,
+      "file": "inventory/used-lincoln-nautilus.json",
+      "models": [
+        {
+          "model": "NAUTILUS",
           "count": 1
         },
         {
-          "model": "Navigator",
+          "model": "Nautilus",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lincoln",
+      "model": "Navigator L",
+      "count": 2,
+      "file": "inventory/used-lincoln-navigator-l.json",
+      "models": [
+        {
+          "model": "Navigator L",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lincoln",
+      "model": "Nautilus Reserve",
+      "count": 1,
+      "file": "inventory/used-lincoln-nautilus-reserve.json",
+      "models": [
+        {
+          "model": "Nautilus Reserve",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lincoln",
+      "model": "Aviator",
+      "count": 9,
+      "file": "inventory/used-lincoln-aviator.json",
+      "models": [
+        {
+          "model": "Aviator",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lincoln",
+      "model": "Nautilus Reserve 201ain Kelowna near West Kelowna",
+      "count": 1,
+      "file": "inventory/used-lincoln-nautilus-reserve-201ain-kelowna-near-west-kelowna.json",
+      "models": [
+        {
+          "model": "Nautilus Reserve 201ain Kelowna near West Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lincoln",
+      "model": "Aviator RESERVE, AWD, PANORAMIC MOONROOF, HEATED/VENTILATED SEATS, ILLUMINATION PKG, ADAPTIVE CRUISEin Kelowna near West Kelowna",
+      "count": 1,
+      "file": "inventory/used-lincoln-aviator-reserve-awd-panoramic-moonroof-heated-ventilated-seats-illumination-pkg-adaptive-cruisein-kelowna-near-west-kelowna.json",
+      "models": [
+        {
+          "model": "Aviator RESERVE, AWD, PANORAMIC MOONROOF, HEATED/VENTILATED SEATS, ILLUMINATION PKG, ADAPTIVE CRUISEin Kelowna near West Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lincoln",
+      "model": "Mark LT",
+      "count": 1,
+      "file": "inventory/used-lincoln-mark-lt.json",
+      "models": [
+        {
+          "model": "Mark LT",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lincoln",
+      "model": "MKC",
+      "count": 1,
+      "file": "inventory/used-lincoln-mkc.json",
+      "models": [
+        {
+          "model": "MKC",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lincoln",
+      "model": "MKZ",
+      "count": 1,
+      "file": "inventory/used-lincoln-mkz.json",
+      "models": [
+        {
+          "model": "MKZ",
           "count": 1
         }
       ]

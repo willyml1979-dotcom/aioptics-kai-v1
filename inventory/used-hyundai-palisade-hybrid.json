@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01T22:33:34+00:00",
-  "snapshot": "2026-10-01T22:33:34+00:00",
+  "generated_at": "2026-10-01T22:47:51+00:00",
+  "snapshot": "2026-10-01T22:47:51+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 4,
   "vehicles": [
     {
       "pub_id": "jim-pattison-hyundai-northshore-km8rkesa2tu067776",
@@ -79,6 +79,31 @@
       "city": "Richmond",
       "province": "BC",
       "dealer_name": "Richmond Hyundai"
+    },
+    {
+      "pub_id": "duncan-hyundai-km8rmesa4tu047281",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Palisade Hybrid",
+      "propulsion": "hybrid",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 20316,
+      "price_cad": 63995.0,
+      "price_note": null,
+      "color": "Brown",
+      "dealer_id": "duncan-hyundai",
+      "vin": "KM8RMESA4TU047281",
+      "stock": "OK04728",
+      "listing_url": "https://www.duncanhyundai.net/vehicles/2026/hyundai/palisade-hybrid/kelowna/bc/71396398/?sale_class=used",
+      "dealer_url": "https://www.duncanhyundai.net/vehicles/2026/hyundai/palisade-hybrid/kelowna/bc/71396398/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T05:25:28",
+      "snapshot": "2026-09-26T05:29:39",
+      "go_url": "https://carwhisper.ca/go/duncan-hyundai-km8rmesa4tu047281",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Hyundai"
     }
   ]
 }

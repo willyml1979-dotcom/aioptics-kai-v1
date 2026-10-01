@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T22:33:34+00:00",
+  "generated_at": "2026-10-01T22:47:51+00:00",
   "condition": "used",
   "make": "mitsubishi",
   "files": [
@@ -7,25 +7,69 @@
       "condition": "used",
       "make": "mitsubishi",
       "model": "RVR",
-      "count": 22,
-      "file": "inventory/used-mitsubishi-rvr.json",
+      "shard": "Lower Mainland",
+      "count": 24,
+      "file": "inventory/used-mitsubishi-rvr-lower-mainland.json",
       "models": [
         {
           "model": "RVR",
-          "count": 22
+          "count": 24
         }
       ]
     },
     {
       "condition": "used",
       "make": "mitsubishi",
-      "model": "Outlander",
-      "count": 27,
-      "file": "inventory/used-mitsubishi-outlander.json",
+      "model": "RVR",
+      "shard": "Norte/Cariboo",
+      "count": 2,
+      "file": "inventory/used-mitsubishi-rvr-norte-cariboo.json",
       "models": [
         {
-          "model": "Outlander",
-          "count": 27
+          "model": "RVR",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "RVR",
+      "shard": "Okanagan",
+      "count": 10,
+      "file": "inventory/used-mitsubishi-rvr-okanagan.json",
+      "models": [
+        {
+          "model": "RVR",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "RVR",
+      "shard": "Thompson-Okanagan",
+      "count": 1,
+      "file": "inventory/used-mitsubishi-rvr-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "RVR",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "RVR",
+      "shard": "Vancouver Island",
+      "count": 6,
+      "file": "inventory/used-mitsubishi-rvr-vancouver-island.json",
+      "models": [
+        {
+          "model": "RVR",
+          "count": 6
         }
       ]
     },
@@ -33,11 +77,39 @@
       "condition": "used",
       "make": "mitsubishi",
       "model": "Mirage",
-      "count": 3,
+      "count": 9,
       "file": "inventory/used-mitsubishi-mirage.json",
       "models": [
         {
           "model": "Mirage",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "Outlander",
+      "shard": "Lower Mainland",
+      "count": 28,
+      "file": "inventory/used-mitsubishi-outlander-lower-mainland.json",
+      "models": [
+        {
+          "model": "Outlander",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "Outlander",
+      "shard": "Norte/Cariboo",
+      "count": 3,
+      "file": "inventory/used-mitsubishi-outlander-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Outlander",
           "count": 3
         }
       ]
@@ -45,13 +117,69 @@
     {
       "condition": "used",
       "make": "mitsubishi",
+      "model": "Outlander",
+      "shard": "Okanagan",
+      "count": 9,
+      "file": "inventory/used-mitsubishi-outlander-okanagan.json",
+      "models": [
+        {
+          "model": "Outlander",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "Outlander",
+      "shard": "Thompson-Okanagan",
+      "count": 2,
+      "file": "inventory/used-mitsubishi-outlander-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "Outlander",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "Outlander",
+      "shard": "Vancouver Island",
+      "count": 11,
+      "file": "inventory/used-mitsubishi-outlander-vancouver-island.json",
+      "models": [
+        {
+          "model": "Outlander",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "Outlander",
+      "shard": "sin-region",
+      "count": 5,
+      "file": "inventory/used-mitsubishi-outlander-sin-region.json",
+      "models": [
+        {
+          "model": "Outlander",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
       "model": "Eclipse Cross",
-      "count": 12,
+      "count": 28,
       "file": "inventory/used-mitsubishi-eclipse-cross.json",
       "models": [
         {
           "model": "Eclipse Cross",
-          "count": 12
+          "count": 28
         }
       ]
     },
@@ -59,12 +187,25 @@
       "condition": "used",
       "make": "mitsubishi",
       "model": "Outlander PHEV",
-      "count": 17,
+      "count": 38,
       "file": "inventory/used-mitsubishi-outlander-phev.json",
       "models": [
         {
           "model": "Outlander PHEV",
-          "count": 17
+          "count": 38
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "Lancer",
+      "count": 1,
+      "file": "inventory/used-mitsubishi-lancer.json",
+      "models": [
+        {
+          "model": "Lancer",
+          "count": 1
         }
       ]
     },
@@ -142,6 +283,32 @@
       "models": [
         {
           "model": "Outlander PHEV GT S-AWC",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "RVR ES AWC - Heated Seats - Apple CarPlayin Mission",
+      "count": 1,
+      "file": "inventory/used-mitsubishi-rvr-es-awc-heated-seats-apple-carplayin-mission.json",
+      "models": [
+        {
+          "model": "RVR ES AWC - Heated Seats - Apple CarPlayin Mission",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "RVR GT",
+      "count": 1,
+      "file": "inventory/used-mitsubishi-rvr-gt.json",
+      "models": [
+        {
+          "model": "RVR GT",
           "count": 1
         }
       ]

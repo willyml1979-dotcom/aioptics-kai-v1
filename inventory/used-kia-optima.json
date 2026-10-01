@@ -1,9 +1,31 @@
 {
-  "generated_at": "2026-10-01T22:33:34+00:00",
-  "snapshot": "2026-10-01T22:33:34+00:00",
+  "generated_at": "2026-10-01T22:47:51+00:00",
+  "snapshot": "2026-10-01T22:47:51+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 3,
   "vehicles": [
+    {
+      "pub_id": "maple-ridge-volkswagen-5xxgu4l39lg396190",
+      "year": 2020,
+      "make": "Kia",
+      "model": "Optima",
+      "condition": "used",
+      "price_cad": 15748.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "maple-ridge-volkswagen",
+      "vin": "5XXGU4L39LG396190",
+      "stock": 14196593,
+      "listing_url": "https://www.mapleridge-vw.ca/used/2020-Kia-Optima.html",
+      "dealer_url": "https://www.mapleridge-vw.ca/used/2020-Kia-Optima.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T07:41:47",
+      "snapshot": "2026-09-26T09:12:42",
+      "go_url": "https://carwhisper.ca/go/maple-ridge-volkswagen-5xxgu4l39lg396190",
+      "region": "Lower Mainland",
+      "city": "Maple Ridge",
+      "province": "BC",
+      "dealer_name": "Maple Ridge Volkswagen"
+    },
     {
       "pub_id": "kia-south-vancouver-knagv4ld8l5036660",
       "year": 2020,
@@ -29,6 +51,32 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Kia South Vancouver"
+    },
+    {
+      "pub_id": "duncan-hyundai-knagm4a7xd5368374",
+      "year": 2013,
+      "make": "Kia",
+      "model": "Optima",
+      "body_type": "sedan",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 237341,
+      "price_cad": 5200.0,
+      "price_note": null,
+      "color": "Silver",
+      "dealer_id": "duncan-hyundai",
+      "vin": "KNAGM4A7XD5368374",
+      "stock": "W536837",
+      "listing_url": "https://www.duncanhyundai.net/vehicles/2013/kia/optima-sedan/kelowna/bc/70479298/?sale_class=used",
+      "dealer_url": "https://www.duncanhyundai.net/vehicles/2013/kia/optima-sedan/kelowna/bc/70479298/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T04:10:43",
+      "snapshot": "2026-09-26T05:29:39",
+      "go_url": "https://carwhisper.ca/go/duncan-hyundai-knagm4a7xd5368374",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Hyundai"
     }
   ]
 }

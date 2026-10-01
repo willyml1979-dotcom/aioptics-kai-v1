@@ -1,71 +1,19 @@
 {
-  "generated_at": "2026-10-01T22:33:34+00:00",
+  "generated_at": "2026-10-01T22:47:51+00:00",
   "condition": "new",
   "make": "mazda",
   "files": [
     {
       "condition": "new",
       "make": "mazda",
-      "model": "CX-90 PHEV",
-      "count": 16,
-      "file": "inventory/new-mazda-cx-90-phev.json",
-      "models": [
-        {
-          "model": "CX-90 PHEV",
-          "count": 16
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mazda",
-      "model": "CX-30",
-      "count": 15,
-      "file": "inventory/new-mazda-cx-30.json",
-      "models": [
-        {
-          "model": "CX-30",
-          "count": 15
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mazda",
-      "model": "Mazda3 Sport",
-      "count": 15,
-      "file": "inventory/new-mazda-mazda3-sport.json",
-      "models": [
-        {
-          "model": "Mazda3 Sport",
-          "count": 15
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mazda",
-      "model": "Mazda3",
-      "count": 9,
-      "file": "inventory/new-mazda-mazda3.json",
-      "models": [
-        {
-          "model": "Mazda3",
-          "count": 9
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mazda",
       "model": "CX-5",
       "shard": "part1",
-      "count": 35,
+      "count": 42,
       "file": "inventory/new-mazda-cx-5-part1.json",
       "models": [
         {
           "model": "CX-5",
-          "count": 35
+          "count": 42
         }
       ]
     },
@@ -74,12 +22,51 @@
       "make": "mazda",
       "model": "CX-5",
       "shard": "part2",
-      "count": 35,
+      "count": 41,
       "file": "inventory/new-mazda-cx-5-part2.json",
       "models": [
         {
           "model": "CX-5",
-          "count": 35
+          "count": 41
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mazda",
+      "model": "Mazda3",
+      "count": 11,
+      "file": "inventory/new-mazda-mazda3.json",
+      "models": [
+        {
+          "model": "Mazda3",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mazda",
+      "model": "Mazda3 Sport",
+      "count": 18,
+      "file": "inventory/new-mazda-mazda3-sport.json",
+      "models": [
+        {
+          "model": "Mazda3 Sport",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mazda",
+      "model": "CX-30",
+      "count": 18,
+      "file": "inventory/new-mazda-cx-30.json",
+      "models": [
+        {
+          "model": "CX-30",
+          "count": 18
         }
       ]
     },
@@ -87,12 +74,25 @@
       "condition": "new",
       "make": "mazda",
       "model": "CX-70 MHEV",
-      "count": 7,
+      "count": 18,
       "file": "inventory/new-mazda-cx-70-mhev.json",
       "models": [
         {
           "model": "CX-70 MHEV",
-          "count": 7
+          "count": 18
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mazda",
+      "model": "CX-50",
+      "count": 1,
+      "file": "inventory/new-mazda-cx-50.json",
+      "models": [
+        {
+          "model": "CX-50",
+          "count": 1
         }
       ]
     },
@@ -100,12 +100,38 @@
       "condition": "new",
       "make": "mazda",
       "model": "CX-90 MHEV",
-      "count": 9,
+      "count": 12,
       "file": "inventory/new-mazda-cx-90-mhev.json",
       "models": [
         {
           "model": "CX-90 MHEV",
-          "count": 9
+          "count": 12
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mazda",
+      "model": "CX-90 PHEV",
+      "count": 18,
+      "file": "inventory/new-mazda-cx-90-phev.json",
+      "models": [
+        {
+          "model": "CX-90 PHEV",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mazda",
+      "model": "CX-50 Hybrid",
+      "count": 3,
+      "file": "inventory/new-mazda-cx-50-hybrid.json",
+      "models": [
+        {
+          "model": "CX-50 Hybrid",
+          "count": 3
         }
       ]
     },
@@ -113,12 +139,324 @@
       "condition": "new",
       "make": "mazda",
       "model": "CX-70 PHEV",
-      "count": 11,
+      "count": 13,
       "file": "inventory/new-mazda-cx-70-phev.json",
       "models": [
         {
           "model": "CX-70 PHEV",
-          "count": 11
+          "count": 13
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mazda",
+      "model": "CX-30 GS - WIRELESS CAR PLAY - HEATED SEATS & WHEEL - LANE ASSISTin Campbell River",
+      "count": 1,
+      "file": "inventory/new-mazda-cx-30-gs-wireless-car-play-heated-seats-wheel-lane-assistin-campbell-river.json",
+      "models": [
+        {
+          "model": "CX-30 GS - WIRELESS CAR PLAY - HEATED SEATS & WHEEL - LANE ASSISTin Campbell River",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mazda",
+      "model": "CX-30 GS - AWD - HEATED SEATS - WIRELESS CARPLAY - A/Cin Campbell River",
+      "count": 1,
+      "file": "inventory/new-mazda-cx-30-gs-awd-heated-seats-wireless-carplay-a-cin-campbell-river.json",
+      "models": [
+        {
+          "model": "CX-30 GS - AWD - HEATED SEATS - WIRELESS CARPLAY - A/Cin Campbell River",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mazda",
+      "model": "CX-5 GX - AWD - HEATED SEATS - BLIND SPOT MONITORINGin Campbell River",
+      "count": 1,
+      "file": "inventory/new-mazda-cx-5-gx-awd-heated-seats-blind-spot-monitoringin-campbell-river.json",
+      "models": [
+        {
+          "model": "CX-5 GX - AWD - HEATED SEATS - BLIND SPOT MONITORINGin Campbell River",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mazda",
+      "model": "CX-5 GX - AWD - HEATED SEATS - BRAKE ASSISTin Campbell River",
+      "count": 1,
+      "file": "inventory/new-mazda-cx-5-gx-awd-heated-seats-brake-assistin-campbell-river.json",
+      "models": [
+        {
+          "model": "CX-5 GX - AWD - HEATED SEATS - BRAKE ASSISTin Campbell River",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mazda",
+      "model": "CX-5 GX - AWD - HEATED SEATS - BRAKE ASSIST - CARPLAYin Campbell River",
+      "count": 1,
+      "file": "inventory/new-mazda-cx-5-gx-awd-heated-seats-brake-assist-carplayin-campbell-river.json",
+      "models": [
+        {
+          "model": "CX-5 GX - AWD - HEATED SEATS - BRAKE ASSIST - CARPLAYin Campbell River",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mazda",
+      "model": "CX-5 GX - AWD - HEATED SEATS - LANE ASSISTin Campbell River",
+      "count": 1,
+      "file": "inventory/new-mazda-cx-5-gx-awd-heated-seats-lane-assistin-campbell-river.json",
+      "models": [
+        {
+          "model": "CX-5 GX - AWD - HEATED SEATS - LANE ASSISTin Campbell River",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mazda",
+      "model": "CX-5 GX - AWD - BACK UP CAM - HEATED SEATSin Campbell River",
+      "count": 1,
+      "file": "inventory/new-mazda-cx-5-gx-awd-back-up-cam-heated-seatsin-campbell-river.json",
+      "models": [
+        {
+          "model": "CX-5 GX - AWD - BACK UP CAM - HEATED SEATSin Campbell River",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mazda",
+      "model": "CX-5 GX - AWD - SMART BRAKE SUPPORT - BUILT IN GOOGLEin Campbell River",
+      "count": 1,
+      "file": "inventory/new-mazda-cx-5-gx-awd-smart-brake-support-built-in-googlein-campbell-river.json",
+      "models": [
+        {
+          "model": "CX-5 GX - AWD - SMART BRAKE SUPPORT - BUILT IN GOOGLEin Campbell River",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mazda",
+      "model": "CX-5 GS - HEADS UP DISPLAY - KEYLESS ENTRY - POWER LIFTGATEin Campbell River",
+      "count": 1,
+      "file": "inventory/new-mazda-cx-5-gs-heads-up-display-keyless-entry-power-liftgatein-campbell-river.json",
+      "models": [
+        {
+          "model": "CX-5 GS - HEADS UP DISPLAY - KEYLESS ENTRY - POWER LIFTGATEin Campbell River",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mazda",
+      "model": "CX-5 GS - AWD - POWER LIFTGATE - HEATED SEATS & WHEELin Campbell River",
+      "count": 1,
+      "file": "inventory/new-mazda-cx-5-gs-awd-power-liftgate-heated-seats-wheelin-campbell-river.json",
+      "models": [
+        {
+          "model": "CX-5 GS - AWD - POWER LIFTGATE - HEATED SEATS & WHEELin Campbell River",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mazda",
+      "model": "CX-5 GS - AWD - LEATHER - HEATED SEATS - PARK SENSORSin Campbell River",
+      "count": 1,
+      "file": "inventory/new-mazda-cx-5-gs-awd-leather-heated-seats-park-sensorsin-campbell-river.json",
+      "models": [
+        {
+          "model": "CX-5 GS - AWD - LEATHER - HEATED SEATS - PARK SENSORSin Campbell River",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mazda",
+      "model": "CX-5 GS - HEADS UP DISPLAY - AWD - PARK SENORSin Campbell River",
+      "count": 1,
+      "file": "inventory/new-mazda-cx-5-gs-heads-up-display-awd-park-senorsin-campbell-river.json",
+      "models": [
+        {
+          "model": "CX-5 GS - HEADS UP DISPLAY - AWD - PARK SENORSin Campbell River",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mazda",
+      "model": "CX-5 GS - AWD - PARK SENORS - HEADS UP DISPLAYin Campbell River",
+      "count": 1,
+      "file": "inventory/new-mazda-cx-5-gs-awd-park-senors-heads-up-displayin-campbell-river.json",
+      "models": [
+        {
+          "model": "CX-5 GS - AWD - PARK SENORS - HEADS UP DISPLAYin Campbell River",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mazda",
+      "model": "CX-5 GS - AWD - HEADS UP DISPLAY - PARK SENORSin Campbell River",
+      "count": 1,
+      "file": "inventory/new-mazda-cx-5-gs-awd-heads-up-display-park-senorsin-campbell-river.json",
+      "models": [
+        {
+          "model": "CX-5 GS - AWD - HEADS UP DISPLAY - PARK SENORSin Campbell River",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mazda",
+      "model": "CX-5 GS - PARK SENORS - POWER LIFTGATE - KEYLESS ENTRYin Campbell River",
+      "count": 1,
+      "file": "inventory/new-mazda-cx-5-gs-park-senors-power-liftgate-keyless-entryin-campbell-river.json",
+      "models": [
+        {
+          "model": "CX-5 GS - PARK SENORS - POWER LIFTGATE - KEYLESS ENTRYin Campbell River",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mazda",
+      "model": "CX-30 GT KURO W/ TURBO - WHITE LEATHER - 360 CAM - BOSE SPEAKERSin Campbell River",
+      "count": 1,
+      "file": "inventory/new-mazda-cx-30-gt-kuro-w-turbo-white-leather-360-cam-bose-speakersin-campbell-river.json",
+      "models": [
+        {
+          "model": "CX-30 GT KURO W/ TURBO - WHITE LEATHER - 360 CAM - BOSE SPEAKERSin Campbell River",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mazda",
+      "model": "CX-5 GT PANORAMIC - PARK SENSORS - CARPLAY - HEATED & VENTILATED SEATSin Campbell River",
+      "count": 1,
+      "file": "inventory/new-mazda-cx-5-gt-panoramic-park-sensors-carplay-heated-ventilated-seatsin-campbell-river.json",
+      "models": [
+        {
+          "model": "CX-5 GT PANORAMIC - PARK SENSORS - CARPLAY - HEATED & VENTILATED SEATSin Campbell River",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mazda",
+      "model": "CX-5 GT PREMIUM - 360 CAM - HEADS UP DISPLAY - PANORAMIC SUNROOFin Campbell River",
+      "count": 1,
+      "file": "inventory/new-mazda-cx-5-gt-premium-360-cam-heads-up-display-panoramic-sunroofin-campbell-river.json",
+      "models": [
+        {
+          "model": "CX-5 GT PREMIUM - 360 CAM - HEADS UP DISPLAY - PANORAMIC SUNROOFin Campbell River",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mazda",
+      "model": "CX-5 GT PREMIUM - AWD - HEATED & VENTILATED SEATS - 360 CAMin Campbell River",
+      "count": 1,
+      "file": "inventory/new-mazda-cx-5-gt-premium-awd-heated-ventilated-seats-360-camin-campbell-river.json",
+      "models": [
+        {
+          "model": "CX-5 GT PREMIUM - AWD - HEATED & VENTILATED SEATS - 360 CAMin Campbell River",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mazda",
+      "model": "CX-5 GT PREMIUM - 360 CAM - PANO ROOF - BOSE SPEAKERSin Campbell River",
+      "count": 1,
+      "file": "inventory/new-mazda-cx-5-gt-premium-360-cam-pano-roof-bose-speakersin-campbell-river.json",
+      "models": [
+        {
+          "model": "CX-5 GT PREMIUM - 360 CAM - PANO ROOF - BOSE SPEAKERSin Campbell River",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mazda",
+      "model": "CX-70 MHEV GS-L - WIRELESS CARPLAY - KEYLESS ENTRY - SUNROOFin Campbell River",
+      "count": 1,
+      "file": "inventory/new-mazda-cx-70-mhev-gs-l-wireless-carplay-keyless-entry-sunroofin-campbell-river.json",
+      "models": [
+        {
+          "model": "CX-70 MHEV GS-L - WIRELESS CARPLAY - KEYLESS ENTRY - SUNROOFin Campbell River",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mazda",
+      "model": "CX-70 MHEV GT - 360 CAM - BOSE SPEAKERS - HEADS UP DISPLAYin Campbell River",
+      "count": 1,
+      "file": "inventory/new-mazda-cx-70-mhev-gt-360-cam-bose-speakers-heads-up-displayin-campbell-river.json",
+      "models": [
+        {
+          "model": "CX-70 MHEV GT - 360 CAM - BOSE SPEAKERS - HEADS UP DISPLAYin Campbell River",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mazda",
+      "model": "CX-90 MHEV GT - 2ND ROW BENCH - HEADS UP DISPLAY - BOSE SPEAKERS - PANO ROOFin Campbell River",
+      "count": 1,
+      "file": "inventory/new-mazda-cx-90-mhev-gt-2nd-row-bench-heads-up-display-bose-speakers-pano-roofin-campbell-river.json",
+      "models": [
+        {
+          "model": "CX-90 MHEV GT - 2ND ROW BENCH - HEADS UP DISPLAY - BOSE SPEAKERS - PANO ROOFin Campbell River",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mazda",
+      "model": "CX-90 MHEV SIGNATURE - WHITE LEATHER - 360 CAM - VENTILATED 2ND ROWin Campbell River",
+      "count": 1,
+      "file": "inventory/new-mazda-cx-90-mhev-signature-white-leather-360-cam-ventilated-2nd-rowin-campbell-river.json",
+      "models": [
+        {
+          "model": "CX-90 MHEV SIGNATURE - WHITE LEATHER - 360 CAM - VENTILATED 2ND ROWin Campbell River",
+          "count": 1
         }
       ]
     }

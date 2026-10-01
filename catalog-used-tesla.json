@@ -1,32 +1,82 @@
 {
-  "generated_at": "2026-10-01T22:33:34+00:00",
+  "generated_at": "2026-10-01T22:47:51+00:00",
   "condition": "used",
   "make": "tesla",
   "files": [
     {
       "condition": "used",
       "make": "tesla",
-      "count": 38,
-      "file": "inventory/used-tesla.json",
+      "model": "Model 3",
+      "count": 36,
+      "file": "inventory/used-tesla-model-3.json",
       "models": [
         {
           "model": "Model 3",
-          "count": 20
-        },
-        {
-          "model": "Model S",
-          "count": 1
-        },
+          "count": 36
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "tesla",
+      "model": "Model X",
+      "count": 3,
+      "file": "inventory/used-tesla-model-x.json",
+      "models": [
         {
           "model": "Model X",
-          "count": 2
-        },
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "tesla",
+      "model": "Model Y",
+      "count": 28,
+      "file": "inventory/used-tesla-model-y.json",
+      "models": [
         {
           "model": "Model Y",
-          "count": 14
-        },
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "tesla",
+      "model": "Model S",
+      "count": 2,
+      "file": "inventory/used-tesla-model-s.json",
+      "models": [
+        {
+          "model": "Model S",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "tesla",
+      "model": "Model Y Performance",
+      "count": 1,
+      "file": "inventory/used-tesla-model-y-performance.json",
+      "models": [
         {
           "model": "Model Y Performance",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "tesla",
+      "model": "Model Y RWD",
+      "count": 1,
+      "file": "inventory/used-tesla-model-y-rwd.json",
+      "models": [
+        {
+          "model": "Model Y RWD",
           "count": 1
         }
       ]

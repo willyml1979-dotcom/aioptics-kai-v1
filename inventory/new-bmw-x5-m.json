@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01T22:33:34+00:00",
-  "snapshot": "2026-10-01T22:33:34+00:00",
+  "generated_at": "2026-10-01T22:47:51+00:00",
+  "snapshot": "2026-10-01T22:47:51+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "brian-jessel-bmw-5ym13et05t9343897",
@@ -148,6 +148,28 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Brian Jessel BMW"
+    },
+    {
+      "pub_id": "auto-west-bmw-5ym13et05t9283748",
+      "year": 2026,
+      "make": "BMW",
+      "model": "X5 M",
+      "condition": "new",
+      "price_cad": 187437.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "auto-west-bmw",
+      "vin": "5YM13ET05T9283748",
+      "stock": 13829130,
+      "listing_url": "https://www.autowestbmw.com/new/2026-BMW-X5_M.html",
+      "dealer_url": "https://www.autowestbmw.com/new/2026-BMW-X5_M.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T18:03:24",
+      "snapshot": "2026-09-26T18:34:44",
+      "go_url": "https://carwhisper.ca/go/auto-west-bmw-5ym13et05t9283748",
+      "region": "Lower Mainland",
+      "city": "Richmond",
+      "province": "BC",
+      "dealer_name": "Auto West BMW"
     }
   ]
 }

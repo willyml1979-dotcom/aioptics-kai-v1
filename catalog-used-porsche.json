@@ -1,17 +1,25 @@
 {
-  "generated_at": "2026-10-01T22:33:34+00:00",
+  "generated_at": "2026-10-01T22:47:51+00:00",
   "condition": "used",
   "make": "porsche",
   "files": [
     {
       "condition": "used",
       "make": "porsche",
-      "count": 13,
+      "count": 22,
       "file": "inventory/used-porsche.json",
       "models": [
         {
+          "model": "911",
+          "count": 1
+        },
+        {
           "model": "Cayenne",
-          "count": 4
+          "count": 5
+        },
+        {
+          "model": "Cayenne Coupein Vancouver",
+          "count": 1
         },
         {
           "model": "Cayman",
@@ -23,15 +31,19 @@
         },
         {
           "model": "Macan",
-          "count": 3
+          "count": 7
         },
         {
           "model": "Macan GTS",
           "count": 3
         },
         {
-          "model": "Taycan",
+          "model": "Panamera",
           "count": 1
+        },
+        {
+          "model": "Taycan",
+          "count": 2
         }
       ]
     }

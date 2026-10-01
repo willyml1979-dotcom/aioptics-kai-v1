@@ -1,41 +1,130 @@
 {
-  "generated_at": "2026-10-01T22:33:34+00:00",
+  "generated_at": "2026-10-01T22:47:51+00:00",
   "condition": "used",
   "make": "chrysler",
   "files": [
     {
       "condition": "used",
       "make": "chrysler",
-      "count": 27,
-      "file": "inventory/used-chrysler.json",
+      "model": "GRAND CARAVANSXT 2WD",
+      "count": 1,
+      "file": "inventory/used-chrysler-grand-caravansxt-2wd.json",
       "models": [
-        {
-          "model": "200",
-          "count": 2
-        },
-        {
-          "model": "300",
-          "count": 4
-        },
-        {
-          "model": "GRAND CARAVAN",
-          "count": 1
-        },
         {
           "model": "GRAND CARAVANSXT 2WD",
           "count": 1
-        },
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chrysler",
+      "model": "200",
+      "count": 7,
+      "file": "inventory/used-chrysler-200.json",
+      "models": [
         {
-          "model": "Grand Caravan",
-          "count": 2
-        },
+          "model": "200",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chrysler",
+      "model": "300",
+      "count": 6,
+      "file": "inventory/used-chrysler-300.json",
+      "models": [
+        {
+          "model": "300",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chrysler",
+      "model": "PACIFICA",
+      "count": 37,
+      "file": "inventory/used-chrysler-pacifica.json",
+      "models": [
         {
           "model": "PACIFICA",
           "count": 1
         },
         {
           "model": "Pacifica",
-          "count": 16
+          "count": 36
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chrysler",
+      "model": "Grand Caravan",
+      "count": 8,
+      "file": "inventory/used-chrysler-grand-caravan.json",
+      "models": [
+        {
+          "model": "GRAND CARAVAN",
+          "count": 1
+        },
+        {
+          "model": "Grand Caravan",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chrysler",
+      "model": "Pacifica Hybrid",
+      "count": 2,
+      "file": "inventory/used-chrysler-pacifica-hybrid.json",
+      "models": [
+        {
+          "model": "Pacifica Hybrid",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chrysler",
+      "model": "Grand Caravan SXT 2WD",
+      "count": 1,
+      "file": "inventory/used-chrysler-grand-caravan-sxt-2wd.json",
+      "models": [
+        {
+          "model": "Grand Caravan SXT 2WD",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chrysler",
+      "model": "Town & Country",
+      "count": 1,
+      "file": "inventory/used-chrysler-town-country.json",
+      "models": [
+        {
+          "model": "Town & Country",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chrysler",
+      "model": "Grand Caravan SXTin Courtenay",
+      "count": 1,
+      "file": "inventory/used-chrysler-grand-caravan-sxtin-courtenay.json",
+      "models": [
+        {
+          "model": "Grand Caravan SXTin Courtenay",
+          "count": 1
         }
       ]
     }

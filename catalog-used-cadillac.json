@@ -1,16 +1,20 @@
 {
-  "generated_at": "2026-10-01T22:33:34+00:00",
+  "generated_at": "2026-10-01T22:47:51+00:00",
   "condition": "used",
   "make": "cadillac",
   "files": [
     {
       "condition": "used",
       "make": "cadillac",
-      "count": 18,
+      "count": 28,
       "file": "inventory/used-cadillac.json",
       "models": [
         {
           "model": "ATS",
+          "count": 1
+        },
+        {
+          "model": "Ats LUXURY AWDin Mission",
           "count": 1
         },
         {
@@ -19,15 +23,19 @@
         },
         {
           "model": "Escalade",
-          "count": 3
+          "count": 5
         },
         {
           "model": "Escalade IQ",
           "count": 1
         },
         {
+          "model": "LYRIQ",
+          "count": 1
+        },
+        {
           "model": "Lyriq",
-          "count": 2
+          "count": 3
         },
         {
           "model": "Optiq",
@@ -40,6 +48,10 @@
         {
           "model": "XT5",
           "count": 4
+        },
+        {
+          "model": "XT6",
+          "count": 5
         }
       ]
     }

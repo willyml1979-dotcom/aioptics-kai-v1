@@ -1,37 +1,104 @@
 {
-  "generated_at": "2026-10-01T22:33:34+00:00",
+  "generated_at": "2026-10-01T22:47:51+00:00",
   "condition": "new",
   "make": "dodge",
   "files": [
     {
       "condition": "new",
       "make": "dodge",
-      "count": 21,
-      "file": "inventory/new-dodge.json",
+      "model": "Durango",
+      "count": 40,
+      "file": "inventory/new-dodge-durango.json",
       "models": [
-        {
-          "model": "CHARGER",
-          "count": 3
-        },
-        {
-          "model": "CHARGER DAYTONA",
-          "count": 1
-        },
-        {
-          "model": "Charger",
-          "count": 2
-        },
         {
           "model": "DURANGO",
           "count": 10
         },
         {
           "model": "Durango",
-          "count": 4
-        },
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "dodge",
+      "model": "CHARGER DAYTONA",
+      "count": 1,
+      "file": "inventory/new-dodge-charger-daytona.json",
+      "models": [
+        {
+          "model": "CHARGER DAYTONA",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "dodge",
+      "model": "HORNET",
+      "count": 1,
+      "file": "inventory/new-dodge-hornet.json",
+      "models": [
         {
           "model": "HORNET",
           "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "dodge",
+      "model": "CHARGER",
+      "count": 16,
+      "file": "inventory/new-dodge-charger.json",
+      "models": [
+        {
+          "model": "CHARGER",
+          "count": 3
+        },
+        {
+          "model": "Charger",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "dodge",
+      "model": "Durango Gt Plusin Terrace",
+      "count": 1,
+      "file": "inventory/new-dodge-durango-gt-plusin-terrace.json",
+      "models": [
+        {
+          "model": "Durango Gt Plusin Terrace",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "dodge",
+      "model": "Hornet R/T PHEV EAWD",
+      "count": 2,
+      "file": "inventory/new-dodge-hornet-r-t-phev-eawd.json",
+      "models": [
+        {
+          "model": "Hornet R/T PHEV EAWD",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "dodge",
+      "model": "Durango GTin Kelowna",
+      "count": 3,
+      "file": "inventory/new-dodge-durango-gtin-kelowna.json",
+      "models": [
+        {
+          "model": "Durango GTin Kelowna",
+          "count": 3
         }
       ]
     }

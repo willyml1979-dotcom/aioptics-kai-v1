@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-10-01T22:33:34+00:00",
+  "generated_at": "2026-10-01T22:47:51+00:00",
   "condition": "used",
   "make": "ram",
   "files": [
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500 SLT quad cab 4x4, Hemi, auto, recondition and ready to go. Loaded with many options.in Cranbrook",
+      "count": 1,
+      "file": "inventory/used-ram-1500-slt-quad-cab-4x4-hemi-auto-recondition-and-ready-to-go-loaded-with-many-options-in-cranbrook.json",
+      "models": [
+        {
+          "model": "1500 SLT quad cab 4x4, Hemi, auto, recondition and ready to go. Loaded with many options.in Cranbrook",
+          "count": 1
+        }
+      ]
+    },
     {
       "condition": "used",
       "make": "ram",
@@ -71,6 +84,45 @@
     {
       "condition": "used",
       "make": "ram",
+      "model": "1500 Rebel, Heated seats and steering wheel, Remote start, 9 Speaker system, Naviigationin Cranbrook",
+      "count": 1,
+      "file": "inventory/used-ram-1500-rebel-heated-seats-and-steering-wheel-remote-start-9-speaker-system-naviigationin-cranbrook.json",
+      "models": [
+        {
+          "model": "1500 Rebel, Heated seats and steering wheel, Remote start, 9 Speaker system, Naviigationin Cranbrook",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "3500 Crew Cab Laramie, leather interior, one owner vehicle, surround view camerain Cranbrook",
+      "count": 1,
+      "file": "inventory/used-ram-3500-crew-cab-laramie-leather-interior-one-owner-vehicle-surround-view-camerain-cranbrook.json",
+      "models": [
+        {
+          "model": "3500 Crew Cab Laramie, leather interior, one owner vehicle, surround view camerain Cranbrook",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "3500 Big Hornin Cranbrook",
+      "count": 3,
+      "file": "inventory/used-ram-3500-big-hornin-cranbrook.json",
+      "models": [
+        {
+          "model": "3500 Big Hornin Cranbrook",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
       "model": "3500Tradesman 4x4 Reg Cab 8' Box",
       "count": 1,
       "file": "inventory/used-ram-3500tradesman-4x4-reg-cab-8-box.json",
@@ -111,8 +163,51 @@
       "condition": "used",
       "make": "ram",
       "model": "1500",
+      "shard": "Kootenays",
+      "count": 5,
+      "file": "inventory/used-ram-1500-kootenays.json",
+      "models": [
+        {
+          "model": "1500",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500",
+      "shard": "Lower Mainland",
+      "count": 21,
+      "file": "inventory/used-ram-1500-lower-mainland.json",
+      "models": [
+        {
+          "model": "1500",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500",
+      "shard": "Norte/Cariboo",
+      "count": 16,
+      "file": "inventory/used-ram-1500-norte-cariboo.json",
+      "models": [
+        {
+          "model": "1500",
+          "count": 16
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500",
+      "shard": "Okanagan",
       "count": 23,
-      "file": "inventory/used-ram-1500.json",
+      "file": "inventory/used-ram-1500-okanagan.json",
       "models": [
         {
           "model": "1500",
@@ -123,42 +218,123 @@
     {
       "condition": "used",
       "make": "ram",
+      "model": "1500",
+      "shard": "Vancouver Island",
+      "count": 15,
+      "file": "inventory/used-ram-1500-vancouver-island.json",
+      "models": [
+        {
+          "model": "1500",
+          "count": 15
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500",
+      "shard": "sin-region",
+      "count": 3,
+      "file": "inventory/used-ram-1500-sin-region.json",
+      "models": [
+        {
+          "model": "1500",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
       "model": "1500 CLASSIC",
-      "count": 17,
-      "file": "inventory/used-ram-1500-classic.json",
+      "shard": "Kootenays",
+      "count": 1,
+      "file": "inventory/used-ram-1500-classic-kootenays.json",
       "models": [
         {
           "model": "1500 CLASSIC",
-          "count": 13
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500 CLASSIC",
+      "shard": "Lower Mainland",
+      "count": 17,
+      "file": "inventory/used-ram-1500-classic-lower-mainland.json",
+      "models": [
+        {
+          "model": "1500 Classic",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500 CLASSIC",
+      "shard": "Norte/Cariboo",
+      "count": 14,
+      "file": "inventory/used-ram-1500-classic-norte-cariboo.json",
+      "models": [
+        {
+          "model": "1500 CLASSIC",
+          "count": 5
         },
         {
           "model": "1500 Classic",
-          "count": 4
+          "count": 9
         }
       ]
     },
     {
       "condition": "used",
       "make": "ram",
-      "model": "1500 Crew Cab",
-      "count": 19,
-      "file": "inventory/used-ram-1500-crew-cab.json",
+      "model": "1500 CLASSIC",
+      "shard": "Okanagan",
+      "count": 14,
+      "file": "inventory/used-ram-1500-classic-okanagan.json",
       "models": [
         {
-          "model": "1500 Crew Cab",
-          "count": 19
+          "model": "1500 CLASSIC",
+          "count": 3
+        },
+        {
+          "model": "1500 Classic",
+          "count": 11
         }
       ]
     },
     {
       "condition": "used",
       "make": "ram",
-      "model": "ProMaster Cargo",
+      "model": "1500 CLASSIC",
+      "shard": "Vancouver Island",
+      "count": 10,
+      "file": "inventory/used-ram-1500-classic-vancouver-island.json",
+      "models": [
+        {
+          "model": "1500 CLASSIC",
+          "count": 2
+        },
+        {
+          "model": "1500 Classic",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500 CLASSIC",
+      "shard": "sin-region",
       "count": 2,
-      "file": "inventory/used-ram-promaster-cargo.json",
+      "file": "inventory/used-ram-1500-classic-sin-region.json",
       "models": [
         {
-          "model": "ProMaster Cargo",
+          "model": "1500 CLASSIC",
           "count": 2
         }
       ]
@@ -166,13 +342,161 @@
     {
       "condition": "used",
       "make": "ram",
+      "model": "1500 Quad Cab",
+      "count": 10,
+      "file": "inventory/used-ram-1500-quad-cab.json",
+      "models": [
+        {
+          "model": "1500 Quad Cab",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "Promaster City",
+      "count": 1,
+      "file": "inventory/used-ram-promaster-city.json",
+      "models": [
+        {
+          "model": "Promaster City",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500 Crew Cab",
+      "count": 34,
+      "file": "inventory/used-ram-1500-crew-cab.json",
+      "models": [
+        {
+          "model": "1500 Crew Cab",
+          "count": 34
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "ProMaster Cargo",
+      "count": 8,
+      "file": "inventory/used-ram-promaster-cargo.json",
+      "models": [
+        {
+          "model": "ProMaster Cargo",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "2500",
+      "count": 17,
+      "file": "inventory/used-ram-2500.json",
+      "models": [
+        {
+          "model": "2500",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
       "model": "3500",
-      "count": 9,
-      "file": "inventory/used-ram-3500.json",
+      "shard": "Lower Mainland",
+      "count": 16,
+      "file": "inventory/used-ram-3500-lower-mainland.json",
       "models": [
         {
           "model": "3500",
-          "count": 9
+          "count": 16
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "3500",
+      "shard": "Norte/Cariboo",
+      "count": 7,
+      "file": "inventory/used-ram-3500-norte-cariboo.json",
+      "models": [
+        {
+          "model": "3500",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "3500",
+      "shard": "Okanagan",
+      "count": 16,
+      "file": "inventory/used-ram-3500-okanagan.json",
+      "models": [
+        {
+          "model": "3500",
+          "count": 16
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "3500",
+      "shard": "Vancouver Island",
+      "count": 4,
+      "file": "inventory/used-ram-3500-vancouver-island.json",
+      "models": [
+        {
+          "model": "3500",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "3500",
+      "shard": "sin-region",
+      "count": 2,
+      "file": "inventory/used-ram-3500-sin-region.json",
+      "models": [
+        {
+          "model": "3500",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "3500 4WD Crew Cab 149  Laramie",
+      "count": 1,
+      "file": "inventory/used-ram-3500-4wd-crew-cab-149-laramie.json",
+      "models": [
+        {
+          "model": "3500 4WD Crew Cab 149  Laramie",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500 Sport - Navigation - Apple CarPlayin Mission",
+      "count": 1,
+      "file": "inventory/used-ram-1500-sport-navigation-apple-carplayin-mission.json",
+      "models": [
+        {
+          "model": "1500 Sport - Navigation - Apple CarPlayin Mission",
+          "count": 1
         }
       ]
     },
@@ -192,12 +516,207 @@
     {
       "condition": "used",
       "make": "ram",
-      "model": "2500",
-      "count": 3,
-      "file": "inventory/used-ram-2500.json",
+      "model": "3500 Big Horn",
+      "count": 1,
+      "file": "inventory/used-ram-3500-big-horn.json",
       "models": [
         {
-          "model": "2500",
+          "model": "3500 Big Horn",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "3500 Longhorn",
+      "count": 1,
+      "file": "inventory/used-ram-3500-longhorn.json",
+      "models": [
+        {
+          "model": "3500 Longhorn",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "3500 Limited Night Edition 8' Box",
+      "count": 1,
+      "file": "inventory/used-ram-3500-limited-night-edition-8-box.json",
+      "models": [
+        {
+          "model": "3500 Limited Night Edition 8' Box",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500 Classic Express",
+      "count": 1,
+      "file": "inventory/used-ram-1500-classic-express.json",
+      "models": [
+        {
+          "model": "1500 Classic Express",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500 Crew Cab Laramie  - Leather Seats -  Cooled Seats",
+      "count": 1,
+      "file": "inventory/used-ram-1500-crew-cab-laramie-leather-seats-cooled-seats.json",
+      "models": [
+        {
+          "model": "1500 Crew Cab Laramie  - Leather Seats -  Cooled Seats",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500 Crew Cab Big Horn  - Aluminum Wheels -  Fog Lamps",
+      "count": 1,
+      "file": "inventory/used-ram-1500-crew-cab-big-horn-aluminum-wheels-fog-lamps.json",
+      "models": [
+        {
+          "model": "1500 Crew Cab Big Horn  - Aluminum Wheels -  Fog Lamps",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500 Crew Cab Laramie  - Cooled Seats -  Leather Seats",
+      "count": 1,
+      "file": "inventory/used-ram-1500-crew-cab-laramie-cooled-seats-leather-seats.json",
+      "models": [
+        {
+          "model": "1500 Crew Cab Laramie  - Cooled Seats -  Leather Seats",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500 Sport   - GT Package -  Heated Seats",
+      "count": 1,
+      "file": "inventory/used-ram-1500-sport-gt-package-heated-seats.json",
+      "models": [
+        {
+          "model": "1500 Sport   - GT Package -  Heated Seats",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "3500 Big Horn  - Aluminum Wheels -  Tow Package",
+      "count": 1,
+      "file": "inventory/used-ram-3500-big-horn-aluminum-wheels-tow-package.json",
+      "models": [
+        {
+          "model": "3500 Big Horn  - Aluminum Wheels -  Tow Package",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500 Quad Cab Tradesman  -  Remote Start - Low Mileage",
+      "count": 1,
+      "file": "inventory/used-ram-1500-quad-cab-tradesman-remote-start-low-mileage.json",
+      "models": [
+        {
+          "model": "1500 Quad Cab Tradesman  -  Remote Start - Low Mileage",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500 Sport Night Crew Cab",
+      "count": 1,
+      "file": "inventory/used-ram-1500-sport-night-crew-cab.json",
+      "models": [
+        {
+          "model": "1500 Sport Night Crew Cab",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500 Big Horn",
+      "count": 1,
+      "file": "inventory/used-ram-1500-big-horn.json",
+      "models": [
+        {
+          "model": "1500 Big Horn",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "2500 Big Horn",
+      "count": 1,
+      "file": "inventory/used-ram-2500-big-horn.json",
+      "models": [
+        {
+          "model": "2500 Big Horn",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500 Sportin Kelowna",
+      "count": 1,
+      "file": "inventory/used-ram-1500-sportin-kelowna.json",
+      "models": [
+        {
+          "model": "1500 Sportin Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500 Regular Cab",
+      "count": 1,
+      "file": "inventory/used-ram-1500-regular-cab.json",
+      "models": [
+        {
+          "model": "1500 Regular Cab",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500 Rebelin Courtenay",
+      "count": 3,
+      "file": "inventory/used-ram-1500-rebelin-courtenay.json",
+      "models": [
+        {
+          "model": "1500 Rebelin Courtenay",
           "count": 3
         }
       ]
@@ -205,13 +724,26 @@
     {
       "condition": "used",
       "make": "ram",
-      "model": "1500 Quad Cab",
-      "count": 3,
-      "file": "inventory/used-ram-1500-quad-cab.json",
+      "model": "3500 Big Hornin Courtenay",
+      "count": 1,
+      "file": "inventory/used-ram-3500-big-hornin-courtenay.json",
       "models": [
         {
-          "model": "1500 Quad Cab",
-          "count": 3
+          "model": "3500 Big Hornin Courtenay",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500 Limited Longhornin Courtenay",
+      "count": 1,
+      "file": "inventory/used-ram-1500-limited-longhornin-courtenay.json",
+      "models": [
+        {
+          "model": "1500 Limited Longhornin Courtenay",
+          "count": 1
         }
       ]
     },

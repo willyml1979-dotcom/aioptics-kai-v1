@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01T22:33:34+00:00",
-  "snapshot": "2026-10-01T22:33:34+00:00",
+  "generated_at": "2026-10-01T22:47:51+00:00",
+  "snapshot": "2026-10-01T22:47:51+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "go-kia-west-jn1bf0ba8rm431000",
@@ -28,6 +28,28 @@
       "city": "Coquitlam",
       "province": "BC",
       "dealer_name": "Go Kia West"
+    },
+    {
+      "pub_id": "openroad-mercedes-benz-surrey-jn1cf0bb7pm700548",
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Ariya",
+      "condition": "used",
+      "price_cad": 35277.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "openroad-mercedes-benz-surrey",
+      "vin": "JN1CF0BB7PM700548",
+      "stock": 14246310,
+      "listing_url": "https://www.mercedes-benz-surrey.ca/used/2023-Nissan-Ariya.html",
+      "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2023-Nissan-Ariya.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T20:09:25",
+      "snapshot": "2026-09-26T20:19:57",
+      "go_url": "https://carwhisper.ca/go/openroad-mercedes-benz-surrey-jn1cf0bb7pm700548",
+      "region": "Lower Mainland",
+      "city": "Surrey",
+      "province": "BC",
+      "dealer_name": "OpenRoad Mercedes Benz Surrey"
     },
     {
       "pub_id": "tricity-mitsubishi-jn8af0be5sm461609",

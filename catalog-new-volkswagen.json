@@ -1,57 +1,19 @@
 {
-  "generated_at": "2026-10-01T22:33:34+00:00",
+  "generated_at": "2026-10-01T22:47:51+00:00",
   "condition": "new",
   "make": "volkswagen",
   "files": [
     {
       "condition": "new",
       "make": "volkswagen",
-      "model": "Atlas Cross Sport",
-      "count": 18,
-      "file": "inventory/new-volkswagen-atlas-cross-sport.json",
+      "model": "Taos",
+      "shard": "Lower Mainland",
+      "count": 40,
+      "file": "inventory/new-volkswagen-taos-lower-mainland.json",
       "models": [
         {
-          "model": "Atlas Cross Sport",
-          "count": 18
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "volkswagen",
-      "model": "Atlas",
-      "count": 20,
-      "file": "inventory/new-volkswagen-atlas.json",
-      "models": [
-        {
-          "model": "Atlas",
-          "count": 20
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "volkswagen",
-      "model": "Golf R",
-      "count": 5,
-      "file": "inventory/new-volkswagen-golf-r.json",
-      "models": [
-        {
-          "model": "Golf R",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "volkswagen",
-      "model": "Jetta",
-      "count": 23,
-      "file": "inventory/new-volkswagen-jetta.json",
-      "models": [
-        {
-          "model": "Jetta",
-          "count": 23
+          "model": "Taos",
+          "count": 40
         }
       ]
     },
@@ -59,12 +21,138 @@
       "condition": "new",
       "make": "volkswagen",
       "model": "Taos",
-      "count": 30,
-      "file": "inventory/new-volkswagen-taos.json",
+      "shard": "Norte/Cariboo",
+      "count": 5,
+      "file": "inventory/new-volkswagen-taos-norte-cariboo.json",
       "models": [
         {
           "model": "Taos",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "volkswagen",
+      "model": "Taos",
+      "shard": "Okanagan",
+      "count": 4,
+      "file": "inventory/new-volkswagen-taos-okanagan.json",
+      "models": [
+        {
+          "model": "Taos",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "volkswagen",
+      "model": "Taos",
+      "shard": "Thompson-Okanagan",
+      "count": 11,
+      "file": "inventory/new-volkswagen-taos-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "Taos",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "volkswagen",
+      "model": "Taos",
+      "shard": "Vancouver Island",
+      "count": 20,
+      "file": "inventory/new-volkswagen-taos-vancouver-island.json",
+      "models": [
+        {
+          "model": "Taos",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "volkswagen",
+      "model": "Taos",
+      "shard": "sin-region",
+      "count": 11,
+      "file": "inventory/new-volkswagen-taos-sin-region.json",
+      "models": [
+        {
+          "model": "Taos",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "volkswagen",
+      "model": "Jetta",
+      "shard": "part1",
+      "count": 31,
+      "file": "inventory/new-volkswagen-jetta-part1.json",
+      "models": [
+        {
+          "model": "Jetta",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "volkswagen",
+      "model": "Jetta",
+      "shard": "part2",
+      "count": 31,
+      "file": "inventory/new-volkswagen-jetta-part2.json",
+      "models": [
+        {
+          "model": "Jetta",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "volkswagen",
+      "model": "Jetta",
+      "shard": "part3",
+      "count": 31,
+      "file": "inventory/new-volkswagen-jetta-part3.json",
+      "models": [
+        {
+          "model": "Jetta",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "volkswagen",
+      "model": "Jetta",
+      "shard": "part4",
+      "count": 30,
+      "file": "inventory/new-volkswagen-jetta-part4.json",
+      "models": [
+        {
+          "model": "Jetta",
           "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "volkswagen",
+      "model": "Jetta GLI",
+      "count": 7,
+      "file": "inventory/new-volkswagen-jetta-gli.json",
+      "models": [
+        {
+          "model": "Jetta GLI",
+          "count": 7
         }
       ]
     },
@@ -73,12 +161,26 @@
       "make": "volkswagen",
       "model": "Tiguan",
       "shard": "Lower Mainland",
-      "count": 6,
+      "count": 31,
       "file": "inventory/new-volkswagen-tiguan-lower-mainland.json",
       "models": [
         {
           "model": "Tiguan",
-          "count": 6
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "volkswagen",
+      "model": "Tiguan",
+      "shard": "Norte/Cariboo",
+      "count": 14,
+      "file": "inventory/new-volkswagen-tiguan-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Tiguan",
+          "count": 14
         }
       ]
     },
@@ -114,6 +216,20 @@
       "condition": "new",
       "make": "volkswagen",
       "model": "Tiguan",
+      "shard": "Vancouver Island",
+      "count": 8,
+      "file": "inventory/new-volkswagen-tiguan-vancouver-island.json",
+      "models": [
+        {
+          "model": "Tiguan",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "volkswagen",
+      "model": "Tiguan",
       "shard": "sin-region",
       "count": 13,
       "file": "inventory/new-volkswagen-tiguan-sin-region.json",
@@ -127,13 +243,26 @@
     {
       "condition": "new",
       "make": "volkswagen",
-      "model": "Jetta GLI",
-      "count": 4,
-      "file": "inventory/new-volkswagen-jetta-gli.json",
+      "model": "GLI",
+      "count": 1,
+      "file": "inventory/new-volkswagen-gli.json",
       "models": [
         {
-          "model": "Jetta GLI",
-          "count": 4
+          "model": "GLI",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "volkswagen",
+      "model": "Atlas Cross Sport",
+      "count": 35,
+      "file": "inventory/new-volkswagen-atlas-cross-sport.json",
+      "models": [
+        {
+          "model": "Atlas Cross Sport",
+          "count": 35
         }
       ]
     },
@@ -141,12 +270,38 @@
       "condition": "new",
       "make": "volkswagen",
       "model": "Golf GTI",
-      "count": 5,
+      "count": 10,
       "file": "inventory/new-volkswagen-golf-gti.json",
       "models": [
         {
           "model": "Golf GTI",
-          "count": 5
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "volkswagen",
+      "model": "Atlas",
+      "count": 34,
+      "file": "inventory/new-volkswagen-atlas.json",
+      "models": [
+        {
+          "model": "Atlas",
+          "count": 34
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "volkswagen",
+      "model": "Golf R",
+      "count": 12,
+      "file": "inventory/new-volkswagen-golf-r.json",
+      "models": [
+        {
+          "model": "Golf R",
+          "count": 12
         }
       ]
     },
@@ -154,12 +309,12 @@
       "condition": "new",
       "make": "volkswagen",
       "model": "ID. Buzz",
-      "count": 1,
+      "count": 3,
       "file": "inventory/new-volkswagen-id-buzz.json",
       "models": [
         {
           "model": "ID. Buzz",
-          "count": 1
+          "count": 3
         }
       ]
     }

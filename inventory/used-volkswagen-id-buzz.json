@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01T22:33:34+00:00",
-  "snapshot": "2026-10-01T22:33:34+00:00",
+  "generated_at": "2026-10-01T22:47:51+00:00",
+  "snapshot": "2026-10-01T22:47:51+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "turner-volkswagen-wvg6yveb8sh024038",
@@ -25,6 +25,30 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Turner Volkswagen"
+    },
+    {
+      "pub_id": "comox-valley-vw-wvg6yveb6sh028542",
+      "year": 2025,
+      "make": "Volkswagen",
+      "model": "ID. Buzz",
+      "trim": "1st Edition 4MOTIONin Courtenay",
+      "condition": "used",
+      "odometer_km": 8639,
+      "price_cad": 69745.0,
+      "price_note": null,
+      "color": "{$COLOREX}",
+      "dealer_id": "comox-valley-vw",
+      "vin": "WVG6YVEB6SH028542",
+      "stock": "NUMBER",
+      "listing_url": "https://www.comoxvalleyvolkswagen.com/used/2025-Volkswagen-ID._Buzz-id14246281.html",
+      "dealer_url": "https://www.comoxvalleyvolkswagen.com/used/2025-Volkswagen-ID._Buzz-id14246281.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T23:35:07",
+      "snapshot": "2026-09-27T01:14:29",
+      "go_url": "https://carwhisper.ca/go/comox-valley-vw-wvg6yveb6sh028542",
+      "region": "Vancouver Island",
+      "city": "Courtenay",
+      "province": "BC",
+      "dealer_name": "Comox Valley VW"
     }
   ]
 }

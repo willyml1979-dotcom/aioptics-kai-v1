@@ -1,36 +1,121 @@
 {
-  "generated_at": "2026-10-01T22:33:34+00:00",
+  "generated_at": "2026-10-01T22:47:51+00:00",
   "condition": "used",
   "make": "acura",
   "files": [
     {
       "condition": "used",
       "make": "acura",
-      "count": 15,
-      "file": "inventory/used-acura.json",
+      "model": "ILX",
+      "count": 4,
+      "file": "inventory/used-acura-ilx.json",
       "models": [
         {
           "model": "ILX",
-          "count": 2
-        },
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "acura",
+      "model": "TLX",
+      "count": 3,
+      "file": "inventory/used-acura-tlx.json",
+      "models": [
+        {
+          "model": "TLX",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "acura",
+      "model": "RDX",
+      "count": 21,
+      "file": "inventory/used-acura-rdx.json",
+      "models": [
+        {
+          "model": "RDX",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "acura",
+      "model": "MDX",
+      "count": 27,
+      "file": "inventory/used-acura-mdx.json",
+      "models": [
+        {
+          "model": "MDX",
+          "count": 27
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "acura",
+      "model": "Integra",
+      "count": 1,
+      "file": "inventory/used-acura-integra.json",
+      "models": [
         {
           "model": "Integra",
           "count": 1
-        },
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "acura",
+      "model": "NSX",
+      "count": 1,
+      "file": "inventory/used-acura-nsx.json",
+      "models": [
         {
-          "model": "MDX",
-          "count": 3
-        },
-        {
-          "model": "MDX A-SPEC",
+          "model": "NSX",
           "count": 1
-        },
-        {
-          "model": "RDX",
-          "count": 7
-        },
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "acura",
+      "model": "TL 4dr Sdn Auto 2WD A-Spec",
+      "count": 1,
+      "file": "inventory/used-acura-tl-4dr-sdn-auto-2wd-a-spec.json",
+      "models": [
         {
           "model": "TL 4dr Sdn Auto 2WD A-Spec",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "acura",
+      "model": "RDXin Kelowna",
+      "count": 1,
+      "file": "inventory/used-acura-rdxin-kelowna.json",
+      "models": [
+        {
+          "model": "RDXin Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "acura",
+      "model": "MDX A-SPEC",
+      "count": 1,
+      "file": "inventory/used-acura-mdx-a-spec.json",
+      "models": [
+        {
+          "model": "MDX A-SPEC",
           "count": 1
         }
       ]

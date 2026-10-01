@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T22:33:34+00:00",
+  "generated_at": "2026-10-01T22:47:51+00:00",
   "condition": "new",
   "make": "lexus",
   "files": [
@@ -13,6 +13,19 @@
         {
           "model": "UX",
           "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "lexus",
+      "model": "IS",
+      "count": 2,
+      "file": "inventory/new-lexus-is.json",
+      "models": [
+        {
+          "model": "IS",
+          "count": 2
         }
       ]
     },
@@ -58,19 +71,6 @@
     {
       "condition": "new",
       "make": "lexus",
-      "model": "IS",
-      "count": 1,
-      "file": "inventory/new-lexus-is.json",
-      "models": [
-        {
-          "model": "IS",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "lexus",
       "model": "ES",
       "count": 2,
       "file": "inventory/new-lexus-es.json",
@@ -85,12 +85,25 @@
       "condition": "new",
       "make": "lexus",
       "model": "RX",
-      "count": 23,
+      "count": 24,
       "file": "inventory/new-lexus-rx.json",
       "models": [
         {
           "model": "RX",
-          "count": 23
+          "count": 24
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "lexus",
+      "model": "RZ",
+      "count": 3,
+      "file": "inventory/new-lexus-rz.json",
+      "models": [
+        {
+          "model": "RZ",
+          "count": 3
         }
       ]
     },
@@ -110,13 +123,221 @@
     {
       "condition": "new",
       "make": "lexus",
-      "model": "RZ",
-      "count": 2,
-      "file": "inventory/new-lexus-rz.json",
+      "model": "UX 300h Premiumin Kelowna",
+      "count": 1,
+      "file": "inventory/new-lexus-ux-300h-premiumin-kelowna.json",
       "models": [
         {
-          "model": "RZ",
+          "model": "UX 300h Premiumin Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "lexus",
+      "model": "UX 300h Luxuryin Kelowna",
+      "count": 4,
+      "file": "inventory/new-lexus-ux-300h-luxuryin-kelowna.json",
+      "models": [
+        {
+          "model": "UX 300h Luxuryin Kelowna",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "lexus",
+      "model": "UX 300hin Kelowna",
+      "count": 2,
+      "file": "inventory/new-lexus-ux-300hin-kelowna.json",
+      "models": [
+        {
+          "model": "UX 300hin Kelowna",
           "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "lexus",
+      "model": "UX 300h F Sport 2in Kelowna",
+      "count": 1,
+      "file": "inventory/new-lexus-ux-300h-f-sport-2in-kelowna.json",
+      "models": [
+        {
+          "model": "UX 300h F Sport 2in Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "lexus",
+      "model": "NX 350in Kelowna",
+      "count": 1,
+      "file": "inventory/new-lexus-nx-350in-kelowna.json",
+      "models": [
+        {
+          "model": "NX 350in Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "lexus",
+      "model": "NX 350 Premiumin Kelowna",
+      "count": 3,
+      "file": "inventory/new-lexus-nx-350-premiumin-kelowna.json",
+      "models": [
+        {
+          "model": "NX 350 Premiumin Kelowna",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "lexus",
+      "model": "NX 350 F Sport 2in Kelowna",
+      "count": 1,
+      "file": "inventory/new-lexus-nx-350-f-sport-2in-kelowna.json",
+      "models": [
+        {
+          "model": "NX 350 F Sport 2in Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "lexus",
+      "model": "ES 350 Ultra Luxuryin Kelowna",
+      "count": 1,
+      "file": "inventory/new-lexus-es-350-ultra-luxuryin-kelowna.json",
+      "models": [
+        {
+          "model": "ES 350 Ultra Luxuryin Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "lexus",
+      "model": "ES 350 Premium+in Kelowna",
+      "count": 1,
+      "file": "inventory/new-lexus-es-350-premium-in-kelowna.json",
+      "models": [
+        {
+          "model": "ES 350 Premium+in Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "lexus",
+      "model": "RX 350 Luxuryin Kelowna",
+      "count": 2,
+      "file": "inventory/new-lexus-rx-350-luxuryin-kelowna.json",
+      "models": [
+        {
+          "model": "RX 350 Luxuryin Kelowna",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "lexus",
+      "model": "NX 350h Executivein Kelowna",
+      "count": 1,
+      "file": "inventory/new-lexus-nx-350h-executivein-kelowna.json",
+      "models": [
+        {
+          "model": "NX 350h Executivein Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "lexus",
+      "model": "RX 350 F Sport 2in Kelowna",
+      "count": 1,
+      "file": "inventory/new-lexus-rx-350-f-sport-2in-kelowna.json",
+      "models": [
+        {
+          "model": "RX 350 F Sport 2in Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "lexus",
+      "model": "TX 350 Ultra Luxuryin Kelowna",
+      "count": 1,
+      "file": "inventory/new-lexus-tx-350-ultra-luxuryin-kelowna.json",
+      "models": [
+        {
+          "model": "TX 350 Ultra Luxuryin Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "lexus",
+      "model": "NX F Sport 2in Kelowna",
+      "count": 1,
+      "file": "inventory/new-lexus-nx-f-sport-2in-kelowna.json",
+      "models": [
+        {
+          "model": "NX F Sport 2in Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "lexus",
+      "model": "ES Luxury +in Kelowna",
+      "count": 1,
+      "file": "inventory/new-lexus-es-luxury-in-kelowna.json",
+      "models": [
+        {
+          "model": "ES Luxury +in Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "lexus",
+      "model": "LX 600 F Sportin Kelowna",
+      "count": 1,
+      "file": "inventory/new-lexus-lx-600-f-sportin-kelowna.json",
+      "models": [
+        {
+          "model": "LX 600 F Sportin Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "lexus",
+      "model": "LX 600 Luxuryin Kelowna",
+      "count": 1,
+      "file": "inventory/new-lexus-lx-600-luxuryin-kelowna.json",
+      "models": [
+        {
+          "model": "LX 600 Luxuryin Kelowna",
+          "count": 1
         }
       ]
     }

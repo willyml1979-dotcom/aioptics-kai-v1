@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T22:33:34+00:00",
+  "generated_at": "2026-10-01T22:47:51+00:00",
   "condition": "used",
   "make": "honda",
   "files": [
@@ -19,72 +19,14 @@
     {
       "condition": "used",
       "make": "honda",
-      "model": "CR-V Hybrid",
-      "count": 30,
-      "file": "inventory/used-honda-cr-v-hybrid.json",
+      "model": "CR-V",
+      "shard": "Kootenays",
+      "count": 1,
+      "file": "inventory/used-honda-cr-v-kootenays.json",
       "models": [
         {
-          "model": "CR-V Hybrid",
-          "count": 30
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "honda",
-      "model": "Fit",
-      "count": 7,
-      "file": "inventory/used-honda-fit.json",
-      "models": [
-        {
-          "model": "Fit",
-          "count": 7
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "honda",
-      "model": "Civic",
-      "shard": "part1",
-      "count": 26,
-      "file": "inventory/used-honda-civic-part1.json",
-      "models": [
-        {
-          "model": "Civic",
-          "count": 26
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "honda",
-      "model": "Civic",
-      "shard": "part2",
-      "count": 26,
-      "file": "inventory/used-honda-civic-part2.json",
-      "models": [
-        {
-          "model": "Civic",
-          "count": 26
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "honda",
-      "model": "Civic",
-      "shard": "part3",
-      "count": 25,
-      "file": "inventory/used-honda-civic-part3.json",
-      "models": [
-        {
-          "model": "CIVIC",
-          "count": 3
-        },
-        {
-          "model": "Civic",
-          "count": 22
+          "model": "CR-V",
+          "count": 1
         }
       ]
     },
@@ -93,12 +35,12 @@
       "make": "honda",
       "model": "CR-V",
       "shard": "Lower Mainland",
-      "count": 32,
+      "count": 40,
       "file": "inventory/used-honda-cr-v-lower-mainland.json",
       "models": [
         {
           "model": "CR-V",
-          "count": 32
+          "count": 40
         }
       ]
     },
@@ -107,12 +49,12 @@
       "make": "honda",
       "model": "CR-V",
       "shard": "Okanagan",
-      "count": 4,
+      "count": 30,
       "file": "inventory/used-honda-cr-v-okanagan.json",
       "models": [
         {
           "model": "CR-V",
-          "count": 4
+          "count": 30
         }
       ]
     },
@@ -135,12 +77,12 @@
       "make": "honda",
       "model": "CR-V",
       "shard": "Vancouver Island",
-      "count": 10,
+      "count": 21,
       "file": "inventory/used-honda-cr-v-vancouver-island.json",
       "models": [
         {
           "model": "CR-V",
-          "count": 10
+          "count": 21
         }
       ]
     },
@@ -149,76 +91,11 @@
       "make": "honda",
       "model": "CR-V",
       "shard": "sin-region",
-      "count": 2,
+      "count": 4,
       "file": "inventory/used-honda-cr-v-sin-region.json",
       "models": [
         {
           "model": "CR-V",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "honda",
-      "model": "Accord",
-      "count": 9,
-      "file": "inventory/used-honda-accord.json",
-      "models": [
-        {
-          "model": "Accord",
-          "count": 9
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "honda",
-      "model": "Pilot",
-      "count": 13,
-      "file": "inventory/used-honda-pilot.json",
-      "models": [
-        {
-          "model": "Pilot",
-          "count": 13
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "honda",
-      "model": "HR-V",
-      "count": 17,
-      "file": "inventory/used-honda-hr-v.json",
-      "models": [
-        {
-          "model": "HR-V",
-          "count": 17
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "honda",
-      "model": "Odyssey",
-      "count": 14,
-      "file": "inventory/used-honda-odyssey.json",
-      "models": [
-        {
-          "model": "Odyssey",
-          "count": 14
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "honda",
-      "model": "Ridgeline",
-      "count": 4,
-      "file": "inventory/used-honda-ridgeline.json",
-      "models": [
-        {
-          "model": "Ridgeline",
           "count": 4
         }
       ]
@@ -226,13 +103,229 @@
     {
       "condition": "used",
       "make": "honda",
+      "model": "CR-V Hybrid",
+      "count": 37,
+      "file": "inventory/used-honda-cr-v-hybrid.json",
+      "models": [
+        {
+          "model": "CR-V Hybrid",
+          "count": 37
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
+      "model": "CR-V Basein Castlegar",
+      "count": 1,
+      "file": "inventory/used-honda-cr-v-basein-castlegar.json",
+      "models": [
+        {
+          "model": "CR-V Basein Castlegar",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
+      "model": "Fit",
+      "count": 9,
+      "file": "inventory/used-honda-fit.json",
+      "models": [
+        {
+          "model": "Fit",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
+      "model": "Grom BIKEin Abbotsford",
+      "count": 1,
+      "file": "inventory/used-honda-grom-bikein-abbotsford.json",
+      "models": [
+        {
+          "model": "Grom BIKEin Abbotsford",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
+      "model": "Grom",
+      "count": 1,
+      "file": "inventory/used-honda-grom.json",
+      "models": [
+        {
+          "model": "Grom",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
+      "model": "Civic",
+      "shard": "part1",
+      "count": 31,
+      "file": "inventory/used-honda-civic-part1.json",
+      "models": [
+        {
+          "model": "Civic",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
+      "model": "Civic",
+      "shard": "part2",
+      "count": 31,
+      "file": "inventory/used-honda-civic-part2.json",
+      "models": [
+        {
+          "model": "Civic",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
+      "model": "Civic",
+      "shard": "part3",
+      "count": 31,
+      "file": "inventory/used-honda-civic-part3.json",
+      "models": [
+        {
+          "model": "Civic",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
+      "model": "Civic",
+      "shard": "part4",
+      "count": 31,
+      "file": "inventory/used-honda-civic-part4.json",
+      "models": [
+        {
+          "model": "CIVIC",
+          "count": 3
+        },
+        {
+          "model": "Civic",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
+      "model": "Accord",
+      "count": 20,
+      "file": "inventory/used-honda-accord.json",
+      "models": [
+        {
+          "model": "Accord",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
+      "model": "Pilot",
+      "count": 17,
+      "file": "inventory/used-honda-pilot.json",
+      "models": [
+        {
+          "model": "Pilot",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
+      "model": "HR-V",
+      "count": 26,
+      "file": "inventory/used-honda-hr-v.json",
+      "models": [
+        {
+          "model": "HR-V",
+          "count": 26
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
+      "model": "Clarity Plug-in Hybrid",
+      "count": 1,
+      "file": "inventory/used-honda-clarity-plug-in-hybrid.json",
+      "models": [
+        {
+          "model": "Clarity Plug-in Hybrid",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
+      "model": "Odyssey",
+      "count": 21,
+      "file": "inventory/used-honda-odyssey.json",
+      "models": [
+        {
+          "model": "Odyssey",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
+      "model": "Ridgeline",
+      "count": 18,
+      "file": "inventory/used-honda-ridgeline.json",
+      "models": [
+        {
+          "model": "Ridgeline",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
+      "model": "Civic EX CVT Sedan - Honda CPO, One Owner, Accident-freein Abbotsford",
+      "count": 1,
+      "file": "inventory/used-honda-civic-ex-cvt-sedan-honda-cpo-one-owner-accident-freein-abbotsford.json",
+      "models": [
+        {
+          "model": "Civic EX CVT Sedan - Honda CPO, One Owner, Accident-freein Abbotsford",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
       "model": "HR-V Turbo Sport",
-      "count": 6,
+      "count": 7,
       "file": "inventory/used-honda-hr-v-turbo-sport.json",
       "models": [
         {
           "model": "HR-V Turbo Sport",
-          "count": 6
+          "count": 7
         }
       ]
     },
@@ -240,12 +333,38 @@
       "condition": "used",
       "make": "honda",
       "model": "Accord Hybrid",
-      "count": 5,
+      "count": 6,
       "file": "inventory/used-honda-accord-hybrid.json",
       "models": [
         {
           "model": "Accord Hybrid",
-          "count": 5
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
+      "model": "Passport",
+      "count": 8,
+      "file": "inventory/used-honda-passport.json",
+      "models": [
+        {
+          "model": "Passport",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
+      "model": "S2000",
+      "count": 6,
+      "file": "inventory/used-honda-s2000.json",
+      "models": [
+        {
+          "model": "S2000",
+          "count": 6
         }
       ]
     },
@@ -253,12 +372,12 @@
       "condition": "used",
       "make": "honda",
       "model": "Civic Type R",
-      "count": 3,
+      "count": 4,
       "file": "inventory/used-honda-civic-type-r.json",
       "models": [
         {
           "model": "Civic Type R",
-          "count": 3
+          "count": 4
         }
       ]
     },
@@ -272,19 +391,6 @@
         {
           "model": "Prologue",
           "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "honda",
-      "model": "Passport",
-      "count": 5,
-      "file": "inventory/used-honda-passport.json",
-      "models": [
-        {
-          "model": "Passport",
-          "count": 5
         }
       ]
     },
@@ -375,6 +481,19 @@
       "models": [
         {
           "model": "Civic Sedan Touring",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
+      "model": "Element",
+      "count": 1,
+      "file": "inventory/used-honda-element.json",
+      "models": [
+        {
+          "model": "Element",
           "count": 1
         }
       ]
@@ -531,6 +650,19 @@
       "models": [
         {
           "model": "Passport TrailSport",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
+      "model": "CR-V Hybrid Touring",
+      "count": 1,
+      "file": "inventory/used-honda-cr-v-hybrid-touring.json",
+      "models": [
+        {
+          "model": "CR-V Hybrid Touring",
           "count": 1
         }
       ]

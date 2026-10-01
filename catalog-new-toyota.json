@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T22:33:34+00:00",
+  "generated_at": "2026-10-01T22:47:51+00:00",
   "condition": "new",
   "make": "toyota",
   "files": [
@@ -8,12 +8,12 @@
       "make": "toyota",
       "model": "Corolla",
       "shard": "part1",
-      "count": 29,
+      "count": 34,
       "file": "inventory/new-toyota-corolla-part1.json",
       "models": [
         {
           "model": "Corolla",
-          "count": 29
+          "count": 34
         }
       ]
     },
@@ -22,12 +22,12 @@
       "make": "toyota",
       "model": "Corolla",
       "shard": "part2",
-      "count": 29,
+      "count": 34,
       "file": "inventory/new-toyota-corolla-part2.json",
       "models": [
         {
           "model": "Corolla",
-          "count": 29
+          "count": 34
         }
       ]
     },
@@ -36,12 +36,26 @@
       "make": "toyota",
       "model": "Corolla",
       "shard": "part3",
-      "count": 28,
+      "count": 33,
       "file": "inventory/new-toyota-corolla-part3.json",
       "models": [
         {
           "model": "Corolla",
-          "count": 28
+          "count": 33
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "toyota",
+      "model": "Corolla Cross",
+      "shard": "Kootenays",
+      "count": 1,
+      "file": "inventory/new-toyota-corolla-cross-kootenays.json",
+      "models": [
+        {
+          "model": "Corolla Cross",
+          "count": 1
         }
       ]
     },
@@ -50,12 +64,12 @@
       "make": "toyota",
       "model": "Corolla Cross",
       "shard": "Lower Mainland",
-      "count": 27,
+      "count": 28,
       "file": "inventory/new-toyota-corolla-cross-lower-mainland.json",
       "models": [
         {
           "model": "Corolla Cross",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -78,24 +92,243 @@
       "make": "toyota",
       "model": "Corolla Cross",
       "shard": "Vancouver Island",
-      "count": 8,
+      "count": 10,
       "file": "inventory/new-toyota-corolla-cross-vancouver-island.json",
       "models": [
         {
           "model": "Corolla Cross",
-          "count": 8
+          "count": 10
         }
       ]
     },
     {
       "condition": "new",
       "make": "toyota",
-      "model": "Prius",
-      "count": 9,
-      "file": "inventory/new-toyota-prius.json",
+      "model": "RAV4",
+      "count": 23,
+      "file": "inventory/new-toyota-rav4.json",
       "models": [
         {
-          "model": "Prius",
+          "model": "RAV4",
+          "count": 23
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "toyota",
+      "model": "bZ",
+      "shard": "part1",
+      "count": 36,
+      "file": "inventory/new-toyota-bz-part1.json",
+      "models": [
+        {
+          "model": "bZ",
+          "count": 36
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "toyota",
+      "model": "bZ",
+      "shard": "part2",
+      "count": 36,
+      "file": "inventory/new-toyota-bz-part2.json",
+      "models": [
+        {
+          "model": "bZ",
+          "count": 36
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "toyota",
+      "model": "bZ",
+      "shard": "part3",
+      "count": 36,
+      "file": "inventory/new-toyota-bz-part3.json",
+      "models": [
+        {
+          "model": "bZ",
+          "count": 36
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "toyota",
+      "model": "C-HR XSE AWD",
+      "count": 2,
+      "file": "inventory/new-toyota-c-hr-xse-awd.json",
+      "models": [
+        {
+          "model": "C-HR XSE AWD",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "toyota",
+      "model": "Sienna",
+      "count": 28,
+      "file": "inventory/new-toyota-sienna.json",
+      "models": [
+        {
+          "model": "Sienna",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "toyota",
+      "model": "Tacoma",
+      "shard": "part1",
+      "count": 36,
+      "file": "inventory/new-toyota-tacoma-part1.json",
+      "models": [
+        {
+          "model": "Tacoma",
+          "count": 36
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "toyota",
+      "model": "Tacoma",
+      "shard": "part2",
+      "count": 36,
+      "file": "inventory/new-toyota-tacoma-part2.json",
+      "models": [
+        {
+          "model": "Tacoma",
+          "count": 36
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "toyota",
+      "model": "Tacoma",
+      "shard": "part3",
+      "count": 36,
+      "file": "inventory/new-toyota-tacoma-part3.json",
+      "models": [
+        {
+          "model": "Tacoma",
+          "count": 36
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "toyota",
+      "model": "Tacoma",
+      "shard": "part4",
+      "count": 36,
+      "file": "inventory/new-toyota-tacoma-part4.json",
+      "models": [
+        {
+          "model": "Tacoma",
+          "count": 36
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "toyota",
+      "model": "Highlander",
+      "count": 12,
+      "file": "inventory/new-toyota-highlander.json",
+      "models": [
+        {
+          "model": "Highlander",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "toyota",
+      "model": "Grand Highlander",
+      "count": 12,
+      "file": "inventory/new-toyota-grand-highlander.json",
+      "models": [
+        {
+          "model": "Grand Highlander",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "toyota",
+      "model": "Tundra",
+      "shard": "part1",
+      "count": 32,
+      "file": "inventory/new-toyota-tundra-part1.json",
+      "models": [
+        {
+          "model": "Tundra",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "toyota",
+      "model": "Tundra",
+      "shard": "part2",
+      "count": 32,
+      "file": "inventory/new-toyota-tundra-part2.json",
+      "models": [
+        {
+          "model": "Tundra",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "toyota",
+      "model": "Tundra",
+      "shard": "part3",
+      "count": 32,
+      "file": "inventory/new-toyota-tundra-part3.json",
+      "models": [
+        {
+          "model": "Tundra",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "toyota",
+      "model": "Tundra",
+      "shard": "part4",
+      "count": 29,
+      "file": "inventory/new-toyota-tundra-part4.json",
+      "models": [
+        {
+          "model": "Tundra",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "toyota",
+      "model": "Sequoia",
+      "count": 9,
+      "file": "inventory/new-toyota-sequoia.json",
+      "models": [
+        {
+          "model": "Sequoia",
           "count": 9
         }
       ]
@@ -103,14 +336,27 @@
     {
       "condition": "new",
       "make": "toyota",
+      "model": "Prius",
+      "count": 14,
+      "file": "inventory/new-toyota-prius.json",
+      "models": [
+        {
+          "model": "Prius",
+          "count": 14
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "toyota",
       "model": "Prius Prime",
       "shard": "part1",
-      "count": 29,
+      "count": 31,
       "file": "inventory/new-toyota-prius-prime-part1.json",
       "models": [
         {
           "model": "Prius Prime",
-          "count": 29
+          "count": 31
         }
       ]
     },
@@ -119,12 +365,12 @@
       "make": "toyota",
       "model": "Prius Prime",
       "shard": "part2",
-      "count": 29,
+      "count": 31,
       "file": "inventory/new-toyota-prius-prime-part2.json",
       "models": [
         {
           "model": "Prius Prime",
-          "count": 29
+          "count": 31
         }
       ]
     },
@@ -133,54 +379,12 @@
       "make": "toyota",
       "model": "Prius Prime",
       "shard": "part3",
-      "count": 29,
+      "count": 30,
       "file": "inventory/new-toyota-prius-prime-part3.json",
       "models": [
         {
           "model": "Prius Prime",
-          "count": 29
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "toyota",
-      "model": "bZ",
-      "shard": "part1",
-      "count": 33,
-      "file": "inventory/new-toyota-bz-part1.json",
-      "models": [
-        {
-          "model": "bZ",
-          "count": 33
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "toyota",
-      "model": "bZ",
-      "shard": "part2",
-      "count": 33,
-      "file": "inventory/new-toyota-bz-part2.json",
-      "models": [
-        {
-          "model": "bZ",
-          "count": 33
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "toyota",
-      "model": "bZ",
-      "shard": "part3",
-      "count": 31,
-      "file": "inventory/new-toyota-bz-part3.json",
-      "models": [
-        {
-          "model": "bZ",
-          "count": 31
+          "count": 30
         }
       ]
     },
@@ -213,108 +417,13 @@
     {
       "condition": "new",
       "make": "toyota",
-      "model": "Tacoma",
-      "shard": "part1",
-      "count": 32,
-      "file": "inventory/new-toyota-tacoma-part1.json",
-      "models": [
-        {
-          "model": "Tacoma",
-          "count": 32
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "toyota",
-      "model": "Tacoma",
-      "shard": "part2",
-      "count": 32,
-      "file": "inventory/new-toyota-tacoma-part2.json",
-      "models": [
-        {
-          "model": "Tacoma",
-          "count": 32
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "toyota",
-      "model": "Tacoma",
-      "shard": "part3",
-      "count": 32,
-      "file": "inventory/new-toyota-tacoma-part3.json",
-      "models": [
-        {
-          "model": "Tacoma",
-          "count": 32
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "toyota",
-      "model": "Tacoma",
-      "shard": "part4",
-      "count": 32,
-      "file": "inventory/new-toyota-tacoma-part4.json",
-      "models": [
-        {
-          "model": "Tacoma",
-          "count": 32
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "toyota",
-      "model": "Grand Highlander",
-      "count": 10,
-      "file": "inventory/new-toyota-grand-highlander.json",
-      "models": [
-        {
-          "model": "Grand Highlander",
-          "count": 10
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "toyota",
-      "model": "Sienna",
-      "count": 24,
-      "file": "inventory/new-toyota-sienna.json",
-      "models": [
-        {
-          "model": "Sienna",
-          "count": 24
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "toyota",
       "model": "Crown",
-      "count": 22,
+      "count": 25,
       "file": "inventory/new-toyota-crown.json",
       "models": [
         {
           "model": "Crown",
-          "count": 22
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "toyota",
-      "model": "RAV4",
-      "count": 8,
-      "file": "inventory/new-toyota-rav4.json",
-      "models": [
-        {
-          "model": "RAV4",
-          "count": 8
+          "count": 25
         }
       ]
     },
@@ -322,54 +431,51 @@
       "condition": "new",
       "make": "toyota",
       "model": "4Runner",
-      "count": 20,
+      "count": 24,
       "file": "inventory/new-toyota-4runner.json",
       "models": [
         {
           "model": "4Runner",
-          "count": 20
+          "count": 24
         }
       ]
     },
     {
       "condition": "new",
       "make": "toyota",
-      "model": "Tundra",
-      "shard": "part1",
-      "count": 36,
-      "file": "inventory/new-toyota-tundra-part1.json",
+      "model": "C-HR Battery Electric SE",
+      "count": 1,
+      "file": "inventory/new-toyota-c-hr-battery-electric-se.json",
       "models": [
         {
-          "model": "Tundra",
-          "count": 36
+          "model": "C-HR Battery Electric SE",
+          "count": 1
         }
       ]
     },
     {
       "condition": "new",
       "make": "toyota",
-      "model": "Tundra",
-      "shard": "part2",
-      "count": 36,
-      "file": "inventory/new-toyota-tundra-part2.json",
+      "model": "C-HR XSEin Terrace",
+      "count": 1,
+      "file": "inventory/new-toyota-c-hr-xsein-terrace.json",
       "models": [
         {
-          "model": "Tundra",
-          "count": 36
+          "model": "C-HR XSEin Terrace",
+          "count": 1
         }
       ]
     },
     {
       "condition": "new",
       "make": "toyota",
-      "model": "Tundra",
-      "shard": "part3",
-      "count": 35,
-      "file": "inventory/new-toyota-tundra-part3.json",
+      "model": "Land Cruiser",
+      "count": 10,
+      "file": "inventory/new-toyota-land-cruiser.json",
       "models": [
         {
-          "model": "Tundra",
-          "count": 35
+          "model": "Land Cruiser",
+          "count": 10
         }
       ]
     },
@@ -389,19 +495,6 @@
     {
       "condition": "new",
       "make": "toyota",
-      "model": "Highlander",
-      "count": 10,
-      "file": "inventory/new-toyota-highlander.json",
-      "models": [
-        {
-          "model": "Highlander",
-          "count": 10
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "toyota",
       "model": "Supra",
       "count": 5,
       "file": "inventory/new-toyota-supra.json",
@@ -409,32 +502,6 @@
         {
           "model": "Supra",
           "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "toyota",
-      "model": "Land Cruiser",
-      "count": 6,
-      "file": "inventory/new-toyota-land-cruiser.json",
-      "models": [
-        {
-          "model": "Land Cruiser",
-          "count": 6
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "toyota",
-      "model": "Sequoia",
-      "count": 7,
-      "file": "inventory/new-toyota-sequoia.json",
-      "models": [
-        {
-          "model": "Sequoia",
-          "count": 7
         }
       ]
     }

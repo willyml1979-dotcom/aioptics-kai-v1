@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01T22:33:34+00:00",
-  "snapshot": "2026-10-01T22:33:34+00:00",
+  "generated_at": "2026-10-01T22:47:51+00:00",
+  "snapshot": "2026-10-01T22:47:51+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "brian-jessel-bmw-55swf6eb2gu170893",
@@ -127,6 +127,56 @@
       "city": "Port Coquitlam",
       "province": "BC",
       "dealer_name": "Tricity Mitsubishi"
+    },
+    {
+      "pub_id": "duncan-hyundai-55swf4kb4ju272986",
+      "year": 2018,
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "sedan",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 106335,
+      "price_cad": 23994.0,
+      "price_note": null,
+      "dealer_id": "duncan-hyundai",
+      "vin": "55SWF4KB4JU272986",
+      "stock": "JU27298",
+      "listing_url": "https://www.duncanhyundai.net/vehicles/2018/mercedes-benz/c-class-sedan/duncan/bc/70790242/?sale_class=used",
+      "dealer_url": "https://www.duncanhyundai.net/vehicles/2018/mercedes-benz/c-class-sedan/duncan/bc/70790242/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T04:29:10",
+      "snapshot": "2026-09-26T05:29:39",
+      "go_url": "https://carwhisper.ca/go/duncan-hyundai-55swf4kb4ju272986",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Hyundai"
+    },
+    {
+      "pub_id": "go-richmond-kia-wddwj4kb8hf457036",
+      "year": 2017,
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "coupe",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 134940,
+      "price_cad": 21195.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "go-richmond-kia",
+      "vin": "WDDWJ4KB8HF457036",
+      "stock": "833716A",
+      "listing_url": "https://www.gorichmondkia.ca/vehicles/2017/mercedes-benz/c-class-coupe/richmond/bc/71382500/?sale_class=used",
+      "dealer_url": "https://www.gorichmondkia.ca/vehicles/2017/mercedes-benz/c-class-coupe/richmond/bc/71382500/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T05:20:42",
+      "snapshot": "2026-09-26T07:18:23",
+      "go_url": "https://carwhisper.ca/go/go-richmond-kia-wddwj4kb8hf457036",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Richmond Kia"
     }
   ]
 }

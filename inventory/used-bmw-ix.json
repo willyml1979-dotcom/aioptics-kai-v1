@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01T22:33:34+00:00",
-  "snapshot": "2026-10-01T22:33:34+00:00",
+  "generated_at": "2026-10-01T22:47:51+00:00",
+  "snapshot": "2026-10-01T22:47:51+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 11,
+  "count": 12,
   "vehicles": [
     {
       "pub_id": "destination-burnaby-honda-happy-honda-wb513cf07pck53731",
@@ -29,6 +29,28 @@
       "city": "Burnaby",
       "province": "BC",
       "dealer_name": "Destination Burnaby Honda (Happy Honda)"
+    },
+    {
+      "pub_id": "abbotsford-nissan-wb513cf04pck67442",
+      "year": 2023,
+      "make": "BMW",
+      "model": "iX",
+      "condition": "used",
+      "price_cad": 47980.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "abbotsford-nissan",
+      "vin": "WB513CF04PCK67442",
+      "stock": 14243165,
+      "listing_url": "https://www.abbotsfordnissan.com/used/2023-BMW-iX.html",
+      "dealer_url": "https://www.abbotsfordnissan.com/used/2023-BMW-iX.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T18:39:23",
+      "snapshot": "2026-09-26T18:57:25",
+      "go_url": "https://carwhisper.ca/go/abbotsford-nissan-wb513cf04pck67442",
+      "region": "Lower Mainland",
+      "city": "Abbotsford",
+      "province": "BC",
+      "dealer_name": "Abbotsford Nissan"
     },
     {
       "pub_id": "tricity-mitsubishi-wb513cf0xpcl85396",

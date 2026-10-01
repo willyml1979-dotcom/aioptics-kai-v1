@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01T22:33:34+00:00",
-  "snapshot": "2026-10-01T22:33:34+00:00",
+  "generated_at": "2026-10-01T22:47:51+00:00",
+  "snapshot": "2026-10-01T22:47:51+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "murray-hyundai-white-rock-kmhh35le0ju066391",
@@ -28,6 +28,54 @@
       "city": "Surrey",
       "province": "BC",
       "dealer_name": "Murray Hyundai White Rock"
+    },
+    {
+      "pub_id": "island-ford-kmhh35le5ku106708",
+      "year": 2019,
+      "make": "Hyundai",
+      "model": "Elantra GT",
+      "body_type": "sedan",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 117043,
+      "price_cad": 15900.0,
+      "price_note": null,
+      "color": "Blue",
+      "dealer_id": "island-ford",
+      "vin": "KMHH35LE5KU106708",
+      "stock": "26752AV",
+      "listing_url": "https://www.islandford.ca/vehicles/2019/hyundai/elantra-gt/duncan/bc/71226320/?sale_class=used",
+      "dealer_url": "https://www.islandford.ca/vehicles/2019/hyundai/elantra-gt/duncan/bc/71226320/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T09:33:38",
+      "snapshot": "2026-09-26T10:01:54",
+      "go_url": "https://carwhisper.ca/go/island-ford-kmhh35le5ku106708",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Island Ford"
+    },
+    {
+      "pub_id": "courtenay-mazda-kmhh35le5lu135014",
+      "year": 2020,
+      "make": "Hyundai",
+      "model": "Elantra GT",
+      "condition": "used",
+      "price_cad": 15999.0,
+      "price_note": null,
+      "color": "{$COLOREX}",
+      "dealer_id": "courtenay-mazda",
+      "vin": "KMHH35LE5LU135014",
+      "stock": 14364728,
+      "listing_url": "https://www.courtenaymazda.com/used/2020-Hyundai-Elantra_GT.html",
+      "dealer_url": "https://www.courtenaymazda.com/used/2020-Hyundai-Elantra_GT.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T22:42:43",
+      "snapshot": "2026-09-27T00:59:45",
+      "go_url": "https://carwhisper.ca/go/courtenay-mazda-kmhh35le5lu135014",
+      "region": "Vancouver Island",
+      "city": "Courtenay",
+      "province": "BC",
+      "dealer_name": "Courtenay Mazda"
     }
   ]
 }

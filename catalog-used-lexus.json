@@ -1,45 +1,174 @@
 {
-  "generated_at": "2026-10-01T22:33:34+00:00",
+  "generated_at": "2026-10-01T22:47:51+00:00",
   "condition": "used",
   "make": "lexus",
   "files": [
     {
       "condition": "used",
       "make": "lexus",
-      "count": 29,
-      "file": "inventory/used-lexus.json",
+      "model": "IS 350",
+      "count": 1,
+      "file": "inventory/used-lexus-is-350.json",
+      "models": [
+        {
+          "model": "IS 350",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "ES",
+      "count": 4,
+      "file": "inventory/used-lexus-es.json",
       "models": [
         {
           "model": "ES",
           "count": 4
-        },
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "RX",
+      "count": 18,
+      "file": "inventory/used-lexus-rx.json",
+      "models": [
         {
-          "model": "GX",
-          "count": 1
-        },
+          "model": "RX",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "NX",
+      "count": 17,
+      "file": "inventory/used-lexus-nx.json",
+      "models": [
+        {
+          "model": "NX",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "NX 300",
+      "count": 5,
+      "file": "inventory/used-lexus-nx-300.json",
+      "models": [
+        {
+          "model": "NX 300",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "UX",
+      "count": 6,
+      "file": "inventory/used-lexus-ux.json",
+      "models": [
+        {
+          "model": "UX",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "IS",
+      "count": 2,
+      "file": "inventory/used-lexus-is.json",
+      "models": [
         {
           "model": "IS",
           "count": 2
-        },
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "RX 350",
+      "count": 2,
+      "file": "inventory/used-lexus-rx-350.json",
+      "models": [
         {
-          "model": "NX",
-          "count": 9
-        },
+          "model": "RX 350",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "NX Hybrid",
+      "count": 1,
+      "file": "inventory/used-lexus-nx-hybrid.json",
+      "models": [
         {
           "model": "NX Hybrid",
           "count": 1
-        },
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "GX",
+      "count": 1,
+      "file": "inventory/used-lexus-gx.json",
+      "models": [
+        {
+          "model": "GX",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "NX 300 F Sport Series 3in Kelowna",
+      "count": 1,
+      "file": "inventory/used-lexus-nx-300-f-sport-series-3in-kelowna.json",
+      "models": [
+        {
+          "model": "NX 300 F Sport Series 3in Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "RX 350 F Sport Series 3in Kelowna",
+      "count": 2,
+      "file": "inventory/used-lexus-rx-350-f-sport-series-3in-kelowna.json",
+      "models": [
+        {
+          "model": "RX 350 F Sport Series 3in Kelowna",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "NX NX 200T",
+      "count": 1,
+      "file": "inventory/used-lexus-nx-nx-200t.json",
+      "models": [
         {
           "model": "NX NX 200T",
           "count": 1
-        },
-        {
-          "model": "RX",
-          "count": 6
-        },
-        {
-          "model": "UX",
-          "count": 5
         }
       ]
     }

@@ -1,8 +1,86 @@
 {
-  "generated_at": "2026-10-01T22:33:34+00:00",
+  "generated_at": "2026-10-01T22:47:51+00:00",
   "condition": "new",
   "make": "gmc",
   "files": [
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Canyon AT4in Castlegar",
+      "count": 1,
+      "file": "inventory/new-gmc-canyon-at4in-castlegar.json",
+      "models": [
+        {
+          "model": "Canyon AT4in Castlegar",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Canyon Denaliin Castlegar",
+      "count": 1,
+      "file": "inventory/new-gmc-canyon-denaliin-castlegar.json",
+      "models": [
+        {
+          "model": "Canyon Denaliin Castlegar",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Acadia AT4in Castlegar",
+      "count": 1,
+      "file": "inventory/new-gmc-acadia-at4in-castlegar.json",
+      "models": [
+        {
+          "model": "Acadia AT4in Castlegar",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Sierra 1500 Elevationin Castlegar",
+      "count": 2,
+      "file": "inventory/new-gmc-sierra-1500-elevationin-castlegar.json",
+      "models": [
+        {
+          "model": "Sierra 1500 Elevationin Castlegar",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Sierra Elevationin Castlegar",
+      "count": 1,
+      "file": "inventory/new-gmc-sierra-elevationin-castlegar.json",
+      "models": [
+        {
+          "model": "Sierra Elevationin Castlegar",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Sierra SLTin Castlegar",
+      "count": 1,
+      "file": "inventory/new-gmc-sierra-sltin-castlegar.json",
+      "models": [
+        {
+          "model": "Sierra SLTin Castlegar",
+          "count": 1
+        }
+      ]
+    },
     {
       "condition": "new",
       "make": "gmc",
@@ -20,12 +98,12 @@
       "condition": "new",
       "make": "gmc",
       "model": "Canyon",
-      "count": 34,
+      "count": 36,
       "file": "inventory/new-gmc-canyon.json",
       "models": [
         {
           "model": "Canyon",
-          "count": 34
+          "count": 36
         }
       ]
     },
@@ -113,6 +191,19 @@
     {
       "condition": "new",
       "make": "gmc",
+      "model": "Sierra 1500",
+      "count": 3,
+      "file": "inventory/new-gmc-sierra-1500.json",
+      "models": [
+        {
+          "model": "Sierra 1500",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
       "model": "Sierra 3500HD",
       "shard": "part1",
       "count": 37,
@@ -145,13 +236,39 @@
     {
       "condition": "new",
       "make": "gmc",
+      "model": "Sierra 3500",
+      "count": 6,
+      "file": "inventory/new-gmc-sierra-3500.json",
+      "models": [
+        {
+          "model": "Sierra 3500",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
       "model": "Yukon",
-      "count": 18,
+      "count": 19,
       "file": "inventory/new-gmc-yukon.json",
       "models": [
         {
           "model": "Yukon",
-          "count": 18
+          "count": 19
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Sierra EV",
+      "count": 5,
+      "file": "inventory/new-gmc-sierra-ev.json",
+      "models": [
+        {
+          "model": "Sierra EV",
+          "count": 5
         }
       ]
     },
@@ -184,13 +301,104 @@
     {
       "condition": "new",
       "make": "gmc",
-      "model": "Sierra 1500",
-      "count": 2,
-      "file": "inventory/new-gmc-sierra-1500.json",
+      "model": "Terrainin Smithers",
+      "count": 1,
+      "file": "inventory/new-gmc-terrainin-smithers.json",
       "models": [
         {
-          "model": "Sierra 1500",
+          "model": "Terrainin Smithers",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Terrain At4 Awdin Smithers",
+      "count": 2,
+      "file": "inventory/new-gmc-terrain-at4-awdin-smithers.json",
+      "models": [
+        {
+          "model": "Terrain At4 Awdin Smithers",
           "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Sierra 1500 PROin Smithers",
+      "count": 1,
+      "file": "inventory/new-gmc-sierra-1500-proin-smithers.json",
+      "models": [
+        {
+          "model": "Sierra 1500 PROin Smithers",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Sierra PROin Smithers",
+      "count": 1,
+      "file": "inventory/new-gmc-sierra-proin-smithers.json",
+      "models": [
+        {
+          "model": "Sierra PROin Smithers",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Sierra 1500 Pro Crew Cabin Smithers",
+      "count": 1,
+      "file": "inventory/new-gmc-sierra-1500-pro-crew-cabin-smithers.json",
+      "models": [
+        {
+          "model": "Sierra 1500 Pro Crew Cabin Smithers",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Sierra 1500 Elevationin Smithers",
+      "count": 5,
+      "file": "inventory/new-gmc-sierra-1500-elevationin-smithers.json",
+      "models": [
+        {
+          "model": "Sierra 1500 Elevationin Smithers",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Yukon XL",
+      "count": 3,
+      "file": "inventory/new-gmc-yukon-xl.json",
+      "models": [
+        {
+          "model": "Yukon XL",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Sierra",
+      "count": 3,
+      "file": "inventory/new-gmc-sierra.json",
+      "models": [
+        {
+          "model": "Sierra",
+          "count": 3
         }
       ]
     },
@@ -210,13 +418,91 @@
     {
       "condition": "new",
       "make": "gmc",
-      "model": "Yukon XL",
-      "count": 2,
-      "file": "inventory/new-gmc-yukon-xl.json",
+      "model": "Terrain Elevation Awdin 100 Mile House",
+      "count": 1,
+      "file": "inventory/new-gmc-terrain-elevation-awdin-100-mile-house.json",
       "models": [
         {
-          "model": "Yukon XL",
+          "model": "Terrain Elevation Awdin 100 Mile House",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Terrain At4 Awdin 100 Mile House",
+      "count": 1,
+      "file": "inventory/new-gmc-terrain-at4-awdin-100-mile-house.json",
+      "models": [
+        {
+          "model": "Terrain At4 Awdin 100 Mile House",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Canyon At4 Crew Cab 4wdin 100 Mile House",
+      "count": 1,
+      "file": "inventory/new-gmc-canyon-at4-crew-cab-4wdin-100-mile-house.json",
+      "models": [
+        {
+          "model": "Canyon At4 Crew Cab 4wdin 100 Mile House",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Canyon Denali Crew 4wdin 100 Mile House",
+      "count": 1,
+      "file": "inventory/new-gmc-canyon-denali-crew-4wdin-100-mile-house.json",
+      "models": [
+        {
+          "model": "Canyon Denali Crew 4wdin 100 Mile House",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Sierra 1500 Elevation Crewin 100 Mile House",
+      "count": 2,
+      "file": "inventory/new-gmc-sierra-1500-elevation-crewin-100-mile-house.json",
+      "models": [
+        {
+          "model": "Sierra 1500 Elevation Crewin 100 Mile House",
           "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Sierra 1500 Denaliin 100 Mile House",
+      "count": 1,
+      "file": "inventory/new-gmc-sierra-1500-denaliin-100-mile-house.json",
+      "models": [
+        {
+          "model": "Sierra 1500 Denaliin 100 Mile House",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Sierra 1500 Denali Ultimatein 100 Mile House",
+      "count": 1,
+      "file": "inventory/new-gmc-sierra-1500-denali-ultimatein-100-mile-house.json",
+      "models": [
+        {
+          "model": "Sierra 1500 Denali Ultimatein 100 Mile House",
+          "count": 1
         }
       ]
     }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01T22:33:34+00:00",
-  "snapshot": "2026-10-01T22:33:34+00:00",
+  "generated_at": "2026-10-01T22:47:51+00:00",
+  "snapshot": "2026-10-01T22:47:51+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 7,
+  "count": 8,
   "vehicles": [
     {
       "pub_id": "lougheed-hyundai-4jgda5gb3kb202580",
@@ -54,6 +54,32 @@
       "city": "Port Coquitlam",
       "province": "BC",
       "dealer_name": "Tricity Mitsubishi"
+    },
+    {
+      "pub_id": "marine-chrysler-dodge-jeep-ltd-4jgfb4kb0la113211",
+      "year": 2020,
+      "make": "Mercedes-Benz",
+      "model": "GLE",
+      "body_type": "suv",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 80828,
+      "price_cad": 39499.0,
+      "price_note": null,
+      "color": "Grey",
+      "dealer_id": "marine-chrysler-dodge-jeep-ltd",
+      "vin": "4JGFB4KB0LA113211",
+      "stock": "BE8411",
+      "listing_url": "https://www.marinechrysler.com/vehicles/2020/mercedes-benz/gle/vancouver/bc/71133192/?sale_class=used",
+      "dealer_url": "https://www.marinechrysler.com/vehicles/2020/mercedes-benz/gle/vancouver/bc/71133192/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T12:24:31",
+      "snapshot": "2026-09-26T12:38:05",
+      "go_url": "https://carwhisper.ca/go/marine-chrysler-dodge-jeep-ltd-4jgfb4kb0la113211",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Marine Chrysler Dodge Jeep Ltd."
     },
     {
       "pub_id": "go-kia-west-4jgda6eb4kb183854",

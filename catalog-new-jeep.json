@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T22:33:34+00:00",
+  "generated_at": "2026-10-01T22:47:51+00:00",
   "condition": "new",
   "make": "jeep",
   "files": [
@@ -32,34 +32,288 @@
     {
       "condition": "new",
       "make": "jeep",
-      "model": "GRAND CHEROKEE",
-      "count": 14,
-      "file": "inventory/new-jeep-grand-cherokee.json",
+      "model": "Compass Northin Cranbrook",
+      "count": 1,
+      "file": "inventory/new-jeep-compass-northin-cranbrook.json",
       "models": [
         {
-          "model": "GRAND CHEROKEE",
-          "count": 5
-        },
-        {
-          "model": "Grand Cherokee",
-          "count": 9
+          "model": "Compass Northin Cranbrook",
+          "count": 1
         }
       ]
     },
     {
       "condition": "new",
       "make": "jeep",
-      "model": "CHEROKEE",
-      "count": 30,
-      "file": "inventory/new-jeep-cherokee.json",
+      "model": "Cherokee",
+      "shard": "part1",
+      "count": 37,
+      "file": "inventory/new-jeep-cherokee-part1.json",
       "models": [
         {
           "model": "CHEROKEE",
-          "count": 13
+          "count": 5
         },
         {
           "model": "Cherokee",
-          "count": 17
+          "count": 32
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Cherokee",
+      "shard": "part2",
+      "count": 37,
+      "file": "inventory/new-jeep-cherokee-part2.json",
+      "models": [
+        {
+          "model": "Cherokee",
+          "count": 37
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Cherokee",
+      "shard": "part3",
+      "count": 35,
+      "file": "inventory/new-jeep-cherokee-part3.json",
+      "models": [
+        {
+          "model": "CHEROKEE",
+          "count": 8
+        },
+        {
+          "model": "Cherokee",
+          "count": 27
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Wrangler",
+      "shard": "Kootenays",
+      "count": 6,
+      "file": "inventory/new-jeep-wrangler-kootenays.json",
+      "models": [
+        {
+          "model": "WRANGLER",
+          "count": 5
+        },
+        {
+          "model": "Wrangler",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Wrangler",
+      "shard": "Lower Mainland",
+      "count": 26,
+      "file": "inventory/new-jeep-wrangler-lower-mainland.json",
+      "models": [
+        {
+          "model": "Wrangler",
+          "count": 26
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Wrangler",
+      "shard": "Norte/Cariboo",
+      "count": 4,
+      "file": "inventory/new-jeep-wrangler-norte-cariboo.json",
+      "models": [
+        {
+          "model": "WRANGLER",
+          "count": 2
+        },
+        {
+          "model": "Wrangler",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Wrangler",
+      "shard": "Okanagan",
+      "count": 6,
+      "file": "inventory/new-jeep-wrangler-okanagan.json",
+      "models": [
+        {
+          "model": "WRANGLER",
+          "count": 1
+        },
+        {
+          "model": "Wrangler",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Wrangler",
+      "shard": "sin-region",
+      "count": 3,
+      "file": "inventory/new-jeep-wrangler-sin-region.json",
+      "models": [
+        {
+          "model": "WRANGLER",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Cherokee Laredoin Cranbrook",
+      "count": 1,
+      "file": "inventory/new-jeep-cherokee-laredoin-cranbrook.json",
+      "models": [
+        {
+          "model": "Cherokee Laredoin Cranbrook",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Cherokee Limitedin Cranbrook",
+      "count": 1,
+      "file": "inventory/new-jeep-cherokee-limitedin-cranbrook.json",
+      "models": [
+        {
+          "model": "Cherokee Limitedin Cranbrook",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Gladiator Willysin Cranbrook",
+      "count": 4,
+      "file": "inventory/new-jeep-gladiator-willysin-cranbrook.json",
+      "models": [
+        {
+          "model": "Gladiator Willysin Cranbrook",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Wrangler Willysin Cranbrook",
+      "count": 1,
+      "file": "inventory/new-jeep-wrangler-willysin-cranbrook.json",
+      "models": [
+        {
+          "model": "Wrangler Willysin Cranbrook",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Grand Cherokee L Limitedin Cranbrook",
+      "count": 1,
+      "file": "inventory/new-jeep-grand-cherokee-l-limitedin-cranbrook.json",
+      "models": [
+        {
+          "model": "Grand Cherokee L Limitedin Cranbrook",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "GRAND CHEROKEE",
+      "shard": "Kootenays",
+      "count": 2,
+      "file": "inventory/new-jeep-grand-cherokee-kootenays.json",
+      "models": [
+        {
+          "model": "GRAND CHEROKEE",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "GRAND CHEROKEE",
+      "shard": "Lower Mainland",
+      "count": 25,
+      "file": "inventory/new-jeep-grand-cherokee-lower-mainland.json",
+      "models": [
+        {
+          "model": "Grand Cherokee",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "GRAND CHEROKEE",
+      "shard": "Norte/Cariboo",
+      "count": 11,
+      "file": "inventory/new-jeep-grand-cherokee-norte-cariboo.json",
+      "models": [
+        {
+          "model": "GRAND CHEROKEE",
+          "count": 1
+        },
+        {
+          "model": "Grand Cherokee",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "GRAND CHEROKEE",
+      "shard": "Okanagan",
+      "count": 8,
+      "file": "inventory/new-jeep-grand-cherokee-okanagan.json",
+      "models": [
+        {
+          "model": "GRAND CHEROKEE",
+          "count": 1
+        },
+        {
+          "model": "Grand Cherokee",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "GRAND CHEROKEE",
+      "shard": "sin-region",
+      "count": 1,
+      "file": "inventory/new-jeep-grand-cherokee-sin-region.json",
+      "models": [
+        {
+          "model": "GRAND CHEROKEE",
+          "count": 1
         }
       ]
     },
@@ -67,16 +321,63 @@
       "condition": "new",
       "make": "jeep",
       "model": "COMPASS",
-      "count": 36,
-      "file": "inventory/new-jeep-compass.json",
+      "shard": "Kootenays",
+      "count": 7,
+      "file": "inventory/new-jeep-compass-kootenays.json",
       "models": [
         {
           "model": "COMPASS",
-          "count": 31
+          "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "COMPASS",
+      "shard": "Lower Mainland",
+      "count": 25,
+      "file": "inventory/new-jeep-compass-lower-mainland.json",
+      "models": [
+        {
+          "model": "Compass",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "COMPASS",
+      "shard": "Norte/Cariboo",
+      "count": 9,
+      "file": "inventory/new-jeep-compass-norte-cariboo.json",
+      "models": [
+        {
+          "model": "COMPASS",
+          "count": 7
         },
         {
           "model": "Compass",
-          "count": 5
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "COMPASS",
+      "shard": "Okanagan",
+      "count": 19,
+      "file": "inventory/new-jeep-compass-okanagan.json",
+      "models": [
+        {
+          "model": "COMPASS",
+          "count": 17
+        },
+        {
+          "model": "Compass",
+          "count": 2
         }
       ]
     },
@@ -84,7 +385,7 @@
       "condition": "new",
       "make": "jeep",
       "model": "GLADIATOR",
-      "count": 6,
+      "count": 18,
       "file": "inventory/new-jeep-gladiator.json",
       "models": [
         {
@@ -93,6 +394,123 @@
         },
         {
           "model": "Gladiator",
+          "count": 15
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Compass Sport 4 x 4",
+      "count": 6,
+      "file": "inventory/new-jeep-compass-sport-4-x-4.json",
+      "models": [
+        {
+          "model": "Compass Sport 4 x 4",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Compass Sport - $212 B/Win Mission",
+      "count": 1,
+      "file": "inventory/new-jeep-compass-sport-212-b-win-mission.json",
+      "models": [
+        {
+          "model": "Compass Sport - $212 B/Win Mission",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Compass Sport - Heated Seats - LED Lights - $212 B/Win Mission",
+      "count": 1,
+      "file": "inventory/new-jeep-compass-sport-heated-seats-led-lights-212-b-win-mission.json",
+      "models": [
+        {
+          "model": "Compass Sport - Heated Seats - LED Lights - $212 B/Win Mission",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Compass Sport 4x4 - 0% Financing OAC !!in Maple Ridge",
+      "count": 1,
+      "file": "inventory/new-jeep-compass-sport-4x4-0-financing-oac-in-maple-ridge.json",
+      "models": [
+        {
+          "model": "Compass Sport 4x4 - 0% Financing OAC !!in Maple Ridge",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Compass Sport - Heated Seats - LED Lights - $214 B/Win Mission",
+      "count": 1,
+      "file": "inventory/new-jeep-compass-sport-heated-seats-led-lights-214-b-win-mission.json",
+      "models": [
+        {
+          "model": "Compass Sport - Heated Seats - LED Lights - $214 B/Win Mission",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Compass Sport Trim",
+      "count": 1,
+      "file": "inventory/new-jeep-compass-sport-trim.json",
+      "models": [
+        {
+          "model": "Compass Sport Trim",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Compass Sport",
+      "count": 1,
+      "file": "inventory/new-jeep-compass-sport.json",
+      "models": [
+        {
+          "model": "Compass Sport",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Compass North 4 x 4",
+      "count": 2,
+      "file": "inventory/new-jeep-compass-north-4-x-4.json",
+      "models": [
+        {
+          "model": "Compass North 4 x 4",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Compass Northin Maple Ridge",
+      "count": 3,
+      "file": "inventory/new-jeep-compass-northin-maple-ridge.json",
+      "models": [
+        {
+          "model": "Compass Northin Maple Ridge",
           "count": 3
         }
       ]
@@ -100,17 +518,108 @@
     {
       "condition": "new",
       "make": "jeep",
-      "model": "WRANGLER",
-      "count": 19,
-      "file": "inventory/new-jeep-wrangler.json",
+      "model": "Grand Cherokee L",
+      "count": 7,
+      "file": "inventory/new-jeep-grand-cherokee-l.json",
       "models": [
         {
-          "model": "WRANGLER",
-          "count": 11
+          "model": "GRAND CHEROKEE L",
+          "count": 2
         },
         {
-          "model": "Wrangler",
-          "count": 8
+          "model": "Grand Cherokee L",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Compass North - Sunroof - $257 B/Win Mission",
+      "count": 1,
+      "file": "inventory/new-jeep-compass-north-sunroof-257-b-win-mission.json",
+      "models": [
+        {
+          "model": "Compass North - Sunroof - $257 B/Win Mission",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Compass North - Sunroof -in Mission",
+      "count": 14,
+      "file": "inventory/new-jeep-compass-north-sunroof-in-mission.json",
+      "models": [
+        {
+          "model": "Compass North - Sunroof -in Mission",
+          "count": 14
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Compass North - Remote Start -in Mission",
+      "count": 1,
+      "file": "inventory/new-jeep-compass-north-remote-start-in-mission.json",
+      "models": [
+        {
+          "model": "Compass North - Remote Start -in Mission",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Cherokee All New",
+      "count": 5,
+      "file": "inventory/new-jeep-cherokee-all-new.json",
+      "models": [
+        {
+          "model": "Cherokee All New",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Cherokee WJ205835in Maple Ridge",
+      "count": 1,
+      "file": "inventory/new-jeep-cherokee-wj205835in-maple-ridge.json",
+      "models": [
+        {
+          "model": "Cherokee WJ205835in Maple Ridge",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Cherokee Laredoin Maple Ridge",
+      "count": 9,
+      "file": "inventory/new-jeep-cherokee-laredoin-maple-ridge.json",
+      "models": [
+        {
+          "model": "Cherokee Laredoin Maple Ridge",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Wrangler 4 Door",
+      "count": 6,
+      "file": "inventory/new-jeep-wrangler-4-door.json",
+      "models": [
+        {
+          "model": "Wrangler 4 Door",
+          "count": 6
         }
       ]
     },
@@ -118,11 +627,50 @@
       "condition": "new",
       "make": "jeep",
       "model": "Wrangler Unlimited",
-      "count": 11,
+      "count": 32,
       "file": "inventory/new-jeep-wrangler-unlimited.json",
       "models": [
         {
           "model": "Wrangler Unlimited",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Grand Wagoneer",
+      "count": 4,
+      "file": "inventory/new-jeep-grand-wagoneer.json",
+      "models": [
+        {
+          "model": "Grand Wagoneer",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Wrangler Willys - Tow Hooks - Wi-Fi Hotspotin Mission",
+      "count": 1,
+      "file": "inventory/new-jeep-wrangler-willys-tow-hooks-wi-fi-hotspotin-mission.json",
+      "models": [
+        {
+          "model": "Wrangler Willys - Tow Hooks - Wi-Fi Hotspotin Mission",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Compass North",
+      "count": 11,
+      "file": "inventory/new-jeep-compass-north.json",
+      "models": [
+        {
+          "model": "Compass North",
           "count": 11
         }
       ]
@@ -130,12 +678,558 @@
     {
       "condition": "new",
       "make": "jeep",
-      "model": "GRAND CHEROKEE L",
+      "model": "Compass Northin Prince George",
       "count": 2,
-      "file": "inventory/new-jeep-grand-cherokee-l.json",
+      "file": "inventory/new-jeep-compass-northin-prince-george.json",
       "models": [
         {
-          "model": "GRAND CHEROKEE L",
+          "model": "Compass Northin Prince George",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Compass Northin Terrace",
+      "count": 5,
+      "file": "inventory/new-jeep-compass-northin-terrace.json",
+      "models": [
+        {
+          "model": "Compass Northin Terrace",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Compass Altitude",
+      "count": 13,
+      "file": "inventory/new-jeep-compass-altitude.json",
+      "models": [
+        {
+          "model": "Compass Altitude",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Compass Northin Williams Lake near Quesnel",
+      "count": 2,
+      "file": "inventory/new-jeep-compass-northin-williams-lake-near-quesnel.json",
+      "models": [
+        {
+          "model": "Compass Northin Williams Lake near Quesnel",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Compass Trailhawk",
+      "count": 2,
+      "file": "inventory/new-jeep-compass-trailhawk.json",
+      "models": [
+        {
+          "model": "Compass Trailhawk",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Cherokee Laredo",
+      "count": 6,
+      "file": "inventory/new-jeep-cherokee-laredo.json",
+      "models": [
+        {
+          "model": "Cherokee Laredo",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Compass Altitudein Prince George",
+      "count": 1,
+      "file": "inventory/new-jeep-compass-altitudein-prince-george.json",
+      "models": [
+        {
+          "model": "Compass Altitudein Prince George",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Cherokee Laredoin Prince George",
+      "count": 5,
+      "file": "inventory/new-jeep-cherokee-laredoin-prince-george.json",
+      "models": [
+        {
+          "model": "Cherokee Laredoin Prince George",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Compass Limited",
+      "count": 2,
+      "file": "inventory/new-jeep-compass-limited.json",
+      "models": [
+        {
+          "model": "Compass Limited",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Compass Limitedin Prince George",
+      "count": 1,
+      "file": "inventory/new-jeep-compass-limitedin-prince-george.json",
+      "models": [
+        {
+          "model": "Compass Limitedin Prince George",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Compass Trailhawkin Terrace",
+      "count": 1,
+      "file": "inventory/new-jeep-compass-trailhawkin-terrace.json",
+      "models": [
+        {
+          "model": "Compass Trailhawkin Terrace",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Cherokee Laredoin Williams Lake near Quesnel",
+      "count": 4,
+      "file": "inventory/new-jeep-cherokee-laredoin-williams-lake-near-quesnel.json",
+      "models": [
+        {
+          "model": "Cherokee Laredoin Williams Lake near Quesnel",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Cherokee Laredoin Terrace",
+      "count": 4,
+      "file": "inventory/new-jeep-cherokee-laredoin-terrace.json",
+      "models": [
+        {
+          "model": "Cherokee Laredoin Terrace",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Cherokee Limitedin Terrace",
+      "count": 2,
+      "file": "inventory/new-jeep-cherokee-limitedin-terrace.json",
+      "models": [
+        {
+          "model": "Cherokee Limitedin Terrace",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Cherokee Limitedin Williams Lake near Quesnel",
+      "count": 2,
+      "file": "inventory/new-jeep-cherokee-limitedin-williams-lake-near-quesnel.json",
+      "models": [
+        {
+          "model": "Cherokee Limitedin Williams Lake near Quesnel",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Cherokee 85th Annivin Terrace",
+      "count": 2,
+      "file": "inventory/new-jeep-cherokee-85th-annivin-terrace.json",
+      "models": [
+        {
+          "model": "Cherokee 85th Annivin Terrace",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Cherokee Overlandin Terrace",
+      "count": 2,
+      "file": "inventory/new-jeep-cherokee-overlandin-terrace.json",
+      "models": [
+        {
+          "model": "Cherokee Overlandin Terrace",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Wrangler Willysin Terrace",
+      "count": 3,
+      "file": "inventory/new-jeep-wrangler-willysin-terrace.json",
+      "models": [
+        {
+          "model": "Wrangler Willysin Terrace",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Wrangler 85th Annivin Terrace",
+      "count": 1,
+      "file": "inventory/new-jeep-wrangler-85th-annivin-terrace.json",
+      "models": [
+        {
+          "model": "Wrangler 85th Annivin Terrace",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Grand Cherokee Limitedin Williams Lake near Quesnel",
+      "count": 1,
+      "file": "inventory/new-jeep-grand-cherokee-limitedin-williams-lake-near-quesnel.json",
+      "models": [
+        {
+          "model": "Grand Cherokee Limitedin Williams Lake near Quesnel",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Grand Cherokee Summitin Williams Lake near Quesnel",
+      "count": 1,
+      "file": "inventory/new-jeep-grand-cherokee-summitin-williams-lake-near-quesnel.json",
+      "models": [
+        {
+          "model": "Grand Cherokee Summitin Williams Lake near Quesnel",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Grand Wagoneer L",
+      "count": 2,
+      "file": "inventory/new-jeep-grand-wagoneer-l.json",
+      "models": [
+        {
+          "model": "Grand Wagoneer L",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Compass Sportin Kelowna",
+      "count": 1,
+      "file": "inventory/new-jeep-compass-sportin-kelowna.json",
+      "models": [
+        {
+          "model": "Compass Sportin Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Compass Northin Kelowna",
+      "count": 8,
+      "file": "inventory/new-jeep-compass-northin-kelowna.json",
+      "models": [
+        {
+          "model": "Compass Northin Kelowna",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Wrangler Sportin Kelowna",
+      "count": 1,
+      "file": "inventory/new-jeep-wrangler-sportin-kelowna.json",
+      "models": [
+        {
+          "model": "Wrangler Sportin Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Wrangler Sport 4X4",
+      "count": 1,
+      "file": "inventory/new-jeep-wrangler-sport-4x4.json",
+      "models": [
+        {
+          "model": "Wrangler Sport 4X4",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Cherokee Laredoin Kelowna",
+      "count": 2,
+      "file": "inventory/new-jeep-cherokee-laredoin-kelowna.json",
+      "models": [
+        {
+          "model": "Cherokee Laredoin Kelowna",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Wrangler Sport S",
+      "count": 2,
+      "file": "inventory/new-jeep-wrangler-sport-s.json",
+      "models": [
+        {
+          "model": "Wrangler Sport S",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Cherokee Limited",
+      "count": 4,
+      "file": "inventory/new-jeep-cherokee-limited.json",
+      "models": [
+        {
+          "model": "Cherokee Limited",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Gladiator Sport S",
+      "count": 1,
+      "file": "inventory/new-jeep-gladiator-sport-s.json",
+      "models": [
+        {
+          "model": "Gladiator Sport S",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Cherokee 85th Anniversary Edition",
+      "count": 4,
+      "file": "inventory/new-jeep-cherokee-85th-anniversary-edition.json",
+      "models": [
+        {
+          "model": "Cherokee 85th Anniversary Edition",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Cherokee Limitedin Kelowna",
+      "count": 4,
+      "file": "inventory/new-jeep-cherokee-limitedin-kelowna.json",
+      "models": [
+        {
+          "model": "Cherokee Limitedin Kelowna",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Cherokee 85th Anniversary",
+      "count": 1,
+      "file": "inventory/new-jeep-cherokee-85th-anniversary.json",
+      "models": [
+        {
+          "model": "Cherokee 85th Anniversary",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Cherokee Overland",
+      "count": 4,
+      "file": "inventory/new-jeep-cherokee-overland.json",
+      "models": [
+        {
+          "model": "Cherokee Overland",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Wrangler Sport Sin Kelowna",
+      "count": 1,
+      "file": "inventory/new-jeep-wrangler-sport-sin-kelowna.json",
+      "models": [
+        {
+          "model": "Wrangler Sport Sin Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Gladiator Willysin Kelowna",
+      "count": 1,
+      "file": "inventory/new-jeep-gladiator-willysin-kelowna.json",
+      "models": [
+        {
+          "model": "Gladiator Willysin Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Compass Northin Courtenay",
+      "count": 2,
+      "file": "inventory/new-jeep-compass-northin-courtenay.json",
+      "models": [
+        {
+          "model": "Compass Northin Courtenay",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Cherokee Laredoin Courtenay",
+      "count": 2,
+      "file": "inventory/new-jeep-cherokee-laredoin-courtenay.json",
+      "models": [
+        {
+          "model": "Cherokee Laredoin Courtenay",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Wrangler Sport Sin Courtenay",
+      "count": 2,
+      "file": "inventory/new-jeep-wrangler-sport-sin-courtenay.json",
+      "models": [
+        {
+          "model": "Wrangler Sport Sin Courtenay",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Cherokee Overlandin Courtenay",
+      "count": 4,
+      "file": "inventory/new-jeep-cherokee-overlandin-courtenay.json",
+      "models": [
+        {
+          "model": "Cherokee Overlandin Courtenay",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Grand Cherokee Laredo Xin Courtenay",
+      "count": 1,
+      "file": "inventory/new-jeep-grand-cherokee-laredo-xin-courtenay.json",
+      "models": [
+        {
+          "model": "Grand Cherokee Laredo Xin Courtenay",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Wrangler Saharain Courtenay",
+      "count": 1,
+      "file": "inventory/new-jeep-wrangler-saharain-courtenay.json",
+      "models": [
+        {
+          "model": "Wrangler Saharain Courtenay",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Grand Cherokee Altitudein Courtenay",
+      "count": 2,
+      "file": "inventory/new-jeep-grand-cherokee-altitudein-courtenay.json",
+      "models": [
+        {
+          "model": "Grand Cherokee Altitudein Courtenay",
           "count": 2
         }
       ]

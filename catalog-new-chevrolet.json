@@ -1,8 +1,73 @@
 {
-  "generated_at": "2026-10-01T22:33:34+00:00",
+  "generated_at": "2026-10-01T22:47:51+00:00",
   "condition": "new",
   "make": "chevrolet",
   "files": [
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Equinoxin Castlegar",
+      "count": 1,
+      "file": "inventory/new-chevrolet-equinoxin-castlegar.json",
+      "models": [
+        {
+          "model": "Equinoxin Castlegar",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "TrailBlazer RSin Castlegar",
+      "count": 1,
+      "file": "inventory/new-chevrolet-trailblazer-rsin-castlegar.json",
+      "models": [
+        {
+          "model": "TrailBlazer RSin Castlegar",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "TrailBlazer Activin Castlegar",
+      "count": 1,
+      "file": "inventory/new-chevrolet-trailblazer-activin-castlegar.json",
+      "models": [
+        {
+          "model": "TrailBlazer Activin Castlegar",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Equinox Awd Activin Castlegar",
+      "count": 1,
+      "file": "inventory/new-chevrolet-equinox-awd-activin-castlegar.json",
+      "models": [
+        {
+          "model": "Equinox Awd Activin Castlegar",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Silverado High Countryin Castlegar",
+      "count": 1,
+      "file": "inventory/new-chevrolet-silverado-high-countryin-castlegar.json",
+      "models": [
+        {
+          "model": "Silverado High Countryin Castlegar",
+          "count": 1
+        }
+      ]
+    },
     {
       "condition": "new",
       "make": "chevrolet",
@@ -106,12 +171,12 @@
       "make": "chevrolet",
       "model": "Trax",
       "shard": "part1",
-      "count": 30,
+      "count": 33,
       "file": "inventory/new-chevrolet-trax-part1.json",
       "models": [
         {
           "model": "Trax",
-          "count": 30
+          "count": 33
         }
       ]
     },
@@ -120,12 +185,12 @@
       "make": "chevrolet",
       "model": "Trax",
       "shard": "part2",
-      "count": 30,
+      "count": 33,
       "file": "inventory/new-chevrolet-trax-part2.json",
       "models": [
         {
           "model": "Trax",
-          "count": 30
+          "count": 33
         }
       ]
     },
@@ -134,12 +199,12 @@
       "make": "chevrolet",
       "model": "Trax",
       "shard": "part3",
-      "count": 30,
+      "count": 33,
       "file": "inventory/new-chevrolet-trax-part3.json",
       "models": [
         {
           "model": "Trax",
-          "count": 30
+          "count": 33
         }
       ]
     },
@@ -148,25 +213,80 @@
       "make": "chevrolet",
       "model": "Trax",
       "shard": "part4",
-      "count": 30,
+      "count": 32,
       "file": "inventory/new-chevrolet-trax-part4.json",
       "models": [
         {
           "model": "Trax",
-          "count": 30
+          "count": 32
         }
       ]
     },
     {
       "condition": "new",
       "make": "chevrolet",
-      "model": "Trailblazer",
-      "count": 32,
-      "file": "inventory/new-chevrolet-trailblazer.json",
+      "model": "TrailBlazer",
+      "shard": "Lower Mainland",
+      "count": 13,
+      "file": "inventory/new-chevrolet-trailblazer-lower-mainland.json",
       "models": [
         {
+          "model": "TrailBlazer",
+          "count": 3
+        },
+        {
           "model": "Trailblazer",
-          "count": 32
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "TrailBlazer",
+      "shard": "Norte/Cariboo",
+      "count": 1,
+      "file": "inventory/new-chevrolet-trailblazer-norte-cariboo.json",
+      "models": [
+        {
+          "model": "TrailBlazer",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "TrailBlazer",
+      "shard": "Okanagan",
+      "count": 18,
+      "file": "inventory/new-chevrolet-trailblazer-okanagan.json",
+      "models": [
+        {
+          "model": "TrailBlazer",
+          "count": 6
+        },
+        {
+          "model": "Trailblazer",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "TrailBlazer",
+      "shard": "Vancouver Island",
+      "count": 12,
+      "file": "inventory/new-chevrolet-trailblazer-vancouver-island.json",
+      "models": [
+        {
+          "model": "TrailBlazer",
+          "count": 2
+        },
+        {
+          "model": "Trailblazer",
+          "count": 10
         }
       ]
     },
@@ -181,6 +301,20 @@
         {
           "model": "Equinox",
           "count": 33
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Equinox",
+      "shard": "Norte/Cariboo",
+      "count": 1,
+      "file": "inventory/new-chevrolet-equinox-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Equinox",
+          "count": 1
         }
       ]
     },
@@ -217,22 +351,8 @@
       "make": "chevrolet",
       "model": "Colorado",
       "shard": "Lower Mainland",
-      "count": 21,
-      "file": "inventory/new-chevrolet-colorado-lower-mainland.json",
-      "models": [
-        {
-          "model": "Colorado",
-          "count": 21
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "chevrolet",
-      "model": "Colorado",
-      "shard": "Okanagan",
       "count": 24,
-      "file": "inventory/new-chevrolet-colorado-okanagan.json",
+      "file": "inventory/new-chevrolet-colorado-lower-mainland.json",
       "models": [
         {
           "model": "Colorado",
@@ -244,13 +364,53 @@
       "condition": "new",
       "make": "chevrolet",
       "model": "Colorado",
+      "shard": "Okanagan",
+      "count": 30,
+      "file": "inventory/new-chevrolet-colorado-okanagan.json",
+      "models": [
+        {
+          "model": "Colorado",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Colorado",
       "shard": "Vancouver Island",
-      "count": 9,
+      "count": 11,
       "file": "inventory/new-chevrolet-colorado-vancouver-island.json",
       "models": [
         {
           "model": "Colorado",
-          "count": 9
+          "count": 11
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Blazer EV",
+      "count": 6,
+      "file": "inventory/new-chevrolet-blazer-ev.json",
+      "models": [
+        {
+          "model": "Blazer EV",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Silverado 1500",
+      "count": 14,
+      "file": "inventory/new-chevrolet-silverado-1500.json",
+      "models": [
+        {
+          "model": "Silverado 1500",
+          "count": 14
         }
       ]
     },
@@ -303,19 +463,6 @@
         {
           "model": "Express 3500",
           "count": 6
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "chevrolet",
-      "model": "Blazer EV",
-      "count": 5,
-      "file": "inventory/new-chevrolet-blazer-ev.json",
-      "models": [
-        {
-          "model": "Blazer EV",
-          "count": 5
         }
       ]
     },
@@ -377,12 +524,25 @@
       "condition": "new",
       "make": "chevrolet",
       "model": "Tahoe",
-      "count": 21,
+      "count": 22,
       "file": "inventory/new-chevrolet-tahoe.json",
       "models": [
         {
           "model": "Tahoe",
-          "count": 21
+          "count": 22
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Corvette",
+      "count": 18,
+      "file": "inventory/new-chevrolet-corvette.json",
+      "models": [
+        {
+          "model": "Corvette",
+          "count": 18
         }
       ]
     },
@@ -390,12 +550,25 @@
       "condition": "new",
       "make": "chevrolet",
       "model": "Suburban",
-      "count": 9,
+      "count": 10,
       "file": "inventory/new-chevrolet-suburban.json",
       "models": [
         {
           "model": "Suburban",
-          "count": 9
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Silverado 3500HD",
+      "count": 5,
+      "file": "inventory/new-chevrolet-silverado-3500hd.json",
+      "models": [
+        {
+          "model": "Silverado 3500HD",
+          "count": 5
         }
       ]
     },
@@ -409,19 +582,6 @@
         {
           "model": "Silverado 2500",
           "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "chevrolet",
-      "model": "Corvette",
-      "count": 17,
-      "file": "inventory/new-chevrolet-corvette.json",
-      "models": [
-        {
-          "model": "Corvette",
-          "count": 17
         }
       ]
     },
@@ -573,6 +733,84 @@
     {
       "condition": "new",
       "make": "chevrolet",
+      "model": "Equinox Awd Ltin Smithers",
+      "count": 1,
+      "file": "inventory/new-chevrolet-equinox-awd-ltin-smithers.json",
+      "models": [
+        {
+          "model": "Equinox Awd Ltin Smithers",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Blazer RSin Smithers",
+      "count": 1,
+      "file": "inventory/new-chevrolet-blazer-rsin-smithers.json",
+      "models": [
+        {
+          "model": "Blazer RSin Smithers",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Silveradoin Smithers",
+      "count": 1,
+      "file": "inventory/new-chevrolet-silveradoin-smithers.json",
+      "models": [
+        {
+          "model": "Silveradoin Smithers",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Silverado LTin Smithers",
+      "count": 1,
+      "file": "inventory/new-chevrolet-silverado-ltin-smithers.json",
+      "models": [
+        {
+          "model": "Silverado LTin Smithers",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Traverse Z71in Smithers",
+      "count": 1,
+      "file": "inventory/new-chevrolet-traverse-z71in-smithers.json",
+      "models": [
+        {
+          "model": "Traverse Z71in Smithers",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Silverado 1500 LTin Smithers",
+      "count": 1,
+      "file": "inventory/new-chevrolet-silverado-1500-ltin-smithers.json",
+      "models": [
+        {
+          "model": "Silverado 1500 LTin Smithers",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
       "model": "Silverado 3500 Regular Cab",
       "count": 1,
       "file": "inventory/new-chevrolet-silverado-3500-regular-cab.json",
@@ -612,19 +850,6 @@
     {
       "condition": "new",
       "make": "chevrolet",
-      "model": "Silverado 1500",
-      "count": 1,
-      "file": "inventory/new-chevrolet-silverado-1500.json",
-      "models": [
-        {
-          "model": "Silverado 1500",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "chevrolet",
       "model": "Silverado EV",
       "count": 2,
       "file": "inventory/new-chevrolet-silverado-ev.json",
@@ -644,6 +869,84 @@
       "models": [
         {
           "model": "Traverse LT",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Trax Fwd Activin 100 Mile House",
+      "count": 1,
+      "file": "inventory/new-chevrolet-trax-fwd-activin-100-mile-house.json",
+      "models": [
+        {
+          "model": "Trax Fwd Activin 100 Mile House",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Equinox Activ 1.5t Awdin 100 Mile House",
+      "count": 1,
+      "file": "inventory/new-chevrolet-equinox-activ-1-5t-awdin-100-mile-house.json",
+      "models": [
+        {
+          "model": "Equinox Activ 1.5t Awdin 100 Mile House",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Equinox Awd Activin 100 Mile House",
+      "count": 1,
+      "file": "inventory/new-chevrolet-equinox-awd-activin-100-mile-house.json",
+      "models": [
+        {
+          "model": "Equinox Awd Activin 100 Mile House",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Colorado Trail Boss Crew 4wdin 100 Mile House",
+      "count": 1,
+      "file": "inventory/new-chevrolet-colorado-trail-boss-crew-4wdin-100-mile-house.json",
+      "models": [
+        {
+          "model": "Colorado Trail Boss Crew 4wdin 100 Mile House",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Silverado 1500 High Countryin 100 Mile House",
+      "count": 2,
+      "file": "inventory/new-chevrolet-silverado-1500-high-countryin-100-mile-house.json",
+      "models": [
+        {
+          "model": "Silverado 1500 High Countryin 100 Mile House",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Tahoe RSTin 100 Mile House",
+      "count": 1,
+      "file": "inventory/new-chevrolet-tahoe-rstin-100-mile-house.json",
+      "models": [
+        {
+          "model": "Tahoe RSTin 100 Mile House",
           "count": 1
         }
       ]

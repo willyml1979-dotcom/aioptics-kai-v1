@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T22:33:34+00:00",
+  "generated_at": "2026-10-01T22:47:51+00:00",
   "condition": "used",
   "make": "kia",
   "files": [
@@ -7,12 +7,110 @@
       "condition": "used",
       "make": "kia",
       "model": "Sportage",
-      "count": 35,
-      "file": "inventory/used-kia-sportage.json",
+      "shard": "Kootenays",
+      "count": 1,
+      "file": "inventory/used-kia-sportage-kootenays.json",
       "models": [
         {
           "model": "Sportage",
-          "count": 35
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "kia",
+      "model": "Sportage",
+      "shard": "Lower Mainland",
+      "count": 37,
+      "file": "inventory/used-kia-sportage-lower-mainland.json",
+      "models": [
+        {
+          "model": "Sportage",
+          "count": 37
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "kia",
+      "model": "Sportage",
+      "shard": "Norte/Cariboo",
+      "count": 6,
+      "file": "inventory/used-kia-sportage-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Sportage",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "kia",
+      "model": "Sportage",
+      "shard": "Okanagan",
+      "count": 18,
+      "file": "inventory/used-kia-sportage-okanagan.json",
+      "models": [
+        {
+          "model": "Sportage",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "kia",
+      "model": "Sportage",
+      "shard": "Thompson-Okanagan",
+      "count": 1,
+      "file": "inventory/used-kia-sportage-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "Sportage",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "kia",
+      "model": "Sportage",
+      "shard": "Vancouver Island",
+      "count": 22,
+      "file": "inventory/used-kia-sportage-vancouver-island.json",
+      "models": [
+        {
+          "model": "Sportage",
+          "count": 22
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "kia",
+      "model": "Sportage",
+      "shard": "sin-region",
+      "count": 5,
+      "file": "inventory/used-kia-sportage-sin-region.json",
+      "models": [
+        {
+          "model": "Sportage",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "kia",
+      "model": "Niro",
+      "count": 12,
+      "file": "inventory/used-kia-niro.json",
+      "models": [
+        {
+          "model": "Niro",
+          "count": 12
         }
       ]
     },
@@ -20,12 +118,69 @@
       "condition": "used",
       "make": "kia",
       "model": "Forte",
-      "count": 20,
-      "file": "inventory/used-kia-forte.json",
+      "shard": "Lower Mainland",
+      "count": 33,
+      "file": "inventory/used-kia-forte-lower-mainland.json",
       "models": [
         {
           "model": "Forte",
-          "count": 20
+          "count": 33
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "kia",
+      "model": "Forte",
+      "shard": "Norte/Cariboo",
+      "count": 2,
+      "file": "inventory/used-kia-forte-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Forte",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "kia",
+      "model": "Forte",
+      "shard": "Okanagan",
+      "count": 22,
+      "file": "inventory/used-kia-forte-okanagan.json",
+      "models": [
+        {
+          "model": "Forte",
+          "count": 22
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "kia",
+      "model": "Forte",
+      "shard": "Vancouver Island",
+      "count": 21,
+      "file": "inventory/used-kia-forte-vancouver-island.json",
+      "models": [
+        {
+          "model": "Forte",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "kia",
+      "model": "Forte",
+      "shard": "sin-region",
+      "count": 6,
+      "file": "inventory/used-kia-forte-sin-region.json",
+      "models": [
+        {
+          "model": "Forte",
+          "count": 6
         }
       ]
     },
@@ -33,12 +188,55 @@
       "condition": "used",
       "make": "kia",
       "model": "Soul",
-      "count": 8,
-      "file": "inventory/used-kia-soul.json",
+      "shard": "Lower Mainland",
+      "count": 13,
+      "file": "inventory/used-kia-soul-lower-mainland.json",
       "models": [
         {
           "model": "Soul",
-          "count": 8
+          "count": 13
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "kia",
+      "model": "Soul",
+      "shard": "Okanagan",
+      "count": 12,
+      "file": "inventory/used-kia-soul-okanagan.json",
+      "models": [
+        {
+          "model": "Soul",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "kia",
+      "model": "Soul",
+      "shard": "Vancouver Island",
+      "count": 10,
+      "file": "inventory/used-kia-soul-vancouver-island.json",
+      "models": [
+        {
+          "model": "Soul",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "kia",
+      "model": "Soul",
+      "shard": "sin-region",
+      "count": 23,
+      "file": "inventory/used-kia-soul-sin-region.json",
+      "models": [
+        {
+          "model": "Soul",
+          "count": 23
         }
       ]
     },
@@ -58,13 +256,14 @@
     {
       "condition": "used",
       "make": "kia",
-      "model": "Seltos",
-      "count": 34,
-      "file": "inventory/used-kia-seltos.json",
+      "model": "Sorento",
+      "shard": "Lower Mainland",
+      "count": 24,
+      "file": "inventory/used-kia-sorento-lower-mainland.json",
       "models": [
         {
-          "model": "Seltos",
-          "count": 34
+          "model": "Sorento",
+          "count": 24
         }
       ]
     },
@@ -72,50 +271,12 @@
       "condition": "used",
       "make": "kia",
       "model": "Sorento",
-      "count": 15,
-      "file": "inventory/used-kia-sorento.json",
+      "shard": "Norte/Cariboo",
+      "count": 1,
+      "file": "inventory/used-kia-sorento-norte-cariboo.json",
       "models": [
         {
           "model": "Sorento",
-          "count": 15
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "kia",
-      "model": "Rio",
-      "count": 5,
-      "file": "inventory/used-kia-rio.json",
-      "models": [
-        {
-          "model": "Rio",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "kia",
-      "model": "Sedona",
-      "count": 2,
-      "file": "inventory/used-kia-sedona.json",
-      "models": [
-        {
-          "model": "Sedona",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "kia",
-      "model": "Stinger",
-      "count": 1,
-      "file": "inventory/used-kia-stinger.json",
-      "models": [
-        {
-          "model": "Stinger",
           "count": 1
         }
       ]
@@ -123,51 +284,41 @@
     {
       "condition": "used",
       "make": "kia",
-      "model": "Niro EV",
-      "count": 6,
-      "file": "inventory/used-kia-niro-ev.json",
+      "model": "Sorento",
+      "shard": "Okanagan",
+      "count": 20,
+      "file": "inventory/used-kia-sorento-okanagan.json",
       "models": [
         {
-          "model": "Niro EV",
-          "count": 6
+          "model": "Sorento",
+          "count": 20
         }
       ]
     },
     {
       "condition": "used",
       "make": "kia",
-      "model": "Niro",
-      "count": 9,
-      "file": "inventory/used-kia-niro.json",
+      "model": "Sorento",
+      "shard": "Vancouver Island",
+      "count": 18,
+      "file": "inventory/used-kia-sorento-vancouver-island.json",
       "models": [
         {
-          "model": "Niro",
-          "count": 9
+          "model": "Sorento",
+          "count": 18
         }
       ]
     },
     {
       "condition": "used",
       "make": "kia",
-      "model": "Optima",
-      "count": 1,
-      "file": "inventory/used-kia-optima.json",
-      "models": [
-        {
-          "model": "Optima",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "kia",
-      "model": "K4",
+      "model": "Sorento",
+      "shard": "sin-region",
       "count": 4,
-      "file": "inventory/used-kia-k4.json",
+      "file": "inventory/used-kia-sorento-sin-region.json",
       "models": [
         {
-          "model": "K4",
+          "model": "Sorento",
           "count": 4
         }
       ]
@@ -175,25 +326,40 @@
     {
       "condition": "used",
       "make": "kia",
-      "model": "Telluride",
-      "count": 11,
-      "file": "inventory/used-kia-telluride.json",
+      "model": "Rio",
+      "count": 22,
+      "file": "inventory/used-kia-rio.json",
       "models": [
         {
-          "model": "Telluride",
-          "count": 11
+          "model": "Rio",
+          "count": 22
         }
       ]
     },
     {
       "condition": "used",
       "make": "kia",
-      "model": "K5",
-      "count": 2,
-      "file": "inventory/used-kia-k5.json",
+      "model": "Seltos",
+      "shard": "Lower Mainland",
+      "count": 33,
+      "file": "inventory/used-kia-seltos-lower-mainland.json",
       "models": [
         {
-          "model": "K5",
+          "model": "Seltos",
+          "count": 33
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "kia",
+      "model": "Seltos",
+      "shard": "Norte/Cariboo",
+      "count": 2,
+      "file": "inventory/used-kia-seltos-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Seltos",
           "count": 2
         }
       ]
@@ -201,13 +367,160 @@
     {
       "condition": "used",
       "make": "kia",
+      "model": "Seltos",
+      "shard": "Okanagan",
+      "count": 14,
+      "file": "inventory/used-kia-seltos-okanagan.json",
+      "models": [
+        {
+          "model": "Seltos",
+          "count": 14
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "kia",
+      "model": "Seltos",
+      "shard": "Thompson-Okanagan",
+      "count": 1,
+      "file": "inventory/used-kia-seltos-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "Seltos",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "kia",
+      "model": "Seltos",
+      "shard": "Vancouver Island",
+      "count": 16,
+      "file": "inventory/used-kia-seltos-vancouver-island.json",
+      "models": [
+        {
+          "model": "Seltos",
+          "count": 16
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "kia",
+      "model": "Seltos",
+      "shard": "sin-region",
+      "count": 7,
+      "file": "inventory/used-kia-seltos-sin-region.json",
+      "models": [
+        {
+          "model": "Seltos",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "kia",
+      "model": "Optima",
+      "count": 3,
+      "file": "inventory/used-kia-optima.json",
+      "models": [
+        {
+          "model": "Optima",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "kia",
+      "model": "Sedona",
+      "count": 19,
+      "file": "inventory/used-kia-sedona.json",
+      "models": [
+        {
+          "model": "Sedona",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "kia",
+      "model": "Stinger",
+      "count": 7,
+      "file": "inventory/used-kia-stinger.json",
+      "models": [
+        {
+          "model": "Stinger",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "kia",
+      "model": "Niro EV",
+      "count": 16,
+      "file": "inventory/used-kia-niro-ev.json",
+      "models": [
+        {
+          "model": "Niro EV",
+          "count": 16
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "kia",
+      "model": "K4",
+      "count": 10,
+      "file": "inventory/used-kia-k4.json",
+      "models": [
+        {
+          "model": "K4",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "kia",
+      "model": "Telluride",
+      "count": 24,
+      "file": "inventory/used-kia-telluride.json",
+      "models": [
+        {
+          "model": "Telluride",
+          "count": 24
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "kia",
+      "model": "K5",
+      "count": 3,
+      "file": "inventory/used-kia-k5.json",
+      "models": [
+        {
+          "model": "K5",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "kia",
       "model": "Carnival",
-      "count": 9,
+      "count": 10,
       "file": "inventory/used-kia-carnival.json",
       "models": [
         {
           "model": "Carnival",
-          "count": 9
+          "count": 10
         }
       ]
     },
@@ -215,12 +528,12 @@
       "condition": "used",
       "make": "kia",
       "model": "EV6",
-      "count": 3,
+      "count": 4,
       "file": "inventory/used-kia-ev6.json",
       "models": [
         {
           "model": "EV6",
-          "count": 3
+          "count": 4
         }
       ]
     },
@@ -228,12 +541,25 @@
       "condition": "used",
       "make": "kia",
       "model": "EV9",
-      "count": 3,
+      "count": 4,
       "file": "inventory/used-kia-ev9.json",
       "models": [
         {
           "model": "EV9",
-          "count": 3
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "kia",
+      "model": "EV4",
+      "count": 1,
+      "file": "inventory/used-kia-ev4.json",
+      "models": [
+        {
+          "model": "EV4",
+          "count": 1
         }
       ]
     }
