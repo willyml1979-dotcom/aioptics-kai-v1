@@ -1,34 +1,9 @@
 {
-  "generated_at": "2026-10-01T22:56:26+00:00",
-  "snapshot": "2026-10-01T22:56:26+00:00",
+  "generated_at": "2026-10-02T04:56:53+00:00",
+  "snapshot": "2026-10-02T04:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 10,
+  "count": 8,
   "vehicles": [
-    {
-      "pub_id": "go-kia-west-3fttw8s93rrb21706",
-      "year": 2024,
-      "make": "Ford",
-      "model": "Maverick",
-      "propulsion": "gas",
-      "propulsion_source": "stated",
-      "condition": "used",
-      "odometer_km": 15671,
-      "price_cad": 37398.0,
-      "price_note": null,
-      "color": "Black",
-      "dealer_id": "go-kia-west",
-      "vin": "3FTTW8S93RRB21706",
-      "stock": "PW1223",
-      "listing_url": "https://www.kiawest.com/vehicles/2024/ford/maverick/coquitlam/bc/69815206/?sale_class=used",
-      "dealer_url": "https://www.kiawest.com/vehicles/2024/ford/maverick/coquitlam/bc/69815206/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-27T00:24:49",
-      "snapshot": "2026-09-27T00:25:15",
-      "go_url": "https://carwhisper.ca/go/go-kia-west-3fttw8s93rrb21706",
-      "region": "Lower Mainland",
-      "city": "Coquitlam",
-      "province": "BC",
-      "dealer_name": "Go Kia West"
-    },
     {
       "pub_id": "destination-burnaby-honda-happy-honda-3ftcw8ta6tra71125",
       "year": 2026,
@@ -225,30 +200,6 @@
       "city": "Nanaimo",
       "province": "BC",
       "dealer_name": "Sunshine Mountain Ford Lincoln Ltd."
-    },
-    {
-      "pub_id": "go-langley-subaru-3fttw8j9xrrb13958",
-      "year": 2024,
-      "make": "Ford",
-      "model": "Maverick",
-      "propulsion": "gas",
-      "propulsion_source": "stated",
-      "condition": "used",
-      "odometer_km": 27520,
-      "price_cad": 34699.0,
-      "price_note": null,
-      "color": "Blue",
-      "dealer_id": "go-langley-subaru",
-      "vin": "3FTTW8J9XRRB13958",
-      "stock": "SG715",
-      "listing_url": "https://www.langleysubaru.com/vehicles/2024/ford/maverick/surrey/bc/69953304/?sale_class=used",
-      "dealer_url": "https://www.langleysubaru.com/vehicles/2024/ford/maverick/surrey/bc/69953304/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T06:13:30",
-      "snapshot": "2026-09-26T07:50:30",
-      "go_url": "https://carwhisper.ca/go/go-langley-subaru-3fttw8j9xrrb13958",
-      "city": null,
-      "province": "BC",
-      "dealer_name": "Go Langley Subaru"
     }
   ]
 }

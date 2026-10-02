@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T22:56:26+00:00",
+  "generated_at": "2026-10-02T04:56:53+00:00",
   "condition": "new",
   "make": "hyundai",
   "files": [
@@ -323,12 +323,12 @@
       "make": "hyundai",
       "model": "Elantra",
       "shard": "part1",
-      "count": 35,
+      "count": 36,
       "file": "inventory/new-hyundai-elantra-part1.json",
       "models": [
         {
           "model": "Elantra",
-          "count": 35
+          "count": 36
         }
       ]
     },
@@ -337,12 +337,12 @@
       "make": "hyundai",
       "model": "Elantra",
       "shard": "part2",
-      "count": 35,
+      "count": 36,
       "file": "inventory/new-hyundai-elantra-part2.json",
       "models": [
         {
           "model": "Elantra",
-          "count": 35
+          "count": 36
         }
       ]
     },
@@ -351,12 +351,12 @@
       "make": "hyundai",
       "model": "Elantra",
       "shard": "part3",
-      "count": 35,
+      "count": 36,
       "file": "inventory/new-hyundai-elantra-part3.json",
       "models": [
         {
           "model": "Elantra",
-          "count": 35
+          "count": 36
         }
       ]
     },
@@ -365,12 +365,12 @@
       "make": "hyundai",
       "model": "Elantra",
       "shard": "part4",
-      "count": 35,
+      "count": 36,
       "file": "inventory/new-hyundai-elantra-part4.json",
       "models": [
         {
           "model": "Elantra",
-          "count": 35
+          "count": 36
         }
       ]
     },
@@ -379,12 +379,12 @@
       "make": "hyundai",
       "model": "Elantra",
       "shard": "part5",
-      "count": 32,
+      "count": 35,
       "file": "inventory/new-hyundai-elantra-part5.json",
       "models": [
         {
           "model": "Elantra",
-          "count": 32
+          "count": 35
         }
       ]
     },
@@ -535,12 +535,69 @@
       "condition": "new",
       "make": "hyundai",
       "model": "Elantra Hybrid",
-      "count": 36,
-      "file": "inventory/new-hyundai-elantra-hybrid.json",
+      "shard": "Lower Mainland",
+      "count": 24,
+      "file": "inventory/new-hyundai-elantra-hybrid-lower-mainland.json",
       "models": [
         {
           "model": "Elantra Hybrid",
-          "count": 36
+          "count": 24
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Elantra Hybrid",
+      "shard": "Norte/Cariboo",
+      "count": 3,
+      "file": "inventory/new-hyundai-elantra-hybrid-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Elantra Hybrid",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Elantra Hybrid",
+      "shard": "Okanagan",
+      "count": 5,
+      "file": "inventory/new-hyundai-elantra-hybrid-okanagan.json",
+      "models": [
+        {
+          "model": "Elantra Hybrid",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Elantra Hybrid",
+      "shard": "Vancouver Island",
+      "count": 4,
+      "file": "inventory/new-hyundai-elantra-hybrid-vancouver-island.json",
+      "models": [
+        {
+          "model": "Elantra Hybrid",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Elantra Hybrid",
+      "shard": "sin-region",
+      "count": 7,
+      "file": "inventory/new-hyundai-elantra-hybrid-sin-region.json",
+      "models": [
+        {
+          "model": "Elantra Hybrid",
+          "count": 7
         }
       ]
     },
@@ -574,12 +631,12 @@
       "condition": "new",
       "make": "hyundai",
       "model": "Elantra N",
-      "count": 30,
+      "count": 33,
       "file": "inventory/new-hyundai-elantra-n.json",
       "models": [
         {
           "model": "Elantra N",
-          "count": 30
+          "count": 33
         }
       ]
     },

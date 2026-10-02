@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01T22:56:26+00:00",
-  "snapshot": "2026-10-01T22:56:26+00:00",
+  "generated_at": "2026-10-02T04:56:53+00:00",
+  "snapshot": "2026-10-02T04:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 20,
+  "count": 22,
   "vehicles": [
     {
       "pub_id": "carter-gm-northshore-yv4a22pl3h1176327",
@@ -474,6 +474,55 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Victoria Hyundai"
+    },
+    {
+      "pub_id": "sherwood-park-hyundai-yv4062pk6r1152659",
+      "year": 2024,
+      "make": "Volvo",
+      "model": "XC90",
+      "propulsion": "hybrid",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 70064,
+      "price_cad": 47507.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "sherwood-park-hyundai",
+      "vin": "YV4062PK6R1152659",
+      "stock": "P2659",
+      "listing_url": "https://www.sphyundai.com/vehicles/2024/volvo/xc90/sherwood-park/ab/69128601/?sale_class=used",
+      "dealer_url": "https://www.sphyundai.com/vehicles/2024/volvo/xc90/sherwood-park/ab/69128601/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T18:19:38",
+      "snapshot": "2026-10-01T18:21:45",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-hyundai-yv4062pk6r1152659",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Sherwood Park Hyundai"
+    },
+    {
+      "pub_id": "go-auto-brampton-chrysler-yv4062pe7r1204455",
+      "year": 2024,
+      "make": "Volvo",
+      "model": "XC90",
+      "body_type": "suv",
+      "propulsion": "hybrid",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 18847,
+      "price_cad": 53888.0,
+      "price_note": null,
+      "color": "Grey",
+      "dealer_id": "go-auto-brampton-chrysler",
+      "vin": "YV4062PE7R1204455",
+      "stock": "P27RA42",
+      "listing_url": "https://www.bramptonchrysler.ca/vehicles/2024/volvo/xc90/brampton/on/71433484/?sale_class=used",
+      "dealer_url": "https://www.bramptonchrysler.ca/vehicles/2024/volvo/xc90/brampton/on/71433484/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:10:37",
+      "snapshot": "2026-10-01T21:16:55",
+      "go_url": "https://carwhisper.ca/go/go-auto-brampton-chrysler-yv4062pe7r1204455",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Auto Brampton Chrysler"
     }
   ]
 }

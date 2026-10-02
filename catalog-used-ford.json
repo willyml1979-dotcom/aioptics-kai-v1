@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T22:56:26+00:00",
+  "generated_at": "2026-10-02T04:56:53+00:00",
   "condition": "used",
   "make": "ford",
   "files": [
@@ -89,7 +89,7 @@
       "condition": "used",
       "make": "ford",
       "model": "Explorer",
-      "count": 32,
+      "count": 33,
       "file": "inventory/used-ford-explorer.json",
       "models": [
         {
@@ -98,7 +98,7 @@
         },
         {
           "model": "Explorer",
-          "count": 31
+          "count": 32
         }
       ]
     },
@@ -196,6 +196,32 @@
     {
       "condition": "used",
       "make": "ford",
+      "model": "Explorer Xlt 4wdin Trail",
+      "count": 1,
+      "file": "inventory/used-ford-explorer-xlt-4wdin-trail.json",
+      "models": [
+        {
+          "model": "Explorer Xlt 4wdin Trail",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Bronco Sport 4dr 4wd Outer Banksin Trail",
+      "count": 1,
+      "file": "inventory/used-ford-bronco-sport-4dr-4wd-outer-banksin-trail.json",
+      "models": [
+        {
+          "model": "Bronco Sport 4dr 4wd Outer Banksin Trail",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
       "model": "ESCAPE",
       "shard": "Kootenays",
       "count": 1,
@@ -284,20 +310,6 @@
     {
       "condition": "used",
       "make": "ford",
-      "model": "ESCAPE",
-      "shard": "sin-region",
-      "count": 1,
-      "file": "inventory/used-ford-escape-sin-region.json",
-      "models": [
-        {
-          "model": "Escape",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
       "model": "Focus",
       "count": 8,
       "file": "inventory/used-ford-focus.json",
@@ -338,16 +350,91 @@
       "condition": "used",
       "make": "ford",
       "model": "Edge",
-      "count": 43,
-      "file": "inventory/used-ford-edge.json",
+      "shard": "Lower Mainland",
+      "count": 8,
+      "file": "inventory/used-ford-edge-lower-mainland.json",
+      "models": [
+        {
+          "model": "Edge",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Edge",
+      "shard": "Norte/Cariboo",
+      "count": 6,
+      "file": "inventory/used-ford-edge-norte-cariboo.json",
       "models": [
         {
           "model": "EDGE",
-          "count": 2
+          "count": 1
         },
         {
           "model": "Edge",
-          "count": 41
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Edge",
+      "shard": "Okanagan",
+      "count": 14,
+      "file": "inventory/used-ford-edge-okanagan.json",
+      "models": [
+        {
+          "model": "Edge",
+          "count": 14
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Edge",
+      "shard": "Thompson-Okanagan",
+      "count": 2,
+      "file": "inventory/used-ford-edge-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "Edge",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Edge",
+      "shard": "Vancouver Island",
+      "count": 12,
+      "file": "inventory/used-ford-edge-vancouver-island.json",
+      "models": [
+        {
+          "model": "Edge",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Edge",
+      "shard": "sin-region",
+      "count": 3,
+      "file": "inventory/used-ford-edge-sin-region.json",
+      "models": [
+        {
+          "model": "EDGE",
+          "count": 1
+        },
+        {
+          "model": "Edge",
+          "count": 2
         }
       ]
     },
@@ -467,7 +554,7 @@
       "condition": "used",
       "make": "ford",
       "model": "Bronco Sport",
-      "count": 21,
+      "count": 23,
       "file": "inventory/used-ford-bronco-sport.json",
       "models": [
         {
@@ -476,7 +563,7 @@
         },
         {
           "model": "Bronco Sport",
-          "count": 19
+          "count": 21
         }
       ]
     },
@@ -577,23 +664,6 @@
     {
       "condition": "used",
       "make": "ford",
-      "model": "Maverick",
-      "count": 10,
-      "file": "inventory/used-ford-maverick.json",
-      "models": [
-        {
-          "model": "MAVERICK",
-          "count": 1
-        },
-        {
-          "model": "Maverick",
-          "count": 9
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
       "model": "Bronco",
       "count": 34,
       "file": "inventory/used-ford-bronco.json",
@@ -641,13 +711,30 @@
     {
       "condition": "used",
       "make": "ford",
+      "model": "Maverick",
+      "count": 8,
+      "file": "inventory/used-ford-maverick.json",
+      "models": [
+        {
+          "model": "MAVERICK",
+          "count": 1
+        },
+        {
+          "model": "Maverick",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
       "model": "Mustang Fastback",
-      "count": 5,
+      "count": 6,
       "file": "inventory/used-ford-mustang-fastback.json",
       "models": [
         {
           "model": "Mustang Fastback",
-          "count": 5
+          "count": 6
         }
       ]
     },
@@ -1097,12 +1184,12 @@
       "condition": "used",
       "make": "ford",
       "model": "Mustang Convertible",
-      "count": 2,
+      "count": 3,
       "file": "inventory/used-ford-mustang-convertible.json",
       "models": [
         {
           "model": "Mustang Convertible",
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -1466,6 +1553,32 @@
       "models": [
         {
           "model": "F-150 XLTin Kimberley",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "C-Max Hybrid SE",
+      "count": 1,
+      "file": "inventory/used-ford-c-max-hybrid-se.json",
+      "models": [
+        {
+          "model": "C-Max Hybrid SE",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Mustang GT Premium",
+      "count": 1,
+      "file": "inventory/used-ford-mustang-gt-premium.json",
+      "models": [
+        {
+          "model": "Mustang GT Premium",
           "count": 1
         }
       ]

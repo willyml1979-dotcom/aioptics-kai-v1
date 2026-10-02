@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T22:56:26+00:00",
+  "generated_at": "2026-10-02T04:56:53+00:00",
   "condition": "used",
   "make": "ram",
   "files": [
@@ -178,12 +178,12 @@
       "make": "ram",
       "model": "1500",
       "shard": "Lower Mainland",
-      "count": 21,
+      "count": 23,
       "file": "inventory/used-ram-1500-lower-mainland.json",
       "models": [
         {
           "model": "1500",
-          "count": 21
+          "count": 23
         }
       ]
     },
@@ -234,12 +234,12 @@
       "make": "ram",
       "model": "1500",
       "shard": "sin-region",
-      "count": 3,
+      "count": 7,
       "file": "inventory/used-ram-1500-sin-region.json",
       "models": [
         {
           "model": "1500",
-          "count": 3
+          "count": 7
         }
       ]
     },
@@ -330,11 +330,15 @@
       "make": "ram",
       "model": "1500 CLASSIC",
       "shard": "sin-region",
-      "count": 2,
+      "count": 4,
       "file": "inventory/used-ram-1500-classic-sin-region.json",
       "models": [
         {
           "model": "1500 CLASSIC",
+          "count": 2
+        },
+        {
+          "model": "1500 Classic",
           "count": 2
         }
       ]
@@ -343,12 +347,12 @@
       "condition": "used",
       "make": "ram",
       "model": "1500 Quad Cab",
-      "count": 10,
+      "count": 11,
       "file": "inventory/used-ram-1500-quad-cab.json",
       "models": [
         {
           "model": "1500 Quad Cab",
-          "count": 10
+          "count": 11
         }
       ]
     },
@@ -369,12 +373,12 @@
       "condition": "used",
       "make": "ram",
       "model": "1500 Crew Cab",
-      "count": 34,
+      "count": 33,
       "file": "inventory/used-ram-1500-crew-cab.json",
       "models": [
         {
           "model": "1500 Crew Cab",
-          "count": 34
+          "count": 33
         }
       ]
     },
@@ -382,12 +386,12 @@
       "condition": "used",
       "make": "ram",
       "model": "ProMaster Cargo",
-      "count": 8,
+      "count": 10,
       "file": "inventory/used-ram-promaster-cargo.json",
       "models": [
         {
           "model": "ProMaster Cargo",
-          "count": 8
+          "count": 10
         }
       ]
     },
@@ -743,6 +747,19 @@
       "models": [
         {
           "model": "1500 Limited Longhornin Courtenay",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "ProMaster 3500",
+      "count": 1,
+      "file": "inventory/used-ram-promaster-3500.json",
+      "models": [
+        {
+          "model": "ProMaster 3500",
           "count": 1
         }
       ]

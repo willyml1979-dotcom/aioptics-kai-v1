@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01T22:56:26+00:00",
-  "snapshot": "2026-10-01T22:56:26+00:00",
+  "generated_at": "2026-10-02T04:56:53+00:00",
+  "snapshot": "2026-10-02T04:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 7,
+  "count": 9,
   "vehicles": [
     {
       "pub_id": "destination-kingsway-honda-vancouver-jm1bl1l75d1760956",
@@ -179,6 +179,53 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Duncan Hyundai"
+    },
+    {
+      "pub_id": "go-richmond-subaru-3mzbn1l71hm145613",
+      "year": 2017,
+      "make": "Mazda",
+      "model": "Mazda3 Sport",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 41536,
+      "price_cad": 18995.0,
+      "price_note": null,
+      "dealer_id": "go-richmond-subaru",
+      "vin": "3MZBN1L71HM145613",
+      "stock": "26CT602",
+      "listing_url": "https://www.gorichmondsubaru.ca/vehicles/2017/mazda/mazda3-sport/richmond/bc/71449394/?sale_class=used",
+      "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2017/mazda/mazda3-sport/richmond/bc/71449394/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T15:58:24",
+      "snapshot": "2026-10-01T16:03:00",
+      "go_url": "https://carwhisper.ca/go/go-richmond-subaru-3mzbn1l71hm145613",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Richmond Subaru"
+    },
+    {
+      "pub_id": "go-auto-brampton-chrysler-jm1bpakm4s1751478",
+      "year": 2025,
+      "make": "Mazda",
+      "model": "Mazda3 Sport",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 49800,
+      "price_cad": 25688.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "go-auto-brampton-chrysler",
+      "vin": "JM1BPAKM4S1751478",
+      "stock": "P27SA17",
+      "listing_url": "https://www.bramptonchrysler.ca/vehicles/2025/mazda/mazda3-sport/brampton/on/71070109/?sale_class=used",
+      "dealer_url": "https://www.bramptonchrysler.ca/vehicles/2025/mazda/mazda3-sport/brampton/on/71070109/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:12:14",
+      "snapshot": "2026-10-01T21:16:55",
+      "go_url": "https://carwhisper.ca/go/go-auto-brampton-chrysler-jm1bpakm4s1751478",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Auto Brampton Chrysler"
     }
   ]
 }

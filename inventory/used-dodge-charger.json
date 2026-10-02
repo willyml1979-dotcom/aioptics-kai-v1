@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01T22:56:26+00:00",
-  "snapshot": "2026-10-01T22:56:26+00:00",
+  "generated_at": "2026-10-02T04:56:53+00:00",
+  "snapshot": "2026-10-02T04:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 15,
+  "count": 16,
   "vehicles": [
     {
       "pub_id": "maple-ridge-hyundai-2c3cdxjgxjh293056",
@@ -344,6 +344,31 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Victoria Hyundai"
+    },
+    {
+      "pub_id": "go-auto-brampton-chrysler-2c3cdxct1mh681503",
+      "year": 2021,
+      "make": "Dodge",
+      "model": "Charger",
+      "body_type": "sedan",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 67172,
+      "price_cad": 38888.0,
+      "price_note": null,
+      "color": "Grey",
+      "dealer_id": "go-auto-brampton-chrysler",
+      "vin": "2C3CDXCT1MH681503",
+      "stock": "T27MA11",
+      "listing_url": "https://www.bramptonchrysler.ca/vehicles/2021/dodge/charger/brampton/on/71292389/?sale_class=used",
+      "dealer_url": "https://www.bramptonchrysler.ca/vehicles/2021/dodge/charger/brampton/on/71292389/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:04:08",
+      "snapshot": "2026-10-01T21:16:55",
+      "go_url": "https://carwhisper.ca/go/go-auto-brampton-chrysler-2c3cdxct1mh681503",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Auto Brampton Chrysler"
     }
   ]
 }

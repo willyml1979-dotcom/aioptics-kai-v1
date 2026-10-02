@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01T22:56:26+00:00",
-  "snapshot": "2026-10-01T22:56:26+00:00",
+  "generated_at": "2026-10-02T04:56:53+00:00",
+  "snapshot": "2026-10-02T04:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 15,
+  "count": 14,
   "vehicles": [
     {
       "pub_id": "carter-gm-burnaby-3gtu2vec3fg239591",
@@ -360,30 +360,6 @@
       "city": "Nanaimo",
       "province": "BC",
       "dealer_name": "Laird Wheaton GM"
-    },
-    {
-      "pub_id": "go-langley-subaru-3gtuuced6rg436055",
-      "year": 2024,
-      "make": "GMC",
-      "model": "Sierra 1500 Crew Cab",
-      "propulsion": "gas",
-      "propulsion_source": "stated",
-      "condition": "used",
-      "odometer_km": 34223,
-      "price_cad": 54199.0,
-      "price_note": null,
-      "color": "White",
-      "dealer_id": "go-langley-subaru",
-      "vin": "3GTUUCED6RG436055",
-      "stock": "26OU786",
-      "listing_url": "https://www.langleysubaru.com/vehicles/2024/gmc/sierra-1500-crew-cab/surrey/bc/71178900/?sale_class=used",
-      "dealer_url": "https://www.langleysubaru.com/vehicles/2024/gmc/sierra-1500-crew-cab/surrey/bc/71178900/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T06:13:39",
-      "snapshot": "2026-09-26T07:50:30",
-      "go_url": "https://carwhisper.ca/go/go-langley-subaru-3gtuuced6rg436055",
-      "city": null,
-      "province": "BC",
-      "dealer_name": "Go Langley Subaru"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T22:56:26+00:00",
+  "generated_at": "2026-10-02T04:56:53+00:00",
   "condition": "used",
   "make": "subaru",
   "files": [
@@ -91,12 +91,12 @@
       "make": "subaru",
       "model": "Crosstrek",
       "shard": "sin-region",
-      "count": 25,
+      "count": 27,
       "file": "inventory/used-subaru-crosstrek-sin-region.json",
       "models": [
         {
           "model": "Crosstrek",
-          "count": 25
+          "count": 27
         }
       ]
     },
@@ -188,12 +188,12 @@
       "make": "subaru",
       "model": "Outback",
       "shard": "sin-region",
-      "count": 27,
+      "count": 25,
       "file": "inventory/used-subaru-outback-sin-region.json",
       "models": [
         {
           "model": "Outback",
-          "count": 27
+          "count": 25
         }
       ]
     },
@@ -286,12 +286,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "sin-region",
-      "count": 28,
+      "count": 33,
       "file": "inventory/used-subaru-forester-sin-region.json",
       "models": [
         {
           "model": "Forester",
-          "count": 28
+          "count": 33
         }
       ]
     },
@@ -338,12 +338,12 @@
       "condition": "used",
       "make": "subaru",
       "model": "BRZ",
-      "count": 6,
+      "count": 7,
       "file": "inventory/used-subaru-brz.json",
       "models": [
         {
           "model": "BRZ",
-          "count": 6
+          "count": 7
         }
       ]
     },
@@ -429,15 +429,11 @@
       "condition": "used",
       "make": "subaru",
       "model": "Crosstrek LIMITED",
-      "count": 2,
+      "count": 1,
       "file": "inventory/used-subaru-crosstrek-limited.json",
       "models": [
         {
           "model": "Crosstrek LIMITED",
-          "count": 1
-        },
-        {
-          "model": "Crosstrek Limited",
           "count": 1
         }
       ]
@@ -555,6 +551,19 @@
       "models": [
         {
           "model": "WRX Sport Manual",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Forester 2.5i Limited w-EyeSight Pkg",
+      "count": 1,
+      "file": "inventory/used-subaru-forester-2-5i-limited-w-eyesight-pkg.json",
+      "models": [
+        {
+          "model": "Forester 2.5i Limited w-EyeSight Pkg",
           "count": 1
         }
       ]

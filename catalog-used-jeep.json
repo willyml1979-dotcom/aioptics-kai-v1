@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T22:56:26+00:00",
+  "generated_at": "2026-10-02T04:56:53+00:00",
   "condition": "used",
   "make": "jeep",
   "files": [
@@ -164,7 +164,7 @@
       "make": "jeep",
       "model": "GRAND CHEROKEE",
       "shard": "sin-region",
-      "count": 2,
+      "count": 5,
       "file": "inventory/used-jeep-grand-cherokee-sin-region.json",
       "models": [
         {
@@ -173,7 +173,7 @@
         },
         {
           "model": "Grand Cherokee",
-          "count": 1
+          "count": 4
         }
       ]
     },
@@ -289,6 +289,20 @@
     {
       "condition": "used",
       "make": "jeep",
+      "model": "CHEROKEE",
+      "shard": "sin-region",
+      "count": 1,
+      "file": "inventory/used-jeep-cherokee-sin-region.json",
+      "models": [
+        {
+          "model": "Cherokee",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
       "model": "WRANGLER",
       "shard": "Kootenays",
       "count": 5,
@@ -365,12 +379,16 @@
       "make": "jeep",
       "model": "WRANGLER",
       "shard": "sin-region",
-      "count": 1,
+      "count": 7,
       "file": "inventory/used-jeep-wrangler-sin-region.json",
       "models": [
         {
           "model": "WRANGLER",
           "count": 1
+        },
+        {
+          "model": "Wrangler",
+          "count": 6
         }
       ]
     },
@@ -457,7 +475,7 @@
       "make": "jeep",
       "model": "COMPASS",
       "shard": "sin-region",
-      "count": 2,
+      "count": 7,
       "file": "inventory/used-jeep-compass-sin-region.json",
       "models": [
         {
@@ -466,7 +484,7 @@
         },
         {
           "model": "Compass",
-          "count": 1
+          "count": 6
         }
       ]
     },
@@ -487,12 +505,12 @@
       "condition": "used",
       "make": "jeep",
       "model": "Wrangler Unlimited",
-      "count": 18,
+      "count": 26,
       "file": "inventory/used-jeep-wrangler-unlimited.json",
       "models": [
         {
           "model": "Wrangler Unlimited",
-          "count": 18
+          "count": 26
         }
       ]
     },
@@ -500,7 +518,7 @@
       "condition": "used",
       "make": "jeep",
       "model": "Wrangler 4xe",
-      "count": 20,
+      "count": 22,
       "file": "inventory/used-jeep-wrangler-4xe.json",
       "models": [
         {
@@ -509,7 +527,7 @@
         },
         {
           "model": "Wrangler 4xe",
-          "count": 19
+          "count": 21
         }
       ]
     },
@@ -556,12 +574,12 @@
       "condition": "used",
       "make": "jeep",
       "model": "Grand Cherokee L",
-      "count": 10,
+      "count": 13,
       "file": "inventory/used-jeep-grand-cherokee-l.json",
       "models": [
         {
           "model": "Grand Cherokee L",
-          "count": 10
+          "count": 13
         }
       ]
     },
@@ -569,12 +587,12 @@
       "condition": "used",
       "make": "jeep",
       "model": "Wagoneer 4WD",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-jeep-wagoneer-4wd.json",
       "models": [
         {
           "model": "Wagoneer 4WD",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -838,6 +856,19 @@
       "models": [
         {
           "model": "Wrangler JK",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Cherokee Trailhawk 4x4",
+      "count": 1,
+      "file": "inventory/used-jeep-cherokee-trailhawk-4x4.json",
+      "models": [
+        {
+          "model": "Cherokee Trailhawk 4x4",
           "count": 1
         }
       ]

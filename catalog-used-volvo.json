@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T22:56:26+00:00",
+  "generated_at": "2026-10-02T04:56:53+00:00",
   "condition": "used",
   "make": "volvo",
   "files": [
@@ -20,12 +20,12 @@
       "condition": "used",
       "make": "volvo",
       "model": "XC40",
-      "count": 13,
+      "count": 14,
       "file": "inventory/used-volvo-xc40.json",
       "models": [
         {
           "model": "XC40",
-          "count": 13
+          "count": 14
         }
       ]
     },
@@ -46,12 +46,12 @@
       "condition": "used",
       "make": "volvo",
       "model": "XC90",
-      "count": 20,
+      "count": 22,
       "file": "inventory/used-volvo-xc90.json",
       "models": [
         {
           "model": "XC90",
-          "count": 20
+          "count": 22
         }
       ]
     },
@@ -71,26 +71,13 @@
     {
       "condition": "used",
       "make": "volvo",
-      "model": "V60 Cross Country",
-      "count": 3,
-      "file": "inventory/used-volvo-v60-cross-country.json",
-      "models": [
-        {
-          "model": "V60 Cross Country",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volvo",
       "model": "XC60",
-      "count": 13,
+      "count": 15,
       "file": "inventory/used-volvo-xc60.json",
       "models": [
         {
           "model": "XC60",
-          "count": 13
+          "count": 15
         }
       ]
     },
@@ -104,6 +91,19 @@
         {
           "model": "XC40 Recharge Pure Electric",
           "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volvo",
+      "model": "V60 Cross Country",
+      "count": 2,
+      "file": "inventory/used-volvo-v60-cross-country.json",
+      "models": [
+        {
+          "model": "V60 Cross Country",
+          "count": 2
         }
       ]
     },
@@ -182,6 +182,19 @@
         {
           "model": "XC90 PLUS DARK THEME",
           "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volvo",
+      "model": "XC60 Recharge",
+      "count": 3,
+      "file": "inventory/used-volvo-xc60-recharge.json",
+      "models": [
+        {
+          "model": "XC60 Recharge",
+          "count": 3
         }
       ]
     }

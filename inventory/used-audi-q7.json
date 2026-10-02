@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01T22:56:26+00:00",
-  "snapshot": "2026-10-01T22:56:26+00:00",
+  "generated_at": "2026-10-02T04:56:53+00:00",
+  "snapshot": "2026-10-02T04:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 19,
+  "count": 20,
   "vehicles": [
     {
       "pub_id": "tricity-mitsubishi-wa1laaf74jd039294",
@@ -424,6 +424,31 @@
       "city": "Nanaimo",
       "province": "BC",
       "dealer_name": "Harbourview Volkswagen"
+    },
+    {
+      "pub_id": "go-auto-brampton-chrysler-wa1acbf74pd025444",
+      "year": 2023,
+      "make": "Audi",
+      "model": "Q7",
+      "body_type": "suv",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 20520,
+      "price_cad": 47888.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "go-auto-brampton-chrysler",
+      "vin": "WA1ACBF74PD025444",
+      "stock": "T27PA08",
+      "listing_url": "https://www.bramptonchrysler.ca/vehicles/2023/audi/q7/brampton/on/71433611/?sale_class=used",
+      "dealer_url": "https://www.bramptonchrysler.ca/vehicles/2023/audi/q7/brampton/on/71433611/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:05:28",
+      "snapshot": "2026-10-01T21:16:55",
+      "go_url": "https://carwhisper.ca/go/go-auto-brampton-chrysler-wa1acbf74pd025444",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Auto Brampton Chrysler"
     }
   ]
 }

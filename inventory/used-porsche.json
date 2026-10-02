@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01T22:56:26+00:00",
-  "snapshot": "2026-10-01T22:56:26+00:00",
+  "generated_at": "2026-10-02T04:56:53+00:00",
+  "snapshot": "2026-10-02T04:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 22,
+  "count": 23,
   "vehicles": [
     {
       "pub_id": "maple-ridge-chrysler-jeep-dodge-wp1aa2ay3kda12705",
@@ -536,6 +536,30 @@
       "city": "Nanaimo",
       "province": "BC",
       "dealer_name": "Sunshine Mountain Ford Lincoln Ltd."
+    },
+    {
+      "pub_id": "sherwood-park-hyundai-wp1aa2ay9kda08836",
+      "year": 2019,
+      "make": "Porsche",
+      "model": "Cayenne",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 103632,
+      "price_cad": 39907.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "sherwood-park-hyundai",
+      "vin": "WP1AA2AY9KDA08836",
+      "stock": "PC8836",
+      "listing_url": "https://www.sphyundai.com/vehicles/2019/porsche/cayenne/sherwood-park/ab/71421388/?sale_class=used",
+      "dealer_url": "https://www.sphyundai.com/vehicles/2019/porsche/cayenne/sherwood-park/ab/71421388/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T18:10:43",
+      "snapshot": "2026-10-01T18:21:45",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-hyundai-wp1aa2ay9kda08836",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Sherwood Park Hyundai"
     }
   ]
 }

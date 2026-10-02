@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01T22:56:26+00:00",
-  "snapshot": "2026-10-01T22:56:26+00:00",
+  "generated_at": "2026-10-02T04:56:53+00:00",
+  "snapshot": "2026-10-02T04:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 10,
+  "count": 12,
   "vehicles": [
     {
       "pub_id": "jim-pattison-chrysler-jeep-dodge-surrey-zacpdfcwxr3a16517",
@@ -250,6 +250,55 @@
       "city": "Salmon Arm",
       "province": "BC",
       "dealer_name": "Braby Motors Ltd."
+    },
+    {
+      "pub_id": "go-auto-brampton-chrysler-zacpdfdw9r3a15812",
+      "year": 2024,
+      "make": "Dodge",
+      "model": "Hornet",
+      "propulsion": "electric",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 17274,
+      "price_cad": 48888.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "go-auto-brampton-chrysler",
+      "vin": "ZACPDFDW9R3A15812",
+      "stock": "23549E",
+      "listing_url": "https://www.bramptonchrysler.ca/vehicles/2024/dodge/hornet/brampton/on/64757691/?sale_class=used",
+      "dealer_url": "https://www.bramptonchrysler.ca/vehicles/2024/dodge/hornet/brampton/on/64757691/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:08:04",
+      "snapshot": "2026-10-01T21:16:55",
+      "go_url": "https://carwhisper.ca/go/go-auto-brampton-chrysler-zacpdfdw9r3a15812",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Auto Brampton Chrysler"
+    },
+    {
+      "pub_id": "go-auto-brampton-chrysler-zacpdfdw2r3a23752",
+      "year": 2024,
+      "make": "Dodge",
+      "model": "Hornet",
+      "body_type": "suv",
+      "propulsion": "electric",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 29429,
+      "price_cad": 48888.0,
+      "price_note": null,
+      "color": "Red",
+      "dealer_id": "go-auto-brampton-chrysler",
+      "vin": "ZACPDFDW2R3A23752",
+      "stock": "23542E",
+      "listing_url": "https://www.bramptonchrysler.ca/vehicles/2024/dodge/hornet/brampton/on/65776550/?sale_class=used",
+      "dealer_url": "https://www.bramptonchrysler.ca/vehicles/2024/dodge/hornet/brampton/on/65776550/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:08:13",
+      "snapshot": "2026-10-01T21:16:55",
+      "go_url": "https://carwhisper.ca/go/go-auto-brampton-chrysler-zacpdfdw2r3a23752",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Auto Brampton Chrysler"
     }
   ]
 }

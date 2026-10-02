@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01T22:56:26+00:00",
-  "snapshot": "2026-10-01T22:56:26+00:00",
+  "generated_at": "2026-10-02T04:56:53+00:00",
+  "snapshot": "2026-10-02T04:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 20,
+  "count": 21,
   "vehicles": [
     {
       "pub_id": "go-kia-west-5ntjcddf1rh113880",
@@ -22,7 +22,7 @@
       "listing_url": "https://www.kiawest.com/vehicles/2024/hyundai/santa-cruz/coquitlam/bc/69888267/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2024/hyundai/santa-cruz/coquitlam/bc/69888267/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T00:25:09",
-      "snapshot": "2026-09-27T00:25:15",
+      "snapshot": "2026-10-01T16:03:08",
       "go_url": "https://carwhisper.ca/go/go-kia-west-5ntjcddf1rh113880",
       "region": "Lower Mainland",
       "city": "Coquitlam",
@@ -460,6 +460,30 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Duncan Hyundai"
+    },
+    {
+      "pub_id": "sherwood-park-hyundai-5ntjeddf7rh122254",
+      "year": 2024,
+      "make": "Hyundai",
+      "model": "Santa Cruz",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 47692,
+      "price_cad": 39507.0,
+      "price_note": null,
+      "color": "Blue",
+      "dealer_id": "sherwood-park-hyundai",
+      "vin": "5NTJEDDF7RH122254",
+      "stock": "26TU970",
+      "listing_url": "https://www.sphyundai.com/vehicles/2024/hyundai/santa-cruz/sherwood-park/ab/71303714/?sale_class=used",
+      "dealer_url": "https://www.sphyundai.com/vehicles/2024/hyundai/santa-cruz/sherwood-park/ab/71303714/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T18:18:44",
+      "snapshot": "2026-10-01T18:21:45",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-hyundai-5ntjeddf7rh122254",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Sherwood Park Hyundai"
     },
     {
       "pub_id": "haley-dodge-sc-5ntjcddf3rh107563",

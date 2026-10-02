@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01T22:56:26+00:00",
-  "snapshot": "2026-10-01T22:56:26+00:00",
+  "generated_at": "2026-10-02T04:56:53+00:00",
+  "snapshot": "2026-10-02T04:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 10,
+  "count": 11,
   "vehicles": [
     {
       "pub_id": "marine-chrysler-dodge-jeep-ltd-1c6rr7fgxms527507",
@@ -258,6 +258,30 @@
       "city": "Nanaimo",
       "province": "BC",
       "dealer_name": "Laird Wheaton GM"
+    },
+    {
+      "pub_id": "sherwood-park-hyundai-1c6rr7ft1ps575933",
+      "year": 2023,
+      "make": "RAM",
+      "model": "1500 Quad Cab",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 99383,
+      "price_cad": 28907.0,
+      "price_note": null,
+      "color": "Silver",
+      "dealer_id": "sherwood-park-hyundai",
+      "vin": "1C6RR7FT1PS575933",
+      "stock": "P5933",
+      "listing_url": "https://www.sphyundai.com/vehicles/2023/ram/1500-quad-cab/sherwood-park/ab/70367297/?sale_class=used",
+      "dealer_url": "https://www.sphyundai.com/vehicles/2023/ram/1500-quad-cab/sherwood-park/ab/70367297/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T18:17:37",
+      "snapshot": "2026-10-01T18:21:45",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-hyundai-1c6rr7ft1ps575933",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Sherwood Park Hyundai"
     }
   ]
 }

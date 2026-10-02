@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01T22:56:26+00:00",
-  "snapshot": "2026-10-01T22:56:26+00:00",
+  "generated_at": "2026-10-02T04:56:53+00:00",
+  "snapshot": "2026-10-02T04:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 12,
+  "count": 14,
   "vehicles": [
     {
       "pub_id": "openroad-mercedes-benz-surrey-kmumcdtc4pu116792",
@@ -271,6 +271,54 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Victoria Hyundai"
+    },
+    {
+      "pub_id": "sherwood-park-hyundai-kmumcdtc6nu024497",
+      "year": 2022,
+      "make": "Genesis",
+      "model": "GV70",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 98156,
+      "price_cad": 37507.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "sherwood-park-hyundai",
+      "vin": "KMUMCDTC6NU024497",
+      "stock": "PC4497",
+      "listing_url": "https://www.sphyundai.com/vehicles/2022/genesis/gv70/sherwood-park/ab/70745458/?sale_class=used",
+      "dealer_url": "https://www.sphyundai.com/vehicles/2022/genesis/gv70/sherwood-park/ab/70745458/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T18:13:27",
+      "snapshot": "2026-10-01T18:21:45",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-hyundai-kmumcdtc6nu024497",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Sherwood Park Hyundai"
+    },
+    {
+      "pub_id": "sherwood-park-hyundai-kmumadtb0tu264901",
+      "year": 2026,
+      "make": "Genesis",
+      "model": "GV70",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 28612,
+      "price_cad": 54907.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "sherwood-park-hyundai",
+      "vin": "KMUMADTB0TU264901",
+      "stock": "PC4901",
+      "listing_url": "https://www.sphyundai.com/vehicles/2026/genesis/gv70/sherwood-park/ab/71305325/?sale_class=used",
+      "dealer_url": "https://www.sphyundai.com/vehicles/2026/genesis/gv70/sherwood-park/ab/71305325/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T18:20:46",
+      "snapshot": "2026-10-01T18:21:45",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-hyundai-kmumadtb0tu264901",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Sherwood Park Hyundai"
     }
   ]
 }

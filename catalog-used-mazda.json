@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T22:56:26+00:00",
+  "generated_at": "2026-10-02T04:56:53+00:00",
   "condition": "used",
   "make": "mazda",
   "files": [
@@ -21,12 +21,12 @@
       "make": "mazda",
       "model": "CX-5",
       "shard": "Lower Mainland",
-      "count": 21,
+      "count": 20,
       "file": "inventory/used-mazda-cx-5-lower-mainland.json",
       "models": [
         {
           "model": "CX-5",
-          "count": 21
+          "count": 20
         }
       ]
     },
@@ -104,12 +104,12 @@
       "condition": "used",
       "make": "mazda",
       "model": "Mazda3 Sport",
-      "count": 7,
+      "count": 9,
       "file": "inventory/used-mazda-mazda3-sport.json",
       "models": [
         {
           "model": "Mazda3 Sport",
-          "count": 7
+          "count": 9
         }
       ]
     },
@@ -317,6 +317,19 @@
       "models": [
         {
           "model": "CX-30 GT",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mazda",
+      "model": "CX-5 Sport Design w-Turbo AWD",
+      "count": 1,
+      "file": "inventory/used-mazda-cx-5-sport-design-w-turbo-awd.json",
+      "models": [
+        {
+          "model": "CX-5 Sport Design w-Turbo AWD",
           "count": 1
         }
       ]

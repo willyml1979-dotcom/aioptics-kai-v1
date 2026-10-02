@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01T22:56:26+00:00",
-  "snapshot": "2026-10-01T22:56:26+00:00",
+  "generated_at": "2026-10-02T04:56:53+00:00",
+  "snapshot": "2026-10-02T04:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "sullivan-motor-products-nelson-ltd-2c3ccagg9nh265312",
@@ -145,6 +145,30 @@
       "city": "Salmon Arm",
       "province": "BC",
       "dealer_name": "Braby Motors Ltd."
+    },
+    {
+      "pub_id": "go-richmond-kia-2c3ccagg1nh203886",
+      "year": 2022,
+      "make": "Chrysler",
+      "model": "300",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 75010,
+      "price_cad": 31995.0,
+      "price_note": null,
+      "color": "Silver",
+      "dealer_id": "go-richmond-kia",
+      "vin": "2C3CCAGG1NH203886",
+      "stock": "PJ0081",
+      "listing_url": "https://www.gorichmondkia.ca/vehicles/2022/chrysler/300/richmond/bc/ad12998646/?sale_class=used",
+      "dealer_url": "https://www.gorichmondkia.ca/vehicles/2022/chrysler/300/richmond/bc/ad12998646/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T15:58:02",
+      "snapshot": "2026-10-01T16:02:38",
+      "go_url": "https://carwhisper.ca/go/go-richmond-kia-2c3ccagg1nh203886",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Richmond Kia"
     }
   ]
 }

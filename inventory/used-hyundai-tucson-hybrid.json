@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01T22:56:26+00:00",
-  "snapshot": "2026-10-01T22:56:26+00:00",
+  "generated_at": "2026-10-02T04:56:53+00:00",
+  "snapshot": "2026-10-02T04:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 28,
+  "count": 30,
   "vehicles": [
     {
       "pub_id": "maple-ridge-hyundai-km8jcca10pu117113",
@@ -698,6 +698,54 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Duncan Hyundai"
+    },
+    {
+      "pub_id": "sherwood-park-hyundai-km8jccd14ru227760",
+      "year": 2024,
+      "make": "Hyundai",
+      "model": "Tucson Hybrid",
+      "propulsion": "hybrid",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 37970,
+      "price_cad": 36507.0,
+      "price_note": null,
+      "color": "Grey",
+      "dealer_id": "sherwood-park-hyundai",
+      "vin": "KM8JCCD14RU227760",
+      "stock": "26EL298",
+      "listing_url": "https://www.sphyundai.com/vehicles/2024/hyundai/tucson-hybrid/sherwood-park/ab/70918829/?sale_class=used",
+      "dealer_url": "https://www.sphyundai.com/vehicles/2024/hyundai/tucson-hybrid/sherwood-park/ab/70918829/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T18:19:01",
+      "snapshot": "2026-10-01T18:21:45",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-hyundai-km8jccd14ru227760",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Sherwood Park Hyundai"
+    },
+    {
+      "pub_id": "sherwood-park-hyundai-km8jcdd11su253938",
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Tucson Hybrid",
+      "propulsion": "hybrid",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 84900,
+      "price_cad": 36907.0,
+      "price_note": null,
+      "color": "Grey",
+      "dealer_id": "sherwood-park-hyundai",
+      "vin": "KM8JCDD11SU253938",
+      "stock": "26SF186",
+      "listing_url": "https://www.sphyundai.com/vehicles/2025/hyundai/tucson-hybrid/sherwood-park/ab/70724346/?sale_class=used",
+      "dealer_url": "https://www.sphyundai.com/vehicles/2025/hyundai/tucson-hybrid/sherwood-park/ab/70724346/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T18:20:21",
+      "snapshot": "2026-10-01T18:21:45",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-hyundai-km8jcdd11su253938",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Sherwood Park Hyundai"
     }
   ]
 }

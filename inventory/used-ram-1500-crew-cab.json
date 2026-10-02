@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01T22:56:26+00:00",
-  "snapshot": "2026-10-01T22:56:26+00:00",
+  "generated_at": "2026-10-02T04:56:53+00:00",
+  "snapshot": "2026-10-02T04:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 34,
+  "count": 33,
   "vehicles": [
     {
       "pub_id": "murray-kia-abbotsford-3c6rr7kg2mg536084",
@@ -29,31 +29,6 @@
       "city": "Abbotsford",
       "province": "BC",
       "dealer_name": "Murray Kia Abbotsford"
-    },
-    {
-      "pub_id": "go-kia-west-1c6rr7mm4js315237",
-      "year": 2018,
-      "make": "RAM",
-      "model": "1500 Crew Cab",
-      "propulsion": "diesel",
-      "propulsion_source": "stated",
-      "condition": "used",
-      "odometer_km": 128499,
-      "price_cad": 28498.0,
-      "price_note": null,
-      "color": "Grey",
-      "dealer_id": "go-kia-west",
-      "vin": "1C6RR7MM4JS315237",
-      "stock": "NE69394",
-      "listing_url": "https://www.kiawest.com/vehicles/2018/ram/1500-crew-cab/coquitlam/bc/71194465/?sale_class=used",
-      "dealer_url": "https://www.kiawest.com/vehicles/2018/ram/1500-crew-cab/coquitlam/bc/71194465/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:06:47",
-      "snapshot": "2026-09-27T00:25:15",
-      "go_url": "https://carwhisper.ca/go/go-kia-west-1c6rr7mm4js315237",
-      "region": "Lower Mainland",
-      "city": "Coquitlam",
-      "province": "BC",
-      "dealer_name": "Go Kia West"
     },
     {
       "pub_id": "jim-pattison-chrysler-jeep-dodge-surrey-3c6rr7kg6mg705085",
@@ -331,31 +306,6 @@
       "city": "Richmond",
       "province": "BC",
       "dealer_name": "Richmond Hyundai"
-    },
-    {
-      "pub_id": "go-kia-west-1c6srfrt8rn148967",
-      "year": 2024,
-      "make": "RAM",
-      "model": "1500 Crew Cab",
-      "propulsion": "gas",
-      "propulsion_source": "stated",
-      "condition": "used",
-      "odometer_km": 82259,
-      "price_cad": 59698.0,
-      "price_note": null,
-      "color": "Black",
-      "dealer_id": "go-kia-west",
-      "vin": "1C6SRFRT8RN148967",
-      "stock": "PW1382",
-      "listing_url": "https://www.kiawest.com/vehicles/2024/ram/1500-crew-cab/coquitlam/bc/70974788/?sale_class=used",
-      "dealer_url": "https://www.kiawest.com/vehicles/2024/ram/1500-crew-cab/coquitlam/bc/70974788/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T13:44:31",
-      "snapshot": "2026-09-27T00:25:15",
-      "go_url": "https://carwhisper.ca/go/go-kia-west-1c6srfrt8rn148967",
-      "region": "Lower Mainland",
-      "city": "Coquitlam",
-      "province": "BC",
-      "dealer_name": "Go Kia West"
     },
     {
       "pub_id": "jim-pattison-chrysler-jeep-dodge-surrey-1c6srfht9rn102629",
@@ -866,6 +816,30 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Island Chevrolet Buick GMC"
+    },
+    {
+      "pub_id": "go-richmond-kia-1c6srflp7tn274403",
+      "year": 2026,
+      "make": "RAM",
+      "model": "1500 Crew Cab",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 25564,
+      "price_cad": 63888.0,
+      "price_note": null,
+      "color": "Grey",
+      "dealer_id": "go-richmond-kia",
+      "vin": "1C6SRFLP7TN274403",
+      "stock": "PF0106",
+      "listing_url": "https://www.gorichmondkia.ca/vehicles/2026/ram/1500-crew-cab/richmond/bc/ad12998642/?sale_class=used",
+      "dealer_url": "https://www.gorichmondkia.ca/vehicles/2026/ram/1500-crew-cab/richmond/bc/ad12998642/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T15:59:59",
+      "snapshot": "2026-10-01T16:02:38",
+      "go_url": "https://carwhisper.ca/go/go-richmond-kia-1c6srflp7tn274403",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Richmond Kia"
     }
   ]
 }

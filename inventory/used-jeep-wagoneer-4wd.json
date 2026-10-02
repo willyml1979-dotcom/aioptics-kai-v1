@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01T22:56:26+00:00",
-  "snapshot": "2026-10-01T22:56:26+00:00",
+  "generated_at": "2026-10-02T04:56:53+00:00",
+  "snapshot": "2026-10-02T04:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "go-langley-mitsubishi-1c4sjvdt4ns179887",
@@ -26,6 +26,31 @@
       "city": "Surrey",
       "province": "BC",
       "dealer_name": "Go Langley Mitsubishi"
+    },
+    {
+      "pub_id": "go-auto-brampton-chrysler-1c4sjvdt0ns177649",
+      "year": 2022,
+      "make": "Jeep",
+      "model": "Wagoneer 4WD",
+      "body_type": "suv",
+      "propulsion": "hybrid",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 51718,
+      "price_cad": 50888.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "go-auto-brampton-chrysler",
+      "vin": "1C4SJVDT0NS177649",
+      "stock": "T27NA10",
+      "listing_url": "https://www.bramptonchrysler.ca/vehicles/2022/jeep/wagoneer-4wd/brampton/on/71186473/?sale_class=used",
+      "dealer_url": "https://www.bramptonchrysler.ca/vehicles/2022/jeep/wagoneer-4wd/brampton/on/71186473/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:05:02",
+      "snapshot": "2026-10-01T21:16:55",
+      "go_url": "https://carwhisper.ca/go/go-auto-brampton-chrysler-1c4sjvdt0ns177649",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Auto Brampton Chrysler"
     }
   ]
 }

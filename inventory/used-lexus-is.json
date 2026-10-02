@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01T22:56:26+00:00",
-  "snapshot": "2026-10-01T22:56:26+00:00",
+  "generated_at": "2026-10-02T04:56:53+00:00",
+  "snapshot": "2026-10-02T04:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "jim-pattison-volvo-cars-surrey-jthc81d28k5036966",
@@ -55,6 +55,31 @@
       "city": "Burnaby",
       "province": "BC",
       "dealer_name": "Destination Burnaby Honda (Happy Honda)"
+    },
+    {
+      "pub_id": "go-auto-brampton-chrysler-jthc81f27n5049919",
+      "year": 2022,
+      "make": "Lexus",
+      "model": "IS",
+      "body_type": "sedan",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 26328,
+      "price_cad": 38888.0,
+      "price_note": null,
+      "color": "Silver",
+      "dealer_id": "go-auto-brampton-chrysler",
+      "vin": "JTHC81F27N5049919",
+      "stock": "P27NA10",
+      "listing_url": "https://www.bramptonchrysler.ca/vehicles/2022/lexus/is-sedan/brampton/on/70768515/?sale_class=used",
+      "dealer_url": "https://www.bramptonchrysler.ca/vehicles/2022/lexus/is-sedan/brampton/on/70768515/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:05:11",
+      "snapshot": "2026-10-01T21:16:55",
+      "go_url": "https://carwhisper.ca/go/go-auto-brampton-chrysler-jthc81f27n5049919",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Auto Brampton Chrysler"
     }
   ]
 }

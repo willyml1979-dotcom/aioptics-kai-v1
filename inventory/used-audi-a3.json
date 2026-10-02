@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01T22:56:26+00:00",
-  "snapshot": "2026-10-01T22:56:26+00:00",
+  "generated_at": "2026-10-02T04:56:53+00:00",
+  "snapshot": "2026-10-02T04:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "go-langley-mitsubishi-waugucgy4ta018058",
@@ -55,6 +55,31 @@
       "city": "Vernon",
       "province": "BC",
       "dealer_name": "Hilltop Subaru"
+    },
+    {
+      "pub_id": "go-auto-brampton-chrysler-waugucgy4ta029593",
+      "year": 2026,
+      "make": "Audi",
+      "model": "A3",
+      "body_type": "sedan",
+      "propulsion": "hybrid",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 5813,
+      "price_cad": 39688.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "go-auto-brampton-chrysler",
+      "vin": "WAUGUCGY4TA029593",
+      "stock": "P27TA01",
+      "listing_url": "https://www.bramptonchrysler.ca/vehicles/2026/audi/a3-sedan/brampton/on/70694871/?sale_class=used",
+      "dealer_url": "https://www.bramptonchrysler.ca/vehicles/2026/audi/a3-sedan/brampton/on/70694871/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:14:32",
+      "snapshot": "2026-10-01T21:16:55",
+      "go_url": "https://carwhisper.ca/go/go-auto-brampton-chrysler-waugucgy4ta029593",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Auto Brampton Chrysler"
     }
   ]
 }

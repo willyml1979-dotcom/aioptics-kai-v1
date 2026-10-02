@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01T22:56:26+00:00",
-  "snapshot": "2026-10-01T22:56:26+00:00",
+  "generated_at": "2026-10-02T04:56:53+00:00",
+  "snapshot": "2026-10-02T04:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "kia-south-vancouver-w1n4m4hb1lw053495",
@@ -31,6 +31,30 @@
       "dealer_name": "Kia South Vancouver"
     },
     {
+      "pub_id": "sherwood-park-hyundai-w1n4m4hb4nw247750",
+      "year": 2022,
+      "make": "Mercedes-Benz",
+      "model": "GLB",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 56943,
+      "price_cad": 29907.0,
+      "price_note": null,
+      "color": "Grey",
+      "dealer_id": "sherwood-park-hyundai",
+      "vin": "W1N4M4HB4NW247750",
+      "stock": "P7750",
+      "listing_url": "https://www.sphyundai.com/vehicles/2022/mercedes-benz/glb/sherwood-park/ab/70367293/?sale_class=used",
+      "dealer_url": "https://www.sphyundai.com/vehicles/2022/mercedes-benz/glb/sherwood-park/ab/70367293/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T18:14:30",
+      "snapshot": "2026-10-01T18:21:45",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-hyundai-w1n4m4hb4nw247750",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Sherwood Park Hyundai"
+    },
+    {
       "pub_id": "go-richmond-subaru-w1n4m4hb8nw205579",
       "year": 2022,
       "make": "Mercedes-Benz",
@@ -48,7 +72,7 @@
       "listing_url": "https://www.gorichmondsubaru.ca/vehicles/2022/mercedes-benz/glb/richmond/bc/71271415/?sale_class=used",
       "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2022/mercedes-benz/glb/richmond/bc/71271415/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T06:38:59",
-      "snapshot": "2026-09-26T08:13:16",
+      "snapshot": "2026-10-01T16:03:00",
       "go_url": "https://carwhisper.ca/go/go-richmond-subaru-w1n4m4hb8nw205579",
       "city": null,
       "province": "BC",

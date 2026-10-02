@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T22:56:26+00:00",
+  "generated_at": "2026-10-02T04:56:53+00:00",
   "condition": "used",
   "make": "volkswagen",
   "files": [
@@ -22,12 +22,12 @@
       "make": "volkswagen",
       "model": "Tiguan",
       "shard": "Lower Mainland",
-      "count": 34,
+      "count": 33,
       "file": "inventory/used-volkswagen-tiguan-lower-mainland.json",
       "models": [
         {
           "model": "Tiguan",
-          "count": 34
+          "count": 33
         }
       ]
     },
@@ -92,12 +92,12 @@
       "make": "volkswagen",
       "model": "Tiguan",
       "shard": "sin-region",
-      "count": 7,
+      "count": 14,
       "file": "inventory/used-volkswagen-tiguan-sin-region.json",
       "models": [
         {
           "model": "Tiguan",
-          "count": 7
+          "count": 14
         }
       ]
     },
@@ -190,12 +190,12 @@
       "make": "volkswagen",
       "model": "Taos",
       "shard": "sin-region",
-      "count": 6,
+      "count": 13,
       "file": "inventory/used-volkswagen-taos-sin-region.json",
       "models": [
         {
           "model": "Taos",
-          "count": 6
+          "count": 13
         }
       ]
     },
@@ -274,12 +274,12 @@
       "make": "volkswagen",
       "model": "Jetta",
       "shard": "sin-region",
-      "count": 4,
+      "count": 5,
       "file": "inventory/used-volkswagen-jetta-sin-region.json",
       "models": [
         {
           "model": "Jetta",
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -371,12 +371,12 @@
       "make": "volkswagen",
       "model": "Atlas",
       "shard": "sin-region",
-      "count": 2,
+      "count": 6,
       "file": "inventory/used-volkswagen-atlas-sin-region.json",
       "models": [
         {
           "model": "Atlas",
-          "count": 2
+          "count": 6
         }
       ]
     },
@@ -397,12 +397,12 @@
       "condition": "used",
       "make": "volkswagen",
       "model": "Golf GTI",
-      "count": 8,
+      "count": 7,
       "file": "inventory/used-volkswagen-golf-gti.json",
       "models": [
         {
           "model": "Golf GTI",
-          "count": 8
+          "count": 7
         }
       ]
     },
@@ -410,12 +410,12 @@
       "condition": "used",
       "make": "volkswagen",
       "model": "Atlas Cross Sport",
-      "count": 17,
+      "count": 18,
       "file": "inventory/used-volkswagen-atlas-cross-sport.json",
       "models": [
         {
           "model": "Atlas Cross Sport",
-          "count": 17
+          "count": 18
         }
       ]
     },
@@ -429,19 +429,6 @@
         {
           "model": "ID.4",
           "count": 10
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Jetta GLI",
-      "count": 5,
-      "file": "inventory/used-volkswagen-jetta-gli.json",
-      "models": [
-        {
-          "model": "Jetta GLI",
-          "count": 5
         }
       ]
     },
@@ -498,6 +485,19 @@
         {
           "model": "ID. Buzz",
           "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volkswagen",
+      "model": "Jetta GLI",
+      "count": 4,
+      "file": "inventory/used-volkswagen-jetta-gli.json",
+      "models": [
+        {
+          "model": "Jetta GLI",
+          "count": 4
         }
       ]
     },

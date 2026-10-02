@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T22:56:26+00:00",
+  "generated_at": "2026-10-02T04:56:53+00:00",
   "condition": "used",
   "make": "mitsubishi",
   "files": [
@@ -8,12 +8,12 @@
       "make": "mitsubishi",
       "model": "RVR",
       "shard": "Lower Mainland",
-      "count": 24,
+      "count": 23,
       "file": "inventory/used-mitsubishi-rvr-lower-mainland.json",
       "models": [
         {
           "model": "RVR",
-          "count": 24
+          "count": 23
         }
       ]
     },
@@ -70,6 +70,20 @@
         {
           "model": "RVR",
           "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "RVR",
+      "shard": "sin-region",
+      "count": 1,
+      "file": "inventory/used-mitsubishi-rvr-sin-region.json",
+      "models": [
+        {
+          "model": "RVR",
+          "count": 1
         }
       ]
     },
@@ -161,12 +175,12 @@
       "make": "mitsubishi",
       "model": "Outlander",
       "shard": "sin-region",
-      "count": 5,
+      "count": 6,
       "file": "inventory/used-mitsubishi-outlander-sin-region.json",
       "models": [
         {
           "model": "Outlander",
-          "count": 5
+          "count": 6
         }
       ]
     },
@@ -174,12 +188,12 @@
       "condition": "used",
       "make": "mitsubishi",
       "model": "Eclipse Cross",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-mitsubishi-eclipse-cross.json",
       "models": [
         {
           "model": "Eclipse Cross",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -187,12 +201,12 @@
       "condition": "used",
       "make": "mitsubishi",
       "model": "Outlander PHEV",
-      "count": 38,
+      "count": 39,
       "file": "inventory/used-mitsubishi-outlander-phev.json",
       "models": [
         {
           "model": "Outlander PHEV",
-          "count": 38
+          "count": 39
         }
       ]
     },

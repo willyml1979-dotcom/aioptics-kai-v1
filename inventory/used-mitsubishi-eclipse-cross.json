@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01T22:56:26+00:00",
-  "snapshot": "2026-10-01T22:56:26+00:00",
+  "generated_at": "2026-10-02T04:56:53+00:00",
+  "snapshot": "2026-10-02T04:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 28,
+  "count": 29,
   "vehicles": [
     {
       "pub_id": "maple-ridge-hyundai-ja4at4aa5jz607383",
@@ -666,6 +666,30 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Island Ford"
+    },
+    {
+      "pub_id": "sherwood-park-hyundai-ja4atvaa3tz601204",
+      "year": 2026,
+      "make": "Mitsubishi",
+      "model": "Eclipse Cross",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 16422,
+      "price_cad": 30907.0,
+      "price_note": null,
+      "color": "Red",
+      "dealer_id": "sherwood-park-hyundai",
+      "vin": "JA4ATVAA3TZ601204",
+      "stock": "27KN326",
+      "listing_url": "https://www.sphyundai.com/vehicles/2026/mitsubishi/eclipse-cross/sherwood-park/ab/71187124/?sale_class=used",
+      "dealer_url": "https://www.sphyundai.com/vehicles/2026/mitsubishi/eclipse-cross/sherwood-park/ab/71187124/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T18:21:33",
+      "snapshot": "2026-10-01T18:21:45",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-hyundai-ja4atvaa3tz601204",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Sherwood Park Hyundai"
     }
   ]
 }

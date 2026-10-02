@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01T22:56:26+00:00",
-  "snapshot": "2026-10-01T22:56:26+00:00",
+  "generated_at": "2026-10-02T04:56:53+00:00",
+  "snapshot": "2026-10-02T04:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 41,
+  "count": 42,
   "vehicles": [
     {
       "pub_id": "carter-gm-northshore-5n1az2mh7gn123034",
@@ -187,6 +187,31 @@
       "city": "Maple Ridge",
       "province": "BC",
       "dealer_name": "Maple Ridge Hyundai"
+    },
+    {
+      "pub_id": "go-kia-west-5n1az2cs5nc123328",
+      "year": 2022,
+      "make": "Nissan",
+      "model": "Murano",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 56959,
+      "price_cad": 28998.0,
+      "price_note": null,
+      "color": "Grey",
+      "dealer_id": "go-kia-west",
+      "vin": "5N1AZ2CS5NC123328",
+      "stock": "NE61684",
+      "listing_url": "https://www.kiawest.com/vehicles/2022/nissan/murano/coquitlam/bc/71426916/?sale_class=used",
+      "dealer_url": "https://www.kiawest.com/vehicles/2022/nissan/murano/coquitlam/bc/71426916/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T15:58:38",
+      "snapshot": "2026-10-01T16:03:08",
+      "go_url": "https://carwhisper.ca/go/go-kia-west-5n1az2cs5nc123328",
+      "region": "Lower Mainland",
+      "city": "Coquitlam",
+      "province": "BC",
+      "dealer_name": "Go Kia West"
     },
     {
       "pub_id": "maple-ridge-hyundai-5n1az2ds2mc129486",

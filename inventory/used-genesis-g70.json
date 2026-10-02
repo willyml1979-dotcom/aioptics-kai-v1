@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01T22:56:26+00:00",
-  "snapshot": "2026-10-01T22:56:26+00:00",
+  "generated_at": "2026-10-02T04:56:53+00:00",
+  "snapshot": "2026-10-02T04:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 12,
+  "count": 14,
   "vehicles": [
     {
       "pub_id": "maple-ridge-hyundai-kmtg74le7mu066036",
@@ -265,6 +265,54 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Victoria Hyundai"
+    },
+    {
+      "pub_id": "sherwood-park-hyundai-kmtg64la2mu079857",
+      "year": 2021,
+      "make": "Genesis",
+      "model": "G70",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 121920,
+      "price_cad": 24507.0,
+      "price_note": null,
+      "color": "Silver",
+      "dealer_id": "sherwood-park-hyundai",
+      "vin": "KMTG64LA2MU079857",
+      "stock": "PC9857",
+      "listing_url": "https://www.sphyundai.com/vehicles/2021/genesis/g70/sherwood-park/ab/71073532/?sale_class=used",
+      "dealer_url": "https://www.sphyundai.com/vehicles/2021/genesis/g70/sherwood-park/ab/71073532/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T18:11:29",
+      "snapshot": "2026-10-01T18:21:45",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-hyundai-kmtg64la2mu079857",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Sherwood Park Hyundai"
+    },
+    {
+      "pub_id": "sherwood-park-hyundai-kmtg64la8mu079751",
+      "year": 2021,
+      "make": "Genesis",
+      "model": "G70",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 52787,
+      "price_cad": 26907.0,
+      "price_note": null,
+      "color": "Grey",
+      "dealer_id": "sherwood-park-hyundai",
+      "vin": "KMTG64LA8MU079751",
+      "stock": "P9751",
+      "listing_url": "https://www.sphyundai.com/vehicles/2021/genesis/g70/sherwood-park/ab/70268140/?sale_class=used",
+      "dealer_url": "https://www.sphyundai.com/vehicles/2021/genesis/g70/sherwood-park/ab/70268140/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T18:11:19",
+      "snapshot": "2026-10-01T18:21:45",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-hyundai-kmtg64la8mu079751",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Sherwood Park Hyundai"
     }
   ]
 }

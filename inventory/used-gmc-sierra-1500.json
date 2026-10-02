@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01T22:56:26+00:00",
-  "snapshot": "2026-10-01T22:56:26+00:00",
+  "generated_at": "2026-10-02T04:56:53+00:00",
+  "snapshot": "2026-10-02T04:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 21,
+  "count": 22,
   "vehicles": [
     {
       "pub_id": "maple-ridge-hyundai-3gtu2uecxeg382109",
@@ -468,6 +468,30 @@
       "city": "Nanaimo",
       "province": "BC",
       "dealer_name": "Nanaimo Toyota"
+    },
+    {
+      "pub_id": "go-langley-subaru-3gtuuced6rg436055",
+      "year": 2024,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 34223,
+      "price_cad": 53899.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "go-langley-subaru",
+      "vin": "3GTUUCED6RG436055",
+      "stock": "26OU786",
+      "listing_url": "https://www.langleysubaru.com/vehicles/2024/gmc/sierra-1500/surrey/bc/71178900/?sale_class=used",
+      "dealer_url": "https://www.langleysubaru.com/vehicles/2024/gmc/sierra-1500/surrey/bc/71178900/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T16:05:11",
+      "snapshot": "2026-10-01T16:08:02",
+      "go_url": "https://carwhisper.ca/go/go-langley-subaru-3gtuuced6rg436055",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Langley Subaru"
     }
   ]
 }

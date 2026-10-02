@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T22:56:26+00:00",
+  "generated_at": "2026-10-02T04:56:53+00:00",
   "condition": "used",
   "make": "nissan",
   "files": [
@@ -22,12 +22,12 @@
       "make": "nissan",
       "model": "Rogue",
       "shard": "Lower Mainland",
-      "count": 34,
+      "count": 33,
       "file": "inventory/used-nissan-rogue-lower-mainland.json",
       "models": [
         {
           "model": "Rogue",
-          "count": 34
+          "count": 33
         }
       ]
     },
@@ -148,12 +148,12 @@
       "condition": "used",
       "make": "nissan",
       "model": "Sentra",
-      "count": 35,
+      "count": 34,
       "file": "inventory/used-nissan-sentra.json",
       "models": [
         {
           "model": "Sentra",
-          "count": 35
+          "count": 34
         }
       ]
     },
@@ -174,7 +174,7 @@
       "condition": "used",
       "make": "nissan",
       "model": "Altima",
-      "count": 16,
+      "count": 17,
       "file": "inventory/used-nissan-altima.json",
       "models": [
         {
@@ -183,7 +183,7 @@
         },
         {
           "model": "Altima",
-          "count": 15
+          "count": 16
         }
       ]
     },
@@ -191,12 +191,12 @@
       "condition": "used",
       "make": "nissan",
       "model": "Qashqai",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-nissan-qashqai.json",
       "models": [
         {
           "model": "Qashqai",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -204,8 +204,37 @@
       "condition": "used",
       "make": "nissan",
       "model": "Pathfinder",
-      "count": 42,
-      "file": "inventory/used-nissan-pathfinder.json",
+      "shard": "Lower Mainland",
+      "count": 12,
+      "file": "inventory/used-nissan-pathfinder-lower-mainland.json",
+      "models": [
+        {
+          "model": "Pathfinder",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Pathfinder",
+      "shard": "Norte/Cariboo",
+      "count": 4,
+      "file": "inventory/used-nissan-pathfinder-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Pathfinder",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Pathfinder",
+      "shard": "Okanagan",
+      "count": 15,
+      "file": "inventory/used-nissan-pathfinder-okanagan.json",
       "models": [
         {
           "model": "PATHFINDER",
@@ -213,7 +242,49 @@
         },
         {
           "model": "Pathfinder",
-          "count": 41
+          "count": 14
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Pathfinder",
+      "shard": "Thompson-Okanagan",
+      "count": 1,
+      "file": "inventory/used-nissan-pathfinder-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "Pathfinder",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Pathfinder",
+      "shard": "Vancouver Island",
+      "count": 8,
+      "file": "inventory/used-nissan-pathfinder-vancouver-island.json",
+      "models": [
+        {
+          "model": "Pathfinder",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Pathfinder",
+      "shard": "sin-region",
+      "count": 4,
+      "file": "inventory/used-nissan-pathfinder-sin-region.json",
+      "models": [
+        {
+          "model": "Pathfinder",
+          "count": 4
         }
       ]
     },
@@ -303,13 +374,27 @@
     {
       "condition": "used",
       "make": "nissan",
+      "model": "Kicks",
+      "shard": "sin-region",
+      "count": 1,
+      "file": "inventory/used-nissan-kicks-sin-region.json",
+      "models": [
+        {
+          "model": "Kicks",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
       "model": "Murano",
-      "count": 41,
+      "count": 42,
       "file": "inventory/used-nissan-murano.json",
       "models": [
         {
           "model": "Murano",
-          "count": 41
+          "count": 42
         }
       ]
     },
@@ -526,19 +611,6 @@
         {
           "model": "GT-R",
           "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Altima WS",
-      "count": 1,
-      "file": "inventory/used-nissan-altima-ws.json",
-      "models": [
-        {
-          "model": "Altima WS",
-          "count": 1
         }
       ]
     },
@@ -785,19 +857,6 @@
       "models": [
         {
           "model": "Sentra SR",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Pathfinder 4x4 Platinum",
-      "count": 1,
-      "file": "inventory/used-nissan-pathfinder-4x4-platinum.json",
-      "models": [
-        {
-          "model": "Pathfinder 4x4 Platinum",
           "count": 1
         }
       ]

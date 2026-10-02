@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01T22:56:26+00:00",
-  "snapshot": "2026-10-01T22:56:26+00:00",
+  "generated_at": "2026-10-02T04:56:53+00:00",
+  "snapshot": "2026-10-02T04:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 28,
+  "count": 29,
   "vehicles": [
     {
       "pub_id": "go-kia-west-jn1bj1cr5kw317121",
@@ -22,7 +22,7 @@
       "listing_url": "https://www.kiawest.com/vehicles/2019/nissan/qashqai/coquitlam/bc/70511836/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2019/nissan/qashqai/coquitlam/bc/70511836/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T02:33:04",
-      "snapshot": "2026-09-27T00:25:15",
+      "snapshot": "2026-10-01T16:03:08",
       "go_url": "https://carwhisper.ca/go/go-kia-west-jn1bj1cr5kw317121",
       "region": "Lower Mainland",
       "city": "Coquitlam",
@@ -134,7 +134,7 @@
       "listing_url": "https://www.kiawest.com/vehicles/2023/nissan/qashqai/coquitlam/bc/71133528/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2023/nissan/qashqai/coquitlam/bc/71133528/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T00:24:39",
-      "snapshot": "2026-09-27T00:25:15",
+      "snapshot": "2026-10-01T16:03:08",
       "go_url": "https://carwhisper.ca/go/go-kia-west-jn1bj1aw0pw113746",
       "region": "Lower Mainland",
       "city": "Coquitlam",
@@ -650,6 +650,30 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Campus Nissan"
+    },
+    {
+      "pub_id": "sherwood-park-hyundai-jn1bj1bw6mw439139",
+      "year": 2021,
+      "make": "Nissan",
+      "model": "Qashqai",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 88558,
+      "price_cad": 19907.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "sherwood-park-hyundai",
+      "vin": "JN1BJ1BW6MW439139",
+      "stock": "26TU570",
+      "listing_url": "https://www.sphyundai.com/vehicles/2021/nissan/qashqai/sherwood-park/ab/71173823/?sale_class=used",
+      "dealer_url": "https://www.sphyundai.com/vehicles/2021/nissan/qashqai/sherwood-park/ab/71173823/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T18:12:41",
+      "snapshot": "2026-10-01T18:21:45",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-hyundai-jn1bj1bw6mw439139",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Sherwood Park Hyundai"
     }
   ]
 }
