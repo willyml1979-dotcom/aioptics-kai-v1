@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T16:56:55+00:00",
-  "snapshot": "2026-10-02T16:56:55+00:00",
+  "generated_at": "2026-10-02T22:53:01+00:00",
+  "snapshot": "2026-10-02T22:53:01+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "duncan-hyundai-1v2nr2caxjc562806",
@@ -10,6 +10,7 @@
       "make": "Volkswagen",
       "model": "Atlas",
       "body_type": "suv",
+      "drivetrain": "AWD",
       "propulsion": "gas",
       "propulsion_source": "stated",
       "condition": "used",
@@ -94,6 +95,30 @@
       "city": "Nanaimo",
       "province": "BC",
       "dealer_name": "Harbourview Volkswagen"
+    },
+    {
+      "pub_id": "jenner-chevrolet-buick-gmc-ltd-1v2lr2ca2rc568263",
+      "year": 2024,
+      "make": "Volkswagen",
+      "model": "Atlas",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "condition": "used",
+      "odometer_km": 68575,
+      "price_cad": 38580.0,
+      "price_note": null,
+      "dealer_id": "jenner-chevrolet-buick-gmc-ltd",
+      "vin": "1V2LR2CA2RC568263",
+      "stock": "XT7562A",
+      "listing_url": "https://jennerchev.com/view/used-2024-volkswagen-atlas-1783622/",
+      "dealer_url": "https://jennerchev.com/view/used-2024-volkswagen-atlas-1783622/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T21:22:38",
+      "snapshot": "2026-09-26T21:23:26",
+      "go_url": "https://carwhisper.ca/go/jenner-chevrolet-buick-gmc-ltd-1v2lr2ca2rc568263",
+      "region": "Vancouver Island",
+      "city": "Victoria",
+      "province": "BC",
+      "dealer_name": "Jenner Chevrolet Buick GMC Ltd."
     },
     {
       "pub_id": "harbourview-volkswagen-1v2lr2ca2rc512209",

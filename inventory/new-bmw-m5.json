@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T16:56:55+00:00",
-  "snapshot": "2026-10-02T16:56:55+00:00",
+  "generated_at": "2026-10-02T22:53:01+00:00",
+  "snapshot": "2026-10-02T22:53:01+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 4,
   "vehicles": [
@@ -80,26 +80,31 @@
       "dealer_name": "Brian Jessel BMW"
     },
     {
-      "pub_id": "auto-west-bmw-wbs83fk08vcy02532",
+      "pub_id": "bmw-victoria-mini-victoria-1791388-ontario-limited-wbs83gv07vcy59550",
       "year": 2027,
       "make": "BMW",
       "model": "M5",
+      "trim": "Touring",
+      "drivetrain": "FWD",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
       "condition": "new",
-      "price_cad": 159597.0,
+      "odometer_km": 10,
+      "price_cad": 157626.0,
       "price_note": null,
       "color": "Dark grey",
-      "dealer_id": "auto-west-bmw",
-      "vin": "WBS83FK08VCY02532",
-      "stock": 13834808,
-      "listing_url": "https://www.autowestbmw.com/new/2027-BMW-M5.html",
-      "dealer_url": "https://www.autowestbmw.com/new/2027-BMW-M5.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:09:25",
-      "snapshot": "2026-09-26T18:34:44",
-      "go_url": "https://carwhisper.ca/go/auto-west-bmw-wbs83fk08vcy02532",
-      "region": "Lower Mainland",
-      "city": "Richmond",
+      "dealer_id": "bmw-victoria-mini-victoria-1791388-ontario-limited",
+      "vin": "WBS83GV07VCY59550",
+      "stock": "14362774",
+      "listing_url": "https://www.bmwvictoria.ca/new/inventory/2027-BMW-M5-id14362774.html",
+      "dealer_url": "https://www.bmwvictoria.ca/new/inventory/2027-BMW-M5-id14362774.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T14:59:16",
+      "snapshot": "2026-09-26T15:06:22",
+      "go_url": "https://carwhisper.ca/go/bmw-victoria-mini-victoria-1791388-ontario-limited-wbs83gv07vcy59550",
+      "region": "Vancouver Island",
+      "city": "Victoria",
       "province": "BC",
-      "dealer_name": "Auto West BMW"
+      "dealer_name": "BMW Victoria/MINI Victoria (1791388 Ontario Limited)"
     }
   ]
 }

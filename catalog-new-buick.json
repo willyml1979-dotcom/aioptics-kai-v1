@@ -1,44 +1,18 @@
 {
-  "generated_at": "2026-10-02T16:56:55+00:00",
+  "generated_at": "2026-10-02T22:53:01+00:00",
   "condition": "new",
   "make": "buick",
   "files": [
     {
       "condition": "new",
       "make": "buick",
-      "model": "Encore GX Sport Touringin Castlegar",
-      "count": 2,
-      "file": "inventory/new-buick-encore-gx-sport-touringin-castlegar.json",
+      "model": "Envista FWD 4dr Preferred",
+      "count": 1,
+      "file": "inventory/new-buick-envista-fwd-4dr-preferred.json",
       "models": [
         {
-          "model": "Encore GX Sport Touringin Castlegar",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "buick",
-      "model": "Envision AWDin Castlegar",
-      "count": 2,
-      "file": "inventory/new-buick-envision-awdin-castlegar.json",
-      "models": [
-        {
-          "model": "Envision AWDin Castlegar",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "buick",
-      "model": "Envista",
-      "count": 27,
-      "file": "inventory/new-buick-envista.json",
-      "models": [
-        {
-          "model": "Envista",
-          "count": 27
+          "model": "Envista FWD 4dr Preferred",
+          "count": 1
         }
       ]
     },
@@ -46,12 +20,83 @@
       "condition": "new",
       "make": "buick",
       "model": "Encore GX",
-      "count": 31,
-      "file": "inventory/new-buick-encore-gx.json",
+      "shard": "Kootenays",
+      "count": 2,
+      "file": "inventory/new-buick-encore-gx-kootenays.json",
       "models": [
         {
           "model": "Encore GX",
-          "count": 31
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "buick",
+      "model": "Encore GX",
+      "shard": "Lower Mainland",
+      "count": 17,
+      "file": "inventory/new-buick-encore-gx-lower-mainland.json",
+      "models": [
+        {
+          "model": "Encore GX",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "buick",
+      "model": "Encore GX",
+      "shard": "Okanagan",
+      "count": 6,
+      "file": "inventory/new-buick-encore-gx-okanagan.json",
+      "models": [
+        {
+          "model": "Encore GX",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "buick",
+      "model": "Encore GX",
+      "shard": "Vancouver Island",
+      "count": 19,
+      "file": "inventory/new-buick-encore-gx-vancouver-island.json",
+      "models": [
+        {
+          "model": "Encore GX",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "buick",
+      "model": "Encore GX",
+      "shard": "sin-region",
+      "count": 7,
+      "file": "inventory/new-buick-encore-gx-sin-region.json",
+      "models": [
+        {
+          "model": "Encore GX",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "buick",
+      "model": "Envision",
+      "shard": "Kootenays",
+      "count": 2,
+      "file": "inventory/new-buick-envision-kootenays.json",
+      "models": [
+        {
+          "model": "Envision",
+          "count": 2
         }
       ]
     },
@@ -60,12 +105,40 @@
       "make": "buick",
       "model": "Envision",
       "shard": "Lower Mainland",
-      "count": 25,
+      "count": 33,
       "file": "inventory/new-buick-envision-lower-mainland.json",
       "models": [
         {
           "model": "Envision",
-          "count": 25
+          "count": 33
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "buick",
+      "model": "Envision",
+      "shard": "Norte/Cariboo",
+      "count": 9,
+      "file": "inventory/new-buick-envision-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Envision",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "buick",
+      "model": "Envision",
+      "shard": "Okanagan",
+      "count": 6,
+      "file": "inventory/new-buick-envision-okanagan.json",
+      "models": [
+        {
+          "model": "Envision",
+          "count": 6
         }
       ]
     },
@@ -86,39 +159,123 @@
     {
       "condition": "new",
       "make": "buick",
+      "model": "Envision",
+      "shard": "sin-region",
+      "count": 5,
+      "file": "inventory/new-buick-envision-sin-region.json",
+      "models": [
+        {
+          "model": "Envision",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "buick",
+      "model": "Enclave AWD 4dr Preferred",
+      "count": 3,
+      "file": "inventory/new-buick-enclave-awd-4dr-preferred.json",
+      "models": [
+        {
+          "model": "Enclave AWD 4dr Preferred",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "buick",
+      "model": "Envista",
+      "shard": "Lower Mainland",
+      "count": 25,
+      "file": "inventory/new-buick-envista-lower-mainland.json",
+      "models": [
+        {
+          "model": "Envista",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "buick",
+      "model": "Envista",
+      "shard": "Norte/Cariboo",
+      "count": 3,
+      "file": "inventory/new-buick-envista-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Envista",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "buick",
+      "model": "Envista",
+      "shard": "Okanagan",
+      "count": 13,
+      "file": "inventory/new-buick-envista-okanagan.json",
+      "models": [
+        {
+          "model": "Envista",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "buick",
+      "model": "Envista",
+      "shard": "Vancouver Island",
+      "count": 12,
+      "file": "inventory/new-buick-envista-vancouver-island.json",
+      "models": [
+        {
+          "model": "Envista",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "buick",
+      "model": "Envista",
+      "shard": "sin-region",
+      "count": 3,
+      "file": "inventory/new-buick-envista-sin-region.json",
+      "models": [
+        {
+          "model": "Envista",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "buick",
       "model": "Enclave",
-      "count": 9,
+      "count": 21,
       "file": "inventory/new-buick-enclave.json",
       "models": [
         {
           "model": "Enclave",
-          "count": 9
+          "count": 21
         }
       ]
     },
     {
       "condition": "new",
       "make": "buick",
-      "model": "Envision Sport Touring Awdin Smithers",
-      "count": 1,
-      "file": "inventory/new-buick-envision-sport-touring-awdin-smithers.json",
+      "model": "Encore GX Preferred FWD",
+      "count": 2,
+      "file": "inventory/new-buick-encore-gx-preferred-fwd.json",
       "models": [
         {
-          "model": "Envision Sport Touring Awdin Smithers",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "buick",
-      "model": "Envision Sport Touringin Smithers",
-      "count": 1,
-      "file": "inventory/new-buick-envision-sport-touringin-smithers.json",
-      "models": [
-        {
-          "model": "Envision Sport Touringin Smithers",
-          "count": 1
+          "model": "Encore GX Preferred FWD",
+          "count": 2
         }
       ]
     },
@@ -131,19 +288,6 @@
       "models": [
         {
           "model": "Encore GX Preferred",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "buick",
-      "model": "Envision Preferred Awdin 100 Mile House",
-      "count": 1,
-      "file": "inventory/new-buick-envision-preferred-awdin-100-mile-house.json",
-      "models": [
-        {
-          "model": "Envision Preferred Awdin 100 Mile House",
           "count": 1
         }
       ]

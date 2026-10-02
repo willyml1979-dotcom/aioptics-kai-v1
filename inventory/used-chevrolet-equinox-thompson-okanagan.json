@@ -1,14 +1,15 @@
 {
-  "generated_at": "2026-10-02T16:56:55+00:00",
-  "snapshot": "2026-10-02T16:56:55+00:00",
+  "generated_at": "2026-10-02T22:53:01+00:00",
+  "snapshot": "2026-10-02T22:53:01+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "kamloops-honda-cars-3gnaxpeg2tl291792",
       "year": 2026,
       "make": "Chevrolet",
       "model": "Equinox",
+      "drivetrain": "AWD",
       "propulsion": "gas",
       "propulsion_source": "stated",
       "condition": "used",
@@ -28,6 +29,34 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Kamloops Honda Cars"
+    },
+    {
+      "pub_id": "bannister-chevrolet-cadillac-kamloops-ltd-3gnaxweg4rs166379",
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "AWD RS",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 15232,
+      "price_cad": 34988.0,
+      "price_note": null,
+      "color": "Gray",
+      "dealer_id": "bannister-chevrolet-cadillac-kamloops-ltd",
+      "vin": "3GNAXWEG4RS166379",
+      "stock": "486P515",
+      "listing_url": "https://www.bannisterchevkamloops.com/inventory/2024-chevrolet-equinox-rs-5L5lkupWSGunLhvRLtkFwAvdp",
+      "dealer_url": "https://www.bannisterchevkamloops.com/inventory/2024-chevrolet-equinox-rs-5L5lkupWSGunLhvRLtkFwAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T20:21:39",
+      "snapshot": "2026-09-25T20:30:13",
+      "go_url": "https://carwhisper.ca/go/bannister-chevrolet-cadillac-kamloops-ltd-3gnaxweg4rs166379",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Bannister Chevrolet Cadillac Kamloops Ltd."
     }
   ]
 }

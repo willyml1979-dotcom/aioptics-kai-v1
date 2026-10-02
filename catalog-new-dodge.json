@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T16:56:55+00:00",
+  "generated_at": "2026-10-02T22:53:01+00:00",
   "condition": "new",
   "make": "dodge",
   "files": [
@@ -8,16 +8,16 @@
       "make": "dodge",
       "model": "Durango",
       "shard": "part1",
-      "count": 32,
+      "count": 33,
       "file": "inventory/new-dodge-durango-part1.json",
       "models": [
         {
           "model": "DURANGO",
-          "count": 5
+          "count": 7
         },
         {
           "model": "Durango",
-          "count": 27
+          "count": 26
         }
       ]
     },
@@ -26,16 +26,16 @@
       "make": "dodge",
       "model": "Durango",
       "shard": "part2",
-      "count": 32,
+      "count": 33,
       "file": "inventory/new-dodge-durango-part2.json",
       "models": [
         {
           "model": "DURANGO",
-          "count": 5
+          "count": 3
         },
         {
           "model": "Durango",
-          "count": 27
+          "count": 30
         }
       ]
     },
@@ -44,12 +44,12 @@
       "make": "dodge",
       "model": "Durango",
       "shard": "part3",
-      "count": 32,
+      "count": 33,
       "file": "inventory/new-dodge-durango-part3.json",
       "models": [
         {
           "model": "Durango",
-          "count": 32
+          "count": 33
         }
       ]
     },
@@ -58,38 +58,38 @@
       "make": "dodge",
       "model": "Durango",
       "shard": "part4",
-      "count": 32,
+      "count": 31,
       "file": "inventory/new-dodge-durango-part4.json",
       "models": [
         {
           "model": "Durango",
-          "count": 32
+          "count": 31
         }
       ]
     },
     {
       "condition": "new",
       "make": "dodge",
-      "model": "CHARGER DAYTONA",
-      "count": 1,
-      "file": "inventory/new-dodge-charger-daytona.json",
+      "model": "Charger R/T 2-Door AWD",
+      "count": 14,
+      "file": "inventory/new-dodge-charger-r-t-2-door-awd.json",
       "models": [
         {
-          "model": "CHARGER DAYTONA",
-          "count": 1
+          "model": "Charger R/T 2-Door AWD",
+          "count": 14
         }
       ]
     },
     {
       "condition": "new",
       "make": "dodge",
-      "model": "HORNET",
-      "count": 1,
-      "file": "inventory/new-dodge-hornet.json",
+      "model": "Durango SXT AWD",
+      "count": 12,
+      "file": "inventory/new-dodge-durango-sxt-awd.json",
       "models": [
         {
-          "model": "HORNET",
-          "count": 1
+          "model": "Durango SXT AWD",
+          "count": 12
         }
       ]
     },
@@ -113,38 +113,12 @@
     {
       "condition": "new",
       "make": "dodge",
-      "model": "Durango Gt Plusin Terrace",
-      "count": 1,
-      "file": "inventory/new-dodge-durango-gt-plusin-terrace.json",
-      "models": [
-        {
-          "model": "Durango Gt Plusin Terrace",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "dodge",
-      "model": "Hornet R/T PHEV EAWD",
-      "count": 2,
-      "file": "inventory/new-dodge-hornet-r-t-phev-eawd.json",
-      "models": [
-        {
-          "model": "Hornet R/T PHEV EAWD",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "dodge",
-      "model": "Durango GTin Kelowna",
+      "model": "Hornet",
       "count": 3,
-      "file": "inventory/new-dodge-durango-gtin-kelowna.json",
+      "file": "inventory/new-dodge-hornet.json",
       "models": [
         {
-          "model": "Durango GTin Kelowna",
+          "model": "Hornet",
           "count": 3
         }
       ]

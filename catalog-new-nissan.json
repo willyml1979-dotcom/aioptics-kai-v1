@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T16:56:55+00:00",
+  "generated_at": "2026-10-02T22:53:01+00:00",
   "condition": "new",
   "make": "nissan",
   "files": [
@@ -21,12 +21,12 @@
       "make": "nissan",
       "model": "Kicks",
       "shard": "part1",
-      "count": 35,
+      "count": 37,
       "file": "inventory/new-nissan-kicks-part1.json",
       "models": [
         {
           "model": "Kicks",
-          "count": 35
+          "count": 37
         }
       ]
     },
@@ -35,12 +35,40 @@
       "make": "nissan",
       "model": "Kicks",
       "shard": "part2",
-      "count": 35,
+      "count": 37,
       "file": "inventory/new-nissan-kicks-part2.json",
       "models": [
         {
           "model": "Kicks",
-          "count": 35
+          "count": 37
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Kicks",
+      "shard": "part3",
+      "count": 37,
+      "file": "inventory/new-nissan-kicks-part3.json",
+      "models": [
+        {
+          "model": "Kicks",
+          "count": 37
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Kicks",
+      "shard": "part4",
+      "count": 36,
+      "file": "inventory/new-nissan-kicks-part4.json",
+      "models": [
+        {
+          "model": "Kicks",
+          "count": 36
         }
       ]
     },
@@ -48,12 +76,12 @@
       "condition": "new",
       "make": "nissan",
       "model": "Sentra",
-      "count": 21,
+      "count": 27,
       "file": "inventory/new-nissan-sentra.json",
       "models": [
         {
           "model": "Sentra",
-          "count": 21
+          "count": 27
         }
       ]
     },
@@ -61,12 +89,25 @@
       "condition": "new",
       "make": "nissan",
       "model": "Versa",
-      "count": 1,
+      "count": 2,
       "file": "inventory/new-nissan-versa.json",
       "models": [
         {
           "model": "Versa",
-          "count": 1
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Sentra S",
+      "count": 2,
+      "file": "inventory/new-nissan-sentra-s.json",
+      "models": [
+        {
+          "model": "Sentra S",
+          "count": 2
         }
       ]
     },
@@ -75,12 +116,12 @@
       "make": "nissan",
       "model": "Rogue",
       "shard": "part1",
-      "count": 38,
+      "count": 34,
       "file": "inventory/new-nissan-rogue-part1.json",
       "models": [
         {
           "model": "Rogue",
-          "count": 38
+          "count": 34
         }
       ]
     },
@@ -89,12 +130,12 @@
       "make": "nissan",
       "model": "Rogue",
       "shard": "part2",
-      "count": 38,
+      "count": 34,
       "file": "inventory/new-nissan-rogue-part2.json",
       "models": [
         {
           "model": "Rogue",
-          "count": 38
+          "count": 34
         }
       ]
     },
@@ -103,12 +144,12 @@
       "make": "nissan",
       "model": "Rogue",
       "shard": "part3",
-      "count": 38,
+      "count": 34,
       "file": "inventory/new-nissan-rogue-part3.json",
       "models": [
         {
           "model": "Rogue",
-          "count": 38
+          "count": 34
         }
       ]
     },
@@ -117,12 +158,83 @@
       "make": "nissan",
       "model": "Rogue",
       "shard": "part4",
-      "count": 36,
+      "count": 34,
       "file": "inventory/new-nissan-rogue-part4.json",
       "models": [
         {
           "model": "Rogue",
-          "count": 36
+          "count": 34
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Rogue",
+      "shard": "part5",
+      "count": 34,
+      "file": "inventory/new-nissan-rogue-part5.json",
+      "models": [
+        {
+          "model": "Rogue",
+          "count": 34
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Rogue",
+      "shard": "part6",
+      "count": 31,
+      "file": "inventory/new-nissan-rogue-part6.json",
+      "models": [
+        {
+          "model": "Rogue",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Kicks S FWD",
+      "count": 6,
+      "file": "inventory/new-nissan-kicks-s-fwd.json",
+      "models": [
+        {
+          "model": "Kicks S FWD",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Rogue AWD S",
+      "count": 3,
+      "file": "inventory/new-nissan-rogue-awd-s.json",
+      "models": [
+        {
+          "model": "Rogue AWD S",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "LEAF S FWD",
+      "count": 7,
+      "file": "inventory/new-nissan-leaf-s-fwd.json",
+      "models": [
+        {
+          "model": "LEAF S FWD",
+          "count": 4
+        },
+        {
+          "model": "LEAF S+ FWD",
+          "count": 3
         }
       ]
     },
@@ -130,12 +242,12 @@
       "condition": "new",
       "make": "nissan",
       "model": "LEAF",
-      "count": 32,
+      "count": 38,
       "file": "inventory/new-nissan-leaf.json",
       "models": [
         {
           "model": "LEAF",
-          "count": 7
+          "count": 13
         },
         {
           "model": "Leaf",
@@ -159,12 +271,25 @@
     {
       "condition": "new",
       "make": "nissan",
-      "model": "Frontier",
-      "count": 7,
-      "file": "inventory/new-nissan-frontier.json",
+      "model": "ARIYA SV FWD",
+      "count": 8,
+      "file": "inventory/new-nissan-ariya-sv-fwd.json",
       "models": [
         {
-          "model": "Frontier",
+          "model": "ARIYA SV FWD",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Z Sport Manual",
+      "count": 7,
+      "file": "inventory/new-nissan-z-sport-manual.json",
+      "models": [
+        {
+          "model": "Z Sport Manual",
           "count": 7
         }
       ]
@@ -172,13 +297,91 @@
     {
       "condition": "new",
       "make": "nissan",
-      "model": "Ariya",
-      "count": 2,
-      "file": "inventory/new-nissan-ariya.json",
+      "model": "Frontier",
+      "count": 6,
+      "file": "inventory/new-nissan-frontier.json",
       "models": [
         {
-          "model": "Ariya",
-          "count": 2
+          "model": "Frontier",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Pathfinder Rock Creek 4WD",
+      "count": 3,
+      "file": "inventory/new-nissan-pathfinder-rock-creek-4wd.json",
+      "models": [
+        {
+          "model": "Pathfinder Rock Creek 4WD",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Murano Dark Armor AWD",
+      "count": 4,
+      "file": "inventory/new-nissan-murano-dark-armor-awd.json",
+      "models": [
+        {
+          "model": "Murano Dark Armor AWD",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Frontier Crew Cab 4x4 PRO-4X",
+      "count": 7,
+      "file": "inventory/new-nissan-frontier-crew-cab-4x4-pro-4x.json",
+      "models": [
+        {
+          "model": "Frontier Crew Cab 4x4 PRO-4X",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Murano AWD Platinum",
+      "count": 4,
+      "file": "inventory/new-nissan-murano-awd-platinum.json",
+      "models": [
+        {
+          "model": "Murano AWD Platinum",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Rogue Plug-In Hybrid AWD Platinum",
+      "count": 4,
+      "file": "inventory/new-nissan-rogue-plug-in-hybrid-awd-platinum.json",
+      "models": [
+        {
+          "model": "Rogue Plug-In Hybrid AWD Platinum",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Rogue Plug-In Hybrid",
+      "count": 5,
+      "file": "inventory/new-nissan-rogue-plug-in-hybrid.json",
+      "models": [
+        {
+          "model": "Rogue Plug-In Hybrid",
+          "count": 5
         }
       ]
     },
@@ -186,24 +389,11 @@
       "condition": "new",
       "make": "nissan",
       "model": "Pathfinder",
-      "count": 11,
+      "count": 10,
       "file": "inventory/new-nissan-pathfinder.json",
       "models": [
         {
           "model": "Pathfinder",
-          "count": 11
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Armada",
-      "count": 10,
-      "file": "inventory/new-nissan-armada.json",
-      "models": [
-        {
-          "model": "Armada",
           "count": 10
         }
       ]
@@ -212,12 +402,38 @@
       "condition": "new",
       "make": "nissan",
       "model": "Z",
-      "count": 1,
+      "count": 2,
       "file": "inventory/new-nissan-z.json",
       "models": [
         {
           "model": "Z",
-          "count": 1
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Armada 4x4 SL",
+      "count": 4,
+      "file": "inventory/new-nissan-armada-4x4-sl.json",
+      "models": [
+        {
+          "model": "Armada 4x4 SL",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Armada",
+      "count": 9,
+      "file": "inventory/new-nissan-armada.json",
+      "models": [
+        {
+          "model": "Armada",
+          "count": 9
         }
       ]
     },
@@ -244,422 +460,6 @@
         {
           "model": "Murano Platinum",
           "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Kicks S - Heated Seats - Spacious - Backup Camera!in Courtenay",
-      "count": 1,
-      "file": "inventory/new-nissan-kicks-s-heated-seats-spacious-backup-camera-in-courtenay.json",
-      "models": [
-        {
-          "model": "Kicks S - Heated Seats - Spacious - Backup Camera!in Courtenay",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Kicks S - Heated Seats - Carplay/Android Auto!in Courtenay",
-      "count": 1,
-      "file": "inventory/new-nissan-kicks-s-heated-seats-carplay-android-auto-in-courtenay.json",
-      "models": [
-        {
-          "model": "Kicks S - Heated Seats - Carplay/Android Auto!in Courtenay",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Kicks S AWD Sold at Cost - While Supplies Last!in Courtenay",
-      "count": 2,
-      "file": "inventory/new-nissan-kicks-s-awd-sold-at-cost-while-supplies-last-in-courtenay.json",
-      "models": [
-        {
-          "model": "Kicks S AWD Sold at Cost - While Supplies Last!in Courtenay",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Kicks S AWD - Heated Seats - Spacious - Fun-To-Drive!in Courtenay",
-      "count": 1,
-      "file": "inventory/new-nissan-kicks-s-awd-heated-seats-spacious-fun-to-drive-in-courtenay.json",
-      "models": [
-        {
-          "model": "Kicks S AWD - Heated Seats - Spacious - Fun-To-Drive!in Courtenay",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Kicks SV Sold at Cost- While Supplies Last!in Courtenay",
-      "count": 1,
-      "file": "inventory/new-nissan-kicks-sv-sold-at-cost-while-supplies-last-in-courtenay.json",
-      "models": [
-        {
-          "model": "Kicks SV Sold at Cost- While Supplies Last!in Courtenay",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Kicks SV AWD - Heated Seats - Remote Start - Apple carplayin Courtenay",
-      "count": 1,
-      "file": "inventory/new-nissan-kicks-sv-awd-heated-seats-remote-start-apple-carplayin-courtenay.json",
-      "models": [
-        {
-          "model": "Kicks SV AWD - Heated Seats - Remote Start - Apple carplayin Courtenay",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Kicks SV AWD - Remote Start - Heated Seats - Spacious!in Courtenay",
-      "count": 1,
-      "file": "inventory/new-nissan-kicks-sv-awd-remote-start-heated-seats-spacious-in-courtenay.json",
-      "models": [
-        {
-          "model": "Kicks SV AWD - Remote Start - Heated Seats - Spacious!in Courtenay",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Kicks SV AWD - Two-Tone - Remote Start - Great on Gas!in Courtenay",
-      "count": 1,
-      "file": "inventory/new-nissan-kicks-sv-awd-two-tone-remote-start-great-on-gas-in-courtenay.json",
-      "models": [
-        {
-          "model": "Kicks SV AWD - Two-Tone - Remote Start - Great on Gas!in Courtenay",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Kicks SV AWD - Remote Start - Heated Seats - Excellent Fuel Economy!in Courtenay",
-      "count": 1,
-      "file": "inventory/new-nissan-kicks-sv-awd-remote-start-heated-seats-excellent-fuel-economy-in-courtenay.json",
-      "models": [
-        {
-          "model": "Kicks SV AWD - Remote Start - Heated Seats - Excellent Fuel Economy!in Courtenay",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Kicks SV AWD Premium - Panoramic Moonroof - Roof Rails - Remote Start!in Courtenay",
-      "count": 1,
-      "file": "inventory/new-nissan-kicks-sv-awd-premium-panoramic-moonroof-roof-rails-remote-start-in-courtenay.json",
-      "models": [
-        {
-          "model": "Kicks SV AWD Premium - Panoramic Moonroof - Roof Rails - Remote Start!in Courtenay",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Rogue S AWD - Remote Start - Heated Seats - Spacious!in Courtenay",
-      "count": 1,
-      "file": "inventory/new-nissan-rogue-s-awd-remote-start-heated-seats-spacious-in-courtenay.json",
-      "models": [
-        {
-          "model": "Rogue S AWD - Remote Start - Heated Seats - Spacious!in Courtenay",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Rogue S AWD HEATED SEATS, REMOTE START, SOLD AT COSTin Courtenay",
-      "count": 1,
-      "file": "inventory/new-nissan-rogue-s-awd-heated-seats-remote-start-sold-at-costin-courtenay.json",
-      "models": [
-        {
-          "model": "Rogue S AWD HEATED SEATS, REMOTE START, SOLD AT COSTin Courtenay",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Kicks SV AWD Premium - Panoramic Moonroof - Remote Start - Heated Seats!in Courtenay",
-      "count": 1,
-      "file": "inventory/new-nissan-kicks-sv-awd-premium-panoramic-moonroof-remote-start-heated-seats-in-courtenay.json",
-      "models": [
-        {
-          "model": "Kicks SV AWD Premium - Panoramic Moonroof - Remote Start - Heated Seats!in Courtenay",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Rogue S AWD - Heated Steering Wheel - Spacious - Excellent Fuel Economy!in Courtenay",
-      "count": 1,
-      "file": "inventory/new-nissan-rogue-s-awd-heated-steering-wheel-spacious-excellent-fuel-economy-in-courtenay.json",
-      "models": [
-        {
-          "model": "Rogue S AWD - Heated Steering Wheel - Spacious - Excellent Fuel Economy!in Courtenay",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Rogue S AWD - Remote Start - Cruise Control - 10 Airbags - LED lights!in Courtenay",
-      "count": 1,
-      "file": "inventory/new-nissan-rogue-s-awd-remote-start-cruise-control-10-airbags-led-lights-in-courtenay.json",
-      "models": [
-        {
-          "model": "Rogue S AWD - Remote Start - Cruise Control - 10 Airbags - LED lights!in Courtenay",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Rogue S AWD - Paddle Shifters - LED Lights - Nissan Safety Shield Standard!in Courtenay",
-      "count": 1,
-      "file": "inventory/new-nissan-rogue-s-awd-paddle-shifters-led-lights-nissan-safety-shield-standard-in-courtenay.json",
-      "models": [
-        {
-          "model": "Rogue S AWD - Paddle Shifters - LED Lights - Nissan Safety Shield Standard!in Courtenay",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Rogue S AWD - Remote Start - Heated Seats - Bluetooth!in Courtenay",
-      "count": 1,
-      "file": "inventory/new-nissan-rogue-s-awd-remote-start-heated-seats-bluetooth-in-courtenay.json",
-      "models": [
-        {
-          "model": "Rogue S AWD - Remote Start - Heated Seats - Bluetooth!in Courtenay",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Rogue S AWD - LED Lights - Heated Steering Wheel - Rated Best in Class JD Power!in Courtenay",
-      "count": 1,
-      "file": "inventory/new-nissan-rogue-s-awd-led-lights-heated-steering-wheel-rated-best-in-class-jd-power-in-courtenay.json",
-      "models": [
-        {
-          "model": "Rogue S AWD - LED Lights - Heated Steering Wheel - Rated Best in Class JD Power!in Courtenay",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Kicks SR Premium AWD - Remote Start - Leather - Bose Audioin Courtenay",
-      "count": 1,
-      "file": "inventory/new-nissan-kicks-sr-premium-awd-remote-start-leather-bose-audioin-courtenay.json",
-      "models": [
-        {
-          "model": "Kicks SR Premium AWD - Remote Start - Leather - Bose Audioin Courtenay",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Kicks SR Premium AWD - BOSE - Sunroof - Wireless Connectivity!in Courtenay",
-      "count": 1,
-      "file": "inventory/new-nissan-kicks-sr-premium-awd-bose-sunroof-wireless-connectivity-in-courtenay.json",
-      "models": [
-        {
-          "model": "Kicks SR Premium AWD - BOSE - Sunroof - Wireless Connectivity!in Courtenay",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Kicks SR Premium AWD - ProPilot Assist - 360 Camera - Bose Audio!in Courtenay",
-      "count": 1,
-      "file": "inventory/new-nissan-kicks-sr-premium-awd-propilot-assist-360-camera-bose-audio-in-courtenay.json",
-      "models": [
-        {
-          "model": "Kicks SR Premium AWD - ProPilot Assist - 360 Camera - Bose Audio!in Courtenay",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Kicks SR Premium - BOSE audio - Panoramic Moonroof - Leather Seating!in Courtenay",
-      "count": 1,
-      "file": "inventory/new-nissan-kicks-sr-premium-bose-audio-panoramic-moonroof-leather-seating-in-courtenay.json",
-      "models": [
-        {
-          "model": "Kicks SR Premium - BOSE audio - Panoramic Moonroof - Leather Seating!in Courtenay",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Kicks SR Premium AWD - Heated Steering Wheel - Heated Seats - Leather - Bose Audio!in Courtenay",
-      "count": 1,
-      "file": "inventory/new-nissan-kicks-sr-premium-awd-heated-steering-wheel-heated-seats-leather-bose-audio-in-courtenay.json",
-      "models": [
-        {
-          "model": "Kicks SR Premium AWD - Heated Steering Wheel - Heated Seats - Leather - Bose Audio!in Courtenay",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Kicks SR Premium AWD - Panoramic Moonroof - 360 Camera - 4 Drive Modes!in Courtenay",
-      "count": 1,
-      "file": "inventory/new-nissan-kicks-sr-premium-awd-panoramic-moonroof-360-camera-4-drive-modes-in-courtenay.json",
-      "models": [
-        {
-          "model": "Kicks SR Premium AWD - Panoramic Moonroof - 360 Camera - 4 Drive Modes!in Courtenay",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Kicks SR Premium - Panoramic Moonroof - CarPlay - BOSE Audio - Leather Appointed Seats!in Courtenay",
-      "count": 1,
-      "file": "inventory/new-nissan-kicks-sr-premium-panoramic-moonroof-carplay-bose-audio-leather-appointed-seats-in-courtenay.json",
-      "models": [
-        {
-          "model": "Kicks SR Premium - Panoramic Moonroof - CarPlay - BOSE Audio - Leather Appointed Seats!in Courtenay",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Rogue SV Moonroof AWD - Power Liftgate - Power Seat - Panoramic Moonroofin Courtenay",
-      "count": 1,
-      "file": "inventory/new-nissan-rogue-sv-moonroof-awd-power-liftgate-power-seat-panoramic-moonroofin-courtenay.json",
-      "models": [
-        {
-          "model": "Rogue SV Moonroof AWD - Power Liftgate - Power Seat - Panoramic Moonroofin Courtenay",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "LEAF Sin Courtenay",
-      "count": 1,
-      "file": "inventory/new-nissan-leaf-sin-courtenay.json",
-      "models": [
-        {
-          "model": "LEAF Sin Courtenay",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "LEAF Unknownin Courtenay",
-      "count": 1,
-      "file": "inventory/new-nissan-leaf-unknownin-courtenay.json",
-      "models": [
-        {
-          "model": "LEAF Unknownin Courtenay",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Rogue Sin Courtenay",
-      "count": 1,
-      "file": "inventory/new-nissan-rogue-sin-courtenay.json",
-      "models": [
-        {
-          "model": "Rogue Sin Courtenay",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Rogue Rock Creek - Built in Roof Racks - A/T Tires - Leather!in Courtenay",
-      "count": 1,
-      "file": "inventory/new-nissan-rogue-rock-creek-built-in-roof-racks-a-t-tires-leather-in-courtenay.json",
-      "models": [
-        {
-          "model": "Rogue Rock Creek - Built in Roof Racks - A/T Tires - Leather!in Courtenay",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Rogue Platinum - Bose Speakers - Google Built-in - Leather Seating!in Courtenay",
-      "count": 1,
-      "file": "inventory/new-nissan-rogue-platinum-bose-speakers-google-built-in-leather-seating-in-courtenay.json",
-      "models": [
-        {
-          "model": "Rogue Platinum - Bose Speakers - Google Built-in - Leather Seating!in Courtenay",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Rogue Plug-In Hybrid",
-      "count": 4,
-      "file": "inventory/new-nissan-rogue-plug-in-hybrid.json",
-      "models": [
-        {
-          "model": "Rogue Plug-In Hybrid",
-          "count": 4
         }
       ]
     }

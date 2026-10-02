@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T16:56:55+00:00",
-  "snapshot": "2026-10-02T16:56:55+00:00",
+  "generated_at": "2026-10-02T22:53:01+00:00",
+  "snapshot": "2026-10-02T22:53:01+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "pioneer-chrysler-jeep-3n1cn8dv9sl810075",
@@ -24,6 +24,34 @@
       "city": "Mission",
       "province": "BC",
       "dealer_name": "Pioneer Chrysler Jeep"
+    },
+    {
+      "pub_id": "applewood-nissan-3n1cn8fv3sl873315",
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Versa",
+      "trim": "SR CVT",
+      "body_type": "sedan",
+      "drivetrain": "FWD",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "new",
+      "odometer_km": 2768,
+      "price_cad": 27153.0,
+      "price_note": null,
+      "color": "Red",
+      "dealer_id": "applewood-nissan",
+      "vin": "3N1CN8FV3SL873315",
+      "stock": "NS5V3315",
+      "listing_url": "https://www.applewoodnissansurrey.ca/inventory/2025-nissan-versa-sr-Vn09Tv9eQECftRqk9HD7PAvdp",
+      "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2025-nissan-versa-sr-Vn09Tv9eQECftRqk9HD7PAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T18:09:38",
+      "snapshot": "2026-10-01T18:11:48",
+      "go_url": "https://carwhisper.ca/go/applewood-nissan-3n1cn8fv3sl873315",
+      "region": "Lower Mainland",
+      "city": "Surrey",
+      "province": "BC",
+      "dealer_name": "Applewood Nissan"
     }
   ]
 }

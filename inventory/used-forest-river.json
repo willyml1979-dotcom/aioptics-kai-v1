@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T16:56:55+00:00",
-  "snapshot": "2026-10-02T16:56:55+00:00",
+  "generated_at": "2026-10-02T22:53:01+00:00",
+  "snapshot": "2026-10-02T22:53:01+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "kootenay-chrysler-dodge-jeep-ram-ltd-4x4twdv25gt139802",
@@ -45,6 +45,29 @@
       "city": "Trail",
       "province": "BC",
       "dealer_name": "Kootenay Chrysler Dodge Jeep Ram Ltd."
+    },
+    {
+      "pub_id": "chilliwack-mitsubishi-4x4tckt17n9135641",
+      "year": 2022,
+      "make": "Forest River",
+      "model": "WOLF PUP",
+      "trim": " ",
+      "condition": "used",
+      "odometer_km": 28,
+      "price_cad": 29950.0,
+      "price_note": null,
+      "dealer_id": "chilliwack-mitsubishi",
+      "vin": "4X4TCKT17N9135641",
+      "stock": "UU135641",
+      "listing_url": "https://www.chilliwackmitsubishi.ca/inventory/2022-forest-river-wolf-pup-trailor-SNYzQmuzSBqnL5jQsipyygvdp",
+      "dealer_url": "https://www.chilliwackmitsubishi.ca/inventory/2022-forest-river-wolf-pup-trailor-SNYzQmuzSBqnL5jQsipyygvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-27T01:21:09",
+      "snapshot": "2026-09-27T01:32:45",
+      "go_url": "https://carwhisper.ca/go/chilliwack-mitsubishi-4x4tckt17n9135641",
+      "region": "Lower Mainland",
+      "city": "Chilliwack",
+      "province": "BC",
+      "dealer_name": "Chilliwack Mitsubishi"
     }
   ]
 }

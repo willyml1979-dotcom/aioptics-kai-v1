@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T16:56:55+00:00",
-  "snapshot": "2026-10-02T16:56:55+00:00",
+  "generated_at": "2026-10-02T22:53:01+00:00",
+  "snapshot": "2026-10-02T22:53:01+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 4,
   "vehicles": [
     {
       "pub_id": "regency-chrysler-1c4ajwag5hl650274",
@@ -57,6 +57,7 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Wrangler",
+      "drivetrain": "4WD",
       "propulsion": "gas",
       "propulsion_source": "stated",
       "condition": "used",
@@ -76,6 +77,34 @@
       "city": "Prince George",
       "province": "BC",
       "dealer_name": "Subaru of Prince George"
+    },
+    {
+      "pub_id": "bannister-ford-ltd-1c4pjxdg5rw338340",
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "Sport S 4 Door 4x4",
+      "body_type": "suv",
+      "drivetrain": "4WD",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 19589,
+      "price_cad": 47499.0,
+      "price_note": null,
+      "color": "Gray",
+      "dealer_id": "bannister-ford-ltd",
+      "vin": "1C4PJXDG5RW338340",
+      "stock": "38P0083A",
+      "listing_url": "https://www.bannisterford.com/inventory/2024-jeep-wrangler-sport-s-20bFjAxpQDmL3qg6ncTWlAvdp",
+      "dealer_url": "https://www.bannisterford.com/inventory/2024-jeep-wrangler-sport-s-20bFjAxpQDmL3qg6ncTWlAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T19:40:41",
+      "snapshot": "2026-09-26T19:45:52",
+      "go_url": "https://carwhisper.ca/go/bannister-ford-ltd-1c4pjxdg5rw338340",
+      "region": "Norte/Cariboo",
+      "city": "Dawson Creek",
+      "province": "BC",
+      "dealer_name": "Bannister Ford Ltd"
     }
   ]
 }

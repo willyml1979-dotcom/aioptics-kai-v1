@@ -1,61 +1,182 @@
 {
-  "generated_at": "2026-10-02T16:56:55+00:00",
+  "generated_at": "2026-10-02T22:53:01+00:00",
   "condition": "used",
   "make": "cadillac",
   "files": [
     {
       "condition": "used",
       "make": "cadillac",
-      "count": 37,
-      "file": "inventory/used-cadillac.json",
+      "model": "Ats",
+      "count": 2,
+      "file": "inventory/used-cadillac-ats.json",
       "models": [
         {
           "model": "ATS",
           "count": 1
         },
         {
-          "model": "Ats LUXURY AWDin Mission",
+          "model": "Ats",
           "count": 1
-        },
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "cadillac",
+      "model": "XT4",
+      "count": 11,
+      "file": "inventory/used-cadillac-xt4.json",
+      "models": [
         {
-          "model": "CT5",
-          "count": 1
-        },
+          "model": "XT4",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "cadillac",
+      "model": "XT5",
+      "count": 11,
+      "file": "inventory/used-cadillac-xt5.json",
+      "models": [
         {
-          "model": "CTS",
-          "count": 1
-        },
+          "model": "XT5",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "cadillac",
+      "model": "Escalade",
+      "count": 11,
+      "file": "inventory/used-cadillac-escalade.json",
+      "models": [
         {
           "model": "Escalade",
-          "count": 8
-        },
+          "count": 11
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "cadillac",
+      "model": "XT6",
+      "count": 8,
+      "file": "inventory/used-cadillac-xt6.json",
+      "models": [
         {
-          "model": "Escalade IQ",
-          "count": 2
-        },
+          "model": "XT6",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "cadillac",
+      "model": "CT5",
+      "count": 4,
+      "file": "inventory/used-cadillac-ct5.json",
+      "models": [
+        {
+          "model": "CT5",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "cadillac",
+      "model": "LYRIQ",
+      "count": 15,
+      "file": "inventory/used-cadillac-lyriq.json",
+      "models": [
         {
           "model": "LYRIQ",
-          "count": 1
+          "count": 11
         },
         {
           "model": "Lyriq",
           "count": 4
-        },
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "cadillac",
+      "model": "CT4-V",
+      "count": 1,
+      "file": "inventory/used-cadillac-ct4-v.json",
+      "models": [
+        {
+          "model": "CT4-V",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "cadillac",
+      "model": "Optiq",
+      "count": 2,
+      "file": "inventory/used-cadillac-optiq.json",
+      "models": [
         {
           "model": "Optiq",
           "count": 2
-        },
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "cadillac",
+      "model": "Escalade ESV",
+      "count": 6,
+      "file": "inventory/used-cadillac-escalade-esv.json",
+      "models": [
         {
-          "model": "XT4",
+          "model": "Escalade ESV",
           "count": 6
-        },
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "cadillac",
+      "model": "Escalade IQ",
+      "count": 4,
+      "file": "inventory/used-cadillac-escalade-iq.json",
+      "models": [
         {
-          "model": "XT5",
-          "count": 5
-        },
+          "model": "Escalade IQ",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "cadillac",
+      "model": "CT4",
+      "count": 1,
+      "file": "inventory/used-cadillac-ct4.json",
+      "models": [
         {
-          "model": "XT6",
-          "count": 5
+          "model": "CT4",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "cadillac",
+      "model": "CTS",
+      "count": 1,
+      "file": "inventory/used-cadillac-cts.json",
+      "models": [
+        {
+          "model": "CTS",
+          "count": 1
         }
       ]
     }

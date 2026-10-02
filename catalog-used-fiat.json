@@ -1,17 +1,21 @@
 {
-  "generated_at": "2026-10-02T16:56:55+00:00",
+  "generated_at": "2026-10-02T22:53:01+00:00",
   "condition": "used",
   "make": "fiat",
   "files": [
     {
       "condition": "used",
       "make": "fiat",
-      "count": 1,
+      "count": 3,
       "file": "inventory/used-fiat.json",
       "models": [
         {
           "model": "500",
           "count": 1
+        },
+        {
+          "model": "500E",
+          "count": 2
         }
       ]
     }

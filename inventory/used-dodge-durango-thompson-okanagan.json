@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T16:56:55+00:00",
-  "snapshot": "2026-10-02T16:56:55+00:00",
+  "generated_at": "2026-10-02T22:53:01+00:00",
+  "snapshot": "2026-10-02T22:53:01+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 4,
   "vehicles": [
     {
       "pub_id": "volkswagen-of-kamloops-1c4rdjdg5dc674027",
@@ -59,6 +59,7 @@
       "year": 2023,
       "make": "Dodge",
       "model": "Durango",
+      "drivetrain": "AWD",
       "propulsion": "gas",
       "propulsion_source": "stated",
       "condition": "used",
@@ -78,6 +79,34 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Kamloops Honda Cars"
+    },
+    {
+      "pub_id": "rivershore-chrysler-dodge-jeep-ram-1c4sdjct5sc513187",
+      "year": 2025,
+      "make": "Dodge",
+      "model": "Durango",
+      "trim": "R/T // AWD // NO ACCIDENTS // V8 ENGINE // POWER LIFT GATE // LEATHER INTERIOR",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 59774,
+      "price_cad": 46450.0,
+      "price_note": null,
+      "color": "Gray",
+      "dealer_id": "rivershore-chrysler-dodge-jeep-ram",
+      "vin": "1C4SDJCT5SC513187",
+      "stock": "EN7255",
+      "listing_url": "https://www.rivershoreram.ca/inventory/2025-dodge-durango-r-t-lbgudgsVQxuu2jQMqyn3Twvdp",
+      "dealer_url": "https://www.rivershoreram.ca/inventory/2025-dodge-durango-r-t-lbgudgsVQxuu2jQMqyn3Twvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T01:17:59",
+      "snapshot": "2026-09-26T01:21:22",
+      "go_url": "https://carwhisper.ca/go/rivershore-chrysler-dodge-jeep-ram-1c4sdjct5sc513187",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Rivershore Chrysler Dodge Jeep Ram"
     }
   ]
 }

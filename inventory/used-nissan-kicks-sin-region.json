@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T16:56:55+00:00",
-  "snapshot": "2026-10-02T16:56:55+00:00",
+  "generated_at": "2026-10-02T22:53:01+00:00",
+  "snapshot": "2026-10-02T22:53:01+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 10,
+  "count": 12,
   "vehicles": [
     {
       "pub_id": "go-richmond-kia-3n1cp5cu7kl491681",
@@ -27,6 +27,31 @@
       "city": null,
       "province": "BC",
       "dealer_name": "Go Richmond Kia"
+    },
+    {
+      "pub_id": "murray-chevrolet-buick-gmc-merritt-3n1cp5cv2ll500197",
+      "year": 2020,
+      "make": "Nissan",
+      "model": "Kicks",
+      "trim": "4-door Mid-Size Passenger Car",
+      "body_type": "suv",
+      "drivetrain": "FWD",
+      "condition": "used",
+      "odometer_km": 52784,
+      "price_cad": 16990.0,
+      "price_note": null,
+      "color": "Gray",
+      "dealer_id": "murray-chevrolet-buick-gmc-merritt",
+      "vin": "3N1CP5CV2LL500197",
+      "stock": "TB786326ZAA",
+      "listing_url": "https://www.murraygmmerritt.com/inventory/Used-2020-Nissan-Kicks-SV-3N1CP5CV2LL500197/",
+      "dealer_url": "https://www.murraygmmerritt.com/inventory/Used-2020-Nissan-Kicks-SV-3N1CP5CV2LL500197/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T15:23:16",
+      "snapshot": "2026-09-26T15:24:32",
+      "go_url": "https://carwhisper.ca/go/murray-chevrolet-buick-gmc-merritt-3n1cp5cv2ll500197",
+      "city": "Merritt",
+      "province": "BC",
+      "dealer_name": "Murray Chevrolet Buick GMC Merritt"
     },
     {
       "pub_id": "country-hills-nissan-3n8ap6bextl368841",
@@ -105,6 +130,7 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Kicks",
+      "drivetrain": "AWD",
       "propulsion": "gas",
       "propulsion_source": "stated",
       "condition": "used",
@@ -243,6 +269,33 @@
       "city": null,
       "province": "BC",
       "dealer_name": "Country Hills Nissan"
+    },
+    {
+      "pub_id": "applewood-ford-3n8ap6bb9tl359019",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Kicks",
+      "trim": "S AWD",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 50,
+      "price_cad": 32883.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "applewood-ford",
+      "vin": "3N8AP6BB9TL359019",
+      "stock": "FHV59019",
+      "listing_url": "https://www.applewoodford.ca/inventory/2026-nissan-kicks-s-JiIKtFNMSbee8Q7l8VUZVwvdp",
+      "dealer_url": "https://www.applewoodford.ca/inventory/2026-nissan-kicks-s-JiIKtFNMSbee8Q7l8VUZVwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T18:38:48",
+      "snapshot": "2026-09-26T18:45:22",
+      "go_url": "https://carwhisper.ca/go/applewood-ford-3n8ap6bb9tl359019",
+      "city": "Port Hardy",
+      "province": "BC",
+      "dealer_name": "Applewood Ford"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T16:56:55+00:00",
+  "generated_at": "2026-10-02T22:53:01+00:00",
   "condition": "used",
   "make": "audi",
   "files": [
@@ -7,12 +7,12 @@
       "condition": "used",
       "make": "audi",
       "model": "Q5",
-      "count": 31,
+      "count": 34,
       "file": "inventory/used-audi-q5.json",
       "models": [
         {
           "model": "Q5",
-          "count": 31
+          "count": 34
         }
       ]
     },
@@ -20,12 +20,25 @@
       "condition": "used",
       "make": "audi",
       "model": "Q3",
-      "count": 20,
+      "count": 23,
       "file": "inventory/used-audi-q3.json",
       "models": [
         {
           "model": "Q3",
-          "count": 20
+          "count": 23
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "audi",
+      "model": "A4",
+      "count": 5,
+      "file": "inventory/used-audi-a4.json",
+      "models": [
+        {
+          "model": "A4",
+          "count": 5
         }
       ]
     },
@@ -59,12 +72,12 @@
       "condition": "used",
       "make": "audi",
       "model": "SQ5",
-      "count": 6,
+      "count": 8,
       "file": "inventory/used-audi-sq5.json",
       "models": [
         {
           "model": "SQ5",
-          "count": 6
+          "count": 8
         }
       ]
     },
@@ -110,6 +123,19 @@
     {
       "condition": "used",
       "make": "audi",
+      "model": "S5 Cabriolet",
+      "count": 2,
+      "file": "inventory/used-audi-s5-cabriolet.json",
+      "models": [
+        {
+          "model": "S5 Cabriolet",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "audi",
       "model": "Q8",
       "count": 2,
       "file": "inventory/used-audi-q8.json",
@@ -123,13 +149,13 @@
     {
       "condition": "used",
       "make": "audi",
-      "model": "S5 Cabriolet",
-      "count": 1,
-      "file": "inventory/used-audi-s5-cabriolet.json",
+      "model": "S5 Sportback",
+      "count": 2,
+      "file": "inventory/used-audi-s5-sportback.json",
       "models": [
         {
-          "model": "S5 Cabriolet",
-          "count": 1
+          "model": "S5 Sportback",
+          "count": 2
         }
       ]
     },
@@ -214,6 +240,32 @@
     {
       "condition": "used",
       "make": "audi",
+      "model": "S7 Sportback",
+      "count": 1,
+      "file": "inventory/used-audi-s7-sportback.json",
+      "models": [
+        {
+          "model": "S7 Sportback",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "audi",
+      "model": "Q6 e-tron",
+      "count": 1,
+      "file": "inventory/used-audi-q6-e-tron.json",
+      "models": [
+        {
+          "model": "Q6 e-tron",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "audi",
       "model": "R8",
       "count": 2,
       "file": "inventory/used-audi-r8.json",
@@ -234,19 +286,6 @@
         {
           "model": "RS Q8",
           "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "audi",
-      "model": "A4",
-      "count": 4,
-      "file": "inventory/used-audi-a4.json",
-      "models": [
-        {
-          "model": "A4",
-          "count": 4
         }
       ]
     },
@@ -292,19 +331,6 @@
     {
       "condition": "used",
       "make": "audi",
-      "model": "Q3 Komfortin Nanaimo",
-      "count": 1,
-      "file": "inventory/used-audi-q3-komfortin-nanaimo.json",
-      "models": [
-        {
-          "model": "Q3 Komfortin Nanaimo",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "audi",
       "model": "Q4 e-tron",
       "count": 2,
       "file": "inventory/used-audi-q4-e-tron.json",
@@ -312,45 +338,6 @@
         {
           "model": "Q4 e-tron",
           "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "audi",
-      "model": "Q3 45 Tfsi Quattroin Courtenay",
-      "count": 2,
-      "file": "inventory/used-audi-q3-45-tfsi-quattroin-courtenay.json",
-      "models": [
-        {
-          "model": "Q3 45 Tfsi Quattroin Courtenay",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "audi",
-      "model": "Q5 3.2L Premium",
-      "count": 1,
-      "file": "inventory/used-audi-q5-3-2l-premium.json",
-      "models": [
-        {
-          "model": "Q5 3.2L Premium",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "audi",
-      "model": "SQ5 Technik",
-      "count": 1,
-      "file": "inventory/used-audi-sq5-technik.json",
-      "models": [
-        {
-          "model": "SQ5 Technik",
-          "count": 1
         }
       ]
     }

@@ -1,17 +1,18 @@
 {
-  "generated_at": "2026-10-02T16:56:55+00:00",
+  "generated_at": "2026-10-02T22:53:01+00:00",
   "condition": "new",
   "make": "mercedes-benz",
   "files": [
     {
       "condition": "new",
       "make": "mercedes-benz",
-      "model": "GLA 250 4MATIC SUVin Surrey",
+      "model": "GLA 250",
+      "shard": "Lower Mainland",
       "count": 14,
-      "file": "inventory/new-mercedes-benz-gla-250-4matic-suvin-surrey.json",
+      "file": "inventory/new-mercedes-benz-gla-250-lower-mainland.json",
       "models": [
         {
-          "model": "GLA 250 4MATIC SUVin Surrey",
+          "model": "GLA 250",
           "count": 14
         }
       ]
@@ -19,38 +20,13 @@
     {
       "condition": "new",
       "make": "mercedes-benz",
-      "model": "GLB 250 4MATIC SUVin Surrey",
-      "count": 3,
-      "file": "inventory/new-mercedes-benz-glb-250-4matic-suvin-surrey.json",
-      "models": [
-        {
-          "model": "GLB 250 4MATIC SUVin Surrey",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mercedes-benz",
-      "model": "Sprinter Cargo Van 2500 Standard Roof I4 Diesel 144\"in Surrey",
-      "count": 1,
-      "file": "inventory/new-mercedes-benz-sprinter-cargo-van-2500-standard-roof-i4-diesel-144-in-surrey.json",
-      "models": [
-        {
-          "model": "Sprinter Cargo Van 2500 Standard Roof I4 Diesel 144\"in Surrey",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mercedes-benz",
-      "model": "GLA 250 4MATIC SUVin Kelowna",
+      "model": "GLA 250",
+      "shard": "Okanagan",
       "count": 15,
-      "file": "inventory/new-mercedes-benz-gla-250-4matic-suvin-kelowna.json",
+      "file": "inventory/new-mercedes-benz-gla-250-okanagan.json",
       "models": [
         {
-          "model": "GLA 250 4MATIC SUVin Kelowna",
+          "model": "GLA 250",
           "count": 15
         }
       ]
@@ -58,38 +34,39 @@
     {
       "condition": "new",
       "make": "mercedes-benz",
-      "model": "CLA 250 4MATIC Coupein Kelowna",
-      "count": 3,
-      "file": "inventory/new-mercedes-benz-cla-250-4matic-coupein-kelowna.json",
+      "model": "GLA 250",
+      "shard": "Vancouver Island",
+      "count": 8,
+      "file": "inventory/new-mercedes-benz-gla-250-vancouver-island.json",
       "models": [
         {
-          "model": "CLA 250 4MATIC Coupein Kelowna",
-          "count": 3
+          "model": "GLA 250",
+          "count": 8
         }
       ]
     },
     {
       "condition": "new",
       "make": "mercedes-benz",
-      "model": "GLB 250 4MATIC SUVin Kelowna",
-      "count": 10,
-      "file": "inventory/new-mercedes-benz-glb-250-4matic-suvin-kelowna.json",
+      "model": "GLB 250",
+      "count": 16,
+      "file": "inventory/new-mercedes-benz-glb-250.json",
       "models": [
         {
-          "model": "GLB 250 4MATIC SUVin Kelowna",
-          "count": 10
+          "model": "GLB 250",
+          "count": 16
         }
       ]
     },
     {
       "condition": "new",
       "make": "mercedes-benz",
-      "model": "EQB 300 4MATIC SUVin Kelowna",
+      "model": "Sprinter",
       "count": 2,
-      "file": "inventory/new-mercedes-benz-eqb-300-4matic-suvin-kelowna.json",
+      "file": "inventory/new-mercedes-benz-sprinter.json",
       "models": [
         {
-          "model": "EQB 300 4MATIC SUVin Kelowna",
+          "model": "Sprinter",
           "count": 2
         }
       ]
@@ -97,12 +74,66 @@
     {
       "condition": "new",
       "make": "mercedes-benz",
-      "model": "GLC 300 4MATIC SUVin Kelowna",
-      "count": 4,
-      "file": "inventory/new-mercedes-benz-glc-300-4matic-suvin-kelowna.json",
+      "model": "GLC",
+      "shard": "part1",
+      "count": 29,
+      "file": "inventory/new-mercedes-benz-glc-part1.json",
       "models": [
         {
-          "model": "GLC 300 4MATIC SUVin Kelowna",
+          "model": "GLC",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mercedes-benz",
+      "model": "GLC",
+      "shard": "part2",
+      "count": 29,
+      "file": "inventory/new-mercedes-benz-glc-part2.json",
+      "models": [
+        {
+          "model": "GLC",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mercedes-benz",
+      "model": "E-Class",
+      "count": 1,
+      "file": "inventory/new-mercedes-benz-e-class.json",
+      "models": [
+        {
+          "model": "E-Class",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mercedes-benz",
+      "model": "CLE",
+      "count": 1,
+      "file": "inventory/new-mercedes-benz-cle.json",
+      "models": [
+        {
+          "model": "CLE",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mercedes-benz",
+      "model": "G-Class",
+      "count": 4,
+      "file": "inventory/new-mercedes-benz-g-class.json",
+      "models": [
+        {
+          "model": "G-Class",
           "count": 4
         }
       ]
@@ -110,12 +141,38 @@
     {
       "condition": "new",
       "make": "mercedes-benz",
-      "model": "CLA 350 Electric 4MATICin Kelowna",
-      "count": 1,
-      "file": "inventory/new-mercedes-benz-cla-350-electric-4maticin-kelowna.json",
+      "model": "CLA 250",
+      "count": 3,
+      "file": "inventory/new-mercedes-benz-cla-250.json",
       "models": [
         {
-          "model": "CLA 350 Electric 4MATICin Kelowna",
+          "model": "CLA 250",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mercedes-benz",
+      "model": "EQB 300",
+      "count": 2,
+      "file": "inventory/new-mercedes-benz-eqb-300.json",
+      "models": [
+        {
+          "model": "EQB 300",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mercedes-benz",
+      "model": "GLB-Class",
+      "count": 1,
+      "file": "inventory/new-mercedes-benz-glb-class.json",
+      "models": [
+        {
+          "model": "GLB-Class",
           "count": 1
         }
       ]
@@ -123,12 +180,25 @@
     {
       "condition": "new",
       "make": "mercedes-benz",
-      "model": "Sprinter Cargo Van 2500 Standard Roof I4 Diesel 144\"in Kelowna",
-      "count": 1,
-      "file": "inventory/new-mercedes-benz-sprinter-cargo-van-2500-standard-roof-i4-diesel-144-in-kelowna.json",
+      "model": "GLC 300",
+      "count": 26,
+      "file": "inventory/new-mercedes-benz-glc-300.json",
       "models": [
         {
-          "model": "Sprinter Cargo Van 2500 Standard Roof I4 Diesel 144\"in Kelowna",
+          "model": "GLC 300",
+          "count": 26
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mercedes-benz",
+      "model": "CLA-Class",
+      "count": 1,
+      "file": "inventory/new-mercedes-benz-cla-class.json",
+      "models": [
+        {
+          "model": "CLA-Class",
           "count": 1
         }
       ]
@@ -136,12 +206,25 @@
     {
       "condition": "new",
       "make": "mercedes-benz",
-      "model": "GLA 250 4MATIC",
+      "model": "Sprinter Cargo",
+      "count": 15,
+      "file": "inventory/new-mercedes-benz-sprinter-cargo.json",
+      "models": [
+        {
+          "model": "Sprinter Cargo",
+          "count": 15
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mercedes-benz",
+      "model": "GLA",
       "count": 5,
-      "file": "inventory/new-mercedes-benz-gla-250-4matic.json",
+      "file": "inventory/new-mercedes-benz-gla.json",
       "models": [
         {
-          "model": "GLA 250 4MATIC",
+          "model": "GLA",
           "count": 5
         }
       ]
@@ -149,12 +232,12 @@
     {
       "condition": "new",
       "make": "mercedes-benz",
-      "model": "GLB 250 4MATIC",
+      "model": "GLB",
       "count": 2,
-      "file": "inventory/new-mercedes-benz-glb-250-4matic.json",
+      "file": "inventory/new-mercedes-benz-glb.json",
       "models": [
         {
-          "model": "GLB 250 4MATIC",
+          "model": "GLB",
           "count": 2
         }
       ]
@@ -162,116 +245,12 @@
     {
       "condition": "new",
       "make": "mercedes-benz",
-      "model": "GLC 300 4MATIC",
-      "count": 7,
-      "file": "inventory/new-mercedes-benz-glc-300-4matic.json",
-      "models": [
-        {
-          "model": "GLC 300 4MATIC",
-          "count": 7
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mercedes-benz",
-      "model": "GLC 350e 4MATIC",
-      "count": 1,
-      "file": "inventory/new-mercedes-benz-glc-350e-4matic.json",
-      "models": [
-        {
-          "model": "GLC 350e 4MATIC",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mercedes-benz",
-      "model": "GLE 350 4MATIC",
-      "count": 3,
-      "file": "inventory/new-mercedes-benz-gle-350-4matic.json",
-      "models": [
-        {
-          "model": "GLE 350 4MATIC",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mercedes-benz",
-      "model": "GLS 450 4MATIC",
-      "count": 1,
-      "file": "inventory/new-mercedes-benz-gls-450-4matic.json",
-      "models": [
-        {
-          "model": "GLS 450 4MATIC",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mercedes-benz",
-      "model": "Sprinter 2500 170 Wheelbase High Roof RWD",
-      "count": 1,
-      "file": "inventory/new-mercedes-benz-sprinter-2500-170-wheelbase-high-roof-rwd.json",
-      "models": [
-        {
-          "model": "Sprinter 2500 170 Wheelbase High Roof RWD",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mercedes-benz",
-      "model": "Sprinter 2500 170 Wheelbase High Roof AWD",
-      "count": 1,
-      "file": "inventory/new-mercedes-benz-sprinter-2500-170-wheelbase-high-roof-awd.json",
-      "models": [
-        {
-          "model": "Sprinter 2500 170 Wheelbase High Roof AWD",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mercedes-benz",
-      "model": "GLA 250 4matic Suvin Nanaimo",
-      "count": 5,
-      "file": "inventory/new-mercedes-benz-gla-250-4matic-suvin-nanaimo.json",
-      "models": [
-        {
-          "model": "GLA 250 4matic Suvin Nanaimo",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mercedes-benz",
-      "model": "GLA 250 4matic Suvin Victoria",
-      "count": 3,
-      "file": "inventory/new-mercedes-benz-gla-250-4matic-suvin-victoria.json",
-      "models": [
-        {
-          "model": "GLA 250 4matic Suvin Victoria",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mercedes-benz",
-      "model": "GLB 250 4matic Suvin Nanaimo",
+      "model": "Sprinter 2500",
       "count": 2,
-      "file": "inventory/new-mercedes-benz-glb-250-4matic-suvin-nanaimo.json",
+      "file": "inventory/new-mercedes-benz-sprinter-2500.json",
       "models": [
         {
-          "model": "GLB 250 4matic Suvin Nanaimo",
+          "model": "Sprinter 2500",
           "count": 2
         }
       ]
@@ -279,38 +258,12 @@
     {
       "condition": "new",
       "make": "mercedes-benz",
-      "model": "GLB 250 4matic Suvin Victoria",
-      "count": 2,
-      "file": "inventory/new-mercedes-benz-glb-250-4matic-suvin-victoria.json",
-      "models": [
-        {
-          "model": "GLB 250 4matic Suvin Victoria",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mercedes-benz",
-      "model": "GLC 300 4matic Suvin Nanaimo",
-      "count": 13,
-      "file": "inventory/new-mercedes-benz-glc-300-4matic-suvin-nanaimo.json",
-      "models": [
-        {
-          "model": "GLC 300 4matic Suvin Nanaimo",
-          "count": 13
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mercedes-benz",
-      "model": "Sprinter Cargo Van 2500 Standard Roofin Nanaimo",
+      "model": "GLE",
       "count": 3,
-      "file": "inventory/new-mercedes-benz-sprinter-cargo-van-2500-standard-roofin-nanaimo.json",
+      "file": "inventory/new-mercedes-benz-gle.json",
       "models": [
         {
-          "model": "Sprinter Cargo Van 2500 Standard Roofin Nanaimo",
+          "model": "GLE",
           "count": 3
         }
       ]
@@ -318,51 +271,12 @@
     {
       "condition": "new",
       "make": "mercedes-benz",
-      "model": "C 300 4matic Sedanin Victoria",
-      "count": 5,
-      "file": "inventory/new-mercedes-benz-c-300-4matic-sedanin-victoria.json",
-      "models": [
-        {
-          "model": "C 300 4matic Sedanin Victoria",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mercedes-benz",
-      "model": "CLA 35 AMG 4matic Coupein Victoria",
-      "count": 2,
-      "file": "inventory/new-mercedes-benz-cla-35-amg-4matic-coupein-victoria.json",
-      "models": [
-        {
-          "model": "CLA 35 AMG 4matic Coupein Victoria",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mercedes-benz",
-      "model": "GLC 300 4matic Suvin Victoria",
-      "count": 3,
-      "file": "inventory/new-mercedes-benz-glc-300-4matic-suvin-victoria.json",
-      "models": [
-        {
-          "model": "GLC 300 4matic Suvin Victoria",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mercedes-benz",
-      "model": "C 300 4matic Sedanin Nanaimo",
+      "model": "GLS",
       "count": 1,
-      "file": "inventory/new-mercedes-benz-c-300-4matic-sedanin-nanaimo.json",
+      "file": "inventory/new-mercedes-benz-gls.json",
       "models": [
         {
-          "model": "C 300 4matic Sedanin Nanaimo",
+          "model": "GLS",
           "count": 1
         }
       ]
@@ -370,12 +284,12 @@
     {
       "condition": "new",
       "make": "mercedes-benz",
-      "model": "GLC 300 4matic Coupein Victoria",
+      "model": "C 300",
       "count": 6,
-      "file": "inventory/new-mercedes-benz-glc-300-4matic-coupein-victoria.json",
+      "file": "inventory/new-mercedes-benz-c-300.json",
       "models": [
         {
-          "model": "GLC 300 4matic Coupein Victoria",
+          "model": "C 300",
           "count": 6
         }
       ]
@@ -383,25 +297,25 @@
     {
       "condition": "new",
       "make": "mercedes-benz",
-      "model": "Sprinter Cargo Van 2500 Standard Roofin Victoria",
-      "count": 5,
-      "file": "inventory/new-mercedes-benz-sprinter-cargo-van-2500-standard-roofin-victoria.json",
+      "model": "CLA 35 AMG",
+      "count": 2,
+      "file": "inventory/new-mercedes-benz-cla-35-amg.json",
       "models": [
         {
-          "model": "Sprinter Cargo Van 2500 Standard Roofin Victoria",
-          "count": 5
+          "model": "CLA 35 AMG",
+          "count": 2
         }
       ]
     },
     {
       "condition": "new",
       "make": "mercedes-benz",
-      "model": "CLE 300 4matic Coupein Victoria",
+      "model": "CLE 300",
       "count": 1,
-      "file": "inventory/new-mercedes-benz-cle-300-4matic-coupein-victoria.json",
+      "file": "inventory/new-mercedes-benz-cle-300.json",
       "models": [
         {
-          "model": "CLE 300 4matic Coupein Victoria",
+          "model": "CLE 300",
           "count": 1
         }
       ]
@@ -409,12 +323,12 @@
     {
       "condition": "new",
       "make": "mercedes-benz",
-      "model": "GLA 35 AMG 4matic Suvin Victoria",
+      "model": "GLA 35 AMG",
       "count": 1,
-      "file": "inventory/new-mercedes-benz-gla-35-amg-4matic-suvin-victoria.json",
+      "file": "inventory/new-mercedes-benz-gla-35-amg.json",
       "models": [
         {
-          "model": "GLA 35 AMG 4matic Suvin Victoria",
+          "model": "GLA 35 AMG",
           "count": 1
         }
       ]
@@ -422,38 +336,12 @@
     {
       "condition": "new",
       "make": "mercedes-benz",
-      "model": "Sprinter 2500 Standard Roofin Victoria",
+      "model": "GLC 350e",
       "count": 1,
-      "file": "inventory/new-mercedes-benz-sprinter-2500-standard-roofin-victoria.json",
+      "file": "inventory/new-mercedes-benz-glc-350e.json",
       "models": [
         {
-          "model": "Sprinter 2500 Standard Roofin Victoria",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mercedes-benz",
-      "model": "Sprinter Cargo Van 2500 High Roof I4in Victoria",
-      "count": 6,
-      "file": "inventory/new-mercedes-benz-sprinter-cargo-van-2500-high-roof-i4in-victoria.json",
-      "models": [
-        {
-          "model": "Sprinter Cargo Van 2500 High Roof I4in Victoria",
-          "count": 6
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mercedes-benz",
-      "model": "GLC 350e 4matic Suvin Victoria",
-      "count": 1,
-      "file": "inventory/new-mercedes-benz-glc-350e-4matic-suvin-victoria.json",
-      "models": [
-        {
-          "model": "GLC 350e 4matic Suvin Victoria",
+          "model": "GLC 350e",
           "count": 1
         }
       ]

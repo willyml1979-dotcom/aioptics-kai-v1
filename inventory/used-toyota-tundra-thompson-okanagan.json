@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T16:56:55+00:00",
-  "snapshot": "2026-10-02T16:56:55+00:00",
+  "generated_at": "2026-10-02T22:53:01+00:00",
+  "snapshot": "2026-10-02T22:53:01+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "kamloops-honda-cars-5tfja5db9px093497",
@@ -10,6 +10,7 @@
       "make": "Toyota",
       "model": "Tundra",
       "trim": "CrewMax",
+      "drivetrain": "4WD",
       "propulsion": "gas",
       "propulsion_source": "stated",
       "condition": "used",
@@ -29,6 +30,34 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Kamloops Honda Cars"
+    },
+    {
+      "pub_id": "bannister-chevrolet-cadillac-kamloops-ltd-5tfwa5dbxrx180043",
+      "year": 2024,
+      "make": "Toyota",
+      "model": "Tundra",
+      "trim": "4x4 Crewmax Limited",
+      "body_type": "truck",
+      "drivetrain": "4WD",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 74328,
+      "price_cad": 59988.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "bannister-chevrolet-cadillac-kamloops-ltd",
+      "vin": "5TFWA5DBXRX180043",
+      "stock": "486P462A",
+      "listing_url": "https://www.bannisterchevkamloops.com/inventory/2024-toyota-tundra-limited-kn08rexyS1KDhgRUMAV6eAvdp",
+      "dealer_url": "https://www.bannisterchevkamloops.com/inventory/2024-toyota-tundra-limited-kn08rexyS1KDhgRUMAV6eAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T20:26:10",
+      "snapshot": "2026-09-25T20:30:13",
+      "go_url": "https://carwhisper.ca/go/bannister-chevrolet-cadillac-kamloops-ltd-5tfwa5dbxrx180043",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Bannister Chevrolet Cadillac Kamloops Ltd."
     }
   ]
 }

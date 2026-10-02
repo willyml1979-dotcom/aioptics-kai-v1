@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T16:56:55+00:00",
-  "snapshot": "2026-10-02T16:56:55+00:00",
+  "generated_at": "2026-10-02T22:53:01+00:00",
+  "snapshot": "2026-10-02T22:53:01+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 1,
   "vehicles": [
     {
       "pub_id": "duncan-hyundai-2t1kr32ex4c802768",
@@ -29,28 +29,6 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Duncan Hyundai"
-    },
-    {
-      "pub_id": "courtenay-mazda-2t1le40e89c003815",
-      "year": 2009,
-      "make": "Toyota",
-      "model": "Matrix",
-      "condition": "used",
-      "price_cad": 11999.0,
-      "price_note": null,
-      "color": "{$COLOREX}",
-      "dealer_id": "courtenay-mazda",
-      "vin": "2T1LE40E89C003815",
-      "stock": 14413100,
-      "listing_url": "https://www.courtenaymazda.com/used/2009-Toyota-Matrix.html",
-      "dealer_url": "https://www.courtenaymazda.com/used/2009-Toyota-Matrix.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-27T00:56:38",
-      "snapshot": "2026-09-27T00:59:45",
-      "go_url": "https://carwhisper.ca/go/courtenay-mazda-2t1le40e89c003815",
-      "region": "Vancouver Island",
-      "city": "Courtenay",
-      "province": "BC",
-      "dealer_name": "Courtenay Mazda"
     }
   ]
 }

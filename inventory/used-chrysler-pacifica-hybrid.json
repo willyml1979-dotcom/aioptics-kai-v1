@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T16:56:55+00:00",
-  "snapshot": "2026-10-02T16:56:55+00:00",
+  "generated_at": "2026-10-02T22:53:01+00:00",
+  "snapshot": "2026-10-02T22:53:01+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "marine-chrysler-dodge-jeep-ltd-2c4rc1s71rr112226",
@@ -10,6 +10,7 @@
       "make": "Chrysler",
       "model": "Pacifica Hybrid",
       "body_type": "van",
+      "drivetrain": "FWD",
       "propulsion": "hybrid",
       "propulsion_source": "stated",
       "condition": "used",
@@ -36,6 +37,7 @@
       "make": "Chrysler",
       "model": "Pacifica Hybrid",
       "body_type": "van",
+      "drivetrain": "FWD",
       "propulsion": "hybrid",
       "propulsion_source": "stated",
       "condition": "used",
@@ -55,6 +57,34 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Marine Chrysler Dodge Jeep Ltd."
+    },
+    {
+      "pub_id": "alberni-chrysler-dodge-jeep-ram-2c4rc1s77sr558645",
+      "year": 2025,
+      "make": "Chrysler",
+      "model": "Pacifica Hybrid",
+      "trim": "Limited S Appearance 2WD",
+      "body_type": "van",
+      "drivetrain": "FWD",
+      "propulsion": "hybrid",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 30157,
+      "price_cad": 58997.0,
+      "price_note": null,
+      "color": "Gray",
+      "dealer_id": "alberni-chrysler-dodge-jeep-ram",
+      "vin": "2C4RC1S77SR558645",
+      "stock": "C257139",
+      "listing_url": "https://www.albernichrysler.com/inventory/2025-chrysler-pacifica-hybrid-limited-s-appearance-7l13FCJQTOGzBocNn9YDggvdp",
+      "dealer_url": "https://www.albernichrysler.com/inventory/2025-chrysler-pacifica-hybrid-limited-s-appearance-7l13FCJQTOGzBocNn9YDggvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T18:23:57",
+      "snapshot": "2026-09-26T18:32:36",
+      "go_url": "https://carwhisper.ca/go/alberni-chrysler-dodge-jeep-ram-2c4rc1s77sr558645",
+      "region": "Vancouver Island",
+      "city": "Port Alberni",
+      "province": "BC",
+      "dealer_name": "Alberni Chrysler Dodge Jeep Ram"
     }
   ]
 }

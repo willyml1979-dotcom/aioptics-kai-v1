@@ -1,39 +1,13 @@
 {
-  "generated_at": "2026-10-02T16:56:55+00:00",
+  "generated_at": "2026-10-02T22:53:01+00:00",
   "condition": "new",
   "make": "chrysler",
   "files": [
     {
       "condition": "new",
       "make": "chrysler",
-      "model": "Grand Caravan SXTin Cranbrook",
-      "count": 3,
-      "file": "inventory/new-chrysler-grand-caravan-sxtin-cranbrook.json",
-      "models": [
-        {
-          "model": "Grand Caravan SXTin Cranbrook",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "chrysler",
-      "model": "Pacifica Selectin Cranbrook",
-      "count": 1,
-      "file": "inventory/new-chrysler-pacifica-selectin-cranbrook.json",
-      "models": [
-        {
-          "model": "Pacifica Selectin Cranbrook",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "chrysler",
-      "model": "GRAND CARAVAN",
-      "count": 20,
+      "model": "Grand Caravan",
+      "count": 23,
       "file": "inventory/new-chrysler-grand-caravan.json",
       "models": [
         {
@@ -42,6 +16,51 @@
         },
         {
           "model": "Grand Caravan",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chrysler",
+      "model": "Pacifica Select FWD",
+      "count": 12,
+      "file": "inventory/new-chrysler-pacifica-select-fwd.json",
+      "models": [
+        {
+          "model": "Pacifica Select FWD",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chrysler",
+      "model": "Pacifica",
+      "shard": "Kootenays",
+      "count": 3,
+      "file": "inventory/new-chrysler-pacifica-kootenays.json",
+      "models": [
+        {
+          "model": "PACIFICA",
+          "count": 1
+        },
+        {
+          "model": "Pacifica",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chrysler",
+      "model": "Pacifica",
+      "shard": "Lower Mainland",
+      "count": 14,
+      "file": "inventory/new-chrysler-pacifica-lower-mainland.json",
+      "models": [
+        {
+          "model": "Pacifica",
           "count": 14
         }
       ]
@@ -49,35 +68,7 @@
     {
       "condition": "new",
       "make": "chrysler",
-      "model": "PACIFICA",
-      "shard": "Kootenays",
-      "count": 1,
-      "file": "inventory/new-chrysler-pacifica-kootenays.json",
-      "models": [
-        {
-          "model": "PACIFICA",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "chrysler",
-      "model": "PACIFICA",
-      "shard": "Lower Mainland",
-      "count": 15,
-      "file": "inventory/new-chrysler-pacifica-lower-mainland.json",
-      "models": [
-        {
-          "model": "Pacifica",
-          "count": 15
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "chrysler",
-      "model": "PACIFICA",
+      "model": "Pacifica",
       "shard": "Norte/Cariboo",
       "count": 6,
       "file": "inventory/new-chrysler-pacifica-norte-cariboo.json",
@@ -95,7 +86,7 @@
     {
       "condition": "new",
       "make": "chrysler",
-      "model": "PACIFICA",
+      "model": "Pacifica",
       "shard": "Okanagan",
       "count": 1,
       "file": "inventory/new-chrysler-pacifica-okanagan.json",
@@ -109,7 +100,21 @@
     {
       "condition": "new",
       "make": "chrysler",
-      "model": "PACIFICA",
+      "model": "Pacifica",
+      "shard": "Thompson-Okanagan",
+      "count": 1,
+      "file": "inventory/new-chrysler-pacifica-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "Pacifica",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chrysler",
+      "model": "Pacifica",
       "shard": "sin-region",
       "count": 23,
       "file": "inventory/new-chrysler-pacifica-sin-region.json",
@@ -127,13 +132,26 @@
     {
       "condition": "new",
       "make": "chrysler",
-      "model": "Pacifica Selectin Maple Ridge",
-      "count": 1,
-      "file": "inventory/new-chrysler-pacifica-selectin-maple-ridge.json",
+      "model": "Pacifica Hybrid Select 2WD",
+      "count": 6,
+      "file": "inventory/new-chrysler-pacifica-hybrid-select-2wd.json",
       "models": [
         {
-          "model": "Pacifica Selectin Maple Ridge",
-          "count": 1
+          "model": "Pacifica Hybrid Select 2WD",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chrysler",
+      "model": "Grand Caravan SXT 2WD",
+      "count": 11,
+      "file": "inventory/new-chrysler-grand-caravan-sxt-2wd.json",
+      "models": [
+        {
+          "model": "Grand Caravan SXT 2WD",
+          "count": 11
         }
       ]
     }

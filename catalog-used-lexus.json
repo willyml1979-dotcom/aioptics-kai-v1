@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T16:56:55+00:00",
+  "generated_at": "2026-10-02T22:53:01+00:00",
   "condition": "used",
   "make": "lexus",
   "files": [
@@ -32,13 +32,26 @@
     {
       "condition": "used",
       "make": "lexus",
+      "model": "IS 250",
+      "count": 1,
+      "file": "inventory/used-lexus-is-250.json",
+      "models": [
+        {
+          "model": "IS 250",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
       "model": "RX",
-      "count": 18,
+      "count": 20,
       "file": "inventory/used-lexus-rx.json",
       "models": [
         {
           "model": "RX",
-          "count": 18
+          "count": 20
         }
       ]
     },
@@ -59,12 +72,12 @@
       "condition": "used",
       "make": "lexus",
       "model": "NX 300",
-      "count": 5,
+      "count": 6,
       "file": "inventory/used-lexus-nx-300.json",
       "models": [
         {
           "model": "NX 300",
-          "count": 5
+          "count": 6
         }
       ]
     },
@@ -72,12 +85,12 @@
       "condition": "used",
       "make": "lexus",
       "model": "UX",
-      "count": 6,
+      "count": 7,
       "file": "inventory/used-lexus-ux.json",
       "models": [
         {
           "model": "UX",
-          "count": 6
+          "count": 7
         }
       ]
     },
@@ -98,12 +111,12 @@
       "condition": "used",
       "make": "lexus",
       "model": "RX 350",
-      "count": 2,
+      "count": 4,
       "file": "inventory/used-lexus-rx-350.json",
       "models": [
         {
           "model": "RX 350",
-          "count": 2
+          "count": 4
         }
       ]
     },
@@ -130,32 +143,6 @@
         {
           "model": "GX",
           "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "lexus",
-      "model": "NX 300 F Sport Series 3in Kelowna",
-      "count": 1,
-      "file": "inventory/used-lexus-nx-300-f-sport-series-3in-kelowna.json",
-      "models": [
-        {
-          "model": "NX 300 F Sport Series 3in Kelowna",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "lexus",
-      "model": "RX 350 F Sport Series 3in Kelowna",
-      "count": 2,
-      "file": "inventory/used-lexus-rx-350-f-sport-series-3in-kelowna.json",
-      "models": [
-        {
-          "model": "RX 350 F Sport Series 3in Kelowna",
-          "count": 2
         }
       ]
     },

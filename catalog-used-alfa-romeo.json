@@ -1,14 +1,22 @@
 {
-  "generated_at": "2026-10-02T16:56:55+00:00",
+  "generated_at": "2026-10-02T22:53:01+00:00",
   "condition": "used",
   "make": "alfa-romeo",
   "files": [
     {
       "condition": "used",
       "make": "alfa-romeo",
-      "count": 1,
+      "count": 5,
       "file": "inventory/used-alfa-romeo.json",
       "models": [
+        {
+          "model": "Giulia",
+          "count": 1
+        },
+        {
+          "model": "Stelvio",
+          "count": 3
+        },
         {
           "model": "TONALE",
           "count": 1

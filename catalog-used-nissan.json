@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T16:56:55+00:00",
+  "generated_at": "2026-10-02T22:53:01+00:00",
   "condition": "used",
   "make": "nissan",
   "files": [
@@ -7,13 +7,13 @@
       "condition": "used",
       "make": "nissan",
       "model": "Rogue",
-      "shard": "Kootenays",
-      "count": 1,
-      "file": "inventory/used-nissan-rogue-kootenays.json",
+      "shard": "part1",
+      "count": 36,
+      "file": "inventory/used-nissan-rogue-part1.json",
       "models": [
         {
           "model": "Rogue",
-          "count": 1
+          "count": 36
         }
       ]
     },
@@ -21,13 +21,13 @@
       "condition": "used",
       "make": "nissan",
       "model": "Rogue",
-      "shard": "Lower Mainland",
-      "count": 33,
-      "file": "inventory/used-nissan-rogue-lower-mainland.json",
+      "shard": "part2",
+      "count": 36,
+      "file": "inventory/used-nissan-rogue-part2.json",
       "models": [
         {
           "model": "Rogue",
-          "count": 33
+          "count": 36
         }
       ]
     },
@@ -35,23 +35,9 @@
       "condition": "used",
       "make": "nissan",
       "model": "Rogue",
-      "shard": "Norte/Cariboo",
-      "count": 10,
-      "file": "inventory/used-nissan-rogue-norte-cariboo.json",
-      "models": [
-        {
-          "model": "Rogue",
-          "count": 10
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Rogue",
-      "shard": "Okanagan",
-      "count": 22,
-      "file": "inventory/used-nissan-rogue-okanagan.json",
+      "shard": "part3",
+      "count": 36,
+      "file": "inventory/used-nissan-rogue-part3.json",
       "models": [
         {
           "model": "ROGUE",
@@ -59,7 +45,7 @@
         },
         {
           "model": "Rogue",
-          "count": 21
+          "count": 35
         }
       ]
     },
@@ -67,13 +53,13 @@
       "condition": "used",
       "make": "nissan",
       "model": "Rogue",
-      "shard": "Thompson-Okanagan",
-      "count": 3,
-      "file": "inventory/used-nissan-rogue-thompson-okanagan.json",
+      "shard": "part4",
+      "count": 36,
+      "file": "inventory/used-nissan-rogue-part4.json",
       "models": [
         {
           "model": "Rogue",
-          "count": 3
+          "count": 36
         }
       ]
     },
@@ -81,40 +67,13 @@
       "condition": "used",
       "make": "nissan",
       "model": "Rogue",
-      "shard": "Vancouver Island",
-      "count": 38,
-      "file": "inventory/used-nissan-rogue-vancouver-island.json",
+      "shard": "part5",
+      "count": 35,
+      "file": "inventory/used-nissan-rogue-part5.json",
       "models": [
         {
           "model": "Rogue",
-          "count": 38
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Rogue",
-      "shard": "sin-region",
-      "count": 32,
-      "file": "inventory/used-nissan-rogue-sin-region.json",
-      "models": [
-        {
-          "model": "Rogue",
-          "count": 32
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Rogue SL",
-      "count": 1,
-      "file": "inventory/used-nissan-rogue-sl.json",
-      "models": [
-        {
-          "model": "Rogue SL",
-          "count": 1
+          "count": 35
         }
       ]
     },
@@ -122,12 +81,12 @@
       "condition": "used",
       "make": "nissan",
       "model": "Armada",
-      "count": 12,
+      "count": 13,
       "file": "inventory/used-nissan-armada.json",
       "models": [
         {
           "model": "Armada",
-          "count": 12
+          "count": 13
         }
       ]
     },
@@ -148,12 +107,96 @@
       "condition": "used",
       "make": "nissan",
       "model": "Sentra",
-      "count": 38,
-      "file": "inventory/used-nissan-sentra.json",
+      "shard": "Lower Mainland",
+      "count": 21,
+      "file": "inventory/used-nissan-sentra-lower-mainland.json",
       "models": [
         {
           "model": "Sentra",
-          "count": 38
+          "count": 21
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Sentra",
+      "shard": "Norte/Cariboo",
+      "count": 2,
+      "file": "inventory/used-nissan-sentra-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Sentra",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Sentra",
+      "shard": "Okanagan",
+      "count": 7,
+      "file": "inventory/used-nissan-sentra-okanagan.json",
+      "models": [
+        {
+          "model": "Sentra",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Sentra",
+      "shard": "Thompson-Okanagan",
+      "count": 1,
+      "file": "inventory/used-nissan-sentra-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "Sentra",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Sentra",
+      "shard": "Vancouver Island",
+      "count": 12,
+      "file": "inventory/used-nissan-sentra-vancouver-island.json",
+      "models": [
+        {
+          "model": "Sentra",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Sentra",
+      "shard": "sin-region",
+      "count": 5,
+      "file": "inventory/used-nissan-sentra-sin-region.json",
+      "models": [
+        {
+          "model": "Sentra",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Micra",
+      "count": 15,
+      "file": "inventory/used-nissan-micra.json",
+      "models": [
+        {
+          "model": "Micra",
+          "count": 15
         }
       ]
     },
@@ -174,7 +217,7 @@
       "condition": "used",
       "make": "nissan",
       "model": "Altima",
-      "count": 17,
+      "count": 18,
       "file": "inventory/used-nissan-altima.json",
       "models": [
         {
@@ -183,7 +226,7 @@
         },
         {
           "model": "Altima",
-          "count": 16
+          "count": 17
         }
       ]
     },
@@ -191,12 +234,12 @@
       "condition": "used",
       "make": "nissan",
       "model": "Qashqai",
-      "count": 35,
+      "count": 39,
       "file": "inventory/used-nissan-qashqai.json",
       "models": [
         {
           "model": "Qashqai",
-          "count": 35
+          "count": 39
         }
       ]
     },
@@ -205,12 +248,12 @@
       "make": "nissan",
       "model": "Pathfinder",
       "shard": "Lower Mainland",
-      "count": 12,
+      "count": 17,
       "file": "inventory/used-nissan-pathfinder-lower-mainland.json",
       "models": [
         {
           "model": "Pathfinder",
-          "count": 12
+          "count": 17
         }
       ]
     },
@@ -233,7 +276,7 @@
       "make": "nissan",
       "model": "Pathfinder",
       "shard": "Okanagan",
-      "count": 15,
+      "count": 14,
       "file": "inventory/used-nissan-pathfinder-okanagan.json",
       "models": [
         {
@@ -242,7 +285,7 @@
         },
         {
           "model": "Pathfinder",
-          "count": 14
+          "count": 13
         }
       ]
     },
@@ -279,25 +322,12 @@
       "make": "nissan",
       "model": "Pathfinder",
       "shard": "sin-region",
-      "count": 6,
+      "count": 7,
       "file": "inventory/used-nissan-pathfinder-sin-region.json",
       "models": [
         {
           "model": "Pathfinder",
-          "count": 6
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Micra",
-      "count": 14,
-      "file": "inventory/used-nissan-micra.json",
-      "models": [
-        {
-          "model": "Micra",
-          "count": 14
+          "count": 7
         }
       ]
     },
@@ -306,12 +336,12 @@
       "make": "nissan",
       "model": "Kicks",
       "shard": "Lower Mainland",
-      "count": 12,
+      "count": 35,
       "file": "inventory/used-nissan-kicks-lower-mainland.json",
       "models": [
         {
           "model": "Kicks",
-          "count": 12
+          "count": 35
         }
       ]
     },
@@ -334,12 +364,12 @@
       "make": "nissan",
       "model": "Kicks",
       "shard": "Okanagan",
-      "count": 8,
+      "count": 12,
       "file": "inventory/used-nissan-kicks-okanagan.json",
       "models": [
         {
           "model": "Kicks",
-          "count": 8
+          "count": 12
         }
       ]
     },
@@ -362,12 +392,12 @@
       "make": "nissan",
       "model": "Kicks",
       "shard": "Vancouver Island",
-      "count": 17,
+      "count": 19,
       "file": "inventory/used-nissan-kicks-vancouver-island.json",
       "models": [
         {
           "model": "Kicks",
-          "count": 17
+          "count": 19
         }
       ]
     },
@@ -376,12 +406,12 @@
       "make": "nissan",
       "model": "Kicks",
       "shard": "sin-region",
-      "count": 10,
+      "count": 12,
       "file": "inventory/used-nissan-kicks-sin-region.json",
       "models": [
         {
           "model": "Kicks",
-          "count": 10
+          "count": 12
         }
       ]
     },
@@ -390,12 +420,12 @@
       "make": "nissan",
       "model": "Murano",
       "shard": "Lower Mainland",
-      "count": 11,
+      "count": 17,
       "file": "inventory/used-nissan-murano-lower-mainland.json",
       "models": [
         {
           "model": "Murano",
-          "count": 11
+          "count": 17
         }
       ]
     },
@@ -418,12 +448,12 @@
       "make": "nissan",
       "model": "Murano",
       "shard": "Okanagan",
-      "count": 11,
+      "count": 13,
       "file": "inventory/used-nissan-murano-okanagan.json",
       "models": [
         {
           "model": "Murano",
-          "count": 11
+          "count": 13
         }
       ]
     },
@@ -446,12 +476,12 @@
       "make": "nissan",
       "model": "Murano",
       "shard": "Vancouver Island",
-      "count": 14,
+      "count": 15,
       "file": "inventory/used-nissan-murano-vancouver-island.json",
       "models": [
         {
           "model": "Murano",
-          "count": 14
+          "count": 15
         }
       ]
     },
@@ -473,50 +503,24 @@
       "condition": "used",
       "make": "nissan",
       "model": "Versa",
-      "count": 20,
+      "count": 23,
       "file": "inventory/used-nissan-versa.json",
       "models": [
         {
           "model": "Versa",
-          "count": 20
+          "count": 23
         }
       ]
     },
     {
       "condition": "used",
       "make": "nissan",
-      "model": "Kicks SRin Abbotsford",
+      "model": "Titan XD",
       "count": 1,
-      "file": "inventory/used-nissan-kicks-srin-abbotsford.json",
+      "file": "inventory/used-nissan-titan-xd.json",
       "models": [
         {
-          "model": "Kicks SRin Abbotsford",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Versa SV - Heated Seats - Apple CarPlayin Mission",
-      "count": 1,
-      "file": "inventory/used-nissan-versa-sv-heated-seats-apple-carplayin-mission.json",
-      "models": [
-        {
-          "model": "Versa SV - Heated Seats - Apple CarPlayin Mission",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Kicks SVin Abbotsford",
-      "count": 1,
-      "file": "inventory/used-nissan-kicks-svin-abbotsford.json",
-      "models": [
-        {
-          "model": "Kicks SVin Abbotsford",
+          "model": "Titan XD",
           "count": 1
         }
       ]
@@ -525,16 +529,16 @@
       "condition": "used",
       "make": "nissan",
       "model": "Leaf",
-      "count": 11,
+      "count": 15,
       "file": "inventory/used-nissan-leaf.json",
       "models": [
         {
           "model": "LEAF",
-          "count": 6
+          "count": 9
         },
         {
           "model": "Leaf",
-          "count": 5
+          "count": 6
         }
       ]
     },
@@ -542,7 +546,7 @@
       "condition": "used",
       "make": "nissan",
       "model": "Kicks Play",
-      "count": 18,
+      "count": 24,
       "file": "inventory/used-nissan-kicks-play.json",
       "models": [
         {
@@ -551,33 +555,7 @@
         },
         {
           "model": "Kicks Play",
-          "count": 15
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Sentra SVin Abbotsford",
-      "count": 1,
-      "file": "inventory/used-nissan-sentra-svin-abbotsford.json",
-      "models": [
-        {
-          "model": "Sentra SVin Abbotsford",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Versa SVin Abbotsford",
-      "count": 1,
-      "file": "inventory/used-nissan-versa-svin-abbotsford.json",
-      "models": [
-        {
-          "model": "Versa SVin Abbotsford",
-          "count": 1
+          "count": 21
         }
       ]
     },
@@ -597,23 +575,14 @@
     {
       "condition": "used",
       "make": "nissan",
-      "model": "Frontier",
-      "count": 8,
-      "file": "inventory/used-nissan-frontier.json",
-      "models": [
-        {
-          "model": "Frontier",
-          "count": 8
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
       "model": "Ariya",
-      "count": 5,
+      "count": 7,
       "file": "inventory/used-nissan-ariya.json",
       "models": [
+        {
+          "model": "ARIYA",
+          "count": 2
+        },
         {
           "model": "Ariya",
           "count": 5
@@ -630,6 +599,19 @@
         {
           "model": "Titan",
           "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Frontier",
+      "count": 9,
+      "file": "inventory/used-nissan-frontier.json",
+      "models": [
+        {
+          "model": "Frontier",
+          "count": 9
         }
       ]
     },
@@ -663,12 +645,12 @@
       "condition": "used",
       "make": "nissan",
       "model": "Z",
-      "count": 2,
+      "count": 5,
       "file": "inventory/used-nissan-z.json",
       "models": [
         {
           "model": "Z",
-          "count": 2
+          "count": 5
         }
       ]
     },
@@ -688,38 +670,12 @@
     {
       "condition": "used",
       "make": "nissan",
-      "model": "Sentra SV",
-      "count": 1,
-      "file": "inventory/used-nissan-sentra-sv.json",
-      "models": [
-        {
-          "model": "Sentra SV",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
       "model": "Rogue SV",
       "count": 1,
       "file": "inventory/used-nissan-rogue-sv.json",
       "models": [
         {
           "model": "Rogue SV",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Rogue S",
-      "count": 1,
-      "file": "inventory/used-nissan-rogue-s.json",
-      "models": [
-        {
-          "model": "Rogue S",
           "count": 1
         }
       ]
@@ -740,142 +696,12 @@
     {
       "condition": "used",
       "make": "nissan",
-      "model": "Kicks 1.6 SV FWDin Kelowna",
-      "count": 3,
-      "file": "inventory/used-nissan-kicks-1-6-sv-fwdin-kelowna.json",
-      "models": [
-        {
-          "model": "Kicks 1.6 SV FWDin Kelowna",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Rogue S AWDin Kelowna",
-      "count": 1,
-      "file": "inventory/used-nissan-rogue-s-awdin-kelowna.json",
-      "models": [
-        {
-          "model": "Rogue S AWDin Kelowna",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Rogue Platinum AWDin Kelowna",
-      "count": 4,
-      "file": "inventory/used-nissan-rogue-platinum-awdin-kelowna.json",
-      "models": [
-        {
-          "model": "Rogue Platinum AWDin Kelowna",
-          "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Rogue SV Moonroof AWD w/Premium Packagein Kelowna",
-      "count": 2,
-      "file": "inventory/used-nissan-rogue-sv-moonroof-awd-w-premium-packagein-kelowna.json",
-      "models": [
-        {
-          "model": "Rogue SV Moonroof AWD w/Premium Packagein Kelowna",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Rogue Platinumin Kelowna",
-      "count": 1,
-      "file": "inventory/used-nissan-rogue-platinumin-kelowna.json",
-      "models": [
-        {
-          "model": "Rogue Platinumin Kelowna",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Rogue Platinum AWD w/Tech Packagein Kelowna",
-      "count": 1,
-      "file": "inventory/used-nissan-rogue-platinum-awd-w-tech-packagein-kelowna.json",
-      "models": [
-        {
-          "model": "Rogue Platinum AWD w/Tech Packagein Kelowna",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
       "model": "Murano SV - CLAIM FREE",
       "count": 1,
       "file": "inventory/used-nissan-murano-sv-claim-free.json",
       "models": [
         {
           "model": "Murano SV - CLAIM FREE",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Kicks SRin Courtenay",
-      "count": 1,
-      "file": "inventory/used-nissan-kicks-srin-courtenay.json",
-      "models": [
-        {
-          "model": "Kicks SRin Courtenay",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Kicks S - 1 Owner - Excellent Shape - LOW Kms!in Courtenay",
-      "count": 1,
-      "file": "inventory/used-nissan-kicks-s-1-owner-excellent-shape-low-kms-in-courtenay.json",
-      "models": [
-        {
-          "model": "Kicks S - 1 Owner - Excellent Shape - LOW Kms!in Courtenay",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Rogue S AWD - Heated Seats - Heated Steering Wheel - LOW Kms - Excellent Shape - 1 Owner!in Courtenay",
-      "count": 1,
-      "file": "inventory/used-nissan-rogue-s-awd-heated-seats-heated-steering-wheel-low-kms-excellent-shape-1-owner-in-courtenay.json",
-      "models": [
-        {
-          "model": "Rogue S AWD - Heated Seats - Heated Steering Wheel - LOW Kms - Excellent Shape - 1 Owner!in Courtenay",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Rogue Platinum - Low Kms- Power Lift Gate - 360 Camera - Excellent History!in Courtenay",
-      "count": 1,
-      "file": "inventory/used-nissan-rogue-platinum-low-kms-power-lift-gate-360-camera-excellent-history-in-courtenay.json",
-      "models": [
-        {
-          "model": "Rogue Platinum - Low Kms- Power Lift Gate - 360 Camera - Excellent History!in Courtenay",
           "count": 1
         }
       ]
@@ -928,19 +754,6 @@
       "models": [
         {
           "model": "X-Trail",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Sentra SR",
-      "count": 1,
-      "file": "inventory/used-nissan-sentra-sr.json",
-      "models": [
-        {
-          "model": "Sentra SR",
           "count": 1
         }
       ]

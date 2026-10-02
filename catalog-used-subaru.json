@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T16:56:55+00:00",
+  "generated_at": "2026-10-02T22:53:01+00:00",
   "condition": "used",
   "make": "subaru",
   "files": [
@@ -35,12 +35,12 @@
       "make": "subaru",
       "model": "Crosstrek",
       "shard": "Lower Mainland",
-      "count": 15,
+      "count": 17,
       "file": "inventory/used-subaru-crosstrek-lower-mainland.json",
       "models": [
         {
           "model": "Crosstrek",
-          "count": 15
+          "count": 17
         }
       ]
     },
@@ -49,12 +49,12 @@
       "make": "subaru",
       "model": "Crosstrek",
       "shard": "Norte/Cariboo",
-      "count": 4,
+      "count": 6,
       "file": "inventory/used-subaru-crosstrek-norte-cariboo.json",
       "models": [
         {
           "model": "Crosstrek",
-          "count": 4
+          "count": 6
         }
       ]
     },
@@ -103,27 +103,14 @@
     {
       "condition": "used",
       "make": "subaru",
-      "model": "Solterra",
-      "count": 7,
-      "file": "inventory/used-subaru-solterra.json",
-      "models": [
-        {
-          "model": "Solterra",
-          "count": 7
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "subaru",
       "model": "Outback",
       "shard": "Kootenays",
-      "count": 3,
+      "count": 4,
       "file": "inventory/used-subaru-outback-kootenays.json",
       "models": [
         {
           "model": "Outback",
-          "count": 3
+          "count": 4
         }
       ]
     },
@@ -174,12 +161,12 @@
       "make": "subaru",
       "model": "Outback",
       "shard": "Vancouver Island",
-      "count": 8,
+      "count": 9,
       "file": "inventory/used-subaru-outback-vancouver-island.json",
       "models": [
         {
           "model": "Outback",
-          "count": 8
+          "count": 9
         }
       ]
     },
@@ -194,6 +181,32 @@
         {
           "model": "Outback",
           "count": 25
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "WRX",
+      "count": 36,
+      "file": "inventory/used-subaru-wrx.json",
+      "models": [
+        {
+          "model": "WRX",
+          "count": 36
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Solterra",
+      "count": 7,
+      "file": "inventory/used-subaru-solterra.json",
+      "models": [
+        {
+          "model": "Solterra",
+          "count": 7
         }
       ]
     },
@@ -230,12 +243,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "Norte/Cariboo",
-      "count": 11,
+      "count": 12,
       "file": "inventory/used-subaru-forester-norte-cariboo.json",
       "models": [
         {
           "model": "Forester",
-          "count": 11
+          "count": 12
         }
       ]
     },
@@ -272,12 +285,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "Vancouver Island",
-      "count": 20,
+      "count": 34,
       "file": "inventory/used-subaru-forester-vancouver-island.json",
       "models": [
         {
           "model": "Forester",
-          "count": 20
+          "count": 34
         }
       ]
     },
@@ -292,19 +305,6 @@
         {
           "model": "Forester",
           "count": 34
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "subaru",
-      "model": "WRX",
-      "count": 32,
-      "file": "inventory/used-subaru-wrx.json",
-      "models": [
-        {
-          "model": "WRX",
-          "count": 32
         }
       ]
     },
@@ -402,19 +402,6 @@
     {
       "condition": "used",
       "make": "subaru",
-      "model": "Forester Wilderness",
-      "count": 1,
-      "file": "inventory/used-subaru-forester-wilderness.json",
-      "models": [
-        {
-          "model": "Forester Wilderness",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "subaru",
       "model": "Crosstrek Outdoor CVT",
       "count": 1,
       "file": "inventory/used-subaru-crosstrek-outdoor-cvt.json",
@@ -474,45 +461,6 @@
         {
           "model": "B9 Tribeca",
           "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "subaru",
-      "model": "Forester Touring 2.5l Cvtin Nanaimo",
-      "count": 7,
-      "file": "inventory/used-subaru-forester-touring-2-5l-cvtin-nanaimo.json",
-      "models": [
-        {
-          "model": "Forester Touring 2.5l Cvtin Nanaimo",
-          "count": 7
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "subaru",
-      "model": "Forester Limited 2.5l Cvtin Nanaimo",
-      "count": 1,
-      "file": "inventory/used-subaru-forester-limited-2-5l-cvtin-nanaimo.json",
-      "models": [
-        {
-          "model": "Forester Limited 2.5l Cvtin Nanaimo",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "subaru",
-      "model": "Forester Sport 2.5l Cvtin Nanaimo",
-      "count": 6,
-      "file": "inventory/used-subaru-forester-sport-2-5l-cvtin-nanaimo.json",
-      "models": [
-        {
-          "model": "Forester Sport 2.5l Cvtin Nanaimo",
-          "count": 6
         }
       ]
     },

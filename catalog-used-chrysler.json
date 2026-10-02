@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-02T16:56:55+00:00",
+  "generated_at": "2026-10-02T22:53:01+00:00",
   "condition": "used",
   "make": "chrysler",
   "files": [
     {
       "condition": "used",
       "make": "chrysler",
-      "model": "GRAND CARAVANSXT 2WD",
-      "count": 1,
-      "file": "inventory/used-chrysler-grand-caravansxt-2wd.json",
+      "model": "300",
+      "count": 7,
+      "file": "inventory/used-chrysler-300.json",
       "models": [
         {
-          "model": "GRAND CARAVANSXT 2WD",
-          "count": 1
+          "model": "300",
+          "count": 7
         }
       ]
     },
@@ -32,13 +32,13 @@
     {
       "condition": "used",
       "make": "chrysler",
-      "model": "300",
-      "count": 7,
-      "file": "inventory/used-chrysler-300.json",
+      "model": "GRAND CARAVANSXT 2WD",
+      "count": 1,
+      "file": "inventory/used-chrysler-grand-caravansxt-2wd.json",
       "models": [
         {
-          "model": "300",
-          "count": 7
+          "model": "GRAND CARAVANSXT 2WD",
+          "count": 1
         }
       ]
     },
@@ -61,12 +61,12 @@
       "make": "chrysler",
       "model": "PACIFICA",
       "shard": "Lower Mainland",
-      "count": 18,
+      "count": 22,
       "file": "inventory/used-chrysler-pacifica-lower-mainland.json",
       "models": [
         {
           "model": "Pacifica",
-          "count": 18
+          "count": 22
         }
       ]
     },
@@ -75,12 +75,12 @@
       "make": "chrysler",
       "model": "PACIFICA",
       "shard": "Norte/Cariboo",
-      "count": 2,
+      "count": 5,
       "file": "inventory/used-chrysler-pacifica-norte-cariboo.json",
       "models": [
         {
           "model": "Pacifica",
-          "count": 2
+          "count": 5
         }
       ]
     },
@@ -144,7 +144,7 @@
       "condition": "used",
       "make": "chrysler",
       "model": "Grand Caravan",
-      "count": 15,
+      "count": 18,
       "file": "inventory/used-chrysler-grand-caravan.json",
       "models": [
         {
@@ -153,7 +153,7 @@
         },
         {
           "model": "Grand Caravan",
-          "count": 14
+          "count": 17
         }
       ]
     },
@@ -161,12 +161,12 @@
       "condition": "used",
       "make": "chrysler",
       "model": "Pacifica Hybrid",
-      "count": 2,
+      "count": 3,
       "file": "inventory/used-chrysler-pacifica-hybrid.json",
       "models": [
         {
           "model": "Pacifica Hybrid",
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -192,19 +192,6 @@
       "models": [
         {
           "model": "Town & Country",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chrysler",
-      "model": "Grand Caravan SXTin Courtenay",
-      "count": 1,
-      "file": "inventory/used-chrysler-grand-caravan-sxtin-courtenay.json",
-      "models": [
-        {
-          "model": "Grand Caravan SXTin Courtenay",
           "count": 1
         }
       ]

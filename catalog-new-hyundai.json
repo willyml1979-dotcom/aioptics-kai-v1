@@ -1,14 +1,140 @@
 {
-  "generated_at": "2026-10-02T16:56:55+00:00",
+  "generated_at": "2026-10-02T22:53:01+00:00",
   "condition": "new",
   "make": "hyundai",
   "files": [
     {
       "condition": "new",
       "make": "hyundai",
+      "model": "Elantra",
+      "shard": "part1",
+      "count": 35,
+      "file": "inventory/new-hyundai-elantra-part1.json",
+      "models": [
+        {
+          "model": "Elantra",
+          "count": 35
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Elantra",
+      "shard": "part2",
+      "count": 35,
+      "file": "inventory/new-hyundai-elantra-part2.json",
+      "models": [
+        {
+          "model": "Elantra",
+          "count": 35
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Elantra",
+      "shard": "part3",
+      "count": 35,
+      "file": "inventory/new-hyundai-elantra-part3.json",
+      "models": [
+        {
+          "model": "Elantra",
+          "count": 35
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Elantra",
+      "shard": "part4",
+      "count": 35,
+      "file": "inventory/new-hyundai-elantra-part4.json",
+      "models": [
+        {
+          "model": "Elantra",
+          "count": 35
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Elantra",
+      "shard": "part5",
+      "count": 35,
+      "file": "inventory/new-hyundai-elantra-part5.json",
+      "models": [
+        {
+          "model": "Elantra",
+          "count": 35
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Elantra",
+      "shard": "part6",
+      "count": 35,
+      "file": "inventory/new-hyundai-elantra-part6.json",
+      "models": [
+        {
+          "model": "Elantra",
+          "count": 35
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Elantra",
+      "shard": "part7",
+      "count": 34,
+      "file": "inventory/new-hyundai-elantra-part7.json",
+      "models": [
+        {
+          "model": "Elantra",
+          "count": 34
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Venue",
+      "shard": "part1",
+      "count": 39,
+      "file": "inventory/new-hyundai-venue-part1.json",
+      "models": [
+        {
+          "model": "Venue",
+          "count": 39
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Venue",
+      "shard": "part2",
+      "count": 39,
+      "file": "inventory/new-hyundai-venue-part2.json",
+      "models": [
+        {
+          "model": "Venue",
+          "count": 39
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
       "model": "Tucson",
       "shard": "part1",
-      "count": 33,
+      "count": 35,
       "file": "inventory/new-hyundai-tucson-part1.json",
       "models": [
         {
@@ -17,7 +143,7 @@
         },
         {
           "model": "Tucson",
-          "count": 32
+          "count": 34
         }
       ]
     },
@@ -26,12 +152,12 @@
       "make": "hyundai",
       "model": "Tucson",
       "shard": "part2",
-      "count": 33,
+      "count": 35,
       "file": "inventory/new-hyundai-tucson-part2.json",
       "models": [
         {
           "model": "Tucson",
-          "count": 33
+          "count": 35
         }
       ]
     },
@@ -40,12 +166,12 @@
       "make": "hyundai",
       "model": "Tucson",
       "shard": "part3",
-      "count": 33,
+      "count": 35,
       "file": "inventory/new-hyundai-tucson-part3.json",
       "models": [
         {
           "model": "Tucson",
-          "count": 33
+          "count": 35
         }
       ]
     },
@@ -54,12 +180,12 @@
       "make": "hyundai",
       "model": "Tucson",
       "shard": "part4",
-      "count": 33,
+      "count": 35,
       "file": "inventory/new-hyundai-tucson-part4.json",
       "models": [
         {
           "model": "Tucson",
-          "count": 33
+          "count": 35
         }
       ]
     },
@@ -68,165 +194,12 @@
       "make": "hyundai",
       "model": "Tucson",
       "shard": "part5",
-      "count": 33,
+      "count": 34,
       "file": "inventory/new-hyundai-tucson-part5.json",
       "models": [
         {
           "model": "Tucson",
-          "count": 33
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Tucson Hybrid",
-      "shard": "part1",
-      "count": 37,
-      "file": "inventory/new-hyundai-tucson-hybrid-part1.json",
-      "models": [
-        {
-          "model": "Tucson Hybrid",
-          "count": 37
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Tucson Hybrid",
-      "shard": "part2",
-      "count": 37,
-      "file": "inventory/new-hyundai-tucson-hybrid-part2.json",
-      "models": [
-        {
-          "model": "Tucson Hybrid",
-          "count": 37
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Tucson Hybrid",
-      "shard": "part3",
-      "count": 37,
-      "file": "inventory/new-hyundai-tucson-hybrid-part3.json",
-      "models": [
-        {
-          "model": "Tucson Hybrid",
-          "count": 37
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Tucson Hybrid",
-      "shard": "part4",
-      "count": 37,
-      "file": "inventory/new-hyundai-tucson-hybrid-part4.json",
-      "models": [
-        {
-          "model": "Tucson Hybrid",
-          "count": 37
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Tucson Hybrid",
-      "shard": "part5",
-      "count": 37,
-      "file": "inventory/new-hyundai-tucson-hybrid-part5.json",
-      "models": [
-        {
-          "model": "Tucson Hybrid",
-          "count": 37
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Tucson Hybrid",
-      "shard": "part6",
-      "count": 34,
-      "file": "inventory/new-hyundai-tucson-hybrid-part6.json",
-      "models": [
-        {
-          "model": "Tucson Hybrid",
           "count": 34
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Venue",
-      "shard": "Lower Mainland",
-      "count": 34,
-      "file": "inventory/new-hyundai-venue-lower-mainland.json",
-      "models": [
-        {
-          "model": "Venue",
-          "count": 34
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Venue",
-      "shard": "Norte/Cariboo",
-      "count": 5,
-      "file": "inventory/new-hyundai-venue-norte-cariboo.json",
-      "models": [
-        {
-          "model": "Venue",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Venue",
-      "shard": "Okanagan",
-      "count": 10,
-      "file": "inventory/new-hyundai-venue-okanagan.json",
-      "models": [
-        {
-          "model": "Venue",
-          "count": 10
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Venue",
-      "shard": "Vancouver Island",
-      "count": 5,
-      "file": "inventory/new-hyundai-venue-vancouver-island.json",
-      "models": [
-        {
-          "model": "Venue",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "IONIQ 5",
-      "count": 23,
-      "file": "inventory/new-hyundai-ioniq-5.json",
-      "models": [
-        {
-          "model": "IONIQ 5",
-          "count": 23
         }
       ]
     },
@@ -281,6 +254,20 @@
       "file": "inventory/new-hyundai-kona-part4.json",
       "models": [
         {
+          "model": "Kona",
+          "count": 37
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Kona",
+      "shard": "part5",
+      "count": 37,
+      "file": "inventory/new-hyundai-kona-part5.json",
+      "models": [
+        {
           "model": "KONA",
           "count": 1
         },
@@ -294,9 +281,9 @@
       "condition": "new",
       "make": "hyundai",
       "model": "Kona",
-      "shard": "part5",
+      "shard": "part6",
       "count": 37,
-      "file": "inventory/new-hyundai-kona-part5.json",
+      "file": "inventory/new-hyundai-kona-part6.json",
       "models": [
         {
           "model": "Kona",
@@ -308,400 +295,13 @@
       "condition": "new",
       "make": "hyundai",
       "model": "Kona",
-      "shard": "part6",
-      "count": 36,
-      "file": "inventory/new-hyundai-kona-part6.json",
+      "shard": "part7",
+      "count": 33,
+      "file": "inventory/new-hyundai-kona-part7.json",
       "models": [
         {
           "model": "Kona",
-          "count": 36
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Elantra",
-      "shard": "part1",
-      "count": 36,
-      "file": "inventory/new-hyundai-elantra-part1.json",
-      "models": [
-        {
-          "model": "Elantra",
-          "count": 36
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Elantra",
-      "shard": "part2",
-      "count": 36,
-      "file": "inventory/new-hyundai-elantra-part2.json",
-      "models": [
-        {
-          "model": "Elantra",
-          "count": 36
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Elantra",
-      "shard": "part3",
-      "count": 36,
-      "file": "inventory/new-hyundai-elantra-part3.json",
-      "models": [
-        {
-          "model": "Elantra",
-          "count": 36
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Elantra",
-      "shard": "part4",
-      "count": 36,
-      "file": "inventory/new-hyundai-elantra-part4.json",
-      "models": [
-        {
-          "model": "Elantra",
-          "count": 36
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Elantra",
-      "shard": "part5",
-      "count": 35,
-      "file": "inventory/new-hyundai-elantra-part5.json",
-      "models": [
-        {
-          "model": "Elantra",
-          "count": 35
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Venue Preferredin British Columbia",
-      "count": 3,
-      "file": "inventory/new-hyundai-venue-preferredin-british-columbia.json",
-      "models": [
-        {
-          "model": "Venue Preferredin British Columbia",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Venue Preferredin Surrey",
-      "count": 5,
-      "file": "inventory/new-hyundai-venue-preferredin-surrey.json",
-      "models": [
-        {
-          "model": "Venue Preferredin Surrey",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Elantra Preferredin Surrey",
-      "count": 3,
-      "file": "inventory/new-hyundai-elantra-preferredin-surrey.json",
-      "models": [
-        {
-          "model": "Elantra Preferredin Surrey",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Venue Ultimatein British Columbia",
-      "count": 3,
-      "file": "inventory/new-hyundai-venue-ultimatein-british-columbia.json",
-      "models": [
-        {
-          "model": "Venue Ultimatein British Columbia",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Elantra Preferredin British Columbia",
-      "count": 17,
-      "file": "inventory/new-hyundai-elantra-preferredin-british-columbia.json",
-      "models": [
-        {
-          "model": "Elantra Preferredin British Columbia",
-          "count": 17
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Venue Ultimate Blackin Surrey",
-      "count": 1,
-      "file": "inventory/new-hyundai-venue-ultimate-blackin-surrey.json",
-      "models": [
-        {
-          "model": "Venue Ultimate Blackin Surrey",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Elantra Preferred Techin Surrey",
-      "count": 12,
-      "file": "inventory/new-hyundai-elantra-preferred-techin-surrey.json",
-      "models": [
-        {
-          "model": "Elantra Preferred Techin Surrey",
-          "count": 12
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Elantra Luxuryin Surrey",
-      "count": 3,
-      "file": "inventory/new-hyundai-elantra-luxuryin-surrey.json",
-      "models": [
-        {
-          "model": "Elantra Luxuryin Surrey",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Elantra Luxuryin British Columbia",
-      "count": 4,
-      "file": "inventory/new-hyundai-elantra-luxuryin-british-columbia.json",
-      "models": [
-        {
-          "model": "Elantra Luxuryin British Columbia",
-          "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Kona Essentialin British Columbia",
-      "count": 7,
-      "file": "inventory/new-hyundai-kona-essentialin-british-columbia.json",
-      "models": [
-        {
-          "model": "Kona Essentialin British Columbia",
-          "count": 7
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Kona 2.0l Essential Awdin Surrey",
-      "count": 1,
-      "file": "inventory/new-hyundai-kona-2-0l-essential-awdin-surrey.json",
-      "models": [
-        {
-          "model": "Kona 2.0l Essential Awdin Surrey",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Elantra Hybrid",
-      "shard": "Lower Mainland",
-      "count": 24,
-      "file": "inventory/new-hyundai-elantra-hybrid-lower-mainland.json",
-      "models": [
-        {
-          "model": "Elantra Hybrid",
-          "count": 24
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Elantra Hybrid",
-      "shard": "Norte/Cariboo",
-      "count": 3,
-      "file": "inventory/new-hyundai-elantra-hybrid-norte-cariboo.json",
-      "models": [
-        {
-          "model": "Elantra Hybrid",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Elantra Hybrid",
-      "shard": "Okanagan",
-      "count": 5,
-      "file": "inventory/new-hyundai-elantra-hybrid-okanagan.json",
-      "models": [
-        {
-          "model": "Elantra Hybrid",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Elantra Hybrid",
-      "shard": "Vancouver Island",
-      "count": 4,
-      "file": "inventory/new-hyundai-elantra-hybrid-vancouver-island.json",
-      "models": [
-        {
-          "model": "Elantra Hybrid",
-          "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Elantra Hybrid",
-      "shard": "sin-region",
-      "count": 7,
-      "file": "inventory/new-hyundai-elantra-hybrid-sin-region.json",
-      "models": [
-        {
-          "model": "Elantra Hybrid",
-          "count": 7
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Kona 2.0l Preferred Awdin Surrey",
-      "count": 7,
-      "file": "inventory/new-hyundai-kona-2-0l-preferred-awdin-surrey.json",
-      "models": [
-        {
-          "model": "Kona 2.0l Preferred Awdin Surrey",
-          "count": 7
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Elantra N Line Ultimatein British Columbia",
-      "count": 3,
-      "file": "inventory/new-hyundai-elantra-n-line-ultimatein-british-columbia.json",
-      "models": [
-        {
-          "model": "Elantra N Line Ultimatein British Columbia",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Elantra N",
-      "count": 33,
-      "file": "inventory/new-hyundai-elantra-n.json",
-      "models": [
-        {
-          "model": "Elantra N",
           "count": 33
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Kona Preferredin British Columbia",
-      "count": 9,
-      "file": "inventory/new-hyundai-kona-preferredin-british-columbia.json",
-      "models": [
-        {
-          "model": "Kona Preferredin British Columbia",
-          "count": 9
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Tucson Preferredin British Columbia",
-      "count": 7,
-      "file": "inventory/new-hyundai-tucson-preferredin-british-columbia.json",
-      "models": [
-        {
-          "model": "Tucson Preferredin British Columbia",
-          "count": 7
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Sonata Hybrid",
-      "count": 22,
-      "file": "inventory/new-hyundai-sonata-hybrid.json",
-      "models": [
-        {
-          "model": "Sonata Hybrid",
-          "count": 22
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Sonata",
-      "count": 13,
-      "file": "inventory/new-hyundai-sonata.json",
-      "models": [
-        {
-          "model": "Sonata",
-          "count": 13
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Santa Cruz",
-      "count": 5,
-      "file": "inventory/new-hyundai-santa-cruz.json",
-      "models": [
-        {
-          "model": "Santa Cruz",
-          "count": 5
         }
       ]
     },
@@ -710,12 +310,12 @@
       "make": "hyundai",
       "model": "Kona Electric",
       "shard": "part1",
-      "count": 33,
+      "count": 31,
       "file": "inventory/new-hyundai-kona-electric-part1.json",
       "models": [
         {
           "model": "Kona Electric",
-          "count": 33
+          "count": 31
         }
       ]
     },
@@ -724,12 +324,12 @@
       "make": "hyundai",
       "model": "Kona Electric",
       "shard": "part2",
-      "count": 33,
+      "count": 31,
       "file": "inventory/new-hyundai-kona-electric-part2.json",
       "models": [
         {
           "model": "Kona Electric",
-          "count": 33
+          "count": 31
         }
       ]
     },
@@ -738,29 +338,123 @@
       "make": "hyundai",
       "model": "Kona Electric",
       "shard": "part3",
-      "count": 32,
+      "count": 31,
       "file": "inventory/new-hyundai-kona-electric-part3.json",
       "models": [
         {
           "model": "Kona Electric",
-          "count": 32
+          "count": 31
         }
       ]
     },
     {
       "condition": "new",
       "make": "hyundai",
-      "model": "Santa Fe",
-      "count": 37,
-      "file": "inventory/new-hyundai-santa-fe.json",
+      "model": "Tucson Hybrid",
+      "shard": "part1",
+      "count": 33,
+      "file": "inventory/new-hyundai-tucson-hybrid-part1.json",
       "models": [
         {
-          "model": "SANTA FE",
-          "count": 2
-        },
+          "model": "Tucson Hybrid",
+          "count": 33
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Tucson Hybrid",
+      "shard": "part2",
+      "count": 33,
+      "file": "inventory/new-hyundai-tucson-hybrid-part2.json",
+      "models": [
         {
-          "model": "Santa Fe",
-          "count": 35
+          "model": "Tucson Hybrid",
+          "count": 33
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Tucson Hybrid",
+      "shard": "part3",
+      "count": 33,
+      "file": "inventory/new-hyundai-tucson-hybrid-part3.json",
+      "models": [
+        {
+          "model": "Tucson Hybrid",
+          "count": 33
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Tucson Hybrid",
+      "shard": "part4",
+      "count": 33,
+      "file": "inventory/new-hyundai-tucson-hybrid-part4.json",
+      "models": [
+        {
+          "model": "Tucson Hybrid",
+          "count": 33
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Tucson Hybrid",
+      "shard": "part5",
+      "count": 33,
+      "file": "inventory/new-hyundai-tucson-hybrid-part5.json",
+      "models": [
+        {
+          "model": "Tucson Hybrid",
+          "count": 33
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Tucson Hybrid",
+      "shard": "part6",
+      "count": 33,
+      "file": "inventory/new-hyundai-tucson-hybrid-part6.json",
+      "models": [
+        {
+          "model": "Tucson Hybrid",
+          "count": 33
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Tucson Hybrid",
+      "shard": "part7",
+      "count": 30,
+      "file": "inventory/new-hyundai-tucson-hybrid-part7.json",
+      "models": [
+        {
+          "model": "Tucson Hybrid",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Tucson Plug-In Hybrid",
+      "count": 8,
+      "file": "inventory/new-hyundai-tucson-plug-in-hybrid.json",
+      "models": [
+        {
+          "model": "Tucson Plug-In Hybrid",
+          "count": 8
         }
       ]
     },
@@ -823,14 +517,44 @@
     {
       "condition": "new",
       "make": "hyundai",
+      "model": "Ioniq 5",
+      "count": 19,
+      "file": "inventory/new-hyundai-ioniq-5.json",
+      "models": [
+        {
+          "model": "IONIQ 5",
+          "count": 18
+        },
+        {
+          "model": "Ioniq 5",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Palisade Hybrid",
+      "count": 37,
+      "file": "inventory/new-hyundai-palisade-hybrid.json",
+      "models": [
+        {
+          "model": "Palisade Hybrid",
+          "count": 37
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
       "model": "Palisade",
       "shard": "part1",
-      "count": 30,
+      "count": 28,
       "file": "inventory/new-hyundai-palisade-part1.json",
       "models": [
         {
           "model": "Palisade",
-          "count": 30
+          "count": 28
         }
       ]
     },
@@ -839,12 +563,12 @@
       "make": "hyundai",
       "model": "Palisade",
       "shard": "part2",
-      "count": 30,
+      "count": 28,
       "file": "inventory/new-hyundai-palisade-part2.json",
       "models": [
         {
           "model": "Palisade",
-          "count": 30
+          "count": 28
         }
       ]
     },
@@ -853,12 +577,12 @@
       "make": "hyundai",
       "model": "Palisade",
       "shard": "part3",
-      "count": 30,
+      "count": 28,
       "file": "inventory/new-hyundai-palisade-part3.json",
       "models": [
         {
           "model": "Palisade",
-          "count": 30
+          "count": 28
         }
       ]
     },
@@ -867,52 +591,37 @@
       "make": "hyundai",
       "model": "Palisade",
       "shard": "part4",
-      "count": 30,
+      "count": 28,
       "file": "inventory/new-hyundai-palisade-part4.json",
       "models": [
         {
           "model": "Palisade",
-          "count": 30
+          "count": 28
         }
       ]
     },
     {
       "condition": "new",
       "make": "hyundai",
-      "model": "Tucson Plug-In Hybrid",
-      "count": 9,
-      "file": "inventory/new-hyundai-tucson-plug-in-hybrid.json",
+      "model": "IONIQ 9",
+      "count": 34,
+      "file": "inventory/new-hyundai-ioniq-9.json",
       "models": [
         {
-          "model": "Tucson Plug-In Hybrid",
-          "count": 9
+          "model": "IONIQ 9",
+          "count": 34
         }
       ]
     },
     {
       "condition": "new",
       "make": "hyundai",
-      "model": "Palisade Hybrid",
-      "shard": "Lower Mainland",
-      "count": 24,
-      "file": "inventory/new-hyundai-palisade-hybrid-lower-mainland.json",
-      "models": [
-        {
-          "model": "Palisade Hybrid",
-          "count": 24
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Palisade Hybrid",
-      "shard": "Norte/Cariboo",
+      "model": "Elantra Essential IVT",
       "count": 3,
-      "file": "inventory/new-hyundai-palisade-hybrid-norte-cariboo.json",
+      "file": "inventory/new-hyundai-elantra-essential-ivt.json",
       "models": [
         {
-          "model": "Palisade Hybrid",
+          "model": "Elantra Essential IVT",
           "count": 3
         }
       ]
@@ -920,13 +629,242 @@
     {
       "condition": "new",
       "make": "hyundai",
-      "model": "Palisade Hybrid",
-      "shard": "Okanagan",
-      "count": 8,
-      "file": "inventory/new-hyundai-palisade-hybrid-okanagan.json",
+      "model": "Elantra Hybrid",
+      "shard": "Lower Mainland",
+      "count": 24,
+      "file": "inventory/new-hyundai-elantra-hybrid-lower-mainland.json",
       "models": [
         {
-          "model": "Palisade Hybrid",
+          "model": "Elantra Hybrid",
+          "count": 24
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Elantra Hybrid",
+      "shard": "Norte/Cariboo",
+      "count": 3,
+      "file": "inventory/new-hyundai-elantra-hybrid-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Elantra Hybrid",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Elantra Hybrid",
+      "shard": "Okanagan",
+      "count": 5,
+      "file": "inventory/new-hyundai-elantra-hybrid-okanagan.json",
+      "models": [
+        {
+          "model": "Elantra Hybrid",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Elantra Hybrid",
+      "shard": "Vancouver Island",
+      "count": 3,
+      "file": "inventory/new-hyundai-elantra-hybrid-vancouver-island.json",
+      "models": [
+        {
+          "model": "Elantra Hybrid",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Elantra Hybrid",
+      "shard": "sin-region",
+      "count": 7,
+      "file": "inventory/new-hyundai-elantra-hybrid-sin-region.json",
+      "models": [
+        {
+          "model": "Elantra Hybrid",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Elantra N",
+      "count": 30,
+      "file": "inventory/new-hyundai-elantra-n.json",
+      "models": [
+        {
+          "model": "Elantra N",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Elantra Hybrid Luxury",
+      "count": 5,
+      "file": "inventory/new-hyundai-elantra-hybrid-luxury.json",
+      "models": [
+        {
+          "model": "Elantra Hybrid Luxury",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Sonata Hybrid",
+      "count": 20,
+      "file": "inventory/new-hyundai-sonata-hybrid.json",
+      "models": [
+        {
+          "model": "Sonata Hybrid",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Sonata",
+      "count": 11,
+      "file": "inventory/new-hyundai-sonata.json",
+      "models": [
+        {
+          "model": "Sonata",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Tucson Preferred AWD",
+      "count": 4,
+      "file": "inventory/new-hyundai-tucson-preferred-awd.json",
+      "models": [
+        {
+          "model": "Tucson Preferred AWD",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Santa Cruz",
+      "count": 5,
+      "file": "inventory/new-hyundai-santa-cruz.json",
+      "models": [
+        {
+          "model": "Santa Cruz",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Sonata Preferred-Trend AWD",
+      "count": 5,
+      "file": "inventory/new-hyundai-sonata-preferred-trend-awd.json",
+      "models": [
+        {
+          "model": "Sonata Preferred-Trend AWD",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Sonata Hybrid Preferred-Trend FWD",
+      "count": 5,
+      "file": "inventory/new-hyundai-sonata-hybrid-preferred-trend-fwd.json",
+      "models": [
+        {
+          "model": "Sonata Hybrid Preferred-Trend FWD",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Santa Fe",
+      "count": 37,
+      "file": "inventory/new-hyundai-santa-fe.json",
+      "models": [
+        {
+          "model": "SANTA FE",
+          "count": 2
+        },
+        {
+          "model": "Santa Fe",
+          "count": 35
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Elantra N Manual",
+      "count": 5,
+      "file": "inventory/new-hyundai-elantra-n-manual.json",
+      "models": [
+        {
+          "model": "Elantra N Manual",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Kona Electric Preferred FWD",
+      "count": 10,
+      "file": "inventory/new-hyundai-kona-electric-preferred-fwd.json",
+      "models": [
+        {
+          "model": "Kona Electric Preferred FWD",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Tucson Hybrid Night Edition AWD",
+      "count": 4,
+      "file": "inventory/new-hyundai-tucson-hybrid-night-edition-awd.json",
+      "models": [
+        {
+          "model": "Tucson Hybrid Night Edition AWD",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Santa Fe Hybrid Preferred AWD",
+      "count": 8,
+      "file": "inventory/new-hyundai-santa-fe-hybrid-preferred-awd.json",
+      "models": [
+        {
+          "model": "Santa Fe Hybrid Preferred AWD",
           "count": 8
         }
       ]
@@ -934,14 +872,91 @@
     {
       "condition": "new",
       "make": "hyundai",
-      "model": "Palisade Hybrid",
-      "shard": "Vancouver Island",
-      "count": 7,
-      "file": "inventory/new-hyundai-palisade-hybrid-vancouver-island.json",
+      "model": "Tucson Plug-In Hybrid Ultimate AWD",
+      "count": 3,
+      "file": "inventory/new-hyundai-tucson-plug-in-hybrid-ultimate-awd.json",
       "models": [
         {
-          "model": "Palisade Hybrid",
-          "count": 7
+          "model": "Tucson Plug-In Hybrid Ultimate AWD",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Palisade Preferred Trend AWD",
+      "count": 9,
+      "file": "inventory/new-hyundai-palisade-preferred-trend-awd.json",
+      "models": [
+        {
+          "model": "Palisade Preferred Trend AWD",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "IONIQ 5 Preferred RWD Long Range",
+      "count": 5,
+      "file": "inventory/new-hyundai-ioniq-5-preferred-rwd-long-range.json",
+      "models": [
+        {
+          "model": "IONIQ 5 Preferred RWD Long Range",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "IONIQ 5 Preferred AWD",
+      "count": 5,
+      "file": "inventory/new-hyundai-ioniq-5-preferred-awd.json",
+      "models": [
+        {
+          "model": "IONIQ 5 Preferred AWD",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "IONIQ 9 Essential RWD",
+      "count": 5,
+      "file": "inventory/new-hyundai-ioniq-9-essential-rwd.json",
+      "models": [
+        {
+          "model": "IONIQ 9 Essential RWD",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "Palisade Hybrid Luxury 8-Passenger AWD",
+      "count": 10,
+      "file": "inventory/new-hyundai-palisade-hybrid-luxury-8-passenger-awd.json",
+      "models": [
+        {
+          "model": "Palisade Hybrid Luxury 8-Passenger AWD",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "hyundai",
+      "model": "IONIQ 9 Preferred AWD",
+      "count": 5,
+      "file": "inventory/new-hyundai-ioniq-9-preferred-awd.json",
+      "models": [
+        {
+          "model": "IONIQ 9 Preferred AWD",
+          "count": 5
         }
       ]
     },
@@ -961,13 +976,13 @@
     {
       "condition": "new",
       "make": "hyundai",
-      "model": "IONIQ 9",
-      "count": 37,
-      "file": "inventory/new-hyundai-ioniq-9.json",
+      "model": "IONIQ 5 N AWD",
+      "count": 5,
+      "file": "inventory/new-hyundai-ioniq-5-n-awd.json",
       "models": [
         {
-          "model": "IONIQ 9",
-          "count": 37
+          "model": "IONIQ 5 N AWD",
+          "count": 5
         }
       ]
     },
@@ -987,51 +1002,25 @@
     {
       "condition": "new",
       "make": "hyundai",
-      "model": "Venue Preferredin Kelowna",
-      "count": 9,
-      "file": "inventory/new-hyundai-venue-preferredin-kelowna.json",
+      "model": "Venue Essential IVT",
+      "count": 1,
+      "file": "inventory/new-hyundai-venue-essential-ivt.json",
       "models": [
         {
-          "model": "Venue Preferredin Kelowna",
-          "count": 9
+          "model": "Venue Essential IVT",
+          "count": 1
         }
       ]
     },
     {
       "condition": "new",
       "make": "hyundai",
-      "model": "Elantra Preferredin Kelowna",
-      "count": 10,
-      "file": "inventory/new-hyundai-elantra-preferredin-kelowna.json",
-      "models": [
-        {
-          "model": "Elantra Preferredin Kelowna",
-          "count": 10
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Kona Essentialin Kelowna",
+      "model": "Kona 2.0L Essential FWD",
       "count": 2,
-      "file": "inventory/new-hyundai-kona-essentialin-kelowna.json",
+      "file": "inventory/new-hyundai-kona-2-0l-essential-fwd.json",
       "models": [
         {
-          "model": "Kona Essentialin Kelowna",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Elantra Luxuryin Kelowna",
-      "count": 2,
-      "file": "inventory/new-hyundai-elantra-luxuryin-kelowna.json",
-      "models": [
-        {
-          "model": "Elantra Luxuryin Kelowna",
+          "model": "Kona 2.0L Essential FWD",
           "count": 2
         }
       ]
@@ -1046,136 +1035,6 @@
         {
           "model": "IONIQ Electric",
           "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Elantra Essentialin British Columbia",
-      "count": 4,
-      "file": "inventory/new-hyundai-elantra-essentialin-british-columbia.json",
-      "models": [
-        {
-          "model": "Elantra Essentialin British Columbia",
-          "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Venue Preferredin Courtenay",
-      "count": 3,
-      "file": "inventory/new-hyundai-venue-preferredin-courtenay.json",
-      "models": [
-        {
-          "model": "Venue Preferredin Courtenay",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Elantra Luxury",
-      "count": 2,
-      "file": "inventory/new-hyundai-elantra-luxury.json",
-      "models": [
-        {
-          "model": "Elantra Luxury",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Tucson Preferredin Courtenay",
-      "count": 5,
-      "file": "inventory/new-hyundai-tucson-preferredin-courtenay.json",
-      "models": [
-        {
-          "model": "Tucson Preferredin Courtenay",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Kona N Linein Courtenay",
-      "count": 1,
-      "file": "inventory/new-hyundai-kona-n-linein-courtenay.json",
-      "models": [
-        {
-          "model": "Kona N Linein Courtenay",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Tucson Hybrid Night Editionin Courtenay",
-      "count": 2,
-      "file": "inventory/new-hyundai-tucson-hybrid-night-editionin-courtenay.json",
-      "models": [
-        {
-          "model": "Tucson Hybrid Night Editionin Courtenay",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Tucson Hybrid N-Linein Courtenay",
-      "count": 2,
-      "file": "inventory/new-hyundai-tucson-hybrid-n-linein-courtenay.json",
-      "models": [
-        {
-          "model": "Tucson Hybrid N-Linein Courtenay",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Santa Fe Hybrid Preferredin Courtenay",
-      "count": 2,
-      "file": "inventory/new-hyundai-santa-fe-hybrid-preferredin-courtenay.json",
-      "models": [
-        {
-          "model": "Santa Fe Hybrid Preferredin Courtenay",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Tucson Hybrid Ultimatein Courtenay",
-      "count": 3,
-      "file": "inventory/new-hyundai-tucson-hybrid-ultimatein-courtenay.json",
-      "models": [
-        {
-          "model": "Tucson Hybrid Ultimatein Courtenay",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "hyundai",
-      "model": "Santa Fe Hybrid Ultimate Calligraphyin Courtenay",
-      "count": 2,
-      "file": "inventory/new-hyundai-santa-fe-hybrid-ultimate-calligraphyin-courtenay.json",
-      "models": [
-        {
-          "model": "Santa Fe Hybrid Ultimate Calligraphyin Courtenay",
-          "count": 2
         }
       ]
     }

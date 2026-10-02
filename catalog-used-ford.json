@@ -1,8 +1,110 @@
 {
-  "generated_at": "2026-10-02T16:56:55+00:00",
+  "generated_at": "2026-10-02T22:53:01+00:00",
   "condition": "used",
   "make": "ford",
   "files": [
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Bronco Sport",
+      "shard": "Kootenays",
+      "count": 5,
+      "file": "inventory/used-ford-bronco-sport-kootenays.json",
+      "models": [
+        {
+          "model": "Bronco Sport",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Bronco Sport",
+      "shard": "Lower Mainland",
+      "count": 16,
+      "file": "inventory/used-ford-bronco-sport-lower-mainland.json",
+      "models": [
+        {
+          "model": "Bronco Sport",
+          "count": 16
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Bronco Sport",
+      "shard": "Norte/Cariboo",
+      "count": 9,
+      "file": "inventory/used-ford-bronco-sport-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Bronco Sport",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Bronco Sport",
+      "shard": "Okanagan",
+      "count": 4,
+      "file": "inventory/used-ford-bronco-sport-okanagan.json",
+      "models": [
+        {
+          "model": "Bronco Sport",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Bronco Sport",
+      "shard": "Thompson-Okanagan",
+      "count": 1,
+      "file": "inventory/used-ford-bronco-sport-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "Bronco Sport",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Bronco Sport",
+      "shard": "Vancouver Island",
+      "count": 7,
+      "file": "inventory/used-ford-bronco-sport-vancouver-island.json",
+      "models": [
+        {
+          "model": "BRONCO SPORT",
+          "count": 2
+        },
+        {
+          "model": "Bronco Sport",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Bronco Sport",
+      "shard": "sin-region",
+      "count": 9,
+      "file": "inventory/used-ford-bronco-sport-sin-region.json",
+      "models": [
+        {
+          "model": "Bronco Sport",
+          "count": 9
+        }
+      ]
+    },
     {
       "condition": "used",
       "make": "ford",
@@ -45,191 +147,18 @@
     {
       "condition": "used",
       "make": "ford",
-      "model": "MAVERICKXL AWD",
-      "count": 1,
-      "file": "inventory/used-ford-maverickxl-awd.json",
-      "models": [
-        {
-          "model": "MAVERICKXL AWD",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Ranger",
-      "count": 17,
-      "file": "inventory/used-ford-ranger.json",
-      "models": [
-        {
-          "model": "RANGER",
-          "count": 1
-        },
-        {
-          "model": "Ranger",
-          "count": 16
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Escape Platinum",
-      "count": 1,
-      "file": "inventory/used-ford-escape-platinum.json",
-      "models": [
-        {
-          "model": "Escape Platinum",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Explorer",
-      "count": 37,
-      "file": "inventory/used-ford-explorer.json",
-      "models": [
-        {
-          "model": "EXPLORER",
-          "count": 1
-        },
-        {
-          "model": "Explorer",
-          "count": 36
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150 Lariatin Nelson",
-      "count": 2,
-      "file": "inventory/used-ford-f-150-lariatin-nelson.json",
-      "models": [
-        {
-          "model": "F-150 Lariatin Nelson",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "E-450 DRW 158\" WBin Castlegar",
-      "count": 1,
-      "file": "inventory/used-ford-e-450-drw-158-wbin-castlegar.json",
-      "models": [
-        {
-          "model": "E-450 DRW 158\" WBin Castlegar",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150 Tremorin Nelson",
-      "count": 1,
-      "file": "inventory/used-ford-f-150-tremorin-nelson.json",
-      "models": [
-        {
-          "model": "F-150 Tremorin Nelson",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "E-450 Super Duty",
-      "count": 1,
-      "file": "inventory/used-ford-e-450-super-duty.json",
-      "models": [
-        {
-          "model": "E-450 Super Duty",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150 Xlt 4wd Supercrew 5in Trail",
-      "count": 1,
-      "file": "inventory/used-ford-f-150-xlt-4wd-supercrew-5in-trail.json",
-      "models": [
-        {
-          "model": "F-150 Xlt 4wd Supercrew 5in Trail",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150 Lariat 4wd Supercrewin Trail",
-      "count": 1,
-      "file": "inventory/used-ford-f-150-lariat-4wd-supercrewin-trail.json",
-      "models": [
-        {
-          "model": "F-150 Lariat 4wd Supercrewin Trail",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150 Xlt 4wd Supercrew 6in Trail",
-      "count": 1,
-      "file": "inventory/used-ford-f-150-xlt-4wd-supercrew-6in-trail.json",
-      "models": [
-        {
-          "model": "F-150 Xlt 4wd Supercrew 6in Trail",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Explorer Xlt 4wdin Trail",
-      "count": 1,
-      "file": "inventory/used-ford-explorer-xlt-4wdin-trail.json",
-      "models": [
-        {
-          "model": "Explorer Xlt 4wdin Trail",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Bronco Sport 4dr 4wd Outer Banksin Trail",
-      "count": 1,
-      "file": "inventory/used-ford-bronco-sport-4dr-4wd-outer-banksin-trail.json",
-      "models": [
-        {
-          "model": "Bronco Sport 4dr 4wd Outer Banksin Trail",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
       "model": "ESCAPE",
       "shard": "Kootenays",
-      "count": 1,
+      "count": 6,
       "file": "inventory/used-ford-escape-kootenays.json",
       "models": [
         {
           "model": "ESCAPE",
           "count": 1
+        },
+        {
+          "model": "Escape",
+          "count": 5
         }
       ]
     },
@@ -238,12 +167,12 @@
       "make": "ford",
       "model": "ESCAPE",
       "shard": "Lower Mainland",
-      "count": 19,
+      "count": 35,
       "file": "inventory/used-ford-escape-lower-mainland.json",
       "models": [
         {
           "model": "Escape",
-          "count": 19
+          "count": 35
         }
       ]
     },
@@ -252,12 +181,12 @@
       "make": "ford",
       "model": "ESCAPE",
       "shard": "Norte/Cariboo",
-      "count": 6,
+      "count": 12,
       "file": "inventory/used-ford-escape-norte-cariboo.json",
       "models": [
         {
           "model": "Escape",
-          "count": 6
+          "count": 12
         }
       ]
     },
@@ -266,12 +195,12 @@
       "make": "ford",
       "model": "ESCAPE",
       "shard": "Okanagan",
-      "count": 23,
+      "count": 26,
       "file": "inventory/used-ford-escape-okanagan.json",
       "models": [
         {
           "model": "Escape",
-          "count": 23
+          "count": 26
         }
       ]
     },
@@ -280,12 +209,12 @@
       "make": "ford",
       "model": "ESCAPE",
       "shard": "Thompson-Okanagan",
-      "count": 2,
+      "count": 3,
       "file": "inventory/used-ford-escape-thompson-okanagan.json",
       "models": [
         {
           "model": "Escape",
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -312,24 +241,129 @@
       "make": "ford",
       "model": "ESCAPE",
       "shard": "sin-region",
-      "count": 8,
+      "count": 13,
       "file": "inventory/used-ford-escape-sin-region.json",
       "models": [
         {
           "model": "Escape",
-          "count": 8
+          "count": 13
         }
       ]
     },
     {
       "condition": "used",
       "make": "ford",
-      "model": "Focus",
-      "count": 9,
-      "file": "inventory/used-ford-focus.json",
+      "model": "MAVERICKXL AWD",
+      "count": 1,
+      "file": "inventory/used-ford-maverickxl-awd.json",
       "models": [
         {
-          "model": "Focus",
+          "model": "MAVERICKXL AWD",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Ranger",
+      "count": 21,
+      "file": "inventory/used-ford-ranger.json",
+      "models": [
+        {
+          "model": "RANGER",
+          "count": 1
+        },
+        {
+          "model": "Ranger",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Explorer",
+      "shard": "Kootenays",
+      "count": 6,
+      "file": "inventory/used-ford-explorer-kootenays.json",
+      "models": [
+        {
+          "model": "Explorer",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Explorer",
+      "shard": "Lower Mainland",
+      "count": 13,
+      "file": "inventory/used-ford-explorer-lower-mainland.json",
+      "models": [
+        {
+          "model": "Explorer",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Explorer",
+      "shard": "Norte/Cariboo",
+      "count": 16,
+      "file": "inventory/used-ford-explorer-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Explorer",
+          "count": 16
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Explorer",
+      "shard": "Okanagan",
+      "count": 11,
+      "file": "inventory/used-ford-explorer-okanagan.json",
+      "models": [
+        {
+          "model": "EXPLORER",
+          "count": 1
+        },
+        {
+          "model": "Explorer",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Explorer",
+      "shard": "Thompson-Okanagan",
+      "count": 1,
+      "file": "inventory/used-ford-explorer-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "Explorer",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Explorer",
+      "shard": "Vancouver Island",
+      "count": 9,
+      "file": "inventory/used-ford-explorer-vancouver-island.json",
+      "models": [
+        {
+          "model": "Explorer",
           "count": 9
         }
       ]
@@ -337,26 +371,163 @@
     {
       "condition": "used",
       "make": "ford",
-      "model": "EcoSport",
-      "count": 7,
-      "file": "inventory/used-ford-ecosport.json",
+      "model": "Explorer",
+      "shard": "sin-region",
+      "count": 8,
+      "file": "inventory/used-ford-explorer-sin-region.json",
       "models": [
         {
-          "model": "EcoSport",
-          "count": 7
+          "model": "Explorer",
+          "count": 8
         }
       ]
     },
     {
       "condition": "used",
       "make": "ford",
-      "model": "Fusion",
-      "count": 2,
-      "file": "inventory/used-ford-fusion.json",
+      "model": "Escape ST Line AWD",
+      "count": 1,
+      "file": "inventory/used-ford-escape-st-line-awd.json",
       "models": [
         {
-          "model": "Fusion",
+          "model": "Escape ST Line AWD",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Escape Platinum AWD",
+      "count": 1,
+      "file": "inventory/used-ford-escape-platinum-awd.json",
+      "models": [
+        {
+          "model": "Escape Platinum AWD",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "F-150",
+      "shard": "part1",
+      "count": 35,
+      "file": "inventory/used-ford-f-150-part1.json",
+      "models": [
+        {
+          "model": "F-150",
+          "count": 35
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "F-150",
+      "shard": "part2",
+      "count": 35,
+      "file": "inventory/used-ford-f-150-part2.json",
+      "models": [
+        {
+          "model": "F-150",
+          "count": 35
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "F-150",
+      "shard": "part3",
+      "count": 35,
+      "file": "inventory/used-ford-f-150-part3.json",
+      "models": [
+        {
+          "model": "F-150",
+          "count": 35
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "F-150",
+      "shard": "part4",
+      "count": 35,
+      "file": "inventory/used-ford-f-150-part4.json",
+      "models": [
+        {
+          "model": "F-150",
+          "count": 35
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "F-150",
+      "shard": "part5",
+      "count": 35,
+      "file": "inventory/used-ford-f-150-part5.json",
+      "models": [
+        {
+          "model": "F 150",
+          "count": 23
+        },
+        {
+          "model": "F-150",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "F-150",
+      "shard": "part6",
+      "count": 30,
+      "file": "inventory/used-ford-f-150-part6.json",
+      "models": [
+        {
+          "model": "F 150",
+          "count": 24
+        },
+        {
+          "model": "F-150",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Mustang",
+      "count": 15,
+      "file": "inventory/used-ford-mustang.json",
+      "models": [
+        {
+          "model": "MUSTANG",
           "count": 2
+        },
+        {
+          "model": "Mustang",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Edge",
+      "shard": "Kootenays",
+      "count": 1,
+      "file": "inventory/used-ford-edge-kootenays.json",
+      "models": [
+        {
+          "model": "Edge",
+          "count": 1
         }
       ]
     },
@@ -365,9 +536,27 @@
       "make": "ford",
       "model": "Edge",
       "shard": "Lower Mainland",
-      "count": 8,
+      "count": 10,
       "file": "inventory/used-ford-edge-lower-mainland.json",
       "models": [
+        {
+          "model": "Edge",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Edge",
+      "shard": "Norte/Cariboo",
+      "count": 9,
+      "file": "inventory/used-ford-edge-norte-cariboo.json",
+      "models": [
+        {
+          "model": "EDGE",
+          "count": 1
+        },
         {
           "model": "Edge",
           "count": 8
@@ -378,31 +567,13 @@
       "condition": "used",
       "make": "ford",
       "model": "Edge",
-      "shard": "Norte/Cariboo",
-      "count": 6,
-      "file": "inventory/used-ford-edge-norte-cariboo.json",
-      "models": [
-        {
-          "model": "EDGE",
-          "count": 1
-        },
-        {
-          "model": "Edge",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Edge",
       "shard": "Okanagan",
-      "count": 14,
+      "count": 15,
       "file": "inventory/used-ford-edge-okanagan.json",
       "models": [
         {
           "model": "Edge",
-          "count": 14
+          "count": 15
         }
       ]
     },
@@ -411,12 +582,12 @@
       "make": "ford",
       "model": "Edge",
       "shard": "Thompson-Okanagan",
-      "count": 2,
+      "count": 3,
       "file": "inventory/used-ford-edge-thompson-okanagan.json",
       "models": [
         {
           "model": "Edge",
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -425,12 +596,12 @@
       "make": "ford",
       "model": "Edge",
       "shard": "Vancouver Island",
-      "count": 12,
+      "count": 13,
       "file": "inventory/used-ford-edge-vancouver-island.json",
       "models": [
         {
           "model": "Edge",
-          "count": 12
+          "count": 13
         }
       ]
     },
@@ -449,6 +620,281 @@
         {
           "model": "Edge",
           "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Maverick",
+      "count": 17,
+      "file": "inventory/used-ford-maverick.json",
+      "models": [
+        {
+          "model": "MAVERICK",
+          "count": 1
+        },
+        {
+          "model": "Maverick",
+          "count": 16
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "F-150 XLT Supercrew 4x4",
+      "count": 4,
+      "file": "inventory/used-ford-f-150-xlt-supercrew-4x4.json",
+      "models": [
+        {
+          "model": "F-150 XLT Supercrew 4x4",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Bronco 4 Door",
+      "count": 1,
+      "file": "inventory/used-ford-bronco-4-door.json",
+      "models": [
+        {
+          "model": "Bronco 4 Door",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Explorer Active AWD",
+      "count": 1,
+      "file": "inventory/used-ford-explorer-active-awd.json",
+      "models": [
+        {
+          "model": "Explorer Active AWD",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "otros",
+      "count": 1,
+      "file": "inventory/used-ford-otros.json",
+      "models": [
+        {
+          "model": "sin-modelo",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Bronco",
+      "shard": "Kootenays",
+      "count": 1,
+      "file": "inventory/used-ford-bronco-kootenays.json",
+      "models": [
+        {
+          "model": "Bronco",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Bronco",
+      "shard": "Lower Mainland",
+      "count": 22,
+      "file": "inventory/used-ford-bronco-lower-mainland.json",
+      "models": [
+        {
+          "model": "Bronco",
+          "count": 22
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Bronco",
+      "shard": "Norte/Cariboo",
+      "count": 4,
+      "file": "inventory/used-ford-bronco-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Bronco",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Bronco",
+      "shard": "Okanagan",
+      "count": 24,
+      "file": "inventory/used-ford-bronco-okanagan.json",
+      "models": [
+        {
+          "model": "Bronco",
+          "count": 24
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Bronco",
+      "shard": "Thompson-Okanagan",
+      "count": 2,
+      "file": "inventory/used-ford-bronco-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "Bronco",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Bronco",
+      "shard": "Vancouver Island",
+      "count": 11,
+      "file": "inventory/used-ford-bronco-vancouver-island.json",
+      "models": [
+        {
+          "model": "BRONCO",
+          "count": 1
+        },
+        {
+          "model": "Bronco",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Bronco",
+      "shard": "sin-region",
+      "count": 2,
+      "file": "inventory/used-ford-bronco-sin-region.json",
+      "models": [
+        {
+          "model": "Bronco",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Expedition",
+      "count": 19,
+      "file": "inventory/used-ford-expedition.json",
+      "models": [
+        {
+          "model": "Expedition",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "F-150 Tremor Supercrew 4x4",
+      "count": 1,
+      "file": "inventory/used-ford-f-150-tremor-supercrew-4x4.json",
+      "models": [
+        {
+          "model": "F-150 Tremor Supercrew 4x4",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "F-150 Lariat Supercrew 4x4",
+      "count": 2,
+      "file": "inventory/used-ford-f-150-lariat-supercrew-4x4.json",
+      "models": [
+        {
+          "model": "F-150 Lariat Supercrew 4x4",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "F-150 King Ranch Supercrew 4x4",
+      "count": 1,
+      "file": "inventory/used-ford-f-150-king-ranch-supercrew-4x4.json",
+      "models": [
+        {
+          "model": "F-150 King Ranch Supercrew 4x4",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "E-450 Super Duty",
+      "count": 1,
+      "file": "inventory/used-ford-e-450-super-duty.json",
+      "models": [
+        {
+          "model": "E-450 Super Duty",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Fusion",
+      "count": 4,
+      "file": "inventory/used-ford-fusion.json",
+      "models": [
+        {
+          "model": "Fusion",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Focus",
+      "count": 13,
+      "file": "inventory/used-ford-focus.json",
+      "models": [
+        {
+          "model": "Focus",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "EcoSport",
+      "count": 9,
+      "file": "inventory/used-ford-ecosport.json",
+      "models": [
+        {
+          "model": "EcoSport",
+          "count": 9
         }
       ]
     },
@@ -481,73 +927,6 @@
     {
       "condition": "used",
       "make": "ford",
-      "model": "Mustang",
-      "count": 7,
-      "file": "inventory/used-ford-mustang.json",
-      "models": [
-        {
-          "model": "MUSTANG",
-          "count": 2
-        },
-        {
-          "model": "Mustang",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150",
-      "shard": "part1",
-      "count": 34,
-      "file": "inventory/used-ford-f-150-part1.json",
-      "models": [
-        {
-          "model": "F-150",
-          "count": 34
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150",
-      "shard": "part2",
-      "count": 34,
-      "file": "inventory/used-ford-f-150-part2.json",
-      "models": [
-        {
-          "model": "F 150",
-          "count": 17
-        },
-        {
-          "model": "F-150",
-          "count": 17
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150",
-      "shard": "part3",
-      "count": 32,
-      "file": "inventory/used-ford-f-150-part3.json",
-      "models": [
-        {
-          "model": "F 150",
-          "count": 30
-        },
-        {
-          "model": "F-150",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
       "model": "Escape Plug-in Hybrid",
       "count": 8,
       "file": "inventory/used-ford-escape-plug-in-hybrid.json",
@@ -561,23 +940,6 @@
     {
       "condition": "used",
       "make": "ford",
-      "model": "Bronco Sport",
-      "count": 28,
-      "file": "inventory/used-ford-bronco-sport.json",
-      "models": [
-        {
-          "model": "BRONCO SPORT",
-          "count": 2
-        },
-        {
-          "model": "Bronco Sport",
-          "count": 26
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
       "model": "F-150 SuperCab",
       "count": 10,
       "file": "inventory/used-ford-f-150-supercab.json",
@@ -585,6 +947,23 @@
         {
           "model": "F-150 SuperCab",
           "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Transit Connect",
+      "count": 6,
+      "file": "inventory/used-ford-transit-connect.json",
+      "models": [
+        {
+          "model": "TRANSIT CONNECT",
+          "count": 1
+        },
+        {
+          "model": "Transit Connect",
+          "count": 5
         }
       ]
     },
@@ -634,12 +1013,12 @@
       "condition": "used",
       "make": "ford",
       "model": "Mustang Mach-E",
-      "count": 12,
+      "count": 19,
       "file": "inventory/used-ford-mustang-mach-e.json",
       "models": [
         {
           "model": "Mustang Mach-E",
-          "count": 12
+          "count": 19
         }
       ]
     },
@@ -647,12 +1026,12 @@
       "condition": "used",
       "make": "ford",
       "model": "Transit Cargo",
-      "count": 7,
+      "count": 8,
       "file": "inventory/used-ford-transit-cargo.json",
       "models": [
         {
           "model": "Transit Cargo",
-          "count": 7
+          "count": 8
         }
       ]
     },
@@ -660,46 +1039,12 @@
       "condition": "used",
       "make": "ford",
       "model": "Super Duty F-350 SRW",
-      "count": 21,
+      "count": 34,
       "file": "inventory/used-ford-super-duty-f-350-srw.json",
       "models": [
         {
           "model": "Super Duty F-350 SRW",
-          "count": 21
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Bronco",
-      "count": 34,
-      "file": "inventory/used-ford-bronco.json",
-      "models": [
-        {
-          "model": "BRONCO",
-          "count": 1
-        },
-        {
-          "model": "Bronco",
-          "count": 33
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Transit Connect",
-      "count": 2,
-      "file": "inventory/used-ford-transit-connect.json",
-      "models": [
-        {
-          "model": "TRANSIT CONNECT",
-          "count": 1
-        },
-        {
-          "model": "Transit Connect",
-          "count": 1
+          "count": 34
         }
       ]
     },
@@ -713,23 +1058,6 @@
         {
           "model": "Transit",
           "count": 6
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Maverick",
-      "count": 8,
-      "file": "inventory/used-ford-maverick.json",
-      "models": [
-        {
-          "model": "MAVERICK",
-          "count": 1
-        },
-        {
-          "model": "Maverick",
-          "count": 7
         }
       ]
     },
@@ -775,21 +1103,8 @@
     {
       "condition": "used",
       "make": "ford",
-      "model": "Expedition",
-      "count": 11,
-      "file": "inventory/used-ford-expedition.json",
-      "models": [
-        {
-          "model": "Expedition",
-          "count": 11
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
       "model": "F-150 Lightning",
-      "count": 5,
+      "count": 10,
       "file": "inventory/used-ford-f-150-lightning.json",
       "models": [
         {
@@ -798,7 +1113,7 @@
         },
         {
           "model": "F-150 Lightning",
-          "count": 4
+          "count": 9
         }
       ]
     },
@@ -811,6 +1126,23 @@
       "models": [
         {
           "model": "F-350",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Transit Passenger",
+      "count": 4,
+      "file": "inventory/used-ford-transit-passenger.json",
+      "models": [
+        {
+          "model": "TRANSIT PASSENGER",
+          "count": 1
+        },
+        {
+          "model": "Transit Passenger",
           "count": 3
         }
       ]
@@ -857,12 +1189,38 @@
     {
       "condition": "used",
       "make": "ford",
+      "model": "F-450SD",
+      "count": 1,
+      "file": "inventory/used-ford-f-450sd.json",
+      "models": [
+        {
+          "model": "F-450SD",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
       "model": "thor motor coach vegas",
       "count": 1,
       "file": "inventory/used-ford-thor-motor-coach-vegas.json",
       "models": [
         {
           "model": "thor motor coach vegas",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "F-350SD",
+      "count": 1,
+      "file": "inventory/used-ford-f-350sd.json",
+      "models": [
+        {
+          "model": "F-350SD",
           "count": 1
         }
       ]
@@ -883,136 +1241,6 @@
     {
       "condition": "used",
       "make": "ford",
-      "model": "Bronco Wildtrak",
-      "count": 1,
-      "file": "inventory/used-ford-bronco-wildtrak.json",
-      "models": [
-        {
-          "model": "Bronco Wildtrak",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Edge ST Line",
-      "count": 1,
-      "file": "inventory/used-ford-edge-st-line.json",
-      "models": [
-        {
-          "model": "Edge ST Line",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Escape Titanium",
-      "count": 1,
-      "file": "inventory/used-ford-escape-titanium.json",
-      "models": [
-        {
-          "model": "Escape Titanium",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150 Lariat",
-      "count": 3,
-      "file": "inventory/used-ford-f-150-lariat.json",
-      "models": [
-        {
-          "model": "F-150 Lariat",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150 XLT",
-      "count": 3,
-      "file": "inventory/used-ford-f-150-xlt.json",
-      "models": [
-        {
-          "model": "F-150 XLT",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-350SD Platinum",
-      "count": 1,
-      "file": "inventory/used-ford-f-350sd-platinum.json",
-      "models": [
-        {
-          "model": "F-350SD Platinum",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-450SD Lariat",
-      "count": 1,
-      "file": "inventory/used-ford-f-450sd-lariat.json",
-      "models": [
-        {
-          "model": "F-450SD Lariat",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Maverick XL",
-      "count": 1,
-      "file": "inventory/used-ford-maverick-xl.json",
-      "models": [
-        {
-          "model": "Maverick XL",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Ranger Lariat",
-      "count": 1,
-      "file": "inventory/used-ford-ranger-lariat.json",
-      "models": [
-        {
-          "model": "Ranger Lariat",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Transit Connect XLT",
-      "count": 1,
-      "file": "inventory/used-ford-transit-connect-xlt.json",
-      "models": [
-        {
-          "model": "Transit Connect XLT",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
       "model": "Explorer Sport Trac",
       "count": 1,
       "file": "inventory/used-ford-explorer-sport-trac.json",
@@ -1026,38 +1254,12 @@
     {
       "condition": "used",
       "make": "ford",
-      "model": "Edge Titanium",
-      "count": 1,
-      "file": "inventory/used-ford-edge-titanium.json",
-      "models": [
-        {
-          "model": "Edge Titanium",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
       "model": "Escape PHEV",
       "count": 2,
       "file": "inventory/used-ford-escape-phev.json",
       "models": [
         {
           "model": "Escape PHEV",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Bronco Base 4 Door Advanced 4x4in Terrace",
-      "count": 2,
-      "file": "inventory/used-ford-bronco-base-4-door-advanced-4x4in-terrace.json",
-      "models": [
-        {
-          "model": "Bronco Base 4 Door Advanced 4x4in Terrace",
           "count": 2
         }
       ]
@@ -1091,13 +1293,13 @@
     {
       "condition": "used",
       "make": "ford",
-      "model": "TRANSIT PASSENGER",
-      "count": 1,
-      "file": "inventory/used-ford-transit-passenger.json",
+      "model": "E-Series Cutaway",
+      "count": 2,
+      "file": "inventory/used-ford-e-series-cutaway.json",
       "models": [
         {
-          "model": "TRANSIT PASSENGER",
-          "count": 1
+          "model": "E-Series Cutaway",
+          "count": 2
         }
       ]
     },
@@ -1130,12 +1332,12 @@
     {
       "condition": "used",
       "make": "ford",
-      "model": "Taurus",
+      "model": "FOCUS ELECTRIC",
       "count": 1,
-      "file": "inventory/used-ford-taurus.json",
+      "file": "inventory/used-ford-focus-electric.json",
       "models": [
         {
-          "model": "Taurus",
+          "model": "FOCUS ELECTRIC",
           "count": 1
         }
       ]
@@ -1143,39 +1345,13 @@
     {
       "condition": "used",
       "make": "ford",
-      "model": "Escape SEin Kelowna",
-      "count": 2,
-      "file": "inventory/used-ford-escape-sein-kelowna.json",
+      "model": "Taurus",
+      "count": 1,
+      "file": "inventory/used-ford-taurus.json",
       "models": [
         {
-          "model": "Escape SEin Kelowna",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Bronco Sport BIG BEND, AWD, HEATED SEATS, 13.2\" TOUCHSCREEN, REMOTE STARTin Kelowna near West Kelowna",
-      "count": 2,
-      "file": "inventory/used-ford-bronco-sport-big-bend-awd-heated-seats-13-2-touchscreen-remote-startin-kelowna-near-west-kelowna.json",
-      "models": [
-        {
-          "model": "Bronco Sport BIG BEND, AWD, HEATED SEATS, 13.2\" TOUCHSCREEN, REMOTE STARTin Kelowna near West Kelowna",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Bronco Sport BIG BEND, AWD, 13.2\" TOUCHSCREEN, REMOTE STARTin Kelowna near West Kelowna",
-      "count": 2,
-      "file": "inventory/used-ford-bronco-sport-big-bend-awd-13-2-touchscreen-remote-startin-kelowna-near-west-kelowna.json",
-      "models": [
-        {
-          "model": "Bronco Sport BIG BEND, AWD, 13.2\" TOUCHSCREEN, REMOTE STARTin Kelowna near West Kelowna",
-          "count": 2
+          "model": "Taurus",
+          "count": 1
         }
       ]
     },
@@ -1208,149 +1384,6 @@
     {
       "condition": "used",
       "make": "ford",
-      "model": "F-150 XLT, 3.5L, SPORT PKG, KEYLESS ENTRY, TAILGATE STEP, REMOTE STARTin Kelowna near West Kelowna",
-      "count": 1,
-      "file": "inventory/used-ford-f-150-xlt-3-5l-sport-pkg-keyless-entry-tailgate-step-remote-startin-kelowna-near-west-kelowna.json",
-      "models": [
-        {
-          "model": "F-150 XLT, 3.5L, SPORT PKG, KEYLESS ENTRY, TAILGATE STEP, REMOTE STARTin Kelowna near West Kelowna",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Bronco BIG BEND, 2.3L, HARD TOP, HEATED SEATSin Kelowna near West Kelowna",
-      "count": 1,
-      "file": "inventory/used-ford-bronco-big-bend-2-3l-hard-top-heated-seatsin-kelowna-near-west-kelowna.json",
-      "models": [
-        {
-          "model": "Bronco BIG BEND, 2.3L, HARD TOP, HEATED SEATSin Kelowna near West Kelowna",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150 F150 Xlt 302ain Kelowna near West Kelowna",
-      "count": 1,
-      "file": "inventory/used-ford-f-150-f150-xlt-302ain-kelowna-near-west-kelowna.json",
-      "models": [
-        {
-          "model": "F-150 F150 Xlt 302ain Kelowna near West Kelowna",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150 XLT, 2.7L, SPORT PKG, TAILGATE STEP, 360 CAMERA, HEATED SEATS, REMOTE STARTin Kelowna near West Kelowna",
-      "count": 1,
-      "file": "inventory/used-ford-f-150-xlt-2-7l-sport-pkg-tailgate-step-360-camera-heated-seats-remote-startin-kelowna-near-west-kelowna.json",
-      "models": [
-        {
-          "model": "F-150 XLT, 2.7L, SPORT PKG, TAILGATE STEP, 360 CAMERA, HEATED SEATS, REMOTE STARTin Kelowna near West Kelowna",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150 LARIAT, 2.7L, MOONROOF, FX4 PKG, TOW PKG, TAILGATE STEP, 360 CAMERA, SPORT PKGin Kelowna near West Kelowna",
-      "count": 1,
-      "file": "inventory/used-ford-f-150-lariat-2-7l-moonroof-fx4-pkg-tow-pkg-tailgate-step-360-camera-sport-pkgin-kelowna-near-west-kelowna.json",
-      "models": [
-        {
-          "model": "F-150 LARIAT, 2.7L, MOONROOF, FX4 PKG, TOW PKG, TAILGATE STEP, 360 CAMERA, SPORT PKGin Kelowna near West Kelowna",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Bronco BIG BEND, HARD TOP, KEYLESS ENTRY, HEATED SEATSin Kelowna near West Kelowna",
-      "count": 1,
-      "file": "inventory/used-ford-bronco-big-bend-hard-top-keyless-entry-heated-seatsin-kelowna-near-west-kelowna.json",
-      "models": [
-        {
-          "model": "Bronco BIG BEND, HARD TOP, KEYLESS ENTRY, HEATED SEATSin Kelowna near West Kelowna",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150 XLT, 2.7L, TWIN PANEL MOONROOF, HEATED SEATS, 360 CAMERA, TAILGATE STEPin Kelowna near West Kelowna",
-      "count": 1,
-      "file": "inventory/used-ford-f-150-xlt-2-7l-twin-panel-moonroof-heated-seats-360-camera-tailgate-stepin-kelowna-near-west-kelowna.json",
-      "models": [
-        {
-          "model": "F-150 XLT, 2.7L, TWIN PANEL MOONROOF, HEATED SEATS, 360 CAMERA, TAILGATE STEPin Kelowna near West Kelowna",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Bronco BLACK DIAMOND, 2.3L, SOFT TOP, HEATED SEATS, VINYL SEATSin Kelowna near West Kelowna",
-      "count": 1,
-      "file": "inventory/used-ford-bronco-black-diamond-2-3l-soft-top-heated-seats-vinyl-seatsin-kelowna-near-west-kelowna.json",
-      "models": [
-        {
-          "model": "Bronco BLACK DIAMOND, 2.3L, SOFT TOP, HEATED SEATS, VINYL SEATSin Kelowna near West Kelowna",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Bronco OUTERBANKS, 2.7L, HARDTOP, KEYLESS ENTRY, REVERSE CAMERAin Kelowna near West Kelowna",
-      "count": 1,
-      "file": "inventory/used-ford-bronco-outerbanks-2-7l-hardtop-keyless-entry-reverse-camerain-kelowna-near-west-kelowna.json",
-      "models": [
-        {
-          "model": "Bronco OUTERBANKS, 2.7L, HARDTOP, KEYLESS ENTRY, REVERSE CAMERAin Kelowna near West Kelowna",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Bronco OUTERBANKS, 2.7L, HIGH/LUX PKG, HARDTOP, ADAPTIVE CRUISE CONTROL, 360 CAMERAin Kelowna near West Kelowna",
-      "count": 1,
-      "file": "inventory/used-ford-bronco-outerbanks-2-7l-high-lux-pkg-hardtop-adaptive-cruise-control-360-camerain-kelowna-near-west-kelowna.json",
-      "models": [
-        {
-          "model": "Bronco OUTERBANKS, 2.7L, HIGH/LUX PKG, HARDTOP, ADAPTIVE CRUISE CONTROL, 360 CAMERAin Kelowna near West Kelowna",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Bronco OUTERBANKS, HARDTOP, KEYLESS ENTRY, REMOTE START, APPLE CARPLAYin Kelowna near West Kelowna",
-      "count": 1,
-      "file": "inventory/used-ford-bronco-outerbanks-hardtop-keyless-entry-remote-start-apple-carplayin-kelowna-near-west-kelowna.json",
-      "models": [
-        {
-          "model": "Bronco OUTERBANKS, HARDTOP, KEYLESS ENTRY, REMOTE START, APPLE CARPLAYin Kelowna near West Kelowna",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
       "model": "Mustang Shelby",
       "count": 1,
       "file": "inventory/used-ford-mustang-shelby.json",
@@ -1364,12 +1397,12 @@
     {
       "condition": "used",
       "make": "ford",
-      "model": "FOCUS ELECTRIC",
+      "model": "Transit Chassis Cab",
       "count": 1,
-      "file": "inventory/used-ford-focus-electric.json",
+      "file": "inventory/used-ford-transit-chassis-cab.json",
       "models": [
         {
-          "model": "FOCUS ELECTRIC",
+          "model": "Transit Chassis Cab",
           "count": 1
         }
       ]
@@ -1403,116 +1436,12 @@
     {
       "condition": "used",
       "make": "ford",
-      "model": "Edge ST-LINE AWD 2.0L ECOBOOST *CO-PILOT360 PACKAGE *PANORAMIC ROOFin Campbell River",
+      "model": "FUSION ENERGI",
       "count": 1,
-      "file": "inventory/used-ford-edge-st-line-awd-2-0l-ecoboost-co-pilot360-package-panoramic-roofin-campbell-river.json",
+      "file": "inventory/used-ford-fusion-energi.json",
       "models": [
         {
-          "model": "Edge ST-LINE AWD 2.0L ECOBOOST *CO-PILOT360 PACKAGE *PANORAMIC ROOFin Campbell River",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150 SUPERCAB XLT 300A **8 FT BOX *TRAILER TOW PACKAGEin Campbell River",
-      "count": 1,
-      "file": "inventory/used-ford-f-150-supercab-xlt-300a-8-ft-box-trailer-tow-packagein-campbell-river.json",
-      "models": [
-        {
-          "model": "F-150 SUPERCAB XLT 300A **8 FT BOX *TRAILER TOW PACKAGEin Campbell River",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150 XLT SPORT*3.5L V6 ECOBOOST*SKID PLATES*TRAILER TOW PKG*POWER ADJ PEDALS*LED BOX&SIDE-MIRROR LIGHTINGin Campbell River",
-      "count": 1,
-      "file": "inventory/used-ford-f-150-xlt-sport-3-5l-v6-ecoboost-skid-plates-trailer-tow-pkg-power-adj-pedals-led-box-side-mirror-lightingin-campbell-river.json",
-      "models": [
-        {
-          "model": "F-150 XLT SPORT*3.5L V6 ECOBOOST*SKID PLATES*TRAILER TOW PKG*POWER ADJ PEDALS*LED BOX&SIDE-MIRROR LIGHTINGin Campbell River",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150 XLT 301A 3.5L V6 ECOBOOST *18 CHROME WHEELSin Campbell River",
-      "count": 2,
-      "file": "inventory/used-ford-f-150-xlt-301a-3-5l-v6-ecoboost-18-chrome-wheelsin-campbell-river.json",
-      "models": [
-        {
-          "model": "F-150 XLT 301A 3.5L V6 ECOBOOST *18 CHROME WHEELSin Campbell River",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150 STX 200B 2.7L V6 ECOBOOSTin Campbell River",
-      "count": 1,
-      "file": "inventory/used-ford-f-150-stx-200b-2-7l-v6-ecoboostin-campbell-river.json",
-      "models": [
-        {
-          "model": "F-150 STX 200B 2.7L V6 ECOBOOSTin Campbell River",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150 701A*Platinum Hybrid Twin Panel Moonroof*FX4 OFF ROAD PKG*MAX TRAILER TOW PKGin Campbell River",
-      "count": 1,
-      "file": "inventory/used-ford-f-150-701a-platinum-hybrid-twin-panel-moonroof-fx4-off-road-pkg-max-trailer-tow-pkgin-campbell-river.json",
-      "models": [
-        {
-          "model": "F-150 701A*Platinum Hybrid Twin Panel Moonroof*FX4 OFF ROAD PKG*MAX TRAILER TOW PKGin Campbell River",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150 LARIAT*502A*5.0L V8*FORD CO-PILOT360 ASSIST*TWIN PANEL MOOROOF*TRAILER TOW PKG*FX4 OFF ROAD PKGin Campbell River",
-      "count": 1,
-      "file": "inventory/used-ford-f-150-lariat-502a-5-0l-v8-ford-co-pilot360-assist-twin-panel-mooroof-trailer-tow-pkg-fx4-off-road-pkgin-campbell-river.json",
-      "models": [
-        {
-          "model": "F-150 LARIAT*502A*5.0L V8*FORD CO-PILOT360 ASSIST*TWIN PANEL MOOROOF*TRAILER TOW PKG*FX4 OFF ROAD PKGin Campbell River",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150 Platinumin Courtenay",
-      "count": 1,
-      "file": "inventory/used-ford-f-150-platinumin-courtenay.json",
-      "models": [
-        {
-          "model": "F-150 Platinumin Courtenay",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Bronco WILTRAK 2.7L V6 ECOBOOST *HARD TOP *HIGH/LUX PACKAGEin Campbell River",
-      "count": 1,
-      "file": "inventory/used-ford-bronco-wiltrak-2-7l-v6-ecoboost-hard-top-high-lux-packagein-campbell-river.json",
-      "models": [
-        {
-          "model": "Bronco WILTRAK 2.7L V6 ECOBOOST *HARD TOP *HIGH/LUX PACKAGEin Campbell River",
+          "model": "FUSION ENERGI",
           "count": 1
         }
       ]
@@ -1533,77 +1462,12 @@
     {
       "condition": "used",
       "make": "ford",
-      "model": "FUSION ENERGI",
+      "model": "C-Max Hybrid",
       "count": 1,
-      "file": "inventory/used-ford-fusion-energi.json",
+      "file": "inventory/used-ford-c-max-hybrid.json",
       "models": [
         {
-          "model": "FUSION ENERGI",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150 Platinum 701A, 3.5L V6 ECO, 5.5' BOX, MOON ROOF, MAX TOW, FX4, HTD/COOLED BUCKET SEATS, TONNEAUin Kimberley",
-      "count": 1,
-      "file": "inventory/used-ford-f-150-platinum-701a-3-5l-v6-eco-5-5-box-moon-roof-max-tow-fx4-htd-cooled-bucket-seats-tonneauin-kimberley.json",
-      "models": [
-        {
-          "model": "F-150 Platinum 701A, 3.5L V6 ECO, 5.5' BOX, MOON ROOF, MAX TOW, FX4, HTD/COOLED BUCKET SEATS, TONNEAUin Kimberley",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "E-Series Cutaway",
-      "count": 1,
-      "file": "inventory/used-ford-e-series-cutaway.json",
-      "models": [
-        {
-          "model": "E-Series Cutaway",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150 XLTin Kimberley",
-      "count": 1,
-      "file": "inventory/used-ford-f-150-xltin-kimberley.json",
-      "models": [
-        {
-          "model": "F-150 XLTin Kimberley",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "C-Max Hybrid SE",
-      "count": 1,
-      "file": "inventory/used-ford-c-max-hybrid-se.json",
-      "models": [
-        {
-          "model": "C-Max Hybrid SE",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Mustang GT Premium",
-      "count": 1,
-      "file": "inventory/used-ford-mustang-gt-premium.json",
-      "models": [
-        {
-          "model": "Mustang GT Premium",
+          "model": "C-Max Hybrid",
           "count": 1
         }
       ]

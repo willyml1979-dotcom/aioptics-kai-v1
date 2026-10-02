@@ -1,14 +1,15 @@
 {
-  "generated_at": "2026-10-02T16:56:55+00:00",
-  "snapshot": "2026-10-02T16:56:55+00:00",
+  "generated_at": "2026-10-02T22:53:01+00:00",
+  "snapshot": "2026-10-02T22:53:01+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "kamloops-honda-cars-1fmcu9g67nua52804",
       "year": 2022,
       "make": "Ford",
       "model": "Escape",
+      "drivetrain": "AWD",
       "propulsion": "gas",
       "propulsion_source": "stated",
       "condition": "used",
@@ -34,6 +35,7 @@
       "year": 2022,
       "make": "Ford",
       "model": "Escape",
+      "drivetrain": "AWD",
       "propulsion": "gas",
       "propulsion_source": "stated",
       "condition": "used",
@@ -53,6 +55,34 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Volkswagen of Kamloops"
+    },
+    {
+      "pub_id": "rivershore-chrysler-dodge-jeep-ram-1fmcu9mnxtua41255",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "ST-LINE // AWD // SPORT APPERANCE PKG // LOW KMS",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 5972,
+      "price_cad": 35998.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "rivershore-chrysler-dodge-jeep-ram",
+      "vin": "1FMCU9MNXTUA41255",
+      "stock": "OS7268",
+      "listing_url": "https://www.rivershoreram.ca/inventory/2026-ford-escape-st-line-THYAOYP1Qu61RAkhO40zjAvdp",
+      "dealer_url": "https://www.rivershoreram.ca/inventory/2026-ford-escape-st-line-THYAOYP1Qu61RAkhO40zjAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T01:19:27",
+      "snapshot": "2026-09-26T01:21:22",
+      "go_url": "https://carwhisper.ca/go/rivershore-chrysler-dodge-jeep-ram-1fmcu9mnxtua41255",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Rivershore Chrysler Dodge Jeep Ram"
     }
   ]
 }

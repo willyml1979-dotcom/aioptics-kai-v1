@@ -1,49 +1,85 @@
 {
-  "generated_at": "2026-10-02T16:56:55+00:00",
+  "generated_at": "2026-10-02T22:53:01+00:00",
   "condition": "new",
   "make": "acura",
   "files": [
     {
       "condition": "new",
       "make": "acura",
-      "count": 40,
-      "file": "inventory/new-acura.json",
+      "model": "Integra",
+      "count": 10,
+      "file": "inventory/new-acura-integra.json",
+      "models": [
+        {
+          "model": "Integra",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "acura",
+      "model": "ADX",
+      "shard": "Lower Mainland",
+      "count": 23,
+      "file": "inventory/new-acura-adx-lower-mainland.json",
       "models": [
         {
           "model": "ADX",
-          "count": 2
-        },
+          "count": 23
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "acura",
+      "model": "ADX",
+      "shard": "Okanagan",
+      "count": 23,
+      "file": "inventory/new-acura-adx-okanagan.json",
+      "models": [
         {
-          "model": "ADX A-SPECin Kelowna",
-          "count": 6
-        },
-        {
-          "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
-          "count": 17
-        },
-        {
-          "model": "Integra",
-          "count": 1
-        },
-        {
-          "model": "Integra Elite A-Specin Kelowna",
-          "count": 1
-        },
-        {
-          "model": "MDX",
-          "count": 2
-        },
-        {
-          "model": "MDX A-Specin Kelowna",
-          "count": 2
-        },
-        {
-          "model": "MDX Platinum Elite A-Specin Kelowna",
-          "count": 7
-        },
+          "model": "ADX",
+          "count": 23
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "acura",
+      "model": "RDX",
+      "count": 10,
+      "file": "inventory/new-acura-rdx.json",
+      "models": [
         {
           "model": "RDX",
-          "count": 2
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "acura",
+      "model": "MDX",
+      "count": 29,
+      "file": "inventory/new-acura-mdx.json",
+      "models": [
+        {
+          "model": "MDX",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "acura",
+      "model": "RDX AWD",
+      "count": 1,
+      "file": "inventory/new-acura-rdx-awd.json",
+      "models": [
+        {
+          "model": "RDX AWD",
+          "count": 1
         }
       ]
     }

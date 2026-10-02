@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T16:56:55+00:00",
-  "snapshot": "2026-10-02T16:56:55+00:00",
+  "generated_at": "2026-10-02T22:53:01+00:00",
+  "snapshot": "2026-10-02T22:53:01+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "maple-ridge-hyundai-jtjsardz9l5016818",
@@ -91,6 +91,33 @@
       "city": "Penticton",
       "province": "BC",
       "dealer_name": "Penticton Nissan"
+    },
+    {
+      "pub_id": "lexus-of-kelowna-jtjsardz0m2236657",
+      "year": 2021,
+      "make": "Lexus",
+      "model": "NX 300",
+      "trim": "F Sport Series 3",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 46381,
+      "price_cad": 42995.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "lexus-of-kelowna",
+      "vin": "JTJSARDZ0M2236657",
+      "stock": "14288771",
+      "listing_url": "https://www.lexusofkelowna.com/used/2021-Lexus-NX_300-id14288771.html",
+      "dealer_url": "https://www.lexusofkelowna.com/used/2021-Lexus-NX_300-id14288771.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T01:57:40",
+      "snapshot": "2026-09-26T03:11:28",
+      "go_url": "https://carwhisper.ca/go/lexus-of-kelowna-jtjsardz0m2236657",
+      "region": "Okanagan",
+      "city": "Kelowna",
+      "province": "BC",
+      "dealer_name": "Lexus of Kelowna"
     },
     {
       "pub_id": "victoria-hyundai-jtjsardz9l5016818",

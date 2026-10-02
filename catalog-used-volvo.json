@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T16:56:55+00:00",
+  "generated_at": "2026-10-02T22:53:01+00:00",
   "condition": "used",
   "make": "volvo",
   "files": [
@@ -7,12 +7,12 @@
       "condition": "used",
       "make": "volvo",
       "model": "V60",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-volvo-v60.json",
       "models": [
         {
           "model": "V60",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -20,12 +20,12 @@
       "condition": "used",
       "make": "volvo",
       "model": "XC40",
-      "count": 14,
+      "count": 16,
       "file": "inventory/used-volvo-xc40.json",
       "models": [
         {
           "model": "XC40",
-          "count": 14
+          "count": 16
         }
       ]
     },
@@ -168,6 +168,19 @@
       "models": [
         {
           "model": "XC60 Plug-in Hybrid",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volvo",
+      "model": "XC90 Hybrid",
+      "count": 1,
+      "file": "inventory/used-volvo-xc90-hybrid.json",
+      "models": [
+        {
+          "model": "XC90 Hybrid",
           "count": 1
         }
       ]

@@ -1,14 +1,15 @@
 {
-  "generated_at": "2026-10-02T16:56:55+00:00",
-  "snapshot": "2026-10-02T16:56:55+00:00",
+  "generated_at": "2026-10-02T22:53:01+00:00",
+  "snapshot": "2026-10-02T22:53:01+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "kamloops-honda-cars-kmhrc8a39ru334650",
       "year": 2024,
       "make": "Hyundai",
       "model": "Venue",
+      "drivetrain": "FWD",
       "propulsion": "gas",
       "propulsion_source": "stated",
       "condition": "used",
@@ -28,6 +29,31 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Kamloops Honda Cars"
+    },
+    {
+      "pub_id": "sun-country-toyota-kmhrc8a36nu137476",
+      "year": 2022,
+      "make": "Hyundai",
+      "model": "Venue",
+      "trim": "Urban",
+      "drivetrain": "FWD",
+      "condition": "used",
+      "odometer_km": 54283,
+      "price_cad": 19385.0,
+      "price_note": null,
+      "color": "n/a",
+      "dealer_id": "sun-country-toyota",
+      "vin": "KMHRC8A36NU137476",
+      "stock": "n/a",
+      "listing_url": "https://www.suncountrytoyota.ca/en/used-inventory/hyundai/venue/2022-hyundai-venue-id38712874",
+      "dealer_url": "https://www.suncountrytoyota.ca/en/used-inventory/hyundai/venue/2022-hyundai-venue-id38712874?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T06:03:45",
+      "snapshot": "2026-09-26T06:06:16",
+      "go_url": "https://carwhisper.ca/go/sun-country-toyota-kmhrc8a36nu137476",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Sun Country Toyota"
     }
   ]
 }
