@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 28,
+  "count": 29,
   "vehicles": [
     {
       "pub_id": "maple-ridge-hyundai-5fryd4h46gb508148",
@@ -578,6 +578,30 @@
       "city": "Nanaimo",
       "province": "BC",
       "dealer_name": "Sunshine Mountain Ford Lincoln Ltd."
+    },
+    {
+      "pub_id": "country-hills-nissan-2hnyd189x5h000097",
+      "year": 2005,
+      "make": "Acura",
+      "model": "MDX",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 191549,
+      "price_cad": 4900.0,
+      "price_note": null,
+      "color": "Brown",
+      "dealer_id": "country-hills-nissan",
+      "vin": "2HNYD189X5H000097",
+      "stock": "CG22011",
+      "listing_url": "https://www.chnissan.com/vehicles/2005/acura/mdx/calgary/ab/71440664/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2005/acura/mdx/calgary/ab/71440664/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:00:45",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-2hnyd189x5h000097",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     },
     {
       "pub_id": "sherwood-park-hyundai-5j8ye1h80nl803208",

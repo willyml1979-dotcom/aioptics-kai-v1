@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
   "condition": "used",
   "make": "subaru",
   "files": [
@@ -104,12 +104,12 @@
       "condition": "used",
       "make": "subaru",
       "model": "Solterra",
-      "count": 6,
+      "count": 7,
       "file": "inventory/used-subaru-solterra.json",
       "models": [
         {
           "model": "Solterra",
-          "count": 6
+          "count": 7
         }
       ]
     },
@@ -286,12 +286,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "sin-region",
-      "count": 33,
+      "count": 34,
       "file": "inventory/used-subaru-forester-sin-region.json",
       "models": [
         {
           "model": "Forester",
-          "count": 33
+          "count": 34
         }
       ]
     },
@@ -299,12 +299,12 @@
       "condition": "used",
       "make": "subaru",
       "model": "WRX",
-      "count": 31,
+      "count": 32,
       "file": "inventory/used-subaru-wrx.json",
       "models": [
         {
           "model": "WRX",
-          "count": 31
+          "count": 32
         }
       ]
     },
@@ -325,12 +325,12 @@
       "condition": "used",
       "make": "subaru",
       "model": "Ascent",
-      "count": 24,
+      "count": 25,
       "file": "inventory/used-subaru-ascent.json",
       "models": [
         {
           "model": "Ascent",
-          "count": 24
+          "count": 25
         }
       ]
     },
@@ -356,6 +356,32 @@
       "models": [
         {
           "model": "WRX Sport CVT",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Outback 4dr Wgn H4 Man 2.5i Prem AWP-Pwr Moon",
+      "count": 1,
+      "file": "inventory/used-subaru-outback-4dr-wgn-h4-man-2-5i-prem-awp-pwr-moon.json",
+      "models": [
+        {
+          "model": "Outback 4dr Wgn H4 Man 2.5i Prem AWP-Pwr Moon",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Impreza RS AWD",
+      "count": 1,
+      "file": "inventory/used-subaru-impreza-rs-awd.json",
+      "models": [
+        {
+          "model": "Impreza RS AWD",
           "count": 1
         }
       ]

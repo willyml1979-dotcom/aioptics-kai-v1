@@ -1,44 +1,108 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
   "condition": "used",
   "make": "buick",
   "files": [
     {
       "condition": "used",
       "make": "buick",
-      "count": 38,
-      "file": "inventory/used-buick.json",
+      "model": "Envision",
+      "count": 12,
+      "file": "inventory/used-buick-envision.json",
       "models": [
         {
-          "model": "Enclave",
-          "count": 3
-        },
+          "model": "Envision",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "buick",
+      "model": "Encore",
+      "count": 12,
+      "file": "inventory/used-buick-encore.json",
+      "models": [
         {
           "model": "Encore",
-          "count": 11
-        },
+          "count": 12
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "buick",
+      "model": "Encore GX",
+      "count": 9,
+      "file": "inventory/used-buick-encore-gx.json",
+      "models": [
         {
           "model": "Encore GX",
-          "count": 7
-        },
-        {
-          "model": "Envision",
-          "count": 10
-        },
+          "count": 9
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "buick",
+      "model": "Envista",
+      "count": 4,
+      "file": "inventory/used-buick-envista.json",
+      "models": [
         {
           "model": "Envista",
           "count": 4
-        },
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "buick",
+      "model": "Enclave",
+      "count": 5,
+      "file": "inventory/used-buick-enclave.json",
+      "models": [
         {
-          "model": "Envista Sport Touring",
-          "count": 1
-        },
+          "model": "Enclave",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "buick",
+      "model": "Regal",
+      "count": 1,
+      "file": "inventory/used-buick-regal.json",
+      "models": [
         {
           "model": "Regal",
           "count": 1
-        },
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "buick",
+      "model": "Verano",
+      "count": 1,
+      "file": "inventory/used-buick-verano.json",
+      "models": [
         {
           "model": "Verano",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "buick",
+      "model": "Envista Sport Touring",
+      "count": 1,
+      "file": "inventory/used-buick-envista-sport-touring.json",
+      "models": [
+        {
+          "model": "Envista Sport Touring",
           "count": 1
         }
       ]

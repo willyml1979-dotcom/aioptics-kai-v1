@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 13,
+  "count": 14,
   "vehicles": [
     {
       "pub_id": "maple-ridge-hyundai-3n1ck3cp1kl213579",
@@ -296,6 +296,28 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Victoria Hyundai"
+    },
+    {
+      "pub_id": "country-hills-nissan-3n1ck3cp7fl235656",
+      "year": 2015,
+      "make": "Nissan",
+      "model": "Micra",
+      "condition": "used",
+      "odometer_km": 116001,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "Grey",
+      "dealer_id": "country-hills-nissan",
+      "vin": "3N1CK3CP7FL235656",
+      "stock": "CN42990",
+      "listing_url": "https://www.chnissan.com/vehicles/2015/nissan/micra/calgary/ab/71455144/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2015/nissan/micra/calgary/ab/71455144/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:05:38",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-3n1ck3cp7fl235656",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

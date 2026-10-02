@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 10,
+  "count": 12,
   "vehicles": [
     {
       "pub_id": "maple-ridge-chrysler-jeep-dodge-1gtp6bek9p1266964",
@@ -247,6 +247,54 @@
       "city": "Nanaimo",
       "province": "BC",
       "dealer_name": "Sunshine Mountain Ford Lincoln Ltd."
+    },
+    {
+      "pub_id": "country-hills-nissan-1gtg6fen4n1227777",
+      "year": 2022,
+      "make": "GMC",
+      "model": "Canyon",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 123050,
+      "price_cad": 39997.0,
+      "price_note": null,
+      "color": "Grey",
+      "dealer_id": "country-hills-nissan",
+      "vin": "1GTG6FEN4N1227777",
+      "stock": "CG42341",
+      "listing_url": "https://www.chnissan.com/vehicles/2022/gmc/canyon/okotoks/ab/71169949/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2022/gmc/canyon/okotoks/ab/71169949/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:25:30",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-1gtg6fen4n1227777",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
+    },
+    {
+      "pub_id": "country-hills-nissan-1gtp6dek3p1254336",
+      "year": 2023,
+      "make": "GMC",
+      "model": "Canyon",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 101582,
+      "price_cad": 43755.0,
+      "price_note": null,
+      "color": "Grey",
+      "dealer_id": "country-hills-nissan",
+      "vin": "1GTP6DEK3P1254336",
+      "stock": "SFB8621",
+      "listing_url": "https://www.chnissan.com/vehicles/2023/gmc/canyon/strathmore/ab/71172149/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2023/gmc/canyon/strathmore/ab/71172149/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:32:11",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-1gtp6dek3p1254336",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
   "condition": "used",
   "make": "honda",
   "files": [
@@ -91,12 +91,12 @@
       "make": "honda",
       "model": "CR-V",
       "shard": "sin-region",
-      "count": 5,
+      "count": 6,
       "file": "inventory/used-honda-cr-v-sin-region.json",
       "models": [
         {
           "model": "CR-V",
-          "count": 5
+          "count": 6
         }
       ]
     },
@@ -170,12 +170,12 @@
       "make": "honda",
       "model": "Civic",
       "shard": "part1",
-      "count": 31,
+      "count": 30,
       "file": "inventory/used-honda-civic-part1.json",
       "models": [
         {
           "model": "Civic",
-          "count": 31
+          "count": 30
         }
       ]
     },
@@ -184,12 +184,12 @@
       "make": "honda",
       "model": "Civic",
       "shard": "part2",
-      "count": 31,
+      "count": 30,
       "file": "inventory/used-honda-civic-part2.json",
       "models": [
         {
           "model": "Civic",
-          "count": 31
+          "count": 30
         }
       ]
     },
@@ -198,12 +198,12 @@
       "make": "honda",
       "model": "Civic",
       "shard": "part3",
-      "count": 31,
+      "count": 30,
       "file": "inventory/used-honda-civic-part3.json",
       "models": [
         {
           "model": "Civic",
-          "count": 31
+          "count": 30
         }
       ]
     },
@@ -212,7 +212,7 @@
       "make": "honda",
       "model": "Civic",
       "shard": "part4",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-honda-civic-part4.json",
       "models": [
         {
@@ -221,7 +221,7 @@
         },
         {
           "model": "Civic",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -242,12 +242,12 @@
       "condition": "used",
       "make": "honda",
       "model": "Pilot",
-      "count": 17,
+      "count": 18,
       "file": "inventory/used-honda-pilot.json",
       "models": [
         {
           "model": "Pilot",
-          "count": 17
+          "count": 18
         }
       ]
     },
@@ -345,13 +345,26 @@
     {
       "condition": "used",
       "make": "honda",
+      "model": "Civic Sedan Hybrid",
+      "count": 3,
+      "file": "inventory/used-honda-civic-sedan-hybrid.json",
+      "models": [
+        {
+          "model": "Civic Sedan Hybrid",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
       "model": "Passport",
-      "count": 8,
+      "count": 9,
       "file": "inventory/used-honda-passport.json",
       "models": [
         {
           "model": "Passport",
-          "count": 8
+          "count": 9
         }
       ]
     },

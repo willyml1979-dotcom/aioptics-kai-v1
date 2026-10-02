@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "pioneer-chrysler-jeep-3n1ce2cp7gl389822",
@@ -141,6 +141,30 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Victoria Hyundai"
+    },
+    {
+      "pub_id": "country-hills-nissan-3n1ce2cp0hl364844",
+      "year": 2017,
+      "make": "Nissan",
+      "model": "Versa Note",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 198040,
+      "price_cad": 6798.0,
+      "price_note": null,
+      "color": "Blue",
+      "dealer_id": "country-hills-nissan",
+      "vin": "3N1CE2CP0HL364844",
+      "stock": "CNP4458",
+      "listing_url": "https://www.chnissan.com/vehicles/2017/nissan/versa-note/calgary/ab/71341517/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2017/nissan/versa-note/calgary/ab/71341517/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:09:37",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-3n1ce2cp0hl364844",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

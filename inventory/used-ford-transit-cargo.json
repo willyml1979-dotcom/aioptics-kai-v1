@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "tricity-mitsubishi-1ftbr1c85mka73316",
@@ -153,6 +153,31 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Jim Pattison Toyota Victoria"
+    },
+    {
+      "pub_id": "country-hills-nissan-1ftbw2y80ska06899",
+      "year": 2025,
+      "make": "Ford",
+      "model": "Transit Cargo",
+      "body_type": "van",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 26640,
+      "price_cad": 55795.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "country-hills-nissan",
+      "vin": "1FTBW2Y80SKA06899",
+      "stock": "ADR6899",
+      "listing_url": "https://www.chnissan.com/vehicles/2025/ford/transit-cargo-van/airdrie/ab/70548581/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2025/ford/transit-cargo-van/airdrie/ab/70548581/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T22:03:00",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-1ftbw2y80ska06899",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

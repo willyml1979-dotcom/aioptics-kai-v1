@@ -1,21 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
   "condition": "used",
   "make": "mercedes-benz",
   "files": [
-    {
-      "condition": "used",
-      "make": "mercedes-benz",
-      "model": "M-Class",
-      "count": 2,
-      "file": "inventory/used-mercedes-benz-m-class.json",
-      "models": [
-        {
-          "model": "M-Class",
-          "count": 2
-        }
-      ]
-    },
     {
       "condition": "used",
       "make": "mercedes-benz",
@@ -71,6 +58,19 @@
     {
       "condition": "used",
       "make": "mercedes-benz",
+      "model": "M-Class",
+      "count": 2,
+      "file": "inventory/used-mercedes-benz-m-class.json",
+      "models": [
+        {
+          "model": "M-Class",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
       "model": "GLA 250 4MATIC SUV LEATHER",
       "count": 1,
       "file": "inventory/used-mercedes-benz-gla-250-4matic-suv-leather.json",
@@ -85,12 +85,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "E-Class",
-      "count": 3,
+      "count": 4,
       "file": "inventory/used-mercedes-benz-e-class.json",
       "models": [
         {
           "model": "E-Class",
-          "count": 3
+          "count": 4
         }
       ]
     },
@@ -150,12 +150,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLC",
-      "count": 11,
+      "count": 13,
       "file": "inventory/used-mercedes-benz-glc.json",
       "models": [
         {
           "model": "GLC",
-          "count": 11
+          "count": 13
         }
       ]
     },
@@ -189,12 +189,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLB",
-      "count": 3,
+      "count": 4,
       "file": "inventory/used-mercedes-benz-glb.json",
       "models": [
         {
           "model": "GLB",
-          "count": 3
+          "count": 4
         }
       ]
     },
@@ -279,19 +279,6 @@
     {
       "condition": "used",
       "make": "mercedes-benz",
-      "model": "AMG GLE 63 2017 Mercedes-Benz GLE63S SUV with 5.5L V8, AWD, and premium safety features. Surrey, BC.in Surrey",
-      "count": 1,
-      "file": "inventory/used-mercedes-benz-amg-gle-63-2017-mercedes-benz-gle63s-suv-with-5-5l-v8-awd-and-premium-safety-features-surrey-bc-in-surrey.json",
-      "models": [
-        {
-          "model": "AMG GLE 63 2017 Mercedes-Benz GLE63S SUV with 5.5L V8, AWD, and premium safety features. Surrey, BC.in Surrey",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mercedes-benz",
       "model": "Sprinter Cargo",
       "count": 3,
       "file": "inventory/used-mercedes-benz-sprinter-cargo.json",
@@ -299,6 +286,19 @@
         {
           "model": "Sprinter Cargo",
           "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "AMG GLE 63 2017 Mercedes-Benz GLE63S SUV with 5.5L V8, AWD, and premium safety features. Surrey, BC.in Surrey",
+      "count": 1,
+      "file": "inventory/used-mercedes-benz-amg-gle-63-2017-mercedes-benz-gle63s-suv-with-5-5l-v8-awd-and-premium-safety-features-surrey-bc-in-surrey.json",
+      "models": [
+        {
+          "model": "AMG GLE 63 2017 Mercedes-Benz GLE63S SUV with 5.5L V8, AWD, and premium safety features. Surrey, BC.in Surrey",
+          "count": 1
         }
       ]
     },
@@ -462,11 +462,24 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "G-Class",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-mercedes-benz-g-class.json",
       "models": [
         {
           "model": "G-Class",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "GLA 4MATIC 4dr GLA 250",
+      "count": 1,
+      "file": "inventory/used-mercedes-benz-gla-4matic-4dr-gla-250.json",
+      "models": [
+        {
+          "model": "GLA 4MATIC 4dr GLA 250",
           "count": 1
         }
       ]

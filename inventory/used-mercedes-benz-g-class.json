@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "tricity-mitsubishi-w1nyc7hj4nx444019",
@@ -28,6 +28,31 @@
       "city": "Port Coquitlam",
       "province": "BC",
       "dealer_name": "Tricity Mitsubishi"
+    },
+    {
+      "pub_id": "country-hills-nissan-wdcyc3hf6cx195919",
+      "year": 2012,
+      "make": "Mercedes-Benz",
+      "model": "G-Class",
+      "body_type": "suv",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 193648,
+      "price_cad": 42995.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "country-hills-nissan",
+      "vin": "WDCYC3HF6CX195919",
+      "stock": "SGD2800",
+      "listing_url": "https://www.chnissan.com/vehicles/2012/mercedes-benz/g-class/calgary/ab/71027829/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2012/mercedes-benz/g-class/calgary/ab/71027829/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:02:58",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-wdcyc3hf6cx195919",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

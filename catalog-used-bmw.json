@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
   "condition": "used",
   "make": "bmw",
   "files": [
@@ -36,12 +36,12 @@
       "make": "bmw",
       "model": "X3",
       "shard": "sin-region",
-      "count": 1,
+      "count": 3,
       "file": "inventory/used-bmw-x3-sin-region.json",
       "models": [
         {
           "model": "X3",
-          "count": 1
+          "count": 3
         }
       ]
     },
@@ -62,12 +62,12 @@
       "condition": "used",
       "make": "bmw",
       "model": "3 Series",
-      "count": 22,
+      "count": 24,
       "file": "inventory/used-bmw-3-series.json",
       "models": [
         {
           "model": "3 Series",
-          "count": 22
+          "count": 24
         }
       ]
     },
@@ -88,12 +88,12 @@
       "condition": "used",
       "make": "bmw",
       "model": "X1",
-      "count": 30,
+      "count": 31,
       "file": "inventory/used-bmw-x1.json",
       "models": [
         {
           "model": "X1",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -101,12 +101,12 @@
       "condition": "used",
       "make": "bmw",
       "model": "X5",
-      "count": 23,
+      "count": 25,
       "file": "inventory/used-bmw-x5.json",
       "models": [
         {
           "model": "X5",
-          "count": 23
+          "count": 25
         }
       ]
     },
@@ -114,12 +114,12 @@
       "condition": "used",
       "make": "bmw",
       "model": "X2",
-      "count": 10,
+      "count": 11,
       "file": "inventory/used-bmw-x2.json",
       "models": [
         {
           "model": "X2",
-          "count": 10
+          "count": 11
         }
       ]
     },
@@ -604,6 +604,19 @@
       "models": [
         {
           "model": "M6",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "bmw",
+      "model": "X3 M",
+      "count": 1,
+      "file": "inventory/used-bmw-x3-m.json",
+      "models": [
+        {
+          "model": "X3 M",
           "count": 1
         }
       ]

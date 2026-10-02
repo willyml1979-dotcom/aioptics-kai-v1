@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 8,
+  "count": 9,
   "vehicles": [
     {
       "pub_id": "maple-ridge-chrysler-jeep-dodge-5fnyf8h59mb501752",
@@ -177,6 +177,30 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Kamloops Honda Cars"
+    },
+    {
+      "pub_id": "country-hills-nissan-5fnyf8h84sb500015",
+      "year": 2025,
+      "make": "Honda",
+      "model": "Passport",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 64817,
+      "price_cad": 48500.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "country-hills-nissan",
+      "vin": "5FNYF8H84SB500015",
+      "stock": "CGP0015",
+      "listing_url": "https://www.chnissan.com/vehicles/2025/honda/passport/calgary/ab/71351086/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2025/honda/passport/calgary/ab/71351086/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T22:06:06",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-5fnyf8h84sb500015",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     },
     {
       "pub_id": "go-richmond-kia-5fnyf9h53tb500665",

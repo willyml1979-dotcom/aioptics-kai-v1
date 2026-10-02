@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 9,
+  "count": 10,
   "vehicles": [
     {
       "pub_id": "destination-kingsway-honda-vancouver-jm1bl1l75d1760956",
@@ -226,6 +226,30 @@
       "city": null,
       "province": "BC",
       "dealer_name": "Go Auto Brampton Chrysler"
+    },
+    {
+      "pub_id": "country-hills-nissan-jm1bpblm3s1785397",
+      "year": 2025,
+      "make": "Mazda",
+      "model": "Mazda3 Sport",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 54791,
+      "price_cad": 28888.0,
+      "price_note": null,
+      "color": "Grey",
+      "dealer_id": "country-hills-nissan",
+      "vin": "JM1BPBLM3S1785397",
+      "stock": "SAP7853",
+      "listing_url": "https://www.chnissan.com/vehicles/2025/mazda/mazda3-sport/calgary/ab/71396501/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2025/mazda/mazda3-sport/calgary/ab/71396501/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T22:12:17",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-jm1bpblm3s1785397",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

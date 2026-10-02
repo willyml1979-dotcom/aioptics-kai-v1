@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "integrity-subaru-jtmababaxpa018245",
@@ -128,6 +128,30 @@
       "city": "Nanaimo",
       "province": "BC",
       "dealer_name": "Laird Wheaton GM"
+    },
+    {
+      "pub_id": "country-hills-nissan-jtmababa0pa022921",
+      "year": 2023,
+      "make": "Subaru",
+      "model": "Solterra",
+      "propulsion": "electric",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 27312,
+      "price_cad": 33729.0,
+      "price_note": null,
+      "color": "Red",
+      "dealer_id": "country-hills-nissan",
+      "vin": "JTMABABA0PA022921",
+      "stock": "CNA2921",
+      "listing_url": "https://www.chnissan.com/vehicles/2023/subaru/solterra/calgary/ab/71004917/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2023/subaru/solterra/calgary/ab/71004917/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:36:44",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-jtmababa0pa022921",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     },
     {
       "pub_id": "go-richmond-subaru-jtmababa6ra050256",

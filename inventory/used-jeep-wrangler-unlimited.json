@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 26,
+  "count": 27,
   "vehicles": [
     {
       "pub_id": "carter-gm-northshore-1c4bjwegxel274956",
@@ -561,6 +561,30 @@
       "city": null,
       "province": "BC",
       "dealer_name": "Go Auto Brampton Chrysler"
+    },
+    {
+      "pub_id": "country-hills-nissan-1c4pjxdnxrw150881",
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Wrangler Unlimited",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 44359,
+      "price_cad": 42998.0,
+      "price_note": null,
+      "color": "Green",
+      "dealer_id": "country-hills-nissan",
+      "vin": "1C4PJXDNXRW150881",
+      "stock": "SGA0881",
+      "listing_url": "https://www.chnissan.com/vehicles/2024/jeep/wrangler-unlimited/airdrie/ab/70884300/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2024/jeep/wrangler-unlimited/airdrie/ab/70884300/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:48:32",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-1c4pjxdnxrw150881",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     },
     {
       "pub_id": "go-auto-brampton-chrysler-1c4hjxfg9pw694157",

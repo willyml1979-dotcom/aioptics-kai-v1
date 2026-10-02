@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "maple-ridge-hyundai-jn8af5mv7ft562396",
@@ -99,6 +99,27 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Victoria Hyundai"
+    },
+    {
+      "pub_id": "country-hills-nissan-jn8af5mv7bt025831",
+      "year": 2011,
+      "make": "Nissan",
+      "model": "Juke",
+      "condition": "used",
+      "odometer_km": 230409,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "country-hills-nissan",
+      "vin": "JN8AF5MV7BT025831",
+      "stock": "CN39160",
+      "listing_url": "https://www.chnissan.com/vehicles/2011/nissan/juke/calgary/ab/71355354/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2011/nissan/juke/calgary/ab/71355354/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:02:19",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-jn8af5mv7bt025831",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

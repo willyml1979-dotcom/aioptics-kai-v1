@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
   "condition": "used",
   "make": "dodge",
   "files": [
@@ -37,16 +37,105 @@
       "condition": "used",
       "make": "dodge",
       "model": "DURANGO",
-      "count": 36,
-      "file": "inventory/used-dodge-durango.json",
+      "shard": "Kootenays",
+      "count": 2,
+      "file": "inventory/used-dodge-durango-kootenays.json",
       "models": [
         {
           "model": "DURANGO",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
+      "model": "DURANGO",
+      "shard": "Lower Mainland",
+      "count": 6,
+      "file": "inventory/used-dodge-durango-lower-mainland.json",
+      "models": [
+        {
+          "model": "Durango",
           "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
+      "model": "DURANGO",
+      "shard": "Norte/Cariboo",
+      "count": 7,
+      "file": "inventory/used-dodge-durango-norte-cariboo.json",
+      "models": [
+        {
+          "model": "DURANGO",
+          "count": 3
         },
         {
           "model": "Durango",
-          "count": 30
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
+      "model": "DURANGO",
+      "shard": "Okanagan",
+      "count": 8,
+      "file": "inventory/used-dodge-durango-okanagan.json",
+      "models": [
+        {
+          "model": "Durango",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
+      "model": "DURANGO",
+      "shard": "Thompson-Okanagan",
+      "count": 3,
+      "file": "inventory/used-dodge-durango-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "Durango",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
+      "model": "DURANGO",
+      "shard": "Vancouver Island",
+      "count": 4,
+      "file": "inventory/used-dodge-durango-vancouver-island.json",
+      "models": [
+        {
+          "model": "Durango",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
+      "model": "DURANGO",
+      "shard": "sin-region",
+      "count": 12,
+      "file": "inventory/used-dodge-durango-sin-region.json",
+      "models": [
+        {
+          "model": "DURANGO",
+          "count": 1
+        },
+        {
+          "model": "Durango",
+          "count": 11
         }
       ]
     },
@@ -67,12 +156,12 @@
       "condition": "used",
       "make": "dodge",
       "model": "Grand Caravan Passenger",
-      "count": 14,
+      "count": 16,
       "file": "inventory/used-dodge-grand-caravan-passenger.json",
       "models": [
         {
           "model": "Grand Caravan Passenger",
-          "count": 14
+          "count": 16
         }
       ]
     },
@@ -119,7 +208,7 @@
       "condition": "used",
       "make": "dodge",
       "model": "Hornet",
-      "count": 12,
+      "count": 15,
       "file": "inventory/used-dodge-hornet.json",
       "models": [
         {
@@ -128,7 +217,7 @@
         },
         {
           "model": "Hornet",
-          "count": 9
+          "count": 12
         }
       ]
     },

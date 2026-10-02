@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 35,
+  "count": 37,
   "vehicles": [
     {
       "pub_id": "maple-ridge-hyundai-3gncjrsb5fl184108",
@@ -839,6 +839,54 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Duncan Hyundai"
+    },
+    {
+      "pub_id": "country-hills-nissan-3gncjpsb2hl279555",
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 178397,
+      "price_cad": 11997.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "country-hills-nissan",
+      "vin": "3GNCJPSB2HL279555",
+      "stock": "OGE3983",
+      "listing_url": "https://www.chnissan.com/vehicles/2017/chevrolet/trax/okotoks/ab/71198250/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2017/chevrolet/trax/okotoks/ab/71198250/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:08:02",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-3gncjpsb2hl279555",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
+    },
+    {
+      "pub_id": "country-hills-nissan-3gncjpsb4hl130435",
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 159895,
+      "price_cad": 12995.0,
+      "price_note": null,
+      "color": "Silver",
+      "dealer_id": "country-hills-nissan",
+      "vin": "3GNCJPSB4HL130435",
+      "stock": "SG22048",
+      "listing_url": "https://www.chnissan.com/vehicles/2017/chevrolet/trax/calgary/ab/71250734/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2017/chevrolet/trax/calgary/ab/71250734/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:07:54",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-3gncjpsb4hl130435",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

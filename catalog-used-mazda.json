@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
   "condition": "used",
   "make": "mazda",
   "files": [
@@ -91,12 +91,12 @@
       "make": "mazda",
       "model": "CX-5",
       "shard": "sin-region",
-      "count": 3,
+      "count": 4,
       "file": "inventory/used-mazda-cx-5-sin-region.json",
       "models": [
         {
           "model": "CX-5",
-          "count": 3
+          "count": 4
         }
       ]
     },
@@ -104,12 +104,12 @@
       "condition": "used",
       "make": "mazda",
       "model": "Mazda3 Sport",
-      "count": 9,
+      "count": 10,
       "file": "inventory/used-mazda-mazda3-sport.json",
       "models": [
         {
           "model": "Mazda3 Sport",
-          "count": 9
+          "count": 10
         }
       ]
     },
@@ -214,6 +214,32 @@
         {
           "model": "CX-70 PHEV",
           "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mazda",
+      "model": "CX-5 GS",
+      "count": 1,
+      "file": "inventory/used-mazda-cx-5-gs.json",
+      "models": [
+        {
+          "model": "CX-5 GS",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mazda",
+      "model": "Mazda3 Sedan GT Auto FWD",
+      "count": 1,
+      "file": "inventory/used-mazda-mazda3-sedan-gt-auto-fwd.json",
+      "models": [
+        {
+          "model": "Mazda3 Sedan GT Auto FWD",
+          "count": 1
         }
       ]
     },

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "harbourview-volkswagen-wa1m2afz6np042978",
@@ -24,6 +24,29 @@
       "city": "Nanaimo",
       "province": "BC",
       "dealer_name": "Harbourview Volkswagen"
+    },
+    {
+      "pub_id": "country-hills-nissan-wa1k2afz6rp006219",
+      "year": 2024,
+      "make": "Audi",
+      "model": "Q4 e-tron",
+      "propulsion": "electric",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 27000,
+      "price_cad": 40888.0,
+      "price_note": null,
+      "dealer_id": "country-hills-nissan",
+      "vin": "WA1K2AFZ6RP006219",
+      "stock": "SAE0689",
+      "listing_url": "https://www.chnissan.com/vehicles/2024/audi/q4-e-tron/calgary/ab/71172140/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2024/audi/q4-e-tron/calgary/ab/71172140/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:37:13",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-wa1k2afz6rp006219",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
   "condition": "used",
   "make": "land-rover",
   "files": [
     {
       "condition": "used",
       "make": "land-rover",
-      "count": 16,
+      "count": 20,
       "file": "inventory/used-land-rover.json",
       "models": [
         {
@@ -26,12 +26,16 @@
           "count": 3
         },
         {
+          "model": "Range Rover",
+          "count": 2
+        },
+        {
           "model": "Range Rover Evoque",
           "count": 5
         },
         {
           "model": "Range Rover Sport",
-          "count": 3
+          "count": 5
         }
       ]
     }

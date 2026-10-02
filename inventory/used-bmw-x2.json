@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 10,
+  "count": 11,
   "vehicles": [
     {
       "pub_id": "destination-kingsway-honda-vancouver-wbxyj5c34jef70306",
@@ -251,6 +251,30 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Island Chevrolet Buick GMC"
+    },
+    {
+      "pub_id": "country-hills-nissan-wbx63gm01s5278936",
+      "year": 2025,
+      "make": "BMW",
+      "model": "X2",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 65225,
+      "price_cad": 34898.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "country-hills-nissan",
+      "vin": "WBX63GM01S5278936",
+      "stock": "CNE8936",
+      "listing_url": "https://www.chnissan.com/vehicles/2025/bmw/x2/calgary/ab/71340406/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2025/bmw/x2/calgary/ab/71340406/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:53:46",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-wbx63gm01s5278936",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

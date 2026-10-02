@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 24,
+  "count": 25,
   "vehicles": [
     {
       "pub_id": "jim-pattison-hyundai-northshore-4s4wmagd4l3424096",
@@ -443,6 +443,30 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Victoria Hyundai"
+    },
+    {
+      "pub_id": "country-hills-nissan-4s4wmaad8r3405696",
+      "year": 2024,
+      "make": "Subaru",
+      "model": "Ascent",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 78322,
+      "price_cad": 27489.0,
+      "price_note": null,
+      "color": "Grey",
+      "dealer_id": "country-hills-nissan",
+      "vin": "4S4WMAAD8R3405696",
+      "stock": "CNA5696",
+      "listing_url": "https://www.chnissan.com/vehicles/2024/subaru/ascent/calgary/ab/70576607/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2024/subaru/ascent/calgary/ab/70576607/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:53:01",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-4s4wmaad8r3405696",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     },
     {
       "pub_id": "go-richmond-subaru-4s4wmafd2r3411499",

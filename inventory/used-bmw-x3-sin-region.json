@@ -1,9 +1,34 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 3,
   "vehicles": [
+    {
+      "pub_id": "country-hills-nissan-5uxwx9c57f0d46011",
+      "year": 2015,
+      "make": "BMW",
+      "model": "X3",
+      "body_type": "suv",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 225622,
+      "price_cad": 7900.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "country-hills-nissan",
+      "vin": "5UXWX9C57F0D46011",
+      "stock": "CG10037",
+      "listing_url": "https://www.chnissan.com/vehicles/2015/bmw/x3/calgary/ab/71292170/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2015/bmw/x3/calgary/ab/71292170/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:04:47",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-5uxwx9c57f0d46011",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
+    },
     {
       "pub_id": "go-langley-subaru-5ux53dp03n9l87283",
       "year": 2022,
@@ -28,6 +53,30 @@
       "city": null,
       "province": "BC",
       "dealer_name": "Go Langley Subaru"
+    },
+    {
+      "pub_id": "country-hills-nissan-5ux53dp04r9w79076",
+      "year": 2024,
+      "make": "BMW",
+      "model": "X3",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 57261,
+      "price_cad": 37998.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "country-hills-nissan",
+      "vin": "5UX53DP04R9W79076",
+      "stock": "CNE9076",
+      "listing_url": "https://www.chnissan.com/vehicles/2024/bmw/x3/calgary/ab/71358267/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2024/bmw/x3/calgary/ab/71358267/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:37:21",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-5ux53dp04r9w79076",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

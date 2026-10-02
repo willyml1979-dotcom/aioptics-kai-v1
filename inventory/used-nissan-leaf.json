@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 10,
+  "count": 11,
   "vehicles": [
     {
       "pub_id": "tricity-mitsubishi-1n4az1cp5lc300103",
@@ -239,6 +239,31 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Campus Nissan"
+    },
+    {
+      "pub_id": "country-hills-nissan-1n4cz1cv8pc550416",
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Leaf",
+      "body_type": "hatchback",
+      "propulsion": "electric",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 73631,
+      "price_cad": 24959.0,
+      "price_note": null,
+      "color": "Blue",
+      "dealer_id": "country-hills-nissan",
+      "vin": "1N4CZ1CV8PC550416",
+      "stock": "CNN0416",
+      "listing_url": "https://www.chnissan.com/vehicles/2023/nissan/leaf-hatchback/calgary/ab/71039658/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2023/nissan/leaf-hatchback/calgary/ab/71039658/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:35:17",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-1n4cz1cv8pc550416",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 9,
+  "count": 11,
   "vehicles": [
     {
       "pub_id": "maple-ridge-hyundai-1fmju2at0nea00857",
@@ -214,6 +214,54 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Victoria Hyundai"
+    },
+    {
+      "pub_id": "country-hills-nissan-1fmju1jt0nea12341",
+      "year": 2022,
+      "make": "Ford",
+      "model": "Expedition",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 68001,
+      "price_cad": 57990.0,
+      "price_note": null,
+      "color": "Silver",
+      "dealer_id": "country-hills-nissan",
+      "vin": "1FMJU1JT0NEA12341",
+      "stock": "UFP2341",
+      "listing_url": "https://www.chnissan.com/vehicles/2022/ford/expedition/calgary/ab/71065636/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2022/ford/expedition/calgary/ab/71065636/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:24:53",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-1fmju1jt0nea12341",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
+    },
+    {
+      "pub_id": "country-hills-nissan-1fmju1j85rea46759",
+      "year": 2024,
+      "make": "Ford",
+      "model": "Expedition",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 76100,
+      "price_cad": 62887.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "country-hills-nissan",
+      "vin": "1FMJU1J85REA46759",
+      "stock": "SARA467",
+      "listing_url": "https://www.chnissan.com/vehicles/2024/ford/expedition/calgary/ab/ad13050031/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2024/ford/expedition/calgary/ab/ad13050031/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:41:47",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-1fmju1j85rea46759",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

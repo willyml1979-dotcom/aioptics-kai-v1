@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 23,
+  "count": 25,
   "vehicles": [
     {
       "pub_id": "brian-jessel-bmw-5uxzv4c56cl763147",
@@ -551,6 +551,54 @@
       "city": "Nanaimo",
       "province": "BC",
       "dealer_name": "Sunshine Mountain Ford Lincoln Ltd."
+    },
+    {
+      "pub_id": "country-hills-nissan-5uxkr0c57j0x95327",
+      "year": 2018,
+      "make": "BMW",
+      "model": "X5",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 188570,
+      "price_cad": 19887.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "country-hills-nissan",
+      "vin": "5UXKR0C57J0X95327",
+      "stock": "SAP1359",
+      "listing_url": "https://www.chnissan.com/vehicles/2018/bmw/x5/calgary/ab/71352952/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2018/bmw/x5/calgary/ab/71352952/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:10:06",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-5uxkr0c57j0x95327",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
+    },
+    {
+      "pub_id": "country-hills-nissan-5uxju4c02lle45517",
+      "year": 2020,
+      "make": "BMW",
+      "model": "X5",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 122571,
+      "price_cad": 39498.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "country-hills-nissan",
+      "vin": "5UXJU4C02LLE45517",
+      "stock": "CH01325",
+      "listing_url": "https://www.chnissan.com/vehicles/2020/bmw/x5/calgary/ab/71314150/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2020/bmw/x5/calgary/ab/71314150/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:15:39",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-5uxju4c02lle45517",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
   "condition": "used",
   "make": "chrysler",
   "files": [
@@ -46,16 +46,97 @@
       "condition": "used",
       "make": "chrysler",
       "model": "PACIFICA",
-      "count": 38,
-      "file": "inventory/used-chrysler-pacifica.json",
+      "shard": "Kootenays",
+      "count": 1,
+      "file": "inventory/used-chrysler-pacifica-kootenays.json",
       "models": [
         {
           "model": "PACIFICA",
           "count": 1
-        },
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chrysler",
+      "model": "PACIFICA",
+      "shard": "Lower Mainland",
+      "count": 18,
+      "file": "inventory/used-chrysler-pacifica-lower-mainland.json",
+      "models": [
         {
           "model": "Pacifica",
-          "count": 37
+          "count": 18
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chrysler",
+      "model": "PACIFICA",
+      "shard": "Norte/Cariboo",
+      "count": 2,
+      "file": "inventory/used-chrysler-pacifica-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Pacifica",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chrysler",
+      "model": "PACIFICA",
+      "shard": "Okanagan",
+      "count": 10,
+      "file": "inventory/used-chrysler-pacifica-okanagan.json",
+      "models": [
+        {
+          "model": "Pacifica",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chrysler",
+      "model": "PACIFICA",
+      "shard": "Thompson-Okanagan",
+      "count": 3,
+      "file": "inventory/used-chrysler-pacifica-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "Pacifica",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chrysler",
+      "model": "PACIFICA",
+      "shard": "Vancouver Island",
+      "count": 4,
+      "file": "inventory/used-chrysler-pacifica-vancouver-island.json",
+      "models": [
+        {
+          "model": "Pacifica",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chrysler",
+      "model": "PACIFICA",
+      "shard": "sin-region",
+      "count": 3,
+      "file": "inventory/used-chrysler-pacifica-sin-region.json",
+      "models": [
+        {
+          "model": "Pacifica",
+          "count": 3
         }
       ]
     },
@@ -63,7 +144,7 @@
       "condition": "used",
       "make": "chrysler",
       "model": "Grand Caravan",
-      "count": 8,
+      "count": 15,
       "file": "inventory/used-chrysler-grand-caravan.json",
       "models": [
         {
@@ -72,7 +153,7 @@
         },
         {
           "model": "Grand Caravan",
-          "count": 7
+          "count": 14
         }
       ]
     },
@@ -124,6 +205,19 @@
       "models": [
         {
           "model": "Grand Caravan SXTin Courtenay",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chrysler",
+      "model": "Voyager",
+      "count": 1,
+      "file": "inventory/used-chrysler-voyager.json",
+      "models": [
+        {
+          "model": "Voyager",
           "count": 1
         }
       ]

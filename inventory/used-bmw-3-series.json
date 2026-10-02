@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 22,
+  "count": 24,
   "vehicles": [
     {
       "pub_id": "pioneer-chrysler-jeep-wba8e3g50gnu02232",
@@ -540,6 +540,31 @@
       "dealer_name": "Go Richmond Kia"
     },
     {
+      "pub_id": "country-hills-nissan-wba8d9g3xhnu62265",
+      "year": 2017,
+      "make": "BMW",
+      "model": "3 Series",
+      "body_type": "sedan",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 98644,
+      "price_cad": 18200.0,
+      "price_note": null,
+      "color": "Silver",
+      "dealer_id": "country-hills-nissan",
+      "vin": "WBA8D9G3XHNU62265",
+      "stock": "SAPU622",
+      "listing_url": "https://www.chnissan.com/vehicles/2017/bmw/3-series-sedan/calgary/ab/70527331/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2017/bmw/3-series-sedan/calgary/ab/70527331/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:07:23",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-wba8d9g3xhnu62265",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
+    },
+    {
       "pub_id": "go-richmond-kia-3mw5r7j01m8b64787",
       "year": 2021,
       "make": "BMW",
@@ -563,6 +588,31 @@
       "city": null,
       "province": "BC",
       "dealer_name": "Go Richmond Kia"
+    },
+    {
+      "pub_id": "country-hills-nissan-wba83ff09pfp01290",
+      "year": 2023,
+      "make": "BMW",
+      "model": "3 Series",
+      "body_type": "sedan",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 53180,
+      "price_cad": 40900.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "country-hills-nissan",
+      "vin": "WBA83FF09PFP01290",
+      "stock": "CG10038",
+      "listing_url": "https://www.chnissan.com/vehicles/2023/bmw/3-series-sedan/calgary/ab/71374966/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2023/bmw/3-series-sedan/calgary/ab/71374966/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:28:41",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-wba83ff09pfp01290",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

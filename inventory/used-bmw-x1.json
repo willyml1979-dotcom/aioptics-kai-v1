@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 30,
+  "count": 31,
   "vehicles": [
     {
       "pub_id": "brian-jessel-bmw-wbavl1c50cvr79002",
@@ -689,6 +689,30 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Victoria Hyundai"
+    },
+    {
+      "pub_id": "country-hills-nissan-wbx73ef02s5166796",
+      "year": 2025,
+      "make": "BMW",
+      "model": "X1",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 30533,
+      "price_cad": 37595.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "country-hills-nissan",
+      "vin": "WBX73EF02S5166796",
+      "stock": "SAP1667",
+      "listing_url": "https://www.chnissan.com/vehicles/2025/bmw/x1/calgary/ab/70654248/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2025/bmw/x1/calgary/ab/70654248/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:53:36",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-wbx73ef02s5166796",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     },
     {
       "pub_id": "go-richmond-subaru-wbx73ef05r5y79024",

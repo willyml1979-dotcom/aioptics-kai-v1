@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 8,
   "vehicles": [
     {
       "pub_id": "richmond-hyundai-kmhlw4dk0ru021429",
@@ -153,6 +153,54 @@
       "city": null,
       "province": "BC",
       "dealer_name": "Sherwood Park Hyundai"
+    },
+    {
+      "pub_id": "country-hills-nissan-kmhlr4af6pu523695",
+      "year": 2023,
+      "make": "Hyundai",
+      "model": "Elantra N",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 54574,
+      "price_cad": 23700.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "country-hills-nissan",
+      "vin": "KMHLR4AF6PU523695",
+      "stock": "CG41531",
+      "listing_url": "https://www.chnissan.com/vehicles/2023/hyundai/elantra-n/calgary/ab/71345907/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2023/hyundai/elantra-n/calgary/ab/71345907/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:33:49",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-kmhlr4af6pu523695",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
+    },
+    {
+      "pub_id": "country-hills-nissan-kmhlr4df5su915894",
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Elantra N",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 15976,
+      "price_cad": 25489.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "country-hills-nissan",
+      "vin": "KMHLR4DF5SU915894",
+      "stock": "CNP5894",
+      "listing_url": "https://www.chnissan.com/vehicles/2025/hyundai/elantra-n/calgary/ab/70638064/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2025/hyundai/elantra-n/calgary/ab/70638064/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T22:06:15",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-kmhlr4df5su915894",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

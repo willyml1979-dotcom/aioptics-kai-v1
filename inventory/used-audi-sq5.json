@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "jim-pattison-volvo-cars-surrey-wa1c4afy3j2174438",
@@ -127,6 +127,29 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Brian Jessel BMW"
+    },
+    {
+      "pub_id": "country-hills-nissan-wa1c4afy0n2034885",
+      "year": 2022,
+      "make": "Audi",
+      "model": "SQ5",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 117549,
+      "price_cad": 36887.0,
+      "price_note": null,
+      "dealer_id": "country-hills-nissan",
+      "vin": "WA1C4AFY0N2034885",
+      "stock": "FM38759",
+      "listing_url": "https://www.chnissan.com/vehicles/2022/audi/sq5/calgary/ab/71440446/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2022/audi/sq5/calgary/ab/71440446/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:23:29",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-wa1c4afy0n2034885",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 18,
+  "count": 20,
   "vehicles": [
     {
       "pub_id": "lougheed-acura-3c6lrvcg5se540650",
@@ -431,6 +431,53 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Three Point Motors"
+    },
+    {
+      "pub_id": "go-auto-brampton-chrysler-3c6mrwez2te202486",
+      "year": 2026,
+      "make": "RAM",
+      "model": "ProMaster Cargo",
+      "body_type": "van",
+      "propulsion": "electric",
+      "propulsion_source": "stated",
+      "condition": "new",
+      "price_cad": 84755.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "go-auto-brampton-chrysler",
+      "vin": "3C6MRWEZ2TE202486",
+      "listing_url": "https://www.bramptonchrysler.ca/vehicles/2026/ram/promaster-cargo-van/st.-catharines/on/70071579/?sale_class=new",
+      "dealer_url": "https://www.bramptonchrysler.ca/vehicles/2026/ram/promaster-cargo-van/st.-catharines/on/70071579/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T22:23:34",
+      "snapshot": "2026-10-01T22:37:27",
+      "go_url": "https://carwhisper.ca/go/go-auto-brampton-chrysler-3c6mrwez2te202486",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Auto Brampton Chrysler"
+    },
+    {
+      "pub_id": "go-auto-brampton-chrysler-3c6mrwfzxte202539",
+      "year": 2026,
+      "make": "RAM",
+      "model": "ProMaster Cargo",
+      "body_type": "van",
+      "propulsion": "electric",
+      "propulsion_source": "stated",
+      "condition": "new",
+      "price_cad": 86150.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "go-auto-brampton-chrysler",
+      "vin": "3C6MRWFZXTE202539",
+      "stock": "N31TA46",
+      "listing_url": "https://www.bramptonchrysler.ca/vehicles/2026/ram/promaster-cargo-van/st.-catharines/on/70071580/?sale_class=new",
+      "dealer_url": "https://www.bramptonchrysler.ca/vehicles/2026/ram/promaster-cargo-van/st.-catharines/on/70071580/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T22:23:44",
+      "snapshot": "2026-10-01T22:37:27",
+      "go_url": "https://carwhisper.ca/go/go-auto-brampton-chrysler-3c6mrwfzxte202539",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Auto Brampton Chrysler"
     }
   ]
 }

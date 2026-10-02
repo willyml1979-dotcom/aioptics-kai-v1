@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 28,
+  "count": 29,
   "vehicles": [
     {
       "pub_id": "victoria-hyundai-2hgfb2f47fh021315",
@@ -481,6 +481,31 @@
       "city": null,
       "province": "BC",
       "dealer_name": "Go Richmond Subaru"
+    },
+    {
+      "pub_id": "country-hills-nissan-2hgfc4b83lh400809",
+      "year": 2020,
+      "make": "Honda",
+      "model": "Civic",
+      "body_type": "coupe",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 109210,
+      "price_cad": 22129.0,
+      "price_note": null,
+      "color": "Blue",
+      "dealer_id": "country-hills-nissan",
+      "vin": "2HGFC4B83LH400809",
+      "stock": "CNP0809",
+      "listing_url": "https://www.chnissan.com/vehicles/2020/honda/civic-coupe/calgary/ab/71104825/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2020/honda/civic-coupe/calgary/ab/71104825/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:18:09",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-2hgfc4b83lh400809",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     },
     {
       "pub_id": "go-auto-brampton-chrysler-2hgfe2f23sh101873",

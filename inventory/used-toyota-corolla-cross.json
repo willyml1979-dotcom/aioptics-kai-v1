@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 9,
+  "count": 10,
   "vehicles": [
     {
       "pub_id": "destination-toyota-burnaby-7mucaaag9pv044152",
@@ -227,6 +227,31 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Kamloops Honda Cars"
+    },
+    {
+      "pub_id": "country-hills-nissan-7mucaabg2tv173018",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Corolla Cross",
+      "body_type": "suv",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 24535,
+      "price_cad": 38887.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "country-hills-nissan",
+      "vin": "7MUCAABG2TV173018",
+      "stock": "SAE1730",
+      "listing_url": "https://www.chnissan.com/vehicles/2026/toyota/corolla-cross/calgary/ab/71396504/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2026/toyota/corolla-cross/calgary/ab/71396504/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T22:26:16",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-7mucaabg2tv173018",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

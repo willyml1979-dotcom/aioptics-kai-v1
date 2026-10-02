@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 15,
+  "count": 16,
   "vehicles": [
     {
       "pub_id": "maple-ridge-hyundai-1fmcu0ez4nua51036",
@@ -71,7 +71,7 @@
       "listing_url": "https://www.kiawest.com/vehicles/2021/ford/escape-hybrid/coquitlam/bc/70344253/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2021/ford/escape-hybrid/coquitlam/bc/70344253/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T02:33:51",
-      "snapshot": "2026-10-01T16:03:08",
+      "snapshot": "2026-10-01T22:09:25",
       "go_url": "https://carwhisper.ca/go/go-kia-west-1fmcu9czxmua73032",
       "region": "Lower Mainland",
       "city": "Coquitlam",
@@ -368,6 +368,30 @@
       "city": "Courtenay",
       "province": "BC",
       "dealer_name": "Comox Valley Toyota"
+    },
+    {
+      "pub_id": "country-hills-nissan-1fmcu9dz9mua13466",
+      "year": 2021,
+      "make": "Ford",
+      "model": "Escape Hybrid",
+      "propulsion": "hybrid",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 177195,
+      "price_cad": 18977.0,
+      "price_note": null,
+      "color": "Silver",
+      "dealer_id": "country-hills-nissan",
+      "vin": "1FMCU9DZ9MUA13466",
+      "stock": "SFE2097",
+      "listing_url": "https://www.chnissan.com/vehicles/2021/ford/escape-hybrid/strathmore/ab/71250484/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2021/ford/escape-hybrid/strathmore/ab/71250484/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:20:41",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-1fmcu9dz9mua13466",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

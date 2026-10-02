@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "carter-gm-northshore-1gnskgkt2rr332086",
@@ -130,6 +130,53 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Island Chevrolet Buick GMC"
+    },
+    {
+      "pub_id": "country-hills-nissan-1gnskckt3mr389706",
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "propulsion": "diesel",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 193699,
+      "price_cad": 45798.0,
+      "price_note": null,
+      "dealer_id": "country-hills-nissan",
+      "vin": "1GNSKCKT3MR389706",
+      "stock": "OG45028",
+      "listing_url": "https://www.chnissan.com/vehicles/2021/chevrolet/suburban/okotoks/ab/ad13013885/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2021/chevrolet/suburban/okotoks/ab/ad13013885/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:20:23",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-1gnskckt3mr389706",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
+    },
+    {
+      "pub_id": "country-hills-nissan-1gnskckt5pr540873",
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "propulsion": "diesel",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 91556,
+      "price_cad": 69598.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "country-hills-nissan",
+      "vin": "1GNSKCKT5PR540873",
+      "stock": "OG31095",
+      "listing_url": "https://www.chnissan.com/vehicles/2023/chevrolet/suburban/okotoks/ab/ad13013884/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2023/chevrolet/suburban/okotoks/ab/ad13013884/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:30:02",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-1gnskckt5pr540873",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

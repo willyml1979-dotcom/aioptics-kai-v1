@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 33,
+  "count": 35,
   "vehicles": [
     {
       "pub_id": "nelson-toyota-4t1c31ak9lu533693",
@@ -786,6 +786,31 @@
       "dealer_name": "Laird Wheaton GM"
     },
     {
+      "pub_id": "country-hills-nissan-4t1b11hk1ku214522",
+      "year": 2019,
+      "make": "Toyota",
+      "model": "Camry",
+      "body_type": "sedan",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 132416,
+      "price_cad": 13500.0,
+      "price_note": null,
+      "color": "Grey",
+      "dealer_id": "country-hills-nissan",
+      "vin": "4T1B11HK1KU214522",
+      "stock": "CNP4522",
+      "listing_url": "https://www.chnissan.com/vehicles/2019/toyota/camry-sedan/calgary/ab/71119570/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2019/toyota/camry-sedan/calgary/ab/71119570/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:15:03",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-4t1b11hk1ku214522",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
+    },
+    {
       "pub_id": "go-richmond-subaru-4t1bd1fk5fu157645",
       "year": 2015,
       "make": "Toyota",
@@ -809,6 +834,31 @@
       "city": null,
       "province": "BC",
       "dealer_name": "Go Richmond Subaru"
+    },
+    {
+      "pub_id": "country-hills-nissan-4t1g11ak7nu690617",
+      "year": 2022,
+      "make": "Toyota",
+      "model": "Camry",
+      "body_type": "sedan",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 57145,
+      "price_cad": 22529.0,
+      "price_note": null,
+      "color": "Grey",
+      "dealer_id": "country-hills-nissan",
+      "vin": "4T1G11AK7NU690617",
+      "stock": "CN38217",
+      "listing_url": "https://www.chnissan.com/vehicles/2022/toyota/camry-sedan/calgary/ab/71107341/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2022/toyota/camry-sedan/calgary/ab/71107341/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:28:25",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-4t1g11ak7nu690617",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

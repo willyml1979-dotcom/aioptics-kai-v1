@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 12,
+  "count": 14,
   "vehicles": [
     {
       "pub_id": "destination-toyota-burnaby-5tdez3dc0ls228292",
@@ -300,6 +300,55 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Kamloops Honda Cars"
+    },
+    {
+      "pub_id": "country-hills-nissan-5tdyk3dc2ds285824",
+      "year": 2013,
+      "make": "Toyota",
+      "model": "Sienna",
+      "body_type": "van",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 236655,
+      "price_cad": 15995.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "country-hills-nissan",
+      "vin": "5TDYK3DC2DS285824",
+      "stock": "AD22771",
+      "listing_url": "https://www.chnissan.com/vehicles/2013/toyota/sienna/ponoka/ab/71347378/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2013/toyota/sienna/ponoka/ab/71347378/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:03:51",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-5tdyk3dc2ds285824",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
+    },
+    {
+      "pub_id": "country-hills-nissan-5tdkz3dc2ks019119",
+      "year": 2019,
+      "make": "Toyota",
+      "model": "Sienna",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 89405,
+      "price_cad": 34998.0,
+      "price_note": null,
+      "color": "Grey",
+      "dealer_id": "country-hills-nissan",
+      "vin": "5TDKZ3DC2KS019119",
+      "stock": "CN39312",
+      "listing_url": "https://www.chnissan.com/vehicles/2019/toyota/sienna/calgary/ab/71358269/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2019/toyota/sienna/calgary/ab/71358269/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:15:12",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-5tdkz3dc2ks019119",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "maple-ridge-chrysler-jeep-dodge-maj3p1te6jc240262",
@@ -122,6 +122,53 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Jim Pattison Toyota Victoria"
+    },
+    {
+      "pub_id": "country-hills-nissan-maj3s2ge6lc385979",
+      "year": 2020,
+      "make": "Ford",
+      "model": "EcoSport",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 109411,
+      "price_cad": 15887.0,
+      "price_note": null,
+      "dealer_id": "country-hills-nissan",
+      "vin": "MAJ3S2GE6LC385979",
+      "stock": "SGP5041",
+      "listing_url": "https://www.chnissan.com/vehicles/2020/ford/ecosport/calgary/ab/71284219/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2020/ford/ecosport/calgary/ab/71284219/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:16:36",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-maj3s2ge6lc385979",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
+    },
+    {
+      "pub_id": "country-hills-nissan-maj6s3gl3nc475188",
+      "year": 2022,
+      "make": "Ford",
+      "model": "EcoSport",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 128082,
+      "price_cad": 18990.0,
+      "price_note": null,
+      "color": "Silver",
+      "dealer_id": "country-hills-nissan",
+      "vin": "MAJ6S3GL3NC475188",
+      "stock": "UFB5076",
+      "listing_url": "https://www.chnissan.com/vehicles/2022/ford/ecosport/calgary/ab/71345846/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2022/ford/ecosport/calgary/ab/71345846/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:24:17",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-maj6s3gl3nc475188",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

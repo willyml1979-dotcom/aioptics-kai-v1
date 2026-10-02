@@ -1,34 +1,9 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 2,
   "vehicles": [
-    {
-      "pub_id": "go-kia-west-4jgbb86e78a404600",
-      "year": 2008,
-      "make": "Mercedes-Benz",
-      "model": "M-Class",
-      "propulsion": "gas",
-      "propulsion_source": "stated",
-      "condition": "used",
-      "odometer_km": 64544,
-      "price_cad": 10998.0,
-      "price_note": null,
-      "color": "Silver",
-      "dealer_id": "go-kia-west",
-      "vin": "4JGBB86E78A404600",
-      "stock": "ST73718",
-      "listing_url": "https://www.kiawest.com/vehicles/2008/mercedes-benz/m-class/coquitlam/bc/71343741/?sale_class=used",
-      "dealer_url": "https://www.kiawest.com/vehicles/2008/mercedes-benz/m-class/coquitlam/bc/71343741/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T08:54:40",
-      "snapshot": "2026-10-01T16:03:08",
-      "go_url": "https://carwhisper.ca/go/go-kia-west-4jgbb86e78a404600",
-      "region": "Lower Mainland",
-      "city": "Coquitlam",
-      "province": "BC",
-      "dealer_name": "Go Kia West"
-    },
     {
       "pub_id": "kia-south-vancouver-4jgda2eb3fa534631",
       "year": 2015,
@@ -54,6 +29,30 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Kia South Vancouver"
+    },
+    {
+      "pub_id": "country-hills-nissan-4jgbb86e86a014957",
+      "year": 2006,
+      "make": "Mercedes-Benz",
+      "model": "M-Class",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 143818,
+      "price_cad": 6700.0,
+      "price_note": null,
+      "color": "Grey",
+      "dealer_id": "country-hills-nissan",
+      "vin": "4JGBB86E86A014957",
+      "stock": "CNN5891",
+      "listing_url": "https://www.chnissan.com/vehicles/2006/mercedes-benz/m-class/calgary/ab/71366380/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2006/mercedes-benz/m-class/calgary/ab/71366380/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:01:03",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-4jgbb86e86a014957",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

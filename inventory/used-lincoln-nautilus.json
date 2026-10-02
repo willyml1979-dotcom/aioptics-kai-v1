@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 7,
+  "count": 9,
   "vehicles": [
     {
       "pub_id": "prince-george-ford-2lmpj8kp8nbl15042",
@@ -171,6 +171,54 @@
       "city": "Nanaimo",
       "province": "BC",
       "dealer_name": "Sunshine Mountain Ford Lincoln Ltd."
+    },
+    {
+      "pub_id": "country-hills-nissan-5lmpj8ka3rj808388",
+      "year": 2024,
+      "make": "Lincoln",
+      "model": "Nautilus",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 60894,
+      "price_cad": 50990.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "country-hills-nissan",
+      "vin": "5LMPJ8KA3RJ808388",
+      "stock": "UFB8631",
+      "listing_url": "https://www.chnissan.com/vehicles/2024/lincoln/nautilus/calgary/ab/71429779/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2024/lincoln/nautilus/calgary/ab/71429779/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:49:29",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-5lmpj8ka3rj808388",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
+    },
+    {
+      "pub_id": "country-hills-nissan-5lmpj8ka6rj824374",
+      "year": 2024,
+      "make": "Lincoln",
+      "model": "Nautilus",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 26152,
+      "price_cad": 56990.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "country-hills-nissan",
+      "vin": "5LMPJ8KA6RJ824374",
+      "stock": "UF03200",
+      "listing_url": "https://www.chnissan.com/vehicles/2024/lincoln/nautilus/calgary/ab/71311679/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2024/lincoln/nautilus/calgary/ab/71311679/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:49:18",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-5lmpj8ka6rj824374",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

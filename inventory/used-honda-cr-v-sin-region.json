@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "go-richmond-subaru-5j6rm4h95fl805001",
@@ -125,6 +125,29 @@
       "city": null,
       "province": "BC",
       "dealer_name": "Go Richmond Kia"
+    },
+    {
+      "pub_id": "country-hills-nissan-2hkrw2h87nh216465",
+      "year": 2022,
+      "make": "Honda",
+      "model": "CR-V",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 157244,
+      "price_cad": 29900.0,
+      "price_note": null,
+      "dealer_id": "country-hills-nissan",
+      "vin": "2HKRW2H87NH216465",
+      "stock": "CHP2164",
+      "listing_url": "https://www.chnissan.com/vehicles/2022/honda/cr-v/calgary/ab/71287168/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2022/honda/cr-v/calgary/ab/71287168/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:26:15",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-2hkrw2h87nh216465",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

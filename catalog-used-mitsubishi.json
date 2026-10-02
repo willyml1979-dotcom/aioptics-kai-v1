@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
   "condition": "used",
   "make": "mitsubishi",
   "files": [
@@ -78,12 +78,12 @@
       "make": "mitsubishi",
       "model": "RVR",
       "shard": "sin-region",
-      "count": 1,
+      "count": 3,
       "file": "inventory/used-mitsubishi-rvr-sin-region.json",
       "models": [
         {
           "model": "RVR",
-          "count": 1
+          "count": 3
         }
       ]
     },
@@ -175,12 +175,12 @@
       "make": "mitsubishi",
       "model": "Outlander",
       "shard": "sin-region",
-      "count": 6,
+      "count": 7,
       "file": "inventory/used-mitsubishi-outlander-sin-region.json",
       "models": [
         {
           "model": "Outlander",
-          "count": 6
+          "count": 7
         }
       ]
     },
@@ -188,12 +188,12 @@
       "condition": "used",
       "make": "mitsubishi",
       "model": "Eclipse Cross",
-      "count": 29,
+      "count": 30,
       "file": "inventory/used-mitsubishi-eclipse-cross.json",
       "models": [
         {
           "model": "Eclipse Cross",
-          "count": 29
+          "count": 30
         }
       ]
     },
@@ -323,6 +323,19 @@
       "models": [
         {
           "model": "RVR GT",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "Endeavor",
+      "count": 1,
+      "file": "inventory/used-mitsubishi-endeavor.json",
+      "models": [
+        {
+          "model": "Endeavor",
           "count": 1
         }
       ]

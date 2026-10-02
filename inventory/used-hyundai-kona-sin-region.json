@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 7,
+  "count": 9,
   "vehicles": [
     {
       "pub_id": "go-richmond-subaru-km8k2caa9mu650449",
@@ -51,6 +51,30 @@
       "city": null,
       "province": "BC",
       "dealer_name": "Go Richmond Kia"
+    },
+    {
+      "pub_id": "country-hills-nissan-km8hccab6su277108",
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Kona",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 41729,
+      "price_cad": 28995.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "country-hills-nissan",
+      "vin": "KM8HCCAB6SU277108",
+      "stock": "ADE7108",
+      "listing_url": "https://www.chnissan.com/vehicles/2025/hyundai/kona/airdrie/ab/71029042/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2025/hyundai/kona/airdrie/ab/71029042/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T22:08:03",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-km8hccab6su277108",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     },
     {
       "pub_id": "sherwood-park-hyundai-km8hccab6tu387819",
@@ -171,6 +195,30 @@
       "city": null,
       "province": "BC",
       "dealer_name": "Sherwood Park Hyundai"
+    },
+    {
+      "pub_id": "country-hills-nissan-km8hccab3tu396476",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Kona",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 36005,
+      "price_cad": 31888.0,
+      "price_note": null,
+      "color": "Grey",
+      "dealer_id": "country-hills-nissan",
+      "vin": "KM8HCCAB3TU396476",
+      "stock": "SAE3964",
+      "listing_url": "https://www.chnissan.com/vehicles/2026/hyundai/kona/calgary/ab/71284225/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2026/hyundai/kona/calgary/ab/71284225/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T22:22:11",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-km8hccab3tu396476",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

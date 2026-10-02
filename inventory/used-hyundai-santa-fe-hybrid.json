@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 17,
+  "count": 18,
   "vehicles": [
     {
       "pub_id": "go-kia-west-km8s5da18nu042372",
@@ -22,7 +22,7 @@
       "listing_url": "https://www.kiawest.com/vehicles/2022/hyundai/santa-fe-hybrid/coquitlam/bc/71297673/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2022/hyundai/santa-fe-hybrid/coquitlam/bc/71297673/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T21:39:31",
-      "snapshot": "2026-10-01T16:03:08",
+      "snapshot": "2026-10-01T22:09:25",
       "go_url": "https://carwhisper.ca/go/go-kia-west-km8s5da18nu042372",
       "region": "Lower Mainland",
       "city": "Coquitlam",
@@ -47,7 +47,7 @@
       "listing_url": "https://www.kiawest.com/vehicles/2023/hyundai/santa-fe-hybrid/coquitlam/bc/71231725/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2023/hyundai/santa-fe-hybrid/coquitlam/bc/71231725/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T21:40:28",
-      "snapshot": "2026-10-01T16:03:08",
+      "snapshot": "2026-10-01T22:09:25",
       "go_url": "https://carwhisper.ca/go/go-kia-west-km8s5da15pu089930",
       "region": "Lower Mainland",
       "city": "Coquitlam",
@@ -72,7 +72,7 @@
       "listing_url": "https://www.kiawest.com/vehicles/2025/hyundai/santa-fe-hybrid/coquitlam/bc/71382474/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2025/hyundai/santa-fe-hybrid/coquitlam/bc/71382474/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T02:31:35",
-      "snapshot": "2026-10-01T16:03:08",
+      "snapshot": "2026-10-01T22:09:25",
       "go_url": "https://carwhisper.ca/go/go-kia-west-km8p3dg13su085273",
       "region": "Lower Mainland",
       "city": "Coquitlam",
@@ -122,7 +122,7 @@
       "listing_url": "https://www.kiawest.com/vehicles/2025/hyundai/santa-fe-hybrid/coquitlam/bc/70762321/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2025/hyundai/santa-fe-hybrid/coquitlam/bc/70762321/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T18:19:07",
-      "snapshot": "2026-10-01T16:03:08",
+      "snapshot": "2026-10-01T22:09:25",
       "go_url": "https://carwhisper.ca/go/go-kia-west-km8p2dg16su103705",
       "region": "Lower Mainland",
       "city": "Coquitlam",
@@ -432,6 +432,30 @@
       "city": null,
       "province": "BC",
       "dealer_name": "Go Richmond Kia"
+    },
+    {
+      "pub_id": "country-hills-nissan-km8p2dg14tu159708",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Santa Fe Hybrid",
+      "propulsion": "hybrid",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 16134,
+      "price_cad": 44227.0,
+      "price_note": null,
+      "color": "Grey",
+      "dealer_id": "country-hills-nissan",
+      "vin": "KM8P2DG14TU159708",
+      "stock": "CHP1597",
+      "listing_url": "https://www.chnissan.com/vehicles/2026/hyundai/santa-fe-hybrid/calgary/ab/71027665/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2026/hyundai/santa-fe-hybrid/calgary/ab/71027665/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T22:22:28",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-km8p2dg14tu159708",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

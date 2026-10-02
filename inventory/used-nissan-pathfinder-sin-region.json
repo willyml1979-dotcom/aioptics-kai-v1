@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "go-langley-subaru-5n1ar2mm8fc631021",
@@ -28,6 +28,30 @@
       "city": null,
       "province": "BC",
       "dealer_name": "Go Langley Subaru"
+    },
+    {
+      "pub_id": "country-hills-nissan-5n1dr2mm3hc663018",
+      "year": 2017,
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 158631,
+      "price_cad": 13998.0,
+      "price_note": null,
+      "color": "Blue",
+      "dealer_id": "country-hills-nissan",
+      "vin": "5N1DR2MM3HC663018",
+      "stock": "CN26517",
+      "listing_url": "https://www.chnissan.com/vehicles/2017/nissan/pathfinder/calgary/ab/71267045/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2017/nissan/pathfinder/calgary/ab/71267045/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:09:28",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-5n1dr2mm3hc663018",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     },
     {
       "pub_id": "sherwood-park-hyundai-5n1ar2mm1fc666578",
@@ -101,6 +125,30 @@
       "city": null,
       "province": "BC",
       "dealer_name": "Go Richmond Subaru"
+    },
+    {
+      "pub_id": "country-hills-nissan-5n1dr3dj9sc235988",
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 20668,
+      "price_cad": 54129.0,
+      "price_note": null,
+      "color": "Blue",
+      "dealer_id": "country-hills-nissan",
+      "vin": "5N1DR3DJ9SC235988",
+      "stock": "CNP5988",
+      "listing_url": "https://www.chnissan.com/vehicles/2025/nissan/pathfinder/calgary/ab/71127587/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2025/nissan/pathfinder/calgary/ab/71127587/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T22:13:16",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-5n1dr3dj9sc235988",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

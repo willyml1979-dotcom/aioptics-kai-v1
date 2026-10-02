@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 25,
+  "count": 26,
   "vehicles": [
     {
       "pub_id": "sullivan-motor-products-nelson-ltd-1c6hjtag7ll133782",
@@ -580,6 +580,30 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Victoria Hyundai"
+    },
+    {
+      "pub_id": "country-hills-nissan-1c6pjtag6tl152223",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Gladiator",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 5269,
+      "price_cad": 53995.0,
+      "price_note": null,
+      "color": "Grey",
+      "dealer_id": "country-hills-nissan",
+      "vin": "1C6PJTAG6TL152223",
+      "stock": "SD15222",
+      "listing_url": "https://www.chnissan.com/vehicles/2026/jeep/gladiator/ponoka/ab/69413751/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2026/jeep/gladiator/ponoka/ab/69413751/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T22:22:59",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-1c6pjtag6tl152223",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

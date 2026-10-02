@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "sherwood-park-hyundai-3kpfl4a76he122515",
@@ -128,6 +128,31 @@
       "city": null,
       "province": "BC",
       "dealer_name": "Go Richmond Kia"
+    },
+    {
+      "pub_id": "country-hills-nissan-3kpf34ad0pe679120",
+      "year": 2023,
+      "make": "Kia",
+      "model": "Forte",
+      "body_type": "sedan",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 83703,
+      "price_cad": 20888.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "country-hills-nissan",
+      "vin": "3KPF34AD0PE679120",
+      "stock": "SAE6791",
+      "listing_url": "https://www.chnissan.com/vehicles/2023/kia/forte-sedan/calgary/ab/71345685/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2023/kia/forte-sedan/calgary/ab/71345685/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:34:37",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-3kpf34ad0pe679120",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     },
     {
       "pub_id": "go-richmond-kia-3kpf34ad2ne522976",

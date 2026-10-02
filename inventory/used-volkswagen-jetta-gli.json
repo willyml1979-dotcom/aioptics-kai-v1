@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
-  "snapshot": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
+  "snapshot": "2026-10-02T10:56:53+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "turner-volkswagen-3vw2t7bu1sm084545",
@@ -78,6 +78,30 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Volvo Cars Victoria"
+    },
+    {
+      "pub_id": "country-hills-nissan-3vw2t7bu5pm016580",
+      "year": 2023,
+      "make": "Volkswagen",
+      "model": "Jetta GLI",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 74914,
+      "price_cad": 24759.0,
+      "price_note": null,
+      "color": "Red",
+      "dealer_id": "country-hills-nissan",
+      "vin": "3VW2T7BU5PM016580",
+      "stock": "CNP6580",
+      "listing_url": "https://www.chnissan.com/vehicles/2023/volkswagen/jetta-gli/calgary/ab/70882633/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2023/volkswagen/jetta-gli/calgary/ab/70882633/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T21:37:03",
+      "snapshot": "2026-10-01T22:26:55",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-3vw2t7bu5pm016580",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Country Hills Nissan"
     },
     {
       "pub_id": "capilano-volkswagen-3vw2m7bu7tm018449",

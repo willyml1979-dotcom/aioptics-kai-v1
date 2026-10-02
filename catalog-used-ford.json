@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T04:56:53+00:00",
+  "generated_at": "2026-10-02T10:56:53+00:00",
   "condition": "used",
   "make": "ford",
   "files": [
@@ -59,7 +59,7 @@
       "condition": "used",
       "make": "ford",
       "model": "Ranger",
-      "count": 16,
+      "count": 17,
       "file": "inventory/used-ford-ranger.json",
       "models": [
         {
@@ -68,7 +68,7 @@
         },
         {
           "model": "Ranger",
-          "count": 15
+          "count": 16
         }
       ]
     },
@@ -89,7 +89,7 @@
       "condition": "used",
       "make": "ford",
       "model": "Explorer",
-      "count": 33,
+      "count": 37,
       "file": "inventory/used-ford-explorer.json",
       "models": [
         {
@@ -98,7 +98,7 @@
         },
         {
           "model": "Explorer",
-          "count": 32
+          "count": 36
         }
       ]
     },
@@ -238,12 +238,12 @@
       "make": "ford",
       "model": "ESCAPE",
       "shard": "Lower Mainland",
-      "count": 20,
+      "count": 19,
       "file": "inventory/used-ford-escape-lower-mainland.json",
       "models": [
         {
           "model": "Escape",
-          "count": 20
+          "count": 19
         }
       ]
     },
@@ -310,12 +310,13 @@
     {
       "condition": "used",
       "make": "ford",
-      "model": "Focus",
+      "model": "ESCAPE",
+      "shard": "sin-region",
       "count": 8,
-      "file": "inventory/used-ford-focus.json",
+      "file": "inventory/used-ford-escape-sin-region.json",
       "models": [
         {
-          "model": "Focus",
+          "model": "Escape",
           "count": 8
         }
       ]
@@ -323,13 +324,26 @@
     {
       "condition": "used",
       "make": "ford",
+      "model": "Focus",
+      "count": 9,
+      "file": "inventory/used-ford-focus.json",
+      "models": [
+        {
+          "model": "Focus",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
       "model": "EcoSport",
-      "count": 5,
+      "count": 7,
       "file": "inventory/used-ford-ecosport.json",
       "models": [
         {
           "model": "EcoSport",
-          "count": 5
+          "count": 7
         }
       ]
     },
@@ -425,7 +439,7 @@
       "make": "ford",
       "model": "Edge",
       "shard": "sin-region",
-      "count": 3,
+      "count": 6,
       "file": "inventory/used-ford-edge-sin-region.json",
       "models": [
         {
@@ -434,7 +448,7 @@
         },
         {
           "model": "Edge",
-          "count": 2
+          "count": 5
         }
       ]
     },
@@ -455,12 +469,12 @@
       "condition": "used",
       "make": "ford",
       "model": "Escape Hybrid",
-      "count": 15,
+      "count": 16,
       "file": "inventory/used-ford-escape-hybrid.json",
       "models": [
         {
           "model": "Escape Hybrid",
-          "count": 15
+          "count": 16
         }
       ]
     },
@@ -485,13 +499,13 @@
       "condition": "used",
       "make": "ford",
       "model": "F-150",
-      "shard": "Lower Mainland",
-      "count": 19,
-      "file": "inventory/used-ford-f-150-lower-mainland.json",
+      "shard": "part1",
+      "count": 34,
+      "file": "inventory/used-ford-f-150-part1.json",
       "models": [
         {
           "model": "F-150",
-          "count": 19
+          "count": 34
         }
       ]
     },
@@ -499,13 +513,17 @@
       "condition": "used",
       "make": "ford",
       "model": "F-150",
-      "shard": "Norte/Cariboo",
-      "count": 8,
-      "file": "inventory/used-ford-f-150-norte-cariboo.json",
+      "shard": "part2",
+      "count": 34,
+      "file": "inventory/used-ford-f-150-part2.json",
       "models": [
         {
+          "model": "F 150",
+          "count": 17
+        },
+        {
           "model": "F-150",
-          "count": 8
+          "count": 17
         }
       ]
     },
@@ -513,27 +531,17 @@
       "condition": "used",
       "make": "ford",
       "model": "F-150",
-      "shard": "Okanagan",
-      "count": 13,
-      "file": "inventory/used-ford-f-150-okanagan.json",
+      "shard": "part3",
+      "count": 32,
+      "file": "inventory/used-ford-f-150-part3.json",
       "models": [
         {
-          "model": "F-150",
-          "count": 13
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150",
-      "shard": "Vancouver Island",
-      "count": 8,
-      "file": "inventory/used-ford-f-150-vancouver-island.json",
-      "models": [
+          "model": "F 150",
+          "count": 30
+        },
         {
           "model": "F-150",
-          "count": 8
+          "count": 2
         }
       ]
     },
@@ -554,7 +562,7 @@
       "condition": "used",
       "make": "ford",
       "model": "Bronco Sport",
-      "count": 23,
+      "count": 28,
       "file": "inventory/used-ford-bronco-sport.json",
       "models": [
         {
@@ -563,7 +571,7 @@
         },
         {
           "model": "Bronco Sport",
-          "count": 21
+          "count": 26
         }
       ]
     },
@@ -639,12 +647,12 @@
       "condition": "used",
       "make": "ford",
       "model": "Transit Cargo",
-      "count": 6,
+      "count": 7,
       "file": "inventory/used-ford-transit-cargo.json",
       "models": [
         {
           "model": "Transit Cargo",
-          "count": 6
+          "count": 7
         }
       ]
     },
@@ -699,12 +707,12 @@
       "condition": "used",
       "make": "ford",
       "model": "Transit",
-      "count": 5,
+      "count": 6,
       "file": "inventory/used-ford-transit.json",
       "models": [
         {
           "model": "Transit",
-          "count": 5
+          "count": 6
         }
       ]
     },
@@ -729,12 +737,12 @@
       "condition": "used",
       "make": "ford",
       "model": "Mustang Fastback",
-      "count": 6,
+      "count": 8,
       "file": "inventory/used-ford-mustang-fastback.json",
       "models": [
         {
           "model": "Mustang Fastback",
-          "count": 6
+          "count": 8
         }
       ]
     },
@@ -768,12 +776,12 @@
       "condition": "used",
       "make": "ford",
       "model": "Expedition",
-      "count": 9,
+      "count": 11,
       "file": "inventory/used-ford-expedition.json",
       "models": [
         {
           "model": "Expedition",
-          "count": 9
+          "count": 11
         }
       ]
     },
@@ -781,9 +789,13 @@
       "condition": "used",
       "make": "ford",
       "model": "F-150 Lightning",
-      "count": 4,
+      "count": 5,
       "file": "inventory/used-ford-f-150-lightning.json",
       "models": [
+        {
+          "model": "F 150 Lightning",
+          "count": 1
+        },
         {
           "model": "F-150 Lightning",
           "count": 4
@@ -820,12 +832,12 @@
       "condition": "used",
       "make": "ford",
       "model": "Expedition Max",
-      "count": 3,
+      "count": 5,
       "file": "inventory/used-ford-expedition-max.json",
       "models": [
         {
           "model": "Expedition Max",
-          "count": 3
+          "count": 5
         }
       ]
     },
@@ -833,12 +845,12 @@
       "condition": "used",
       "make": "ford",
       "model": "F-350 Super Duty",
-      "count": 11,
+      "count": 17,
       "file": "inventory/used-ford-f-350-super-duty.json",
       "models": [
         {
           "model": "F-350 Super Duty",
-          "count": 11
+          "count": 17
         }
       ]
     },
@@ -1540,6 +1552,19 @@
       "models": [
         {
           "model": "F-150 Platinum 701A, 3.5L V6 ECO, 5.5' BOX, MOON ROOF, MAX TOW, FX4, HTD/COOLED BUCKET SEATS, TONNEAUin Kimberley",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "E-Series Cutaway",
+      "count": 1,
+      "file": "inventory/used-ford-e-series-cutaway.json",
+      "models": [
+        {
+          "model": "E-Series Cutaway",
           "count": 1
         }
       ]
