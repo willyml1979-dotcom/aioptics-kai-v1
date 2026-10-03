@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T00:36:47+00:00",
-  "snapshot": "2026-10-03T00:36:47+00:00",
+  "generated_at": "2026-10-03T05:03:47+00:00",
+  "snapshot": "2026-10-03T05:03:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 21,
+  "count": 22,
   "vehicles": [
     {
       "pub_id": "castlegar-kia-75240-483793",
@@ -548,6 +548,31 @@
       "city": null,
       "province": "BC",
       "dealer_name": "Go Richmond Kia"
+    },
+    {
+      "pub_id": "go-downtown-kia-knad54d35t6014456",
+      "year": 2026,
+      "make": "Kia",
+      "model": "EV4",
+      "propulsion": "electric",
+      "propulsion_source": "stated",
+      "condition": "new",
+      "odometer_km": 13,
+      "price_cad": 54495.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/d81ff096-b57b-4631-883b-7405383493ef_d5e11512-d3b3-4974-9969-3ac75e912de6.jpg",
+      "dealer_id": "go-downtown-kia",
+      "vin": "KNAD54D35T6014456",
+      "stock": "E46011",
+      "listing_url": "https://www.godowntownkia.ca/vehicles/2026/kia/ev4/vancouver/bc/69262750/?sale_class=new",
+      "dealer_url": "https://www.godowntownkia.ca/vehicles/2026/kia/ev4/vancouver/bc/69262750/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T17:54:36",
+      "snapshot": "2026-10-02T18:39:15",
+      "go_url": "https://carwhisper.ca/go/go-downtown-kia-knad54d35t6014456",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Downtown Kia"
     }
   ]
 }

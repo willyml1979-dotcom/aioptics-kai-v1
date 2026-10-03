@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T00:36:47+00:00",
-  "snapshot": "2026-10-03T00:36:47+00:00",
+  "generated_at": "2026-10-03T05:03:47+00:00",
+  "snapshot": "2026-10-03T05:03:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "country-hills-nissan-3gncjpsb2hl279555",
@@ -74,6 +74,31 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Norden Volkswagen"
+    },
+    {
+      "pub_id": "go-downtown-kia-kl77lhe24sc065379",
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 45400,
+      "price_cad": 22998.0,
+      "price_note": null,
+      "color": "Silver",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/0bd108e7-e915-4eeb-abc8-bfdedb0bba25_d3af0f7c-a870-4768-9611-7e08986975d5.jpg",
+      "dealer_id": "go-downtown-kia",
+      "vin": "KL77LHE24SC065379",
+      "stock": "E46027A",
+      "listing_url": "https://www.godowntownkia.ca/vehicles/2025/chevrolet/trax/vancouver/bc/71077110/?sale_class=used",
+      "dealer_url": "https://www.godowntownkia.ca/vehicles/2025/chevrolet/trax/vancouver/bc/71077110/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T17:49:29",
+      "snapshot": "2026-10-02T18:39:15",
+      "go_url": "https://carwhisper.ca/go/go-downtown-kia-kl77lhe24sc065379",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Downtown Kia"
     },
     {
       "pub_id": "applewood-chevrolet-buick-gmc-kl77lge21rc133514",

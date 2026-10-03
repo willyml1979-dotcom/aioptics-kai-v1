@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T00:36:47+00:00",
-  "snapshot": "2026-10-03T00:36:47+00:00",
+  "generated_at": "2026-10-03T05:03:47+00:00",
+  "snapshot": "2026-10-03T05:03:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 4,
   "vehicles": [
     {
       "pub_id": "park-shore-bmw-72707-479448",
@@ -67,6 +67,28 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "BMW Victoria/MINI Victoria (1791388 Ontario Limited)"
+    },
+    {
+      "pub_id": "bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-5ux73gp03t9438868",
+      "year": 2026,
+      "make": "BMW",
+      "model": "X3 Sports Activity Vehicle",
+      "condition": "new",
+      "price_cad": 64924.0,
+      "price_note": null,
+      "color": "{$COLOREX}",
+      "dealer_id": "bmw-nanaimo-mini-nanaimo-1791388-ontario-limited",
+      "vin": "5UX73GP03T9438868",
+      "stock": "72707-479448",
+      "listing_url": "https://www.bmwnanaimo.ca/new/2026-BMW-X3.html",
+      "dealer_url": "https://www.bmwnanaimo.ca/new/2026-BMW-X3.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:31:58",
+      "snapshot": "2026-09-26T20:32:34",
+      "go_url": "https://carwhisper.ca/go/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-5ux73gp03t9438868",
+      "region": "Vancouver Island",
+      "city": "Nanaimo",
+      "province": "BC",
+      "dealer_name": "BMW Nanaimo / MINI Nanaimo (1791388 Ontario Limited)"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T00:36:47+00:00",
-  "snapshot": "2026-10-03T00:36:47+00:00",
+  "generated_at": "2026-10-03T05:03:47+00:00",
+  "snapshot": "2026-10-03T05:03:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "applewood-kia-langley-kndc4dlc1n5067800",
@@ -162,6 +162,31 @@
       "city": "Coquitlam",
       "province": "BC",
       "dealer_name": "Go Kia West"
+    },
+    {
+      "pub_id": "go-downtown-kia-kndc4dlc9n5087860",
+      "year": 2022,
+      "make": "Kia",
+      "model": "EV6",
+      "propulsion": "electric",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 86882,
+      "price_cad": 36498.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/dc13be7f-a780-451d-9cdd-f028d823e479_66822bc8-fa54-4ac0-b3f4-251e3d1cde09.jpg",
+      "dealer_id": "go-downtown-kia",
+      "vin": "KNDC4DLC9N5087860",
+      "stock": "CLB0056",
+      "listing_url": "https://www.godowntownkia.ca/vehicles/2022/kia/ev6/vancouver/bc/71242268/?sale_class=used",
+      "dealer_url": "https://www.godowntownkia.ca/vehicles/2022/kia/ev6/vancouver/bc/71242268/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T17:45:13",
+      "snapshot": "2026-10-02T18:39:15",
+      "go_url": "https://carwhisper.ca/go/go-downtown-kia-kndc4dlc9n5087860",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Downtown Kia"
     }
   ]
 }

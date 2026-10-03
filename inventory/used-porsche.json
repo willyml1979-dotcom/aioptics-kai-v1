@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T00:36:47+00:00",
-  "snapshot": "2026-10-03T00:36:47+00:00",
+  "generated_at": "2026-10-03T05:03:47+00:00",
+  "snapshot": "2026-10-03T05:03:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 26,
+  "count": 27,
   "vehicles": [
     {
       "pub_id": "chilliwack-mitsubishi-wp1aa2a28gla09730",
@@ -653,11 +653,36 @@
       "listing_url": "https://www.sphyundai.com/vehicles/2019/porsche/cayenne/sherwood-park/ab/71421388/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2019/porsche/cayenne/sherwood-park/ab/71421388/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T18:10:43",
-      "snapshot": "2026-10-01T18:21:45",
+      "snapshot": "2026-10-02T18:32:10",
       "go_url": "https://carwhisper.ca/go/sherwood-park-hyundai-wp1aa2ay9kda08836",
       "city": null,
       "province": "AB",
       "dealer_name": "Sherwood Park Hyundai"
+    },
+    {
+      "pub_id": "go-downtown-kia-wp1ab2a54llb35570",
+      "year": 2020,
+      "make": "Porsche",
+      "model": "Macan",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 51338,
+      "price_cad": 40998.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/2d2d8019-e33b-4371-a38a-f7b0a20216f8_3a176ad3-d833-4646-afd0-cbd5bd0e7d95.jpg",
+      "dealer_id": "go-downtown-kia",
+      "vin": "WP1AB2A54LLB35570",
+      "stock": "CA6073A",
+      "listing_url": "https://www.godowntownkia.ca/vehicles/2020/porsche/macan/vancouver/bc/70336591/?sale_class=used",
+      "dealer_url": "https://www.godowntownkia.ca/vehicles/2020/porsche/macan/vancouver/bc/70336591/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T17:43:40",
+      "snapshot": "2026-10-02T18:39:15",
+      "go_url": "https://carwhisper.ca/go/go-downtown-kia-wp1ab2a54llb35570",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Downtown Kia"
     }
   ]
 }

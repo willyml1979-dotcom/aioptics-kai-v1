@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T00:36:47+00:00",
-  "snapshot": "2026-10-03T00:36:47+00:00",
+  "generated_at": "2026-10-03T05:03:47+00:00",
+  "snapshot": "2026-10-03T05:03:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 34,
+  "count": 35,
   "vehicles": [
     {
       "pub_id": "destination-burnaby-honda-happy-honda-5yj3e1eaxlf626022",
@@ -695,6 +695,31 @@
       "city": null,
       "province": "BC",
       "dealer_name": "Go Richmond Subaru"
+    },
+    {
+      "pub_id": "go-downtown-kia-lrw3e1fa4pc900278",
+      "year": 2023,
+      "make": "Tesla",
+      "model": "Model 3",
+      "propulsion": "electric",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 63700,
+      "price_cad": 32498.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/13bf009e-2ac0-440b-9756-3ed374846e2c_fd4060b4-910b-48fa-a7da-c1e7d6c78636.jpg",
+      "dealer_id": "go-downtown-kia",
+      "vin": "LRW3E1FA4PC900278",
+      "stock": "WP0108",
+      "listing_url": "https://www.godowntownkia.ca/vehicles/2023/tesla/model-3/vancouver/bc/71238513/?sale_class=used",
+      "dealer_url": "https://www.godowntownkia.ca/vehicles/2023/tesla/model-3/vancouver/bc/71238513/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T17:46:39",
+      "snapshot": "2026-10-02T18:39:15",
+      "go_url": "https://carwhisper.ca/go/go-downtown-kia-lrw3e1fa4pc900278",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Downtown Kia"
     },
     {
       "pub_id": "go-richmond-subaru-5yj3e1eb9nf138126",

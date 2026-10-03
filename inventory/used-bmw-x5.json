@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T00:36:47+00:00",
-  "snapshot": "2026-10-03T00:36:47+00:00",
+  "generated_at": "2026-10-03T05:03:47+00:00",
+  "snapshot": "2026-10-03T05:03:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 25,
+  "count": 26,
   "vehicles": [
     {
       "pub_id": "brian-jessel-bmw-5uxzv4c56cl763147",
@@ -578,6 +578,31 @@
       "city": "Nanaimo",
       "province": "BC",
       "dealer_name": "Sunshine Mountain Ford Lincoln Ltd."
+    },
+    {
+      "pub_id": "go-downtown-kia-5uxkr0c5xg0p29198",
+      "year": 2016,
+      "make": "BMW",
+      "model": "X5",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 117600,
+      "price_cad": 19798.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/23dce376-04f9-484d-a2c3-9892e436ca00_f4d41c4c-bdb5-494d-be59-3d76df716719.jpg",
+      "dealer_id": "go-downtown-kia",
+      "vin": "5UXKR0C5XG0P29198",
+      "stock": "DCA6099",
+      "listing_url": "https://www.godowntownkia.ca/vehicles/2016/bmw/x5/vancouver/bc/71360527/?sale_class=used",
+      "dealer_url": "https://www.godowntownkia.ca/vehicles/2016/bmw/x5/vancouver/bc/71360527/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T17:41:44",
+      "snapshot": "2026-10-02T18:39:15",
+      "go_url": "https://carwhisper.ca/go/go-downtown-kia-5uxkr0c5xg0p29198",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Downtown Kia"
     },
     {
       "pub_id": "country-hills-nissan-5uxkr0c57j0x95327",

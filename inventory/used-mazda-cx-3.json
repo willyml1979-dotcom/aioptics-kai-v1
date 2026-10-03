@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T00:36:47+00:00",
-  "snapshot": "2026-10-03T00:36:47+00:00",
+  "generated_at": "2026-10-03T05:03:47+00:00",
+  "snapshot": "2026-10-03T05:03:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 7,
+  "count": 8,
   "vehicles": [
     {
       "pub_id": "richmond-hyundai-jm1dkdc70l1471382",
@@ -190,6 +190,32 @@
       "city": null,
       "province": "BC",
       "dealer_name": "Go Richmond Subaru"
+    },
+    {
+      "pub_id": "go-downtown-kia-jm1dkfd7xj0302760",
+      "year": 2018,
+      "make": "Mazda",
+      "model": "CX-3",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 67799,
+      "price_cad": 22995.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/3d52c1ee-ce66-470d-9737-bb6666c59afd_74c83a28-1b7c-47b3-842a-9e0f572792c7.jpg",
+      "dealer_id": "go-downtown-kia",
+      "vin": "JM1DKFD7XJ0302760",
+      "stock": "E37017A",
+      "listing_url": "https://www.godowntownkia.ca/vehicles/2018/mazda/cx-3/vancouver/bc/71461261/?sale_class=used",
+      "dealer_url": "https://www.godowntownkia.ca/vehicles/2018/mazda/cx-3/vancouver/bc/71461261/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T17:42:13",
+      "snapshot": "2026-10-02T18:39:15",
+      "go_url": "https://carwhisper.ca/go/go-downtown-kia-jm1dkfd7xj0302760",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Downtown Kia"
     }
   ]
 }

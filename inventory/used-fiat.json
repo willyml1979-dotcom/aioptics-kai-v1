@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T00:36:47+00:00",
-  "snapshot": "2026-10-03T00:36:47+00:00",
+  "generated_at": "2026-10-03T05:03:47+00:00",
+  "snapshot": "2026-10-03T05:03:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "sullivan-motor-products-nelson-ltd-zfaffaa4xsx240819",
@@ -82,6 +82,31 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Kamloops Honda Cars"
+    },
+    {
+      "pub_id": "go-auto-brampton-chrysler-zfaffaa45sx240520",
+      "year": 2025,
+      "make": "Fiat",
+      "model": "500e",
+      "propulsion": "electric",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 155,
+      "price_cad": 29888.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/3b803cb1-7a76-42b3-b1df-61c45edd8a50_6ff02e93-981d-40dc-85a7-cd569c132061.jpg",
+      "dealer_id": "go-auto-brampton-chrysler",
+      "vin": "ZFAFFAA45SX240520",
+      "stock": "P27SA18",
+      "listing_url": "https://www.bramptonchrysler.ca/vehicles/2025/fiat/500e/brampton/on/71468576/?sale_class=used",
+      "dealer_url": "https://www.bramptonchrysler.ca/vehicles/2025/fiat/500e/brampton/on/71468576/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T21:18:10",
+      "snapshot": "2026-10-02T21:20:53",
+      "go_url": "https://carwhisper.ca/go/go-auto-brampton-chrysler-zfaffaa45sx240520",
+      "city": null,
+      "province": "ON",
+      "dealer_name": "Go Auto Brampton Chrysler"
     },
     {
       "pub_id": "gardner-chevrolet-buick-gmc-ltd-zfbcfadh5ez024592",

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T00:36:47+00:00",
-  "snapshot": "2026-10-03T00:36:47+00:00",
+  "generated_at": "2026-10-03T05:03:47+00:00",
+  "snapshot": "2026-10-03T05:03:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 25,
+  "count": 26,
   "vehicles": [
     {
       "pub_id": "victoria-hyundai-2hkrm4h73gh106055",
@@ -637,6 +637,29 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Country Hills Nissan"
+    },
+    {
+      "pub_id": "go-downtown-kia-2hkrw2h95nh204159",
+      "year": 2022,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "used",
+      "odometer_km": 110199,
+      "price_cad": 30995.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/fb1a1eec-32c6-4d03-8c53-aacf20beadd4_4c523743-e38f-4eec-8c77-b88938b9c381.jpg",
+      "dealer_id": "go-downtown-kia",
+      "vin": "2HKRW2H95NH204159",
+      "stock": "E37007A",
+      "listing_url": "https://www.godowntownkia.ca/vehicles/2022/honda/cr-v/vancouver/bc/71449400/?sale_class=used",
+      "dealer_url": "https://www.godowntownkia.ca/vehicles/2022/honda/cr-v/vancouver/bc/71449400/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T17:44:46",
+      "snapshot": "2026-10-02T18:39:15",
+      "go_url": "https://carwhisper.ca/go/go-downtown-kia-2hkrw2h95nh204159",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Downtown Kia"
     }
   ]
 }

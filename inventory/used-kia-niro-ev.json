@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T00:36:47+00:00",
-  "snapshot": "2026-10-03T00:36:47+00:00",
+  "generated_at": "2026-10-03T05:03:47+00:00",
+  "snapshot": "2026-10-03T05:03:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 22,
+  "count": 23,
   "vehicles": [
     {
       "pub_id": "tricity-mitsubishi-kndce3lg8k5016686",
@@ -505,6 +505,31 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Island Ford"
+    },
+    {
+      "pub_id": "go-downtown-kia-kndcp3l13s5133534",
+      "year": 2025,
+      "make": "Kia",
+      "model": "Niro EV",
+      "propulsion": "electric",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 39465,
+      "price_cad": 33895.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/a4963c3d-19c4-4d88-a9d5-989ff745e142_852ffe8d-861a-47a4-aa13-7c3547012f48.jpg",
+      "dealer_id": "go-downtown-kia",
+      "vin": "KNDCP3L13S5133534",
+      "stock": "CLB0060",
+      "listing_url": "https://www.godowntownkia.ca/vehicles/2025/kia/niro-ev/vancouver/bc/71426919/?sale_class=used",
+      "dealer_url": "https://www.godowntownkia.ca/vehicles/2025/kia/niro-ev/vancouver/bc/71426919/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T17:50:14",
+      "snapshot": "2026-10-02T18:39:15",
+      "go_url": "https://carwhisper.ca/go/go-downtown-kia-kndcp3l13s5133534",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Downtown Kia"
     },
     {
       "pub_id": "go-richmond-kia-kndcp3l15s5133132",

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T00:36:47+00:00",
-  "snapshot": "2026-10-03T00:36:47+00:00",
+  "generated_at": "2026-10-03T05:03:47+00:00",
+  "snapshot": "2026-10-03T05:03:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 18,
+  "count": 19,
   "vehicles": [
     {
       "pub_id": "castlegar-toyota-jtdkarfp6l3154312",
@@ -430,6 +430,31 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Island Ford"
+    },
+    {
+      "pub_id": "go-downtown-kia-jtdkarfp3k3111125",
+      "year": 2019,
+      "make": "Toyota",
+      "model": "Prius Prime",
+      "propulsion": "electric",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 150180,
+      "price_cad": 20498.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/7a443298-6534-440a-8e57-371eeae899ad_0c399610-2ee5-4f4a-905e-0deecaedca3f.jpg",
+      "dealer_id": "go-downtown-kia",
+      "vin": "JTDKARFP3K3111125",
+      "stock": "E57025A",
+      "listing_url": "https://www.godowntownkia.ca/vehicles/2019/toyota/prius-prime/vancouver/bc/71406084/?sale_class=used",
+      "dealer_url": "https://www.godowntownkia.ca/vehicles/2019/toyota/prius-prime/vancouver/bc/71406084/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T17:43:00",
+      "snapshot": "2026-10-02T18:39:15",
+      "go_url": "https://carwhisper.ca/go/go-downtown-kia-jtdkarfp3k3111125",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Downtown Kia"
     },
     {
       "pub_id": "go-richmond-subaru-jtdkarfpxj3082009",

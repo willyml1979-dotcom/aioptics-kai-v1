@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T00:36:47+00:00",
+  "generated_at": "2026-10-03T05:03:47+00:00",
   "condition": "used",
   "make": "bmw",
   "files": [
@@ -87,12 +87,12 @@
       "condition": "used",
       "make": "bmw",
       "model": "X5",
-      "count": 25,
+      "count": 26,
       "file": "inventory/used-bmw-x5.json",
       "models": [
         {
           "model": "X5",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -508,6 +508,19 @@
       "models": [
         {
           "model": "X3 M",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "bmw",
+      "model": "X4 M",
+      "count": 1,
+      "file": "inventory/used-bmw-x4-m.json",
+      "models": [
+        {
+          "model": "X4 M",
           "count": 1
         }
       ]

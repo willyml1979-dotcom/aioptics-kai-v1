@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T00:36:47+00:00",
-  "snapshot": "2026-10-03T00:36:47+00:00",
+  "generated_at": "2026-10-03T05:03:47+00:00",
+  "snapshot": "2026-10-03T05:03:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 23,
+  "count": 24,
   "vehicles": [
     {
       "pub_id": "go-langley-subaru-jf2gtagc0kh227125",
@@ -258,6 +258,31 @@
       "city": null,
       "province": "BC",
       "dealer_name": "Go Richmond Subaru"
+    },
+    {
+      "pub_id": "go-downtown-kia-jf2guhnc3rh268528",
+      "year": 2024,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 30034,
+      "price_cad": 29998.0,
+      "price_note": null,
+      "color": "Orange",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/c810cf33-bef6-4bbd-9043-b6dd0c59d8ca_2dbd0db8-56fd-4b59-a859-f319753eee4a.jpg",
+      "dealer_id": "go-downtown-kia",
+      "vin": "JF2GUHNC3RH268528",
+      "stock": "WP0090",
+      "listing_url": "https://www.godowntownkia.ca/vehicles/2024/subaru/crosstrek/vancouver/bc/70762325/?sale_class=used",
+      "dealer_url": "https://www.godowntownkia.ca/vehicles/2024/subaru/crosstrek/vancouver/bc/70762325/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T17:48:32",
+      "snapshot": "2026-10-02T18:39:15",
+      "go_url": "https://carwhisper.ca/go/go-downtown-kia-jf2guhnc3rh268528",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Downtown Kia"
     },
     {
       "pub_id": "go-langley-subaru-jf2guhfc7rh355394",

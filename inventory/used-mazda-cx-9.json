@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T00:36:47+00:00",
-  "snapshot": "2026-10-03T00:36:47+00:00",
+  "generated_at": "2026-10-03T05:03:47+00:00",
+  "snapshot": "2026-10-03T05:03:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 12,
+  "count": 14,
   "vehicles": [
     {
       "pub_id": "destination-kingsway-honda-vancouver-jm3tcbdy5k0330579",
@@ -302,6 +302,55 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Duncan Hyundai"
+    },
+    {
+      "pub_id": "sherwood-park-hyundai-jm3tcbey3j0206145",
+      "year": 2018,
+      "make": "Mazda",
+      "model": "CX-9",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 164311,
+      "price_cad": 19900.0,
+      "price_note": null,
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/f72946f4-cc67-406b-a9f3-e6ab3b32941a_bcb9e1cb-4e6b-49ce-9d76-cfbabb0e3b30.jpg",
+      "dealer_id": "sherwood-park-hyundai",
+      "vin": "JM3TCBEY3J0206145",
+      "stock": "PC6145",
+      "listing_url": "https://www.sphyundai.com/vehicles/2018/mazda/cx-9/sherwood-park/ab/71461595/?sale_class=used",
+      "dealer_url": "https://www.sphyundai.com/vehicles/2018/mazda/cx-9/sherwood-park/ab/71461595/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T18:28:47",
+      "snapshot": "2026-10-02T18:32:10",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-hyundai-jm3tcbey3j0206145",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Hyundai"
+    },
+    {
+      "pub_id": "go-downtown-kia-jm3tcbdy4k0326040",
+      "year": 2019,
+      "make": "Mazda",
+      "model": "CX-9",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 96000,
+      "price_cad": 23498.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/f7060fed-9ebb-4d48-8ed1-7cbd40dfb660_51fc2b18-5531-4ff4-b940-77f54f97c962.jpg",
+      "dealer_id": "go-downtown-kia",
+      "vin": "JM3TCBDY4K0326040",
+      "stock": "E57023A",
+      "listing_url": "https://www.godowntownkia.ca/vehicles/2019/mazda/cx-9/vancouver/bc/71282345/?sale_class=used",
+      "dealer_url": "https://www.godowntownkia.ca/vehicles/2019/mazda/cx-9/vancouver/bc/71282345/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T17:42:52",
+      "snapshot": "2026-10-02T18:39:15",
+      "go_url": "https://carwhisper.ca/go/go-downtown-kia-jm3tcbdy4k0326040",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Downtown Kia"
     }
   ]
 }

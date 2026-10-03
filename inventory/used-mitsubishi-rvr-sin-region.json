@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T00:36:47+00:00",
-  "snapshot": "2026-10-03T00:36:47+00:00",
+  "generated_at": "2026-10-03T05:03:47+00:00",
+  "snapshot": "2026-10-03T05:03:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 4,
   "vehicles": [
     {
       "pub_id": "country-hills-nissan-4a4aj4au2de603219",
@@ -54,6 +54,31 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Country Hills Nissan"
+    },
+    {
+      "pub_id": "go-downtown-kia-ja4ajvaw0ru604990",
+      "year": 2024,
+      "make": "Mitsubishi",
+      "model": "RVR",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 45373,
+      "price_cad": 21498.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/f0d63cd5-2264-4681-a8c0-fa2eef23194d_0bd586c3-f73a-4e01-b77a-6dcbbfcc6493.jpg",
+      "dealer_id": "go-downtown-kia",
+      "vin": "JA4AJVAW0RU604990",
+      "stock": "WP0099",
+      "listing_url": "https://www.godowntownkia.ca/vehicles/2024/mitsubishi/rvr/vancouver/bc/71109953/?sale_class=used",
+      "dealer_url": "https://www.godowntownkia.ca/vehicles/2024/mitsubishi/rvr/vancouver/bc/71109953/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T17:48:24",
+      "snapshot": "2026-10-02T18:39:15",
+      "go_url": "https://carwhisper.ca/go/go-downtown-kia-ja4ajvaw0ru604990",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Downtown Kia"
     },
     {
       "pub_id": "go-richmond-kia-ja4ajuau5ru608364",

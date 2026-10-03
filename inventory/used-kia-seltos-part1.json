@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T00:36:47+00:00",
-  "snapshot": "2026-10-03T00:36:47+00:00",
+  "generated_at": "2026-10-03T05:03:47+00:00",
+  "snapshot": "2026-10-03T05:03:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 33,
+  "count": 34,
   "vehicles": [
     {
       "pub_id": "denham-ford-bc-ltd-kndeucaa3s7760579",
@@ -880,6 +880,33 @@
       "city": "Maple Ridge",
       "province": "BC",
       "dealer_name": "Maple Ridge Hyundai"
+    },
+    {
+      "pub_id": "go-kia-west-kndeucaa3s7780833",
+      "year": 2025,
+      "make": "Kia",
+      "model": "Seltos",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 46310,
+      "price_cad": 26498.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/90ce7ee4-3ce8-4660-80ee-5dfd4716837e_159edc05-4723-47af-84a3-99f5a61bcf07.jpg",
+      "dealer_id": "go-kia-west",
+      "vin": "KNDEUCAA3S7780833",
+      "stock": "PW1398",
+      "listing_url": "https://www.kiawest.com/vehicles/2025/kia/seltos/coquitlam/bc/71109929/?sale_class=used",
+      "dealer_url": "https://www.kiawest.com/vehicles/2025/kia/seltos/coquitlam/bc/71109929/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T16:02:47",
+      "snapshot": "2026-10-02T16:31:52",
+      "go_url": "https://carwhisper.ca/go/go-kia-west-kndeucaa3s7780833",
+      "region": "Lower Mainland",
+      "city": "Coquitlam",
+      "province": "BC",
+      "dealer_name": "Go Kia West"
     }
   ]
 }

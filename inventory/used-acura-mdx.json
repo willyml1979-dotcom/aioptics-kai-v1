@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T00:36:47+00:00",
-  "snapshot": "2026-10-03T00:36:47+00:00",
+  "generated_at": "2026-10-03T05:03:47+00:00",
+  "snapshot": "2026-10-03T05:03:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 34,
+  "count": 35,
   "vehicles": [
     {
       "pub_id": "maple-ridge-hyundai-5fryd4h46gb508148",
@@ -776,7 +776,7 @@
       "listing_url": "https://www.sphyundai.com/vehicles/2022/acura/mdx/sherwood-park/ab/71031976/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2022/acura/mdx/sherwood-park/ab/71031976/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T18:13:00",
-      "snapshot": "2026-10-01T18:21:45",
+      "snapshot": "2026-10-02T18:32:10",
       "go_url": "https://carwhisper.ca/go/sherwood-park-hyundai-5j8ye1h80nl803208",
       "city": null,
       "province": "AB",
@@ -806,6 +806,32 @@
       "city": null,
       "province": "BC",
       "dealer_name": "Go Richmond Subaru"
+    },
+    {
+      "pub_id": "go-downtown-kia-5j8ye1h02sl800803",
+      "year": 2025,
+      "make": "Acura",
+      "model": "MDX",
+      "body_type": "suv",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 18127,
+      "price_cad": 55498.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/45f32b44-69dc-44cb-b737-fb5761efa086_a8fcab7f-fba1-4fd7-b34f-0ecec0527ecd.jpg",
+      "dealer_id": "go-downtown-kia",
+      "vin": "5J8YE1H02SL800803",
+      "stock": "WP0066",
+      "listing_url": "https://www.godowntownkia.ca/vehicles/2025/acura/mdx/vancouver/bc/70239969/?sale_class=used",
+      "dealer_url": "https://www.godowntownkia.ca/vehicles/2025/acura/mdx/vancouver/bc/70239969/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T17:49:01",
+      "snapshot": "2026-10-02T18:39:15",
+      "go_url": "https://carwhisper.ca/go/go-downtown-kia-5j8ye1h02sl800803",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Downtown Kia"
     }
   ]
 }

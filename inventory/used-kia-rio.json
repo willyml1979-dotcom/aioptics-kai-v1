@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T00:36:47+00:00",
-  "snapshot": "2026-10-03T00:36:47+00:00",
+  "generated_at": "2026-10-03T05:03:47+00:00",
+  "snapshot": "2026-10-03T05:03:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 26,
+  "count": 27,
   "vehicles": [
     {
       "pub_id": "maple-ridge-hyundai-knadm4a3xh6056992",
@@ -632,6 +632,33 @@
       "city": null,
       "province": "BC",
       "dealer_name": "Go Langley Subaru"
+    },
+    {
+      "pub_id": "go-downtown-kia-3kpa25ad2pe624347",
+      "year": 2023,
+      "make": "Kia",
+      "model": "Rio",
+      "trim": "Hatchback 5-Door",
+      "body_type": "hatchback",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 42614,
+      "price_cad": 18898.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/e6fce83f-d6af-4cb0-867a-40ccf99d7a66_614573d8-4e51-490f-8178-c0ca32cd7b2c.jpg",
+      "dealer_id": "go-downtown-kia",
+      "vin": "3KPA25AD2PE624347",
+      "stock": "KH6007A",
+      "listing_url": "https://www.godowntownkia.ca/vehicles/2023/kia/rio-hatchback-5-door/vancouver/bc/71417950/?sale_class=used",
+      "dealer_url": "https://www.godowntownkia.ca/vehicles/2023/kia/rio-hatchback-5-door/vancouver/bc/71417950/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T17:46:01",
+      "snapshot": "2026-10-02T18:39:15",
+      "go_url": "https://carwhisper.ca/go/go-downtown-kia-3kpa25ad2pe624347",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Downtown Kia"
     },
     {
       "pub_id": "applewood-ford-3kpa25ad0ne497188",
