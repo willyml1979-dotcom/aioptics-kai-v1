@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T05:03:47+00:00",
-  "snapshot": "2026-10-03T05:03:47+00:00",
+  "generated_at": "2026-10-03T11:03:49+00:00",
+  "snapshot": "2026-10-03T11:03:49+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 12,
+  "count": 13,
   "vehicles": [
     {
       "pub_id": "pioneer-chrysler-jeep-1ft8w3bt3rec82189",
@@ -224,6 +224,29 @@
       "city": "Salmon Arm",
       "province": "BC",
       "dealer_name": "Jacobson Ford Sales Ltd."
+    },
+    {
+      "pub_id": "country-hills-nissan-1fd8x3h61cec64291",
+      "year": 2012,
+      "make": "Ford",
+      "model": "F 350",
+      "condition": "used",
+      "odometer_km": 259852,
+      "price_cad": 9900.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/24c370b3-9abf-4a2b-8a5f-31c7b10e8b25_ec7196aa-a995-47fe-babe-d1d973754a3a.jpg",
+      "dealer_id": "country-hills-nissan",
+      "vin": "1FD8X3H61CEC64291",
+      "stock": "CN38415",
+      "listing_url": "https://www.chnissan.com/vehicles/2012/ford/f-350/calgary/ab/71464966/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2012/ford/f-350/calgary/ab/71464966/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T22:48:45",
+      "snapshot": "2026-10-02T22:58:49",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-1fd8x3h61cec64291",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Country Hills Nissan"
     },
     {
       "pub_id": "south-coast-ford-sales-ltd-1ft8w3ba7ped21300",

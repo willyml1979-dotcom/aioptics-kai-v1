@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T05:03:47+00:00",
-  "snapshot": "2026-10-03T05:03:47+00:00",
+  "generated_at": "2026-10-03T11:03:49+00:00",
+  "snapshot": "2026-10-03T11:03:49+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 31,
+  "count": 33,
   "vehicles": [
     {
       "pub_id": "go-north-surrey-chevrolet-buick-gmc-1g1ya2d40t5103475",
@@ -832,6 +832,56 @@
       "city": "Parksville",
       "province": "BC",
       "dealer_name": "Harris Oceanside Chevrolet Buick GMC Ltd."
+    },
+    {
+      "pub_id": "sherwood-park-chevrolet-1g1ya2d53v5102753",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Corvette",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "new",
+      "odometer_km": 8,
+      "price_cad": 99739.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/89b30dc2-f742-4c4e-b342-2f5b426855fd_b2644375-c290-4194-b13a-6f3828b20eaa.jpg",
+      "dealer_id": "sherwood-park-chevrolet",
+      "vin": "1G1YA2D53V5102753",
+      "stock": "27CV275",
+      "listing_url": "https://www.sherwoodparkchev.com/vehicles/2027/chevrolet/corvette/sherwood-park/ab/71228319/?sale_class=new",
+      "dealer_url": "https://www.sherwoodparkchev.com/vehicles/2027/chevrolet/corvette/sherwood-park/ab/71228319/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T23:17:46",
+      "snapshot": "2026-10-02T23:36:57",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-1g1ya2d53v5102753",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Chevrolet"
+    },
+    {
+      "pub_id": "sherwood-park-chevrolet-1g1yc2d48t5110622",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Corvette",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "new",
+      "odometer_km": 12,
+      "price_cad": 114409.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/fbefe4e9-8593-4560-8071-e35d88e1ab33_f317d606-fec9-4cb2-9224-3a4eeae7b266.jpg",
+      "dealer_id": "sherwood-park-chevrolet",
+      "vin": "1G1YC2D48T5110622",
+      "stock": "26CV062",
+      "listing_url": "https://www.sherwoodparkchev.com/vehicles/2026/chevrolet/corvette/sherwood-park/ab/69440760/?sale_class=new",
+      "dealer_url": "https://www.sherwoodparkchev.com/vehicles/2026/chevrolet/corvette/sherwood-park/ab/69440760/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T21:16:59",
+      "snapshot": "2026-10-02T23:36:57",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-1g1yc2d48t5110622",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Chevrolet"
     }
   ]
 }

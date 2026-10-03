@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T05:03:47+00:00",
+  "generated_at": "2026-10-03T11:03:49+00:00",
   "condition": "used",
   "make": "ford",
   "files": [
@@ -96,12 +96,12 @@
       "make": "ford",
       "model": "Bronco Sport",
       "shard": "sin-region",
-      "count": 10,
+      "count": 11,
       "file": "inventory/used-ford-bronco-sport-sin-region.json",
       "models": [
         {
           "model": "Bronco Sport",
-          "count": 10
+          "count": 11
         }
       ]
     },
@@ -373,12 +373,12 @@
       "make": "ford",
       "model": "Explorer",
       "shard": "sin-region",
-      "count": 8,
+      "count": 5,
       "file": "inventory/used-ford-explorer-sin-region.json",
       "models": [
         {
           "model": "Explorer",
-          "count": 8
+          "count": 5
         }
       ]
     },
@@ -488,11 +488,11 @@
       "models": [
         {
           "model": "F 150",
-          "count": 6
+          "count": 7
         },
         {
           "model": "F-150",
-          "count": 26
+          "count": 25
         }
       ]
     },
@@ -519,16 +519,16 @@
       "make": "ford",
       "model": "F-150",
       "shard": "part8",
-      "count": 27,
+      "count": 25,
       "file": "inventory/used-ford-f-150-part8.json",
       "models": [
         {
           "model": "F 150",
-          "count": 16
+          "count": 15
         },
         {
           "model": "F-150",
-          "count": 11
+          "count": 10
         }
       ]
     },
@@ -1241,9 +1241,13 @@
       "condition": "used",
       "make": "ford",
       "model": "F-350",
-      "count": 12,
+      "count": 13,
       "file": "inventory/used-ford-f-350.json",
       "models": [
+        {
+          "model": "F 350",
+          "count": 1
+        },
         {
           "model": "F-350",
           "count": 12
@@ -1297,12 +1301,12 @@
       "condition": "used",
       "make": "ford",
       "model": "F-350 Super Duty",
-      "count": 17,
+      "count": 18,
       "file": "inventory/used-ford-f-350-super-duty.json",
       "models": [
         {
           "model": "F-350 Super Duty",
-          "count": 17
+          "count": 18
         }
       ]
     },

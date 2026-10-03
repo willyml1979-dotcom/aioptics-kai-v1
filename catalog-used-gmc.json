@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T05:03:47+00:00",
+  "generated_at": "2026-10-03T11:03:49+00:00",
   "condition": "used",
   "make": "gmc",
   "files": [
@@ -100,12 +100,12 @@
       "make": "gmc",
       "model": "TERRAIN",
       "shard": "sin-region",
-      "count": 12,
+      "count": 13,
       "file": "inventory/used-gmc-terrain-sin-region.json",
       "models": [
         {
           "model": "Terrain",
-          "count": 12
+          "count": 13
         }
       ]
     },
@@ -127,27 +127,9 @@
       "make": "gmc",
       "model": "Sierra 1500",
       "shard": "part1",
-      "count": 33,
+      "count": 32,
       "file": "inventory/used-gmc-sierra-1500-part1.json",
       "models": [
-        {
-          "model": "Sierra 1500",
-          "count": 33
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "gmc",
-      "model": "Sierra 1500",
-      "shard": "part2",
-      "count": 33,
-      "file": "inventory/used-gmc-sierra-1500-part2.json",
-      "models": [
-        {
-          "model": "SIERRA 1500",
-          "count": 1
-        },
         {
           "model": "Sierra 1500",
           "count": 32
@@ -158,13 +140,31 @@
       "condition": "used",
       "make": "gmc",
       "model": "Sierra 1500",
+      "shard": "part2",
+      "count": 32,
+      "file": "inventory/used-gmc-sierra-1500-part2.json",
+      "models": [
+        {
+          "model": "SIERRA 1500",
+          "count": 1
+        },
+        {
+          "model": "Sierra 1500",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "gmc",
+      "model": "Sierra 1500",
       "shard": "part3",
-      "count": 33,
+      "count": 32,
       "file": "inventory/used-gmc-sierra-1500-part3.json",
       "models": [
         {
           "model": "Sierra 1500",
-          "count": 33
+          "count": 32
         }
       ]
     },
@@ -173,12 +173,12 @@
       "make": "gmc",
       "model": "Sierra 1500",
       "shard": "part4",
-      "count": 31,
+      "count": 29,
       "file": "inventory/used-gmc-sierra-1500-part4.json",
       "models": [
         {
           "model": "Sierra 1500",
-          "count": 31
+          "count": 29
         }
       ]
     },
@@ -238,7 +238,7 @@
       "condition": "used",
       "make": "gmc",
       "model": "Yukon",
-      "count": 33,
+      "count": 32,
       "file": "inventory/used-gmc-yukon.json",
       "models": [
         {
@@ -247,7 +247,7 @@
         },
         {
           "model": "Yukon",
-          "count": 32
+          "count": 31
         }
       ]
     },
@@ -255,7 +255,7 @@
       "condition": "used",
       "make": "gmc",
       "model": "Canyon",
-      "count": 19,
+      "count": 18,
       "file": "inventory/used-gmc-canyon.json",
       "models": [
         {
@@ -264,7 +264,7 @@
         },
         {
           "model": "Canyon",
-          "count": 18
+          "count": 17
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T05:03:47+00:00",
+  "generated_at": "2026-10-03T11:03:49+00:00",
   "condition": "used",
   "make": "jeep",
   "files": [
@@ -104,7 +104,7 @@
       "make": "jeep",
       "model": "GRAND CHEROKEE",
       "shard": "sin-region",
-      "count": 20,
+      "count": 17,
       "file": "inventory/used-jeep-grand-cherokee-sin-region.json",
       "models": [
         {
@@ -113,7 +113,7 @@
         },
         {
           "model": "Grand Cherokee",
-          "count": 19
+          "count": 16
         }
       ]
     },
@@ -341,12 +341,83 @@
       "condition": "used",
       "make": "jeep",
       "model": "Wrangler Unlimited",
-      "count": 32,
-      "file": "inventory/used-jeep-wrangler-unlimited.json",
+      "shard": "Kootenays",
+      "count": 1,
+      "file": "inventory/used-jeep-wrangler-unlimited-kootenays.json",
       "models": [
         {
           "model": "Wrangler Unlimited",
-          "count": 32
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Wrangler Unlimited",
+      "shard": "Lower Mainland",
+      "count": 8,
+      "file": "inventory/used-jeep-wrangler-unlimited-lower-mainland.json",
+      "models": [
+        {
+          "model": "Wrangler Unlimited",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Wrangler Unlimited",
+      "shard": "Norte/Cariboo",
+      "count": 1,
+      "file": "inventory/used-jeep-wrangler-unlimited-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Wrangler Unlimited",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Wrangler Unlimited",
+      "shard": "Okanagan",
+      "count": 2,
+      "file": "inventory/used-jeep-wrangler-unlimited-okanagan.json",
+      "models": [
+        {
+          "model": "Wrangler Unlimited",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Wrangler Unlimited",
+      "shard": "Vancouver Island",
+      "count": 8,
+      "file": "inventory/used-jeep-wrangler-unlimited-vancouver-island.json",
+      "models": [
+        {
+          "model": "Wrangler Unlimited",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Wrangler Unlimited",
+      "shard": "sin-region",
+      "count": 14,
+      "file": "inventory/used-jeep-wrangler-unlimited-sin-region.json",
+      "models": [
+        {
+          "model": "Wrangler Unlimited",
+          "count": 14
         }
       ]
     },
@@ -464,7 +535,7 @@
       "make": "jeep",
       "model": "Compass",
       "shard": "sin-region",
-      "count": 16,
+      "count": 15,
       "file": "inventory/used-jeep-compass-sin-region.json",
       "models": [
         {
@@ -473,7 +544,7 @@
         },
         {
           "model": "Compass",
-          "count": 15
+          "count": 14
         }
       ]
     },
@@ -645,12 +716,12 @@
       "condition": "used",
       "make": "jeep",
       "model": "Grand Cherokee L",
-      "count": 20,
+      "count": 21,
       "file": "inventory/used-jeep-grand-cherokee-l.json",
       "models": [
         {
           "model": "Grand Cherokee L",
-          "count": 20
+          "count": 21
         }
       ]
     },
@@ -979,6 +1050,19 @@
       "models": [
         {
           "model": "Grand CherokeeOverland",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Cherokee Limited",
+      "count": 1,
+      "file": "inventory/used-jeep-cherokee-limited.json",
+      "models": [
+        {
+          "model": "Cherokee Limited",
           "count": 1
         }
       ]

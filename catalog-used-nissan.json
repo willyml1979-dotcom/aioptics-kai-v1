@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T05:03:47+00:00",
+  "generated_at": "2026-10-03T11:03:49+00:00",
   "condition": "used",
   "make": "nissan",
   "files": [
@@ -8,55 +8,9 @@
       "make": "nissan",
       "model": "Rogue",
       "shard": "part1",
-      "count": 31,
+      "count": 30,
       "file": "inventory/used-nissan-rogue-part1.json",
       "models": [
-        {
-          "model": "Rogue",
-          "count": 31
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Rogue",
-      "shard": "part2",
-      "count": 31,
-      "file": "inventory/used-nissan-rogue-part2.json",
-      "models": [
-        {
-          "model": "Rogue",
-          "count": 31
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Rogue",
-      "shard": "part3",
-      "count": 31,
-      "file": "inventory/used-nissan-rogue-part3.json",
-      "models": [
-        {
-          "model": "Rogue",
-          "count": 31
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Rogue",
-      "shard": "part4",
-      "count": 31,
-      "file": "inventory/used-nissan-rogue-part4.json",
-      "models": [
-        {
-          "model": "ROGUE",
-          "count": 1
-        },
         {
           "model": "Rogue",
           "count": 30
@@ -67,13 +21,59 @@
       "condition": "used",
       "make": "nissan",
       "model": "Rogue",
+      "shard": "part2",
+      "count": 30,
+      "file": "inventory/used-nissan-rogue-part2.json",
+      "models": [
+        {
+          "model": "Rogue",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Rogue",
+      "shard": "part3",
+      "count": 30,
+      "file": "inventory/used-nissan-rogue-part3.json",
+      "models": [
+        {
+          "model": "Rogue",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Rogue",
+      "shard": "part4",
+      "count": 30,
+      "file": "inventory/used-nissan-rogue-part4.json",
+      "models": [
+        {
+          "model": "ROGUE",
+          "count": 1
+        },
+        {
+          "model": "Rogue",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Rogue",
       "shard": "part5",
-      "count": 31,
+      "count": 30,
       "file": "inventory/used-nissan-rogue-part5.json",
       "models": [
         {
           "model": "Rogue",
-          "count": 31
+          "count": 30
         }
       ]
     },
@@ -82,12 +82,12 @@
       "make": "nissan",
       "model": "Rogue",
       "shard": "part6",
-      "count": 26,
+      "count": 28,
       "file": "inventory/used-nissan-rogue-part6.json",
       "models": [
         {
           "model": "Rogue",
-          "count": 26
+          "count": 28
         }
       ]
     },
@@ -95,12 +95,12 @@
       "condition": "used",
       "make": "nissan",
       "model": "Armada",
-      "count": 14,
+      "count": 13,
       "file": "inventory/used-nissan-armada.json",
       "models": [
         {
           "model": "Armada",
-          "count": 14
+          "count": 13
         }
       ]
     },
@@ -192,12 +192,12 @@
       "make": "nissan",
       "model": "Sentra",
       "shard": "sin-region",
-      "count": 5,
+      "count": 4,
       "file": "inventory/used-nissan-sentra-sin-region.json",
       "models": [
         {
           "model": "Sentra",
-          "count": 5
+          "count": 4
         }
       ]
     },
@@ -218,12 +218,12 @@
       "condition": "used",
       "make": "nissan",
       "model": "Versa Note",
-      "count": 7,
+      "count": 6,
       "file": "inventory/used-nissan-versa-note.json",
       "models": [
         {
           "model": "Versa Note",
-          "count": 7
+          "count": 6
         }
       ]
     },
@@ -407,12 +407,12 @@
       "make": "nissan",
       "model": "Pathfinder",
       "shard": "sin-region",
-      "count": 8,
+      "count": 9,
       "file": "inventory/used-nissan-pathfinder-sin-region.json",
       "models": [
         {
           "model": "Pathfinder",
-          "count": 8
+          "count": 9
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T05:03:47+00:00",
+  "generated_at": "2026-10-03T11:03:49+00:00",
   "condition": "used",
   "make": "ram",
   "files": [
@@ -64,12 +64,12 @@
       "make": "ram",
       "model": "1500",
       "shard": "part5",
-      "count": 31,
+      "count": 32,
       "file": "inventory/used-ram-1500-part5.json",
       "models": [
         {
           "model": "1500",
-          "count": 31
+          "count": 32
         }
       ]
     },
@@ -178,7 +178,7 @@
       "make": "ram",
       "model": "1500 Classic",
       "shard": "sin-region",
-      "count": 13,
+      "count": 12,
       "file": "inventory/used-ram-1500-classic-sin-region.json",
       "models": [
         {
@@ -187,7 +187,7 @@
         },
         {
           "model": "1500 Classic",
-          "count": 11
+          "count": 10
         }
       ]
     },
@@ -723,6 +723,19 @@
         {
           "model": "2500Rebel",
           "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500 Sport",
+      "count": 9,
+      "file": "inventory/used-ram-1500-sport.json",
+      "models": [
+        {
+          "model": "1500 Sport",
+          "count": 9
         }
       ]
     },

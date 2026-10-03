@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T05:03:47+00:00",
-  "snapshot": "2026-10-03T05:03:47+00:00",
+  "generated_at": "2026-10-03T11:03:49+00:00",
+  "snapshot": "2026-10-03T11:03:49+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 27,
+  "count": 28,
   "vehicles": [
     {
       "pub_id": "maple-ridge-hyundai-knadm4a3xh6056992",
@@ -681,6 +681,28 @@
       "city": "Port Hardy",
       "province": "BC",
       "dealer_name": "Applewood Ford"
+    },
+    {
+      "pub_id": "country-hills-nissan-3kpa34ab1ke216064",
+      "year": 2019,
+      "make": "Kia",
+      "model": "Rio",
+      "condition": "used",
+      "odometer_km": 127231,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "Blue",
+      "dealer_id": "country-hills-nissan",
+      "vin": "3KPA34AB1KE216064",
+      "stock": "CN38822",
+      "listing_url": "https://www.chnissan.com/vehicles/2019/kia/rio/calgary/ab/71468913/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2019/kia/rio/calgary/ab/71468913/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T22:50:54",
+      "snapshot": "2026-10-02T22:58:49",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-3kpa34ab1ke216064",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }
