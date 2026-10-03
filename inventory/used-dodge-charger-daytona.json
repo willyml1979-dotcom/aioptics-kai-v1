@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
-  "snapshot": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
+  "snapshot": "2026-10-03T00:36:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "sullivan-motor-products-nelson-ltd-2c3cdbck5rr202138",
@@ -16,6 +16,7 @@
       "price_cad": 59541.0,
       "price_note": null,
       "color": "Diamond Black Crystal Pearl",
+      "photo_url": "https://portal.omni.auto/Media/InventoryMedia/2C3CDBCK5RR202138/Optimized/a3fef21dc4c8966f8685d491e5bf939a.webp",
       "dealer_id": "sullivan-motor-products-nelson-ltd",
       "vin": "2C3CDBCK5RR202138",
       "stock": "PU2497",
@@ -96,6 +97,28 @@
       "dealer_name": "Signature Mazda"
     },
     {
+      "pub_id": "jacobson-ford-sales-ltd-2c3cdbck9rr205141",
+      "year": 2024,
+      "make": "Dodge",
+      "model": "Charger Daytona",
+      "condition": "used",
+      "odometer_km": 18260,
+      "price_cad": 54605.0,
+      "price_note": null,
+      "dealer_id": "jacobson-ford-sales-ltd",
+      "vin": "2C3CDBCK9RR205141",
+      "stock": "1P1598",
+      "listing_url": "https://www.jacobsonford.com/inventory/2024-dodge-charger-daytona/14799063",
+      "dealer_url": "https://www.jacobsonford.com/inventory/2024-dodge-charger-daytona/14799063?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T21:00:56",
+      "snapshot": "2026-09-26T21:43:02",
+      "go_url": "https://carwhisper.ca/go/jacobson-ford-sales-ltd-2c3cdbck9rr205141",
+      "region": "Okanagan",
+      "city": "Salmon Arm",
+      "province": "BC",
+      "dealer_name": "Jacobson Ford Sales Ltd."
+    },
+    {
       "pub_id": "go-auto-brampton-chrysler-2c3cdbckxrr205875",
       "year": 2024,
       "make": "Dodge",
@@ -107,6 +130,7 @@
       "price_cad": 54888.0,
       "price_note": null,
       "color": "Red",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/002cdf8d-aab0-4f0e-8119-6499c1a5799c_5f99d52a-c574-491b-80d6-a2e9ca8dc6c3.jpg",
       "dealer_id": "go-auto-brampton-chrysler",
       "vin": "2C3CDBCKXRR205875",
       "stock": "P27RA42",
@@ -116,7 +140,7 @@
       "snapshot": "2026-10-01T21:16:55",
       "go_url": "https://carwhisper.ca/go/go-auto-brampton-chrysler-2c3cdbckxrr205875",
       "city": null,
-      "province": "BC",
+      "province": "ON",
       "dealer_name": "Go Auto Brampton Chrysler"
     }
   ]

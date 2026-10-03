@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
-  "snapshot": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
+  "snapshot": "2026-10-03T00:36:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 4,
   "vehicles": [
     {
       "pub_id": "murray-kia-abbotsford-lpsed3ka8nl067817",
@@ -17,6 +17,7 @@
       "price_cad": 29201.0,
       "price_note": null,
       "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/843fb75d-c31e-4f23-bc8c-c85833f5f56e_d752a5cb-561e-4dde-a55f-e6a1f9ba308f.jpg",
       "dealer_id": "murray-kia-abbotsford",
       "vin": "LPSED3KA8NL067817",
       "stock": "2026",
@@ -41,6 +42,7 @@
       "odometer_km": 11024,
       "price_cad": 35995.0,
       "price_note": null,
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/f370faa3-ceac-4636-96b9-b6f2f10946aa_4cb57b98-b1f7-411d-b595-bcbad7855d48.jpg",
       "dealer_id": "tricity-mitsubishi",
       "vin": "YSMFD3KA9RL246762",
       "stock": "TC6762T",
@@ -76,6 +78,27 @@
       "city": "Port Coquitlam",
       "province": "BC",
       "dealer_name": "Tricity Mitsubishi"
+    },
+    {
+      "pub_id": "south-coast-ford-sales-ltd-ysmfd3ka0rl214864",
+      "year": 2024,
+      "make": "Polestar",
+      "model": "2",
+      "condition": "used",
+      "odometer_km": 5606,
+      "price_cad": 39990.0,
+      "price_note": null,
+      "dealer_id": "south-coast-ford-sales-ltd",
+      "vin": "YSMFD3KA0RL214864",
+      "stock": "U261310",
+      "listing_url": "https://www.southcoastford.com/inventory/2024-polestar-2/14536338",
+      "dealer_url": "https://www.southcoastford.com/inventory/2024-polestar-2/14536338?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T02:17:19",
+      "snapshot": "2026-09-26T02:18:46",
+      "go_url": "https://carwhisper.ca/go/south-coast-ford-sales-ltd-ysmfd3ka0rl214864",
+      "city": "Sechelt",
+      "province": "BC",
+      "dealer_name": "South Coast Ford Sales Ltd."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
-  "snapshot": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
+  "snapshot": "2026-10-03T00:36:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "fraser-river-chevrolet-buick-gmc-ltd-1gc4yme77mf291283",
@@ -19,6 +19,7 @@
       "price_cad": 42395.0,
       "price_note": null,
       "color": "White",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,op_tc,ow_100,v1/adjustment/S7QBW2R7WRD3DGKWB6PTZKP42E%3Btrim/Q3QM5PUHKFBBJB4WQE7Q5NKCFU.webp",
       "dealer_id": "fraser-river-chevrolet-buick-gmc-ltd",
       "vin": "1GC4YME77MF291283",
       "stock": "8777",
@@ -31,6 +32,29 @@
       "city": "Quesnel",
       "province": "BC",
       "dealer_name": "Fraser River Chevrolet Buick GMC Ltd."
+    },
+    {
+      "pub_id": "fort-motors-ltd-2gc4yme76r1170727",
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "SILVERADO 2500HD",
+      "condition": "used",
+      "odometer_km": 61889,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "Black",
+      "dealer_id": "fort-motors-ltd",
+      "vin": "2GC4YME76R1170727",
+      "stock": "Y70727",
+      "listing_url": "https://www.fortmotors.ca/inventory/2024-chevrolet-silverado-2500hd/14766092",
+      "dealer_url": "https://www.fortmotors.ca/inventory/2024-chevrolet-silverado-2500hd/14766092?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T04:22:37",
+      "snapshot": "2026-09-26T06:26:42",
+      "go_url": "https://carwhisper.ca/go/fort-motors-ltd-2gc4yme76r1170727",
+      "region": "Norte/Cariboo",
+      "city": "Fort St. John",
+      "province": "BC",
+      "dealer_name": "Fort Motors Ltd."
     },
     {
       "pub_id": "bannister-chevrolet-cadillac-kamloops-ltd-2gc1kne70t1126238",
@@ -47,6 +71,7 @@
       "price_cad": 69488.0,
       "price_note": null,
       "color": "White",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/trim/DG4DXJVBXRD6TPDVYMYB5KL2GM.webp",
       "dealer_id": "bannister-chevrolet-cadillac-kamloops-ltd",
       "vin": "2GC1KNE70T1126238",
       "stock": "486P513",

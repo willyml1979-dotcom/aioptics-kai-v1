@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
-  "snapshot": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
+  "snapshot": "2026-10-03T00:36:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 15,
+  "count": 16,
   "vehicles": [
     {
       "pub_id": "hilltop-subaru-2fmdk4jc1bba48874",
@@ -15,6 +15,7 @@
       "odometer_km": 266241,
       "price_cad": 4000.0,
       "price_note": null,
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/1d0c6593-e15a-4c96-b78f-c8ee22cf38ba_1ac3c6e6-bb5a-48ca-bfcc-d2a07b49ab68.jpg",
       "dealer_id": "hilltop-subaru",
       "vin": "2FMDK4JC1BBA48874",
       "stock": "HS26861",
@@ -105,6 +106,7 @@
       "price_cad": 17995.0,
       "price_note": null,
       "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/f1b121aa-2f33-4208-b27c-166eb3d31870_6db5ced8-8fe6-4c28-9e46-2af68ce1991d.jpg",
       "dealer_id": "kelowna-toyota-ltd",
       "vin": "2FMPK4K95KBC54585",
       "stock": "PKT9228",
@@ -340,6 +342,28 @@
       "city": "Penticton",
       "province": "BC",
       "dealer_name": "Penticton Nissan"
+    },
+    {
+      "pub_id": "jacobson-ford-sales-ltd-2fmpk4j97jbb76536",
+      "year": 2018,
+      "make": "Ford",
+      "model": "Edge",
+      "condition": "used",
+      "odometer_km": 65262,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "jacobson-ford-sales-ltd",
+      "vin": "2FMPK4J97JBB76536",
+      "stock": "1P1620",
+      "listing_url": "https://www.jacobsonford.com/inventory/2018-ford-edge/14833778",
+      "dealer_url": "https://www.jacobsonford.com/inventory/2018-ford-edge/14833778?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T21:33:23",
+      "snapshot": "2026-09-26T21:43:02",
+      "go_url": "https://carwhisper.ca/go/jacobson-ford-sales-ltd-2fmpk4j97jbb76536",
+      "region": "Okanagan",
+      "city": "Salmon Arm",
+      "province": "BC",
+      "dealer_name": "Jacobson Ford Sales Ltd."
     }
   ]
 }

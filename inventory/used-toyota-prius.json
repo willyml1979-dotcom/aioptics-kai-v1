@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
-  "snapshot": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
+  "snapshot": "2026-10-03T00:36:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "jim-pattison-toyota-downtown-jtdkdtb34c1006792",
@@ -19,6 +19,7 @@
       "price_cad": 10798.0,
       "price_note": null,
       "color": "Orange",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/e40d005e-0014-485c-85f5-7d021f25a0a3_bce38494-ddf0-4eed-a5ae-1fa1c6c0b5f6.jpg",
       "dealer_id": "jim-pattison-toyota-downtown",
       "vin": "JTDKDTB34C1006792",
       "stock": "26570A",
@@ -45,6 +46,7 @@
       "price_cad": 15995.0,
       "price_note": null,
       "color": "UNKNOWN",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/bcbfc965-6764-4320-a1a9-73d805a59d08_566b1126-7a6e-4e07-8834-76130c887c40.jpg",
       "dealer_id": "jim-pattison-toyota-northshore",
       "vin": "JTDZN3EU1FJ038197",
       "stock": "U1704C",
@@ -72,6 +74,7 @@
       "price_cad": 17995.0,
       "price_note": null,
       "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/6a64eed6-00e4-4215-ad4f-f7d3c0006b6e_6328a652-7fe5-448d-ba69-ef998fbfdfd4.jpg",
       "dealer_id": "kelowna-toyota-ltd",
       "vin": "JTDKDTB37H1598650",
       "stock": "PKT8650",
@@ -98,6 +101,7 @@
       "price_cad": 18995.0,
       "price_note": null,
       "color": "Red",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/6df10308-81bd-4347-8f16-111ef643fa44_70a17aeb-7d0c-44d4-bbcb-6d96ec005aa1.jpg",
       "dealer_id": "kelowna-toyota-ltd",
       "vin": "JTDKBRFU8H3567679",
       "stock": "PKT7679",
@@ -123,6 +127,7 @@
       "price_cad": 28995.0,
       "price_note": null,
       "color": "Blue",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/2cb24860-8f50-4f0e-8943-8e8f2f3d8691_89b9eb54-fd3c-4c66-bed1-36ecdf1a8efd.jpg",
       "dealer_id": "kelowna-toyota-ltd",
       "vin": "JTDL9MFUXN3033100",
       "stock": "PKT3100",
@@ -162,6 +167,29 @@
       "city": "Nanaimo",
       "province": "BC",
       "dealer_name": "Nanaimo Toyota"
+    },
+    {
+      "pub_id": "gardner-chevrolet-buick-gmc-ltd-jtdkdtb39h1596950",
+      "year": 2017,
+      "make": "Toyota",
+      "model": "Prius",
+      "trim": "C5dr",
+      "body_type": "hatchback",
+      "condition": "used",
+      "odometer_km": 13812913,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "gardner-chevrolet-buick-gmc-ltd",
+      "vin": "JTDKDTB39H1596950",
+      "stock": "6T121C",
+      "listing_url": "https://www.gardnergm.com/used/vehicle/2017-toyota-prius-c-base-id14856759.htm",
+      "dealer_url": "https://www.gardnergm.com/used/vehicle/2017-toyota-prius-c-base-id14856759.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T05:00:59",
+      "snapshot": "2026-09-25T05:13:41",
+      "go_url": "https://carwhisper.ca/go/gardner-chevrolet-buick-gmc-ltd-jtdkdtb39h1596950",
+      "city": "Hope",
+      "province": "BC",
+      "dealer_name": "Gardner Chevrolet Buick GMC Ltd."
     }
   ]
 }

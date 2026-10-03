@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
   "condition": "used",
   "make": "lincoln",
   "files": [
@@ -54,7 +54,7 @@
       "condition": "used",
       "make": "lincoln",
       "model": "Navigator",
-      "count": 6,
+      "count": 7,
       "file": "inventory/used-lincoln-navigator.json",
       "models": [
         {
@@ -63,7 +63,7 @@
         },
         {
           "model": "Navigator",
-          "count": 5
+          "count": 6
         }
       ]
     },
@@ -96,6 +96,19 @@
     {
       "condition": "used",
       "make": "lincoln",
+      "model": "Continental",
+      "count": 1,
+      "file": "inventory/used-lincoln-continental.json",
+      "models": [
+        {
+          "model": "Continental",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lincoln",
       "model": "Nautilus Reserve",
       "count": 1,
       "file": "inventory/used-lincoln-nautilus-reserve.json",
@@ -116,6 +129,19 @@
         {
           "model": "Aviator",
           "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lincoln",
+      "model": "NautilusReserve 4dr All-Wheel Drive",
+      "count": 1,
+      "file": "inventory/used-lincoln-nautilusreserve-4dr-all-wheel-drive.json",
+      "models": [
+        {
+          "model": "NautilusReserve 4dr All-Wheel Drive",
+          "count": 1
         }
       ]
     },

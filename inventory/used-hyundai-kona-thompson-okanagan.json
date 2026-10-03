@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
-  "snapshot": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
+  "snapshot": "2026-10-03T00:36:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "volkswagen-of-kamloops-km8hbcab2ru118857",
@@ -17,6 +17,7 @@
       "price_cad": 25997.0,
       "price_note": null,
       "color": "Red",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/177ec650-b43a-4341-889a-1e9169449024_398466d7-eab0-4dcb-91fc-9e0317ca070a.jpg",
       "dealer_id": "volkswagen-of-kamloops",
       "vin": "KM8HBCAB2RU118857",
       "stock": "51961A",
@@ -29,6 +30,28 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Volkswagen of Kamloops"
+    },
+    {
+      "pub_id": "dearborn-motors-ltd-km8k2cab4nu802633",
+      "year": 2022,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "used",
+      "odometer_km": 80025,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "dearborn-motors-ltd",
+      "vin": "KM8K2CAB4NU802633",
+      "stock": "9K2681",
+      "listing_url": "https://www.dearbornford.com/used/vehicle/2022-hyundai-kona-id15387484.htm",
+      "dealer_url": "https://www.dearbornford.com/used/vehicle/2022-hyundai-kona-id15387484.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T17:03:36",
+      "snapshot": "2026-09-25T17:19:21",
+      "go_url": "https://carwhisper.ca/go/dearborn-motors-ltd-km8k2cab4nu802633",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Dearborn Motors Ltd."
     }
   ]
 }

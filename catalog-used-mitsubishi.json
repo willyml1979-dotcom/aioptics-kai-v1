@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
   "condition": "used",
   "make": "mitsubishi",
   "files": [
@@ -117,13 +117,13 @@
       "condition": "used",
       "make": "mitsubishi",
       "model": "Outlander",
-      "shard": "Lower Mainland",
-      "count": 38,
-      "file": "inventory/used-mitsubishi-outlander-lower-mainland.json",
+      "shard": "part1",
+      "count": 24,
+      "file": "inventory/used-mitsubishi-outlander-part1.json",
       "models": [
         {
           "model": "Outlander",
-          "count": 38
+          "count": 24
         }
       ]
     },
@@ -131,13 +131,13 @@
       "condition": "used",
       "make": "mitsubishi",
       "model": "Outlander",
-      "shard": "Norte/Cariboo",
-      "count": 3,
-      "file": "inventory/used-mitsubishi-outlander-norte-cariboo.json",
+      "shard": "part2",
+      "count": 24,
+      "file": "inventory/used-mitsubishi-outlander-part2.json",
       "models": [
         {
           "model": "Outlander",
-          "count": 3
+          "count": 24
         }
       ]
     },
@@ -145,55 +145,13 @@
       "condition": "used",
       "make": "mitsubishi",
       "model": "Outlander",
-      "shard": "Okanagan",
-      "count": 9,
-      "file": "inventory/used-mitsubishi-outlander-okanagan.json",
+      "shard": "part3",
+      "count": 24,
+      "file": "inventory/used-mitsubishi-outlander-part3.json",
       "models": [
         {
           "model": "Outlander",
-          "count": 9
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mitsubishi",
-      "model": "Outlander",
-      "shard": "Thompson-Okanagan",
-      "count": 2,
-      "file": "inventory/used-mitsubishi-outlander-thompson-okanagan.json",
-      "models": [
-        {
-          "model": "Outlander",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mitsubishi",
-      "model": "Outlander",
-      "shard": "Vancouver Island",
-      "count": 11,
-      "file": "inventory/used-mitsubishi-outlander-vancouver-island.json",
-      "models": [
-        {
-          "model": "Outlander",
-          "count": 11
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mitsubishi",
-      "model": "Outlander",
-      "shard": "sin-region",
-      "count": 9,
-      "file": "inventory/used-mitsubishi-outlander-sin-region.json",
-      "models": [
-        {
-          "model": "Outlander",
-          "count": 9
+          "count": 24
         }
       ]
     },
@@ -201,12 +159,55 @@
       "condition": "used",
       "make": "mitsubishi",
       "model": "Eclipse Cross",
-      "count": 36,
-      "file": "inventory/used-mitsubishi-eclipse-cross.json",
+      "shard": "Lower Mainland",
+      "count": 23,
+      "file": "inventory/used-mitsubishi-eclipse-cross-lower-mainland.json",
       "models": [
         {
           "model": "Eclipse Cross",
-          "count": 36
+          "count": 23
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "Eclipse Cross",
+      "shard": "Okanagan",
+      "count": 6,
+      "file": "inventory/used-mitsubishi-eclipse-cross-okanagan.json",
+      "models": [
+        {
+          "model": "Eclipse Cross",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "Eclipse Cross",
+      "shard": "Vancouver Island",
+      "count": 5,
+      "file": "inventory/used-mitsubishi-eclipse-cross-vancouver-island.json",
+      "models": [
+        {
+          "model": "Eclipse Cross",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "Eclipse Cross",
+      "shard": "sin-region",
+      "count": 2,
+      "file": "inventory/used-mitsubishi-eclipse-cross-sin-region.json",
+      "models": [
+        {
+          "model": "Eclipse Cross",
+          "count": 2
         }
       ]
     },
@@ -277,6 +278,45 @@
         {
           "model": "Outlander PHEV",
           "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "OutlanderSE",
+      "count": 1,
+      "file": "inventory/used-mitsubishi-outlanderse.json",
+      "models": [
+        {
+          "model": "OutlanderSE",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "Outlander Plug-In Hybrid",
+      "count": 1,
+      "file": "inventory/used-mitsubishi-outlander-plug-in-hybrid.json",
+      "models": [
+        {
+          "model": "Outlander Plug-In Hybrid",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "RVRES 4dr Front-Wheel Drive",
+      "count": 1,
+      "file": "inventory/used-mitsubishi-rvres-4dr-front-wheel-drive.json",
+      "models": [
+        {
+          "model": "RVRES 4dr Front-Wheel Drive",
+          "count": 1
         }
       ]
     },
@@ -361,12 +401,51 @@
     {
       "condition": "used",
       "make": "mitsubishi",
+      "model": "RVRES",
+      "count": 2,
+      "file": "inventory/used-mitsubishi-rvres.json",
+      "models": [
+        {
+          "model": "RVRES",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "OutlanderSE 4dr S-AWC",
+      "count": 1,
+      "file": "inventory/used-mitsubishi-outlanderse-4dr-s-awc.json",
+      "models": [
+        {
+          "model": "OutlanderSE 4dr S-AWC",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
       "model": "Endeavor",
       "count": 1,
       "file": "inventory/used-mitsubishi-endeavor.json",
       "models": [
         {
           "model": "Endeavor",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "Eclipse CrossUNKNOWN",
+      "count": 1,
+      "file": "inventory/used-mitsubishi-eclipse-crossunknown.json",
+      "models": [
+        {
+          "model": "Eclipse CrossUNKNOWN",
           "count": 1
         }
       ]

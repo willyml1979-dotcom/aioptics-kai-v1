@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
   "condition": "new",
   "make": "mazda",
   "files": [
@@ -77,12 +77,27 @@
       "condition": "new",
       "make": "mazda",
       "model": "Mazda3",
-      "count": 37,
-      "file": "inventory/new-mazda-mazda3.json",
+      "shard": "Lower Mainland",
+      "count": 26,
+      "file": "inventory/new-mazda-mazda3-lower-mainland.json",
       "models": [
         {
           "model": "Mazda3",
-          "count": 37
+          "count": 26
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mazda",
+      "model": "Mazda3",
+      "shard": "Vancouver Island",
+      "count": 11,
+      "file": "inventory/new-mazda-mazda3-vancouver-island.json",
+      "models": [
+        {
+          "model": "Mazda3",
+          "count": 11
         }
       ]
     },

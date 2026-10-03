@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
-  "snapshot": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
+  "snapshot": "2026-10-03T00:36:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "north-shore-honda-2hgfe4f85sh005131",
@@ -19,6 +19,7 @@
       "price_cad": 31250.0,
       "price_note": null,
       "color": "Rallye Red",
+      "photo_url": "https://img.sm360.ca/images/inventory/pacific-honda/honda/civic-hybrid/2025/38931042/38931042_07287_b9816211dfbf01848bf7b954eb722eba.jpeg",
       "dealer_id": "north-shore-honda",
       "vin": "2HGFE4F85SH005131",
       "stock": "H126271",
@@ -31,6 +32,34 @@
       "city": "North Vancouver",
       "province": "BC",
       "dealer_name": "North Shore Honda"
+    },
+    {
+      "pub_id": "pacific-honda-2hgfe4f85sh005131",
+      "year": 2025,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "trim": "Sport eCVT",
+      "body_type": "sedan",
+      "drivetrain": "FWD",
+      "propulsion": "hybrid",
+      "propulsion_source": "stated",
+      "condition": "used",
+      "odometer_km": 12366,
+      "price_cad": 31250.0,
+      "price_note": null,
+      "color": "Rallye Red",
+      "photo_url": "https://img.sm360.ca/images/inventory/pacific-honda/honda/civic-hybrid/2025/38931042/38931042_07287_b9816211dfbf01848bf7b954eb722eba.jpeg",
+      "dealer_id": "pacific-honda",
+      "vin": "2HGFE4F85SH005131",
+      "stock": "H126271",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/honda/civic-hybrid/2025-honda-civic-hybrid-id38931042",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/honda/civic-hybrid/2025-honda-civic-hybrid-id38931042?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:32:42",
+      "snapshot": "2026-10-02T16:36:32",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-2hgfe4f85sh005131",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
   "condition": "new",
   "make": "gmc",
   "files": [
@@ -131,12 +131,12 @@
       "make": "gmc",
       "model": "Canyon",
       "shard": "part1",
-      "count": 36,
+      "count": 24,
       "file": "inventory/new-gmc-canyon-part1.json",
       "models": [
         {
           "model": "Canyon",
-          "count": 36
+          "count": 24
         }
       ]
     },
@@ -145,12 +145,26 @@
       "make": "gmc",
       "model": "Canyon",
       "shard": "part2",
-      "count": 36,
+      "count": 24,
       "file": "inventory/new-gmc-canyon-part2.json",
       "models": [
         {
           "model": "Canyon",
-          "count": 36
+          "count": 24
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Canyon",
+      "shard": "part3",
+      "count": 24,
+      "file": "inventory/new-gmc-canyon-part3.json",
+      "models": [
+        {
+          "model": "Canyon",
+          "count": 24
         }
       ]
     },
@@ -472,12 +486,12 @@
       "make": "gmc",
       "model": "Sierra 3500HD",
       "shard": "part1",
-      "count": 35,
+      "count": 29,
       "file": "inventory/new-gmc-sierra-3500hd-part1.json",
       "models": [
         {
           "model": "Sierra 3500HD",
-          "count": 35
+          "count": 29
         }
       ]
     },
@@ -486,12 +500,12 @@
       "make": "gmc",
       "model": "Sierra 3500HD",
       "shard": "part2",
-      "count": 35,
+      "count": 29,
       "file": "inventory/new-gmc-sierra-3500hd-part2.json",
       "models": [
         {
           "model": "Sierra 3500HD",
-          "count": 35
+          "count": 29
         }
       ]
     },
@@ -500,12 +514,12 @@
       "make": "gmc",
       "model": "Sierra 3500HD",
       "shard": "part3",
-      "count": 35,
+      "count": 29,
       "file": "inventory/new-gmc-sierra-3500hd-part3.json",
       "models": [
         {
           "model": "Sierra 3500HD",
-          "count": 35
+          "count": 29
         }
       ]
     },
@@ -514,12 +528,12 @@
       "make": "gmc",
       "model": "Sierra 3500HD",
       "shard": "part4",
-      "count": 35,
+      "count": 29,
       "file": "inventory/new-gmc-sierra-3500hd-part4.json",
       "models": [
         {
           "model": "Sierra 3500HD",
-          "count": 34
+          "count": 28
         },
         {
           "model": "Sierra 3500Hd",
@@ -532,12 +546,26 @@
       "make": "gmc",
       "model": "Sierra 3500HD",
       "shard": "part5",
-      "count": 34,
+      "count": 29,
       "file": "inventory/new-gmc-sierra-3500hd-part5.json",
       "models": [
         {
           "model": "Sierra 3500HD",
-          "count": 34
+          "count": 29
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Sierra 3500HD",
+      "shard": "part6",
+      "count": 29,
+      "file": "inventory/new-gmc-sierra-3500hd-part6.json",
+      "models": [
+        {
+          "model": "Sierra 3500HD",
+          "count": 29
         }
       ]
     },
@@ -584,12 +612,69 @@
       "condition": "new",
       "make": "gmc",
       "model": "Yukon",
-      "count": 37,
-      "file": "inventory/new-gmc-yukon.json",
+      "shard": "Lower Mainland",
+      "count": 16,
+      "file": "inventory/new-gmc-yukon-lower-mainland.json",
       "models": [
         {
           "model": "Yukon",
-          "count": 37
+          "count": 16
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Yukon",
+      "shard": "Norte/Cariboo",
+      "count": 4,
+      "file": "inventory/new-gmc-yukon-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Yukon",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Yukon",
+      "shard": "Okanagan",
+      "count": 3,
+      "file": "inventory/new-gmc-yukon-okanagan.json",
+      "models": [
+        {
+          "model": "Yukon",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Yukon",
+      "shard": "Vancouver Island",
+      "count": 13,
+      "file": "inventory/new-gmc-yukon-vancouver-island.json",
+      "models": [
+        {
+          "model": "Yukon",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Yukon",
+      "shard": "sin-region",
+      "count": 1,
+      "file": "inventory/new-gmc-yukon-sin-region.json",
+      "models": [
+        {
+          "model": "Yukon",
+          "count": 1
         }
       ]
     },
@@ -603,6 +688,19 @@
         {
           "model": "HUMMER EV",
           "count": 15
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Sierra 1500AT4",
+      "count": 1,
+      "file": "inventory/new-gmc-sierra-1500at4.json",
+      "models": [
+        {
+          "model": "Sierra 1500AT4",
+          "count": 1
         }
       ]
     },
@@ -648,12 +746,350 @@
     {
       "condition": "new",
       "make": "gmc",
+      "model": "TERRAINELEVATION 4DR ALL-WHEEL DRIVE (3SB)",
+      "count": 2,
+      "file": "inventory/new-gmc-terrainelevation-4dr-all-wheel-drive-3sb.json",
+      "models": [
+        {
+          "model": "TERRAINELEVATION 4DR ALL-WHEEL DRIVE (3SB)",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "ACADIAELEVATION 4DR ALL-WHEEL DRIVE (4SD)",
+      "count": 2,
+      "file": "inventory/new-gmc-acadiaelevation-4dr-all-wheel-drive-4sd.json",
+      "models": [
+        {
+          "model": "ACADIAELEVATION 4DR ALL-WHEEL DRIVE (4SD)",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
       "model": "Sierra 3500HD 2WD Regular Cab Long Box Pro",
       "count": 1,
       "file": "inventory/new-gmc-sierra-3500hd-2wd-regular-cab-long-box-pro.json",
       "models": [
         {
           "model": "Sierra 3500HD 2WD Regular Cab Long Box Pro",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "SIERRA 1500SLE 4X4 CREW CAB 6.6 FT. BOX (3SA)",
+      "count": 1,
+      "file": "inventory/new-gmc-sierra-1500sle-4x4-crew-cab-6-6-ft-box-3sa.json",
+      "models": [
+        {
+          "model": "SIERRA 1500SLE 4X4 CREW CAB 6.6 FT. BOX (3SA)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "SIERRA 1500PRO 4X4 CREW CAB 5.75 FT. BOX (1SA)",
+      "count": 1,
+      "file": "inventory/new-gmc-sierra-1500pro-4x4-crew-cab-5-75-ft-box-1sa.json",
+      "models": [
+        {
+          "model": "SIERRA 1500PRO 4X4 CREW CAB 5.75 FT. BOX (1SA)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "SIERRA 1500PRO 4X4 CREW CAB 6.6 FT. BOX (1SA)",
+      "count": 1,
+      "file": "inventory/new-gmc-sierra-1500pro-4x4-crew-cab-6-6-ft-box-1sa.json",
+      "models": [
+        {
+          "model": "SIERRA 1500PRO 4X4 CREW CAB 6.6 FT. BOX (1SA)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "SIERRA 2500HDPRO 4X4 CREW CAB 8 FT. BOX (PCI)",
+      "count": 1,
+      "file": "inventory/new-gmc-sierra-2500hdpro-4x4-crew-cab-8-ft-box-pci.json",
+      "models": [
+        {
+          "model": "SIERRA 2500HDPRO 4X4 CREW CAB 8 FT. BOX (PCI)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "SIERRA 1500SLE",
+      "count": 2,
+      "file": "inventory/new-gmc-sierra-1500sle.json",
+      "models": [
+        {
+          "model": "SIERRA 1500SLE",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "SIERRA 1500ELEVATION 4X4 CREW CAB 5.75 FT. BOX (3SB)",
+      "count": 2,
+      "file": "inventory/new-gmc-sierra-1500elevation-4x4-crew-cab-5-75-ft-box-3sb.json",
+      "models": [
+        {
+          "model": "SIERRA 1500ELEVATION 4X4 CREW CAB 5.75 FT. BOX (3SB)",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "SIERRA 1500ELEVATION 4X4 CREW CAB 5.75 FT. BOX (PDQ)",
+      "count": 1,
+      "file": "inventory/new-gmc-sierra-1500elevation-4x4-crew-cab-5-75-ft-box-pdq.json",
+      "models": [
+        {
+          "model": "SIERRA 1500ELEVATION 4X4 CREW CAB 5.75 FT. BOX (PDQ)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "SIERRA 1500ELEVATION",
+      "count": 1,
+      "file": "inventory/new-gmc-sierra-1500elevation.json",
+      "models": [
+        {
+          "model": "SIERRA 1500ELEVATION",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "SIERRA 3500HDSLE 4X4 DOUBLE CAB 8 FT. BOX SRW (PDU)",
+      "count": 1,
+      "file": "inventory/new-gmc-sierra-3500hdsle-4x4-double-cab-8-ft-box-srw-pdu.json",
+      "models": [
+        {
+          "model": "SIERRA 3500HDSLE 4X4 DOUBLE CAB 8 FT. BOX SRW (PDU)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "SIERRA 1500SLT 4X4 CREW CAB 5.75 FT. BOX (4SA)",
+      "count": 1,
+      "file": "inventory/new-gmc-sierra-1500slt-4x4-crew-cab-5-75-ft-box-4sa.json",
+      "models": [
+        {
+          "model": "SIERRA 1500SLT 4X4 CREW CAB 5.75 FT. BOX (4SA)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "SIERRA 1500SLT 4X4 CREW CAB 6.6 FT. BOX (4SA)",
+      "count": 1,
+      "file": "inventory/new-gmc-sierra-1500slt-4x4-crew-cab-6-6-ft-box-4sa.json",
+      "models": [
+        {
+          "model": "SIERRA 1500SLT 4X4 CREW CAB 6.6 FT. BOX (4SA)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "SIERRA 3500HDPRO 4X4 DOUBLE CAB 8 FT. BOX SRW (PCI)",
+      "count": 1,
+      "file": "inventory/new-gmc-sierra-3500hdpro-4x4-double-cab-8-ft-box-srw-pci.json",
+      "models": [
+        {
+          "model": "SIERRA 3500HDPRO 4X4 DOUBLE CAB 8 FT. BOX SRW (PCI)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "SIERRA 3500HDPRO 4X4 CREW CAB 6.75 FT. BOX SRW (PCI)",
+      "count": 1,
+      "file": "inventory/new-gmc-sierra-3500hdpro-4x4-crew-cab-6-75-ft-box-srw-pci.json",
+      "models": [
+        {
+          "model": "SIERRA 3500HDPRO 4X4 CREW CAB 6.75 FT. BOX SRW (PCI)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "SIERRA 3500HDSLT 4X4 CREW CAB 6.75 FT. BOX SRW (4SA)",
+      "count": 1,
+      "file": "inventory/new-gmc-sierra-3500hdslt-4x4-crew-cab-6-75-ft-box-srw-4sa.json",
+      "models": [
+        {
+          "model": "SIERRA 3500HDSLT 4X4 CREW CAB 6.75 FT. BOX SRW (4SA)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "SIERRA 3500HDSLE 4X4 CREW CAB 6.75 FT. BOX SRW (B59)",
+      "count": 3,
+      "file": "inventory/new-gmc-sierra-3500hdsle-4x4-crew-cab-6-75-ft-box-srw-b59.json",
+      "models": [
+        {
+          "model": "SIERRA 3500HDSLE 4X4 CREW CAB 6.75 FT. BOX SRW (B59)",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "SIERRA 3500HDSLE 4X4 CREW CAB 6.75 FT. BOX SRW (PDQ)",
+      "count": 1,
+      "file": "inventory/new-gmc-sierra-3500hdsle-4x4-crew-cab-6-75-ft-box-srw-pdq.json",
+      "models": [
+        {
+          "model": "SIERRA 3500HDSLE 4X4 CREW CAB 6.75 FT. BOX SRW (PDQ)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "SIERRA 3500HDSLT 4X4 CREW CAB 8 FT. BOX SRW (4SA)",
+      "count": 1,
+      "file": "inventory/new-gmc-sierra-3500hdslt-4x4-crew-cab-8-ft-box-srw-4sa.json",
+      "models": [
+        {
+          "model": "SIERRA 3500HDSLT 4X4 CREW CAB 8 FT. BOX SRW (4SA)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "YUKONDENALI 4DR 4X4 (5SA)",
+      "count": 1,
+      "file": "inventory/new-gmc-yukondenali-4dr-4x4-5sa.json",
+      "models": [
+        {
+          "model": "YUKONDENALI 4DR 4X4 (5SA)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "SIERRA 3500HDSLT 4X4 CREW CAB 6.75 FT. BOX SRW (PDB)",
+      "count": 1,
+      "file": "inventory/new-gmc-sierra-3500hdslt-4x4-crew-cab-6-75-ft-box-srw-pdb.json",
+      "models": [
+        {
+          "model": "SIERRA 3500HDSLT 4X4 CREW CAB 6.75 FT. BOX SRW (PDB)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "SIERRA 3500HDAT4 4X4 CREW CAB 6.75 FT. BOX SRW (PDG)",
+      "count": 2,
+      "file": "inventory/new-gmc-sierra-3500hdat4-4x4-crew-cab-6-75-ft-box-srw-pdg.json",
+      "models": [
+        {
+          "model": "SIERRA 3500HDAT4 4X4 CREW CAB 6.75 FT. BOX SRW (PDG)",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "SIERRA 3500HDDENALI 4X4 CREW CAB 6.75 FT. BOX SRW (5SA)",
+      "count": 2,
+      "file": "inventory/new-gmc-sierra-3500hddenali-4x4-crew-cab-6-75-ft-box-srw-5sa.json",
+      "models": [
+        {
+          "model": "SIERRA 3500HDDENALI 4X4 CREW CAB 6.75 FT. BOX SRW (5SA)",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "SIERRA 3500HDDENALI 4X4 CREW CAB 6.75 FT. BOX SRW (PEC)",
+      "count": 1,
+      "file": "inventory/new-gmc-sierra-3500hddenali-4x4-crew-cab-6-75-ft-box-srw-pec.json",
+      "models": [
+        {
+          "model": "SIERRA 3500HDDENALI 4X4 CREW CAB 6.75 FT. BOX SRW (PEC)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "SIERRA 3500HDDENALI ULTIMATE 4X4 CREW CAB 6.75 FT. BOX SRW (5SB)",
+      "count": 1,
+      "file": "inventory/new-gmc-sierra-3500hddenali-ultimate-4x4-crew-cab-6-75-ft-box-srw-5sb.json",
+      "models": [
+        {
+          "model": "SIERRA 3500HDDENALI ULTIMATE 4X4 CREW CAB 6.75 FT. BOX SRW (5SB)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "HUMMER EV PICKUP2X W/3VL ALL-WHEEL DRIVE (3VL)",
+      "count": 1,
+      "file": "inventory/new-gmc-hummer-ev-pickup2x-w-3vl-all-wheel-drive-3vl.json",
+      "models": [
+        {
+          "model": "HUMMER EV PICKUP2X W/3VL ALL-WHEEL DRIVE (3VL)",
           "count": 1
         }
       ]

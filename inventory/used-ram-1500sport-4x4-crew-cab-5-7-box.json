@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
-  "snapshot": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
+  "snapshot": "2026-10-03T00:36:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "sullivan-motor-products-nelson-ltd-1c6srfvp3sn588707",
@@ -26,6 +26,29 @@
       "city": "Nelson",
       "province": "BC",
       "dealer_name": "Sullivan Motor Products-Nelson Ltd"
+    },
+    {
+      "pub_id": "chilliwack-mitsubishi-1c6srfvt3mn518110",
+      "year": 2021,
+      "make": "Ram",
+      "model": "1500Sport 4x4 Crew Cab 5'7\" Box",
+      "drivetrain": "4WD",
+      "condition": "used",
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "Red",
+      "dealer_id": "chilliwack-mitsubishi",
+      "vin": "1C6SRFVT3MN518110",
+      "stock": "UU51811",
+      "listing_url": "https://www.chilliwackmitsubishi.ca/inventory/2021-ram-1500-sport-6HOx2j1HSZyBT83vhoV9twvdp",
+      "dealer_url": "https://www.chilliwackmitsubishi.ca/inventory/2021-ram-1500-sport-6HOx2j1HSZyBT83vhoV9twvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-27T01:19:57",
+      "snapshot": "2026-09-27T01:32:45",
+      "go_url": "https://carwhisper.ca/go/chilliwack-mitsubishi-1c6srfvt3mn518110",
+      "region": "Lower Mainland",
+      "city": "Chilliwack",
+      "province": "BC",
+      "dealer_name": "Chilliwack Mitsubishi"
     }
   ]
 }

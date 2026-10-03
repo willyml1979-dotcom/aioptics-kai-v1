@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
   "condition": "used",
   "make": "hyundai",
   "files": [
@@ -105,12 +105,12 @@
       "make": "hyundai",
       "model": "Santa Fe",
       "shard": "part1",
-      "count": 38,
+      "count": 29,
       "file": "inventory/used-hyundai-santa-fe-part1.json",
       "models": [
         {
           "model": "Santa Fe",
-          "count": 38
+          "count": 29
         }
       ]
     },
@@ -119,12 +119,12 @@
       "make": "hyundai",
       "model": "Santa Fe",
       "shard": "part2",
-      "count": 38,
+      "count": 29,
       "file": "inventory/used-hyundai-santa-fe-part2.json",
       "models": [
         {
           "model": "Santa Fe",
-          "count": 38
+          "count": 29
         }
       ]
     },
@@ -133,12 +133,26 @@
       "make": "hyundai",
       "model": "Santa Fe",
       "shard": "part3",
-      "count": 36,
+      "count": 29,
       "file": "inventory/used-hyundai-santa-fe-part3.json",
       "models": [
         {
           "model": "Santa Fe",
-          "count": 36
+          "count": 29
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Santa Fe",
+      "shard": "part4",
+      "count": 26,
+      "file": "inventory/used-hyundai-santa-fe-part4.json",
+      "models": [
+        {
+          "model": "Santa Fe",
+          "count": 26
         }
       ]
     },
@@ -217,12 +231,12 @@
       "make": "hyundai",
       "model": "Palisade",
       "shard": "sin-region",
-      "count": 10,
+      "count": 11,
       "file": "inventory/used-hyundai-palisade-sin-region.json",
       "models": [
         {
           "model": "Palisade",
-          "count": 10
+          "count": 11
         }
       ]
     },
@@ -231,12 +245,12 @@
       "make": "hyundai",
       "model": "Tucson",
       "shard": "part1",
-      "count": 31,
+      "count": 32,
       "file": "inventory/used-hyundai-tucson-part1.json",
       "models": [
         {
           "model": "Tucson",
-          "count": 31
+          "count": 32
         }
       ]
     },
@@ -245,7 +259,7 @@
       "make": "hyundai",
       "model": "Tucson",
       "shard": "part2",
-      "count": 31,
+      "count": 32,
       "file": "inventory/used-hyundai-tucson-part2.json",
       "models": [
         {
@@ -254,7 +268,7 @@
         },
         {
           "model": "Tucson",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -263,12 +277,12 @@
       "make": "hyundai",
       "model": "Tucson",
       "shard": "part3",
-      "count": 31,
+      "count": 32,
       "file": "inventory/used-hyundai-tucson-part3.json",
       "models": [
         {
           "model": "Tucson",
-          "count": 31
+          "count": 32
         }
       ]
     },
@@ -277,7 +291,7 @@
       "make": "hyundai",
       "model": "Tucson",
       "shard": "part4",
-      "count": 31,
+      "count": 32,
       "file": "inventory/used-hyundai-tucson-part4.json",
       "models": [
         {
@@ -286,7 +300,7 @@
         },
         {
           "model": "Tucson",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -295,12 +309,12 @@
       "make": "hyundai",
       "model": "Tucson",
       "shard": "part5",
-      "count": 31,
+      "count": 28,
       "file": "inventory/used-hyundai-tucson-part5.json",
       "models": [
         {
           "model": "Tucson",
-          "count": 31
+          "count": 28
         }
       ]
     },
@@ -342,12 +356,12 @@
       "condition": "used",
       "make": "hyundai",
       "model": "Santa Fe Hybrid",
-      "count": 22,
+      "count": 20,
       "file": "inventory/used-hyundai-santa-fe-hybrid.json",
       "models": [
         {
           "model": "Santa Fe Hybrid",
-          "count": 22
+          "count": 20
         }
       ]
     },
@@ -356,12 +370,12 @@
       "make": "hyundai",
       "model": "Elantra",
       "shard": "part1",
-      "count": 39,
+      "count": 29,
       "file": "inventory/used-hyundai-elantra-part1.json",
       "models": [
         {
           "model": "Elantra",
-          "count": 39
+          "count": 29
         }
       ]
     },
@@ -370,12 +384,12 @@
       "make": "hyundai",
       "model": "Elantra",
       "shard": "part2",
-      "count": 39,
+      "count": 29,
       "file": "inventory/used-hyundai-elantra-part2.json",
       "models": [
         {
           "model": "Elantra",
-          "count": 39
+          "count": 29
         }
       ]
     },
@@ -384,12 +398,26 @@
       "make": "hyundai",
       "model": "Elantra",
       "shard": "part3",
-      "count": 38,
+      "count": 29,
       "file": "inventory/used-hyundai-elantra-part3.json",
       "models": [
         {
           "model": "Elantra",
-          "count": 38
+          "count": 29
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Elantra",
+      "shard": "part4",
+      "count": 29,
+      "file": "inventory/used-hyundai-elantra-part4.json",
+      "models": [
+        {
+          "model": "Elantra",
+          "count": 29
         }
       ]
     },
@@ -414,12 +442,12 @@
       "condition": "used",
       "make": "hyundai",
       "model": "IONIQ Electric",
-      "count": 4,
+      "count": 3,
       "file": "inventory/used-hyundai-ioniq-electric.json",
       "models": [
         {
           "model": "IONIQ Electric",
-          "count": 4
+          "count": 3
         }
       ]
     },
@@ -441,12 +469,12 @@
       "make": "hyundai",
       "model": "Kona",
       "shard": "Lower Mainland",
-      "count": 26,
+      "count": 27,
       "file": "inventory/used-hyundai-kona-lower-mainland.json",
       "models": [
         {
           "model": "Kona",
-          "count": 26
+          "count": 27
         }
       ]
     },
@@ -487,12 +515,12 @@
       "make": "hyundai",
       "model": "Kona",
       "shard": "Thompson-Okanagan",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-hyundai-kona-thompson-okanagan.json",
       "models": [
         {
           "model": "Kona",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -515,12 +543,12 @@
       "make": "hyundai",
       "model": "Kona",
       "shard": "sin-region",
-      "count": 9,
+      "count": 7,
       "file": "inventory/used-hyundai-kona-sin-region.json",
       "models": [
         {
           "model": "Kona",
-          "count": 9
+          "count": 7
         }
       ]
     },
@@ -542,12 +570,12 @@
       "make": "hyundai",
       "model": "Venue",
       "shard": "Lower Mainland",
-      "count": 22,
+      "count": 23,
       "file": "inventory/used-hyundai-venue-lower-mainland.json",
       "models": [
         {
           "model": "Venue",
-          "count": 22
+          "count": 23
         }
       ]
     },
@@ -612,12 +640,12 @@
       "make": "hyundai",
       "model": "Venue",
       "shard": "sin-region",
-      "count": 6,
+      "count": 7,
       "file": "inventory/used-hyundai-venue-sin-region.json",
       "models": [
         {
           "model": "Venue",
-          "count": 6
+          "count": 7
         }
       ]
     },
@@ -780,6 +808,45 @@
     {
       "condition": "used",
       "make": "hyundai",
+      "model": "ElantraGLS",
+      "count": 1,
+      "file": "inventory/used-hyundai-elantragls.json",
+      "models": [
+        {
+          "model": "ElantraGLS",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Santa FeEssential",
+      "count": 1,
+      "file": "inventory/used-hyundai-santa-feessential.json",
+      "models": [
+        {
+          "model": "Santa FeEssential",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Santa FeXRT 4dr All-Wheel Drive",
+      "count": 1,
+      "file": "inventory/used-hyundai-santa-fexrt-4dr-all-wheel-drive.json",
+      "models": [
+        {
+          "model": "Santa FeXRT 4dr All-Wheel Drive",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
       "model": "IONIQ 5 Preferred RWD",
       "count": 1,
       "file": "inventory/used-hyundai-ioniq-5-preferred-rwd.json",
@@ -865,6 +932,32 @@
         {
           "model": "Santa Fe XL",
           "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "ElantraN Line 4dr",
+      "count": 1,
+      "file": "inventory/used-hyundai-elantran-line-4dr.json",
+      "models": [
+        {
+          "model": "ElantraN Line 4dr",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "PalisadeLuxury 8 Passenger 4dr All-Wheel Drive",
+      "count": 1,
+      "file": "inventory/used-hyundai-palisadeluxury-8-passenger-4dr-all-wheel-drive.json",
+      "models": [
+        {
+          "model": "PalisadeLuxury 8 Passenger 4dr All-Wheel Drive",
+          "count": 1
         }
       ]
     },
@@ -968,6 +1061,19 @@
       "models": [
         {
           "model": "Equus",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Santa FeXRT",
+      "count": 1,
+      "file": "inventory/used-hyundai-santa-fexrt.json",
+      "models": [
+        {
+          "model": "Santa FeXRT",
           "count": 1
         }
       ]

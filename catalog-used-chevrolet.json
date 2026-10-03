@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
   "condition": "used",
   "make": "chevrolet",
   "files": [
@@ -105,12 +105,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Traverse",
-      "count": 29,
+      "count": 31,
       "file": "inventory/used-chevrolet-traverse.json",
       "models": [
         {
           "model": "Traverse",
-          "count": 29
+          "count": 31
         }
       ]
     },
@@ -154,12 +154,26 @@
       "make": "chevrolet",
       "model": "Trax",
       "shard": "Lower Mainland",
-      "count": 15,
+      "count": 16,
       "file": "inventory/used-chevrolet-trax-lower-mainland.json",
       "models": [
         {
           "model": "Trax",
-          "count": 15
+          "count": 16
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Trax",
+      "shard": "Norte/Cariboo",
+      "count": 1,
+      "file": "inventory/used-chevrolet-trax-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Trax",
+          "count": 1
         }
       ]
     },
@@ -210,12 +224,12 @@
       "make": "chevrolet",
       "model": "Trax",
       "shard": "sin-region",
-      "count": 5,
+      "count": 6,
       "file": "inventory/used-chevrolet-trax-sin-region.json",
       "models": [
         {
           "model": "Trax",
-          "count": 5
+          "count": 6
         }
       ]
     },
@@ -236,12 +250,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Silverado 3500HD",
-      "count": 16,
+      "count": 17,
       "file": "inventory/used-chevrolet-silverado-3500hd.json",
       "models": [
         {
           "model": "Silverado 3500HD",
-          "count": 16
+          "count": 17
         }
       ]
     },
@@ -275,12 +289,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Cruze",
-      "count": 15,
+      "count": 16,
       "file": "inventory/used-chevrolet-cruze.json",
       "models": [
         {
           "model": "Cruze",
-          "count": 15
+          "count": 16
         }
       ]
     },
@@ -385,37 +399,9 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Silverado 1500",
-      "shard": "Lower Mainland",
-      "count": 16,
-      "file": "inventory/used-chevrolet-silverado-1500-lower-mainland.json",
-      "models": [
-        {
-          "model": "Silverado 1500",
-          "count": 16
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chevrolet",
-      "model": "Silverado 1500",
-      "shard": "Norte/Cariboo",
-      "count": 6,
-      "file": "inventory/used-chevrolet-silverado-1500-norte-cariboo.json",
-      "models": [
-        {
-          "model": "Silverado 1500",
-          "count": 6
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chevrolet",
-      "model": "Silverado 1500",
-      "shard": "Okanagan",
-      "count": 11,
-      "file": "inventory/used-chevrolet-silverado-1500-okanagan.json",
+      "shard": "part1",
+      "count": 31,
+      "file": "inventory/used-chevrolet-silverado-1500-part1.json",
       "models": [
         {
           "model": "SILVERADO 1500",
@@ -423,7 +409,7 @@
         },
         {
           "model": "Silverado 1500",
-          "count": 10
+          "count": 30
         }
       ]
     },
@@ -431,13 +417,13 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Silverado 1500",
-      "shard": "Thompson-Okanagan",
-      "count": 13,
-      "file": "inventory/used-chevrolet-silverado-1500-thompson-okanagan.json",
+      "shard": "part2",
+      "count": 31,
+      "file": "inventory/used-chevrolet-silverado-1500-part2.json",
       "models": [
         {
           "model": "Silverado 1500",
-          "count": 13
+          "count": 31
         }
       ]
     },
@@ -445,27 +431,13 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Silverado 1500",
-      "shard": "Vancouver Island",
-      "count": 5,
-      "file": "inventory/used-chevrolet-silverado-1500-vancouver-island.json",
+      "shard": "part3",
+      "count": 29,
+      "file": "inventory/used-chevrolet-silverado-1500-part3.json",
       "models": [
         {
           "model": "Silverado 1500",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chevrolet",
-      "model": "Silverado 1500",
-      "shard": "sin-region",
-      "count": 35,
-      "file": "inventory/used-chevrolet-silverado-1500-sin-region.json",
-      "models": [
-        {
-          "model": "Silverado 1500",
-          "count": 35
+          "count": 29
         }
       ]
     },
@@ -512,12 +484,69 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Silverado 1500 Crew Cab",
-      "count": 35,
-      "file": "inventory/used-chevrolet-silverado-1500-crew-cab.json",
+      "shard": "Lower Mainland",
+      "count": 9,
+      "file": "inventory/used-chevrolet-silverado-1500-crew-cab-lower-mainland.json",
       "models": [
         {
           "model": "Silverado 1500 Crew Cab",
-          "count": 35
+          "count": 9
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Silverado 1500 Crew Cab",
+      "shard": "Norte/Cariboo",
+      "count": 2,
+      "file": "inventory/used-chevrolet-silverado-1500-crew-cab-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Silverado 1500 Crew Cab",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Silverado 1500 Crew Cab",
+      "shard": "Okanagan",
+      "count": 15,
+      "file": "inventory/used-chevrolet-silverado-1500-crew-cab-okanagan.json",
+      "models": [
+        {
+          "model": "Silverado 1500 Crew Cab",
+          "count": 15
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Silverado 1500 Crew Cab",
+      "shard": "Thompson-Okanagan",
+      "count": 2,
+      "file": "inventory/used-chevrolet-silverado-1500-crew-cab-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "Silverado 1500 Crew Cab",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Silverado 1500 Crew Cab",
+      "shard": "Vancouver Island",
+      "count": 7,
+      "file": "inventory/used-chevrolet-silverado-1500-crew-cab-vancouver-island.json",
+      "models": [
+        {
+          "model": "Silverado 1500 Crew Cab",
+          "count": 7
         }
       ]
     },
@@ -525,12 +554,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Corvette",
-      "count": 20,
+      "count": 19,
       "file": "inventory/used-chevrolet-corvette.json",
       "models": [
         {
           "model": "Corvette",
-          "count": 20
+          "count": 19
         }
       ]
     },
@@ -616,12 +645,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Tahoe",
-      "count": 12,
+      "count": 13,
       "file": "inventory/used-chevrolet-tahoe.json",
       "models": [
         {
           "model": "Tahoe",
-          "count": 12
+          "count": 13
         }
       ]
     },
@@ -641,12 +670,51 @@
     {
       "condition": "used",
       "make": "chevrolet",
+      "model": "CorvetteZR1",
+      "count": 1,
+      "file": "inventory/used-chevrolet-corvettezr1.json",
+      "models": [
+        {
+          "model": "CorvetteZR1",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Silverado 1500Custom Trail Boss",
+      "count": 1,
+      "file": "inventory/used-chevrolet-silverado-1500custom-trail-boss.json",
+      "models": [
+        {
+          "model": "Silverado 1500Custom Trail Boss",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
       "model": "Tahoe 4WD 4dr Premier",
       "count": 1,
       "file": "inventory/used-chevrolet-tahoe-4wd-4dr-premier.json",
       "models": [
         {
           "model": "Tahoe 4WD 4dr Premier",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Bolt EVPremier",
+      "count": 1,
+      "file": "inventory/used-chevrolet-bolt-evpremier.json",
+      "models": [
+        {
+          "model": "Bolt EVPremier",
           "count": 1
         }
       ]
@@ -681,12 +749,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Silverado 1500 LTD",
-      "count": 6,
+      "count": 7,
       "file": "inventory/used-chevrolet-silverado-1500-ltd.json",
       "models": [
         {
           "model": "Silverado 1500 LTD",
-          "count": 6
+          "count": 7
         }
       ]
     },
@@ -694,9 +762,13 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Silverado 2500HD",
-      "count": 2,
+      "count": 3,
       "file": "inventory/used-chevrolet-silverado-2500hd.json",
       "models": [
+        {
+          "model": "SILVERADO 2500HD",
+          "count": 1
+        },
         {
           "model": "Silverado 2500HD",
           "count": 2
@@ -712,6 +784,84 @@
       "models": [
         {
           "model": "Silverado 1500 Custom Trail Boss",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Silverado",
+      "count": 1,
+      "file": "inventory/used-chevrolet-silverado.json",
+      "models": [
+        {
+          "model": "Silverado",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Silverado 1500LTZ",
+      "count": 2,
+      "file": "inventory/used-chevrolet-silverado-1500ltz.json",
+      "models": [
+        {
+          "model": "Silverado 1500LTZ",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "TraxLT",
+      "count": 1,
+      "file": "inventory/used-chevrolet-traxlt.json",
+      "models": [
+        {
+          "model": "TraxLT",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "BlazerRS",
+      "count": 1,
+      "file": "inventory/used-chevrolet-blazerrs.json",
+      "models": [
+        {
+          "model": "BlazerRS",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "EquinoxAWD LT",
+      "count": 1,
+      "file": "inventory/used-chevrolet-equinoxawd-lt.json",
+      "models": [
+        {
+          "model": "EquinoxAWD LT",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Spark1LT",
+      "count": 1,
+      "file": "inventory/used-chevrolet-spark1lt.json",
+      "models": [
+        {
+          "model": "Spark1LT",
           "count": 1
         }
       ]
@@ -785,12 +935,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Silverado 2500",
-      "count": 10,
+      "count": 12,
       "file": "inventory/used-chevrolet-silverado-2500.json",
       "models": [
         {
           "model": "Silverado 2500",
-          "count": 10
+          "count": 12
         }
       ]
     },
@@ -804,6 +954,84 @@
         {
           "model": "Silverado 3500 Crew Cab",
           "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Silverado 3500HDHigh Country",
+      "count": 1,
+      "file": "inventory/used-chevrolet-silverado-3500hdhigh-country.json",
+      "models": [
+        {
+          "model": "Silverado 3500HDHigh Country",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "TraverseRS",
+      "count": 1,
+      "file": "inventory/used-chevrolet-traversers.json",
+      "models": [
+        {
+          "model": "TraverseRS",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Equinox EVRS",
+      "count": 1,
+      "file": "inventory/used-chevrolet-equinox-evrs.json",
+      "models": [
+        {
+          "model": "Equinox EVRS",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "TrailBlazerLT",
+      "count": 1,
+      "file": "inventory/used-chevrolet-trailblazerlt.json",
+      "models": [
+        {
+          "model": "TrailBlazerLT",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Silverado 1500RST",
+      "count": 1,
+      "file": "inventory/used-chevrolet-silverado-1500rst.json",
+      "models": [
+        {
+          "model": "Silverado 1500RST",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "TrailBlazerLT 4dr All-Wheel Drive",
+      "count": 1,
+      "file": "inventory/used-chevrolet-trailblazerlt-4dr-all-wheel-drive.json",
+      "models": [
+        {
+          "model": "TrailBlazerLT 4dr All-Wheel Drive",
+          "count": 1
         }
       ]
     },
@@ -843,6 +1071,32 @@
         {
           "model": "Silverado 3500",
           "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "TraverseLS",
+      "count": 1,
+      "file": "inventory/used-chevrolet-traversels.json",
+      "models": [
+        {
+          "model": "TraverseLS",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Bolt EV1LT",
+      "count": 1,
+      "file": "inventory/used-chevrolet-bolt-ev1lt.json",
+      "models": [
+        {
+          "model": "Bolt EV1LT",
+          "count": 1
         }
       ]
     },
@@ -920,6 +1174,487 @@
       "models": [
         {
           "model": "Express Passenger",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "SuburbanLT",
+      "count": 1,
+      "file": "inventory/used-chevrolet-suburbanlt.json",
+      "models": [
+        {
+          "model": "SuburbanLT",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "TraverseLT Cloth",
+      "count": 1,
+      "file": "inventory/used-chevrolet-traverselt-cloth.json",
+      "models": [
+        {
+          "model": "TraverseLT Cloth",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "MalibuLT",
+      "count": 1,
+      "file": "inventory/used-chevrolet-malibult.json",
+      "models": [
+        {
+          "model": "MalibuLT",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "CorvetteStingray w/3LT 2dr Convertible",
+      "count": 1,
+      "file": "inventory/used-chevrolet-corvettestingray-w-3lt-2dr-convertible.json",
+      "models": [
+        {
+          "model": "CorvetteStingray w/3LT 2dr Convertible",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "EquinoxLS w/1LS Front-Wheel Drive",
+      "count": 1,
+      "file": "inventory/used-chevrolet-equinoxls-w-1ls-front-wheel-drive.json",
+      "models": [
+        {
+          "model": "EquinoxLS w/1LS Front-Wheel Drive",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Malibu1LT 4dr",
+      "count": 1,
+      "file": "inventory/used-chevrolet-malibu1lt-4dr.json",
+      "models": [
+        {
+          "model": "Malibu1LT 4dr",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Silverado 3500HDLT 4x4 Crew Cab 6.75 ft. box SRW",
+      "count": 1,
+      "file": "inventory/used-chevrolet-silverado-3500hdlt-4x4-crew-cab-6-75-ft-box-srw.json",
+      "models": [
+        {
+          "model": "Silverado 3500HDLT 4x4 Crew Cab 6.75 ft. box SRW",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "TrailBlazerLT Front-Wheel Drive",
+      "count": 2,
+      "file": "inventory/used-chevrolet-trailblazerlt-front-wheel-drive.json",
+      "models": [
+        {
+          "model": "TrailBlazerLT Front-Wheel Drive",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Silverado 1500LT 4x4 Crew Cab 5.75 ft. box",
+      "count": 1,
+      "file": "inventory/used-chevrolet-silverado-1500lt-4x4-crew-cab-5-75-ft-box.json",
+      "models": [
+        {
+          "model": "Silverado 1500LT 4x4 Crew Cab 5.75 ft. box",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Silverado 3500HDHigh Country 4x4 Crew Cab 6.75 ft. box SRW",
+      "count": 3,
+      "file": "inventory/used-chevrolet-silverado-3500hdhigh-country-4x4-crew-cab-6-75-ft-box-srw.json",
+      "models": [
+        {
+          "model": "Silverado 3500HDHigh Country 4x4 Crew Cab 6.75 ft. box SRW",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Silverado 3500HDLTZ 4x4 Crew Cab 6.75 ft. box SRW",
+      "count": 1,
+      "file": "inventory/used-chevrolet-silverado-3500hdltz-4x4-crew-cab-6-75-ft-box-srw.json",
+      "models": [
+        {
+          "model": "Silverado 3500HDLTZ 4x4 Crew Cab 6.75 ft. box SRW",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Express 3500LT Rear-Wheel Drive Extended Passenger",
+      "count": 1,
+      "file": "inventory/used-chevrolet-express-3500lt-rear-wheel-drive-extended-passenger.json",
+      "models": [
+        {
+          "model": "Express 3500LT Rear-Wheel Drive Extended Passenger",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Silverado 2500HDZR2 4x4 Crew Cab 6.75 ft. box",
+      "count": 1,
+      "file": "inventory/used-chevrolet-silverado-2500hdzr2-4x4-crew-cab-6-75-ft-box.json",
+      "models": [
+        {
+          "model": "Silverado 2500HDZR2 4x4 Crew Cab 6.75 ft. box",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Corvette2dr",
+      "count": 1,
+      "file": "inventory/used-chevrolet-corvette2dr.json",
+      "models": [
+        {
+          "model": "Corvette2dr",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Silverado 1500LS 4x4 Classic Extended Cab 6.5 ft. box",
+      "count": 1,
+      "file": "inventory/used-chevrolet-silverado-1500ls-4x4-classic-extended-cab-6-5-ft-box.json",
+      "models": [
+        {
+          "model": "Silverado 1500LS 4x4 Classic Extended Cab 6.5 ft. box",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Silverado 2500HDLTZ 4x4 Crew Cab 6.6 ft. box",
+      "count": 1,
+      "file": "inventory/used-chevrolet-silverado-2500hdltz-4x4-crew-cab-6-6-ft-box.json",
+      "models": [
+        {
+          "model": "Silverado 2500HDLTZ 4x4 Crew Cab 6.6 ft. box",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Spark2LT Manual 4dr",
+      "count": 1,
+      "file": "inventory/used-chevrolet-spark2lt-manual-4dr.json",
+      "models": [
+        {
+          "model": "Spark2LT Manual 4dr",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "TahoeLT 4x4",
+      "count": 2,
+      "file": "inventory/used-chevrolet-tahoelt-4x4.json",
+      "models": [
+        {
+          "model": "TahoeLT 4x4",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Silverado 2500HDLTZ 4x4 Crew Cab 8 ft. box",
+      "count": 1,
+      "file": "inventory/used-chevrolet-silverado-2500hdltz-4x4-crew-cab-8-ft-box.json",
+      "models": [
+        {
+          "model": "Silverado 2500HDLTZ 4x4 Crew Cab 8 ft. box",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Silverado 15001LT LT 4x4 Crew Cab 5.75 ft. box",
+      "count": 1,
+      "file": "inventory/used-chevrolet-silverado-15001lt-lt-4x4-crew-cab-5-75-ft-box.json",
+      "models": [
+        {
+          "model": "Silverado 15001LT LT 4x4 Crew Cab 5.75 ft. box",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Silverado 15001LT LT 4x4 Crew Cab 6.5 ft. box",
+      "count": 1,
+      "file": "inventory/used-chevrolet-silverado-15001lt-lt-4x4-crew-cab-6-5-ft-box.json",
+      "models": [
+        {
+          "model": "Silverado 15001LT LT 4x4 Crew Cab 6.5 ft. box",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "EquinoxLT Front-Wheel Drive",
+      "count": 1,
+      "file": "inventory/used-chevrolet-equinoxlt-front-wheel-drive.json",
+      "models": [
+        {
+          "model": "EquinoxLT Front-Wheel Drive",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Silverado 3500HDLT 4x4 Crew Cab 8 ft. box SRW",
+      "count": 3,
+      "file": "inventory/used-chevrolet-silverado-3500hdlt-4x4-crew-cab-8-ft-box-srw.json",
+      "models": [
+        {
+          "model": "Silverado 3500HDLT 4x4 Crew Cab 8 ft. box SRW",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Impala1LT LT 4dr",
+      "count": 1,
+      "file": "inventory/used-chevrolet-impala1lt-lt-4dr.json",
+      "models": [
+        {
+          "model": "Impala1LT LT 4dr",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Express Cutaway 45004500 Van Chassis DRW",
+      "count": 1,
+      "file": "inventory/used-chevrolet-express-cutaway-45004500-van-chassis-drw.json",
+      "models": [
+        {
+          "model": "Express Cutaway 45004500 Van Chassis DRW",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "MalibuLT 4dr",
+      "count": 1,
+      "file": "inventory/used-chevrolet-malibult-4dr.json",
+      "models": [
+        {
+          "model": "MalibuLT 4dr",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Silverado 1500High Country 4x4 Crew Cab 6.6 ft. box",
+      "count": 2,
+      "file": "inventory/used-chevrolet-silverado-1500high-country-4x4-crew-cab-6-6-ft-box.json",
+      "models": [
+        {
+          "model": "Silverado 1500High Country 4x4 Crew Cab 6.6 ft. box",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "TahoePremier 4x4",
+      "count": 2,
+      "file": "inventory/used-chevrolet-tahoepremier-4x4.json",
+      "models": [
+        {
+          "model": "TahoePremier 4x4",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "EquinoxLT w/2LT All-Wheel Drive",
+      "count": 1,
+      "file": "inventory/used-chevrolet-equinoxlt-w-2lt-all-wheel-drive.json",
+      "models": [
+        {
+          "model": "EquinoxLT w/2LT All-Wheel Drive",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "ColoradoZ71 4x4 Crew Cab 6 ft. box",
+      "count": 1,
+      "file": "inventory/used-chevrolet-coloradoz71-4x4-crew-cab-6-ft-box.json",
+      "models": [
+        {
+          "model": "ColoradoZ71 4x4 Crew Cab 6 ft. box",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "EquinoxLT w/1LT All-Wheel Drive",
+      "count": 1,
+      "file": "inventory/used-chevrolet-equinoxlt-w-1lt-all-wheel-drive.json",
+      "models": [
+        {
+          "model": "EquinoxLT w/1LT All-Wheel Drive",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "EquinoxPremier w/1LZ All-Wheel Drive",
+      "count": 1,
+      "file": "inventory/used-chevrolet-equinoxpremier-w-1lz-all-wheel-drive.json",
+      "models": [
+        {
+          "model": "EquinoxPremier w/1LZ All-Wheel Drive",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Malibu1LS LS w/ 4dr",
+      "count": 1,
+      "file": "inventory/used-chevrolet-malibu1ls-ls-w-4dr.json",
+      "models": [
+        {
+          "model": "Malibu1LS LS w/ 4dr",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Silverado 1500High Country 4x4 Crew Cab 5.75 ft. box",
+      "count": 3,
+      "file": "inventory/used-chevrolet-silverado-1500high-country-4x4-crew-cab-5-75-ft-box.json",
+      "models": [
+        {
+          "model": "Silverado 1500High Country 4x4 Crew Cab 5.75 ft. box",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "ColoradoZR2 4x4 Crew Cab 5 ft. box",
+      "count": 1,
+      "file": "inventory/used-chevrolet-coloradozr2-4x4-crew-cab-5-ft-box.json",
+      "models": [
+        {
+          "model": "ColoradoZR2 4x4 Crew Cab 5 ft. box",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "TahoeRST 4x4",
+      "count": 1,
+      "file": "inventory/used-chevrolet-tahoerst-4x4.json",
+      "models": [
+        {
+          "model": "TahoeRST 4x4",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "ColoradoWT 4x4 Crew Cab 5 ft. box",
+      "count": 1,
+      "file": "inventory/used-chevrolet-coloradowt-4x4-crew-cab-5-ft-box.json",
+      "models": [
+        {
+          "model": "ColoradoWT 4x4 Crew Cab 5 ft. box",
           "count": 1
         }
       ]

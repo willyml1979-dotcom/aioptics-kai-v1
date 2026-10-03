@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
   "condition": "used",
   "make": "honda",
   "files": [
@@ -21,12 +21,12 @@
       "make": "honda",
       "model": "Civic",
       "shard": "part1",
-      "count": 37,
+      "count": 30,
       "file": "inventory/used-honda-civic-part1.json",
       "models": [
         {
           "model": "Civic",
-          "count": 37
+          "count": 30
         }
       ]
     },
@@ -35,12 +35,12 @@
       "make": "honda",
       "model": "Civic",
       "shard": "part2",
-      "count": 37,
+      "count": 30,
       "file": "inventory/used-honda-civic-part2.json",
       "models": [
         {
           "model": "Civic",
-          "count": 37
+          "count": 30
         }
       ]
     },
@@ -49,12 +49,12 @@
       "make": "honda",
       "model": "Civic",
       "shard": "part3",
-      "count": 37,
+      "count": 30,
       "file": "inventory/used-honda-civic-part3.json",
       "models": [
         {
           "model": "Civic",
-          "count": 37
+          "count": 30
         }
       ]
     },
@@ -63,16 +63,34 @@
       "make": "honda",
       "model": "Civic",
       "shard": "part4",
-      "count": 34,
+      "count": 30,
       "file": "inventory/used-honda-civic-part4.json",
       "models": [
         {
           "model": "CIVIC",
-          "count": 3
+          "count": 1
         },
         {
           "model": "Civic",
-          "count": 31
+          "count": 29
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
+      "model": "Civic",
+      "shard": "part5",
+      "count": 28,
+      "file": "inventory/used-honda-civic-part5.json",
+      "models": [
+        {
+          "model": "CIVIC",
+          "count": 2
+        },
+        {
+          "model": "Civic",
+          "count": 26
         }
       ]
     },
@@ -81,12 +99,12 @@
       "make": "honda",
       "model": "CR-V",
       "shard": "part1",
-      "count": 36,
+      "count": 28,
       "file": "inventory/used-honda-cr-v-part1.json",
       "models": [
         {
           "model": "CR-V",
-          "count": 36
+          "count": 28
         }
       ]
     },
@@ -95,12 +113,12 @@
       "make": "honda",
       "model": "CR-V",
       "shard": "part2",
-      "count": 36,
+      "count": 28,
       "file": "inventory/used-honda-cr-v-part2.json",
       "models": [
         {
           "model": "CR-V",
-          "count": 36
+          "count": 28
         }
       ]
     },
@@ -109,12 +127,26 @@
       "make": "honda",
       "model": "CR-V",
       "shard": "part3",
-      "count": 36,
+      "count": 28,
       "file": "inventory/used-honda-cr-v-part3.json",
       "models": [
         {
           "model": "CR-V",
-          "count": 36
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
+      "model": "CR-V",
+      "shard": "part4",
+      "count": 25,
+      "file": "inventory/used-honda-cr-v-part4.json",
+      "models": [
+        {
+          "model": "CR-V",
+          "count": 25
         }
       ]
     },
@@ -137,12 +169,12 @@
       "make": "honda",
       "model": "CR-V Hybrid",
       "shard": "Norte/Cariboo",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-honda-cr-v-hybrid-norte-cariboo.json",
       "models": [
         {
           "model": "CR-V Hybrid",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -219,12 +251,12 @@
       "condition": "used",
       "make": "honda",
       "model": "Odyssey",
-      "count": 26,
+      "count": 25,
       "file": "inventory/used-honda-odyssey.json",
       "models": [
         {
           "model": "Odyssey",
-          "count": 26
+          "count": 25
         }
       ]
     },
@@ -245,12 +277,12 @@
       "condition": "used",
       "make": "honda",
       "model": "Accord",
-      "count": 25,
+      "count": 24,
       "file": "inventory/used-honda-accord.json",
       "models": [
         {
           "model": "Accord",
-          "count": 25
+          "count": 24
         }
       ]
     },
@@ -284,12 +316,12 @@
       "condition": "used",
       "make": "honda",
       "model": "Ridgeline",
-      "count": 21,
+      "count": 22,
       "file": "inventory/used-honda-ridgeline.json",
       "models": [
         {
           "model": "Ridgeline",
-          "count": 21
+          "count": 22
         }
       ]
     },
@@ -336,12 +368,12 @@
       "condition": "used",
       "make": "honda",
       "model": "Civic Hybrid",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-honda-civic-hybrid.json",
       "models": [
         {
           "model": "Civic Hybrid",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -413,6 +445,19 @@
     {
       "condition": "used",
       "make": "honda",
+      "model": "CivicLX (CVT) 4dr",
+      "count": 1,
+      "file": "inventory/used-honda-civiclx-cvt-4dr.json",
+      "models": [
+        {
+          "model": "CivicLX (CVT) 4dr",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
       "model": "Pilot Touring 8-Passenger AWD",
       "count": 1,
       "file": "inventory/used-honda-pilot-touring-8-passenger-awd.json",
@@ -465,6 +510,123 @@
     {
       "condition": "used",
       "make": "honda",
+      "model": "Civic Hybrid Sport eCVT",
+      "count": 4,
+      "file": "inventory/used-honda-civic-hybrid-sport-ecvt.json",
+      "models": [
+        {
+          "model": "Civic Hybrid Sport eCVT",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
+      "model": "CR-V Sport AWD",
+      "count": 3,
+      "file": "inventory/used-honda-cr-v-sport-awd.json",
+      "models": [
+        {
+          "model": "CR-V Sport AWD",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
+      "model": "Odyssey EX-L Auto",
+      "count": 1,
+      "file": "inventory/used-honda-odyssey-ex-l-auto.json",
+      "models": [
+        {
+          "model": "Odyssey EX-L Auto",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
+      "model": "Civic Sport CVT",
+      "count": 2,
+      "file": "inventory/used-honda-civic-sport-cvt.json",
+      "models": [
+        {
+          "model": "Civic Sport CVT",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
+      "model": "CR-V Hybrid EX-L AWD",
+      "count": 2,
+      "file": "inventory/used-honda-cr-v-hybrid-ex-l-awd.json",
+      "models": [
+        {
+          "model": "CR-V Hybrid EX-L AWD",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
+      "model": "HR-V LX 2WD CVT",
+      "count": 2,
+      "file": "inventory/used-honda-hr-v-lx-2wd-cvt.json",
+      "models": [
+        {
+          "model": "HR-V LX 2WD CVT",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
+      "model": "Ridgeline Black Edition AWD",
+      "count": 3,
+      "file": "inventory/used-honda-ridgeline-black-edition-awd.json",
+      "models": [
+        {
+          "model": "Ridgeline Black Edition AWD",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
+      "model": "HR-V Sport-B AWD CVT",
+      "count": 1,
+      "file": "inventory/used-honda-hr-v-sport-b-awd-cvt.json",
+      "models": [
+        {
+          "model": "HR-V Sport-B AWD CVT",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
+      "model": "Odyssey Black Edition",
+      "count": 1,
+      "file": "inventory/used-honda-odyssey-black-edition.json",
+      "models": [
+        {
+          "model": "Odyssey Black Edition",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
       "model": "Crosstour",
       "count": 1,
       "file": "inventory/used-honda-crosstour.json",
@@ -491,6 +653,32 @@
     {
       "condition": "used",
       "make": "honda",
+      "model": "CivicSport 4dr",
+      "count": 1,
+      "file": "inventory/used-honda-civicsport-4dr.json",
+      "models": [
+        {
+          "model": "CivicSport 4dr",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
+      "model": "CR-VLX 4dr All-Wheel Drive",
+      "count": 1,
+      "file": "inventory/used-honda-cr-vlx-4dr-all-wheel-drive.json",
+      "models": [
+        {
+          "model": "CR-VLX 4dr All-Wheel Drive",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
       "model": "Element",
       "count": 1,
       "file": "inventory/used-honda-element.json",
@@ -510,6 +698,32 @@
       "models": [
         {
           "model": "Civic Si",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
+      "model": "CR-VSport 4dr All-Wheel Drive",
+      "count": 1,
+      "file": "inventory/used-honda-cr-vsport-4dr-all-wheel-drive.json",
+      "models": [
+        {
+          "model": "CR-VSport 4dr All-Wheel Drive",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
+      "model": "OdysseyEX-L w/Navi (A9) Passenger",
+      "count": 1,
+      "file": "inventory/used-honda-odysseyex-l-w-navi-a9-passenger.json",
+      "models": [
+        {
+          "model": "OdysseyEX-L w/Navi (A9) Passenger",
           "count": 1
         }
       ]

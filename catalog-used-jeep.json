@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
   "condition": "used",
   "make": "jeep",
   "files": [
@@ -26,12 +26,12 @@
       "make": "jeep",
       "model": "GRAND CHEROKEE",
       "shard": "Lower Mainland",
-      "count": 24,
+      "count": 25,
       "file": "inventory/used-jeep-grand-cherokee-lower-mainland.json",
       "models": [
         {
           "model": "Grand Cherokee",
-          "count": 24
+          "count": 25
         }
       ]
     },
@@ -104,7 +104,7 @@
       "make": "jeep",
       "model": "GRAND CHEROKEE",
       "shard": "sin-region",
-      "count": 20,
+      "count": 21,
       "file": "inventory/used-jeep-grand-cherokee-sin-region.json",
       "models": [
         {
@@ -113,7 +113,7 @@
         },
         {
           "model": "Grand Cherokee",
-          "count": 19
+          "count": 20
         }
       ]
     },
@@ -154,12 +154,12 @@
       "make": "jeep",
       "model": "Wrangler",
       "shard": "Norte/Cariboo",
-      "count": 4,
+      "count": 7,
       "file": "inventory/used-jeep-wrangler-norte-cariboo.json",
       "models": [
         {
           "model": "Wrangler",
-          "count": 4
+          "count": 7
         }
       ]
     },
@@ -168,7 +168,7 @@
       "make": "jeep",
       "model": "Wrangler",
       "shard": "Okanagan",
-      "count": 30,
+      "count": 31,
       "file": "inventory/used-jeep-wrangler-okanagan.json",
       "models": [
         {
@@ -177,7 +177,7 @@
         },
         {
           "model": "Wrangler",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -250,12 +250,12 @@
       "make": "jeep",
       "model": "Cherokee",
       "shard": "Lower Mainland",
-      "count": 16,
+      "count": 17,
       "file": "inventory/used-jeep-cherokee-lower-mainland.json",
       "models": [
         {
           "model": "Cherokee",
-          "count": 16
+          "count": 17
         }
       ]
     },
@@ -328,12 +328,12 @@
       "make": "jeep",
       "model": "Cherokee",
       "shard": "sin-region",
-      "count": 5,
+      "count": 6,
       "file": "inventory/used-jeep-cherokee-sin-region.json",
       "models": [
         {
           "model": "Cherokee",
-          "count": 5
+          "count": 6
         }
       ]
     },
@@ -537,12 +537,12 @@
       "condition": "used",
       "make": "jeep",
       "model": "Grand Cherokee 4xe",
-      "count": 18,
+      "count": 19,
       "file": "inventory/used-jeep-grand-cherokee-4xe.json",
       "models": [
         {
           "model": "Grand Cherokee 4xe",
-          "count": 18
+          "count": 19
         }
       ]
     },
@@ -602,7 +602,7 @@
       "condition": "used",
       "make": "jeep",
       "model": "Wrangler 4xe",
-      "count": 24,
+      "count": 25,
       "file": "inventory/used-jeep-wrangler-4xe.json",
       "models": [
         {
@@ -611,7 +611,7 @@
         },
         {
           "model": "Wrangler 4xe",
-          "count": 23
+          "count": 24
         }
       ]
     },
@@ -713,6 +713,32 @@
     {
       "condition": "used",
       "make": "jeep",
+      "model": "GladiatorRubicon 4dr 4x4 Crew Cab 5 ft. box",
+      "count": 1,
+      "file": "inventory/used-jeep-gladiatorrubicon-4dr-4x4-crew-cab-5-ft-box.json",
+      "models": [
+        {
+          "model": "GladiatorRubicon 4dr 4x4 Crew Cab 5 ft. box",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Cherokee4WD 4dr Overland",
+      "count": 1,
+      "file": "inventory/used-jeep-cherokee4wd-4dr-overland.json",
+      "models": [
+        {
+          "model": "Cherokee4WD 4dr Overland",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
       "model": "Compass Sport 4x4",
       "count": 1,
       "file": "inventory/used-jeep-compass-sport-4x4.json",
@@ -746,6 +772,32 @@
         {
           "model": "Grand Cherokee WK",
           "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "CompassNorth",
+      "count": 1,
+      "file": "inventory/used-jeep-compassnorth.json",
+      "models": [
+        {
+          "model": "CompassNorth",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Grand CherokeeAltitude",
+      "count": 1,
+      "file": "inventory/used-jeep-grand-cherokeealtitude.json",
+      "models": [
+        {
+          "model": "Grand CherokeeAltitude",
+          "count": 1
         }
       ]
     },
@@ -804,6 +856,58 @@
     {
       "condition": "used",
       "make": "jeep",
+      "model": "CherokeeTrailhawk 4dr 4x4",
+      "count": 3,
+      "file": "inventory/used-jeep-cherokeetrailhawk-4dr-4x4.json",
+      "models": [
+        {
+          "model": "CherokeeTrailhawk 4dr 4x4",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "GladiatorSport S 4dr 4x4 Crew Cab 5 ft. box",
+      "count": 1,
+      "file": "inventory/used-jeep-gladiatorsport-s-4dr-4x4-crew-cab-5-ft-box.json",
+      "models": [
+        {
+          "model": "GladiatorSport S 4dr 4x4 Crew Cab 5 ft. box",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Grand Cherokee LSummit 4dr 4x4",
+      "count": 1,
+      "file": "inventory/used-jeep-grand-cherokee-lsummit-4dr-4x4.json",
+      "models": [
+        {
+          "model": "Grand Cherokee LSummit 4dr 4x4",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "GladiatorNightHawk",
+      "count": 1,
+      "file": "inventory/used-jeep-gladiatornighthawk.json",
+      "models": [
+        {
+          "model": "GladiatorNightHawk",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
       "model": "Liberty",
       "count": 1,
       "file": "inventory/used-jeep-liberty.json",
@@ -824,6 +928,110 @@
         {
           "model": "Wrangler JK",
           "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "CherokeeTrailhawk Elite",
+      "count": 1,
+      "file": "inventory/used-jeep-cherokeetrailhawk-elite.json",
+      "models": [
+        {
+          "model": "CherokeeTrailhawk Elite",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "CompassTrailhawk",
+      "count": 1,
+      "file": "inventory/used-jeep-compasstrailhawk.json",
+      "models": [
+        {
+          "model": "CompassTrailhawk",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "GladiatorOverland",
+      "count": 1,
+      "file": "inventory/used-jeep-gladiatoroverland.json",
+      "models": [
+        {
+          "model": "GladiatorOverland",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Grand CherokeeOverland",
+      "count": 1,
+      "file": "inventory/used-jeep-grand-cherokeeoverland.json",
+      "models": [
+        {
+          "model": "Grand CherokeeOverland",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "CompassAltitude 4dr 4x4",
+      "count": 1,
+      "file": "inventory/used-jeep-compassaltitude-4dr-4x4.json",
+      "models": [
+        {
+          "model": "CompassAltitude 4dr 4x4",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "CompassSport/North 4dr 4x4",
+      "count": 1,
+      "file": "inventory/used-jeep-compasssport-north-4dr-4x4.json",
+      "models": [
+        {
+          "model": "CompassSport/North 4dr 4x4",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Grand CherokeeLaredo 4dr 4x4",
+      "count": 2,
+      "file": "inventory/used-jeep-grand-cherokeelaredo-4dr-4x4.json",
+      "models": [
+        {
+          "model": "Grand CherokeeLaredo 4dr 4x4",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "CompassLimited 4dr 4x4",
+      "count": 1,
+      "file": "inventory/used-jeep-compasslimited-4dr-4x4.json",
+      "models": [
+        {
+          "model": "CompassLimited 4dr 4x4",
+          "count": 1
         }
       ]
     },

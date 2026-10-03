@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
-  "snapshot": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
+  "snapshot": "2026-10-03T00:36:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 7,
+  "count": 9,
   "vehicles": [
     {
       "pub_id": "titanium-ford-1ftfw1l83tke90183",
@@ -148,6 +148,47 @@
       "city": "Campbell River",
       "province": "BC",
       "dealer_name": "Steve Marshall Motors (1996) Ltd."
+    },
+    {
+      "pub_id": "zender-ford-1ftfx1l82tkd97698",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150 XL 2WD Reg Cab 8' Box",
+      "condition": "new",
+      "price_cad": 54019.0,
+      "price_note": null,
+      "color": "{$COLOREX}",
+      "dealer_id": "zender-ford",
+      "vin": "1FTFX1L82TKD97698",
+      "stock": "74209-481797",
+      "listing_url": "https://www.zenderford.com/new/2026-Ford-F_150.html",
+      "dealer_url": "https://www.zenderford.com/new/2026-Ford-F_150.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T17:12:20",
+      "snapshot": "2026-10-02T17:20:13",
+      "go_url": "https://carwhisper.ca/go/zender-ford-1ftfx1l82tkd97698",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Zender Ford"
+    },
+    {
+      "pub_id": "zender-ford-1ftmf1l56vkd04748",
+      "year": 2027,
+      "make": "Ford",
+      "model": "F-150 XL 2WD Reg Cab 8' Box",
+      "condition": "new",
+      "price_cad": 56485.0,
+      "price_note": null,
+      "dealer_id": "zender-ford",
+      "vin": "1FTMF1L56VKD04748",
+      "stock": "79219-488946",
+      "listing_url": "https://www.zenderford.com/new/2027-Ford-F_150.html",
+      "dealer_url": "https://www.zenderford.com/new/2027-Ford-F_150.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T17:15:22",
+      "snapshot": "2026-10-02T17:20:13",
+      "go_url": "https://carwhisper.ca/go/zender-ford-1ftmf1l56vkd04748",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Zender Ford"
     }
   ]
 }

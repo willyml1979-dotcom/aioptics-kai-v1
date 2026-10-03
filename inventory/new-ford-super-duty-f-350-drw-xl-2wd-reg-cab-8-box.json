@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
-  "snapshot": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
+  "snapshot": "2026-10-03T00:36:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 9,
+  "count": 11,
   "vehicles": [
     {
       "pub_id": "titanium-ford-72124-477602",
@@ -185,6 +185,47 @@
       "city": "Campbell River",
       "province": "BC",
       "dealer_name": "Steve Marshall Motors (1996) Ltd."
+    },
+    {
+      "pub_id": "zender-ford-72124-477602",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Super Duty F-350 DRW XL 2WD Reg Cab 8' Box",
+      "condition": "new",
+      "price_cad": 67280.0,
+      "price_note": null,
+      "color": "{$COLOREX}",
+      "dealer_id": "zender-ford",
+      "stock": "72124-477602",
+      "listing_url": "https://www.zenderford.com/new/2026-Ford-Super_Duty_F_350_DRW.html",
+      "dealer_url": "https://www.zenderford.com/new/2026-Ford-Super_Duty_F_350_DRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T17:14:12",
+      "snapshot": "2026-10-02T17:20:13",
+      "go_url": "https://carwhisper.ca/go/zender-ford-72124-477602",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Zender Ford"
+    },
+    {
+      "pub_id": "zender-ford-1ft8w3dm9vec32929",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Super Duty F-350 DRW XL 2WD Reg Cab 8' Box",
+      "condition": "new",
+      "price_cad": 68280.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "zender-ford",
+      "vin": "1FT8W3DM9VEC32929",
+      "stock": "77731-485913",
+      "listing_url": "https://www.zenderford.com/new/2027-Ford-Super_Duty_F_350_DRW.html",
+      "dealer_url": "https://www.zenderford.com/new/2027-Ford-Super_Duty_F_350_DRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T17:16:07",
+      "snapshot": "2026-10-02T17:20:13",
+      "go_url": "https://carwhisper.ca/go/zender-ford-1ft8w3dm9vec32929",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Zender Ford"
     }
   ]
 }

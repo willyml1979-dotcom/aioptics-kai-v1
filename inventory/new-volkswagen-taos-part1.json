@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
-  "snapshot": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
+  "snapshot": "2026-10-03T00:36:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 32,
+  "count": 33,
   "vehicles": [
     {
       "pub_id": "pioneer-chrysler-jeep-3vvuc7b22sm049847",
@@ -437,6 +437,7 @@
       "price_cad": 36301.5,
       "price_note": null,
       "color": "Pyrite Silver Metallic",
+      "photo_url": "https://img.sm360.ca/ir/w800h600/images/newcar/ca/2026/volkswagen/taos/trendline-4motion/suv/exteriorColors/2026_vw_taos_2-trendline-4motion_ext_032_k2k2.png",
       "dealer_id": "journey-vw-of-coquitlam",
       "vin": "3VV8C7B22TM050399",
       "stock": "TA26399",
@@ -796,6 +797,7 @@
       "price_cad": 39901.5,
       "price_note": null,
       "color": "Platinum Grey Metallic",
+      "photo_url": "https://img.sm360.ca/ir/w800h600/images/newcar/ca/2026/volkswagen/taos/comfortline-4motion/suv/exteriorColors/2026_vw_taos_3-comfortline-4motion_ext_032_2r2r.png",
       "dealer_id": "journey-vw-of-coquitlam",
       "vin": "3VVUC7B27TM059114",
       "stock": "TA26114",
@@ -863,6 +865,34 @@
       "city": "Maple Ridge",
       "province": "BC",
       "dealer_name": "Maple Ridge Volkswagen"
+    },
+    {
+      "pub_id": "abbotsford-volkswagen-3vv2c7b21tm040081",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "trim": "Comfortline Black Edition",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "stated",
+      "condition": "new",
+      "odometer_km": 11,
+      "price_cad": 41008.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "abbotsford-volkswagen",
+      "vin": "3VV2C7B21TM040081",
+      "stock": "14222617",
+      "listing_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Taos-id14222617.html",
+      "dealer_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Taos-id14222617.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T18:12:43",
+      "snapshot": "2026-10-01T18:16:33",
+      "go_url": "https://carwhisper.ca/go/abbotsford-volkswagen-3vv2c7b21tm040081",
+      "region": "Lower Mainland",
+      "city": "Abbotsford",
+      "province": "BC",
+      "dealer_name": "Abbotsford Volkswagen"
     }
   ]
 }

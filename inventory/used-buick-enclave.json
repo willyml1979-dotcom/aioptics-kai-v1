@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
-  "snapshot": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
+  "snapshot": "2026-10-03T00:36:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 12,
+  "count": 13,
   "vehicles": [
     {
       "pub_id": "chilliwack-mitsubishi-5gaev13d39j161205",
@@ -19,6 +19,7 @@
       "price_cad": 9950.0,
       "price_note": null,
       "color": "White",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/inventory/3WOZTG5J2NE2NJGQ273YAXG7DY.webp",
       "dealer_id": "chilliwack-mitsubishi",
       "vin": "5GAEV13D39J161205",
       "stock": "UU161205",
@@ -46,6 +47,7 @@
       "price_cad": 48864.0,
       "price_note": null,
       "color": "Grey",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/af4a6b0b-54b6-4762-9162-473c0a08781f_d8827564-71b4-426b-86cc-db06db9f13d2.jpg",
       "dealer_id": "marine-chrysler-dodge-jeep-ltd",
       "vin": "5GAEVARSXSJ236994",
       "stock": "BE8432",
@@ -58,6 +60,26 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Marine Chrysler Dodge Jeep Ltd."
+    },
+    {
+      "pub_id": "heartland-toyota-u69331b7efb",
+      "year": 2014,
+      "make": "Buick",
+      "model": "Enclave",
+      "condition": "used",
+      "odometer_km": 181500,
+      "price_cad": 12900.0,
+      "price_note": null,
+      "dealer_id": "heartland-toyota",
+      "listing_url": "https://heartlandtoyota.ca/inventory/2014-buick-enclave/14559714",
+      "dealer_url": "https://heartlandtoyota.ca/inventory/2014-buick-enclave/14559714?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T08:44:45",
+      "snapshot": "2026-09-26T08:46:19",
+      "go_url": "https://carwhisper.ca/go/heartland-toyota-u69331b7efb",
+      "region": "Norte/Cariboo",
+      "city": "Williams Lake",
+      "province": "BC",
+      "dealer_name": "Heartland Toyota"
     },
     {
       "pub_id": "cariboo-chevrolet-buick-gmc-ltd-5gaevbkw5pj178691",
@@ -74,6 +96,7 @@
       "price_cad": 39995.0,
       "price_note": null,
       "color": "Black",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/inventory/QKX6G7MD6VF53MTIF5GXVQPRJM.webp",
       "dealer_id": "cariboo-chevrolet-buick-gmc-ltd",
       "vin": "5GAEVBKW5PJ178691",
       "stock": "10015",
@@ -102,6 +125,7 @@
       "price_cad": 36998.0,
       "price_note": null,
       "color": "Black",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/inventory/XCOHHSROXVC2JIKTHYCYMRDSXY.webp",
       "dealer_id": "bannister-cadillac-buick-gmc-ltd",
       "vin": "5GAEVAKW4RJ106684",
       "stock": "54P26-812A",
@@ -158,6 +182,7 @@
       "price_cad": 39988.0,
       "price_note": null,
       "color": "Black",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/inventory/GLMLONDTC5B5JNO7OLXFGRZ2F4.webp",
       "dealer_id": "bannister-chevrolet-cadillac-kamloops-ltd",
       "vin": "5GAEVBKW5PJ120533",
       "stock": "486P495",
@@ -186,6 +211,7 @@
       "price_cad": 44988.0,
       "price_note": null,
       "color": "Black",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/inventory/NZ3XSE3NXZAUXARDAGTZQ56JBM.webp",
       "dealer_id": "bannister-chevrolet-cadillac-kamloops-ltd",
       "vin": "5GAEVCKW9NJ187705",
       "stock": "486P393",
@@ -213,6 +239,7 @@
       "price_cad": 7999.0,
       "price_note": null,
       "color": "Brown",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/8dd4e4c2-833f-491a-8887-32c239816807_769df9f2-ec3f-4c65-a475-7387f0c4514a.jpg",
       "dealer_id": "island-ford",
       "vin": "5GAKVDKD7DJ139416",
       "stock": "26789AV",
@@ -239,6 +266,7 @@
       "price_cad": 5900.0,
       "price_note": null,
       "color": "Silver",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/60203f01-4a96-4c34-9d9a-074ddfc1c343_f2c90b8f-f69d-4729-afb9-eaa248b3bfb0.jpg",
       "dealer_id": "country-hills-nissan",
       "vin": "5GAEV23798J252977",
       "stock": "CG08694",
@@ -248,7 +276,7 @@
       "snapshot": "2026-10-01T22:26:55",
       "go_url": "https://carwhisper.ca/go/country-hills-nissan-5gaev23798j252977",
       "city": null,
-      "province": "BC",
+      "province": "AB",
       "dealer_name": "Country Hills Nissan"
     },
     {
@@ -289,6 +317,7 @@
       "price_cad": 37507.0,
       "price_note": null,
       "color": "Red",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/404293f9-430f-433f-a7a1-26884accb6f1_2041acfd-8a5e-4346-bb92-eb53439c7608.jpg",
       "dealer_id": "sherwood-park-hyundai",
       "vin": "5GAEVBKW5PJ222799",
       "stock": "26SF204",
@@ -298,7 +327,7 @@
       "snapshot": "2026-10-01T18:21:45",
       "go_url": "https://carwhisper.ca/go/sherwood-park-hyundai-5gaevbkw5pj222799",
       "city": null,
-      "province": "BC",
+      "province": "AB",
       "dealer_name": "Sherwood Park Hyundai"
     },
     {
@@ -313,6 +342,7 @@
       "price_cad": 43900.0,
       "price_note": null,
       "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/a15a435d-5a95-4d5c-8351-f46188792b95_d0385afd-48ea-4de7-94e6-4a7beb3a4268.jpg",
       "dealer_id": "country-hills-nissan",
       "vin": "5GAEVCKW0PJ233134",
       "stock": "CG31191",
@@ -322,7 +352,7 @@
       "snapshot": "2026-10-01T22:26:55",
       "go_url": "https://carwhisper.ca/go/country-hills-nissan-5gaevckw0pj233134",
       "city": null,
-      "province": "BC",
+      "province": "AB",
       "dealer_name": "Country Hills Nissan"
     }
   ]

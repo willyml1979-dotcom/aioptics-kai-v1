@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
-  "snapshot": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
+  "snapshot": "2026-10-03T00:36:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 4,
   "vehicles": [
     {
       "pub_id": "sullivan-motor-products-nelson-ltd-zfaffaa4xsx240819",
@@ -16,6 +16,7 @@
       "price_cad": 31885.0,
       "price_note": null,
       "color": "Nero (Black)",
+      "photo_url": "https://portal.omni.auto/Media/InventoryMedia/ZFAFFAA4XSX240819/Optimized/a3de28eb25f926f9602f3231356cf872.webp",
       "dealer_id": "sullivan-motor-products-nelson-ltd",
       "vin": "ZFAFFAA4XSX240819",
       "stock": "PU2558",
@@ -41,6 +42,7 @@
       "price_cad": 42290.0,
       "price_note": null,
       "color": "Glacier White",
+      "photo_url": "https://portal.omni.auto/Media/InventoryMedia/ZFAFFAA43SX237633/Optimized/2cb6d26b3cacf6d54dd2e9119b8bfdc8.webp",
       "dealer_id": "sullivan-motor-products-nelson-ltd",
       "vin": "ZFAFFAA43SX237633",
       "stock": "PU2546",
@@ -67,6 +69,7 @@
       "price_cad": 5995.0,
       "price_note": null,
       "color": "Blue",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/9619b37a-cd25-40de-9d9e-7c2598f61703_997f251c-2aeb-406c-bded-202d238ea125.jpg",
       "dealer_id": "kamloops-honda-cars",
       "vin": "3C3CFFBR8FT527813",
       "stock": "U18312A",
@@ -79,6 +82,28 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Kamloops Honda Cars"
+    },
+    {
+      "pub_id": "gardner-chevrolet-buick-gmc-ltd-zfbcfadh5ez024592",
+      "year": 2014,
+      "make": "Fiat",
+      "model": "500LTrekking 4dr",
+      "body_type": "hatchback",
+      "condition": "used",
+      "odometer_km": 23093923,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "gardner-chevrolet-buick-gmc-ltd",
+      "vin": "ZFBCFADH5EZ024592",
+      "stock": "5U017A",
+      "listing_url": "https://www.gardnergm.com/used/vehicle/2014-fiat-500l-trekking-id14355530.htm",
+      "dealer_url": "https://www.gardnergm.com/used/vehicle/2014-fiat-500l-trekking-id14355530.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T04:56:47",
+      "snapshot": "2026-09-25T05:13:41",
+      "go_url": "https://carwhisper.ca/go/gardner-chevrolet-buick-gmc-ltd-zfbcfadh5ez024592",
+      "city": "Hope",
+      "province": "BC",
+      "dealer_name": "Gardner Chevrolet Buick GMC Ltd."
     }
   ]
 }

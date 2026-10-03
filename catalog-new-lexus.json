@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
   "condition": "new",
   "make": "lexus",
   "files": [
@@ -26,6 +26,19 @@
         {
           "model": "IS",
           "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "lexus",
+      "model": "RZ",
+      "count": 4,
+      "file": "inventory/new-lexus-rz.json",
+      "models": [
+        {
+          "model": "RZ",
+          "count": 4
         }
       ]
     },
@@ -91,19 +104,6 @@
         {
           "model": "RX",
           "count": 24
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "lexus",
-      "model": "RZ",
-      "count": 3,
-      "file": "inventory/new-lexus-rz.json",
-      "models": [
-        {
-          "model": "RZ",
-          "count": 3
         }
       ]
     },

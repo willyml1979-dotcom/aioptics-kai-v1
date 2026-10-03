@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
-  "snapshot": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
+  "snapshot": "2026-10-03T00:36:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "titanium-ford-72354001-478836",
@@ -89,6 +89,27 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Kelowna Ford Lincoln Sales Ltd."
+    },
+    {
+      "pub_id": "zender-ford-72354001-478836",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Escape PHEV PHEV FWD",
+      "drivetrain": "FWD",
+      "condition": "new",
+      "price_cad": 38114.0,
+      "price_note": null,
+      "color": "{$COLOREX}",
+      "dealer_id": "zender-ford",
+      "stock": "72354001-478836",
+      "listing_url": "https://www.zenderford.com/new/2026-Ford-Escape_PHEV.html",
+      "dealer_url": "https://www.zenderford.com/new/2026-Ford-Escape_PHEV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T17:11:41",
+      "snapshot": "2026-10-02T17:20:13",
+      "go_url": "https://carwhisper.ca/go/zender-ford-72354001-478836",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Zender Ford"
     }
   ]
 }

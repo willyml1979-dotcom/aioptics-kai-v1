@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
   "condition": "new",
   "make": "nissan",
   "files": [
@@ -21,12 +21,12 @@
       "make": "nissan",
       "model": "Kicks",
       "shard": "part1",
-      "count": 37,
+      "count": 30,
       "file": "inventory/new-nissan-kicks-part1.json",
       "models": [
         {
           "model": "Kicks",
-          "count": 37
+          "count": 30
         }
       ]
     },
@@ -35,12 +35,12 @@
       "make": "nissan",
       "model": "Kicks",
       "shard": "part2",
-      "count": 37,
+      "count": 30,
       "file": "inventory/new-nissan-kicks-part2.json",
       "models": [
         {
           "model": "Kicks",
-          "count": 37
+          "count": 30
         }
       ]
     },
@@ -49,12 +49,12 @@
       "make": "nissan",
       "model": "Kicks",
       "shard": "part3",
-      "count": 37,
+      "count": 30,
       "file": "inventory/new-nissan-kicks-part3.json",
       "models": [
         {
           "model": "Kicks",
-          "count": 37
+          "count": 30
         }
       ]
     },
@@ -63,12 +63,26 @@
       "make": "nissan",
       "model": "Kicks",
       "shard": "part4",
-      "count": 36,
+      "count": 30,
       "file": "inventory/new-nissan-kicks-part4.json",
       "models": [
         {
           "model": "Kicks",
-          "count": 36
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Kicks",
+      "shard": "part5",
+      "count": 26,
+      "file": "inventory/new-nissan-kicks-part5.json",
+      "models": [
+        {
+          "model": "Kicks",
+          "count": 26
         }
       ]
     },
@@ -116,12 +130,12 @@
       "make": "nissan",
       "model": "Rogue",
       "shard": "part1",
-      "count": 34,
+      "count": 31,
       "file": "inventory/new-nissan-rogue-part1.json",
       "models": [
         {
           "model": "Rogue",
-          "count": 34
+          "count": 31
         }
       ]
     },
@@ -130,12 +144,12 @@
       "make": "nissan",
       "model": "Rogue",
       "shard": "part2",
-      "count": 34,
+      "count": 31,
       "file": "inventory/new-nissan-rogue-part2.json",
       "models": [
         {
           "model": "Rogue",
-          "count": 34
+          "count": 31
         }
       ]
     },
@@ -144,12 +158,12 @@
       "make": "nissan",
       "model": "Rogue",
       "shard": "part3",
-      "count": 34,
+      "count": 31,
       "file": "inventory/new-nissan-rogue-part3.json",
       "models": [
         {
           "model": "Rogue",
-          "count": 34
+          "count": 31
         }
       ]
     },
@@ -158,12 +172,12 @@
       "make": "nissan",
       "model": "Rogue",
       "shard": "part4",
-      "count": 34,
+      "count": 31,
       "file": "inventory/new-nissan-rogue-part4.json",
       "models": [
         {
           "model": "Rogue",
-          "count": 34
+          "count": 31
         }
       ]
     },
@@ -172,12 +186,12 @@
       "make": "nissan",
       "model": "Rogue",
       "shard": "part5",
-      "count": 34,
+      "count": 31,
       "file": "inventory/new-nissan-rogue-part5.json",
       "models": [
         {
           "model": "Rogue",
-          "count": 34
+          "count": 31
         }
       ]
     },
@@ -198,13 +212,27 @@
     {
       "condition": "new",
       "make": "nissan",
+      "model": "Rogue",
+      "shard": "part7",
+      "count": 31,
+      "file": "inventory/new-nissan-rogue-part7.json",
+      "models": [
+        {
+          "model": "Rogue",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
       "model": "Kicks S FWD",
-      "count": 6,
+      "count": 7,
       "file": "inventory/new-nissan-kicks-s-fwd.json",
       "models": [
         {
           "model": "Kicks S FWD",
-          "count": 6
+          "count": 7
         }
       ]
     },
@@ -242,16 +270,58 @@
       "condition": "new",
       "make": "nissan",
       "model": "LEAF",
-      "count": 38,
-      "file": "inventory/new-nissan-leaf.json",
+      "shard": "Lower Mainland",
+      "count": 11,
+      "file": "inventory/new-nissan-leaf-lower-mainland.json",
       "models": [
         {
           "model": "LEAF",
-          "count": 13
+          "count": 11
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "LEAF",
+      "shard": "Okanagan",
+      "count": 3,
+      "file": "inventory/new-nissan-leaf-okanagan.json",
+      "models": [
+        {
+          "model": "LEAF",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "LEAF",
+      "shard": "Vancouver Island",
+      "count": 27,
+      "file": "inventory/new-nissan-leaf-vancouver-island.json",
+      "models": [
+        {
+          "model": "LEAF",
+          "count": 2
         },
         {
           "model": "Leaf",
           "count": 25
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "LEAF ELECTRIC",
+      "count": 1,
+      "file": "inventory/new-nissan-leaf-electric.json",
+      "models": [
+        {
+          "model": "LEAF ELECTRIC",
+          "count": 1
         }
       ]
     },
@@ -272,12 +342,12 @@
       "condition": "new",
       "make": "nissan",
       "model": "ARIYA SV FWD",
-      "count": 8,
+      "count": 9,
       "file": "inventory/new-nissan-ariya-sv-fwd.json",
       "models": [
         {
           "model": "ARIYA SV FWD",
-          "count": 8
+          "count": 9
         }
       ]
     },
@@ -285,12 +355,12 @@
       "condition": "new",
       "make": "nissan",
       "model": "Z Sport Manual",
-      "count": 7,
+      "count": 8,
       "file": "inventory/new-nissan-z-sport-manual.json",
       "models": [
         {
           "model": "Z Sport Manual",
-          "count": 7
+          "count": 8
         }
       ]
     },
@@ -375,19 +445,6 @@
     {
       "condition": "new",
       "make": "nissan",
-      "model": "Rogue Plug-In Hybrid",
-      "count": 5,
-      "file": "inventory/new-nissan-rogue-plug-in-hybrid.json",
-      "models": [
-        {
-          "model": "Rogue Plug-In Hybrid",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
       "model": "Pathfinder",
       "count": 10,
       "file": "inventory/new-nissan-pathfinder.json",
@@ -414,6 +471,19 @@
     {
       "condition": "new",
       "make": "nissan",
+      "model": "Armada",
+      "count": 10,
+      "file": "inventory/new-nissan-armada.json",
+      "models": [
+        {
+          "model": "Armada",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
       "model": "Armada 4x4 SL",
       "count": 4,
       "file": "inventory/new-nissan-armada-4x4-sl.json",
@@ -427,13 +497,56 @@
     {
       "condition": "new",
       "make": "nissan",
-      "model": "Armada",
-      "count": 9,
-      "file": "inventory/new-nissan-armada.json",
+      "model": "Armada SL 4x4",
+      "count": 1,
+      "file": "inventory/new-nissan-armada-sl-4x4.json",
       "models": [
         {
-          "model": "Armada",
-          "count": 9
+          "model": "Armada SL 4x4",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "KicksSV",
+      "count": 1,
+      "file": "inventory/new-nissan-kickssv.json",
+      "models": [
+        {
+          "model": "KicksSV",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "LEAF S",
+      "count": 10,
+      "file": "inventory/new-nissan-leaf-s.json",
+      "models": [
+        {
+          "model": "LEAF S",
+          "count": 8
+        },
+        {
+          "model": "LEAF S+",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "LEAF SV+",
+      "count": 2,
+      "file": "inventory/new-nissan-leaf-sv.json",
+      "models": [
+        {
+          "model": "LEAF SV+",
+          "count": 2
         }
       ]
     },
@@ -460,6 +573,19 @@
         {
           "model": "Murano Platinum",
           "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Rogue Plug-In Hybrid",
+      "count": 4,
+      "file": "inventory/new-nissan-rogue-plug-in-hybrid.json",
+      "models": [
+        {
+          "model": "Rogue Plug-In Hybrid",
+          "count": 4
         }
       ]
     }

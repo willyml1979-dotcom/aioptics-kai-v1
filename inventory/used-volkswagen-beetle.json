@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
-  "snapshot": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
+  "snapshot": "2026-10-03T00:36:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "journey-vw-of-coquitlam-3vw5x7at8dm828560",
@@ -16,6 +16,7 @@
       "price_cad": 14992.0,
       "price_note": null,
       "color": "Candy White",
+      "photo_url": "https://img.sm360.ca/ir/w800h600/images/inventory/regency-volkswagen/volkswagen/the-beetle-convertible/2013/39013037/39013037_01067_3cfa07a5ecfd7e24988d467a0e09e902.jpeg",
       "dealer_id": "journey-vw-of-coquitlam",
       "vin": "3VW5X7AT8DM828560",
       "stock": "GT26978A",
@@ -44,6 +45,7 @@
       "price_cad": 26000.0,
       "price_note": null,
       "color": "Blue",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,op_bl,ow_100,v1/adjustment/3OCOZ3MGPBCRVGQXDTFNDEL3SI%3Binventory/RDA3OVNK45GQJD7HQRNY2HU6EQ-15476.webp",
       "dealer_id": "applewood-kia-langley",
       "vin": "3VWJD7AT1JM716203",
       "stock": "KL7E5634A",
@@ -56,6 +58,28 @@
       "city": "Langley",
       "province": "BC",
       "dealer_name": "Applewood Kia - Langley"
+    },
+    {
+      "pub_id": "abbotsford-volkswagen-3vwtdaat3km500067",
+      "year": 2019,
+      "make": "Volkswagen",
+      "model": "Beetle",
+      "trim": "Convertible",
+      "condition": "used",
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "abbotsford-volkswagen",
+      "vin": "3VWTDAAT3KM500067",
+      "stock": 14456771,
+      "listing_url": "https://www.abbotsfordvw.ca/used/2019-Volkswagen-Beetle_Convertible.html",
+      "dealer_url": "https://www.abbotsfordvw.ca/used/2019-Volkswagen-Beetle_Convertible.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:11:39",
+      "snapshot": "2026-10-02T16:15:26",
+      "go_url": "https://carwhisper.ca/go/abbotsford-volkswagen-3vwtdaat3km500067",
+      "region": "Lower Mainland",
+      "city": "Abbotsford",
+      "province": "BC",
+      "dealer_name": "Abbotsford Volkswagen"
     },
     {
       "pub_id": "comox-valley-vw-3vw5daat6km501920",
@@ -99,6 +123,7 @@
       "price_cad": 24905.0,
       "price_note": null,
       "color": "Blue",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,op_bl,ow_100,v1/adjustment/3OCOZ3MGPBCRVGQXDTFNDEL3SI%3Btrim/HDS6F7IGVFAJDJGQGVJ6U3JALU-10419.webp",
       "dealer_id": "applewood-ford",
       "vin": "3VWJD7ATXJM704728",
       "stock": "FHB64728",
@@ -110,6 +135,28 @@
       "city": "Port Hardy",
       "province": "BC",
       "dealer_name": "Applewood Ford"
+    },
+    {
+      "pub_id": "gardner-chevrolet-buick-gmc-ltd-3vwrw2al0am001980",
+      "year": 2010,
+      "make": "Volkswagen",
+      "model": "Beetle",
+      "trim": "2.5L Comfortline (A6) 2dr Convertible",
+      "condition": "used",
+      "odometer_km": 8155781,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "gardner-chevrolet-buick-gmc-ltd",
+      "vin": "3VWRW2AL0AM001980",
+      "stock": "6T161B",
+      "listing_url": "https://www.gardnergm.com/used/vehicle/2010-volkswagen-new-beetle-25l-comfortline-id14700583.htm",
+      "dealer_url": "https://www.gardnergm.com/used/vehicle/2010-volkswagen-new-beetle-25l-comfortline-id14700583.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T04:54:48",
+      "snapshot": "2026-09-25T05:13:41",
+      "go_url": "https://carwhisper.ca/go/gardner-chevrolet-buick-gmc-ltd-3vwrw2al0am001980",
+      "city": "Hope",
+      "province": "BC",
+      "dealer_name": "Gardner Chevrolet Buick GMC Ltd."
     }
   ]
 }

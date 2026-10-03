@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
-  "snapshot": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
+  "snapshot": "2026-10-03T00:36:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "the-honda-way-abbotsford-2t2hzmda2lc238151",
@@ -102,6 +102,27 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Lexus of Kelowna"
+    },
+    {
+      "pub_id": "norden-volkswagen-2t2bk1ba1fc260738",
+      "year": 2015,
+      "make": "Lexus",
+      "model": "RX 350",
+      "condition": "used",
+      "price_cad": 22700.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "norden-volkswagen",
+      "vin": "2T2BK1BA1FC260738",
+      "stock": 14192175,
+      "listing_url": "https://www.nordenvw.ca/used/2015-Lexus-RX_350.html",
+      "dealer_url": "https://www.nordenvw.ca/used/2015-Lexus-RX_350.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:46:06",
+      "snapshot": "2026-10-02T17:05:06",
+      "go_url": "https://carwhisper.ca/go/norden-volkswagen-2t2bk1ba1fc260738",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Norden Volkswagen"
     }
   ]
 }

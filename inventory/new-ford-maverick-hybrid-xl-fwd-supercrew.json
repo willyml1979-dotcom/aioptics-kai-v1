@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
-  "snapshot": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
+  "snapshot": "2026-10-03T00:36:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 9,
+  "count": 11,
   "vehicles": [
     {
       "pub_id": "titanium-ford-3fttw8j32trb58248",
@@ -217,6 +217,52 @@
       "city": "Campbell River",
       "province": "BC",
       "dealer_name": "Steve Marshall Motors (1996) Ltd."
+    },
+    {
+      "pub_id": "zender-ford-3fttw8h34trb16847",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Maverick Hybrid XL FWD SuperCrew",
+      "drivetrain": "FWD",
+      "propulsion": "hybrid",
+      "propulsion_source": "stated",
+      "condition": "new",
+      "price_cad": 38195.0,
+      "price_note": null,
+      "dealer_id": "zender-ford",
+      "vin": "3FTTW8H34TRB16847",
+      "stock": "73800000-481169",
+      "listing_url": "https://www.zenderford.com/new/2026-Ford-Maverick_Hybrid.html",
+      "dealer_url": "https://www.zenderford.com/new/2026-Ford-Maverick_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T17:13:00",
+      "snapshot": "2026-10-02T17:20:13",
+      "go_url": "https://carwhisper.ca/go/zender-ford-3fttw8h34trb16847",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Zender Ford"
+    },
+    {
+      "pub_id": "zender-ford-3fttw8j34vra03896",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Maverick Hybrid XL FWD SuperCrew",
+      "drivetrain": "FWD",
+      "propulsion": "hybrid",
+      "propulsion_source": "stated",
+      "condition": "new",
+      "price_cad": 39795.0,
+      "price_note": null,
+      "dealer_id": "zender-ford",
+      "vin": "3FTTW8J34VRA03896",
+      "stock": "79706000-489979",
+      "listing_url": "https://www.zenderford.com/new/2027-Ford-Maverick_Hybrid.html",
+      "dealer_url": "https://www.zenderford.com/new/2027-Ford-Maverick_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T17:15:46",
+      "snapshot": "2026-10-02T17:20:13",
+      "go_url": "https://carwhisper.ca/go/zender-ford-3fttw8j34vra03896",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Zender Ford"
     }
   ]
 }

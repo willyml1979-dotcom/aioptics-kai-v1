@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
   "condition": "new",
   "make": "buick",
   "files": [
@@ -90,13 +90,13 @@
       "condition": "new",
       "make": "buick",
       "model": "Envision",
-      "shard": "Kootenays",
-      "count": 2,
-      "file": "inventory/new-buick-envision-kootenays.json",
+      "shard": "part1",
+      "count": 31,
+      "file": "inventory/new-buick-envision-part1.json",
       "models": [
         {
           "model": "Envision",
-          "count": 2
+          "count": 31
         }
       ]
     },
@@ -104,13 +104,13 @@
       "condition": "new",
       "make": "buick",
       "model": "Envision",
-      "shard": "Lower Mainland",
-      "count": 33,
-      "file": "inventory/new-buick-envision-lower-mainland.json",
+      "shard": "part2",
+      "count": 31,
+      "file": "inventory/new-buick-envision-part2.json",
       "models": [
         {
           "model": "Envision",
-          "count": 33
+          "count": 31
         }
       ]
     },
@@ -118,55 +118,13 @@
       "condition": "new",
       "make": "buick",
       "model": "Envision",
-      "shard": "Norte/Cariboo",
-      "count": 9,
-      "file": "inventory/new-buick-envision-norte-cariboo.json",
+      "shard": "part3",
+      "count": 30,
+      "file": "inventory/new-buick-envision-part3.json",
       "models": [
         {
           "model": "Envision",
-          "count": 9
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "buick",
-      "model": "Envision",
-      "shard": "Okanagan",
-      "count": 6,
-      "file": "inventory/new-buick-envision-okanagan.json",
-      "models": [
-        {
-          "model": "Envision",
-          "count": 6
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "buick",
-      "model": "Envision",
-      "shard": "Vancouver Island",
-      "count": 37,
-      "file": "inventory/new-buick-envision-vancouver-island.json",
-      "models": [
-        {
-          "model": "Envision",
-          "count": 37
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "buick",
-      "model": "Envision",
-      "shard": "sin-region",
-      "count": 5,
-      "file": "inventory/new-buick-envision-sin-region.json",
-      "models": [
-        {
-          "model": "Envision",
-          "count": 5
+          "count": 30
         }
       ]
     },
@@ -288,6 +246,97 @@
       "models": [
         {
           "model": "Encore GX Preferred",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "buick",
+      "model": "ENVISTAPREFERRED 4DR FRONT-WHEEL DRIVE (G02)",
+      "count": 1,
+      "file": "inventory/new-buick-envistapreferred-4dr-front-wheel-drive-g02.json",
+      "models": [
+        {
+          "model": "ENVISTAPREFERRED 4DR FRONT-WHEEL DRIVE (G02)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "buick",
+      "model": "ENCORE GXSPORT TOURING 4DR ALL-WHEEL DRIVE (1SD)",
+      "count": 1,
+      "file": "inventory/new-buick-encore-gxsport-touring-4dr-all-wheel-drive-1sd.json",
+      "models": [
+        {
+          "model": "ENCORE GXSPORT TOURING 4DR ALL-WHEEL DRIVE (1SD)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "buick",
+      "model": "ENVISIONPREFERRED 4DR ALL-WHEEL DRIVE (1SC)",
+      "count": 3,
+      "file": "inventory/new-buick-envisionpreferred-4dr-all-wheel-drive-1sc.json",
+      "models": [
+        {
+          "model": "ENVISIONPREFERRED 4DR ALL-WHEEL DRIVE (1SC)",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "buick",
+      "model": "ENVISIONSPORT TOURING 4DR ALL-WHEEL DRIVE (1SL)",
+      "count": 1,
+      "file": "inventory/new-buick-envisionsport-touring-4dr-all-wheel-drive-1sl.json",
+      "models": [
+        {
+          "model": "ENVISIONSPORT TOURING 4DR ALL-WHEEL DRIVE (1SL)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "buick",
+      "model": "ENVISIONAVENIR 4DR ALL-WHEEL DRIVE (1SU)",
+      "count": 3,
+      "file": "inventory/new-buick-envisionavenir-4dr-all-wheel-drive-1su.json",
+      "models": [
+        {
+          "model": "ENVISIONAVENIR 4DR ALL-WHEEL DRIVE (1SU)",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "buick",
+      "model": "ENCLAVEPREFERRED 4DR ALL-WHEEL DRIVE (1SD)",
+      "count": 1,
+      "file": "inventory/new-buick-enclavepreferred-4dr-all-wheel-drive-1sd.json",
+      "models": [
+        {
+          "model": "ENCLAVEPREFERRED 4DR ALL-WHEEL DRIVE (1SD)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "buick",
+      "model": "ENCLAVEAVENIR 4DR ALL-WHEEL DRIVE (1SP)",
+      "count": 1,
+      "file": "inventory/new-buick-enclaveavenir-4dr-all-wheel-drive-1sp.json",
+      "models": [
+        {
+          "model": "ENCLAVEAVENIR 4DR ALL-WHEEL DRIVE (1SP)",
           "count": 1
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
   "condition": "used",
   "make": "mercedes-benz",
   "files": [
@@ -7,12 +7,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "C-Class",
-      "count": 13,
+      "count": 12,
       "file": "inventory/used-mercedes-benz-c-class.json",
       "models": [
         {
           "model": "C-Class",
-          "count": 13
+          "count": 12
         }
       ]
     },
@@ -26,6 +26,19 @@
         {
           "model": "E-Class",
           "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "B-Class",
+      "count": 2,
+      "file": "inventory/used-mercedes-benz-b-class.json",
+      "models": [
+        {
+          "model": "B-Class",
+          "count": 2
         }
       ]
     },
@@ -58,19 +71,6 @@
     {
       "condition": "used",
       "make": "mercedes-benz",
-      "model": "B-Class",
-      "count": 2,
-      "file": "inventory/used-mercedes-benz-b-class.json",
-      "models": [
-        {
-          "model": "B-Class",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mercedes-benz",
       "model": "M-Class",
       "count": 2,
       "file": "inventory/used-mercedes-benz-m-class.json",
@@ -85,12 +85,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLA",
-      "count": 20,
+      "count": 21,
       "file": "inventory/used-mercedes-benz-gla.json",
       "models": [
         {
           "model": "GLA",
-          "count": 20
+          "count": 21
         }
       ]
     },
@@ -669,6 +669,32 @@
     {
       "condition": "used",
       "make": "mercedes-benz",
+      "model": "S-Model AMG E 63 4dr All-Wheel Drive 4MATIC",
+      "count": 1,
+      "file": "inventory/used-mercedes-benz-s-model-amg-e-63-4dr-all-wheel-drive-4matic.json",
+      "models": [
+        {
+          "model": "S-Model AMG E 63 4dr All-Wheel Drive 4MATIC",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "AMG E 53 4dr 4MATIC+",
+      "count": 1,
+      "file": "inventory/used-mercedes-benz-amg-e-53-4dr-4matic.json",
+      "models": [
+        {
+          "model": "AMG E 53 4dr 4MATIC+",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
       "model": "GLA 4MATIC 4dr GLA 250",
       "count": 1,
       "file": "inventory/used-mercedes-benz-gla-4matic-4dr-gla-250.json",
@@ -688,6 +714,84 @@
       "models": [
         {
           "model": "SLR Mclaren",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "EQS AMG 4MATIC+",
+      "count": 1,
+      "file": "inventory/used-mercedes-benz-eqs-amg-4matic.json",
+      "models": [
+        {
+          "model": "EQS AMG 4MATIC+",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "GLC300 4MATIC",
+      "count": 1,
+      "file": "inventory/used-mercedes-benz-glc300-4matic.json",
+      "models": [
+        {
+          "model": "GLC300 4MATIC",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "S580 4MATIC",
+      "count": 1,
+      "file": "inventory/used-mercedes-benz-s580-4matic.json",
+      "models": [
+        {
+          "model": "S580 4MATIC",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "CLA250 4MATIC",
+      "count": 3,
+      "file": "inventory/used-mercedes-benz-cla250-4matic.json",
+      "models": [
+        {
+          "model": "CLA250 4MATIC",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "Sprinter Cargo Van 2500 High Roof I4 Diesel 170",
+      "count": 1,
+      "file": "inventory/used-mercedes-benz-sprinter-cargo-van-2500-high-roof-i4-diesel-170.json",
+      "models": [
+        {
+          "model": "Sprinter Cargo Van 2500 High Roof I4 Diesel 170",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "GLE580 4MATIC",
+      "count": 1,
+      "file": "inventory/used-mercedes-benz-gle580-4matic.json",
+      "models": [
+        {
+          "model": "GLE580 4MATIC",
           "count": 1
         }
       ]
@@ -1000,6 +1104,19 @@
       "models": [
         {
           "model": "AMG GT C",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "M-ClassML 350 4dr All-Wheel Drive 4MATIC",
+      "count": 1,
+      "file": "inventory/used-mercedes-benz-m-classml-350-4dr-all-wheel-drive-4matic.json",
+      "models": [
+        {
+          "model": "M-ClassML 350 4dr All-Wheel Drive 4MATIC",
           "count": 1
         }
       ]

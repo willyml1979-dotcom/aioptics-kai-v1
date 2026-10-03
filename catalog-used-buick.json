@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
   "condition": "used",
   "make": "buick",
   "files": [
@@ -20,12 +20,12 @@
       "condition": "used",
       "make": "buick",
       "model": "Enclave",
-      "count": 12,
+      "count": 13,
       "file": "inventory/used-buick-enclave.json",
       "models": [
         {
           "model": "Enclave",
-          "count": 12
+          "count": 13
         }
       ]
     },
@@ -71,6 +71,19 @@
     {
       "condition": "used",
       "make": "buick",
+      "model": "Encore GXAvenir 4dr All-Wheel Drive",
+      "count": 1,
+      "file": "inventory/used-buick-encore-gxavenir-4dr-all-wheel-drive.json",
+      "models": [
+        {
+          "model": "Encore GXAvenir 4dr All-Wheel Drive",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "buick",
       "model": "Regal",
       "count": 1,
       "file": "inventory/used-buick-regal.json",
@@ -90,6 +103,71 @@
       "models": [
         {
           "model": "Verano",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "buick",
+      "model": "ReattaBASE",
+      "count": 1,
+      "file": "inventory/used-buick-reattabase.json",
+      "models": [
+        {
+          "model": "ReattaBASE",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "buick",
+      "model": "EnclaveCXL All-Wheel Drive Sport Utility",
+      "count": 1,
+      "file": "inventory/used-buick-enclavecxl-all-wheel-drive-sport-utility.json",
+      "models": [
+        {
+          "model": "EnclaveCXL All-Wheel Drive Sport Utility",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "buick",
+      "model": "EnvisionPreferred All-Wheel Drive",
+      "count": 1,
+      "file": "inventory/used-buick-envisionpreferred-all-wheel-drive.json",
+      "models": [
+        {
+          "model": "EnvisionPreferred All-Wheel Drive",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "buick",
+      "model": "Encore GXPreferred All-Wheel Drive",
+      "count": 1,
+      "file": "inventory/used-buick-encore-gxpreferred-all-wheel-drive.json",
+      "models": [
+        {
+          "model": "Encore GXPreferred All-Wheel Drive",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "buick",
+      "model": "Encore GXSelect All-Wheel Drive",
+      "count": 1,
+      "file": "inventory/used-buick-encore-gxselect-all-wheel-drive.json",
+      "models": [
+        {
+          "model": "Encore GXSelect All-Wheel Drive",
           "count": 1
         }
       ]

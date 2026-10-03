@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
   "condition": "used",
   "make": "subaru",
   "files": [
@@ -91,12 +91,12 @@
       "make": "subaru",
       "model": "Crosstrek",
       "shard": "sin-region",
-      "count": 27,
+      "count": 23,
       "file": "inventory/used-subaru-crosstrek-sin-region.json",
       "models": [
         {
           "model": "Crosstrek",
-          "count": 27
+          "count": 23
         }
       ]
     },
@@ -175,12 +175,12 @@
       "make": "subaru",
       "model": "Outback",
       "shard": "sin-region",
-      "count": 25,
+      "count": 21,
       "file": "inventory/used-subaru-outback-sin-region.json",
       "models": [
         {
           "model": "Outback",
-          "count": 25
+          "count": 21
         }
       ]
     },
@@ -188,12 +188,97 @@
       "condition": "used",
       "make": "subaru",
       "model": "WRX",
-      "count": 36,
-      "file": "inventory/used-subaru-wrx.json",
+      "shard": "Kootenays",
+      "count": 3,
+      "file": "inventory/used-subaru-wrx-kootenays.json",
       "models": [
         {
           "model": "WRX",
-          "count": 36
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "WRX",
+      "shard": "Lower Mainland",
+      "count": 9,
+      "file": "inventory/used-subaru-wrx-lower-mainland.json",
+      "models": [
+        {
+          "model": "WRX",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "WRX",
+      "shard": "Norte/Cariboo",
+      "count": 1,
+      "file": "inventory/used-subaru-wrx-norte-cariboo.json",
+      "models": [
+        {
+          "model": "WRX",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "WRX",
+      "shard": "Okanagan",
+      "count": 6,
+      "file": "inventory/used-subaru-wrx-okanagan.json",
+      "models": [
+        {
+          "model": "WRX",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "WRX",
+      "shard": "Thompson-Okanagan",
+      "count": 1,
+      "file": "inventory/used-subaru-wrx-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "WRX",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "WRX",
+      "shard": "Vancouver Island",
+      "count": 4,
+      "file": "inventory/used-subaru-wrx-vancouver-island.json",
+      "models": [
+        {
+          "model": "WRX",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "WRX",
+      "shard": "sin-region",
+      "count": 13,
+      "file": "inventory/used-subaru-wrx-sin-region.json",
+      "models": [
+        {
+          "model": "WRX",
+          "count": 13
         }
       ]
     },
@@ -243,12 +328,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "Norte/Cariboo",
-      "count": 12,
+      "count": 13,
       "file": "inventory/used-subaru-forester-norte-cariboo.json",
       "models": [
         {
           "model": "Forester",
-          "count": 12
+          "count": 13
         }
       ]
     },
@@ -299,12 +384,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "sin-region",
-      "count": 34,
+      "count": 33,
       "file": "inventory/used-subaru-forester-sin-region.json",
       "models": [
         {
           "model": "Forester",
-          "count": 34
+          "count": 33
         }
       ]
     },
@@ -338,12 +423,25 @@
       "condition": "used",
       "make": "subaru",
       "model": "BRZ",
-      "count": 7,
+      "count": 6,
       "file": "inventory/used-subaru-brz.json",
       "models": [
         {
           "model": "BRZ",
-          "count": 7
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "ForesterSport 4dr All-Wheel Drive",
+      "count": 1,
+      "file": "inventory/used-subaru-forestersport-4dr-all-wheel-drive.json",
+      "models": [
+        {
+          "model": "ForesterSport 4dr All-Wheel Drive",
+          "count": 1
         }
       ]
     },
@@ -396,6 +494,19 @@
         {
           "model": "Crosstrek Touring AWD",
           "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "XV Crosstrek",
+      "count": 3,
+      "file": "inventory/used-subaru-xv-crosstrek.json",
+      "models": [
+        {
+          "model": "XV Crosstrek",
+          "count": 3
         }
       ]
     },
@@ -474,19 +585,6 @@
         {
           "model": "WRX Sport-tech",
           "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "subaru",
-      "model": "XV Crosstrek",
-      "count": 2,
-      "file": "inventory/used-subaru-xv-crosstrek.json",
-      "models": [
-        {
-          "model": "XV Crosstrek",
-          "count": 2
         }
       ]
     },
@@ -581,6 +679,19 @@
       "models": [
         {
           "model": "Crosstrek Convenience",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Legacy Sedan 2.5i w/Touring Pkg",
+      "count": 1,
+      "file": "inventory/used-subaru-legacy-sedan-2-5i-w-touring-pkg.json",
+      "models": [
+        {
+          "model": "Legacy Sedan 2.5i w/Touring Pkg",
           "count": 1
         }
       ]

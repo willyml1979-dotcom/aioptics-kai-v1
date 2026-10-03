@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
-  "snapshot": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
+  "snapshot": "2026-10-03T00:36:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "richmond-hyundai-wauc4af47ja001558",
@@ -16,6 +16,7 @@
       "odometer_km": 98401,
       "price_cad": 29988.0,
       "price_note": null,
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/bb55c901-ff61-4e0c-9b7c-c772f24ee43f_2209527c-b7f0-43a0-ac6a-b526cd7e05d2.jpg",
       "dealer_id": "richmond-hyundai",
       "vin": "WAUC4AF47JA001558",
       "stock": "RUEBA00",
@@ -43,6 +44,7 @@
       "price_cad": 19999.0,
       "price_note": null,
       "color": "Grey",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/dcc3b957-b943-46b8-b34b-b09b1fe7c13e_459e624b-d84c-4444-899c-de96dbc9c570.jpg",
       "dealer_id": "island-ford",
       "vin": "WAUFGCFL5FA006935",
       "stock": "26606CV",
@@ -55,6 +57,28 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Island Ford"
+    },
+    {
+      "pub_id": "norden-volkswagen-wauc4af40ja003605",
+      "year": 2018,
+      "make": "Audi",
+      "model": "S4",
+      "body_type": "sedan",
+      "condition": "used",
+      "price_cad": 24900.0,
+      "price_note": null,
+      "color": "Grey",
+      "dealer_id": "norden-volkswagen",
+      "vin": "WAUC4AF40JA003605",
+      "stock": 14448334,
+      "listing_url": "https://www.nordenvw.ca/used/2018-Audi-S4.html",
+      "dealer_url": "https://www.nordenvw.ca/used/2018-Audi-S4.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:48:17",
+      "snapshot": "2026-10-02T17:05:06",
+      "go_url": "https://carwhisper.ca/go/norden-volkswagen-wauc4af40ja003605",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Norden Volkswagen"
     }
   ]
 }

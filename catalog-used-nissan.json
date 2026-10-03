@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
   "condition": "used",
   "make": "nissan",
   "files": [
@@ -8,12 +8,12 @@
       "make": "nissan",
       "model": "Rogue",
       "shard": "part1",
-      "count": 36,
+      "count": 31,
       "file": "inventory/used-nissan-rogue-part1.json",
       "models": [
         {
           "model": "Rogue",
-          "count": 36
+          "count": 31
         }
       ]
     },
@@ -22,12 +22,12 @@
       "make": "nissan",
       "model": "Rogue",
       "shard": "part2",
-      "count": 36,
+      "count": 31,
       "file": "inventory/used-nissan-rogue-part2.json",
       "models": [
         {
           "model": "Rogue",
-          "count": 36
+          "count": 31
         }
       ]
     },
@@ -36,16 +36,12 @@
       "make": "nissan",
       "model": "Rogue",
       "shard": "part3",
-      "count": 36,
+      "count": 31,
       "file": "inventory/used-nissan-rogue-part3.json",
       "models": [
         {
-          "model": "ROGUE",
-          "count": 1
-        },
-        {
           "model": "Rogue",
-          "count": 35
+          "count": 31
         }
       ]
     },
@@ -54,12 +50,16 @@
       "make": "nissan",
       "model": "Rogue",
       "shard": "part4",
-      "count": 36,
+      "count": 31,
       "file": "inventory/used-nissan-rogue-part4.json",
       "models": [
         {
+          "model": "ROGUE",
+          "count": 1
+        },
+        {
           "model": "Rogue",
-          "count": 36
+          "count": 30
         }
       ]
     },
@@ -68,12 +68,26 @@
       "make": "nissan",
       "model": "Rogue",
       "shard": "part5",
-      "count": 35,
+      "count": 31,
       "file": "inventory/used-nissan-rogue-part5.json",
       "models": [
         {
           "model": "Rogue",
-          "count": 35
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Rogue",
+      "shard": "part6",
+      "count": 26,
+      "file": "inventory/used-nissan-rogue-part6.json",
+      "models": [
+        {
+          "model": "Rogue",
+          "count": 26
         }
       ]
     },
@@ -81,12 +95,12 @@
       "condition": "used",
       "make": "nissan",
       "model": "Armada",
-      "count": 13,
+      "count": 14,
       "file": "inventory/used-nissan-armada.json",
       "models": [
         {
           "model": "Armada",
-          "count": 13
+          "count": 14
         }
       ]
     },
@@ -217,7 +231,7 @@
       "condition": "used",
       "make": "nissan",
       "model": "Altima",
-      "count": 18,
+      "count": 19,
       "file": "inventory/used-nissan-altima.json",
       "models": [
         {
@@ -226,7 +240,7 @@
         },
         {
           "model": "Altima",
-          "count": 17
+          "count": 18
         }
       ]
     },
@@ -234,12 +248,83 @@
       "condition": "used",
       "make": "nissan",
       "model": "Qashqai",
-      "count": 39,
-      "file": "inventory/used-nissan-qashqai.json",
+      "shard": "Lower Mainland",
+      "count": 10,
+      "file": "inventory/used-nissan-qashqai-lower-mainland.json",
       "models": [
         {
           "model": "Qashqai",
-          "count": 39
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Qashqai",
+      "shard": "Norte/Cariboo",
+      "count": 1,
+      "file": "inventory/used-nissan-qashqai-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Qashqai",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Qashqai",
+      "shard": "Okanagan",
+      "count": 10,
+      "file": "inventory/used-nissan-qashqai-okanagan.json",
+      "models": [
+        {
+          "model": "Qashqai",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Qashqai",
+      "shard": "Thompson-Okanagan",
+      "count": 1,
+      "file": "inventory/used-nissan-qashqai-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "Qashqai",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Qashqai",
+      "shard": "Vancouver Island",
+      "count": 10,
+      "file": "inventory/used-nissan-qashqai-vancouver-island.json",
+      "models": [
+        {
+          "model": "Qashqai",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Qashqai",
+      "shard": "sin-region",
+      "count": 7,
+      "file": "inventory/used-nissan-qashqai-sin-region.json",
+      "models": [
+        {
+          "model": "Qashqai",
+          "count": 7
         }
       ]
     },
@@ -322,12 +407,12 @@
       "make": "nissan",
       "model": "Pathfinder",
       "shard": "sin-region",
-      "count": 7,
+      "count": 8,
       "file": "inventory/used-nissan-pathfinder-sin-region.json",
       "models": [
         {
           "model": "Pathfinder",
-          "count": 7
+          "count": 8
         }
       ]
     },
@@ -546,7 +631,7 @@
       "condition": "used",
       "make": "nissan",
       "model": "Kicks Play",
-      "count": 24,
+      "count": 28,
       "file": "inventory/used-nissan-kicks-play.json",
       "models": [
         {
@@ -555,7 +640,7 @@
         },
         {
           "model": "Kicks Play",
-          "count": 21
+          "count": 25
         }
       ]
     },
@@ -670,6 +755,32 @@
     {
       "condition": "used",
       "make": "nissan",
+      "model": "Kicks PlaySV",
+      "count": 1,
+      "file": "inventory/used-nissan-kicks-playsv.json",
+      "models": [
+        {
+          "model": "Kicks PlaySV",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "RogueS",
+      "count": 1,
+      "file": "inventory/used-nissan-rogues.json",
+      "models": [
+        {
+          "model": "RogueS",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
       "model": "Rogue SV",
       "count": 1,
       "file": "inventory/used-nissan-rogue-sv.json",
@@ -690,6 +801,45 @@
         {
           "model": "Frontier Crew Cab",
           "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "MuranoPlatinum 4dr All-Wheel Drive",
+      "count": 2,
+      "file": "inventory/used-nissan-muranoplatinum-4dr-all-wheel-drive.json",
+      "models": [
+        {
+          "model": "MuranoPlatinum 4dr All-Wheel Drive",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "FrontierSV 4x4 Crew Cab 6 ft. box",
+      "count": 1,
+      "file": "inventory/used-nissan-frontiersv-4x4-crew-cab-6-ft-box.json",
+      "models": [
+        {
+          "model": "FrontierSV 4x4 Crew Cab 6 ft. box",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "RogueS 4dr All-Wheel Drive Sport Utility",
+      "count": 1,
+      "file": "inventory/used-nissan-rogues-4dr-all-wheel-drive-sport-utility.json",
+      "models": [
+        {
+          "model": "RogueS 4dr All-Wheel Drive Sport Utility",
+          "count": 1
         }
       ]
     },
@@ -761,6 +911,45 @@
     {
       "condition": "used",
       "make": "nissan",
+      "model": "Kicks PlayS",
+      "count": 1,
+      "file": "inventory/used-nissan-kicks-plays.json",
+      "models": [
+        {
+          "model": "Kicks PlayS",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "PathfinderS",
+      "count": 1,
+      "file": "inventory/used-nissan-pathfinders.json",
+      "models": [
+        {
+          "model": "PathfinderS",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "PathfinderRock Creek",
+      "count": 1,
+      "file": "inventory/used-nissan-pathfinderrock-creek.json",
+      "models": [
+        {
+          "model": "PathfinderRock Creek",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
       "model": "Sentra Sedan 18",
       "count": 1,
       "file": "inventory/used-nissan-sentra-sedan-18.json",
@@ -806,6 +995,19 @@
       "models": [
         {
           "model": "Murano SV",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "PathfinderS 4dr 4x4",
+      "count": 1,
+      "file": "inventory/used-nissan-pathfinders-4dr-4x4.json",
+      "models": [
+        {
+          "model": "PathfinderS 4dr 4x4",
           "count": 1
         }
       ]

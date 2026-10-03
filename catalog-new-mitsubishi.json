@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
   "condition": "new",
   "make": "mitsubishi",
   "files": [
@@ -8,12 +8,12 @@
       "make": "mitsubishi",
       "model": "RVR",
       "shard": "part1",
-      "count": 35,
+      "count": 23,
       "file": "inventory/new-mitsubishi-rvr-part1.json",
       "models": [
         {
           "model": "RVR",
-          "count": 35
+          "count": 23
         }
       ]
     },
@@ -22,12 +22,26 @@
       "make": "mitsubishi",
       "model": "RVR",
       "shard": "part2",
-      "count": 34,
+      "count": 23,
       "file": "inventory/new-mitsubishi-rvr-part2.json",
       "models": [
         {
           "model": "RVR",
-          "count": 34
+          "count": 23
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mitsubishi",
+      "model": "RVR",
+      "shard": "part3",
+      "count": 23,
+      "file": "inventory/new-mitsubishi-rvr-part3.json",
+      "models": [
+        {
+          "model": "RVR",
+          "count": 23
         }
       ]
     },
@@ -64,12 +78,12 @@
       "make": "mitsubishi",
       "model": "Outlander",
       "shard": "part1",
-      "count": 35,
+      "count": 28,
       "file": "inventory/new-mitsubishi-outlander-part1.json",
       "models": [
         {
           "model": "Outlander",
-          "count": 35
+          "count": 28
         }
       ]
     },
@@ -78,12 +92,12 @@
       "make": "mitsubishi",
       "model": "Outlander",
       "shard": "part2",
-      "count": 35,
+      "count": 28,
       "file": "inventory/new-mitsubishi-outlander-part2.json",
       "models": [
         {
           "model": "Outlander",
-          "count": 35
+          "count": 28
         }
       ]
     },
@@ -92,12 +106,12 @@
       "make": "mitsubishi",
       "model": "Outlander",
       "shard": "part3",
-      "count": 35,
+      "count": 28,
       "file": "inventory/new-mitsubishi-outlander-part3.json",
       "models": [
         {
           "model": "Outlander",
-          "count": 35
+          "count": 28
         }
       ]
     },
@@ -106,12 +120,26 @@
       "make": "mitsubishi",
       "model": "Outlander",
       "shard": "part4",
-      "count": 33,
+      "count": 28,
       "file": "inventory/new-mitsubishi-outlander-part4.json",
       "models": [
         {
           "model": "Outlander",
-          "count": 33
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mitsubishi",
+      "model": "Outlander",
+      "shard": "part5",
+      "count": 26,
+      "file": "inventory/new-mitsubishi-outlander-part5.json",
+      "models": [
+        {
+          "model": "Outlander",
+          "count": 26
         }
       ]
     },
@@ -120,12 +148,12 @@
       "make": "mitsubishi",
       "model": "Outlander PHEV",
       "shard": "part1",
-      "count": 33,
+      "count": 28,
       "file": "inventory/new-mitsubishi-outlander-phev-part1.json",
       "models": [
         {
           "model": "Outlander PHEV",
-          "count": 33
+          "count": 28
         }
       ]
     },
@@ -134,12 +162,12 @@
       "make": "mitsubishi",
       "model": "Outlander PHEV",
       "shard": "part2",
-      "count": 33,
+      "count": 28,
       "file": "inventory/new-mitsubishi-outlander-phev-part2.json",
       "models": [
         {
           "model": "Outlander PHEV",
-          "count": 33
+          "count": 28
         }
       ]
     },
@@ -148,12 +176,12 @@
       "make": "mitsubishi",
       "model": "Outlander PHEV",
       "shard": "part3",
-      "count": 33,
+      "count": 28,
       "file": "inventory/new-mitsubishi-outlander-phev-part3.json",
       "models": [
         {
           "model": "Outlander PHEV",
-          "count": 33
+          "count": 28
         }
       ]
     },
@@ -162,12 +190,12 @@
       "make": "mitsubishi",
       "model": "Outlander PHEV",
       "shard": "part4",
-      "count": 33,
+      "count": 28,
       "file": "inventory/new-mitsubishi-outlander-phev-part4.json",
       "models": [
         {
           "model": "Outlander PHEV",
-          "count": 33
+          "count": 28
         }
       ]
     },
@@ -176,12 +204,26 @@
       "make": "mitsubishi",
       "model": "Outlander PHEV",
       "shard": "part5",
-      "count": 31,
+      "count": 28,
       "file": "inventory/new-mitsubishi-outlander-phev-part5.json",
       "models": [
         {
           "model": "Outlander PHEV",
-          "count": 31
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mitsubishi",
+      "model": "Outlander PHEV",
+      "shard": "part6",
+      "count": 23,
+      "file": "inventory/new-mitsubishi-outlander-phev-part6.json",
+      "models": [
+        {
+          "model": "Outlander PHEV",
+          "count": 23
         }
       ]
     }

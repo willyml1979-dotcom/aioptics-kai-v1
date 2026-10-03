@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
-  "snapshot": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
+  "snapshot": "2026-10-03T00:36:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "brian-jessel-bmw-wba73ap06pcl79271",
@@ -18,6 +18,7 @@
       "price_cad": 46900.0,
       "price_note": null,
       "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/f0e190be-6171-4425-9ba4-94371e6a8cd1_7a865d6b-d09a-4041-a74a-344c4daba611.jpg?promo=9e584cfe-2897-4a08-b166-a6186c7c566a_1&overlay-type=tadv",
       "dealer_id": "brian-jessel-bmw",
       "vin": "WBA73AP06PCL79271",
       "stock": "TX04653",
@@ -41,6 +42,7 @@
       "price_cad": 54900.0,
       "price_note": null,
       "color": "White",
+      "photo_url": "https://www.brianjesselbmw.com/wp-content/themes/convertus-achilles/achilles/assets/images/srp-placeholder/PV.jpg",
       "dealer_id": "brian-jessel-bmw",
       "vin": "WBA13AW05NFM27457",
       "stock": "TG63312",
@@ -68,6 +70,7 @@
       "price_cad": 19857.0,
       "price_note": null,
       "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/7f41d7a7-de46-4762-b06b-55228b507a52_c8b1b87f-1eff-4b4b-8361-fd20080dad1f.jpg",
       "dealer_id": "prince-george-ford",
       "vin": "WBA4W5C58KAE50898",
       "stock": "5119179",
@@ -124,6 +127,26 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Harmony Honda"
+    },
+    {
+      "pub_id": "norden-volkswagen-wba4w5c52jae43475",
+      "year": 2018,
+      "make": "BMW",
+      "model": "4 Series",
+      "condition": "used",
+      "price_cad": 20900.0,
+      "price_note": null,
+      "dealer_id": "norden-volkswagen",
+      "vin": "WBA4W5C52JAE43475",
+      "stock": 14449618,
+      "listing_url": "https://www.nordenvw.ca/used/2018-BMW-4_Series.html",
+      "dealer_url": "https://www.nordenvw.ca/used/2018-BMW-4_Series.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:48:27",
+      "snapshot": "2026-10-02T17:05:06",
+      "go_url": "https://carwhisper.ca/go/norden-volkswagen-wba4w5c52jae43475",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Norden Volkswagen"
     }
   ]
 }

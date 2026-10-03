@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
   "condition": "used",
   "make": "tesla",
   "files": [
@@ -7,12 +7,12 @@
       "condition": "used",
       "make": "tesla",
       "model": "Model 3",
-      "count": 37,
+      "count": 34,
       "file": "inventory/used-tesla-model-3.json",
       "models": [
         {
           "model": "Model 3",
-          "count": 37
+          "count": 34
         }
       ]
     },
@@ -58,12 +58,38 @@
     {
       "condition": "used",
       "make": "tesla",
+      "model": "Model 3Standard Range",
+      "count": 1,
+      "file": "inventory/used-tesla-model-3standard-range.json",
+      "models": [
+        {
+          "model": "Model 3Standard Range",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "tesla",
       "model": "Model Y RWD",
       "count": 1,
       "file": "inventory/used-tesla-model-y-rwd.json",
       "models": [
         {
           "model": "Model Y RWD",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "tesla",
+      "model": "Model 3 Standard Range Plus",
+      "count": 1,
+      "file": "inventory/used-tesla-model-3-standard-range-plus.json",
+      "models": [
+        {
+          "model": "Model 3 Standard Range Plus",
           "count": 1
         }
       ]

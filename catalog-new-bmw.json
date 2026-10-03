@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
   "condition": "new",
   "make": "bmw",
   "files": [
@@ -7,13 +7,13 @@
       "condition": "new",
       "make": "bmw",
       "model": "X2",
-      "shard": "Lower Mainland",
-      "count": 38,
-      "file": "inventory/new-bmw-x2-lower-mainland.json",
+      "shard": "part1",
+      "count": 22,
+      "file": "inventory/new-bmw-x2-part1.json",
       "models": [
         {
           "model": "X2",
-          "count": 38
+          "count": 22
         }
       ]
     },
@@ -21,27 +21,13 @@
       "condition": "new",
       "make": "bmw",
       "model": "X2",
-      "shard": "Okanagan",
-      "count": 3,
-      "file": "inventory/new-bmw-x2-okanagan.json",
+      "shard": "part2",
+      "count": 22,
+      "file": "inventory/new-bmw-x2-part2.json",
       "models": [
         {
           "model": "X2",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "bmw",
-      "model": "X2",
-      "shard": "Vancouver Island",
-      "count": 3,
-      "file": "inventory/new-bmw-x2-vancouver-island.json",
-      "models": [
-        {
-          "model": "X2",
-          "count": 3
+          "count": 22
         }
       ]
     },
@@ -238,12 +224,12 @@
       "make": "bmw",
       "model": "i4",
       "shard": "part1",
-      "count": 35,
+      "count": 34,
       "file": "inventory/new-bmw-i4-part1.json",
       "models": [
         {
           "model": "i4",
-          "count": 35
+          "count": 34
         }
       ]
     },

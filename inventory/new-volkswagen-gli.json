@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
-  "snapshot": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
+  "snapshot": "2026-10-03T00:36:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 4,
   "vehicles": [
     {
       "pub_id": "abbotsford-volkswagen-3vw2m7bu0vm005920",
@@ -20,7 +20,7 @@
       "listing_url": "https://www.abbotsfordvw.ca/new/2027-Volkswagen-GLI.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/2027-Volkswagen-GLI.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:14:36",
-      "snapshot": "2026-09-26T18:23:31",
+      "snapshot": "2026-10-02T16:15:26",
       "go_url": "https://carwhisper.ca/go/abbotsford-volkswagen-3vw2m7bu0vm005920",
       "region": "Lower Mainland",
       "city": "Abbotsford",
@@ -71,6 +71,28 @@
       "city": "Courtenay",
       "province": "BC",
       "dealer_name": "Comox Valley VW"
+    },
+    {
+      "pub_id": "norden-volkswagen-3vw2m7buxvm007156",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "GLI",
+      "body_type": "sedan",
+      "condition": "new",
+      "price_cad": 37845.0,
+      "price_note": null,
+      "color": "{$COLOREX}",
+      "dealer_id": "norden-volkswagen",
+      "vin": "3VW2M7BUXVM007156",
+      "stock": "79431-489455",
+      "listing_url": "https://www.nordenvw.ca/new/2027-Volkswagen-GLI.html",
+      "dealer_url": "https://www.nordenvw.ca/new/2027-Volkswagen-GLI.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:44:10",
+      "snapshot": "2026-10-02T17:05:06",
+      "go_url": "https://carwhisper.ca/go/norden-volkswagen-3vw2m7buxvm007156",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Norden Volkswagen"
     }
   ]
 }

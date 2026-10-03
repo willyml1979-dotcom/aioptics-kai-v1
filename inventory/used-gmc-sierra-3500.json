@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
-  "snapshot": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
+  "snapshot": "2026-10-03T00:36:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "pioneer-chrysler-jeep-1gt49wey3mf155234",
@@ -45,6 +45,29 @@
       "city": "Prince George",
       "province": "BC",
       "dealer_name": "Northland Chrysler Jeep Dodge"
+    },
+    {
+      "pub_id": "fort-motors-ltd-1gt49wey5lf292772",
+      "year": 2020,
+      "make": "GMC",
+      "model": "Sierra 3500",
+      "condition": "used",
+      "odometer_km": 94642,
+      "price_cad": 75995.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "fort-motors-ltd",
+      "vin": "1GT49WEY5LF292772",
+      "stock": "Y92772",
+      "listing_url": "https://www.fortmotors.ca/inventory/2020-gmc-sierra-3500/14634129",
+      "dealer_url": "https://www.fortmotors.ca/inventory/2020-gmc-sierra-3500/14634129?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T04:21:50",
+      "snapshot": "2026-09-26T06:26:42",
+      "go_url": "https://carwhisper.ca/go/fort-motors-ltd-1gt49wey5lf292772",
+      "region": "Norte/Cariboo",
+      "city": "Fort St. John",
+      "province": "BC",
+      "dealer_name": "Fort Motors Ltd."
     },
     {
       "pub_id": "okanagan-chrysler-dodge-jeep-ram-1gt49vey7rf126532",

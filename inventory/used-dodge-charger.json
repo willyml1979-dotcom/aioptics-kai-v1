@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
-  "snapshot": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
+  "snapshot": "2026-10-03T00:36:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 17,
+  "count": 18,
   "vehicles": [
     {
       "pub_id": "maple-ridge-hyundai-2c3cdxjgxjh293056",
@@ -37,6 +37,7 @@
       "price_cad": 23999.0,
       "price_note": null,
       "color": "Blue",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/6020a0f1-3a9d-477c-83d6-8bf62d3668a2_a3571daf-1932-47ac-b2f4-f39830445939.jpg",
       "dealer_id": "go-langley-mitsubishi",
       "vin": "2C3CDXHG2NH132647",
       "stock": "26PH862",
@@ -108,6 +109,7 @@
       "price_cad": 41991.0,
       "price_note": null,
       "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/2eedd061-3071-4de0-942e-0c5096d86e16_81ceef2a-8caf-47ad-8352-8182a8a595a8.jpg",
       "dealer_id": "murray-hyundai-white-rock",
       "vin": "2C3CDXHG1PH683736",
       "stock": "SH69020",
@@ -135,6 +137,7 @@
       "price_cad": 10111.0,
       "price_note": null,
       "color": "Silver",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/c2c67a8e-8f27-4e49-b9ef-bff54e11b342_1ebaf051-0f45-4c26-97ed-59936416f9ca.jpg",
       "dealer_id": "prince-george-ford",
       "vin": "2C3CDXJG1GH293794",
       "stock": "B8345CE",
@@ -147,6 +150,26 @@
       "city": "Prince George",
       "province": "BC",
       "dealer_name": "Prince George Ford"
+    },
+    {
+      "pub_id": "heartland-toyota-u4e54a2b013",
+      "year": 2019,
+      "make": "Dodge",
+      "model": "Charger",
+      "condition": "used",
+      "odometer_km": 59803,
+      "price_cad": 19900.0,
+      "price_note": null,
+      "dealer_id": "heartland-toyota",
+      "listing_url": "https://heartlandtoyota.ca/inventory/2019-dodge-charger/14756930",
+      "dealer_url": "https://heartlandtoyota.ca/inventory/2019-dodge-charger/14756930?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T08:45:43",
+      "snapshot": "2026-09-26T08:46:19",
+      "go_url": "https://carwhisper.ca/go/heartland-toyota-u4e54a2b013",
+      "region": "Norte/Cariboo",
+      "city": "Williams Lake",
+      "province": "BC",
+      "dealer_name": "Heartland Toyota"
     },
     {
       "pub_id": "kelowna-hyundai-2c3cdxjgxjh293056",
@@ -313,6 +336,7 @@
       "price_cad": 34995.0,
       "price_note": null,
       "color": "Orange",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/93df165a-8fdb-49dd-8575-1f7cccf945d1_4a781f26-9ba3-4a80-a077-1f97a6ba8158.jpg",
       "dealer_id": "duncan-hyundai",
       "vin": "2C3CDXMG3MH675901",
       "stock": "KH67590",
@@ -359,6 +383,7 @@
       "price_cad": 68704.0,
       "price_note": null,
       "color": "Green",
+      "photo_url": "https://vehicleimages.leadboxhq.com/v1/jennerchevroletbuickgmc/1895440/7482ef1c-4621-4a83-ab9e-29a3471fbebc-600.jpg",
       "dealer_id": "jenner-chevrolet-buick-gmc-ltd",
       "vin": "2C3CDXGJ7PH528718",
       "stock": "XZ7425",
@@ -385,6 +410,7 @@
       "price_cad": 38888.0,
       "price_note": null,
       "color": "Grey",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/899f1e29-96b9-4046-9fbf-081880ee1eab_4bc872d3-b691-46fb-b430-5de36efa0bc3.png",
       "dealer_id": "go-auto-brampton-chrysler",
       "vin": "2C3CDXCT1MH681503",
       "stock": "T27MA11",
@@ -394,7 +420,7 @@
       "snapshot": "2026-10-01T21:16:55",
       "go_url": "https://carwhisper.ca/go/go-auto-brampton-chrysler-2c3cdxct1mh681503",
       "city": null,
-      "province": "BC",
+      "province": "ON",
       "dealer_name": "Go Auto Brampton Chrysler"
     }
   ]

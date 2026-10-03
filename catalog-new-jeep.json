@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
   "condition": "new",
   "make": "jeep",
   "files": [
@@ -34,7 +34,7 @@
       "make": "jeep",
       "model": "Compass",
       "shard": "part1",
-      "count": 35,
+      "count": 29,
       "file": "inventory/new-jeep-compass-part1.json",
       "models": [
         {
@@ -43,7 +43,7 @@
         },
         {
           "model": "Compass",
-          "count": 28
+          "count": 22
         }
       ]
     },
@@ -52,12 +52,12 @@
       "make": "jeep",
       "model": "Compass",
       "shard": "part2",
-      "count": 35,
+      "count": 29,
       "file": "inventory/new-jeep-compass-part2.json",
       "models": [
         {
           "model": "Compass",
-          "count": 35
+          "count": 29
         }
       ]
     },
@@ -66,12 +66,12 @@
       "make": "jeep",
       "model": "Compass",
       "shard": "part3",
-      "count": 35,
+      "count": 29,
       "file": "inventory/new-jeep-compass-part3.json",
       "models": [
         {
           "model": "COMPASS",
-          "count": 11
+          "count": 5
         },
         {
           "model": "Compass",
@@ -84,12 +84,12 @@
       "make": "jeep",
       "model": "Compass",
       "shard": "part4",
-      "count": 35,
+      "count": 29,
       "file": "inventory/new-jeep-compass-part4.json",
       "models": [
         {
           "model": "COMPASS",
-          "count": 13
+          "count": 7
         },
         {
           "model": "Compass",
@@ -102,16 +102,34 @@
       "make": "jeep",
       "model": "Compass",
       "shard": "part5",
-      "count": 32,
+      "count": 29,
       "file": "inventory/new-jeep-compass-part5.json",
       "models": [
         {
           "model": "COMPASS",
-          "count": 6
+          "count": 14
         },
         {
           "model": "Compass",
-          "count": 26
+          "count": 15
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Compass",
+      "shard": "part6",
+      "count": 27,
+      "file": "inventory/new-jeep-compass-part6.json",
+      "models": [
+        {
+          "model": "COMPASS",
+          "count": 4
+        },
+        {
+          "model": "Compass",
+          "count": 23
         }
       ]
     },
@@ -146,7 +164,7 @@
       "make": "jeep",
       "model": "Cherokee",
       "shard": "part1",
-      "count": 36,
+      "count": 31,
       "file": "inventory/new-jeep-cherokee-part1.json",
       "models": [
         {
@@ -155,7 +173,7 @@
         },
         {
           "model": "Cherokee",
-          "count": 33
+          "count": 28
         }
       ]
     },
@@ -164,12 +182,12 @@
       "make": "jeep",
       "model": "Cherokee",
       "shard": "part2",
-      "count": 36,
+      "count": 31,
       "file": "inventory/new-jeep-cherokee-part2.json",
       "models": [
         {
           "model": "Cherokee",
-          "count": 36
+          "count": 31
         }
       ]
     },
@@ -178,12 +196,12 @@
       "make": "jeep",
       "model": "Cherokee",
       "shard": "part3",
-      "count": 36,
+      "count": 31,
       "file": "inventory/new-jeep-cherokee-part3.json",
       "models": [
         {
           "model": "Cherokee",
-          "count": 36
+          "count": 31
         }
       ]
     },
@@ -192,13 +210,9 @@
       "make": "jeep",
       "model": "Cherokee",
       "shard": "part4",
-      "count": 36,
+      "count": 31,
       "file": "inventory/new-jeep-cherokee-part4.json",
       "models": [
-        {
-          "model": "CHEROKEE",
-          "count": 5
-        },
         {
           "model": "Cherokee",
           "count": 31
@@ -210,7 +224,7 @@
       "make": "jeep",
       "model": "Cherokee",
       "shard": "part5",
-      "count": 36,
+      "count": 31,
       "file": "inventory/new-jeep-cherokee-part5.json",
       "models": [
         {
@@ -219,7 +233,7 @@
         },
         {
           "model": "Cherokee",
-          "count": 31
+          "count": 26
         }
       ]
     },
@@ -228,16 +242,16 @@
       "make": "jeep",
       "model": "Cherokee",
       "shard": "part6",
-      "count": 36,
+      "count": 31,
       "file": "inventory/new-jeep-cherokee-part6.json",
       "models": [
         {
           "model": "CHEROKEE",
-          "count": 1
+          "count": 6
         },
         {
           "model": "Cherokee",
-          "count": 35
+          "count": 25
         }
       ]
     },
@@ -250,12 +264,26 @@
       "file": "inventory/new-jeep-cherokee-part7.json",
       "models": [
         {
+          "model": "Cherokee",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Cherokee",
+      "shard": "part8",
+      "count": 30,
+      "file": "inventory/new-jeep-cherokee-part8.json",
+      "models": [
+        {
           "model": "CHEROKEE",
           "count": 1
         },
         {
           "model": "Cherokee",
-          "count": 30
+          "count": 29
         }
       ]
     },

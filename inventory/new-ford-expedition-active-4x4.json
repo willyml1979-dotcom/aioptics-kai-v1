@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
-  "snapshot": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
+  "snapshot": "2026-10-03T00:36:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 8,
+  "count": 10,
   "vehicles": [
     {
       "pub_id": "titanium-ford-73801-481183",
@@ -174,6 +174,48 @@
       "city": "Campbell River",
       "province": "BC",
       "dealer_name": "Steve Marshall Motors (1996) Ltd."
+    },
+    {
+      "pub_id": "zender-ford-73801-481183",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Expedition Active 4x4",
+      "drivetrain": "4WD",
+      "condition": "new",
+      "price_cad": 86065.0,
+      "price_note": null,
+      "color": "{$COLOREX}",
+      "dealer_id": "zender-ford",
+      "stock": "73801-481183",
+      "listing_url": "https://www.zenderford.com/new/2026-Ford-Expedition.html",
+      "dealer_url": "https://www.zenderford.com/new/2026-Ford-Expedition.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T17:11:52",
+      "snapshot": "2026-10-02T17:20:13",
+      "go_url": "https://carwhisper.ca/go/zender-ford-73801-481183",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Zender Ford"
+    },
+    {
+      "pub_id": "zender-ford-1fmju1rgxvea32331",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Expedition Active 4x4",
+      "drivetrain": "4WD",
+      "condition": "new",
+      "price_cad": 89295.0,
+      "price_note": null,
+      "dealer_id": "zender-ford",
+      "vin": "1FMJU1RGXVEA32331",
+      "stock": "76809-484805",
+      "listing_url": "https://www.zenderford.com/new/2027-Ford-Expedition.html",
+      "dealer_url": "https://www.zenderford.com/new/2027-Ford-Expedition.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T17:14:58",
+      "snapshot": "2026-10-02T17:20:13",
+      "go_url": "https://carwhisper.ca/go/zender-ford-1fmju1rgxvea32331",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Zender Ford"
     }
   ]
 }

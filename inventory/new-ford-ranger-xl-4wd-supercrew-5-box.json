@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
-  "snapshot": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
+  "snapshot": "2026-10-03T00:36:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "snow-valley-ford-sales-1fter4hp4tle08279",
@@ -47,6 +47,28 @@
       "city": "Campbell River",
       "province": "BC",
       "dealer_name": "Steve Marshall Motors (1996) Ltd."
+    },
+    {
+      "pub_id": "zender-ford-1fter4hh3tle23574",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Ranger XL 4WD SuperCrew 5' Box",
+      "drivetrain": "4WD",
+      "condition": "new",
+      "price_cad": 46065.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "zender-ford",
+      "vin": "1FTER4HH3TLE23574",
+      "stock": "74204-481782",
+      "listing_url": "https://www.zenderford.com/new/2026-Ford-Ranger.html",
+      "dealer_url": "https://www.zenderford.com/new/2026-Ford-Ranger.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T17:13:48",
+      "snapshot": "2026-10-02T17:20:13",
+      "go_url": "https://carwhisper.ca/go/zender-ford-1fter4hh3tle23574",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Zender Ford"
     }
   ]
 }

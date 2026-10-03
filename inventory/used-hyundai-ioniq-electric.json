@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
-  "snapshot": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
+  "snapshot": "2026-10-03T00:36:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "richmond-hyundai-kmhc85lh1ku034511",
@@ -16,6 +16,7 @@
       "price_cad": 14488.0,
       "price_note": null,
       "color": "Silver",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/8e7ad1c8-06d6-4b70-9953-40d87d4dd0a0_0873aa4c-79ab-49af-84d3-b52f95e237ac.jpg",
       "dealer_id": "richmond-hyundai",
       "vin": "KMHC85LH1KU034511",
       "stock": "RUTNA03",
@@ -67,6 +68,7 @@
       "price_cad": 18995.0,
       "price_note": null,
       "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/ee9f91dd-ee60-4500-91cd-8f31351ffea8_a2a456c9-a636-4686-bd1e-f26a13dc2d8b.jpg",
       "dealer_id": "duncan-hyundai",
       "vin": "KMHC85LH7KU034643",
       "stock": "VH03464",
@@ -79,29 +81,6 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Duncan Hyundai"
-    },
-    {
-      "pub_id": "go-richmond-subaru-kmhc85lh2ku034744",
-      "year": 2019,
-      "make": "Hyundai",
-      "model": "IONIQ Electric",
-      "propulsion": "electric",
-      "propulsion_source": "stated",
-      "condition": "used",
-      "price_cad": 18995.0,
-      "price_note": null,
-      "color": "Black",
-      "dealer_id": "go-richmond-subaru",
-      "vin": "KMHC85LH2KU034744",
-      "stock": "26TS774",
-      "listing_url": "https://www.gorichmondsubaru.ca/vehicles/2019/hyundai/ioniq-electric/richmond/bc/71343765/?sale_class=used",
-      "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2019/hyundai/ioniq-electric/richmond/bc/71343765/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T06:34:03",
-      "snapshot": "2026-10-01T16:03:00",
-      "go_url": "https://carwhisper.ca/go/go-richmond-subaru-kmhc85lh2ku034744",
-      "city": null,
-      "province": "BC",
-      "dealer_name": "Go Richmond Subaru"
     }
   ]
 }

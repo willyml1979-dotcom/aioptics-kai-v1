@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
   "condition": "new",
   "make": "ford",
   "files": [
@@ -8,12 +8,12 @@
       "make": "ford",
       "model": "Bronco Sport",
       "shard": "part1",
-      "count": 32,
+      "count": 31,
       "file": "inventory/new-ford-bronco-sport-part1.json",
       "models": [
         {
           "model": "Bronco Sport",
-          "count": 32
+          "count": 31
         }
       ]
     },
@@ -22,12 +22,12 @@
       "make": "ford",
       "model": "Bronco Sport",
       "shard": "part2",
-      "count": 32,
+      "count": 31,
       "file": "inventory/new-ford-bronco-sport-part2.json",
       "models": [
         {
           "model": "Bronco Sport",
-          "count": 32
+          "count": 31
         }
       ]
     },
@@ -36,12 +36,12 @@
       "make": "ford",
       "model": "Bronco Sport",
       "shard": "part3",
-      "count": 32,
+      "count": 31,
       "file": "inventory/new-ford-bronco-sport-part3.json",
       "models": [
         {
           "model": "Bronco Sport",
-          "count": 32
+          "count": 31
         }
       ]
     },
@@ -50,12 +50,12 @@
       "make": "ford",
       "model": "Bronco Sport",
       "shard": "part4",
-      "count": 32,
+      "count": 31,
       "file": "inventory/new-ford-bronco-sport-part4.json",
       "models": [
         {
           "model": "Bronco Sport",
-          "count": 32
+          "count": 31
         }
       ]
     },
@@ -64,12 +64,12 @@
       "make": "ford",
       "model": "Bronco Sport",
       "shard": "part5",
-      "count": 32,
+      "count": 31,
       "file": "inventory/new-ford-bronco-sport-part5.json",
       "models": [
         {
           "model": "Bronco Sport",
-          "count": 32
+          "count": 31
         }
       ]
     },
@@ -78,16 +78,16 @@
       "make": "ford",
       "model": "Bronco Sport",
       "shard": "part6",
-      "count": 32,
+      "count": 31,
       "file": "inventory/new-ford-bronco-sport-part6.json",
       "models": [
         {
           "model": "BRONCO SPORT",
-          "count": 7
+          "count": 2
         },
         {
           "model": "Bronco Sport",
-          "count": 25
+          "count": 29
         }
       ]
     },
@@ -96,8 +96,26 @@
       "make": "ford",
       "model": "Bronco Sport",
       "shard": "part7",
-      "count": 27,
+      "count": 31,
       "file": "inventory/new-ford-bronco-sport-part7.json",
+      "models": [
+        {
+          "model": "BRONCO SPORT",
+          "count": 5
+        },
+        {
+          "model": "Bronco Sport",
+          "count": 26
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "Bronco Sport",
+      "shard": "part8",
+      "count": 29,
+      "file": "inventory/new-ford-bronco-sport-part8.json",
       "models": [
         {
           "model": "BRONCO SPORT",
@@ -105,7 +123,7 @@
         },
         {
           "model": "Bronco Sport",
-          "count": 24
+          "count": 26
         }
       ]
     },
@@ -114,12 +132,12 @@
       "make": "ford",
       "model": "Maverick",
       "shard": "part1",
-      "count": 33,
+      "count": 30,
       "file": "inventory/new-ford-maverick-part1.json",
       "models": [
         {
           "model": "Maverick",
-          "count": 33
+          "count": 30
         }
       ]
     },
@@ -128,16 +146,12 @@
       "make": "ford",
       "model": "Maverick",
       "shard": "part2",
-      "count": 33,
+      "count": 30,
       "file": "inventory/new-ford-maverick-part2.json",
       "models": [
         {
-          "model": "MAVERICK",
-          "count": 1
-        },
-        {
           "model": "Maverick",
-          "count": 32
+          "count": 30
         }
       ]
     },
@@ -146,16 +160,30 @@
       "make": "ford",
       "model": "Maverick",
       "shard": "part3",
-      "count": 32,
+      "count": 30,
       "file": "inventory/new-ford-maverick-part3.json",
       "models": [
         {
           "model": "MAVERICK",
-          "count": 4
+          "count": 5
         },
         {
           "model": "Maverick",
-          "count": 28
+          "count": 25
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "Maverick",
+      "shard": "part4",
+      "count": 27,
+      "file": "inventory/new-ford-maverick-part4.json",
+      "models": [
+        {
+          "model": "Maverick",
+          "count": 27
         }
       ]
     },
@@ -163,12 +191,12 @@
       "condition": "new",
       "make": "ford",
       "model": "Escape",
-      "count": 15,
+      "count": 16,
       "file": "inventory/new-ford-escape.json",
       "models": [
         {
           "model": "Escape",
-          "count": 15
+          "count": 16
         }
       ]
     },
@@ -177,12 +205,12 @@
       "make": "ford",
       "model": "Ranger",
       "shard": "part1",
-      "count": 32,
+      "count": 30,
       "file": "inventory/new-ford-ranger-part1.json",
       "models": [
         {
           "model": "Ranger",
-          "count": 32
+          "count": 30
         }
       ]
     },
@@ -191,12 +219,12 @@
       "make": "ford",
       "model": "Ranger",
       "shard": "part2",
-      "count": 32,
+      "count": 30,
       "file": "inventory/new-ford-ranger-part2.json",
       "models": [
         {
           "model": "Ranger",
-          "count": 32
+          "count": 30
         }
       ]
     },
@@ -205,12 +233,12 @@
       "make": "ford",
       "model": "Ranger",
       "shard": "part3",
-      "count": 32,
+      "count": 30,
       "file": "inventory/new-ford-ranger-part3.json",
       "models": [
         {
           "model": "Ranger",
-          "count": 32
+          "count": 30
         }
       ]
     },
@@ -219,16 +247,16 @@
       "make": "ford",
       "model": "Ranger",
       "shard": "part4",
-      "count": 32,
+      "count": 30,
       "file": "inventory/new-ford-ranger-part4.json",
       "models": [
         {
           "model": "RANGER",
-          "count": 4
+          "count": 1
         },
         {
           "model": "Ranger",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -237,13 +265,27 @@
       "make": "ford",
       "model": "Ranger",
       "shard": "part5",
-      "count": 31,
+      "count": 30,
       "file": "inventory/new-ford-ranger-part5.json",
       "models": [
         {
           "model": "RANGER",
-          "count": 3
+          "count": 6
         },
+        {
+          "model": "Ranger",
+          "count": 24
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "Ranger",
+      "shard": "part6",
+      "count": 28,
+      "file": "inventory/new-ford-ranger-part6.json",
+      "models": [
         {
           "model": "Ranger",
           "count": 28
@@ -267,13 +309,13 @@
       "condition": "new",
       "make": "ford",
       "model": "Bronco",
-      "shard": "Kootenays",
-      "count": 10,
-      "file": "inventory/new-ford-bronco-kootenays.json",
+      "shard": "part1",
+      "count": 31,
+      "file": "inventory/new-ford-bronco-part1.json",
       "models": [
         {
           "model": "Bronco",
-          "count": 10
+          "count": 31
         }
       ]
     },
@@ -281,13 +323,13 @@
       "condition": "new",
       "make": "ford",
       "model": "Bronco",
-      "shard": "Lower Mainland",
-      "count": 26,
-      "file": "inventory/new-ford-bronco-lower-mainland.json",
+      "shard": "part2",
+      "count": 31,
+      "file": "inventory/new-ford-bronco-part2.json",
       "models": [
         {
           "model": "Bronco",
-          "count": 26
+          "count": 31
         }
       ]
     },
@@ -295,37 +337,9 @@
       "condition": "new",
       "make": "ford",
       "model": "Bronco",
-      "shard": "Norte/Cariboo",
-      "count": 27,
-      "file": "inventory/new-ford-bronco-norte-cariboo.json",
-      "models": [
-        {
-          "model": "Bronco",
-          "count": 27
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "ford",
-      "model": "Bronco",
-      "shard": "Okanagan",
-      "count": 2,
-      "file": "inventory/new-ford-bronco-okanagan.json",
-      "models": [
-        {
-          "model": "Bronco",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "ford",
-      "model": "Bronco",
-      "shard": "Vancouver Island",
-      "count": 35,
-      "file": "inventory/new-ford-bronco-vancouver-island.json",
+      "shard": "part3",
+      "count": 31,
+      "file": "inventory/new-ford-bronco-part3.json",
       "models": [
         {
           "model": "BRONCO",
@@ -333,7 +347,7 @@
         },
         {
           "model": "Bronco",
-          "count": 34
+          "count": 30
         }
       ]
     },
@@ -341,13 +355,13 @@
       "condition": "new",
       "make": "ford",
       "model": "Bronco",
-      "shard": "sin-region",
-      "count": 3,
-      "file": "inventory/new-ford-bronco-sin-region.json",
+      "shard": "part4",
+      "count": 28,
+      "file": "inventory/new-ford-bronco-part4.json",
       "models": [
         {
           "model": "Bronco",
-          "count": 3
+          "count": 28
         }
       ]
     },
@@ -356,12 +370,12 @@
       "make": "ford",
       "model": "Mustang Mach-E",
       "shard": "part1",
-      "count": 35,
+      "count": 29,
       "file": "inventory/new-ford-mustang-mach-e-part1.json",
       "models": [
         {
           "model": "Mustang Mach-E",
-          "count": 35
+          "count": 29
         }
       ]
     },
@@ -370,12 +384,12 @@
       "make": "ford",
       "model": "Mustang Mach-E",
       "shard": "part2",
-      "count": 35,
+      "count": 29,
       "file": "inventory/new-ford-mustang-mach-e-part2.json",
       "models": [
         {
           "model": "Mustang Mach-E",
-          "count": 35
+          "count": 29
         }
       ]
     },
@@ -384,16 +398,12 @@
       "make": "ford",
       "model": "Mustang Mach-E",
       "shard": "part3",
-      "count": 35,
+      "count": 29,
       "file": "inventory/new-ford-mustang-mach-e-part3.json",
       "models": [
         {
-          "model": "MUSTANG MACH-E",
-          "count": 1
-        },
-        {
           "model": "Mustang Mach-E",
-          "count": 34
+          "count": 29
         }
       ]
     },
@@ -402,8 +412,26 @@
       "make": "ford",
       "model": "Mustang Mach-E",
       "shard": "part4",
-      "count": 35,
+      "count": 29,
       "file": "inventory/new-ford-mustang-mach-e-part4.json",
+      "models": [
+        {
+          "model": "MUSTANG MACH-E",
+          "count": 1
+        },
+        {
+          "model": "Mustang Mach-E",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "Mustang Mach-E",
+      "shard": "part5",
+      "count": 29,
+      "file": "inventory/new-ford-mustang-mach-e-part5.json",
       "models": [
         {
           "model": "MUSTANG MACH-E",
@@ -411,25 +439,7 @@
         },
         {
           "model": "Mustang Mach-E",
-          "count": 33
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "ford",
-      "model": "Mustang Mach-E",
-      "shard": "part5",
-      "count": 35,
-      "file": "inventory/new-ford-mustang-mach-e-part5.json",
-      "models": [
-        {
-          "model": "MUSTANG MACH-E",
-          "count": 1
-        },
-        {
-          "model": "Mustang Mach-E",
-          "count": 34
+          "count": 27
         }
       ]
     },
@@ -438,12 +448,44 @@
       "make": "ford",
       "model": "Mustang Mach-E",
       "shard": "part6",
-      "count": 35,
+      "count": 29,
       "file": "inventory/new-ford-mustang-mach-e-part6.json",
       "models": [
         {
+          "model": "MUSTANG MACH-E",
+          "count": 1
+        },
+        {
           "model": "Mustang Mach-E",
-          "count": 35
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "Mustang Mach-E",
+      "shard": "part7",
+      "count": 29,
+      "file": "inventory/new-ford-mustang-mach-e-part7.json",
+      "models": [
+        {
+          "model": "Mustang Mach-E",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "Mustang Mach-E",
+      "shard": "part8",
+      "count": 26,
+      "file": "inventory/new-ford-mustang-mach-e-part8.json",
+      "models": [
+        {
+          "model": "Mustang Mach-E",
+          "count": 26
         }
       ]
     },
@@ -452,12 +494,12 @@
       "make": "ford",
       "model": "Explorer",
       "shard": "part1",
-      "count": 35,
+      "count": 30,
       "file": "inventory/new-ford-explorer-part1.json",
       "models": [
         {
           "model": "Explorer",
-          "count": 35
+          "count": 30
         }
       ]
     },
@@ -466,12 +508,12 @@
       "make": "ford",
       "model": "Explorer",
       "shard": "part2",
-      "count": 35,
+      "count": 30,
       "file": "inventory/new-ford-explorer-part2.json",
       "models": [
         {
           "model": "Explorer",
-          "count": 35
+          "count": 30
         }
       ]
     },
@@ -480,8 +522,22 @@
       "make": "ford",
       "model": "Explorer",
       "shard": "part3",
-      "count": 35,
+      "count": 30,
       "file": "inventory/new-ford-explorer-part3.json",
+      "models": [
+        {
+          "model": "Explorer",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "Explorer",
+      "shard": "part4",
+      "count": 30,
+      "file": "inventory/new-ford-explorer-part4.json",
       "models": [
         {
           "model": "EXPLORER",
@@ -489,7 +545,7 @@
         },
         {
           "model": "Explorer",
-          "count": 34
+          "count": 29
         }
       ]
     },
@@ -498,12 +554,12 @@
       "make": "ford",
       "model": "F-150",
       "shard": "part1",
-      "count": 35,
+      "count": 31,
       "file": "inventory/new-ford-f-150-part1.json",
       "models": [
         {
           "model": "F-150",
-          "count": 35
+          "count": 31
         }
       ]
     },
@@ -512,12 +568,12 @@
       "make": "ford",
       "model": "F-150",
       "shard": "part2",
-      "count": 35,
+      "count": 31,
       "file": "inventory/new-ford-f-150-part2.json",
       "models": [
         {
           "model": "F-150",
-          "count": 35
+          "count": 31
         }
       ]
     },
@@ -526,12 +582,12 @@
       "make": "ford",
       "model": "F-150",
       "shard": "part3",
-      "count": 35,
+      "count": 31,
       "file": "inventory/new-ford-f-150-part3.json",
       "models": [
         {
           "model": "F-150",
-          "count": 35
+          "count": 31
         }
       ]
     },
@@ -540,12 +596,12 @@
       "make": "ford",
       "model": "F-150",
       "shard": "part4",
-      "count": 35,
+      "count": 31,
       "file": "inventory/new-ford-f-150-part4.json",
       "models": [
         {
           "model": "F-150",
-          "count": 35
+          "count": 31
         }
       ]
     },
@@ -554,12 +610,12 @@
       "make": "ford",
       "model": "F-150",
       "shard": "part5",
-      "count": 35,
+      "count": 31,
       "file": "inventory/new-ford-f-150-part5.json",
       "models": [
         {
           "model": "F-150",
-          "count": 35
+          "count": 31
         }
       ]
     },
@@ -568,12 +624,12 @@
       "make": "ford",
       "model": "F-150",
       "shard": "part6",
-      "count": 35,
+      "count": 31,
       "file": "inventory/new-ford-f-150-part6.json",
       "models": [
         {
           "model": "F-150",
-          "count": 35
+          "count": 31
         }
       ]
     },
@@ -582,12 +638,12 @@
       "make": "ford",
       "model": "F-150",
       "shard": "part7",
-      "count": 35,
+      "count": 31,
       "file": "inventory/new-ford-f-150-part7.json",
       "models": [
         {
           "model": "F-150",
-          "count": 35
+          "count": 31
         }
       ]
     },
@@ -596,12 +652,12 @@
       "make": "ford",
       "model": "F-150",
       "shard": "part8",
-      "count": 35,
+      "count": 31,
       "file": "inventory/new-ford-f-150-part8.json",
       "models": [
         {
           "model": "F-150",
-          "count": 35
+          "count": 31
         }
       ]
     },
@@ -610,12 +666,12 @@
       "make": "ford",
       "model": "F-150",
       "shard": "part9",
-      "count": 35,
+      "count": 31,
       "file": "inventory/new-ford-f-150-part9.json",
       "models": [
         {
           "model": "F-150",
-          "count": 35
+          "count": 31
         }
       ]
     },
@@ -624,12 +680,96 @@
       "make": "ford",
       "model": "F-150",
       "shard": "part10",
-      "count": 30,
+      "count": 31,
       "file": "inventory/new-ford-f-150-part10.json",
       "models": [
         {
           "model": "F-150",
-          "count": 30
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150",
+      "shard": "part11",
+      "count": 31,
+      "file": "inventory/new-ford-f-150-part11.json",
+      "models": [
+        {
+          "model": "F-150",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150",
+      "shard": "part12",
+      "count": 31,
+      "file": "inventory/new-ford-f-150-part12.json",
+      "models": [
+        {
+          "model": "F-150",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150",
+      "shard": "part13",
+      "count": 31,
+      "file": "inventory/new-ford-f-150-part13.json",
+      "models": [
+        {
+          "model": "F-150",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150",
+      "shard": "part14",
+      "count": 31,
+      "file": "inventory/new-ford-f-150-part14.json",
+      "models": [
+        {
+          "model": "F-150",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150",
+      "shard": "part15",
+      "count": 31,
+      "file": "inventory/new-ford-f-150-part15.json",
+      "models": [
+        {
+          "model": "F-150",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150",
+      "shard": "part16",
+      "count": 18,
+      "file": "inventory/new-ford-f-150-part16.json",
+      "models": [
+        {
+          "model": "F-150",
+          "count": 18
         }
       ]
     },
@@ -637,12 +777,12 @@
       "condition": "new",
       "make": "ford",
       "model": "Expedition",
-      "count": 10,
+      "count": 14,
       "file": "inventory/new-ford-expedition.json",
       "models": [
         {
           "model": "Expedition",
-          "count": 10
+          "count": 14
         }
       ]
     },
@@ -650,12 +790,12 @@
       "condition": "new",
       "make": "ford",
       "model": "Escape Active FWD",
-      "count": 5,
+      "count": 6,
       "file": "inventory/new-ford-escape-active-fwd.json",
       "models": [
         {
           "model": "Escape Active FWD",
-          "count": 5
+          "count": 6
         }
       ]
     },
@@ -663,12 +803,12 @@
       "condition": "new",
       "make": "ford",
       "model": "Escape PHEV PHEV FWD",
-      "count": 4,
+      "count": 5,
       "file": "inventory/new-ford-escape-phev-phev-fwd.json",
       "models": [
         {
           "model": "Escape PHEV PHEV FWD",
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -676,12 +816,16 @@
       "condition": "new",
       "make": "ford",
       "model": "Mustang",
-      "count": 30,
+      "count": 33,
       "file": "inventory/new-ford-mustang.json",
       "models": [
         {
+          "model": "MUSTANG",
+          "count": 1
+        },
+        {
           "model": "Mustang",
-          "count": 30
+          "count": 32
         }
       ]
     },
@@ -689,12 +833,12 @@
       "condition": "new",
       "make": "ford",
       "model": "Maverick Hybrid XL FWD SuperCrew",
-      "count": 9,
+      "count": 11,
       "file": "inventory/new-ford-maverick-hybrid-xl-fwd-supercrew.json",
       "models": [
         {
           "model": "Maverick Hybrid XL FWD SuperCrew",
-          "count": 9
+          "count": 11
         }
       ]
     },
@@ -702,12 +846,12 @@
       "condition": "new",
       "make": "ford",
       "model": "Mustang EcoBoost Fastback",
-      "count": 5,
+      "count": 6,
       "file": "inventory/new-ford-mustang-ecoboost-fastback.json",
       "models": [
         {
           "model": "Mustang EcoBoost Fastback",
-          "count": 5
+          "count": 6
         }
       ]
     },
@@ -715,12 +859,12 @@
       "condition": "new",
       "make": "ford",
       "model": "Bronco Sport Big Bend 4x4",
-      "count": 8,
+      "count": 10,
       "file": "inventory/new-ford-bronco-sport-big-bend-4x4.json",
       "models": [
         {
           "model": "Bronco Sport Big Bend 4x4",
-          "count": 8
+          "count": 10
         }
       ]
     },
@@ -728,12 +872,12 @@
       "condition": "new",
       "make": "ford",
       "model": "Maverick Lobo Standard AWD SuperCrew",
-      "count": 9,
+      "count": 11,
       "file": "inventory/new-ford-maverick-lobo-standard-awd-supercrew.json",
       "models": [
         {
           "model": "Maverick Lobo Standard AWD SuperCrew",
-          "count": 9
+          "count": 11
         }
       ]
     },
@@ -741,12 +885,12 @@
       "condition": "new",
       "make": "ford",
       "model": "Mustang Mach-E Select AWD",
-      "count": 5,
+      "count": 6,
       "file": "inventory/new-ford-mustang-mach-e-select-awd.json",
       "models": [
         {
           "model": "Mustang Mach-E Select AWD",
-          "count": 5
+          "count": 6
         }
       ]
     },
@@ -754,12 +898,12 @@
       "condition": "new",
       "make": "ford",
       "model": "Escape Hybrid ST-Line Select AWD",
-      "count": 5,
+      "count": 6,
       "file": "inventory/new-ford-escape-hybrid-st-line-select-awd.json",
       "models": [
         {
           "model": "Escape Hybrid ST-Line Select AWD",
-          "count": 5
+          "count": 6
         }
       ]
     },
@@ -767,12 +911,25 @@
       "condition": "new",
       "make": "ford",
       "model": "Mustang Convertible EcoBoost Convertible",
-      "count": 5,
+      "count": 6,
       "file": "inventory/new-ford-mustang-convertible-ecoboost-convertible.json",
       "models": [
         {
           "model": "Mustang Convertible EcoBoost Convertible",
-          "count": 5
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "MUSTANGECOBOOST PREMIUM 2DR FASTBACK (201A)",
+      "count": 6,
+      "file": "inventory/new-ford-mustangecoboost-premium-2dr-fastback-201a.json",
+      "models": [
+        {
+          "model": "MUSTANGECOBOOST PREMIUM 2DR FASTBACK (201A)",
+          "count": 6
         }
       ]
     },
@@ -780,12 +937,12 @@
       "condition": "new",
       "make": "ford",
       "model": "F-150 XL 2WD Reg Cab 8' Box",
-      "count": 7,
+      "count": 9,
       "file": "inventory/new-ford-f-150-xl-2wd-reg-cab-8-box.json",
       "models": [
         {
           "model": "F-150 XL 2WD Reg Cab 8' Box",
-          "count": 7
+          "count": 9
         }
       ]
     },
@@ -793,12 +950,12 @@
       "condition": "new",
       "make": "ford",
       "model": "Explorer Active w/200A Pkg 4WD",
-      "count": 7,
+      "count": 9,
       "file": "inventory/new-ford-explorer-active-w-200a-pkg-4wd.json",
       "models": [
         {
           "model": "Explorer Active w/200A Pkg 4WD",
-          "count": 7
+          "count": 9
         }
       ]
     },
@@ -806,12 +963,12 @@
       "condition": "new",
       "make": "ford",
       "model": "Super Duty F-250 SRW XL 2WD Reg Cab 8' Box",
-      "count": 8,
+      "count": 10,
       "file": "inventory/new-ford-super-duty-f-250-srw-xl-2wd-reg-cab-8-box.json",
       "models": [
         {
           "model": "Super Duty F-250 SRW XL 2WD Reg Cab 8' Box",
-          "count": 8
+          "count": 10
         }
       ]
     },
@@ -820,12 +977,12 @@
       "make": "ford",
       "model": "Transit Cargo",
       "shard": "Lower Mainland",
-      "count": 27,
+      "count": 26,
       "file": "inventory/new-ford-transit-cargo-lower-mainland.json",
       "models": [
         {
           "model": "Transit Cargo",
-          "count": 27
+          "count": 26
         }
       ]
     },
@@ -834,12 +991,12 @@
       "make": "ford",
       "model": "Transit Cargo",
       "shard": "Norte/Cariboo",
-      "count": 8,
+      "count": 9,
       "file": "inventory/new-ford-transit-cargo-norte-cariboo.json",
       "models": [
         {
           "model": "Transit Cargo",
-          "count": 8
+          "count": 9
         }
       ]
     },
@@ -875,12 +1032,12 @@
       "condition": "new",
       "make": "ford",
       "model": "Transit",
-      "count": 10,
+      "count": 15,
       "file": "inventory/new-ford-transit.json",
       "models": [
         {
           "model": "Transit",
-          "count": 10
+          "count": 15
         }
       ]
     },
@@ -888,24 +1045,11 @@
       "condition": "new",
       "make": "ford",
       "model": "Super Duty F-350 SRW XL 2WD Reg Cab 8' Box",
-      "count": 7,
+      "count": 9,
       "file": "inventory/new-ford-super-duty-f-350-srw-xl-2wd-reg-cab-8-box.json",
       "models": [
         {
           "model": "Super Duty F-350 SRW XL 2WD Reg Cab 8' Box",
-          "count": 7
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "ford",
-      "model": "Super Duty F-350 DRW XL 2WD Reg Cab 8' Box",
-      "count": 9,
-      "file": "inventory/new-ford-super-duty-f-350-drw-xl-2wd-reg-cab-8-box.json",
-      "models": [
-        {
-          "model": "Super Duty F-350 DRW XL 2WD Reg Cab 8' Box",
           "count": 9
         }
       ]
@@ -913,13 +1057,26 @@
     {
       "condition": "new",
       "make": "ford",
+      "model": "Super Duty F-350 DRW XL 2WD Reg Cab 8' Box",
+      "count": 11,
+      "file": "inventory/new-ford-super-duty-f-350-drw-xl-2wd-reg-cab-8-box.json",
+      "models": [
+        {
+          "model": "Super Duty F-350 DRW XL 2WD Reg Cab 8' Box",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
       "model": "Super Duty F-450 DRW XL 2WD Reg Cab 145\" WB 60\" CA",
-      "count": 8,
+      "count": 10,
       "file": "inventory/new-ford-super-duty-f-450-drw-xl-2wd-reg-cab-145-wb-60-ca.json",
       "models": [
         {
           "model": "Super Duty F-450 DRW XL 2WD Reg Cab 145\" WB 60\" CA",
-          "count": 8
+          "count": 10
         }
       ]
     },
@@ -927,12 +1084,86 @@
       "condition": "new",
       "make": "ford",
       "model": "Super Duty F-350 SRW",
-      "count": 36,
-      "file": "inventory/new-ford-super-duty-f-350-srw.json",
+      "shard": "Lower Mainland",
+      "count": 16,
+      "file": "inventory/new-ford-super-duty-f-350-srw-lower-mainland.json",
       "models": [
         {
           "model": "Super Duty F-350 SRW",
-          "count": 36
+          "count": 16
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "Super Duty F-350 SRW",
+      "shard": "Norte/Cariboo",
+      "count": 20,
+      "file": "inventory/new-ford-super-duty-f-350-srw-norte-cariboo.json",
+      "models": [
+        {
+          "model": "SUPER DUTY F-350 SRW",
+          "count": 11
+        },
+        {
+          "model": "Super Duty F-350 SRW",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "Super Duty F-350 SRW",
+      "shard": "Okanagan",
+      "count": 3,
+      "file": "inventory/new-ford-super-duty-f-350-srw-okanagan.json",
+      "models": [
+        {
+          "model": "Super Duty F-350 SRW",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "Super Duty F-350 SRW",
+      "shard": "Vancouver Island",
+      "count": 2,
+      "file": "inventory/new-ford-super-duty-f-350-srw-vancouver-island.json",
+      "models": [
+        {
+          "model": "Super Duty F-350 SRW",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "Super Duty F-350 SRW",
+      "shard": "sin-region",
+      "count": 5,
+      "file": "inventory/new-ford-super-duty-f-350-srw-sin-region.json",
+      "models": [
+        {
+          "model": "Super Duty F-350 SRW",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "MUSTANGGT PREMIUM 2DR CONVERTIBLE (401A)",
+      "count": 2,
+      "file": "inventory/new-ford-mustanggt-premium-2dr-convertible-401a.json",
+      "models": [
+        {
+          "model": "MUSTANGGT PREMIUM 2DR CONVERTIBLE (401A)",
+          "count": 2
         }
       ]
     },
@@ -953,12 +1184,12 @@
       "condition": "new",
       "make": "ford",
       "model": "Super Duty",
-      "count": 13,
+      "count": 14,
       "file": "inventory/new-ford-super-duty.json",
       "models": [
         {
           "model": "Super Duty",
-          "count": 13
+          "count": 14
         }
       ]
     },
@@ -966,12 +1197,27 @@
       "condition": "new",
       "make": "ford",
       "model": "F-350",
-      "count": 9,
-      "file": "inventory/new-ford-f-350.json",
+      "shard": "part1",
+      "count": 33,
+      "file": "inventory/new-ford-f-350-part1.json",
       "models": [
         {
           "model": "F-350",
-          "count": 9
+          "count": 33
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-350",
+      "shard": "part2",
+      "count": 32,
+      "file": "inventory/new-ford-f-350-part2.json",
+      "models": [
+        {
+          "model": "F-350",
+          "count": 32
         }
       ]
     },
@@ -1005,12 +1251,12 @@
       "condition": "new",
       "make": "ford",
       "model": "Expedition Active 4x4",
-      "count": 8,
+      "count": 10,
       "file": "inventory/new-ford-expedition-active-4x4.json",
       "models": [
         {
           "model": "Expedition Active 4x4",
-          "count": 8
+          "count": 10
         }
       ]
     },
@@ -1030,13 +1276,56 @@
     {
       "condition": "new",
       "make": "ford",
+      "model": "F-150TREMOR 4X4 SUPERCREW CAB 5.5 FT. BOX (401A)",
+      "count": 12,
+      "file": "inventory/new-ford-f-150tremor-4x4-supercrew-cab-5-5-ft-box-401a.json",
+      "models": [
+        {
+          "model": "F-150TREMOR 4X4 SUPERCREW CAB 5.5 FT. BOX (401A)",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150TREMOR 4X4 SUPERCREW CAB 5.5 FT. BOX (402B)",
+      "count": 10,
+      "file": "inventory/new-ford-f-150tremor-4x4-supercrew-cab-5-5-ft-box-402b.json",
+      "models": [
+        {
+          "model": "F-150TREMOR 4X4 SUPERCREW CAB 5.5 FT. BOX (402B)",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
       "model": "Super Duty F-550 DRW",
-      "count": 5,
+      "count": 12,
       "file": "inventory/new-ford-super-duty-f-550-drw.json",
       "models": [
         {
+          "model": "SUPER DUTY F-550 DRW",
+          "count": 7
+        },
+        {
           "model": "Super Duty F-550 DRW",
           "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150TREMOR 4X4 SUPERCREW CAB 5.5 FT. BOX (402A)",
+      "count": 17,
+      "file": "inventory/new-ford-f-150tremor-4x4-supercrew-cab-5-5-ft-box-402a.json",
+      "models": [
+        {
+          "model": "F-150TREMOR 4X4 SUPERCREW CAB 5.5 FT. BOX (402A)",
+          "count": 17
         }
       ]
     },
@@ -1050,6 +1339,19 @@
         {
           "model": "Super Duty F-600 DRW",
           "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150KING RANCH 4X4 SUPERCREW CAB 6.5 FT. BOX (601A)",
+      "count": 3,
+      "file": "inventory/new-ford-f-150king-ranch-4x4-supercrew-cab-6-5-ft-box-601a.json",
+      "models": [
+        {
+          "model": "F-150KING RANCH 4X4 SUPERCREW CAB 6.5 FT. BOX (601A)",
+          "count": 3
         }
       ]
     },
@@ -1083,12 +1385,16 @@
       "condition": "new",
       "make": "ford",
       "model": "Super Duty F-350 DRW",
-      "count": 4,
+      "count": 6,
       "file": "inventory/new-ford-super-duty-f-350-drw.json",
       "models": [
         {
+          "model": "SUPER DUTY F-350 DRW",
+          "count": 3
+        },
+        {
           "model": "Super Duty F-350 DRW",
-          "count": 4
+          "count": 3
         }
       ]
     },
@@ -1101,6 +1407,1299 @@
       "models": [
         {
           "model": "Super Duty F-450 DRW",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-1504x4Crew Cab",
+      "count": 1,
+      "file": "inventory/new-ford-f-1504x4crew-cab.json",
+      "models": [
+        {
+          "model": "F-1504x4Crew Cab",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150XLT4x4Crew Cab",
+      "count": 1,
+      "file": "inventory/new-ford-f-150xlt4x4crew-cab.json",
+      "models": [
+        {
+          "model": "F-150XLT4x4Crew Cab",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "E-Transit Cargo",
+      "count": 2,
+      "file": "inventory/new-ford-e-transit-cargo.json",
+      "models": [
+        {
+          "model": "E-Transit Cargo",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150XLT",
+      "count": 5,
+      "file": "inventory/new-ford-f-150xlt.json",
+      "models": [
+        {
+          "model": "F-150XLT",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "Super Duty F-550 DRWXLT",
+      "count": 1,
+      "file": "inventory/new-ford-super-duty-f-550-drwxlt.json",
+      "models": [
+        {
+          "model": "Super Duty F-550 DRWXLT",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "BRONCO SPORTBADLANDS 4DR 4X4",
+      "count": 12,
+      "file": "inventory/new-ford-bronco-sportbadlands-4dr-4x4.json",
+      "models": [
+        {
+          "model": "BRONCO SPORTBADLANDS 4DR 4X4",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "BRONCO SPORTBIG BEND 4DR 4X4",
+      "count": 21,
+      "file": "inventory/new-ford-bronco-sportbig-bend-4dr-4x4.json",
+      "models": [
+        {
+          "model": "BRONCO SPORTBIG BEND 4DR 4X4",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "BRONCO SPORTOUTER BANKS 4DR 4X4",
+      "count": 25,
+      "file": "inventory/new-ford-bronco-sportouter-banks-4dr-4x4.json",
+      "models": [
+        {
+          "model": "BRONCO SPORTOUTER BANKS 4DR 4X4",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "MAVERICKXL ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX",
+      "count": 3,
+      "file": "inventory/new-ford-maverickxl-all-wheel-drive-supercrew-4-5-ft-box.json",
+      "models": [
+        {
+          "model": "MAVERICKXL ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "MAVERICKXLT ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX (302A)",
+      "count": 15,
+      "file": "inventory/new-ford-maverickxlt-all-wheel-drive-supercrew-4-5-ft-box-302a.json",
+      "models": [
+        {
+          "model": "MAVERICKXLT ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX (302A)",
+          "count": 15
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "MUSTANGECOBOOST 2DR FASTBACK",
+      "count": 2,
+      "file": "inventory/new-ford-mustangecoboost-2dr-fastback.json",
+      "models": [
+        {
+          "model": "MUSTANGECOBOOST 2DR FASTBACK",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "MUSTANG MACH-ESELECT 4DR ALL-WHEEL DRIVE",
+      "count": 12,
+      "file": "inventory/new-ford-mustang-mach-eselect-4dr-all-wheel-drive.json",
+      "models": [
+        {
+          "model": "MUSTANG MACH-ESELECT 4DR ALL-WHEEL DRIVE",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "E-TRANSIT-350 CARGOREAR-WHEEL DRIVE MEDIUM ROOF",
+      "count": 5,
+      "file": "inventory/new-ford-e-transit-350-cargorear-wheel-drive-medium-roof.json",
+      "models": [
+        {
+          "model": "E-TRANSIT-350 CARGOREAR-WHEEL DRIVE MEDIUM ROOF",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "ESCAPEPHEV 4DR FRONT-WHEEL DRIVE (700A)",
+      "count": 8,
+      "file": "inventory/new-ford-escapephev-4dr-front-wheel-drive-700a.json",
+      "models": [
+        {
+          "model": "ESCAPEPHEV 4DR FRONT-WHEEL DRIVE (700A)",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150XLT 4X4 SUPERCREW CAB 6.5 FT. BOX (302A)",
+      "count": 19,
+      "file": "inventory/new-ford-f-150xlt-4x4-supercrew-cab-6-5-ft-box-302a.json",
+      "models": [
+        {
+          "model": "F-150XLT 4X4 SUPERCREW CAB 6.5 FT. BOX (302A)",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX (302A)",
+      "shard": "part1",
+      "count": 36,
+      "file": "inventory/new-ford-f-150xlt-4x4-supercrew-cab-5-5-ft-box-302a-part1.json",
+      "models": [
+        {
+          "model": "F-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX (302A)",
+          "count": 36
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX (302A)",
+      "shard": "part2",
+      "count": 36,
+      "file": "inventory/new-ford-f-150xlt-4x4-supercrew-cab-5-5-ft-box-302a-part2.json",
+      "models": [
+        {
+          "model": "F-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX (302A)",
+          "count": 36
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "TRANSIT-150 CARGOALL-WHEEL DRIVE LOW ROOF",
+      "count": 6,
+      "file": "inventory/new-ford-transit-150-cargoall-wheel-drive-low-roof.json",
+      "models": [
+        {
+          "model": "TRANSIT-150 CARGOALL-WHEEL DRIVE LOW ROOF",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150LARIAT 4X4 SUPERCREW CAB 5.5 FT. BOX (501A)",
+      "count": 22,
+      "file": "inventory/new-ford-f-150lariat-4x4-supercrew-cab-5-5-ft-box-501a.json",
+      "models": [
+        {
+          "model": "F-150LARIAT 4X4 SUPERCREW CAB 5.5 FT. BOX (501A)",
+          "count": 22
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "RANGERLARIAT 4X4 SUPERCREW 5 FT. BOX",
+      "count": 7,
+      "file": "inventory/new-ford-rangerlariat-4x4-supercrew-5-ft-box.json",
+      "models": [
+        {
+          "model": "RANGERLARIAT 4X4 SUPERCREW 5 FT. BOX",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "BRONCOBADLANDS 4DR 4X4",
+      "count": 7,
+      "file": "inventory/new-ford-broncobadlands-4dr-4x4.json",
+      "models": [
+        {
+          "model": "BRONCOBADLANDS 4DR 4X4",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "BRONCOBADLANDS 4DR 4X4 (334A)",
+      "count": 9,
+      "file": "inventory/new-ford-broncobadlands-4dr-4x4-334a.json",
+      "models": [
+        {
+          "model": "BRONCOBADLANDS 4DR 4X4 (334A)",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "BRONCO2DR 4X4",
+      "count": 2,
+      "file": "inventory/new-ford-bronco2dr-4x4.json",
+      "models": [
+        {
+          "model": "BRONCO2DR 4X4",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "BRONCO4DR 4X4 (101A)",
+      "count": 2,
+      "file": "inventory/new-ford-bronco4dr-4x4-101a.json",
+      "models": [
+        {
+          "model": "BRONCO4DR 4X4 (101A)",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "BRONCOBIG BEND 4DR 4X4 (222A)",
+      "count": 21,
+      "file": "inventory/new-ford-broncobig-bend-4dr-4x4-222a.json",
+      "models": [
+        {
+          "model": "BRONCOBIG BEND 4DR 4X4 (222A)",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "BRONCOBIG BEND 4DR 4X4",
+      "count": 9,
+      "file": "inventory/new-ford-broncobig-bend-4dr-4x4.json",
+      "models": [
+        {
+          "model": "BRONCOBIG BEND 4DR 4X4",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "BRONCOOUTER BANKS 4DR 4X4 (314A)",
+      "count": 6,
+      "file": "inventory/new-ford-broncoouter-banks-4dr-4x4-314a.json",
+      "models": [
+        {
+          "model": "BRONCOOUTER BANKS 4DR 4X4 (314A)",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "BRONCORAPTOR 4DR 4X4 (374A)",
+      "count": 4,
+      "file": "inventory/new-ford-broncoraptor-4dr-4x4-374a.json",
+      "models": [
+        {
+          "model": "BRONCORAPTOR 4DR 4X4 (374A)",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "EXPEDITIONTREMOR 4DR 4X4",
+      "count": 2,
+      "file": "inventory/new-ford-expeditiontremor-4dr-4x4.json",
+      "models": [
+        {
+          "model": "EXPEDITIONTREMOR 4DR 4X4",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "EXPLORERACTIVE 4DR 4X4",
+      "count": 6,
+      "file": "inventory/new-ford-exploreractive-4dr-4x4.json",
+      "models": [
+        {
+          "model": "EXPLORERACTIVE 4DR 4X4",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "EXPLORERACTIVE 4DR 4X4 (200A)",
+      "count": 13,
+      "file": "inventory/new-ford-exploreractive-4dr-4x4-200a.json",
+      "models": [
+        {
+          "model": "EXPLORERACTIVE 4DR 4X4 (200A)",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "EXPLORERACTIVE",
+      "count": 2,
+      "file": "inventory/new-ford-exploreractive.json",
+      "models": [
+        {
+          "model": "EXPLORERACTIVE",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "EXPLORERST 4DR 4X4",
+      "count": 4,
+      "file": "inventory/new-ford-explorerst-4dr-4x4.json",
+      "models": [
+        {
+          "model": "EXPLORERST 4DR 4X4",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "EXPLORERST 4DR 4X4 (400A)",
+      "count": 10,
+      "file": "inventory/new-ford-explorerst-4dr-4x4-400a.json",
+      "models": [
+        {
+          "model": "EXPLORERST 4DR 4X4 (400A)",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "EXPLORERST-LINE 4DR 4X4",
+      "count": 6,
+      "file": "inventory/new-ford-explorerst-line-4dr-4x4.json",
+      "models": [
+        {
+          "model": "EXPLORERST-LINE 4DR 4X4",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "EXPLORERST-LINE 4DR 4X4 (300A)",
+      "count": 9,
+      "file": "inventory/new-ford-explorerst-line-4dr-4x4-300a.json",
+      "models": [
+        {
+          "model": "EXPLORERST-LINE 4DR 4X4 (300A)",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150KING RANCH 4X4 SUPERCREW CAB 5.5 FT. BOX",
+      "count": 2,
+      "file": "inventory/new-ford-f-150king-ranch-4x4-supercrew-cab-5-5-ft-box.json",
+      "models": [
+        {
+          "model": "F-150KING RANCH 4X4 SUPERCREW CAB 5.5 FT. BOX",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150LARIAT 4X4 SUPERCREW CAB 5.5 FT. BOX",
+      "count": 20,
+      "file": "inventory/new-ford-f-150lariat-4x4-supercrew-cab-5-5-ft-box.json",
+      "models": [
+        {
+          "model": "F-150LARIAT 4X4 SUPERCREW CAB 5.5 FT. BOX",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150LARIAT 4X4 SUPERCREW CAB 6.5 FT. BOX",
+      "count": 1,
+      "file": "inventory/new-ford-f-150lariat-4x4-supercrew-cab-6-5-ft-box.json",
+      "models": [
+        {
+          "model": "F-150LARIAT 4X4 SUPERCREW CAB 6.5 FT. BOX",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150LARIAT 4X4 SUPERCREW CAB 5.5 FT. BOX (502A)",
+      "count": 26,
+      "file": "inventory/new-ford-f-150lariat-4x4-supercrew-cab-5-5-ft-box-502a.json",
+      "models": [
+        {
+          "model": "F-150LARIAT 4X4 SUPERCREW CAB 5.5 FT. BOX (502A)",
+          "count": 26
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150PLATINUM 4X4 SUPERCREW CAB 5.5 FT. BOX",
+      "count": 5,
+      "file": "inventory/new-ford-f-150platinum-4x4-supercrew-cab-5-5-ft-box.json",
+      "models": [
+        {
+          "model": "F-150PLATINUM 4X4 SUPERCREW CAB 5.5 FT. BOX",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150PLATINUM 4X4 SUPERCREW CAB 6.5 FT. BOX (702A)",
+      "count": 2,
+      "file": "inventory/new-ford-f-150platinum-4x4-supercrew-cab-6-5-ft-box-702a.json",
+      "models": [
+        {
+          "model": "F-150PLATINUM 4X4 SUPERCREW CAB 6.5 FT. BOX (702A)",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150PLATINUM 4X4 SUPERCREW CAB 5.5 FT. BOX (703A)",
+      "count": 4,
+      "file": "inventory/new-ford-f-150platinum-4x4-supercrew-cab-5-5-ft-box-703a.json",
+      "models": [
+        {
+          "model": "F-150PLATINUM 4X4 SUPERCREW CAB 5.5 FT. BOX (703A)",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150RAPTOR 4X4 SUPERCREW CAB 5.5 FT. BOX (801A)",
+      "count": 7,
+      "file": "inventory/new-ford-f-150raptor-4x4-supercrew-cab-5-5-ft-box-801a.json",
+      "models": [
+        {
+          "model": "F-150RAPTOR 4X4 SUPERCREW CAB 5.5 FT. BOX (801A)",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150RAPTOR 4X4 SUPERCREW CAB 5.5 FT. BOX (802A)",
+      "count": 32,
+      "file": "inventory/new-ford-f-150raptor-4x4-supercrew-cab-5-5-ft-box-802a.json",
+      "models": [
+        {
+          "model": "F-150RAPTOR 4X4 SUPERCREW CAB 5.5 FT. BOX (802A)",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150RAPTOR 4X4 SUPERCREW CAB 5.5 FT. BOX",
+      "count": 1,
+      "file": "inventory/new-ford-f-150raptor-4x4-supercrew-cab-5-5-ft-box.json",
+      "models": [
+        {
+          "model": "F-150RAPTOR 4X4 SUPERCREW CAB 5.5 FT. BOX",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150STX 4X4 SUPERCREW CAB 5.5 FT. BOX",
+      "count": 18,
+      "file": "inventory/new-ford-f-150stx-4x4-supercrew-cab-5-5-ft-box.json",
+      "models": [
+        {
+          "model": "F-150STX 4X4 SUPERCREW CAB 5.5 FT. BOX",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150STX 4X4 SUPERCREW CAB 5.5 FT. BOX (201A)",
+      "count": 5,
+      "file": "inventory/new-ford-f-150stx-4x4-supercrew-cab-5-5-ft-box-201a.json",
+      "models": [
+        {
+          "model": "F-150STX 4X4 SUPERCREW CAB 5.5 FT. BOX (201A)",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150STX 4X4 SUPERCREW CAB 5.5 FT. BOX (200A)",
+      "count": 4,
+      "file": "inventory/new-ford-f-150stx-4x4-supercrew-cab-5-5-ft-box-200a.json",
+      "models": [
+        {
+          "model": "F-150STX 4X4 SUPERCREW CAB 5.5 FT. BOX (200A)",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150TREMOR 4X4 SUPERCREW CAB 5.5 FT. BOX",
+      "count": 9,
+      "file": "inventory/new-ford-f-150tremor-4x4-supercrew-cab-5-5-ft-box.json",
+      "models": [
+        {
+          "model": "F-150TREMOR 4X4 SUPERCREW CAB 5.5 FT. BOX",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX (303A)",
+      "count": 13,
+      "file": "inventory/new-ford-f-150xlt-4x4-supercrew-cab-5-5-ft-box-303a.json",
+      "models": [
+        {
+          "model": "F-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX (303A)",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150XLT 4X4 SUPERCREW CAB 6.5 FT. BOX",
+      "count": 39,
+      "file": "inventory/new-ford-f-150xlt-4x4-supercrew-cab-6-5-ft-box.json",
+      "models": [
+        {
+          "model": "F-150XLT 4X4 SUPERCREW CAB 6.5 FT. BOX",
+          "count": 39
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX",
+      "count": 32,
+      "file": "inventory/new-ford-f-150xlt-4x4-supercrew-cab-5-5-ft-box.json",
+      "models": [
+        {
+          "model": "F-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150XLT 4X4 SUPERCREW CAB 6.5 FT. BOX (300A)",
+      "count": 8,
+      "file": "inventory/new-ford-f-150xlt-4x4-supercrew-cab-6-5-ft-box-300a.json",
+      "models": [
+        {
+          "model": "F-150XLT 4X4 SUPERCREW CAB 6.5 FT. BOX (300A)",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150XLT 4X4 SUPERCREW CAB 6.5 FT. BOX (303A)",
+      "count": 5,
+      "file": "inventory/new-ford-f-150xlt-4x4-supercrew-cab-6-5-ft-box-303a.json",
+      "models": [
+        {
+          "model": "F-150XLT 4X4 SUPERCREW CAB 6.5 FT. BOX (303A)",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150XLT 4X4 SUPERCREW CAB 6.5 FT. BOX (301A)",
+      "count": 24,
+      "file": "inventory/new-ford-f-150xlt-4x4-supercrew-cab-6-5-ft-box-301a.json",
+      "models": [
+        {
+          "model": "F-150XLT 4X4 SUPERCREW CAB 6.5 FT. BOX (301A)",
+          "count": 24
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-250XL 4X4 SD CREW CAB 6.75 FT. BOX (600A)",
+      "count": 2,
+      "file": "inventory/new-ford-f-250xl-4x4-sd-crew-cab-6-75-ft-box-600a.json",
+      "models": [
+        {
+          "model": "F-250XL 4X4 SD CREW CAB 6.75 FT. BOX (600A)",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-350LARIAT 4X4 SD CREW CAB 6.75 FT. BOX SRW",
+      "count": 2,
+      "file": "inventory/new-ford-f-350lariat-4x4-sd-crew-cab-6-75-ft-box-srw.json",
+      "models": [
+        {
+          "model": "F-350LARIAT 4X4 SD CREW CAB 6.75 FT. BOX SRW",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-350PLATINUM 4X4 SD CREW CAB 8 FT. BOX SRW",
+      "count": 3,
+      "file": "inventory/new-ford-f-350platinum-4x4-sd-crew-cab-8-ft-box-srw.json",
+      "models": [
+        {
+          "model": "F-350PLATINUM 4X4 SD CREW CAB 8 FT. BOX SRW",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-550 CHASSISXL 4X2 SD REGULAR CAB DRW",
+      "count": 2,
+      "file": "inventory/new-ford-f-550-chassisxl-4x2-sd-regular-cab-drw.json",
+      "models": [
+        {
+          "model": "F-550 CHASSISXL 4X2 SD REGULAR CAB DRW",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-550 CHASSISXLT 4X4 SD CREW CAB DRW",
+      "count": 3,
+      "file": "inventory/new-ford-f-550-chassisxlt-4x4-sd-crew-cab-drw.json",
+      "models": [
+        {
+          "model": "F-550 CHASSISXLT 4X4 SD CREW CAB DRW",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "MAVERICKLARIAT ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX",
+      "count": 2,
+      "file": "inventory/new-ford-mavericklariat-all-wheel-drive-supercrew-4-5-ft-box.json",
+      "models": [
+        {
+          "model": "MAVERICKLARIAT ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "MAVERICKLOBO HIGH ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX (702A)",
+      "count": 2,
+      "file": "inventory/new-ford-mavericklobo-high-all-wheel-drive-supercrew-4-5-ft-box-702a.json",
+      "models": [
+        {
+          "model": "MAVERICKLOBO HIGH ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX (702A)",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "MAVERICKLOBO HIGH ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX",
+      "count": 2,
+      "file": "inventory/new-ford-mavericklobo-high-all-wheel-drive-supercrew-4-5-ft-box.json",
+      "models": [
+        {
+          "model": "MAVERICKLOBO HIGH ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "MAVERICKLOBO STANDARD ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX",
+      "count": 1,
+      "file": "inventory/new-ford-mavericklobo-standard-all-wheel-drive-supercrew-4-5-ft-box.json",
+      "models": [
+        {
+          "model": "MAVERICKLOBO STANDARD ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "MAVERICKXLT ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX (301A)",
+      "count": 13,
+      "file": "inventory/new-ford-maverickxlt-all-wheel-drive-supercrew-4-5-ft-box-301a.json",
+      "models": [
+        {
+          "model": "MAVERICKXLT ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX (301A)",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "MAVERICKXLT ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX",
+      "count": 3,
+      "file": "inventory/new-ford-maverickxlt-all-wheel-drive-supercrew-4-5-ft-box.json",
+      "models": [
+        {
+          "model": "MAVERICKXLT ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "MUSTANGDARK HORSE 2DR FASTBACK (700A)",
+      "count": 4,
+      "file": "inventory/new-ford-mustangdark-horse-2dr-fastback-700a.json",
+      "models": [
+        {
+          "model": "MUSTANGDARK HORSE 2DR FASTBACK (700A)",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "MUSTANG DARK HORSE SC2DR COUPE (950A)",
+      "count": 2,
+      "file": "inventory/new-ford-mustang-dark-horse-sc2dr-coupe-950a.json",
+      "models": [
+        {
+          "model": "MUSTANG DARK HORSE SC2DR COUPE (950A)",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "MUSTANGECOBOOST PREMIUM 2DR FASTBACK (200A)",
+      "count": 2,
+      "file": "inventory/new-ford-mustangecoboost-premium-2dr-fastback-200a.json",
+      "models": [
+        {
+          "model": "MUSTANGECOBOOST PREMIUM 2DR FASTBACK (200A)",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "MUSTANGECOBOOST PREMIUM 2DR FASTBACK",
+      "count": 1,
+      "file": "inventory/new-ford-mustangecoboost-premium-2dr-fastback.json",
+      "models": [
+        {
+          "model": "MUSTANGECOBOOST PREMIUM 2DR FASTBACK",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "MUSTANGGT 2DR FASTBACK",
+      "count": 1,
+      "file": "inventory/new-ford-mustanggt-2dr-fastback.json",
+      "models": [
+        {
+          "model": "MUSTANGGT 2DR FASTBACK",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "MUSTANGGT PREMIUM 2DR FASTBACK",
+      "count": 1,
+      "file": "inventory/new-ford-mustanggt-premium-2dr-fastback.json",
+      "models": [
+        {
+          "model": "MUSTANGGT PREMIUM 2DR FASTBACK",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "MUSTANGGT PREMIUM 2DR CONVERTIBLE",
+      "count": 1,
+      "file": "inventory/new-ford-mustanggt-premium-2dr-convertible.json",
+      "models": [
+        {
+          "model": "MUSTANGGT PREMIUM 2DR CONVERTIBLE",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "MUSTANG MACH-EGT 4DR ALL-WHEEL DRIVE (400A)",
+      "count": 2,
+      "file": "inventory/new-ford-mustang-mach-egt-4dr-all-wheel-drive-400a.json",
+      "models": [
+        {
+          "model": "MUSTANG MACH-EGT 4DR ALL-WHEEL DRIVE (400A)",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "MUSTANG MACH-EGT 4DR ALL-WHEEL DRIVE",
+      "count": 1,
+      "file": "inventory/new-ford-mustang-mach-egt-4dr-all-wheel-drive.json",
+      "models": [
+        {
+          "model": "MUSTANG MACH-EGT 4DR ALL-WHEEL DRIVE",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "MUSTANG MACH-EPREMIUM 4DR ALL-WHEEL DRIVE",
+      "count": 25,
+      "file": "inventory/new-ford-mustang-mach-epremium-4dr-all-wheel-drive.json",
+      "models": [
+        {
+          "model": "MUSTANG MACH-EPREMIUM 4DR ALL-WHEEL DRIVE",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "MUSTANG MACH-EPREMIUM 4DR ALL-WHEEL DRIVE (300A)",
+      "count": 19,
+      "file": "inventory/new-ford-mustang-mach-epremium-4dr-all-wheel-drive-300a.json",
+      "models": [
+        {
+          "model": "MUSTANG MACH-EPREMIUM 4DR ALL-WHEEL DRIVE (300A)",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "MUSTANG MACH-ESELECT 4DR 4X2 (100A)",
+      "count": 6,
+      "file": "inventory/new-ford-mustang-mach-eselect-4dr-4x2-100a.json",
+      "models": [
+        {
+          "model": "MUSTANG MACH-ESELECT 4DR 4X2 (100A)",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "MUSTANG MACH-ESELECT 4DR ALL-WHEEL DRIVE (100A)",
+      "count": 7,
+      "file": "inventory/new-ford-mustang-mach-eselect-4dr-all-wheel-drive-100a.json",
+      "models": [
+        {
+          "model": "MUSTANG MACH-ESELECT 4DR ALL-WHEEL DRIVE (100A)",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "RANGERLARIAT 4X4 SUPERCREW 5 FT. BOX (500A)",
+      "count": 27,
+      "file": "inventory/new-ford-rangerlariat-4x4-supercrew-5-ft-box-500a.json",
+      "models": [
+        {
+          "model": "RANGERLARIAT 4X4 SUPERCREW 5 FT. BOX (500A)",
+          "count": 27
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "RANGERRAPTOR 4X4 SUPERCREW 5 FT. BOX (800A)",
+      "count": 21,
+      "file": "inventory/new-ford-rangerraptor-4x4-supercrew-5-ft-box-800a.json",
+      "models": [
+        {
+          "model": "RANGERRAPTOR 4X4 SUPERCREW 5 FT. BOX (800A)",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "RANGERRAPTOR 4X4 SUPERCREW 5 FT. BOX",
+      "count": 3,
+      "file": "inventory/new-ford-rangerraptor-4x4-supercrew-5-ft-box.json",
+      "models": [
+        {
+          "model": "RANGERRAPTOR 4X4 SUPERCREW 5 FT. BOX",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "RANGERXLT 4X4 SUPERCREW 5 FT. BOX",
+      "count": 12,
+      "file": "inventory/new-ford-rangerxlt-4x4-supercrew-5-ft-box.json",
+      "models": [
+        {
+          "model": "RANGERXLT 4X4 SUPERCREW 5 FT. BOX",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "RANGERXLT 4X4 SUPERCREW 5 FT. BOX (301A)",
+      "count": 15,
+      "file": "inventory/new-ford-rangerxlt-4x4-supercrew-5-ft-box-301a.json",
+      "models": [
+        {
+          "model": "RANGERXLT 4X4 SUPERCREW 5 FT. BOX (301A)",
+          "count": 15
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "RANGERXLT 4X4 SUPERCREW 5 FT. BOX (300A)",
+      "count": 3,
+      "file": "inventory/new-ford-rangerxlt-4x4-supercrew-5-ft-box-300a.json",
+      "models": [
+        {
+          "model": "RANGERXLT 4X4 SUPERCREW 5 FT. BOX (300A)",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "TRANSIT-250 CARGOALL-WHEEL DRIVE MEDIUM ROOF",
+      "count": 1,
+      "file": "inventory/new-ford-transit-250-cargoall-wheel-drive-medium-roof.json",
+      "models": [
+        {
+          "model": "TRANSIT-250 CARGOALL-WHEEL DRIVE MEDIUM ROOF",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "TRANSIT-350 CARGOW/9,900 LB. GVWR ALL-WHEEL DRIVE MEDIUM ROOF",
+      "count": 2,
+      "file": "inventory/new-ford-transit-350-cargow-9-900-lb-gvwr-all-wheel-drive-medium-roof.json",
+      "models": [
+        {
+          "model": "TRANSIT-350 CARGOW/9,900 LB. GVWR ALL-WHEEL DRIVE MEDIUM ROOF",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "TRANSIT-350 CARGOREAR-WHEEL DRIVE MEDIUM ROOF",
+      "count": 2,
+      "file": "inventory/new-ford-transit-350-cargorear-wheel-drive-medium-roof.json",
+      "models": [
+        {
+          "model": "TRANSIT-350 CARGOREAR-WHEEL DRIVE MEDIUM ROOF",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "E-450 CUTAWAYSD CHASSIS DRW",
+      "count": 2,
+      "file": "inventory/new-ford-e-450-cutawaysd-chassis-drw.json",
+      "models": [
+        {
+          "model": "E-450 CUTAWAYSD CHASSIS DRW",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "EXPEDITIONACTIVE 4DR 4X4",
+      "count": 2,
+      "file": "inventory/new-ford-expeditionactive-4dr-4x4.json",
+      "models": [
+        {
+          "model": "EXPEDITIONACTIVE 4DR 4X4",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "EXPLORERPLATINUM 4DR 4X4",
+      "count": 2,
+      "file": "inventory/new-ford-explorerplatinum-4dr-4x4.json",
+      "models": [
+        {
+          "model": "EXPLORERPLATINUM 4DR 4X4",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-350LARIAT 4X4 SD CREW CAB 8 FT. BOX DRW",
+      "count": 2,
+      "file": "inventory/new-ford-f-350lariat-4x4-sd-crew-cab-8-ft-box-drw.json",
+      "models": [
+        {
+          "model": "F-350LARIAT 4X4 SD CREW CAB 8 FT. BOX DRW",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-350PLATINUM 4X4 SD CREW CAB 6.75 FT. BOX SRW",
+      "count": 4,
+      "file": "inventory/new-ford-f-350platinum-4x4-sd-crew-cab-6-75-ft-box-srw.json",
+      "models": [
+        {
+          "model": "F-350PLATINUM 4X4 SD CREW CAB 6.75 FT. BOX SRW",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "TRANSIT-250 CARGOALL-WHEEL DRIVE LOW ROOF",
+      "count": 4,
+      "file": "inventory/new-ford-transit-250-cargoall-wheel-drive-low-roof.json",
+      "models": [
+        {
+          "model": "TRANSIT-250 CARGOALL-WHEEL DRIVE LOW ROOF",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "TRANSIT-250 CARGOREAR-WHEEL DRIVE MEDIUM ROOF",
+      "count": 2,
+      "file": "inventory/new-ford-transit-250-cargorear-wheel-drive-medium-roof.json",
+      "models": [
+        {
+          "model": "TRANSIT-250 CARGOREAR-WHEEL DRIVE MEDIUM ROOF",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "TRANSIT-250 CARGOREAR-WHEEL DRIVE LOW ROOF",
+      "count": 2,
+      "file": "inventory/new-ford-transit-250-cargorear-wheel-drive-low-roof.json",
+      "models": [
+        {
+          "model": "TRANSIT-250 CARGOREAR-WHEEL DRIVE LOW ROOF",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "TRANSIT-350 CARGOW/9,900 LB. GVWR REAR-WHEEL DRIVE LOW ROOF",
+      "count": 2,
+      "file": "inventory/new-ford-transit-350-cargow-9-900-lb-gvwr-rear-wheel-drive-low-roof.json",
+      "models": [
+        {
+          "model": "TRANSIT-350 CARGOW/9,900 LB. GVWR REAR-WHEEL DRIVE LOW ROOF",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150Lariat",
+      "count": 6,
+      "file": "inventory/new-ford-f-150lariat.json",
+      "models": [
+        {
+          "model": "F-150LARIAT",
+          "count": 5
+        },
+        {
+          "model": "F-150Lariat",
           "count": 1
         }
       ]
@@ -1122,12 +2721,12 @@
       "condition": "new",
       "make": "ford",
       "model": "Ranger XL 4WD SuperCrew 5' Box",
-      "count": 2,
+      "count": 3,
       "file": "inventory/new-ford-ranger-xl-4wd-supercrew-5-box.json",
       "models": [
         {
           "model": "Ranger XL 4WD SuperCrew 5' Box",
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -1162,12 +2761,12 @@
       "make": "ford",
       "model": "F-150 SuperCrew",
       "shard": "part1",
-      "count": 37,
+      "count": 33,
       "file": "inventory/new-ford-f-150-supercrew-part1.json",
       "models": [
         {
           "model": "F-150 SuperCrew",
-          "count": 37
+          "count": 33
         }
       ]
     },
@@ -1176,12 +2775,12 @@
       "make": "ford",
       "model": "F-150 SuperCrew",
       "shard": "part2",
-      "count": 37,
+      "count": 33,
       "file": "inventory/new-ford-f-150-supercrew-part2.json",
       "models": [
         {
           "model": "F-150 SuperCrew",
-          "count": 37
+          "count": 33
         }
       ]
     },
@@ -1190,12 +2789,12 @@
       "make": "ford",
       "model": "F-150 SuperCrew",
       "shard": "part3",
-      "count": 37,
+      "count": 33,
       "file": "inventory/new-ford-f-150-supercrew-part3.json",
       "models": [
         {
           "model": "F-150 SuperCrew",
-          "count": 37
+          "count": 33
         }
       ]
     },
@@ -1204,12 +2803,12 @@
       "make": "ford",
       "model": "F-150 SuperCrew",
       "shard": "part4",
-      "count": 37,
+      "count": 33,
       "file": "inventory/new-ford-f-150-supercrew-part4.json",
       "models": [
         {
           "model": "F-150 SuperCrew",
-          "count": 37
+          "count": 33
         }
       ]
     },
@@ -1218,12 +2817,12 @@
       "make": "ford",
       "model": "F-150 SuperCrew",
       "shard": "part5",
-      "count": 37,
+      "count": 33,
       "file": "inventory/new-ford-f-150-supercrew-part5.json",
       "models": [
         {
           "model": "F-150 SuperCrew",
-          "count": 37
+          "count": 33
         }
       ]
     },
@@ -1232,12 +2831,12 @@
       "make": "ford",
       "model": "F-150 SuperCrew",
       "shard": "part6",
-      "count": 37,
+      "count": 33,
       "file": "inventory/new-ford-f-150-supercrew-part6.json",
       "models": [
         {
           "model": "F-150 SuperCrew",
-          "count": 37
+          "count": 33
         }
       ]
     },
@@ -1246,12 +2845,12 @@
       "make": "ford",
       "model": "F-150 SuperCrew",
       "shard": "part7",
-      "count": 37,
+      "count": 33,
       "file": "inventory/new-ford-f-150-supercrew-part7.json",
       "models": [
         {
           "model": "F-150 SuperCrew",
-          "count": 37
+          "count": 33
         }
       ]
     },
@@ -1260,12 +2859,12 @@
       "make": "ford",
       "model": "F-150 SuperCrew",
       "shard": "part8",
-      "count": 37,
+      "count": 33,
       "file": "inventory/new-ford-f-150-supercrew-part8.json",
       "models": [
         {
           "model": "F-150 SuperCrew",
-          "count": 37
+          "count": 33
         }
       ]
     },
@@ -1274,12 +2873,26 @@
       "make": "ford",
       "model": "F-150 SuperCrew",
       "shard": "part9",
-      "count": 31,
+      "count": 33,
       "file": "inventory/new-ford-f-150-supercrew-part9.json",
       "models": [
         {
           "model": "F-150 SuperCrew",
-          "count": 31
+          "count": 33
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150 SuperCrew",
+      "shard": "part10",
+      "count": 30,
+      "file": "inventory/new-ford-f-150-supercrew-part10.json",
+      "models": [
+        {
+          "model": "F-150 SuperCrew",
+          "count": 30
         }
       ]
     },
@@ -1352,12 +2965,12 @@
       "condition": "new",
       "make": "ford",
       "model": "F-150 Lightning Pro 4WD SuperCrew 5.5' Box",
-      "count": 4,
+      "count": 5,
       "file": "inventory/new-ford-f-150-lightning-pro-4wd-supercrew-5-5-box.json",
       "models": [
         {
           "model": "F-150 Lightning Pro 4WD SuperCrew 5.5' Box",
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -1416,6 +3029,19 @@
     {
       "condition": "new",
       "make": "ford",
+      "model": "Super Duty F-250 SRW",
+      "count": 3,
+      "file": "inventory/new-ford-super-duty-f-250-srw.json",
+      "models": [
+        {
+          "model": "Super Duty F-250 SRW",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
       "model": "Ranger Raptor",
       "count": 3,
       "file": "inventory/new-ford-ranger-raptor.json",
@@ -1457,13 +3083,26 @@
     {
       "condition": "new",
       "make": "ford",
+      "model": "F150",
+      "count": 2,
+      "file": "inventory/new-ford-f150.json",
+      "models": [
+        {
+          "model": "F150",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
       "model": "F-550",
-      "count": 1,
+      "count": 2,
       "file": "inventory/new-ford-f-550.json",
       "models": [
         {
           "model": "F-550",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -1477,19 +3116,6 @@
         {
           "model": "Expedition Max",
           "count": 7
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "ford",
-      "model": "Super Duty F-250 SRW",
-      "count": 1,
-      "file": "inventory/new-ford-super-duty-f-250-srw.json",
-      "models": [
-        {
-          "model": "Super Duty F-250 SRW",
-          "count": 1
         }
       ]
     },
@@ -1523,12 +3149,740 @@
       "condition": "new",
       "make": "ford",
       "model": "Bronco Base 2 Door 4x4",
-      "count": 2,
+      "count": 3,
       "file": "inventory/new-ford-bronco-base-2-door-4x4.json",
       "models": [
         {
           "model": "Bronco Base 2 Door 4x4",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "T150",
+      "count": 1,
+      "file": "inventory/new-ford-t150.json",
+      "models": [
+        {
+          "model": "T150",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-450",
+      "count": 14,
+      "file": "inventory/new-ford-f-450.json",
+      "models": [
+        {
+          "model": "F-450",
+          "count": 14
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "BRONCO SPORTBIG BEND 4DR 4X4 (200A)",
+      "count": 20,
+      "file": "inventory/new-ford-bronco-sportbig-bend-4dr-4x4-200a.json",
+      "models": [
+        {
+          "model": "BRONCO SPORTBIG BEND 4DR 4X4 (200A)",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "MAVERICKXL ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX (101A)",
+      "count": 3,
+      "file": "inventory/new-ford-maverickxl-all-wheel-drive-supercrew-4-5-ft-box-101a.json",
+      "models": [
+        {
+          "model": "MAVERICKXL ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX (101A)",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "BRONCO SPORTOUTER BANKS 4DR 4X4 (300A)",
+      "count": 11,
+      "file": "inventory/new-ford-bronco-sportouter-banks-4dr-4x4-300a.json",
+      "models": [
+        {
+          "model": "BRONCO SPORTOUTER BANKS 4DR 4X4 (300A)",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "MUSTANGECOBOOST 2DR FASTBACK (101A)",
+      "count": 1,
+      "file": "inventory/new-ford-mustangecoboost-2dr-fastback-101a.json",
+      "models": [
+        {
+          "model": "MUSTANGECOBOOST 2DR FASTBACK (101A)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "RANGERXL 4X4 SUPERCREW 5 FT. BOX (100A)",
+      "count": 5,
+      "file": "inventory/new-ford-rangerxl-4x4-supercrew-5-ft-box-100a.json",
+      "models": [
+        {
+          "model": "RANGERXL 4X4 SUPERCREW 5 FT. BOX (100A)",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "MAVERICKLARIAT ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX (502A)",
+      "count": 3,
+      "file": "inventory/new-ford-mavericklariat-all-wheel-drive-supercrew-4-5-ft-box-502a.json",
+      "models": [
+        {
+          "model": "MAVERICKLARIAT ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX (502A)",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "BRONCO SPORTBADLANDS 4DR 4X4 (400A)",
+      "count": 3,
+      "file": "inventory/new-ford-bronco-sportbadlands-4dr-4x4-400a.json",
+      "models": [
+        {
+          "model": "BRONCO SPORTBADLANDS 4DR 4X4 (400A)",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "EXPLORERACTIVE 4DR 4X4 (100A)",
+      "count": 3,
+      "file": "inventory/new-ford-exploreractive-4dr-4x4-100a.json",
+      "models": [
+        {
+          "model": "EXPLORERACTIVE 4DR 4X4 (100A)",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150XL 4X4 SUPERCAB 6.5 FT. BOX (101A)",
+      "count": 5,
+      "file": "inventory/new-ford-f-150xl-4x4-supercab-6-5-ft-box-101a.json",
+      "models": [
+        {
+          "model": "F-150XL 4X4 SUPERCAB 6.5 FT. BOX (101A)",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150XL 4X4 REGULAR CAB 8 FT. BOX (103A)",
+      "count": 1,
+      "file": "inventory/new-ford-f-150xl-4x4-regular-cab-8-ft-box-103a.json",
+      "models": [
+        {
+          "model": "F-150XL 4X4 REGULAR CAB 8 FT. BOX (103A)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX (301A)",
+      "count": 8,
+      "file": "inventory/new-ford-f-150xlt-4x4-supercrew-cab-5-5-ft-box-301a.json",
+      "models": [
+        {
+          "model": "F-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX (301A)",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "BRONCOBADLANDS 4DR 4X4 (332A)",
+      "count": 2,
+      "file": "inventory/new-ford-broncobadlands-4dr-4x4-332a.json",
+      "models": [
+        {
+          "model": "BRONCOBADLANDS 4DR 4X4 (332A)",
           "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150XL HYBRID 4X4 SUPERCREW CAB 6.5 FT. BOX (104A)",
+      "count": 1,
+      "file": "inventory/new-ford-f-150xl-hybrid-4x4-supercrew-cab-6-5-ft-box-104a.json",
+      "models": [
+        {
+          "model": "F-150XL HYBRID 4X4 SUPERCREW CAB 6.5 FT. BOX (104A)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150XL 4X4 SUPERCREW CAB 5.5 FT. BOX (101A)",
+      "count": 1,
+      "file": "inventory/new-ford-f-150xl-4x4-supercrew-cab-5-5-ft-box-101a.json",
+      "models": [
+        {
+          "model": "F-150XL 4X4 SUPERCREW CAB 5.5 FT. BOX (101A)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "BRONCOOUTER BANKS 4DR 4X4",
+      "count": 1,
+      "file": "inventory/new-ford-broncoouter-banks-4dr-4x4.json",
+      "models": [
+        {
+          "model": "BRONCOOUTER BANKS 4DR 4X4",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "EXPLORERTREMOR 4DR 4X4 (800A)",
+      "count": 1,
+      "file": "inventory/new-ford-explorertremor-4dr-4x4-800a.json",
+      "models": [
+        {
+          "model": "EXPLORERTREMOR 4DR 4X4 (800A)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "TRANSIT-250 CARGOALL-WHEEL DRIVE MEDIUM ROOF VAN (101A)",
+      "count": 3,
+      "file": "inventory/new-ford-transit-250-cargoall-wheel-drive-medium-roof-van-101a.json",
+      "models": [
+        {
+          "model": "TRANSIT-250 CARGOALL-WHEEL DRIVE MEDIUM ROOF VAN (101A)",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-350XL 4X4 SD CREW CAB 6.75 FT. BOX SRW (610A)",
+      "count": 6,
+      "file": "inventory/new-ford-f-350xl-4x4-sd-crew-cab-6-75-ft-box-srw-610a.json",
+      "models": [
+        {
+          "model": "F-350XL 4X4 SD CREW CAB 6.75 FT. BOX SRW (610A)",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-350XLT 4X4 SD CREW CAB 6.75 FT. BOX SRW (613A)",
+      "count": 21,
+      "file": "inventory/new-ford-f-350xlt-4x4-sd-crew-cab-6-75-ft-box-srw-613a.json",
+      "models": [
+        {
+          "model": "F-350XLT 4X4 SD CREW CAB 6.75 FT. BOX SRW (613A)",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150XLT 4X4 SUPERCAB 6.5 FT. BOX (301A)",
+      "count": 1,
+      "file": "inventory/new-ford-f-150xlt-4x4-supercab-6-5-ft-box-301a.json",
+      "models": [
+        {
+          "model": "F-150XLT 4X4 SUPERCAB 6.5 FT. BOX (301A)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "TRANSIT-350 CARGOALL-WHEEL DRIVE HIGH ROOF EXT. VAN (101A)",
+      "count": 2,
+      "file": "inventory/new-ford-transit-350-cargoall-wheel-drive-high-roof-ext-van-101a.json",
+      "models": [
+        {
+          "model": "TRANSIT-350 CARGOALL-WHEEL DRIVE HIGH ROOF EXT. VAN (101A)",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150LARIAT 4X4 SUPERCREW CAB 6.5 FT. BOX (501A)",
+      "count": 3,
+      "file": "inventory/new-ford-f-150lariat-4x4-supercrew-cab-6-5-ft-box-501a.json",
+      "models": [
+        {
+          "model": "F-150LARIAT 4X4 SUPERCREW CAB 6.5 FT. BOX (501A)",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-350XL 4X4 SD CREW CAB 8 FT. BOX SRW (610A)",
+      "count": 2,
+      "file": "inventory/new-ford-f-350xl-4x4-sd-crew-cab-8-ft-box-srw-610a.json",
+      "models": [
+        {
+          "model": "F-350XL 4X4 SD CREW CAB 8 FT. BOX SRW (610A)",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-250XLT 4X4 SD CREW CAB 8 FT. BOX",
+      "count": 1,
+      "file": "inventory/new-ford-f-250xlt-4x4-sd-crew-cab-8-ft-box.json",
+      "models": [
+        {
+          "model": "F-250XLT 4X4 SD CREW CAB 8 FT. BOX",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150LARIAT 4X4 SUPERCREW CAB 6.5 FT. BOX (502A)",
+      "count": 14,
+      "file": "inventory/new-ford-f-150lariat-4x4-supercrew-cab-6-5-ft-box-502a.json",
+      "models": [
+        {
+          "model": "F-150LARIAT 4X4 SUPERCREW CAB 6.5 FT. BOX (502A)",
+          "count": 14
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-350XLT 4X4 SD CREW CAB 8 FT. BOX SRW",
+      "count": 1,
+      "file": "inventory/new-ford-f-350xlt-4x4-sd-crew-cab-8-ft-box-srw.json",
+      "models": [
+        {
+          "model": "F-350XLT 4X4 SD CREW CAB 8 FT. BOX SRW",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-350XL 4X4 SD CREW CAB 6.75 FT. BOX SRW",
+      "count": 1,
+      "file": "inventory/new-ford-f-350xl-4x4-sd-crew-cab-6-75-ft-box-srw.json",
+      "models": [
+        {
+          "model": "F-350XL 4X4 SD CREW CAB 6.75 FT. BOX SRW",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-350XLT 4X4 SD CREW CAB 8 FT. BOX SRW (613A)",
+      "count": 2,
+      "file": "inventory/new-ford-f-350xlt-4x4-sd-crew-cab-8-ft-box-srw-613a.json",
+      "models": [
+        {
+          "model": "F-350XLT 4X4 SD CREW CAB 8 FT. BOX SRW (613A)",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-350XLT 4X4 SD CREW CAB 6.75 FT. BOX SRW",
+      "count": 2,
+      "file": "inventory/new-ford-f-350xlt-4x4-sd-crew-cab-6-75-ft-box-srw.json",
+      "models": [
+        {
+          "model": "F-350XLT 4X4 SD CREW CAB 6.75 FT. BOX SRW",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150PLATINUM 4X4 SUPERCREW CAB 5.5 FT. BOX (702A)",
+      "count": 3,
+      "file": "inventory/new-ford-f-150platinum-4x4-supercrew-cab-5-5-ft-box-702a.json",
+      "models": [
+        {
+          "model": "F-150PLATINUM 4X4 SUPERCREW CAB 5.5 FT. BOX (702A)",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-350LARIAT 4X4 SD CREW CAB 6.75 FT. BOX SRW (618A)",
+      "count": 10,
+      "file": "inventory/new-ford-f-350lariat-4x4-sd-crew-cab-6-75-ft-box-srw-618a.json",
+      "models": [
+        {
+          "model": "F-350LARIAT 4X4 SD CREW CAB 6.75 FT. BOX SRW (618A)",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-650 DIESELSUPERCAB (600A)",
+      "count": 1,
+      "file": "inventory/new-ford-f-650-dieselsupercab-600a.json",
+      "models": [
+        {
+          "model": "F-650 DIESELSUPERCAB (600A)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-650 DIESELSUPERCAB",
+      "count": 1,
+      "file": "inventory/new-ford-f-650-dieselsupercab.json",
+      "models": [
+        {
+          "model": "F-650 DIESELSUPERCAB",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-350LARIAT 4X4 SD CREW CAB 8 FT. BOX SRW",
+      "count": 1,
+      "file": "inventory/new-ford-f-350lariat-4x4-sd-crew-cab-8-ft-box-srw.json",
+      "models": [
+        {
+          "model": "F-350LARIAT 4X4 SD CREW CAB 8 FT. BOX SRW",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-350PLATINUM 4X4 SD CREW CAB 6.75 FT. BOX SRW (713A)",
+      "count": 4,
+      "file": "inventory/new-ford-f-350platinum-4x4-sd-crew-cab-6-75-ft-box-srw-713a.json",
+      "models": [
+        {
+          "model": "F-350PLATINUM 4X4 SD CREW CAB 6.75 FT. BOX SRW (713A)",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-350PLATINUM 4X4 SD CREW CAB 8 FT. BOX SRW (713A)",
+      "count": 2,
+      "file": "inventory/new-ford-f-350platinum-4x4-sd-crew-cab-8-ft-box-srw-713a.json",
+      "models": [
+        {
+          "model": "F-350PLATINUM 4X4 SD CREW CAB 8 FT. BOX SRW (713A)",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-750 DIESELCREW CAB (600A)",
+      "count": 1,
+      "file": "inventory/new-ford-f-750-dieselcrew-cab-600a.json",
+      "models": [
+        {
+          "model": "F-750 DIESELCREW CAB (600A)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-550 CHASSISXL 4X4 SD CREW CAB DRW (660A)",
+      "count": 3,
+      "file": "inventory/new-ford-f-550-chassisxl-4x4-sd-crew-cab-drw-660a.json",
+      "models": [
+        {
+          "model": "F-550 CHASSISXL 4X4 SD CREW CAB DRW (660A)",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-450LARIAT 4X4 SD CREW CAB 8 FT. BOX (678A)",
+      "count": 1,
+      "file": "inventory/new-ford-f-450lariat-4x4-sd-crew-cab-8-ft-box-678a.json",
+      "models": [
+        {
+          "model": "F-450LARIAT 4X4 SD CREW CAB 8 FT. BOX (678A)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-550 CHASSISXLT 4X4 SD SUPER CAB DRW (663A)",
+      "count": 1,
+      "file": "inventory/new-ford-f-550-chassisxlt-4x4-sd-super-cab-drw-663a.json",
+      "models": [
+        {
+          "model": "F-550 CHASSISXLT 4X4 SD SUPER CAB DRW (663A)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "MAVERICKLARIAT ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX (501A)",
+      "count": 3,
+      "file": "inventory/new-ford-mavericklariat-all-wheel-drive-supercrew-4-5-ft-box-501a.json",
+      "models": [
+        {
+          "model": "MAVERICKLARIAT ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX (501A)",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "TRANSIT-350 CARGOALL-WHEEL DRIVE MEDIUM ROOF VAN (101A)",
+      "count": 2,
+      "file": "inventory/new-ford-transit-350-cargoall-wheel-drive-medium-roof-van-101a.json",
+      "models": [
+        {
+          "model": "TRANSIT-350 CARGOALL-WHEEL DRIVE MEDIUM ROOF VAN (101A)",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "TRANSIT-350 PASSENGERXLT ALL-WHEEL DRIVE HIGH ROOF HD EXT. VAN DRW",
+      "count": 1,
+      "file": "inventory/new-ford-transit-350-passengerxlt-all-wheel-drive-high-roof-hd-ext-van-drw.json",
+      "models": [
+        {
+          "model": "TRANSIT-350 PASSENGERXLT ALL-WHEEL DRIVE HIGH ROOF HD EXT. VAN DRW",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "TRANSIT-350 PASSENGERXLT ALL-WHEEL DRIVE HIGH ROOF HD EXT. VAN DRW (302A)",
+      "count": 1,
+      "file": "inventory/new-ford-transit-350-passengerxlt-all-wheel-drive-high-roof-hd-ext-van-drw-302a.json",
+      "models": [
+        {
+          "model": "TRANSIT-350 PASSENGERXLT ALL-WHEEL DRIVE HIGH ROOF HD EXT. VAN DRW (302A)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "EXPEDITION MAXSSV 4DR 4X4 (102A)",
+      "count": 1,
+      "file": "inventory/new-ford-expedition-maxssv-4dr-4x4-102a.json",
+      "models": [
+        {
+          "model": "EXPEDITION MAXSSV 4DR 4X4 (102A)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "EXPLORERPLATINUM 4DR 4X4 (600A)",
+      "count": 2,
+      "file": "inventory/new-ford-explorerplatinum-4dr-4x4-600a.json",
+      "models": [
+        {
+          "model": "EXPLORERPLATINUM 4DR 4X4 (600A)",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "EXPLORERTREMOR 4DR 4X4 (801A)",
+      "count": 1,
+      "file": "inventory/new-ford-explorertremor-4dr-4x4-801a.json",
+      "models": [
+        {
+          "model": "EXPLORERTREMOR 4DR 4X4 (801A)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150KING RANCH",
+      "count": 2,
+      "file": "inventory/new-ford-f-150king-ranch.json",
+      "models": [
+        {
+          "model": "F-150KING RANCH",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-150PLATINUM",
+      "count": 2,
+      "file": "inventory/new-ford-f-150platinum.json",
+      "models": [
+        {
+          "model": "F-150PLATINUM",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-350LARIAT 4X4 SD CREW CAB 8 FT. BOX SRW (618A)",
+      "count": 1,
+      "file": "inventory/new-ford-f-350lariat-4x4-sd-crew-cab-8-ft-box-srw-618a.json",
+      "models": [
+        {
+          "model": "F-350LARIAT 4X4 SD CREW CAB 8 FT. BOX SRW (618A)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-350XLT 4X4 SD SUPER CAB 6.75 FT. BOX SRW (613A)",
+      "count": 1,
+      "file": "inventory/new-ford-f-350xlt-4x4-sd-super-cab-6-75-ft-box-srw-613a.json",
+      "models": [
+        {
+          "model": "F-350XLT 4X4 SD SUPER CAB 6.75 FT. BOX SRW (613A)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-450PLATINUM 4X4 SD CREW CAB 8 FT. BOX (773A)",
+      "count": 1,
+      "file": "inventory/new-ford-f-450platinum-4x4-sd-crew-cab-8-ft-box-773a.json",
+      "models": [
+        {
+          "model": "F-450PLATINUM 4X4 SD CREW CAB 8 FT. BOX (773A)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "TRANSIT-250 CARGOREAR-WHEEL DRIVE MEDIUM ROOF VAN (101A)",
+      "count": 1,
+      "file": "inventory/new-ford-transit-250-cargorear-wheel-drive-medium-roof-van-101a.json",
+      "models": [
+        {
+          "model": "TRANSIT-250 CARGOREAR-WHEEL DRIVE MEDIUM ROOF VAN (101A)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "F-450KING RANCH 4X4 SD CREW CAB 8 FT. BOX",
+      "count": 1,
+      "file": "inventory/new-ford-f-450king-ranch-4x4-sd-crew-cab-8-ft-box.json",
+      "models": [
+        {
+          "model": "F-450KING RANCH 4X4 SD CREW CAB 8 FT. BOX",
+          "count": 1
         }
       ]
     },
@@ -1555,6 +3909,19 @@
         {
           "model": "Transit E-Transit Cargo",
           "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "MAVERICKTREMOR ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX (602A)",
+      "count": 1,
+      "file": "inventory/new-ford-mavericktremor-all-wheel-drive-supercrew-4-5-ft-box-602a.json",
+      "models": [
+        {
+          "model": "MAVERICKTREMOR ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX (602A)",
+          "count": 1
         }
       ]
     }

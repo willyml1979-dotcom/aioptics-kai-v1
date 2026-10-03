@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T23:03:40+00:00",
-  "snapshot": "2026-10-02T23:03:40+00:00",
+  "generated_at": "2026-10-03T00:36:47+00:00",
+  "snapshot": "2026-10-03T00:36:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 13,
+  "count": 14,
   "vehicles": [
     {
       "pub_id": "cranbrook-dodge-jn8ay2db6p9837446",
@@ -39,6 +39,7 @@
       "odometer_km": 97312,
       "price_cad": 39200.0,
       "price_note": null,
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/inventory/BKI2IAES75DSZOIBFP7O4NYKQ4.webp",
       "dealer_id": "chilliwack-mitsubishi",
       "vin": "JN8AY2BD2P9692443",
       "stock": "NA692443",
@@ -175,6 +176,7 @@
       "price_cad": 39495.0,
       "price_note": null,
       "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/085c93b7-47b2-45d5-b01a-06a4f428cb0d_9853b4a6-7637-4ce1-bc32-1459b02324ae.jpg",
       "dealer_id": "kamloops-honda-cars",
       "vin": "JN8AY2BDXR9705989",
       "stock": "U18202V",
@@ -223,6 +225,7 @@
       "price_cad": 90032.0,
       "price_note": null,
       "color": "Grey",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/27b6564b-e9fc-454a-8f5b-e6b5f6155e22_7879bcee-2390-4684-84e9-039dc8defd00.jpg",
       "dealer_id": "campus-nissan",
       "vin": "JN8AY3DE4T9451098",
       "stock": "D-6-S58",
@@ -237,6 +240,26 @@
       "dealer_name": "Campus Nissan"
     },
     {
+      "pub_id": "zender-ford-jn8ay2nc0j9556838",
+      "year": 2018,
+      "make": "Nissan",
+      "model": "Armada",
+      "condition": "used",
+      "price_cad": 26888.0,
+      "price_note": null,
+      "dealer_id": "zender-ford",
+      "vin": "JN8AY2NC0J9556838",
+      "stock": 14346303,
+      "listing_url": "https://www.zenderford.com/used/2018-Nissan-Armada.html",
+      "dealer_url": "https://www.zenderford.com/used/2018-Nissan-Armada.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T17:18:23",
+      "snapshot": "2026-10-02T17:20:13",
+      "go_url": "https://carwhisper.ca/go/zender-ford-jn8ay2nc0j9556838",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Zender Ford"
+    },
+    {
       "pub_id": "country-hills-nissan-jn8ay3de7s9401858",
       "year": 2025,
       "make": "Nissan",
@@ -248,6 +271,7 @@
       "price_cad": 71959.0,
       "price_note": null,
       "color": "Blue",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/720e4aa0-2927-450f-81f7-9b03b3996a7f_c02371d7-d4a4-4c82-95e2-c61e75195819.jpg",
       "dealer_id": "country-hills-nissan",
       "vin": "JN8AY3DE7S9401858",
       "stock": "CNA0185",
@@ -257,7 +281,7 @@
       "snapshot": "2026-10-01T22:26:55",
       "go_url": "https://carwhisper.ca/go/country-hills-nissan-jn8ay3de7s9401858",
       "city": null,
-      "province": "BC",
+      "province": "AB",
       "dealer_name": "Country Hills Nissan"
     },
     {
@@ -272,6 +296,7 @@
       "price_cad": 77959.0,
       "price_note": null,
       "color": "Grey",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/317c653a-8dae-49c2-848f-fc5eceb0c72f_8235154b-c6ec-4fec-b8e1-892daa75da0a.jpg",
       "dealer_id": "country-hills-nissan",
       "vin": "JN8AY3EE8T9431113",
       "stock": "CNA1113",
@@ -281,7 +306,7 @@
       "snapshot": "2026-10-01T22:26:55",
       "go_url": "https://carwhisper.ca/go/country-hills-nissan-jn8ay3ee8t9431113",
       "city": null,
-      "province": "BC",
+      "province": "AB",
       "dealer_name": "Country Hills Nissan"
     },
     {
@@ -296,6 +321,7 @@
       "price_cad": 79998.0,
       "price_note": null,
       "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/7f870fd3-7124-4071-8642-c5f98b325c3f_e28f5cd9-0f9a-4ce0-ad29-1cb68ed0cd70.jpg",
       "dealer_id": "country-hills-nissan",
       "vin": "JN8AY3CC6S9200341",
       "stock": "CNA0341",
@@ -305,7 +331,7 @@
       "snapshot": "2026-10-01T22:26:55",
       "go_url": "https://carwhisper.ca/go/country-hills-nissan-jn8ay3cc6s9200341",
       "city": null,
-      "province": "BC",
+      "province": "AB",
       "dealer_name": "Country Hills Nissan"
     }
   ]
