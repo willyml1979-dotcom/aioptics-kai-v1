@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T17:03:52+00:00",
-  "snapshot": "2026-10-03T17:03:52+00:00",
+  "generated_at": "2026-10-03T23:03:57+00:00",
+  "snapshot": "2026-10-03T23:03:57+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 1,
   "vehicles": [
@@ -12,8 +12,9 @@
       "trim": "AWD 5dr T8 Inscription",
       "body_type": "suv",
       "drivetrain": "AWD",
-      "propulsion": "hybrid",
-      "propulsion_source": "stated",
+      "propulsion": "unknown",
+      "propulsion_source": "conflict",
+      "propulsion_confidence": "low",
       "condition": "used",
       "odometer_km": 150185,
       "price_cad": 20998.0,

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T17:03:52+00:00",
-  "snapshot": "2026-10-03T17:03:52+00:00",
+  "generated_at": "2026-10-03T23:03:57+00:00",
+  "snapshot": "2026-10-03T23:03:57+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 4,
   "vehicles": [
     {
       "pub_id": "tricity-mitsubishi-wbs53ay0xnfn09968",
@@ -11,7 +11,8 @@
       "model": "M3",
       "body_type": "sedan",
       "propulsion": "gas",
-      "propulsion_source": "stated",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
       "condition": "used",
       "odometer_km": 20696,
       "price_cad": 82888.0,
@@ -36,6 +37,8 @@
       "year": 2022,
       "make": "BMW",
       "model": "M3",
+      "propulsion": "unknown",
+      "propulsion_source": null,
       "condition": "used",
       "price_cad": 82990.0,
       "price_note": null,
@@ -61,7 +64,8 @@
       "body_type": "sedan",
       "drivetrain": "AWD",
       "propulsion": "gas",
-      "propulsion_source": "stated",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
       "condition": "used",
       "odometer_km": 24500,
       "price_cad": 101900.0,
@@ -80,6 +84,30 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Brian Jessel BMW"
+    },
+    {
+      "pub_id": "bmw-victoria-mini-victoria-1791388-ontario-limited-wbs43ay08rft20107",
+      "year": 2024,
+      "make": "BMW",
+      "model": "M3",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 112100.0,
+      "price_note": null,
+      "color": "Green",
+      "dealer_id": "bmw-victoria-mini-victoria-1791388-ontario-limited",
+      "vin": "WBS43AY08RFT20107",
+      "stock": 14451384,
+      "listing_url": "https://www.bmwvictoria.ca/used/2024-BMW-M3.html",
+      "dealer_url": "https://www.bmwvictoria.ca/used/2024-BMW-M3.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T13:56:06",
+      "snapshot": "2026-10-03T13:58:33",
+      "go_url": "https://carwhisper.ca/go/bmw-victoria-mini-victoria-1791388-ontario-limited-wbs43ay08rft20107",
+      "region": "Vancouver Island",
+      "city": "Victoria",
+      "province": "BC",
+      "dealer_name": "BMW Victoria/MINI Victoria (1791388 Ontario Limited)"
     }
   ]
 }

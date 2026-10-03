@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T17:03:52+00:00",
-  "snapshot": "2026-10-03T17:03:52+00:00",
+  "generated_at": "2026-10-03T23:03:57+00:00",
+  "snapshot": "2026-10-03T23:03:57+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 2,
   "vehicles": [
@@ -9,6 +9,8 @@
       "year": 2019,
       "make": "Ford",
       "model": "Super Duty F-250 SRW",
+      "propulsion": "unknown",
+      "propulsion_source": null,
       "condition": "used",
       "price_cad": 40912.0,
       "price_note": null,
@@ -30,6 +32,8 @@
       "year": 2020,
       "make": "Ford",
       "model": "SUPER DUTY F-250 SRW",
+      "propulsion": "unknown",
+      "propulsion_source": null,
       "condition": "used",
       "odometer_km": 71000,
       "price_cad": 42995.0,

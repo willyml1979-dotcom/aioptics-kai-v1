@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T17:03:52+00:00",
-  "snapshot": "2026-10-03T17:03:52+00:00",
+  "generated_at": "2026-10-03T23:03:57+00:00",
+  "snapshot": "2026-10-03T23:03:57+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 1,
   "vehicles": [
@@ -9,6 +9,8 @@
       "year": 2023,
       "make": "Chevrolet",
       "model": "Silverado 1500RST",
+      "propulsion": "unknown",
+      "propulsion_source": null,
       "condition": "used",
       "odometer_km": 123670,
       "price_cad": null,

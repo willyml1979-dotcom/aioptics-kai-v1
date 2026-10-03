@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T17:03:52+00:00",
-  "snapshot": "2026-10-03T17:03:52+00:00",
+  "generated_at": "2026-10-03T23:03:57+00:00",
+  "snapshot": "2026-10-03T23:03:57+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 1,
   "vehicles": [
@@ -9,6 +9,9 @@
       "year": 2011,
       "make": "BMW",
       "model": "1 Series Convertible",
+      "propulsion": "electric",
+      "propulsion_source": "description",
+      "propulsion_confidence": "medium",
       "condition": "used",
       "odometer_km": 138824,
       "price_cad": 13995.0,

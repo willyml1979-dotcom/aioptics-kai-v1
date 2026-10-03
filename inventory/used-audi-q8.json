@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T17:03:52+00:00",
-  "snapshot": "2026-10-03T17:03:52+00:00",
+  "generated_at": "2026-10-03T23:03:57+00:00",
+  "snapshot": "2026-10-03T23:03:57+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 2,
   "vehicles": [
@@ -10,7 +10,8 @@
       "make": "Audi",
       "model": "Q8",
       "propulsion": "hybrid",
-      "propulsion_source": "stated",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
       "condition": "used",
       "odometer_km": 118179,
       "price_cad": 36888.0,
@@ -36,7 +37,8 @@
       "make": "Audi",
       "model": "Q8",
       "propulsion": "hybrid",
-      "propulsion_source": "stated",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
       "condition": "used",
       "odometer_km": 85185,
       "price_cad": 45907.0,

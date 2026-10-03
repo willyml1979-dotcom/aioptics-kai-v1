@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T17:03:52+00:00",
-  "snapshot": "2026-10-03T17:03:52+00:00",
+  "generated_at": "2026-10-03T23:03:57+00:00",
+  "snapshot": "2026-10-03T23:03:57+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 1,
   "vehicles": [
@@ -12,7 +12,8 @@
       "body_type": "van",
       "drivetrain": "FWD",
       "propulsion": "gas",
-      "propulsion_source": "stated",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
       "condition": "used",
       "odometer_km": 243717,
       "price_cad": 4999.0,

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T17:03:52+00:00",
+  "generated_at": "2026-10-03T23:03:57+00:00",
   "condition": "used",
   "make": "subaru",
   "files": [
@@ -299,13 +299,13 @@
       "condition": "used",
       "make": "subaru",
       "model": "Forester",
-      "shard": "Kootenays",
-      "count": 1,
-      "file": "inventory/used-subaru-forester-kootenays.json",
+      "shard": "part1",
+      "count": 30,
+      "file": "inventory/used-subaru-forester-part1.json",
       "models": [
         {
           "model": "Forester",
-          "count": 1
+          "count": 30
         }
       ]
     },
@@ -313,13 +313,13 @@
       "condition": "used",
       "make": "subaru",
       "model": "Forester",
-      "shard": "Lower Mainland",
-      "count": 11,
-      "file": "inventory/used-subaru-forester-lower-mainland.json",
+      "shard": "part2",
+      "count": 30,
+      "file": "inventory/used-subaru-forester-part2.json",
       "models": [
         {
           "model": "Forester",
-          "count": 11
+          "count": 30
         }
       ]
     },
@@ -327,13 +327,13 @@
       "condition": "used",
       "make": "subaru",
       "model": "Forester",
-      "shard": "Norte/Cariboo",
-      "count": 13,
-      "file": "inventory/used-subaru-forester-norte-cariboo.json",
+      "shard": "part3",
+      "count": 30,
+      "file": "inventory/used-subaru-forester-part3.json",
       "models": [
         {
           "model": "Forester",
-          "count": 13
+          "count": 30
         }
       ]
     },
@@ -341,55 +341,13 @@
       "condition": "used",
       "make": "subaru",
       "model": "Forester",
-      "shard": "Okanagan",
-      "count": 23,
-      "file": "inventory/used-subaru-forester-okanagan.json",
+      "shard": "part4",
+      "count": 27,
+      "file": "inventory/used-subaru-forester-part4.json",
       "models": [
         {
           "model": "Forester",
-          "count": 23
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "subaru",
-      "model": "Forester",
-      "shard": "Thompson-Okanagan",
-      "count": 1,
-      "file": "inventory/used-subaru-forester-thompson-okanagan.json",
-      "models": [
-        {
-          "model": "Forester",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "subaru",
-      "model": "Forester",
-      "shard": "Vancouver Island",
-      "count": 34,
-      "file": "inventory/used-subaru-forester-vancouver-island.json",
-      "models": [
-        {
-          "model": "Forester",
-          "count": 34
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "subaru",
-      "model": "Forester",
-      "shard": "sin-region",
-      "count": 34,
-      "file": "inventory/used-subaru-forester-sin-region.json",
-      "models": [
-        {
-          "model": "Forester",
-          "count": 34
+          "count": 27
         }
       ]
     },

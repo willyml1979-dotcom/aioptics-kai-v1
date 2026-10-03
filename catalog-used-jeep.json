@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T17:03:52+00:00",
+  "generated_at": "2026-10-03T23:03:57+00:00",
   "condition": "used",
   "make": "jeep",
   "files": [
@@ -8,7 +8,7 @@
       "make": "jeep",
       "model": "GRAND CHEROKEE",
       "shard": "Kootenays",
-      "count": 3,
+      "count": 4,
       "file": "inventory/used-jeep-grand-cherokee-kootenays.json",
       "models": [
         {
@@ -17,7 +17,7 @@
         },
         {
           "model": "Grand Cherokee",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -122,7 +122,7 @@
       "make": "jeep",
       "model": "Wrangler",
       "shard": "Kootenays",
-      "count": 10,
+      "count": 11,
       "file": "inventory/used-jeep-wrangler-kootenays.json",
       "models": [
         {
@@ -131,7 +131,7 @@
         },
         {
           "model": "Wrangler",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -200,12 +200,12 @@
       "make": "jeep",
       "model": "Wrangler",
       "shard": "Vancouver Island",
-      "count": 18,
+      "count": 19,
       "file": "inventory/used-jeep-wrangler-vancouver-island.json",
       "models": [
         {
           "model": "Wrangler",
-          "count": 18
+          "count": 19
         }
       ]
     },
@@ -620,6 +620,19 @@
     {
       "condition": "used",
       "make": "jeep",
+      "model": "Grand Cherokee L",
+      "count": 22,
+      "file": "inventory/used-jeep-grand-cherokee-l.json",
+      "models": [
+        {
+          "model": "Grand Cherokee L",
+          "count": 22
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
       "model": "CHEROKEELimited 4x4",
       "count": 1,
       "file": "inventory/used-jeep-cherokeelimited-4x4.json",
@@ -715,19 +728,6 @@
     {
       "condition": "used",
       "make": "jeep",
-      "model": "Grand Cherokee L",
-      "count": 21,
-      "file": "inventory/used-jeep-grand-cherokee-l.json",
-      "models": [
-        {
-          "model": "Grand Cherokee L",
-          "count": 21
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "jeep",
       "model": "Wagoneer 4WD",
       "count": 2,
       "file": "inventory/used-jeep-wagoneer-4wd.json",
@@ -778,6 +778,19 @@
         {
           "model": "Grand Wagoneer",
           "count": 8
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Wrangler Unlimited4WD 4dr Rubicon23RQuick Order Package4x4",
+      "count": 1,
+      "file": "inventory/used-jeep-wrangler-unlimited4wd-4dr-rubicon23rquick-order-package4x4.json",
+      "models": [
+        {
+          "model": "Wrangler Unlimited4WD 4dr Rubicon23RQuick Order Package4x4",
+          "count": 1
         }
       ]
     },

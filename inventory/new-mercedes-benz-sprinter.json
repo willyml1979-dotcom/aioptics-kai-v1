@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T17:03:52+00:00",
-  "snapshot": "2026-10-03T17:03:52+00:00",
+  "generated_at": "2026-10-03T23:03:57+00:00",
+  "snapshot": "2026-10-03T23:03:57+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 2,
   "vehicles": [
@@ -13,7 +13,8 @@
       "body_type": "van",
       "drivetrain": "FWD",
       "propulsion": "diesel",
-      "propulsion_source": "stated",
+      "propulsion_source": "model_trim_name",
+      "propulsion_confidence": "high",
       "condition": "new",
       "odometer_km": 90,
       "price_cad": 67081.0,
@@ -39,6 +40,8 @@
       "model": "Sprinter",
       "trim": "2500 Standard Roof",
       "drivetrain": "FWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
       "condition": "new",
       "odometer_km": 90,
       "price_cad": 84997.0,

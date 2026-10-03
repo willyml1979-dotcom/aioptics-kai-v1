@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T17:03:52+00:00",
-  "snapshot": "2026-10-03T17:03:52+00:00",
+  "generated_at": "2026-10-03T23:03:57+00:00",
+  "snapshot": "2026-10-03T23:03:57+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 1,
   "vehicles": [
@@ -12,6 +12,9 @@
       "trim": "4matic",
       "body_type": "coupe",
       "drivetrain": "FWD",
+      "propulsion": "hybrid",
+      "propulsion_source": "description",
+      "propulsion_confidence": "medium",
       "condition": "new",
       "odometer_km": 90,
       "price_cad": 83581.0,

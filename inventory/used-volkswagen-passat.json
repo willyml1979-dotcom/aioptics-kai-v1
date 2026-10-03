@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T17:03:52+00:00",
-  "snapshot": "2026-10-03T17:03:52+00:00",
+  "generated_at": "2026-10-03T23:03:57+00:00",
+  "snapshot": "2026-10-03T23:03:57+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 2,
   "vehicles": [
@@ -12,7 +12,8 @@
       "body_type": "sedan",
       "drivetrain": "FWD",
       "propulsion": "gas",
-      "propulsion_source": "stated",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
       "condition": "used",
       "odometer_km": 114464,
       "price_cad": 16999.0,
@@ -41,7 +42,8 @@
       "body_type": "sedan",
       "drivetrain": "FWD",
       "propulsion": "gas",
-      "propulsion_source": "stated",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
       "condition": "used",
       "odometer_km": 119434,
       "price_cad": 20877.0,

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T17:03:52+00:00",
-  "snapshot": "2026-10-03T17:03:52+00:00",
+  "generated_at": "2026-10-03T23:03:57+00:00",
+  "snapshot": "2026-10-03T23:03:57+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "signature-mazda-jm3kjdha4t1202193",
@@ -10,6 +10,9 @@
       "make": "Mazda",
       "model": "CX-70 PHEV GS SC AWD",
       "drivetrain": "AWD",
+      "propulsion": "plug-in hybrid",
+      "propulsion_source": "model_trim_name",
+      "propulsion_confidence": "high",
       "condition": "new",
       "price_cad": 52089.0,
       "price_note": null,
@@ -33,6 +36,9 @@
       "make": "Mazda",
       "model": "CX-70 PHEV GS SC AWD",
       "drivetrain": "AWD",
+      "propulsion": "plug-in hybrid",
+      "propulsion_source": "model_trim_name",
+      "propulsion_confidence": "high",
       "condition": "new",
       "price_cad": 51294.0,
       "price_note": null,
@@ -48,29 +54,6 @@
       "city": "Campbell River",
       "province": "BC",
       "dealer_name": "Island Owl Mazda"
-    },
-    {
-      "pub_id": "courtenay-mazda-jm3kjdhaxt1215823",
-      "year": 2026,
-      "make": "Mazda",
-      "model": "CX-70 PHEV GS SC AWD",
-      "drivetrain": "AWD",
-      "condition": "new",
-      "price_cad": 52089.0,
-      "price_note": null,
-      "color": "{$COLOREX}",
-      "dealer_id": "courtenay-mazda",
-      "vin": "JM3KJDHAXT1215823",
-      "stock": "75239-483124",
-      "listing_url": "https://www.courtenaymazda.com/new/2026-Mazda-CX_70_PHEV.html",
-      "dealer_url": "https://www.courtenaymazda.com/new/2026-Mazda-CX_70_PHEV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T22:50:17",
-      "snapshot": "2026-09-27T00:59:45",
-      "go_url": "https://carwhisper.ca/go/courtenay-mazda-jm3kjdhaxt1215823",
-      "region": "Vancouver Island",
-      "city": "Courtenay",
-      "province": "BC",
-      "dealer_name": "Courtenay Mazda"
     }
   ]
 }

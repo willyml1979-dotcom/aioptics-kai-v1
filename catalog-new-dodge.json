@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T17:03:52+00:00",
+  "generated_at": "2026-10-03T23:03:57+00:00",
   "condition": "new",
   "make": "dodge",
   "files": [
@@ -8,13 +8,45 @@
       "make": "dodge",
       "model": "Durango",
       "shard": "part1",
-      "count": 33,
+      "count": 26,
       "file": "inventory/new-dodge-durango-part1.json",
       "models": [
         {
           "model": "DURANGO",
-          "count": 7
+          "count": 5
         },
+        {
+          "model": "Durango",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "dodge",
+      "model": "Durango",
+      "shard": "part2",
+      "count": 26,
+      "file": "inventory/new-dodge-durango-part2.json",
+      "models": [
+        {
+          "model": "DURANGO",
+          "count": 5
+        },
+        {
+          "model": "Durango",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "dodge",
+      "model": "Durango",
+      "shard": "part3",
+      "count": 26,
+      "file": "inventory/new-dodge-durango-part3.json",
+      "models": [
         {
           "model": "Durango",
           "count": 26
@@ -25,45 +57,27 @@
       "condition": "new",
       "make": "dodge",
       "model": "Durango",
-      "shard": "part2",
-      "count": 33,
-      "file": "inventory/new-dodge-durango-part2.json",
-      "models": [
-        {
-          "model": "DURANGO",
-          "count": 3
-        },
-        {
-          "model": "Durango",
-          "count": 30
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "dodge",
-      "model": "Durango",
-      "shard": "part3",
-      "count": 33,
-      "file": "inventory/new-dodge-durango-part3.json",
-      "models": [
-        {
-          "model": "Durango",
-          "count": 33
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "dodge",
-      "model": "Durango",
       "shard": "part4",
-      "count": 31,
+      "count": 26,
       "file": "inventory/new-dodge-durango-part4.json",
       "models": [
         {
           "model": "Durango",
-          "count": 31
+          "count": 26
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "dodge",
+      "model": "Durango",
+      "shard": "part5",
+      "count": 26,
+      "file": "inventory/new-dodge-durango-part5.json",
+      "models": [
+        {
+          "model": "Durango",
+          "count": 26
         }
       ]
     },

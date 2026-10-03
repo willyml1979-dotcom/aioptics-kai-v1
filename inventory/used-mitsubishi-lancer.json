@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T17:03:52+00:00",
-  "snapshot": "2026-10-03T17:03:52+00:00",
+  "generated_at": "2026-10-03T23:03:57+00:00",
+  "snapshot": "2026-10-03T23:03:57+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 1,
   "vehicles": [
     {
       "pub_id": "chilliwack-mitsubishi-ja3au16u39u609340",
@@ -13,7 +13,8 @@
       "body_type": "sedan",
       "drivetrain": "FWD",
       "propulsion": "gas",
-      "propulsion_source": "stated",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
       "condition": "used",
       "odometer_km": 263664,
       "price_cad": 5950.0,
@@ -32,27 +33,6 @@
       "city": "Chilliwack",
       "province": "BC",
       "dealer_name": "Chilliwack Mitsubishi"
-    },
-    {
-      "pub_id": "abbotsford-nissan-ja3aj86e33u610389",
-      "year": 2003,
-      "make": "Mitsubishi",
-      "model": "Lancer",
-      "condition": "used",
-      "price_cad": null,
-      "price_note": "precio no publicado en la fuente",
-      "dealer_id": "abbotsford-nissan",
-      "vin": "JA3AJ86E33U610389",
-      "stock": 14413707,
-      "listing_url": "https://www.abbotsfordnissan.com/used/2003-Mitsubishi-Lancer.html",
-      "dealer_url": "https://www.abbotsfordnissan.com/used/2003-Mitsubishi-Lancer.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T18:55:00",
-      "snapshot": "2026-09-26T18:57:25",
-      "go_url": "https://carwhisper.ca/go/abbotsford-nissan-ja3aj86e33u610389",
-      "region": "Lower Mainland",
-      "city": "Abbotsford",
-      "province": "BC",
-      "dealer_name": "Abbotsford Nissan"
     }
   ]
 }

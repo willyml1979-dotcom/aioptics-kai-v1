@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T17:03:52+00:00",
-  "snapshot": "2026-10-03T17:03:52+00:00",
+  "generated_at": "2026-10-03T23:03:57+00:00",
+  "snapshot": "2026-10-03T23:03:57+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 2,
   "vehicles": [
@@ -11,6 +11,8 @@
       "model": "Sprinter 2500",
       "trim": "170 Wheelbase High Roof RWD",
       "drivetrain": "RWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
       "condition": "new",
       "odometer_km": 17,
       "price_cad": 74865.0,
@@ -37,6 +39,8 @@
       "model": "Sprinter 2500",
       "trim": "170 Wheelbase High Roof AWD",
       "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
       "condition": "new",
       "odometer_km": 12,
       "price_cad": 95669.0,

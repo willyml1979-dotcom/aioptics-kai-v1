@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T17:03:52+00:00",
-  "snapshot": "2026-10-03T17:03:52+00:00",
+  "generated_at": "2026-10-03T23:03:57+00:00",
+  "snapshot": "2026-10-03T23:03:57+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 2,
   "vehicles": [
@@ -9,6 +9,8 @@
       "year": 2025,
       "make": "Mazda",
       "model": "CX-5",
+      "propulsion": "unknown",
+      "propulsion_source": null,
       "condition": "used",
       "odometer_km": 44190,
       "price_cad": 32492.0,
@@ -34,7 +36,8 @@
       "model": "CX-5",
       "body_type": "suv",
       "propulsion": "gas",
-      "propulsion_source": "stated",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
       "condition": "used",
       "odometer_km": 52085,
       "price_cad": 33900.0,

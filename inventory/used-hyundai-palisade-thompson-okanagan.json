@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T17:03:52+00:00",
-  "snapshot": "2026-10-03T17:03:52+00:00",
+  "generated_at": "2026-10-03T23:03:57+00:00",
+  "snapshot": "2026-10-03T23:03:57+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "kamloops-honda-cars-km8rges27tu075575",
@@ -11,7 +11,8 @@
       "model": "Palisade",
       "drivetrain": "AWD",
       "propulsion": "gas",
-      "propulsion_source": "stated",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
       "condition": "used",
       "odometer_km": 19631,
       "price_cad": 52695.0,
@@ -30,6 +31,32 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Kamloops Honda Cars"
+    },
+    {
+      "pub_id": "dearborn-motors-ltd-km8r3dhe2mu246645",
+      "year": 2021,
+      "make": "Hyundai",
+      "model": "Palisade",
+      "trim": "Luxury 8 Passenger 4dr All-Wheel Drive",
+      "drivetrain": "AWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 129890,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "dearborn-motors-ltd",
+      "vin": "KM8R3DHE2MU246645",
+      "stock": "NT370A",
+      "listing_url": "https://www.dearbornford.com/used/vehicle/2021-hyundai-palisade-luxury-8-passenger-id15298225.htm",
+      "dealer_url": "https://www.dearbornford.com/used/vehicle/2021-hyundai-palisade-luxury-8-passenger-id15298225.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T17:02:43",
+      "snapshot": "2026-09-25T17:19:21",
+      "go_url": "https://carwhisper.ca/go/dearborn-motors-ltd-km8r3dhe2mu246645",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Dearborn Motors Ltd."
     }
   ]
 }

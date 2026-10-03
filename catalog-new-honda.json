@@ -1,18 +1,75 @@
 {
-  "generated_at": "2026-10-03T17:03:52+00:00",
+  "generated_at": "2026-10-03T23:03:57+00:00",
   "condition": "new",
   "make": "honda",
   "files": [
     {
       "condition": "new",
       "make": "honda",
-      "model": "HR-V LX 2WD CVT",
-      "count": 3,
-      "file": "inventory/new-honda-hr-v-lx-2wd-cvt.json",
+      "model": "HR-V",
+      "shard": "part1",
+      "count": 29,
+      "file": "inventory/new-honda-hr-v-part1.json",
       "models": [
         {
-          "model": "HR-V LX 2WD CVT",
-          "count": 3
+          "model": "HR-V",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "honda",
+      "model": "HR-V",
+      "shard": "part2",
+      "count": 29,
+      "file": "inventory/new-honda-hr-v-part2.json",
+      "models": [
+        {
+          "model": "HR-V",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "honda",
+      "model": "HR-V",
+      "shard": "part3",
+      "count": 29,
+      "file": "inventory/new-honda-hr-v-part3.json",
+      "models": [
+        {
+          "model": "HR-V",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "honda",
+      "model": "HR-V",
+      "shard": "part4",
+      "count": 29,
+      "file": "inventory/new-honda-hr-v-part4.json",
+      "models": [
+        {
+          "model": "HR-V",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "honda",
+      "model": "HR-V",
+      "shard": "part5",
+      "count": 28,
+      "file": "inventory/new-honda-hr-v-part5.json",
+      "models": [
+        {
+          "model": "HR-V",
+          "count": 28
         }
       ]
     },
@@ -21,12 +78,12 @@
       "make": "honda",
       "model": "Civic",
       "shard": "part1",
-      "count": 31,
+      "count": 28,
       "file": "inventory/new-honda-civic-part1.json",
       "models": [
         {
           "model": "Civic",
-          "count": 31
+          "count": 28
         }
       ]
     },
@@ -35,12 +92,12 @@
       "make": "honda",
       "model": "Civic",
       "shard": "part2",
-      "count": 31,
+      "count": 28,
       "file": "inventory/new-honda-civic-part2.json",
       "models": [
         {
           "model": "Civic",
-          "count": 31
+          "count": 28
         }
       ]
     },
@@ -49,12 +106,12 @@
       "make": "honda",
       "model": "Civic",
       "shard": "part3",
-      "count": 31,
+      "count": 28,
       "file": "inventory/new-honda-civic-part3.json",
       "models": [
         {
           "model": "Civic",
-          "count": 31
+          "count": 28
         }
       ]
     },
@@ -63,12 +120,12 @@
       "make": "honda",
       "model": "Civic",
       "shard": "part4",
-      "count": 31,
+      "count": 28,
       "file": "inventory/new-honda-civic-part4.json",
       "models": [
         {
           "model": "Civic",
-          "count": 31
+          "count": 28
         }
       ]
     },
@@ -77,12 +134,12 @@
       "make": "honda",
       "model": "Civic",
       "shard": "part5",
-      "count": 31,
+      "count": 28,
       "file": "inventory/new-honda-civic-part5.json",
       "models": [
         {
           "model": "Civic",
-          "count": 31
+          "count": 28
         }
       ]
     },
@@ -91,12 +148,12 @@
       "make": "honda",
       "model": "Civic",
       "shard": "part6",
-      "count": 31,
+      "count": 28,
       "file": "inventory/new-honda-civic-part6.json",
       "models": [
         {
           "model": "Civic",
-          "count": 31
+          "count": 28
         }
       ]
     },
@@ -105,119 +162,40 @@
       "make": "honda",
       "model": "Civic",
       "shard": "part7",
-      "count": 29,
+      "count": 28,
       "file": "inventory/new-honda-civic-part7.json",
       "models": [
         {
           "model": "Civic",
-          "count": 29
+          "count": 28
         }
       ]
     },
     {
       "condition": "new",
       "make": "honda",
-      "model": "Civic Hatchback Sport CVT Hatchback",
-      "count": 3,
-      "file": "inventory/new-honda-civic-hatchback-sport-cvt-hatchback.json",
+      "model": "Civic",
+      "shard": "part8",
+      "count": 28,
+      "file": "inventory/new-honda-civic-part8.json",
       "models": [
         {
-          "model": "Civic Hatchback Sport CVT Hatchback",
-          "count": 3
+          "model": "Civic",
+          "count": 28
         }
       ]
     },
     {
       "condition": "new",
       "make": "honda",
-      "model": "HR-V",
-      "shard": "part1",
-      "count": 33,
-      "file": "inventory/new-honda-hr-v-part1.json",
+      "model": "Civic",
+      "shard": "part9",
+      "count": 21,
+      "file": "inventory/new-honda-civic-part9.json",
       "models": [
         {
-          "model": "HR-V",
-          "count": 33
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "HR-V",
-      "shard": "part2",
-      "count": 33,
-      "file": "inventory/new-honda-hr-v-part2.json",
-      "models": [
-        {
-          "model": "HR-V",
-          "count": 33
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "HR-V",
-      "shard": "part3",
-      "count": 32,
-      "file": "inventory/new-honda-hr-v-part3.json",
-      "models": [
-        {
-          "model": "HR-V",
-          "count": 32
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "Civic Hatchback Hybrid Sport eCVT",
-      "count": 4,
-      "file": "inventory/new-honda-civic-hatchback-hybrid-sport-ecvt.json",
-      "models": [
-        {
-          "model": "Civic Hatchback Hybrid Sport eCVT",
-          "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "CR-V LX 2WD",
-      "count": 4,
-      "file": "inventory/new-honda-cr-v-lx-2wd.json",
-      "models": [
-        {
-          "model": "CR-V LX 2WD",
-          "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "Civic Hybrid",
-      "count": 15,
-      "file": "inventory/new-honda-civic-hybrid.json",
-      "models": [
-        {
-          "model": "Civic Hybrid",
-          "count": 15
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "Accord Sedan SE CVT Sedan",
-      "count": 3,
-      "file": "inventory/new-honda-accord-sedan-se-cvt-sedan.json",
-      "models": [
-        {
-          "model": "Accord Sedan SE CVT Sedan",
-          "count": 3
+          "model": "Civic",
+          "count": 21
         }
       ]
     },
@@ -226,12 +204,12 @@
       "make": "honda",
       "model": "CR-V",
       "shard": "part1",
-      "count": 28,
+      "count": 30,
       "file": "inventory/new-honda-cr-v-part1.json",
       "models": [
         {
           "model": "CR-V",
-          "count": 28
+          "count": 30
         }
       ]
     },
@@ -240,12 +218,12 @@
       "make": "honda",
       "model": "CR-V",
       "shard": "part2",
-      "count": 28,
+      "count": 30,
       "file": "inventory/new-honda-cr-v-part2.json",
       "models": [
         {
           "model": "CR-V",
-          "count": 28
+          "count": 30
         }
       ]
     },
@@ -254,12 +232,12 @@
       "make": "honda",
       "model": "CR-V",
       "shard": "part3",
-      "count": 28,
+      "count": 30,
       "file": "inventory/new-honda-cr-v-part3.json",
       "models": [
         {
           "model": "CR-V",
-          "count": 28
+          "count": 30
         }
       ]
     },
@@ -268,12 +246,12 @@
       "make": "honda",
       "model": "CR-V",
       "shard": "part4",
-      "count": 28,
+      "count": 30,
       "file": "inventory/new-honda-cr-v-part4.json",
       "models": [
         {
           "model": "CR-V",
-          "count": 28
+          "count": 30
         }
       ]
     },
@@ -282,12 +260,12 @@
       "make": "honda",
       "model": "CR-V",
       "shard": "part5",
-      "count": 28,
+      "count": 30,
       "file": "inventory/new-honda-cr-v-part5.json",
       "models": [
         {
           "model": "CR-V",
-          "count": 28
+          "count": 30
         }
       ]
     },
@@ -296,8 +274,92 @@
       "make": "honda",
       "model": "CR-V",
       "shard": "part6",
-      "count": 28,
+      "count": 30,
       "file": "inventory/new-honda-cr-v-part6.json",
+      "models": [
+        {
+          "model": "CR-V",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "honda",
+      "model": "CR-V",
+      "shard": "part7",
+      "count": 30,
+      "file": "inventory/new-honda-cr-v-part7.json",
+      "models": [
+        {
+          "model": "CR-V",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "honda",
+      "model": "CR-V",
+      "shard": "part8",
+      "count": 30,
+      "file": "inventory/new-honda-cr-v-part8.json",
+      "models": [
+        {
+          "model": "CR-V",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "honda",
+      "model": "CR-V",
+      "shard": "part9",
+      "count": 30,
+      "file": "inventory/new-honda-cr-v-part9.json",
+      "models": [
+        {
+          "model": "CR-V",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "honda",
+      "model": "CR-V",
+      "shard": "part10",
+      "count": 30,
+      "file": "inventory/new-honda-cr-v-part10.json",
+      "models": [
+        {
+          "model": "CR-V",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "honda",
+      "model": "CR-V",
+      "shard": "part11",
+      "count": 30,
+      "file": "inventory/new-honda-cr-v-part11.json",
+      "models": [
+        {
+          "model": "CR-V",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "honda",
+      "model": "CR-V",
+      "shard": "part12",
+      "count": 28,
+      "file": "inventory/new-honda-cr-v-part12.json",
       "models": [
         {
           "model": "CR-V",
@@ -309,109 +371,27 @@
       "condition": "new",
       "make": "honda",
       "model": "Accord",
-      "count": 9,
-      "file": "inventory/new-honda-accord.json",
+      "shard": "part1",
+      "count": 31,
+      "file": "inventory/new-honda-accord-part1.json",
       "models": [
         {
           "model": "Accord",
-          "count": 9
+          "count": 31
         }
       ]
     },
     {
       "condition": "new",
       "make": "honda",
-      "model": "CR-V Hybrid",
-      "shard": "part1",
-      "count": 26,
-      "file": "inventory/new-honda-cr-v-hybrid-part1.json",
-      "models": [
-        {
-          "model": "CR-V Hybrid",
-          "count": 26
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "CR-V Hybrid",
+      "model": "Accord",
       "shard": "part2",
-      "count": 26,
-      "file": "inventory/new-honda-cr-v-hybrid-part2.json",
+      "count": 30,
+      "file": "inventory/new-honda-accord-part2.json",
       "models": [
         {
-          "model": "CR-V Hybrid",
-          "count": 26
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "CR-V Hybrid",
-      "shard": "part3",
-      "count": 26,
-      "file": "inventory/new-honda-cr-v-hybrid-part3.json",
-      "models": [
-        {
-          "model": "CR-V Hybrid",
-          "count": 26
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "CR-V Hybrid",
-      "shard": "part4",
-      "count": 26,
-      "file": "inventory/new-honda-cr-v-hybrid-part4.json",
-      "models": [
-        {
-          "model": "CR-V Hybrid",
-          "count": 26
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "CR-V Hybrid",
-      "shard": "part5",
-      "count": 26,
-      "file": "inventory/new-honda-cr-v-hybrid-part5.json",
-      "models": [
-        {
-          "model": "CR-V Hybrid",
-          "count": 26
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "CR-V Hybrid",
-      "shard": "part6",
-      "count": 26,
-      "file": "inventory/new-honda-cr-v-hybrid-part6.json",
-      "models": [
-        {
-          "model": "CR-V Hybrid",
-          "count": 26
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "CR-V Hybrid Sport AWD",
-      "count": 8,
-      "file": "inventory/new-honda-cr-v-hybrid-sport-awd.json",
-      "models": [
-        {
-          "model": "CR-V Hybrid Sport AWD",
-          "count": 8
+          "model": "Accord",
+          "count": 30
         }
       ]
     },
@@ -431,78 +411,14 @@
     {
       "condition": "new",
       "make": "honda",
-      "model": "Odyssey Sport Auto",
-      "count": 8,
-      "file": "inventory/new-honda-odyssey-sport-auto.json",
+      "model": "Odyssey",
+      "shard": "Kootenays",
+      "count": 2,
+      "file": "inventory/new-honda-odyssey-kootenays.json",
       "models": [
         {
-          "model": "Odyssey Sport Auto",
-          "count": 8
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "Ridgeline Sport AWD",
-      "count": 4,
-      "file": "inventory/new-honda-ridgeline-sport-awd.json",
-      "models": [
-        {
-          "model": "Ridgeline Sport AWD",
-          "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "Civic Type R Type R",
-      "count": 3,
-      "file": "inventory/new-honda-civic-type-r-type-r.json",
-      "models": [
-        {
-          "model": "Civic Type R Type R",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "Pilot Sport AWD",
-      "count": 4,
-      "file": "inventory/new-honda-pilot-sport-awd.json",
-      "models": [
-        {
-          "model": "Pilot Sport AWD",
-          "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "Passport TrailSport AWD",
-      "count": 4,
-      "file": "inventory/new-honda-passport-trailsport-awd.json",
-      "models": [
-        {
-          "model": "Passport TrailSport AWD",
-          "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "Passport",
-      "count": 11,
-      "file": "inventory/new-honda-passport.json",
-      "models": [
-        {
-          "model": "Passport",
-          "count": 11
+          "model": "Odyssey",
+          "count": 2
         }
       ]
     },
@@ -510,186 +426,69 @@
       "condition": "new",
       "make": "honda",
       "model": "Odyssey",
-      "count": 29,
-      "file": "inventory/new-honda-odyssey.json",
+      "shard": "Lower Mainland",
+      "count": 23,
+      "file": "inventory/new-honda-odyssey-lower-mainland.json",
       "models": [
         {
           "model": "Odyssey",
-          "count": 29
+          "count": 23
         }
       ]
     },
     {
       "condition": "new",
       "make": "honda",
-      "model": "Civic Sedan LX CVT Sedan",
-      "count": 1,
-      "file": "inventory/new-honda-civic-sedan-lx-cvt-sedan.json",
+      "model": "Odyssey",
+      "shard": "Okanagan",
+      "count": 2,
+      "file": "inventory/new-honda-odyssey-okanagan.json",
       "models": [
         {
-          "model": "Civic Sedan LX CVT Sedan",
-          "count": 1
+          "model": "Odyssey",
+          "count": 2
         }
       ]
     },
     {
       "condition": "new",
       "make": "honda",
-      "model": "HR-V LX 2WD",
-      "count": 1,
-      "file": "inventory/new-honda-hr-v-lx-2wd.json",
-      "models": [
-        {
-          "model": "HR-V LX 2WD",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "Civic Sedan Hybrid Sport eCVT Sedan",
-      "count": 1,
-      "file": "inventory/new-honda-civic-sedan-hybrid-sport-ecvt-sedan.json",
-      "models": [
-        {
-          "model": "Civic Sedan Hybrid Sport eCVT Sedan",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "HR-V Turbo Sport",
-      "shard": "Lower Mainland",
-      "count": 25,
-      "file": "inventory/new-honda-hr-v-turbo-sport-lower-mainland.json",
-      "models": [
-        {
-          "model": "HR-V Turbo Sport",
-          "count": 25
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "HR-V Turbo Sport",
+      "model": "Odyssey",
       "shard": "Thompson-Okanagan",
-      "count": 1,
-      "file": "inventory/new-honda-hr-v-turbo-sport-thompson-okanagan.json",
+      "count": 2,
+      "file": "inventory/new-honda-odyssey-thompson-okanagan.json",
       "models": [
         {
-          "model": "HR-V Turbo Sport",
-          "count": 1
+          "model": "Odyssey",
+          "count": 2
         }
       ]
     },
     {
       "condition": "new",
       "make": "honda",
-      "model": "HR-V Turbo Sport",
+      "model": "Odyssey",
       "shard": "Vancouver Island",
-      "count": 7,
-      "file": "inventory/new-honda-hr-v-turbo-sport-vancouver-island.json",
+      "count": 9,
+      "file": "inventory/new-honda-odyssey-vancouver-island.json",
       "models": [
         {
-          "model": "HR-V Turbo Sport",
-          "count": 7
+          "model": "Odyssey",
+          "count": 9
         }
       ]
     },
     {
       "condition": "new",
       "make": "honda",
-      "model": "Civic Sedan Si",
+      "model": "Odyssey",
+      "shard": "sin-region",
       "count": 1,
-      "file": "inventory/new-honda-civic-sedan-si.json",
+      "file": "inventory/new-honda-odyssey-sin-region.json",
       "models": [
         {
-          "model": "Civic Sedan Si",
+          "model": "Odyssey",
           "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "Civic Si",
-      "count": 4,
-      "file": "inventory/new-honda-civic-si.json",
-      "models": [
-        {
-          "model": "Civic Si",
-          "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "Civic Si Sedan Manual",
-      "count": 1,
-      "file": "inventory/new-honda-civic-si-sedan-manual.json",
-      "models": [
-        {
-          "model": "Civic Si Sedan Manual",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "Accord Hybrid",
-      "shard": "part1",
-      "count": 23,
-      "file": "inventory/new-honda-accord-hybrid-part1.json",
-      "models": [
-        {
-          "model": "Accord Hybrid",
-          "count": 23
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "Accord Hybrid",
-      "shard": "part2",
-      "count": 23,
-      "file": "inventory/new-honda-accord-hybrid-part2.json",
-      "models": [
-        {
-          "model": "Accord Hybrid",
-          "count": 23
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "Accord Hybrid Sport-L eCVT Hybrid",
-      "count": 3,
-      "file": "inventory/new-honda-accord-hybrid-sport-l-ecvt-hybrid.json",
-      "models": [
-        {
-          "model": "Accord Hybrid Sport-L eCVT Hybrid",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "Pilot",
-      "count": 32,
-      "file": "inventory/new-honda-pilot.json",
-      "models": [
-        {
-          "model": "Pilot",
-          "count": 32
         }
       ]
     },
@@ -697,12 +496,109 @@
       "condition": "new",
       "make": "honda",
       "model": "Ridgeline",
-      "count": 9,
+      "count": 12,
       "file": "inventory/new-honda-ridgeline.json",
       "models": [
         {
           "model": "Ridgeline",
-          "count": 9
+          "count": 12
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "honda",
+      "model": "Pilot",
+      "shard": "Kootenays",
+      "count": 1,
+      "file": "inventory/new-honda-pilot-kootenays.json",
+      "models": [
+        {
+          "model": "Pilot",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "honda",
+      "model": "Pilot",
+      "shard": "Lower Mainland",
+      "count": 16,
+      "file": "inventory/new-honda-pilot-lower-mainland.json",
+      "models": [
+        {
+          "model": "Pilot",
+          "count": 16
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "honda",
+      "model": "Pilot",
+      "shard": "Okanagan",
+      "count": 6,
+      "file": "inventory/new-honda-pilot-okanagan.json",
+      "models": [
+        {
+          "model": "Pilot",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "honda",
+      "model": "Pilot",
+      "shard": "Thompson-Okanagan",
+      "count": 4,
+      "file": "inventory/new-honda-pilot-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "Pilot",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "honda",
+      "model": "Pilot",
+      "shard": "Vancouver Island",
+      "count": 8,
+      "file": "inventory/new-honda-pilot-vancouver-island.json",
+      "models": [
+        {
+          "model": "Pilot",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "honda",
+      "model": "Pilot",
+      "shard": "sin-region",
+      "count": 1,
+      "file": "inventory/new-honda-pilot-sin-region.json",
+      "models": [
+        {
+          "model": "Pilot",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "honda",
+      "model": "Passport",
+      "count": 15,
+      "file": "inventory/new-honda-passport.json",
+      "models": [
+        {
+          "model": "Passport",
+          "count": 15
         }
       ]
     },
@@ -716,205 +612,6 @@
         {
           "model": "Prologue EX AWD",
           "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "HR-V SPORT",
-      "count": 7,
-      "file": "inventory/new-honda-hr-v-sport.json",
-      "models": [
-        {
-          "model": "HR-V SPORT",
-          "count": 7
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "CR-V Hybrid EX-L HYBRID",
-      "count": 6,
-      "file": "inventory/new-honda-cr-v-hybrid-ex-l-hybrid.json",
-      "models": [
-        {
-          "model": "CR-V Hybrid EX-L HYBRID",
-          "count": 6
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "Civic Hybrid SPORT TOURING",
-      "count": 1,
-      "file": "inventory/new-honda-civic-hybrid-sport-touring.json",
-      "models": [
-        {
-          "model": "Civic Hybrid SPORT TOURING",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "Civic Sedan Hybrid",
-      "count": 1,
-      "file": "inventory/new-honda-civic-sedan-hybrid.json",
-      "models": [
-        {
-          "model": "Civic Sedan Hybrid",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "CR-V Hybrid Touring AWD",
-      "count": 1,
-      "file": "inventory/new-honda-cr-v-hybrid-touring-awd.json",
-      "models": [
-        {
-          "model": "CR-V Hybrid Touring AWD",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "Civic Sedan Sport",
-      "count": 1,
-      "file": "inventory/new-honda-civic-sedan-sport.json",
-      "models": [
-        {
-          "model": "Civic Sedan Sport",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "CR-V Hybrid Touring",
-      "count": 1,
-      "file": "inventory/new-honda-cr-v-hybrid-touring.json",
-      "models": [
-        {
-          "model": "CR-V Hybrid Touring",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "Pilot Touring",
-      "count": 1,
-      "file": "inventory/new-honda-pilot-touring.json",
-      "models": [
-        {
-          "model": "Pilot Touring",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "CR-V Sport",
-      "count": 6,
-      "file": "inventory/new-honda-cr-v-sport.json",
-      "models": [
-        {
-          "model": "CR-V SPORT",
-          "count": 2
-        },
-        {
-          "model": "CR-V Sport",
-          "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "CR-V Sport Touring",
-      "count": 7,
-      "file": "inventory/new-honda-cr-v-sport-touring.json",
-      "models": [
-        {
-          "model": "CR-V Sport Touring",
-          "count": 7
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "CR-V EXL",
-      "count": 4,
-      "file": "inventory/new-honda-cr-v-exl.json",
-      "models": [
-        {
-          "model": "CR-V EXL",
-          "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "CR-V TrailSport",
-      "count": 2,
-      "file": "inventory/new-honda-cr-v-trailsport.json",
-      "models": [
-        {
-          "model": "CR-V TrailSport",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "CR-V LX",
-      "count": 1,
-      "file": "inventory/new-honda-cr-v-lx.json",
-      "models": [
-        {
-          "model": "CR-V LX",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "Odyssey Sport-L",
-      "count": 1,
-      "file": "inventory/new-honda-odyssey-sport-l.json",
-      "models": [
-        {
-          "model": "Odyssey Sport-L",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "Odyssey Touring",
-      "count": 1,
-      "file": "inventory/new-honda-odyssey-touring.json",
-      "models": [
-        {
-          "model": "Odyssey Touring",
-          "count": 1
         }
       ]
     }

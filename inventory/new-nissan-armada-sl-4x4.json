@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T17:03:52+00:00",
-  "snapshot": "2026-10-03T17:03:52+00:00",
+  "generated_at": "2026-10-03T23:03:57+00:00",
+  "snapshot": "2026-10-03T23:03:57+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "abbotsford-nissan-jn8ay3de8v9460616",
@@ -10,6 +10,8 @@
       "make": "Nissan",
       "model": "Armada SL 4x4",
       "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
       "condition": "new",
       "price_cad": 88298.0,
       "price_note": null,
@@ -19,13 +21,36 @@
       "stock": "78625-487995",
       "listing_url": "https://www.abbotsfordnissan.com/new/2027-Nissan-Armada.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/2027-Nissan-Armada.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T16:14:41",
-      "snapshot": "2026-10-02T16:18:41",
+      "last_verified": "2026-10-03T13:48:21",
+      "snapshot": "2026-10-03T13:54:00",
       "go_url": "https://carwhisper.ca/go/abbotsford-nissan-jn8ay3de8v9460616",
       "region": "Lower Mainland",
       "city": "Abbotsford",
       "province": "BC",
       "dealer_name": "Abbotsford Nissan"
+    },
+    {
+      "pub_id": "courtenay-nissan-78625-487995",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Armada SL 4x4",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": 90247.0,
+      "price_note": null,
+      "dealer_id": "courtenay-nissan",
+      "stock": "78625-487995",
+      "listing_url": "https://www.courtenaynissan.com/new/2027-Nissan-Armada.html",
+      "dealer_url": "https://www.courtenaynissan.com/new/2027-Nissan-Armada.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T15:38:10",
+      "snapshot": "2026-10-03T15:41:57",
+      "go_url": "https://carwhisper.ca/go/courtenay-nissan-78625-487995",
+      "region": "Vancouver Island",
+      "city": "Courtenay",
+      "province": "BC",
+      "dealer_name": "Courtenay Nissan"
     }
   ]
 }

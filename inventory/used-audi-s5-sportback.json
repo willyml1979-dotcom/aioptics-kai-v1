@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T17:03:52+00:00",
-  "snapshot": "2026-10-03T17:03:52+00:00",
+  "generated_at": "2026-10-03T23:03:57+00:00",
+  "snapshot": "2026-10-03T23:03:57+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 2,
   "vehicles": [
@@ -11,6 +11,9 @@
       "model": "S5 Sportback",
       "trim": "4-door Mid-Size Passenger Car",
       "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "model_trim_name",
+      "propulsion_confidence": "high",
       "condition": "used",
       "odometer_km": 93357,
       "price_cad": 37497.0,
@@ -38,7 +41,8 @@
       "body_type": "hatchback",
       "drivetrain": "AWD",
       "propulsion": "gas",
-      "propulsion_source": "stated",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
       "condition": "used",
       "odometer_km": 27932,
       "price_cad": 54993.0,

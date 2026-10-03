@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T17:03:52+00:00",
+  "generated_at": "2026-10-03T23:03:57+00:00",
   "condition": "used",
   "make": "chevrolet",
   "files": [
@@ -22,12 +22,12 @@
       "make": "chevrolet",
       "model": "Equinox",
       "shard": "Lower Mainland",
-      "count": 18,
+      "count": 19,
       "file": "inventory/used-chevrolet-equinox-lower-mainland.json",
       "models": [
         {
           "model": "Equinox",
-          "count": 18
+          "count": 19
         }
       ]
     },
@@ -118,8 +118,95 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Trailblazer",
-      "count": 33,
-      "file": "inventory/used-chevrolet-trailblazer.json",
+      "shard": "Kootenays",
+      "count": 2,
+      "file": "inventory/used-chevrolet-trailblazer-kootenays.json",
+      "models": [
+        {
+          "model": "TrailBlazer",
+          "count": 1
+        },
+        {
+          "model": "Trailblazer",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Trailblazer",
+      "shard": "Lower Mainland",
+      "count": 11,
+      "file": "inventory/used-chevrolet-trailblazer-lower-mainland.json",
+      "models": [
+        {
+          "model": "TrailBlazer",
+          "count": 7
+        },
+        {
+          "model": "Trailblazer",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Trailblazer",
+      "shard": "Norte/Cariboo",
+      "count": 1,
+      "file": "inventory/used-chevrolet-trailblazer-norte-cariboo.json",
+      "models": [
+        {
+          "model": "TrailBlazer",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Trailblazer",
+      "shard": "Okanagan",
+      "count": 6,
+      "file": "inventory/used-chevrolet-trailblazer-okanagan.json",
+      "models": [
+        {
+          "model": "TrailBlazer",
+          "count": 4
+        },
+        {
+          "model": "Trailblazer",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Trailblazer",
+      "shard": "Thompson-Okanagan",
+      "count": 5,
+      "file": "inventory/used-chevrolet-trailblazer-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "TrailBlazer",
+          "count": 3
+        },
+        {
+          "model": "Trailblazer",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Trailblazer",
+      "shard": "Vancouver Island",
+      "count": 7,
+      "file": "inventory/used-chevrolet-trailblazer-vancouver-island.json",
       "models": [
         {
           "model": "TRAILBLAZER",
@@ -127,11 +214,25 @@
         },
         {
           "model": "TrailBlazer",
-          "count": 18
+          "count": 1
         },
         {
           "model": "Trailblazer",
-          "count": 14
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Trailblazer",
+      "shard": "sin-region",
+      "count": 1,
+      "file": "inventory/used-chevrolet-trailblazer-sin-region.json",
+      "models": [
+        {
+          "model": "TrailBlazer",
+          "count": 1
         }
       ]
     },
@@ -237,12 +338,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Colorado",
-      "count": 30,
+      "count": 29,
       "file": "inventory/used-chevrolet-colorado.json",
       "models": [
         {
           "model": "Colorado",
-          "count": 30
+          "count": 29
         }
       ]
     },
@@ -385,13 +486,13 @@
     {
       "condition": "used",
       "make": "chevrolet",
-      "model": "Bolt EV",
-      "count": 5,
-      "file": "inventory/used-chevrolet-bolt-ev.json",
+      "model": "Bolt",
+      "count": 8,
+      "file": "inventory/used-chevrolet-bolt.json",
       "models": [
         {
-          "model": "Bolt EV",
-          "count": 5
+          "model": "Bolt",
+          "count": 8
         }
       ]
     },
@@ -580,12 +681,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Equinox EV",
-      "count": 8,
+      "count": 9,
       "file": "inventory/used-chevrolet-equinox-ev.json",
       "models": [
         {
           "model": "Equinox EV",
-          "count": 8
+          "count": 9
         }
       ]
     },
@@ -683,6 +784,19 @@
     {
       "condition": "used",
       "make": "chevrolet",
+      "model": "CruzeHatchback Premier1SFPreferred Equipment GroupFWD",
+      "count": 1,
+      "file": "inventory/used-chevrolet-cruzehatchback-premier1sfpreferred-equipment-groupfwd.json",
+      "models": [
+        {
+          "model": "CruzeHatchback Premier1SFPreferred Equipment GroupFWD",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
       "model": "Silverado 1500Custom Trail Boss",
       "count": 1,
       "file": "inventory/used-chevrolet-silverado-1500custom-trail-boss.json",
@@ -715,19 +829,6 @@
       "models": [
         {
           "model": "Tahoe 4WD 4dr Premier",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chevrolet",
-      "model": "Bolt EVPremier",
-      "count": 1,
-      "file": "inventory/used-chevrolet-bolt-evpremier.json",
-      "models": [
-        {
-          "model": "Bolt EVPremier",
           "count": 1
         }
       ]
@@ -817,19 +918,6 @@
     {
       "condition": "used",
       "make": "chevrolet",
-      "model": "Silverado 1500LTZ",
-      "count": 2,
-      "file": "inventory/used-chevrolet-silverado-1500ltz.json",
-      "models": [
-        {
-          "model": "Silverado 1500LTZ",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chevrolet",
       "model": "TraxLT",
       "count": 1,
       "file": "inventory/used-chevrolet-traxlt.json",
@@ -863,6 +951,19 @@
         {
           "model": "EquinoxAWD LT",
           "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "TrailBlazerLT",
+      "count": 2,
+      "file": "inventory/used-chevrolet-trailblazerlt.json",
+      "models": [
+        {
+          "model": "TrailBlazerLT",
+          "count": 2
         }
       ]
     },
@@ -999,32 +1100,6 @@
     {
       "condition": "used",
       "make": "chevrolet",
-      "model": "Equinox EVRS",
-      "count": 1,
-      "file": "inventory/used-chevrolet-equinox-evrs.json",
-      "models": [
-        {
-          "model": "Equinox EVRS",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chevrolet",
-      "model": "TrailBlazerLT",
-      "count": 1,
-      "file": "inventory/used-chevrolet-trailblazerlt.json",
-      "models": [
-        {
-          "model": "TrailBlazerLT",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chevrolet",
       "model": "Silverado 1500RST",
       "count": 1,
       "file": "inventory/used-chevrolet-silverado-1500rst.json",
@@ -1064,19 +1139,6 @@
     {
       "condition": "used",
       "make": "chevrolet",
-      "model": "Bolt",
-      "count": 1,
-      "file": "inventory/used-chevrolet-bolt.json",
-      "models": [
-        {
-          "model": "Bolt",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chevrolet",
       "model": "Silverado 3500",
       "count": 6,
       "file": "inventory/used-chevrolet-silverado-3500.json",
@@ -1096,19 +1158,6 @@
       "models": [
         {
           "model": "TraverseLS",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chevrolet",
-      "model": "Bolt EV1LT",
-      "count": 1,
-      "file": "inventory/used-chevrolet-bolt-ev1lt.json",
-      "models": [
-        {
-          "model": "Bolt EV1LT",
           "count": 1
         }
       ]
@@ -1187,6 +1236,19 @@
       "models": [
         {
           "model": "Express Passenger",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Silverado 1500LTZ",
+      "count": 1,
+      "file": "inventory/used-chevrolet-silverado-1500ltz.json",
+      "models": [
+        {
+          "model": "Silverado 1500LTZ",
           "count": 1
         }
       ]

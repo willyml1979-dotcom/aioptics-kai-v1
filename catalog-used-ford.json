@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T17:03:52+00:00",
+  "generated_at": "2026-10-03T23:03:57+00:00",
   "condition": "used",
   "make": "ford",
   "files": [
@@ -22,12 +22,12 @@
       "make": "ford",
       "model": "Bronco Sport",
       "shard": "Lower Mainland",
-      "count": 16,
+      "count": 18,
       "file": "inventory/used-ford-bronco-sport-lower-mainland.json",
       "models": [
         {
           "model": "Bronco Sport",
-          "count": 16
+          "count": 18
         }
       ]
     },
@@ -64,12 +64,12 @@
       "make": "ford",
       "model": "Bronco Sport",
       "shard": "Thompson-Okanagan",
-      "count": 1,
+      "count": 10,
       "file": "inventory/used-ford-bronco-sport-thompson-okanagan.json",
       "models": [
         {
           "model": "Bronco Sport",
-          "count": 1
+          "count": 10
         }
       ]
     },
@@ -82,12 +82,8 @@
       "file": "inventory/used-ford-bronco-sport-vancouver-island.json",
       "models": [
         {
-          "model": "BRONCO SPORT",
-          "count": 2
-        },
-        {
           "model": "Bronco Sport",
-          "count": 5
+          "count": 7
         }
       ]
     },
@@ -96,25 +92,96 @@
       "make": "ford",
       "model": "Bronco Sport",
       "shard": "sin-region",
-      "count": 11,
+      "count": 13,
       "file": "inventory/used-ford-bronco-sport-sin-region.json",
       "models": [
         {
           "model": "Bronco Sport",
-          "count": 11
+          "count": 13
         }
       ]
     },
     {
       "condition": "used",
       "make": "ford",
-      "model": "ESCAPE4dr Limited 4WD",
-      "count": 1,
-      "file": "inventory/used-ford-escape4dr-limited-4wd.json",
+      "model": "Escape",
+      "shard": "part1",
+      "count": 31,
+      "file": "inventory/used-ford-escape-part1.json",
       "models": [
         {
-          "model": "ESCAPE4dr Limited 4WD",
-          "count": 1
+          "model": "Escape",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Escape",
+      "shard": "part2",
+      "count": 31,
+      "file": "inventory/used-ford-escape-part2.json",
+      "models": [
+        {
+          "model": "Escape",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Escape",
+      "shard": "part3",
+      "count": 31,
+      "file": "inventory/used-ford-escape-part3.json",
+      "models": [
+        {
+          "model": "Escape",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Escape",
+      "shard": "part4",
+      "count": 31,
+      "file": "inventory/used-ford-escape-part4.json",
+      "models": [
+        {
+          "model": "Escape",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Escape",
+      "shard": "part5",
+      "count": 31,
+      "file": "inventory/used-ford-escape-part5.json",
+      "models": [
+        {
+          "model": "Escape",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Escape",
+      "shard": "part6",
+      "count": 31,
+      "file": "inventory/used-ford-escape-part6.json",
+      "models": [
+        {
+          "model": "Escape",
+          "count": 31
         }
       ]
     },
@@ -134,72 +201,13 @@
     {
       "condition": "used",
       "make": "ford",
-      "model": "F-150XLT",
-      "count": 5,
-      "file": "inventory/used-ford-f-150xlt.json",
-      "models": [
-        {
-          "model": "F-150XLT",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "ESCAPE",
-      "shard": "Kootenays",
-      "count": 6,
-      "file": "inventory/used-ford-escape-kootenays.json",
-      "models": [
-        {
-          "model": "ESCAPE",
-          "count": 1
-        },
-        {
-          "model": "Escape",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "ESCAPE",
-      "shard": "Lower Mainland",
-      "count": 35,
-      "file": "inventory/used-ford-escape-lower-mainland.json",
-      "models": [
-        {
-          "model": "Escape",
-          "count": 35
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "ESCAPE",
-      "shard": "Norte/Cariboo",
-      "count": 14,
-      "file": "inventory/used-ford-escape-norte-cariboo.json",
-      "models": [
-        {
-          "model": "Escape",
-          "count": 14
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "ESCAPE",
-      "shard": "Okanagan",
+      "model": "F-150",
+      "shard": "part1",
       "count": 31,
-      "file": "inventory/used-ford-escape-okanagan.json",
+      "file": "inventory/used-ford-f-150-part1.json",
       "models": [
         {
-          "model": "Escape",
+          "model": "F-150",
           "count": 31
         }
       ]
@@ -207,59 +215,207 @@
     {
       "condition": "used",
       "make": "ford",
-      "model": "ESCAPE",
-      "shard": "Thompson-Okanagan",
-      "count": 3,
-      "file": "inventory/used-ford-escape-thompson-okanagan.json",
+      "model": "F-150",
+      "shard": "part2",
+      "count": 31,
+      "file": "inventory/used-ford-f-150-part2.json",
       "models": [
         {
-          "model": "Escape",
-          "count": 3
+          "model": "F-150",
+          "count": 31
         }
       ]
     },
     {
       "condition": "used",
       "make": "ford",
-      "model": "ESCAPE",
-      "shard": "Vancouver Island",
-      "count": 35,
-      "file": "inventory/used-ford-escape-vancouver-island.json",
+      "model": "F-150",
+      "shard": "part3",
+      "count": 31,
+      "file": "inventory/used-ford-f-150-part3.json",
       "models": [
         {
-          "model": "ESCAPE",
-          "count": 1
+          "model": "F-150",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "F-150",
+      "shard": "part4",
+      "count": 31,
+      "file": "inventory/used-ford-f-150-part4.json",
+      "models": [
+        {
+          "model": "F-150",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "F-150",
+      "shard": "part5",
+      "count": 31,
+      "file": "inventory/used-ford-f-150-part5.json",
+      "models": [
+        {
+          "model": "F-150",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "F-150",
+      "shard": "part6",
+      "count": 31,
+      "file": "inventory/used-ford-f-150-part6.json",
+      "models": [
+        {
+          "model": "F-150",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "F-150",
+      "shard": "part7",
+      "count": 31,
+      "file": "inventory/used-ford-f-150-part7.json",
+      "models": [
+        {
+          "model": "F-150",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "F-150",
+      "shard": "part8",
+      "count": 31,
+      "file": "inventory/used-ford-f-150-part8.json",
+      "models": [
+        {
+          "model": "F-150",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "F-150",
+      "shard": "part9",
+      "count": 31,
+      "file": "inventory/used-ford-f-150-part9.json",
+      "models": [
+        {
+          "model": "F-150",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "F-150",
+      "shard": "part10",
+      "count": 31,
+      "file": "inventory/used-ford-f-150-part10.json",
+      "models": [
+        {
+          "model": "F-150",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "F-150",
+      "shard": "part11",
+      "count": 31,
+      "file": "inventory/used-ford-f-150-part11.json",
+      "models": [
+        {
+          "model": "F-150",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "F-150",
+      "shard": "part12",
+      "count": 31,
+      "file": "inventory/used-ford-f-150-part12.json",
+      "models": [
+        {
+          "model": "F 150",
+          "count": 10
         },
         {
-          "model": "Escape",
-          "count": 34
+          "model": "F-150",
+          "count": 21
         }
       ]
     },
     {
       "condition": "used",
       "make": "ford",
-      "model": "ESCAPE",
-      "shard": "sin-region",
-      "count": 16,
-      "file": "inventory/used-ford-escape-sin-region.json",
+      "model": "F-150",
+      "shard": "part13",
+      "count": 31,
+      "file": "inventory/used-ford-f-150-part13.json",
       "models": [
         {
-          "model": "Escape",
-          "count": 16
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "MAVERICKXL AWD",
-      "count": 1,
-      "file": "inventory/used-ford-maverickxl-awd.json",
-      "models": [
+          "model": "F 150",
+          "count": 30
+        },
         {
-          "model": "MAVERICKXL AWD",
+          "model": "F-150",
           "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "F-150",
+      "shard": "part14",
+      "count": 27,
+      "file": "inventory/used-ford-f-150-part14.json",
+      "models": [
+        {
+          "model": "F 150",
+          "count": 7
+        },
+        {
+          "model": "F-150",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Maverick",
+      "count": 28,
+      "file": "inventory/used-ford-maverick.json",
+      "models": [
+        {
+          "model": "Maverick",
+          "count": 28
         }
       ]
     },
@@ -285,12 +441,12 @@
       "make": "ford",
       "model": "Explorer",
       "shard": "Kootenays",
-      "count": 4,
+      "count": 5,
       "file": "inventory/used-ford-explorer-kootenays.json",
       "models": [
         {
           "model": "Explorer",
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -299,12 +455,12 @@
       "make": "ford",
       "model": "Explorer",
       "shard": "Lower Mainland",
-      "count": 13,
+      "count": 14,
       "file": "inventory/used-ford-explorer-lower-mainland.json",
       "models": [
         {
           "model": "Explorer",
-          "count": 13
+          "count": 14
         }
       ]
     },
@@ -313,12 +469,12 @@
       "make": "ford",
       "model": "Explorer",
       "shard": "Norte/Cariboo",
-      "count": 16,
+      "count": 17,
       "file": "inventory/used-ford-explorer-norte-cariboo.json",
       "models": [
         {
           "model": "Explorer",
-          "count": 16
+          "count": 17
         }
       ]
     },
@@ -331,12 +487,8 @@
       "file": "inventory/used-ford-explorer-okanagan.json",
       "models": [
         {
-          "model": "EXPLORER",
-          "count": 1
-        },
-        {
           "model": "Explorer",
-          "count": 11
+          "count": 12
         }
       ]
     },
@@ -373,162 +525,12 @@
       "make": "ford",
       "model": "Explorer",
       "shard": "sin-region",
-      "count": 5,
+      "count": 7,
       "file": "inventory/used-ford-explorer-sin-region.json",
       "models": [
         {
           "model": "Explorer",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Escape ST Line AWD",
-      "count": 1,
-      "file": "inventory/used-ford-escape-st-line-awd.json",
-      "models": [
-        {
-          "model": "Escape ST Line AWD",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Escape Platinum AWD",
-      "count": 1,
-      "file": "inventory/used-ford-escape-platinum-awd.json",
-      "models": [
-        {
-          "model": "Escape Platinum AWD",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150",
-      "shard": "part1",
-      "count": 32,
-      "file": "inventory/used-ford-f-150-part1.json",
-      "models": [
-        {
-          "model": "F-150",
-          "count": 32
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150",
-      "shard": "part2",
-      "count": 32,
-      "file": "inventory/used-ford-f-150-part2.json",
-      "models": [
-        {
-          "model": "F-150",
-          "count": 32
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150",
-      "shard": "part3",
-      "count": 32,
-      "file": "inventory/used-ford-f-150-part3.json",
-      "models": [
-        {
-          "model": "F-150",
-          "count": 32
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150",
-      "shard": "part4",
-      "count": 32,
-      "file": "inventory/used-ford-f-150-part4.json",
-      "models": [
-        {
-          "model": "F-150",
-          "count": 32
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150",
-      "shard": "part5",
-      "count": 32,
-      "file": "inventory/used-ford-f-150-part5.json",
-      "models": [
-        {
-          "model": "F-150",
-          "count": 32
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150",
-      "shard": "part6",
-      "count": 32,
-      "file": "inventory/used-ford-f-150-part6.json",
-      "models": [
-        {
-          "model": "F 150",
           "count": 7
-        },
-        {
-          "model": "F-150",
-          "count": 25
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150",
-      "shard": "part7",
-      "count": 32,
-      "file": "inventory/used-ford-f-150-part7.json",
-      "models": [
-        {
-          "model": "F 150",
-          "count": 25
-        },
-        {
-          "model": "F-150",
-          "count": 7
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150",
-      "shard": "part8",
-      "count": 25,
-      "file": "inventory/used-ford-f-150-part8.json",
-      "models": [
-        {
-          "model": "F 150",
-          "count": 15
-        },
-        {
-          "model": "F-150",
-          "count": 10
         }
       ]
     },
@@ -536,16 +538,12 @@
       "condition": "used",
       "make": "ford",
       "model": "Mustang",
-      "count": 17,
+      "count": 29,
       "file": "inventory/used-ford-mustang.json",
       "models": [
         {
-          "model": "MUSTANG",
-          "count": 2
-        },
-        {
           "model": "Mustang",
-          "count": 15
+          "count": 29
         }
       ]
     },
@@ -568,12 +566,12 @@
       "make": "ford",
       "model": "Edge",
       "shard": "Lower Mainland",
-      "count": 10,
+      "count": 11,
       "file": "inventory/used-ford-edge-lower-mainland.json",
       "models": [
         {
           "model": "Edge",
-          "count": 10
+          "count": 11
         }
       ]
     },
@@ -586,12 +584,8 @@
       "file": "inventory/used-ford-edge-norte-cariboo.json",
       "models": [
         {
-          "model": "EDGE",
-          "count": 1
-        },
-        {
           "model": "Edge",
-          "count": 10
+          "count": 11
         }
       ]
     },
@@ -614,12 +608,12 @@
       "make": "ford",
       "model": "Edge",
       "shard": "Thompson-Okanagan",
-      "count": 3,
+      "count": 4,
       "file": "inventory/used-ford-edge-thompson-okanagan.json",
       "models": [
         {
           "model": "Edge",
-          "count": 3
+          "count": 4
         }
       ]
     },
@@ -646,81 +640,8 @@
       "file": "inventory/used-ford-edge-sin-region.json",
       "models": [
         {
-          "model": "EDGE",
-          "count": 1
-        },
-        {
           "model": "Edge",
-          "count": 6
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Maverick",
-      "count": 20,
-      "file": "inventory/used-ford-maverick.json",
-      "models": [
-        {
-          "model": "MAVERICK",
-          "count": 1
-        },
-        {
-          "model": "Maverick",
-          "count": 19
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150 XLT Supercrew 4x4",
-      "count": 4,
-      "file": "inventory/used-ford-f-150-xlt-supercrew-4x4.json",
-      "models": [
-        {
-          "model": "F-150 XLT Supercrew 4x4",
-          "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Bronco 4 Door",
-      "count": 1,
-      "file": "inventory/used-ford-bronco-4-door.json",
-      "models": [
-        {
-          "model": "Bronco 4 Door",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Explorer Active AWD",
-      "count": 1,
-      "file": "inventory/used-ford-explorer-active-awd.json",
-      "models": [
-        {
-          "model": "Explorer Active AWD",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "otros",
-      "count": 1,
-      "file": "inventory/used-ford-otros.json",
-      "models": [
-        {
-          "model": "sin-modelo",
-          "count": 1
+          "count": 7
         }
       ]
     },
@@ -729,12 +650,12 @@
       "make": "ford",
       "model": "Bronco",
       "shard": "Kootenays",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-ford-bronco-kootenays.json",
       "models": [
         {
           "model": "Bronco",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -743,12 +664,12 @@
       "make": "ford",
       "model": "Bronco",
       "shard": "Lower Mainland",
-      "count": 24,
+      "count": 27,
       "file": "inventory/used-ford-bronco-lower-mainland.json",
       "models": [
         {
           "model": "Bronco",
-          "count": 24
+          "count": 27
         }
       ]
     },
@@ -757,12 +678,12 @@
       "make": "ford",
       "model": "Bronco",
       "shard": "Norte/Cariboo",
-      "count": 7,
+      "count": 8,
       "file": "inventory/used-ford-bronco-norte-cariboo.json",
       "models": [
         {
           "model": "Bronco",
-          "count": 7
+          "count": 8
         }
       ]
     },
@@ -785,12 +706,12 @@
       "make": "ford",
       "model": "Bronco",
       "shard": "Thompson-Okanagan",
-      "count": 2,
+      "count": 4,
       "file": "inventory/used-ford-bronco-thompson-okanagan.json",
       "models": [
         {
           "model": "Bronco",
-          "count": 2
+          "count": 4
         }
       ]
     },
@@ -803,12 +724,8 @@
       "file": "inventory/used-ford-bronco-vancouver-island.json",
       "models": [
         {
-          "model": "BRONCO",
-          "count": 1
-        },
-        {
           "model": "Bronco",
-          "count": 10
+          "count": 11
         }
       ]
     },
@@ -829,52 +746,26 @@
     {
       "condition": "used",
       "make": "ford",
+      "model": "otros",
+      "count": 1,
+      "file": "inventory/used-ford-otros.json",
+      "models": [
+        {
+          "model": "sin-modelo",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
       "model": "Expedition",
-      "count": 24,
+      "count": 27,
       "file": "inventory/used-ford-expedition.json",
       "models": [
         {
           "model": "Expedition",
-          "count": 24
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150 Tremor Supercrew 4x4",
-      "count": 1,
-      "file": "inventory/used-ford-f-150-tremor-supercrew-4x4.json",
-      "models": [
-        {
-          "model": "F-150 Tremor Supercrew 4x4",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150 Lariat Supercrew 4x4",
-      "count": 2,
-      "file": "inventory/used-ford-f-150-lariat-supercrew-4x4.json",
-      "models": [
-        {
-          "model": "F-150 Lariat Supercrew 4x4",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150 King Ranch Supercrew 4x4",
-      "count": 1,
-      "file": "inventory/used-ford-f-150-king-ranch-supercrew-4x4.json",
-      "models": [
-        {
-          "model": "F-150 King Ranch Supercrew 4x4",
-          "count": 1
+          "count": 27
         }
       ]
     },
@@ -959,45 +850,6 @@
     {
       "condition": "used",
       "make": "ford",
-      "model": "Escape Hybrid",
-      "count": 16,
-      "file": "inventory/used-ford-escape-hybrid.json",
-      "models": [
-        {
-          "model": "Escape Hybrid",
-          "count": 16
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Escape Plug-in Hybrid",
-      "count": 8,
-      "file": "inventory/used-ford-escape-plug-in-hybrid.json",
-      "models": [
-        {
-          "model": "Escape Plug-in Hybrid",
-          "count": 8
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150 SuperCab",
-      "count": 10,
-      "file": "inventory/used-ford-f-150-supercab.json",
-      "models": [
-        {
-          "model": "F-150 SuperCab",
-          "count": 10
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
       "model": "Transit Connect",
       "count": 6,
       "file": "inventory/used-ford-transit-connect.json",
@@ -1009,48 +861,6 @@
         {
           "model": "Transit Connect",
           "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150 SuperCrew",
-      "shard": "part1",
-      "count": 31,
-      "file": "inventory/used-ford-f-150-supercrew-part1.json",
-      "models": [
-        {
-          "model": "F-150 SuperCrew",
-          "count": 31
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150 SuperCrew",
-      "shard": "part2",
-      "count": 31,
-      "file": "inventory/used-ford-f-150-supercrew-part2.json",
-      "models": [
-        {
-          "model": "F-150 SuperCrew",
-          "count": 31
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150 SuperCrew",
-      "shard": "part3",
-      "count": 31,
-      "file": "inventory/used-ford-f-150-supercrew-part3.json",
-      "models": [
-        {
-          "model": "F-150 SuperCrew",
-          "count": 31
         }
       ]
     },
@@ -1184,32 +994,6 @@
     {
       "condition": "used",
       "make": "ford",
-      "model": "Mustang Fastback",
-      "count": 7,
-      "file": "inventory/used-ford-mustang-fastback.json",
-      "models": [
-        {
-          "model": "Mustang Fastback",
-          "count": 7
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150 Hybrid",
-      "count": 2,
-      "file": "inventory/used-ford-f-150-hybrid.json",
-      "models": [
-        {
-          "model": "F-150 Hybrid",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
       "model": "E-series",
       "count": 5,
       "file": "inventory/used-ford-e-series.json",
@@ -1217,23 +1001,6 @@
         {
           "model": "E-series",
           "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150 Lightning",
-      "count": 13,
-      "file": "inventory/used-ford-f-150-lightning.json",
-      "models": [
-        {
-          "model": "F 150 Lightning",
-          "count": 1
-        },
-        {
-          "model": "F-150 Lightning",
-          "count": 12
         }
       ]
     },
@@ -1267,19 +1034,6 @@
         },
         {
           "model": "Transit Passenger",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150 Raptor",
-      "count": 3,
-      "file": "inventory/used-ford-f-150-raptor.json",
-      "models": [
-        {
-          "model": "F-150 Raptor",
           "count": 3
         }
       ]
@@ -1378,175 +1132,6 @@
     {
       "condition": "used",
       "make": "ford",
-      "model": "F-1504x4Crew Cab",
-      "count": 1,
-      "file": "inventory/used-ford-f-1504x4crew-cab.json",
-      "models": [
-        {
-          "model": "F-1504x4Crew Cab",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Bronco SportBase 4x4100AEquipment Group",
-      "count": 1,
-      "file": "inventory/used-ford-bronco-sportbase-4x4100aequipment-group.json",
-      "models": [
-        {
-          "model": "Bronco SportBase 4x4100AEquipment Group",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "EscapeSE Hybrid AWD201AEquipment Group",
-      "count": 1,
-      "file": "inventory/used-ford-escapese-hybrid-awd201aequipment-group.json",
-      "models": [
-        {
-          "model": "EscapeSE Hybrid AWD201AEquipment Group",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Bronco4x4",
-      "count": 2,
-      "file": "inventory/used-ford-bronco4x4.json",
-      "models": [
-        {
-          "model": "Bronco4x4",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "BroncoOuter Banks4x4",
-      "count": 1,
-      "file": "inventory/used-ford-broncoouter-banks4x4.json",
-      "models": [
-        {
-          "model": "BroncoOuter Banks4x4",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "EscapeST-Line AWD",
-      "count": 1,
-      "file": "inventory/used-ford-escapest-line-awd.json",
-      "models": [
-        {
-          "model": "EscapeST-Line AWD",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150XLT 4WD Supercrew 5.5' Box4x4Crew Cab",
-      "count": 3,
-      "file": "inventory/used-ford-f-150xlt-4wd-supercrew-5-5-box4x4crew-cab.json",
-      "models": [
-        {
-          "model": "F-150XLT 4WD Supercrew 5.5' Box4x4Crew Cab",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Edge4dr Titanium AWD",
-      "count": 1,
-      "file": "inventory/used-ford-edge4dr-titanium-awd.json",
-      "models": [
-        {
-          "model": "Edge4dr Titanium AWD",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "ExplorerLimited",
-      "count": 1,
-      "file": "inventory/used-ford-explorerlimited.json",
-      "models": [
-        {
-          "model": "ExplorerLimited",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150Lariat 4x4 SuperCrew Cab Styleside 5.5 ft. box",
-      "count": 1,
-      "file": "inventory/used-ford-f-150lariat-4x4-supercrew-cab-styleside-5-5-ft-box.json",
-      "models": [
-        {
-          "model": "F-150Lariat 4x4 SuperCrew Cab Styleside 5.5 ft. box",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "EscapeSE 4dr All-Wheel Drive",
-      "count": 1,
-      "file": "inventory/used-ford-escapese-4dr-all-wheel-drive.json",
-      "models": [
-        {
-          "model": "EscapeSE 4dr All-Wheel Drive",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150XLT 4x4 SuperCrew Cab Styleside 5.5 ft. box",
-      "count": 5,
-      "file": "inventory/used-ford-f-150xlt-4x4-supercrew-cab-styleside-5-5-ft-box.json",
-      "models": [
-        {
-          "model": "F-150XLT 4x4 SuperCrew Cab Styleside 5.5 ft. box",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150Platinum 4x4 SuperCrew Cab 5.5 ft. box",
-      "count": 1,
-      "file": "inventory/used-ford-f-150platinum-4x4-supercrew-cab-5-5-ft-box.json",
-      "models": [
-        {
-          "model": "F-150Platinum 4x4 SuperCrew Cab 5.5 ft. box",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
       "model": "Transit-150 Cargo",
       "count": 1,
       "file": "inventory/used-ford-transit-150-cargo.json",
@@ -1554,32 +1139,6 @@
         {
           "model": "Transit-150 Cargo",
           "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150XL 4x4 SuperCrew Cab 5.5 ft. box",
-      "count": 1,
-      "file": "inventory/used-ford-f-150xl-4x4-supercrew-cab-5-5-ft-box.json",
-      "models": [
-        {
-          "model": "F-150XL 4x4 SuperCrew Cab 5.5 ft. box",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150XLT 4x4 SuperCrew Cab 5.5 ft. box",
-      "count": 7,
-      "file": "inventory/used-ford-f-150xlt-4x4-supercrew-cab-5-5-ft-box.json",
-      "models": [
-        {
-          "model": "F-150XLT 4x4 SuperCrew Cab 5.5 ft. box",
-          "count": 7
         }
       ]
     },
@@ -1599,19 +1158,6 @@
     {
       "condition": "used",
       "make": "ford",
-      "model": "F-150 LightningLariat All-Wheel Drive SuperCrew Cab 5.5 ft. box",
-      "count": 3,
-      "file": "inventory/used-ford-f-150-lightninglariat-all-wheel-drive-supercrew-cab-5-5-ft-box.json",
-      "models": [
-        {
-          "model": "F-150 LightningLariat All-Wheel Drive SuperCrew Cab 5.5 ft. box",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
       "model": "F-350Platinum 4x4 SD Crew Cab 6.75 ft. box SRW",
       "count": 2,
       "file": "inventory/used-ford-f-350platinum-4x4-sd-crew-cab-6-75-ft-box-srw.json",
@@ -1625,19 +1171,6 @@
     {
       "condition": "used",
       "make": "ford",
-      "model": "F-150 LightningXLT All-Wheel Drive SuperCrew Cab 5.5 ft. box",
-      "count": 1,
-      "file": "inventory/used-ford-f-150-lightningxlt-all-wheel-drive-supercrew-cab-5-5-ft-box.json",
-      "models": [
-        {
-          "model": "F-150 LightningXLT All-Wheel Drive SuperCrew Cab 5.5 ft. box",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
       "model": "RangerRaptor 4x4 SuperCrew 5 ft. box",
       "count": 1,
       "file": "inventory/used-ford-rangerraptor-4x4-supercrew-5-ft-box.json",
@@ -1645,45 +1178,6 @@
         {
           "model": "RangerRaptor 4x4 SuperCrew 5 ft. box",
           "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-1504WD Supercrew Styleside 5-1/2 Ft Box XLT",
-      "count": 1,
-      "file": "inventory/used-ford-f-1504wd-supercrew-styleside-5-1-2-ft-box-xlt.json",
-      "models": [
-        {
-          "model": "F-1504WD Supercrew Styleside 5-1/2 Ft Box XLT",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Explorer Sport Trac",
-      "count": 1,
-      "file": "inventory/used-ford-explorer-sport-trac.json",
-      "models": [
-        {
-          "model": "Explorer Sport Trac",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Escape PHEV",
-      "count": 2,
-      "file": "inventory/used-ford-escape-phev.json",
-      "models": [
-        {
-          "model": "Escape PHEV",
-          "count": 2
         }
       ]
     },
@@ -1763,103 +1257,12 @@
     {
       "condition": "used",
       "make": "ford",
-      "model": "ExpeditionXLT",
-      "count": 2,
-      "file": "inventory/used-ford-expeditionxlt.json",
-      "models": [
-        {
-          "model": "ExpeditionXLT",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
       "model": "Transit Passenger WagonXL",
       "count": 1,
       "file": "inventory/used-ford-transit-passenger-wagonxl.json",
       "models": [
         {
           "model": "Transit Passenger WagonXL",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150Limited",
-      "count": 1,
-      "file": "inventory/used-ford-f-150limited.json",
-      "models": [
-        {
-          "model": "F-150Limited",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Bronco SportOuter Banks",
-      "count": 2,
-      "file": "inventory/used-ford-bronco-sportouter-banks.json",
-      "models": [
-        {
-          "model": "Bronco SportOuter Banks",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "EscapePlatinum",
-      "count": 1,
-      "file": "inventory/used-ford-escapeplatinum.json",
-      "models": [
-        {
-          "model": "EscapePlatinum",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150Tremor",
-      "count": 1,
-      "file": "inventory/used-ford-f-150tremor.json",
-      "models": [
-        {
-          "model": "F-150Tremor",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150 SuperCrew Lariat",
-      "count": 1,
-      "file": "inventory/used-ford-f-150-supercrew-lariat.json",
-      "models": [
-        {
-          "model": "F-150 SuperCrew Lariat",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150 Tremor 4WD SuperCrew 5.5' Box",
-      "count": 1,
-      "file": "inventory/used-ford-f-150-tremor-4wd-supercrew-5-5-box.json",
-      "models": [
-        {
-          "model": "F-150 Tremor 4WD SuperCrew 5.5' Box",
           "count": 1
         }
       ]
@@ -1919,32 +1322,6 @@
     {
       "condition": "used",
       "make": "ford",
-      "model": "Mustang Convertible",
-      "count": 3,
-      "file": "inventory/used-ford-mustang-convertible.json",
-      "models": [
-        {
-          "model": "Mustang Convertible",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Mustang Shelby",
-      "count": 1,
-      "file": "inventory/used-ford-mustang-shelby.json",
-      "models": [
-        {
-          "model": "Mustang Shelby",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
       "model": "Transit Chassis Cab",
       "count": 1,
       "file": "inventory/used-ford-transit-chassis-cab.json",
@@ -1958,32 +1335,6 @@
     {
       "condition": "used",
       "make": "ford",
-      "model": "F-150Lariat 4x4 SuperCrew Cab 5.5 ft. box",
-      "count": 3,
-      "file": "inventory/used-ford-f-150lariat-4x4-supercrew-cab-5-5-ft-box.json",
-      "models": [
-        {
-          "model": "F-150Lariat 4x4 SuperCrew Cab 5.5 ft. box",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "EscapeSEL Hybrid 4dr All-Wheel Drive",
-      "count": 2,
-      "file": "inventory/used-ford-escapesel-hybrid-4dr-all-wheel-drive.json",
-      "models": [
-        {
-          "model": "EscapeSEL Hybrid 4dr All-Wheel Drive",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
       "model": "F-350Lariat 4x4 SD Crew Cab 8 ft. box DRW",
       "count": 1,
       "file": "inventory/used-ford-f-350lariat-4x4-sd-crew-cab-8-ft-box-drw.json",
@@ -1991,110 +1342,6 @@
         {
           "model": "F-350Lariat 4x4 SD Crew Cab 8 ft. box DRW",
           "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "MaverickXLT All-Wheel Drive SuperCrew 4.5 ft. box",
-      "count": 4,
-      "file": "inventory/used-ford-maverickxlt-all-wheel-drive-supercrew-4-5-ft-box.json",
-      "models": [
-        {
-          "model": "MaverickXLT All-Wheel Drive SuperCrew 4.5 ft. box",
-          "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Bronco SportBadlands 4dr 4x4",
-      "count": 3,
-      "file": "inventory/used-ford-bronco-sportbadlands-4dr-4x4.json",
-      "models": [
-        {
-          "model": "Bronco SportBadlands 4dr 4x4",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Bronco SportBig Bend 4dr 4x4",
-      "count": 3,
-      "file": "inventory/used-ford-bronco-sportbig-bend-4dr-4x4.json",
-      "models": [
-        {
-          "model": "Bronco SportBig Bend 4dr 4x4",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Bronco SportOuter Banks 4dr 4x4",
-      "count": 3,
-      "file": "inventory/used-ford-bronco-sportouter-banks-4dr-4x4.json",
-      "models": [
-        {
-          "model": "Bronco SportOuter Banks 4dr 4x4",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "EscapePHEV 4dr Front-Wheel Drive",
-      "count": 2,
-      "file": "inventory/used-ford-escapephev-4dr-front-wheel-drive.json",
-      "models": [
-        {
-          "model": "EscapePHEV 4dr Front-Wheel Drive",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150Tremor 4x4 SuperCrew Cab 5.5 ft. box",
-      "count": 1,
-      "file": "inventory/used-ford-f-150tremor-4x4-supercrew-cab-5-5-ft-box.json",
-      "models": [
-        {
-          "model": "F-150Tremor 4x4 SuperCrew Cab 5.5 ft. box",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150XL 4x4 SuperCrew Cab 6.5 ft. box",
-      "count": 2,
-      "file": "inventory/used-ford-f-150xl-4x4-supercrew-cab-6-5-ft-box.json",
-      "models": [
-        {
-          "model": "F-150XL 4x4 SuperCrew Cab 6.5 ft. box",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150XLT 4x4 SuperCab 6.5 ft. box",
-      "count": 2,
-      "file": "inventory/used-ford-f-150xlt-4x4-supercab-6-5-ft-box.json",
-      "models": [
-        {
-          "model": "F-150XLT 4x4 SuperCab 6.5 ft. box",
-          "count": 2
         }
       ]
     },
@@ -2127,77 +1374,12 @@
     {
       "condition": "used",
       "make": "ford",
-      "model": "EscapePlatinum 4dr All-Wheel Drive",
-      "count": 2,
-      "file": "inventory/used-ford-escapeplatinum-4dr-all-wheel-drive.json",
-      "models": [
-        {
-          "model": "EscapePlatinum 4dr All-Wheel Drive",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "EscapeST-Line Elite 4dr All-Wheel Drive",
-      "count": 1,
-      "file": "inventory/used-ford-escapest-line-elite-4dr-all-wheel-drive.json",
-      "models": [
-        {
-          "model": "EscapeST-Line Elite 4dr All-Wheel Drive",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
       "model": "F-350XLT 4x4 SD Crew Cab 8 ft. box DRW",
       "count": 1,
       "file": "inventory/used-ford-f-350xlt-4x4-sd-crew-cab-8-ft-box-drw.json",
       "models": [
         {
           "model": "F-350XLT 4x4 SD Crew Cab 8 ft. box DRW",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "BroncoRaptor 4dr 4x4",
-      "count": 2,
-      "file": "inventory/used-ford-broncoraptor-4dr-4x4.json",
-      "models": [
-        {
-          "model": "BroncoRaptor 4dr 4x4",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "EdgeTitanium 4dr All-Wheel Drive",
-      "count": 1,
-      "file": "inventory/used-ford-edgetitanium-4dr-all-wheel-drive.json",
-      "models": [
-        {
-          "model": "EdgeTitanium 4dr All-Wheel Drive",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "EscapeActive 4dr Front-Wheel Drive",
-      "count": 1,
-      "file": "inventory/used-ford-escapeactive-4dr-front-wheel-drive.json",
-      "models": [
-        {
-          "model": "EscapeActive 4dr Front-Wheel Drive",
           "count": 1
         }
       ]
@@ -2270,64 +1452,12 @@
     {
       "condition": "used",
       "make": "ford",
-      "model": "Bronco SportBig Bend",
+      "model": "F 150 Lightning",
       "count": 1,
-      "file": "inventory/used-ford-bronco-sportbig-bend.json",
+      "file": "inventory/used-ford-f-150-lightning.json",
       "models": [
         {
-          "model": "Bronco SportBig Bend",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150UNKNOWN",
-      "count": 1,
-      "file": "inventory/used-ford-f-150unknown.json",
-      "models": [
-        {
-          "model": "F-150UNKNOWN",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150Raptor",
-      "count": 1,
-      "file": "inventory/used-ford-f-150raptor.json",
-      "models": [
-        {
-          "model": "F-150Raptor",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "MaverickXLT",
-      "count": 1,
-      "file": "inventory/used-ford-maverickxlt.json",
-      "models": [
-        {
-          "model": "MaverickXLT",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "ExplorerPlatinum",
-      "count": 1,
-      "file": "inventory/used-ford-explorerplatinum.json",
-      "models": [
-        {
-          "model": "ExplorerPlatinum",
+          "model": "F 150 Lightning",
           "count": 1
         }
       ]
@@ -2354,71 +1484,6 @@
       "models": [
         {
           "model": "F-550 ChassisXL 4x4 SD Super Cab DRW",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "EscapeTitanium 4dr All-Wheel Drive",
-      "count": 1,
-      "file": "inventory/used-ford-escapetitanium-4dr-all-wheel-drive.json",
-      "models": [
-        {
-          "model": "EscapeTitanium 4dr All-Wheel Drive",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "EscapeActive 4dr All-Wheel Drive",
-      "count": 3,
-      "file": "inventory/used-ford-escapeactive-4dr-all-wheel-drive.json",
-      "models": [
-        {
-          "model": "EscapeActive 4dr All-Wheel Drive",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150Raptor 4x4 SuperCrew Cab 5.5 ft. box",
-      "count": 1,
-      "file": "inventory/used-ford-f-150raptor-4x4-supercrew-cab-5-5-ft-box.json",
-      "models": [
-        {
-          "model": "F-150Raptor 4x4 SuperCrew Cab 5.5 ft. box",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-150STX 4x4 SuperCrew Cab 5.5 ft. box",
-      "count": 1,
-      "file": "inventory/used-ford-f-150stx-4x4-supercrew-cab-5-5-ft-box.json",
-      "models": [
-        {
-          "model": "F-150STX 4x4 SuperCrew Cab 5.5 ft. box",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "ExplorerTremor 4dr 4x4",
-      "count": 1,
-      "file": "inventory/used-ford-explorertremor-4dr-4x4.json",
-      "models": [
-        {
-          "model": "ExplorerTremor 4dr 4x4",
           "count": 1
         }
       ]

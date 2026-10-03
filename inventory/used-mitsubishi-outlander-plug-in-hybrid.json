@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T17:03:52+00:00",
-  "snapshot": "2026-10-03T17:03:52+00:00",
+  "generated_at": "2026-10-03T23:03:57+00:00",
+  "snapshot": "2026-10-03T23:03:57+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 1,
   "vehicles": [
@@ -10,7 +10,8 @@
       "make": "Mitsubishi",
       "model": "Outlander Plug-In Hybrid",
       "propulsion": "plug-in hybrid",
-      "propulsion_source": "stated",
+      "propulsion_source": "model_trim_name",
+      "propulsion_confidence": "high",
       "condition": "used",
       "price_cad": null,
       "price_note": "precio no publicado en la fuente",
