@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T05:04:43+00:00",
+  "generated_at": "2026-10-04T18:00:11+00:00",
   "condition": "used",
   "make": "jeep",
   "files": [
@@ -104,7 +104,7 @@
       "make": "jeep",
       "model": "GRAND CHEROKEE",
       "shard": "sin-region",
-      "count": 16,
+      "count": 17,
       "file": "inventory/used-jeep-grand-cherokee-sin-region.json",
       "models": [
         {
@@ -113,7 +113,7 @@
         },
         {
           "model": "Grand Cherokee",
-          "count": 15
+          "count": 16
         }
       ]
     },
@@ -591,7 +591,7 @@
       "condition": "used",
       "make": "jeep",
       "model": "GLADIATOR",
-      "count": 32,
+      "count": 33,
       "file": "inventory/used-jeep-gladiator.json",
       "models": [
         {
@@ -600,7 +600,7 @@
         },
         {
           "model": "Gladiator",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -1063,6 +1063,19 @@
       "models": [
         {
           "model": "Cherokee Limited",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Compass Upland Edition",
+      "count": 1,
+      "file": "inventory/used-jeep-compass-upland-edition.json",
+      "models": [
+        {
+          "model": "Compass Upland Edition",
           "count": 1
         }
       ]

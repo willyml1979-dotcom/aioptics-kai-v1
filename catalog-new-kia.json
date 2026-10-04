@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T05:04:43+00:00",
+  "generated_at": "2026-10-04T18:00:11+00:00",
   "condition": "new",
   "make": "kia",
   "files": [
@@ -8,12 +8,12 @@
       "make": "kia",
       "model": "K4",
       "shard": "part1",
-      "count": 27,
+      "count": 29,
       "file": "inventory/new-kia-k4-part1.json",
       "models": [
         {
           "model": "K4",
-          "count": 27
+          "count": 29
         }
       ]
     },
@@ -22,12 +22,12 @@
       "make": "kia",
       "model": "K4",
       "shard": "part2",
-      "count": 27,
+      "count": 29,
       "file": "inventory/new-kia-k4-part2.json",
       "models": [
         {
           "model": "K4",
-          "count": 27
+          "count": 29
         }
       ]
     },
@@ -36,12 +36,12 @@
       "make": "kia",
       "model": "K4",
       "shard": "part3",
-      "count": 27,
+      "count": 29,
       "file": "inventory/new-kia-k4-part3.json",
       "models": [
         {
           "model": "K4",
-          "count": 27
+          "count": 29
         }
       ]
     },
@@ -50,12 +50,12 @@
       "make": "kia",
       "model": "K4",
       "shard": "part4",
-      "count": 27,
+      "count": 29,
       "file": "inventory/new-kia-k4-part4.json",
       "models": [
         {
           "model": "K4",
-          "count": 27
+          "count": 29
         }
       ]
     },
@@ -64,12 +64,12 @@
       "make": "kia",
       "model": "K4",
       "shard": "part5",
-      "count": 27,
+      "count": 25,
       "file": "inventory/new-kia-k4-part5.json",
       "models": [
         {
           "model": "K4",
-          "count": 27
+          "count": 25
         }
       ]
     },
@@ -176,12 +176,26 @@
       "make": "kia",
       "model": "Seltos",
       "shard": "part8",
-      "count": 27,
+      "count": 30,
       "file": "inventory/new-kia-seltos-part8.json",
       "models": [
         {
           "model": "Seltos",
-          "count": 27
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "kia",
+      "model": "Seltos",
+      "shard": "part9",
+      "count": 26,
+      "file": "inventory/new-kia-seltos-part9.json",
+      "models": [
+        {
+          "model": "Seltos",
+          "count": 26
         }
       ]
     },
@@ -413,8 +427,36 @@
       "make": "kia",
       "model": "Sportage",
       "shard": "part16",
-      "count": 27,
+      "count": 31,
       "file": "inventory/new-kia-sportage-part16.json",
+      "models": [
+        {
+          "model": "Sportage",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "kia",
+      "model": "Sportage",
+      "shard": "part17",
+      "count": 31,
+      "file": "inventory/new-kia-sportage-part17.json",
+      "models": [
+        {
+          "model": "Sportage",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "kia",
+      "model": "Sportage",
+      "shard": "part18",
+      "count": 27,
+      "file": "inventory/new-kia-sportage-part18.json",
       "models": [
         {
           "model": "Sportage",
@@ -426,12 +468,12 @@
       "condition": "new",
       "make": "kia",
       "model": "EV4",
-      "count": 21,
+      "count": 24,
       "file": "inventory/new-kia-ev4.json",
       "models": [
         {
           "model": "EV4",
-          "count": 21
+          "count": 24
         }
       ]
     },
@@ -439,12 +481,12 @@
       "condition": "new",
       "make": "kia",
       "model": "EV3",
-      "count": 18,
+      "count": 22,
       "file": "inventory/new-kia-ev3.json",
       "models": [
         {
           "model": "EV3",
-          "count": 18
+          "count": 22
         }
       ]
     },
@@ -662,12 +704,12 @@
       "make": "kia",
       "model": "Carnival",
       "shard": "part1",
-      "count": 29,
+      "count": 31,
       "file": "inventory/new-kia-carnival-part1.json",
       "models": [
         {
           "model": "Carnival",
-          "count": 29
+          "count": 31
         }
       ]
     },
@@ -676,12 +718,12 @@
       "make": "kia",
       "model": "Carnival",
       "shard": "part2",
-      "count": 29,
+      "count": 31,
       "file": "inventory/new-kia-carnival-part2.json",
       "models": [
         {
           "model": "Carnival",
-          "count": 29
+          "count": 31
         }
       ]
     },
@@ -690,12 +732,12 @@
       "make": "kia",
       "model": "Carnival",
       "shard": "part3",
-      "count": 29,
+      "count": 31,
       "file": "inventory/new-kia-carnival-part3.json",
       "models": [
         {
           "model": "Carnival",
-          "count": 29
+          "count": 31
         }
       ]
     },
@@ -704,12 +746,12 @@
       "make": "kia",
       "model": "Carnival",
       "shard": "part4",
-      "count": 27,
+      "count": 28,
       "file": "inventory/new-kia-carnival-part4.json",
       "models": [
         {
           "model": "Carnival",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -717,12 +759,12 @@
       "condition": "new",
       "make": "kia",
       "model": "EV9",
-      "count": 27,
+      "count": 31,
       "file": "inventory/new-kia-ev9.json",
       "models": [
         {
           "model": "EV9",
-          "count": 27
+          "count": 31
         }
       ]
     },
@@ -730,12 +772,12 @@
       "condition": "new",
       "make": "kia",
       "model": "EV5",
-      "count": 19,
+      "count": 28,
       "file": "inventory/new-kia-ev5.json",
       "models": [
         {
           "model": "EV5",
-          "count": 19
+          "count": 28
         }
       ]
     },

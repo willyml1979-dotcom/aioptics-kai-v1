@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T05:04:43+00:00",
+  "generated_at": "2026-10-04T18:00:11+00:00",
   "condition": "used",
   "make": "chevrolet",
   "files": [
@@ -227,11 +227,15 @@
       "make": "chevrolet",
       "model": "Trailblazer",
       "shard": "sin-region",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-chevrolet-trailblazer-sin-region.json",
       "models": [
         {
           "model": "TrailBlazer",
+          "count": 1
+        },
+        {
+          "model": "Trailblazer",
           "count": 1
         }
       ]
@@ -474,12 +478,12 @@
       "make": "chevrolet",
       "model": "Malibu",
       "shard": "sin-region",
-      "count": 4,
+      "count": 5,
       "file": "inventory/used-chevrolet-malibu-sin-region.json",
       "models": [
         {
           "model": "Malibu",
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -533,12 +537,12 @@
       "make": "chevrolet",
       "model": "Silverado 1500",
       "shard": "part3",
-      "count": 30,
+      "count": 31,
       "file": "inventory/used-chevrolet-silverado-1500-part3.json",
       "models": [
         {
           "model": "Silverado 1500",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -746,12 +750,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Tahoe",
-      "count": 12,
+      "count": 13,
       "file": "inventory/used-chevrolet-tahoe.json",
       "models": [
         {
           "model": "Tahoe",
-          "count": 12
+          "count": 13
         }
       ]
     },
@@ -1049,12 +1053,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Silverado 2500",
-      "count": 11,
+      "count": 12,
       "file": "inventory/used-chevrolet-silverado-2500.json",
       "models": [
         {
           "model": "Silverado 2500",
-          "count": 11
+          "count": 12
         }
       ]
     },

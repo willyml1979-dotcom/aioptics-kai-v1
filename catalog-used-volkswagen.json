@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T05:04:43+00:00",
+  "generated_at": "2026-10-04T18:00:11+00:00",
   "condition": "used",
   "make": "volkswagen",
   "files": [
@@ -148,12 +148,12 @@
       "make": "volkswagen",
       "model": "Taos",
       "shard": "sin-region",
-      "count": 15,
+      "count": 16,
       "file": "inventory/used-volkswagen-taos-sin-region.json",
       "models": [
         {
           "model": "Taos",
-          "count": 15
+          "count": 16
         }
       ]
     },
@@ -381,6 +381,19 @@
     {
       "condition": "used",
       "make": "volkswagen",
+      "model": "Touareg",
+      "count": 2,
+      "file": "inventory/used-volkswagen-touareg.json",
+      "models": [
+        {
+          "model": "Touareg",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volkswagen",
       "model": "Golf GTI",
       "count": 6,
       "file": "inventory/used-volkswagen-golf-gti.json",
@@ -482,19 +495,6 @@
       "models": [
         {
           "model": "T1",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Touareg",
-      "count": 1,
-      "file": "inventory/used-volkswagen-touareg.json",
-      "models": [
-        {
-          "model": "Touareg",
           "count": 1
         }
       ]

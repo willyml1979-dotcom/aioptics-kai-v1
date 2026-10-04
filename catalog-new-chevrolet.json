@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T05:04:43+00:00",
+  "generated_at": "2026-10-04T18:00:11+00:00",
   "condition": "new",
   "make": "chevrolet",
   "files": [
@@ -412,12 +412,12 @@
       "make": "chevrolet",
       "model": "Equinox EV",
       "shard": "part5",
-      "count": 27,
+      "count": 26,
       "file": "inventory/new-chevrolet-equinox-ev-part5.json",
       "models": [
         {
           "model": "Equinox EV",
-          "count": 27
+          "count": 26
         }
       ]
     },
@@ -521,12 +521,12 @@
       "make": "chevrolet",
       "model": "Traverse",
       "shard": "sin-region",
-      "count": 32,
+      "count": 28,
       "file": "inventory/new-chevrolet-traverse-sin-region.json",
       "models": [
         {
           "model": "Traverse",
-          "count": 32
+          "count": 28
         }
       ]
     },
@@ -1058,26 +1058,12 @@
       "make": "chevrolet",
       "model": "Silverado 1500",
       "shard": "part12",
-      "count": 31,
+      "count": 22,
       "file": "inventory/new-chevrolet-silverado-1500-part12.json",
       "models": [
         {
           "model": "Silverado 1500",
-          "count": 31
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "chevrolet",
-      "model": "Silverado 1500",
-      "shard": "part13",
-      "count": 23,
-      "file": "inventory/new-chevrolet-silverado-1500-part13.json",
-      "models": [
-        {
-          "model": "Silverado 1500",
-          "count": 23
+          "count": 22
         }
       ]
     },
@@ -1275,12 +1261,12 @@
       "make": "chevrolet",
       "model": "Corvette",
       "shard": "sin-region",
-      "count": 2,
+      "count": 19,
       "file": "inventory/new-chevrolet-corvette-sin-region.json",
       "models": [
         {
           "model": "Corvette",
-          "count": 2
+          "count": 19
         }
       ]
     },
@@ -1345,12 +1331,12 @@
       "make": "chevrolet",
       "model": "Tahoe",
       "shard": "sin-region",
-      "count": 21,
+      "count": 28,
       "file": "inventory/new-chevrolet-tahoe-sin-region.json",
       "models": [
         {
           "model": "Tahoe",
-          "count": 21
+          "count": 28
         }
       ]
     },
@@ -1358,12 +1344,55 @@
       "condition": "new",
       "make": "chevrolet",
       "model": "Suburban",
-      "count": 30,
-      "file": "inventory/new-chevrolet-suburban.json",
+      "shard": "Lower Mainland",
+      "count": 14,
+      "file": "inventory/new-chevrolet-suburban-lower-mainland.json",
       "models": [
         {
           "model": "Suburban",
-          "count": 30
+          "count": 14
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Suburban",
+      "shard": "Norte/Cariboo",
+      "count": 2,
+      "file": "inventory/new-chevrolet-suburban-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Suburban",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Suburban",
+      "shard": "Vancouver Island",
+      "count": 2,
+      "file": "inventory/new-chevrolet-suburban-vancouver-island.json",
+      "models": [
+        {
+          "model": "Suburban",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Suburban",
+      "shard": "sin-region",
+      "count": 15,
+      "file": "inventory/new-chevrolet-suburban-sin-region.json",
+      "models": [
+        {
+          "model": "Suburban",
+          "count": 15
         }
       ]
     },
@@ -1725,12 +1754,12 @@
       "make": "chevrolet",
       "model": "Silverado 3500",
       "shard": "part1",
-      "count": 24,
+      "count": 27,
       "file": "inventory/new-chevrolet-silverado-3500-part1.json",
       "models": [
         {
           "model": "Silverado 3500",
-          "count": 24
+          "count": 27
         }
       ]
     },
@@ -1739,12 +1768,12 @@
       "make": "chevrolet",
       "model": "Silverado 3500",
       "shard": "part2",
-      "count": 24,
+      "count": 27,
       "file": "inventory/new-chevrolet-silverado-3500-part2.json",
       "models": [
         {
           "model": "Silverado 3500",
-          "count": 24
+          "count": 27
         }
       ]
     },
@@ -1753,12 +1782,12 @@
       "make": "chevrolet",
       "model": "Silverado 3500",
       "shard": "part3",
-      "count": 22,
+      "count": 25,
       "file": "inventory/new-chevrolet-silverado-3500-part3.json",
       "models": [
         {
           "model": "Silverado 3500",
-          "count": 22
+          "count": 25
         }
       ]
     },
@@ -1914,6 +1943,19 @@
       "models": [
         {
           "model": "CORVETTEZ06 W/3LZ 2DR CONVERTIBLE (3LZ)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Corvette 3LT",
+      "count": 1,
+      "file": "inventory/new-chevrolet-corvette-3lt.json",
+      "models": [
+        {
+          "model": "Corvette 3LT",
           "count": 1
         }
       ]
