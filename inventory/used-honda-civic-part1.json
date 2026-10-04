@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T23:03:57+00:00",
-  "snapshot": "2026-10-03T23:03:57+00:00",
+  "generated_at": "2026-10-04T05:04:43+00:00",
+  "snapshot": "2026-10-04T05:04:43+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 29,
+  "count": 30,
   "vehicles": [
     {
       "pub_id": "champion-chevrolet-2hgfc2f57lh025172",
@@ -113,7 +113,7 @@
       "listing_url": "https://www.kiawest.com/vehicles/2014/honda/civic-sedan/coquitlam/bc/71207245/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2014/honda/civic-sedan/coquitlam/bc/71207245/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T16:31:15",
-      "snapshot": "2026-10-03T10:49:54",
+      "snapshot": "2026-10-03T16:54:03",
       "go_url": "https://carwhisper.ca/go/go-kia-west-2hgfb2f50eh021454",
       "region": "Lower Mainland",
       "city": "Coquitlam",
@@ -141,7 +141,7 @@
       "listing_url": "https://www.kiawest.com/vehicles/2012/honda/civic-sedan/coquitlam/bc/71282336/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2012/honda/civic-sedan/coquitlam/bc/71282336/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T22:08:15",
-      "snapshot": "2026-10-03T10:49:54",
+      "snapshot": "2026-10-03T16:54:03",
       "go_url": "https://carwhisper.ca/go/go-kia-west-2hgfb2f55ch115892",
       "region": "Lower Mainland",
       "city": "Coquitlam",
@@ -788,6 +788,36 @@
       "city": "Port Coquitlam",
       "province": "BC",
       "dealer_name": "Tricity Mitsubishi"
+    },
+    {
+      "pub_id": "applewood-kia-langley-2hgfc2f84jh028828",
+      "year": 2018,
+      "make": "Honda",
+      "model": "Civic",
+      "trim": "EX CVT Sedan Sedan",
+      "body_type": "sedan",
+      "drivetrain": "FWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 74278,
+      "price_cad": 22400.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,op_bl,ow_100,v1/adjustment/3OCOZ3MGPBCRVGQXDTFNDEL3SI%3Binventory/OM5ZZHJ3WBEGXCJUXYDIYXQWSA-15476.webp",
+      "dealer_id": "applewood-kia-langley",
+      "vin": "2HGFC2F84JH028828",
+      "stock": "KS7E3979A",
+      "listing_url": "https://www.applewoodkialangley.ca/inventory/2018-honda-civic-sedan-ex-LmDpqbnjScqQRRi7KHoDxwvdp",
+      "dealer_url": "https://www.applewoodkialangley.ca/inventory/2018-honda-civic-sedan-ex-LmDpqbnjScqQRRi7KHoDxwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T19:09:27",
+      "snapshot": "2026-09-26T19:19:49",
+      "go_url": "https://carwhisper.ca/go/applewood-kia-langley-2hgfc2f84jh028828",
+      "region": "Lower Mainland",
+      "city": "Langley",
+      "province": "BC",
+      "dealer_name": "Applewood Kia - Langley"
     }
   ]
 }

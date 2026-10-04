@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T23:03:57+00:00",
-  "snapshot": "2026-10-03T23:03:57+00:00",
+  "generated_at": "2026-10-04T05:04:43+00:00",
+  "snapshot": "2026-10-04T05:04:43+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 10,
+  "count": 11,
   "vehicles": [
     {
       "pub_id": "duncan-hyundai-3gncjrsb5fl184108",
@@ -109,6 +109,35 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Victoria Hyundai"
+    },
+    {
+      "pub_id": "duncan-chrysler-dodge-jeep-ram-ltd-kl7cjrsb7lb325991",
+      "year": 2020,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 83728,
+      "price_cad": 19728.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/adb60aec-e426-4294-a7db-b60856126acd_2cb674b2-8dad-4930-9a79-7e64a89465bf.jpg",
+      "dealer_id": "duncan-chrysler-dodge-jeep-ram-ltd",
+      "vin": "KL7CJRSB7LB325991",
+      "stock": "FP89150",
+      "listing_url": "https://www.duncandodge.ca/vehicles/2020/chevrolet/trax/duncan/bc/71250534/?sale_class=used",
+      "dealer_url": "https://www.duncandodge.ca/vehicles/2020/chevrolet/trax/duncan/bc/71250534/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T18:41:09",
+      "snapshot": "2026-10-03T18:54:06",
+      "go_url": "https://carwhisper.ca/go/duncan-chrysler-dodge-jeep-ram-ltd-kl7cjrsb7lb325991",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Chrysler Dodge Jeep Ram Ltd."
     },
     {
       "pub_id": "duncan-hyundai-kl7cjksm1nb544781",

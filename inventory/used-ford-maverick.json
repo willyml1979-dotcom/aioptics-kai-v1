@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T23:03:57+00:00",
-  "snapshot": "2026-10-03T23:03:57+00:00",
+  "generated_at": "2026-10-04T05:04:43+00:00",
+  "snapshot": "2026-10-04T05:04:43+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 28,
+  "count": 29,
   "vehicles": [
     {
       "pub_id": "sullivan-motor-products-nelson-ltd-3fttw8f96pra88563",
@@ -709,6 +709,33 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Jim Pattison Subaru Victoria"
+    },
+    {
+      "pub_id": "go-downtown-kia-3fttw8e3xpra71293",
+      "year": 2023,
+      "make": "Ford",
+      "model": "Maverick",
+      "drivetrain": "FWD",
+      "propulsion": "hybrid",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 38077,
+      "price_cad": 33995.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://www.godowntownkia.ca/wp-content/themes/convertus-achilles/achilles/assets/images/srp-placeholder/PV.jpg",
+      "dealer_id": "go-downtown-kia",
+      "vin": "3FTTW8E3XPRA71293",
+      "stock": "WP0095A",
+      "listing_url": "https://www.godowntownkia.ca/vehicles/2023/ford/maverick/vancouver/bc/71474579/?sale_class=used",
+      "dealer_url": "https://www.godowntownkia.ca/vehicles/2023/ford/maverick/vancouver/bc/71474579/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T18:42:55",
+      "snapshot": "2026-10-03T18:46:10",
+      "go_url": "https://carwhisper.ca/go/go-downtown-kia-3fttw8e3xpra71293",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Downtown Kia"
     },
     {
       "pub_id": "south-coast-ford-sales-ltd-3ftcw8ta0sra90834",

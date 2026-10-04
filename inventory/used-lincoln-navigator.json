@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T23:03:57+00:00",
-  "snapshot": "2026-10-03T23:03:57+00:00",
+  "generated_at": "2026-10-04T05:04:43+00:00",
+  "snapshot": "2026-10-04T05:04:43+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 8,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "pioneer-chrysler-jeep-5lmjj2lt1lel20978",
@@ -187,32 +187,6 @@
       "city": "Nanaimo",
       "province": "BC",
       "dealer_name": "Sunshine Mountain Ford Lincoln Ltd."
-    },
-    {
-      "pub_id": "sherwood-park-hyundai-5lmjj2lt1nel07750",
-      "year": 2022,
-      "make": "Lincoln",
-      "model": "Navigator",
-      "propulsion": "gas",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
-      "condition": "used",
-      "odometer_km": 124587,
-      "price_cad": 57907.0,
-      "price_note": null,
-      "color": "White",
-      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/c60d7cc4-d0bf-45d1-9ce3-8d87a54d66d1_89602ce4-3ba5-48c5-bffc-9395fb5938b6.jpg",
-      "dealer_id": "sherwood-park-hyundai",
-      "vin": "5LMJJ2LT1NEL07750",
-      "stock": "26SF141",
-      "listing_url": "https://www.sphyundai.com/vehicles/2022/lincoln/navigator/sherwood-park/ab/70065024/?sale_class=used",
-      "dealer_url": "https://www.sphyundai.com/vehicles/2022/lincoln/navigator/sherwood-park/ab/70065024/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T18:29:06",
-      "snapshot": "2026-10-02T18:32:10",
-      "go_url": "https://carwhisper.ca/go/sherwood-park-hyundai-5lmjj2lt1nel07750",
-      "city": null,
-      "province": "AB",
-      "dealer_name": "Sherwood Park Hyundai"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T23:03:57+00:00",
+  "generated_at": "2026-10-04T05:04:43+00:00",
   "condition": "used",
   "make": "gmc",
   "files": [
@@ -82,7 +82,7 @@
       "make": "gmc",
       "model": "TERRAIN",
       "shard": "Vancouver Island",
-      "count": 16,
+      "count": 17,
       "file": "inventory/used-gmc-terrain-vancouver-island.json",
       "models": [
         {
@@ -91,7 +91,7 @@
         },
         {
           "model": "Terrain",
-          "count": 15
+          "count": 16
         }
       ]
     },
@@ -173,12 +173,12 @@
       "make": "gmc",
       "model": "Sierra 1500",
       "shard": "part4",
-      "count": 29,
+      "count": 30,
       "file": "inventory/used-gmc-sierra-1500-part4.json",
       "models": [
         {
           "model": "Sierra 1500",
-          "count": 29
+          "count": 30
         }
       ]
     },
@@ -212,12 +212,12 @@
       "condition": "used",
       "make": "gmc",
       "model": "Acadia",
-      "count": 32,
+      "count": 33,
       "file": "inventory/used-gmc-acadia.json",
       "models": [
         {
           "model": "Acadia",
-          "count": 32
+          "count": 33
         }
       ]
     },
@@ -225,12 +225,12 @@
       "condition": "used",
       "make": "gmc",
       "model": "Sierra 1500 Crew Cab",
-      "count": 14,
+      "count": 13,
       "file": "inventory/used-gmc-sierra-1500-crew-cab.json",
       "models": [
         {
           "model": "Sierra 1500 Crew Cab",
-          "count": 14
+          "count": 13
         }
       ]
     },
@@ -238,7 +238,7 @@
       "condition": "used",
       "make": "gmc",
       "model": "Yukon",
-      "count": 32,
+      "count": 31,
       "file": "inventory/used-gmc-yukon.json",
       "models": [
         {
@@ -247,7 +247,7 @@
         },
         {
           "model": "Yukon",
-          "count": 31
+          "count": 30
         }
       ]
     },
@@ -486,12 +486,12 @@
       "condition": "used",
       "make": "gmc",
       "model": "Sierra 3500",
-      "count": 5,
+      "count": 6,
       "file": "inventory/used-gmc-sierra-3500.json",
       "models": [
         {
           "model": "Sierra 3500",
-          "count": 5
+          "count": 6
         }
       ]
     },
@@ -673,6 +673,19 @@
       "models": [
         {
           "model": "CanyonElevation",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "gmc",
+      "model": "AcadiaSLT",
+      "count": 1,
+      "file": "inventory/used-gmc-acadiaslt.json",
+      "models": [
+        {
+          "model": "AcadiaSLT",
           "count": 1
         }
       ]

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T23:03:57+00:00",
-  "snapshot": "2026-10-03T23:03:57+00:00",
+  "generated_at": "2026-10-04T05:04:43+00:00",
+  "snapshot": "2026-10-04T05:04:43+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 31,
+  "count": 32,
   "vehicles": [
     {
       "pub_id": "richmond-hyundai-km8k2caa8mu751210",
@@ -847,6 +847,32 @@
       "city": "Surrey",
       "province": "BC",
       "dealer_name": "OpenRoad Mercedes Benz Surrey"
+    },
+    {
+      "pub_id": "maple-ridge-hyundai-km8he3a68ru015016",
+      "year": 2024,
+      "make": "Hyundai",
+      "model": "Kona",
+      "trim": "Electric",
+      "propulsion": "electric",
+      "propulsion_source": "model_trim_name",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "price_cad": 33904.0,
+      "price_note": null,
+      "color": "Grey",
+      "dealer_id": "maple-ridge-hyundai",
+      "vin": "KM8HE3A68RU015016",
+      "stock": 14097171,
+      "listing_url": "https://www.mapleridgehyundai.com/used/2024-Hyundai-Kona_Electric.html",
+      "dealer_url": "https://www.mapleridgehyundai.com/used/2024-Hyundai-Kona_Electric.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T06:51:37",
+      "snapshot": "2026-09-25T07:09:21",
+      "go_url": "https://carwhisper.ca/go/maple-ridge-hyundai-km8he3a68ru015016",
+      "region": "Lower Mainland",
+      "city": "Maple Ridge",
+      "province": "BC",
+      "dealer_name": "Maple Ridge Hyundai"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T23:03:57+00:00",
-  "snapshot": "2026-10-03T23:03:57+00:00",
+  "generated_at": "2026-10-04T05:04:43+00:00",
+  "snapshot": "2026-10-04T05:04:43+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "turner-volkswagen-wvg6yveb8sh024038",
@@ -58,6 +58,34 @@
       "city": "Courtenay",
       "province": "BC",
       "dealer_name": "Comox Valley VW"
+    },
+    {
+      "pub_id": "capilano-volkswagen-wvg9yveb4sh021523",
+      "year": 2025,
+      "make": "Volkswagen",
+      "model": "ID. Buzz",
+      "trim": "1st Edition 4MOTION",
+      "drivetrain": "AWD",
+      "propulsion": "electric",
+      "propulsion_source": "description",
+      "propulsion_confidence": "medium",
+      "condition": "used",
+      "odometer_km": 6130,
+      "price_cad": 64515.0,
+      "price_note": null,
+      "color": "Indium Gray Metallic",
+      "photo_url": "https://img.sm360.ca/ir/w800h600/images/inventory/capilano-volkswagen/volkswagen/id-buzz/2025/39302635/39302635_07542_2025-volkswagen-id-buzz_001.jpeg",
+      "dealer_id": "capilano-volkswagen",
+      "vin": "WVG9YVEB4SH021523",
+      "stock": "N2061",
+      "listing_url": "https://www.capilanovw.com/en/used-inventory/volkswagen/id.-buzz/2025-volkswagen-id.-buzz-id39302635",
+      "dealer_url": "https://www.capilanovw.com/en/used-inventory/volkswagen/id.-buzz/2025-volkswagen-id.-buzz-id39302635?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T18:13:52",
+      "snapshot": "2026-10-03T18:19:05",
+      "go_url": "https://carwhisper.ca/go/capilano-volkswagen-wvg9yveb4sh021523",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Capilano Volkswagen"
     }
   ]
 }

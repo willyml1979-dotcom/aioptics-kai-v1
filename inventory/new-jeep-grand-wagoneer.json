@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T23:03:57+00:00",
-  "snapshot": "2026-10-03T23:03:57+00:00",
+  "generated_at": "2026-10-04T05:04:43+00:00",
+  "snapshot": "2026-10-04T05:04:43+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "maple-ridge-chrysler-jeep-dodge-1c4sjvbp1ts193734",
@@ -77,6 +77,29 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Okanagan Chrysler Dodge Jeep Ram"
+    },
+    {
+      "pub_id": "duncan-chrysler-dodge-jeep-ram-ltd-1c4sjvdp6vs556948",
+      "year": 2027,
+      "make": "Jeep",
+      "model": "Grand Wagoneer",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "Grey",
+      "dealer_id": "duncan-chrysler-dodge-jeep-ram-ltd",
+      "vin": "1C4SJVDP6VS556948",
+      "listing_url": "https://www.duncandodge.ca/vehicles/2027/jeep/grand-wagoneer/duncan/bc/71366229/?sale_class=new",
+      "dealer_url": "https://www.duncandodge.ca/vehicles/2027/jeep/grand-wagoneer/duncan/bc/71366229/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T19:09:40",
+      "snapshot": "2026-10-03T19:11:43",
+      "go_url": "https://carwhisper.ca/go/duncan-chrysler-dodge-jeep-ram-ltd-1c4sjvdp6vs556948",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Chrysler Dodge Jeep Ram Ltd."
     },
     {
       "pub_id": "go-auto-brampton-chrysler-1c4sjvapxts180983",

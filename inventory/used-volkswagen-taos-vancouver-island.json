@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T23:03:57+00:00",
-  "snapshot": "2026-10-03T23:03:57+00:00",
+  "generated_at": "2026-10-04T05:04:43+00:00",
+  "snapshot": "2026-10-04T05:04:43+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 14,
+  "count": 15,
   "vehicles": [
     {
       "pub_id": "comox-valley-vw-3vvax7b24pm325251",
@@ -31,6 +31,34 @@
       "city": "Courtenay",
       "province": "BC",
       "dealer_name": "Comox Valley VW"
+    },
+    {
+      "pub_id": "duncan-chrysler-dodge-jeep-ram-ltd-3vvax7b22pm322929",
+      "year": 2023,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "body_type": "suv",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 44173,
+      "price_cad": 23889.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/3eb60b49-d92b-4337-9003-0983038c71da_32ff131b-6925-4405-89bd-4c7cb6d6f065.jpg",
+      "dealer_id": "duncan-chrysler-dodge-jeep-ram-ltd",
+      "vin": "3VVAX7B22PM322929",
+      "stock": "FP22929",
+      "listing_url": "https://www.duncandodge.ca/vehicles/2023/volkswagen/taos/duncan/bc/70983131/?sale_class=used",
+      "dealer_url": "https://www.duncandodge.ca/vehicles/2023/volkswagen/taos/duncan/bc/70983131/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T18:46:52",
+      "snapshot": "2026-10-03T18:54:06",
+      "go_url": "https://carwhisper.ca/go/duncan-chrysler-dodge-jeep-ram-ltd-3vvax7b22pm322929",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Chrysler Dodge Jeep Ram Ltd."
     },
     {
       "pub_id": "comox-valley-vw-3vvgx7b26rm076562",

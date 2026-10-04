@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T23:03:57+00:00",
-  "snapshot": "2026-10-03T23:03:57+00:00",
+  "generated_at": "2026-10-04T05:04:43+00:00",
+  "snapshot": "2026-10-04T05:04:43+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 16,
+  "count": 17,
   "vehicles": [
     {
       "pub_id": "jenner-chevrolet-buick-gmc-ltd-3gkalvex2kl136588",
@@ -360,6 +360,34 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Victoria Hyundai"
+    },
+    {
+      "pub_id": "duncan-chrysler-dodge-jeep-ram-ltd-3gkalteg8rl273615",
+      "year": 2024,
+      "make": "GMC",
+      "model": "Terrain",
+      "body_type": "suv",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 60846,
+      "price_cad": 28996.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/ff2ee4ff-48a7-4fff-b51e-9474f64cbdc9_9c12d50e-cb9c-4d6c-a5d6-89abd219c18e.jpg",
+      "dealer_id": "duncan-chrysler-dodge-jeep-ram-ltd",
+      "vin": "3GKALTEG8RL273615",
+      "stock": "FP73615",
+      "listing_url": "https://www.duncandodge.ca/vehicles/2024/gmc/terrain/duncan/bc/70977603/?sale_class=used",
+      "dealer_url": "https://www.duncandodge.ca/vehicles/2024/gmc/terrain/duncan/bc/70977603/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T18:48:35",
+      "snapshot": "2026-10-03T18:54:06",
+      "go_url": "https://carwhisper.ca/go/duncan-chrysler-dodge-jeep-ram-ltd-3gkalteg8rl273615",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Chrysler Dodge Jeep Ram Ltd."
     },
     {
       "pub_id": "laird-wheaton-gm-3gkalxeg7pl217864",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T23:03:57+00:00",
+  "generated_at": "2026-10-04T05:04:43+00:00",
   "condition": "used",
   "make": "ram",
   "files": [
@@ -8,12 +8,12 @@
       "make": "ram",
       "model": "1500",
       "shard": "part1",
-      "count": 33,
+      "count": 30,
       "file": "inventory/used-ram-1500-part1.json",
       "models": [
         {
           "model": "1500",
-          "count": 33
+          "count": 30
         }
       ]
     },
@@ -22,12 +22,12 @@
       "make": "ram",
       "model": "1500",
       "shard": "part2",
-      "count": 33,
+      "count": 30,
       "file": "inventory/used-ram-1500-part2.json",
       "models": [
         {
           "model": "1500",
-          "count": 33
+          "count": 30
         }
       ]
     },
@@ -36,12 +36,12 @@
       "make": "ram",
       "model": "1500",
       "shard": "part3",
-      "count": 33,
+      "count": 30,
       "file": "inventory/used-ram-1500-part3.json",
       "models": [
         {
           "model": "1500",
-          "count": 33
+          "count": 30
         }
       ]
     },
@@ -50,12 +50,12 @@
       "make": "ram",
       "model": "1500",
       "shard": "part4",
-      "count": 33,
+      "count": 30,
       "file": "inventory/used-ram-1500-part4.json",
       "models": [
         {
           "model": "1500",
-          "count": 33
+          "count": 30
         }
       ]
     },
@@ -64,12 +64,26 @@
       "make": "ram",
       "model": "1500",
       "shard": "part5",
-      "count": 33,
+      "count": 30,
       "file": "inventory/used-ram-1500-part5.json",
       "models": [
         {
           "model": "1500",
-          "count": 33
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500",
+      "shard": "part6",
+      "count": 28,
+      "file": "inventory/used-ram-1500-part6.json",
+      "models": [
+        {
+          "model": "1500",
+          "count": 28
         }
       ]
     },
@@ -160,7 +174,7 @@
       "make": "ram",
       "model": "1500 Classic",
       "shard": "Vancouver Island",
-      "count": 11,
+      "count": 14,
       "file": "inventory/used-ram-1500-classic-vancouver-island.json",
       "models": [
         {
@@ -169,7 +183,7 @@
         },
         {
           "model": "1500 Classic",
-          "count": 9
+          "count": 12
         }
       ]
     },

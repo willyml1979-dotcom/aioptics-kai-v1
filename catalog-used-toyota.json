@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T23:03:57+00:00",
+  "generated_at": "2026-10-04T05:04:43+00:00",
   "condition": "used",
   "make": "toyota",
   "files": [
@@ -78,12 +78,12 @@
       "make": "toyota",
       "model": "RAV4",
       "shard": "part6",
-      "count": 25,
+      "count": 26,
       "file": "inventory/used-toyota-rav4-part6.json",
       "models": [
         {
           "model": "RAV4",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -356,12 +356,12 @@
       "condition": "used",
       "make": "toyota",
       "model": "4Runner",
-      "count": 32,
+      "count": 31,
       "file": "inventory/used-toyota-4runner.json",
       "models": [
         {
           "model": "4Runner",
-          "count": 32
+          "count": 31
         }
       ]
     },
@@ -479,14 +479,27 @@
     {
       "condition": "used",
       "make": "toyota",
+      "model": "Mirai",
+      "count": 1,
+      "file": "inventory/used-toyota-mirai.json",
+      "models": [
+        {
+          "model": "Mirai",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "toyota",
       "model": "Highlander",
       "shard": "Lower Mainland",
-      "count": 20,
+      "count": 21,
       "file": "inventory/used-toyota-highlander-lower-mainland.json",
       "models": [
         {
           "model": "Highlander",
-          "count": 20
+          "count": 21
         }
       ]
     },
@@ -537,12 +550,12 @@
       "make": "toyota",
       "model": "Highlander",
       "shard": "Vancouver Island",
-      "count": 10,
+      "count": 11,
       "file": "inventory/used-toyota-highlander-vancouver-island.json",
       "models": [
         {
           "model": "Highlander",
-          "count": 10
+          "count": 11
         }
       ]
     },
@@ -590,12 +603,12 @@
       "condition": "used",
       "make": "toyota",
       "model": "bZ4X",
-      "count": 11,
+      "count": 10,
       "file": "inventory/used-toyota-bz4x.json",
       "models": [
         {
           "model": "bZ4X",
-          "count": 11
+          "count": 10
         }
       ]
     },

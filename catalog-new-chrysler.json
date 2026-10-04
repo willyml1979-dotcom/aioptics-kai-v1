@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T23:03:57+00:00",
+  "generated_at": "2026-10-04T05:04:43+00:00",
   "condition": "new",
   "make": "chrysler",
   "files": [
@@ -7,7 +7,7 @@
       "condition": "new",
       "make": "chrysler",
       "model": "GRAND CARAVAN",
-      "count": 17,
+      "count": 25,
       "file": "inventory/new-chrysler-grand-caravan.json",
       "models": [
         {
@@ -16,7 +16,7 @@
         },
         {
           "model": "Grand Caravan",
-          "count": 11
+          "count": 19
         }
       ]
     },
@@ -104,6 +104,20 @@
       "shard": "Thompson-Okanagan",
       "count": 1,
       "file": "inventory/new-chrysler-pacifica-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "Pacifica",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chrysler",
+      "model": "Pacifica",
+      "shard": "Vancouver Island",
+      "count": 1,
+      "file": "inventory/new-chrysler-pacifica-vancouver-island.json",
       "models": [
         {
           "model": "Pacifica",

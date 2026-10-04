@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T23:03:57+00:00",
-  "snapshot": "2026-10-03T23:03:57+00:00",
+  "generated_at": "2026-10-04T05:04:43+00:00",
+  "snapshot": "2026-10-04T05:04:43+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "alberni-chrysler-dodge-jeep-ram-1c4rjhag3sc363070",
@@ -33,6 +33,35 @@
       "city": "Port Alberni",
       "province": "BC",
       "dealer_name": "Alberni Chrysler Dodge Jeep Ram"
+    },
+    {
+      "pub_id": "duncan-chrysler-dodge-jeep-ram-ltd-1c4rjhar9tc258276",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "body_type": "suv",
+      "drivetrain": "4WD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 15,
+      "price_cad": 59888.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/15683194-fef1-4983-a892-a09bf6229758_2dfe43b6-281f-4aab-bb9b-473546725234.jpg",
+      "dealer_id": "duncan-chrysler-dodge-jeep-ram-ltd",
+      "vin": "1C4RJHAR9TC258276",
+      "stock": "F26GC82",
+      "listing_url": "https://www.duncandodge.ca/vehicles/2026/jeep/grand-cherokee/duncan/bc/70256169/?sale_class=new",
+      "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/grand-cherokee/duncan/bc/70256169/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T19:02:32",
+      "snapshot": "2026-10-03T19:11:43",
+      "go_url": "https://carwhisper.ca/go/duncan-chrysler-dodge-jeep-ram-ltd-1c4rjhar9tc258276",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Chrysler Dodge Jeep Ram Ltd."
     },
     {
       "pub_id": "comox-valley-dodge-1c4rjhag9tc317020",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T23:03:57+00:00",
+  "generated_at": "2026-10-04T05:04:43+00:00",
   "condition": "new",
   "make": "bmw",
   "files": [
@@ -75,12 +75,12 @@
       "make": "bmw",
       "model": "X1",
       "shard": "part1",
-      "count": 32,
+      "count": 30,
       "file": "inventory/new-bmw-x1-part1.json",
       "models": [
         {
           "model": "X1",
-          "count": 32
+          "count": 30
         }
       ]
     },
@@ -89,12 +89,12 @@
       "make": "bmw",
       "model": "X1",
       "shard": "part2",
-      "count": 32,
+      "count": 30,
       "file": "inventory/new-bmw-x1-part2.json",
       "models": [
         {
           "model": "X1",
-          "count": 32
+          "count": 30
         }
       ]
     },
@@ -103,12 +103,12 @@
       "make": "bmw",
       "model": "X1",
       "shard": "part3",
-      "count": 32,
+      "count": 30,
       "file": "inventory/new-bmw-x1-part3.json",
       "models": [
         {
           "model": "X1",
-          "count": 32
+          "count": 30
         }
       ]
     },
@@ -130,12 +130,12 @@
       "condition": "new",
       "make": "bmw",
       "model": "X1 Sports Activity Vehicle",
-      "count": 4,
+      "count": 5,
       "file": "inventory/new-bmw-x1-sports-activity-vehicle.json",
       "models": [
         {
           "model": "X1 Sports Activity Vehicle",
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -177,6 +177,19 @@
         {
           "model": "X3",
           "count": 24
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "bmw",
+      "model": "4 Series Gran",
+      "count": 18,
+      "file": "inventory/new-bmw-4-series-gran.json",
+      "models": [
+        {
+          "model": "4 Series Gran",
+          "count": 18
         }
       ]
     },
@@ -232,19 +245,6 @@
         {
           "model": "i4",
           "count": 21
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "bmw",
-      "model": "4 Series Gran",
-      "count": 18,
-      "file": "inventory/new-bmw-4-series-gran.json",
-      "models": [
-        {
-          "model": "4 Series Gran",
-          "count": 18
         }
       ]
     },
@@ -447,12 +447,12 @@
       "condition": "new",
       "make": "bmw",
       "model": "iX",
-      "count": 13,
+      "count": 12,
       "file": "inventory/new-bmw-ix.json",
       "models": [
         {
           "model": "iX",
-          "count": 13
+          "count": 12
         }
       ]
     },

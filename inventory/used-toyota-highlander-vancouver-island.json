@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T23:03:57+00:00",
-  "snapshot": "2026-10-03T23:03:57+00:00",
+  "generated_at": "2026-10-04T05:04:43+00:00",
+  "snapshot": "2026-10-04T05:04:43+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 10,
+  "count": 11,
   "vehicles": [
     {
       "pub_id": "jim-pattison-toyota-victoria-jteew21a560019879",
@@ -201,6 +201,35 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Island Ford"
+    },
+    {
+      "pub_id": "duncan-chrysler-dodge-jeep-ram-ltd-5tdgzrbh3ms106537",
+      "year": 2021,
+      "make": "Toyota",
+      "model": "Highlander",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 61145,
+      "price_cad": 39865.0,
+      "price_note": null,
+      "color": "Red",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/631ad49c-cae1-4a5f-8b5a-267791c83f2f_659dd8f0-421c-4bd1-b825-9080d5122dd9.jpg",
+      "dealer_id": "duncan-chrysler-dodge-jeep-ram-ltd",
+      "vin": "5TDGZRBH3MS106537",
+      "stock": "FP06537",
+      "listing_url": "https://www.duncandodge.ca/vehicles/2021/toyota/highlander/duncan/bc/71033847/?sale_class=used",
+      "dealer_url": "https://www.duncandodge.ca/vehicles/2021/toyota/highlander/duncan/bc/71033847/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T18:42:26",
+      "snapshot": "2026-10-03T18:54:06",
+      "go_url": "https://carwhisper.ca/go/duncan-chrysler-dodge-jeep-ram-ltd-5tdgzrbh3ms106537",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Chrysler Dodge Jeep Ram Ltd."
     },
     {
       "pub_id": "jim-pattison-toyota-victoria-5tdlzrbh0ms099996",

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T23:03:57+00:00",
-  "snapshot": "2026-10-03T23:03:57+00:00",
+  "generated_at": "2026-10-04T05:04:43+00:00",
+  "snapshot": "2026-10-04T05:04:43+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 19,
+  "count": 20,
   "vehicles": [
     {
       "pub_id": "kootenay-chrysler-dodge-jeep-ram-ltd-1c4rjyc68n8735014",
@@ -495,6 +495,33 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Jim Pattison Toyota Victoria"
+    },
+    {
+      "pub_id": "duncan-chrysler-dodge-jeep-ram-ltd-1c4rjyb65p8788578",
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Grand Cherokee 4xe",
+      "propulsion": "hybrid",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 30137,
+      "price_cad": 61988.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/06c553da-edf6-4253-92bb-1a69e514d8ad_5f2ac1e2-22cf-488f-9795-0ad3c7b13783.jpg",
+      "dealer_id": "duncan-chrysler-dodge-jeep-ram-ltd",
+      "vin": "1C4RJYB65P8788578",
+      "stock": "F23GC85",
+      "listing_url": "https://www.duncandodge.ca/vehicles/2023/jeep/grand-cherokee-4xe/duncan/bc/65285625/?sale_class=used",
+      "dealer_url": "https://www.duncandodge.ca/vehicles/2023/jeep/grand-cherokee-4xe/duncan/bc/65285625/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T18:46:02",
+      "snapshot": "2026-10-03T18:54:06",
+      "go_url": "https://carwhisper.ca/go/duncan-chrysler-dodge-jeep-ram-ltd-1c4rjyb65p8788578",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Chrysler Dodge Jeep Ram Ltd."
     },
     {
       "pub_id": "country-hills-nissan-1c4rjyb69p8814230",

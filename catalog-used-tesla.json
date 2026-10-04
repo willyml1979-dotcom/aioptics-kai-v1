@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T23:03:57+00:00",
+  "generated_at": "2026-10-04T05:04:43+00:00",
   "condition": "used",
   "make": "tesla",
   "files": [
@@ -7,12 +7,55 @@
       "condition": "used",
       "make": "tesla",
       "model": "Model 3",
-      "count": 35,
-      "file": "inventory/used-tesla-model-3.json",
+      "shard": "Lower Mainland",
+      "count": 19,
+      "file": "inventory/used-tesla-model-3-lower-mainland.json",
       "models": [
         {
           "model": "Model 3",
-          "count": 35
+          "count": 19
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "tesla",
+      "model": "Model 3",
+      "shard": "Okanagan",
+      "count": 4,
+      "file": "inventory/used-tesla-model-3-okanagan.json",
+      "models": [
+        {
+          "model": "Model 3",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "tesla",
+      "model": "Model 3",
+      "shard": "Vancouver Island",
+      "count": 4,
+      "file": "inventory/used-tesla-model-3-vancouver-island.json",
+      "models": [
+        {
+          "model": "Model 3",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "tesla",
+      "model": "Model 3",
+      "shard": "sin-region",
+      "count": 9,
+      "file": "inventory/used-tesla-model-3-sin-region.json",
+      "models": [
+        {
+          "model": "Model 3",
+          "count": 9
         }
       ]
     },

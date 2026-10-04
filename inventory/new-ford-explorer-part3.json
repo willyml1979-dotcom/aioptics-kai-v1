@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T23:03:57+00:00",
-  "snapshot": "2026-10-03T23:03:57+00:00",
+  "generated_at": "2026-10-04T05:04:43+00:00",
+  "snapshot": "2026-10-04T05:04:43+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 32,
+  "count": 33,
   "vehicles": [
     {
       "pub_id": "prince-george-ford-1fmuk8hh9tga83097",
@@ -55,7 +55,7 @@
       "listing_url": "https://www.bannisterford.com/inventory/2027-ford-explorer-st-line-17UvRglGSWu5GRg23UJxJAvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2027-ford-explorer-st-line-17UvRglGSWu5GRg23UJxJAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:56:55",
-      "snapshot": "2026-10-02T16:25:23",
+      "snapshot": "2026-10-03T16:30:01",
       "go_url": "https://carwhisper.ca/go/bannister-ford-ltd-1fmuk8kh4vga05421",
       "region": "Norte/Cariboo",
       "city": "Dawson Creek",
@@ -498,7 +498,7 @@
       "listing_url": "https://www.bannisterford.com/inventory/2027-ford-explorer-platinum-HFKxwYl1Su2IYE5J7Y9yhwvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2027-ford-explorer-platinum-HFKxwYl1Su2IYE5J7Y9yhwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T16:21:50",
-      "snapshot": "2026-10-02T16:25:23",
+      "snapshot": "2026-10-03T16:30:01",
       "go_url": "https://carwhisper.ca/go/bannister-ford-ltd-1fmuk8hh2vga06722",
       "region": "Norte/Cariboo",
       "city": "Dawson Creek",
@@ -889,12 +889,36 @@
       "listing_url": "https://www.bannisterford.com/inventory/2027-ford-explorer-st-jBKacBg8QvSFDJoNcXZQzgvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2027-ford-explorer-st-jBKacBg8QvSFDJoNcXZQzgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:56:44",
-      "snapshot": "2026-10-02T16:25:23",
+      "snapshot": "2026-10-03T16:30:01",
       "go_url": "https://carwhisper.ca/go/bannister-ford-ltd-1fmwk8gc4vga07904",
       "region": "Norte/Cariboo",
       "city": "Dawson Creek",
       "province": "BC",
       "dealer_name": "Bannister Ford Ltd"
+    },
+    {
+      "pub_id": "fort-motors-ltd-1fmwk8gc9vga33012",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Explorer",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": 75795.0,
+      "price_note": null,
+      "color": "Star White Metallic Tri-Coat",
+      "dealer_id": "fort-motors-ltd",
+      "vin": "1FMWK8GC9VGA33012",
+      "stock": "33012Z",
+      "listing_url": "https://www.fortmotors.ca/inventory/2027-ford-explorer/14828672",
+      "dealer_url": "https://www.fortmotors.ca/inventory/2027-ford-explorer/14828672?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T04:46:51",
+      "snapshot": "2026-09-26T06:32:34",
+      "go_url": "https://carwhisper.ca/go/fort-motors-ltd-1fmwk8gc9vga33012",
+      "region": "Norte/Cariboo",
+      "city": "Fort St. John",
+      "province": "BC",
+      "dealer_name": "Fort Motors Ltd."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T23:03:57+00:00",
-  "snapshot": "2026-10-03T23:03:57+00:00",
+  "generated_at": "2026-10-04T05:04:43+00:00",
+  "snapshot": "2026-10-04T05:04:43+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 11,
+  "count": 12,
   "vehicles": [
     {
       "pub_id": "victoria-hyundai-1fmde5cp3mla75509",
@@ -188,6 +188,35 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Island Ford"
+    },
+    {
+      "pub_id": "duncan-chrysler-dodge-jeep-ram-ltd-1fmee9bp8rla09350",
+      "year": 2024,
+      "make": "Ford",
+      "model": "Bronco",
+      "body_type": "suv",
+      "drivetrain": "4WD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 42709,
+      "price_cad": 59748.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/4433b7bb-cc47-4f98-8084-44763d8bd318_19d5fb3d-c22f-49ec-a9cb-85b4c8c65e79.jpg",
+      "dealer_id": "duncan-chrysler-dodge-jeep-ram-ltd",
+      "vin": "1FMEE9BP8RLA09350",
+      "stock": "F26RA04",
+      "listing_url": "https://www.duncandodge.ca/vehicles/2024/ford/bronco/duncan/bc/71112528/?sale_class=used",
+      "dealer_url": "https://www.duncandodge.ca/vehicles/2024/ford/bronco/duncan/bc/71112528/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T18:48:02",
+      "snapshot": "2026-10-03T18:54:06",
+      "go_url": "https://carwhisper.ca/go/duncan-chrysler-dodge-jeep-ram-ltd-1fmee9bp8rla09350",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Chrysler Dodge Jeep Ram Ltd."
     },
     {
       "pub_id": "laird-wheaton-gm-1fmee9bp9rla79150",

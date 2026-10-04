@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T23:03:57+00:00",
-  "snapshot": "2026-10-03T23:03:57+00:00",
+  "generated_at": "2026-10-04T05:04:43+00:00",
+  "snapshot": "2026-10-04T05:04:43+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "mercedes-benz-nanaimo-1gc4yuey6lf184376",
@@ -27,6 +27,33 @@
       "city": "Nanaimo",
       "province": "BC",
       "dealer_name": "Mercedes-Benz Nanaimo"
+    },
+    {
+      "pub_id": "duncan-chrysler-dodge-jeep-ram-ltd-2gc4kueyxt1121189",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Silverado 3500",
+      "propulsion": "diesel",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 12911,
+      "price_cad": 98450.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/3483407c-f96f-42f7-9ee9-0f34c24408c8_66d4226a-84eb-420f-b608-a2f3c03c58c5.jpg",
+      "dealer_id": "duncan-chrysler-dodge-jeep-ram-ltd",
+      "vin": "2GC4KUEYXT1121189",
+      "stock": "FP21189",
+      "listing_url": "https://www.duncandodge.ca/vehicles/2026/chevrolet/silverado-3500/duncan/bc/71357300/?sale_class=used",
+      "dealer_url": "https://www.duncandodge.ca/vehicles/2026/chevrolet/silverado-3500/duncan/bc/71357300/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T18:52:55",
+      "snapshot": "2026-10-03T18:54:06",
+      "go_url": "https://carwhisper.ca/go/duncan-chrysler-dodge-jeep-ram-ltd-2gc4kueyxt1121189",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Chrysler Dodge Jeep Ram Ltd."
     },
     {
       "pub_id": "country-hills-nissan-1gb4ytey1lf278003",

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T23:03:57+00:00",
-  "snapshot": "2026-10-03T23:03:57+00:00",
+  "generated_at": "2026-10-04T05:04:43+00:00",
+  "snapshot": "2026-10-04T05:04:43+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 10,
+  "count": 11,
   "vehicles": [
     {
       "pub_id": "harmony-acura-5lm5j7xc1lgl07693",
@@ -234,6 +234,35 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Island Ford"
+    },
+    {
+      "pub_id": "duncan-chrysler-dodge-jeep-ram-ltd-5lm5j7xcxngl01216",
+      "year": 2022,
+      "make": "Lincoln",
+      "model": "Aviator",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 55355,
+      "price_cad": 46105.0,
+      "price_note": null,
+      "color": "Silver",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/58f3f563-114f-4328-a469-420a752b685d_1784ae5d-469c-4e64-b737-27ca463deb04.jpg",
+      "dealer_id": "duncan-chrysler-dodge-jeep-ram-ltd",
+      "vin": "5LM5J7XCXNGL01216",
+      "stock": "FP01216",
+      "listing_url": "https://www.duncandodge.ca/vehicles/2022/lincoln/aviator/duncan/bc/70977598/?sale_class=used",
+      "dealer_url": "https://www.duncandodge.ca/vehicles/2022/lincoln/aviator/duncan/bc/70977598/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T18:43:25",
+      "snapshot": "2026-10-03T18:54:06",
+      "go_url": "https://carwhisper.ca/go/duncan-chrysler-dodge-jeep-ram-ltd-5lm5j7xcxngl01216",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Chrysler Dodge Jeep Ram Ltd."
     },
     {
       "pub_id": "laird-wheaton-gm-5lm5j7xc5rgl10654",

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T23:03:57+00:00",
-  "snapshot": "2026-10-03T23:03:57+00:00",
+  "generated_at": "2026-10-04T05:04:43+00:00",
+  "snapshot": "2026-10-04T05:04:43+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 10,
+  "count": 11,
   "vehicles": [
     {
       "pub_id": "richmond-hyundai-kmhc85lh1ku034511",
@@ -276,11 +276,37 @@
       "listing_url": "https://www.gorichmondkia.ca/vehicles/2018/hyundai/ioniq-electric-plus/richmond/bc/71109954/?sale_class=used",
       "dealer_url": "https://www.gorichmondkia.ca/vehicles/2018/hyundai/ioniq-electric-plus/richmond/bc/71109954/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T05:31:45",
-      "snapshot": "2026-10-02T16:08:22",
+      "snapshot": "2026-10-03T16:12:44",
       "go_url": "https://carwhisper.ca/go/go-richmond-kia-kmhc75ldxju082961",
       "city": null,
       "province": "BC",
       "dealer_name": "Go Richmond Kia"
+    },
+    {
+      "pub_id": "go-downtown-kia-km8myfs56ta006935",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Ioniq",
+      "trim": "9 Preferred + AWD w-Ultimate Calligraphy Pkg",
+      "drivetrain": "AWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 22975,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "Green",
+      "dealer_id": "go-downtown-kia",
+      "vin": "KM8MYFS56TA006935",
+      "stock": "CLB0062",
+      "listing_url": "https://www.godowntownkia.ca/vehicles/2026/hyundai/ioniq-9/vancouver/bc/71474577/?sale_class=used",
+      "dealer_url": "https://www.godowntownkia.ca/vehicles/2026/hyundai/ioniq-9/vancouver/bc/71474577/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T18:43:16",
+      "snapshot": "2026-10-03T18:46:10",
+      "go_url": "https://carwhisper.ca/go/go-downtown-kia-km8myfs56ta006935",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Downtown Kia"
     }
   ]
 }

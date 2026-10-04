@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T23:03:57+00:00",
-  "snapshot": "2026-10-03T23:03:57+00:00",
+  "generated_at": "2026-10-04T05:04:43+00:00",
+  "snapshot": "2026-10-04T05:04:43+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 19,
+  "count": 21,
   "vehicles": [
     {
       "pub_id": "island-ford-1c4ajwag0el247198",
@@ -466,6 +466,34 @@
       "dealer_name": "Comox Valley Dodge"
     },
     {
+      "pub_id": "duncan-chrysler-dodge-jeep-ram-ltd-1c4pjxdgxsw554691",
+      "year": 2025,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "drivetrain": "4WD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 153,
+      "price_cad": 59888.0,
+      "price_note": null,
+      "color": "Green",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/ba7efd03-1f4a-47f6-a497-da033a812b00_449a8899-d4d6-478d-a19e-3651ef0152c9.jpg",
+      "dealer_id": "duncan-chrysler-dodge-jeep-ram-ltd",
+      "vin": "1C4PJXDGXSW554691",
+      "stock": "F25WR46",
+      "listing_url": "https://www.duncandodge.ca/vehicles/2025/jeep/wrangler/duncan/bc/65256609/?sale_class=used",
+      "dealer_url": "https://www.duncandodge.ca/vehicles/2025/jeep/wrangler/duncan/bc/65256609/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T18:51:27",
+      "snapshot": "2026-10-03T18:54:06",
+      "go_url": "https://carwhisper.ca/go/duncan-chrysler-dodge-jeep-ram-ltd-1c4pjxdgxsw554691",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Chrysler Dodge Jeep Ram Ltd."
+    },
+    {
       "pub_id": "victoria-hyundai-1c4rjxfg8rw156850",
       "year": 2024,
       "make": "Jeep",
@@ -487,6 +515,34 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Victoria Hyundai"
+    },
+    {
+      "pub_id": "duncan-chrysler-dodge-jeep-ram-ltd-1c4pjxcg8sw570826",
+      "year": 2025,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "drivetrain": "4WD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 8963,
+      "price_cad": 66986.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/c256857d-ad14-4565-a738-69698f993d4a_06833c38-564a-420f-8594-f8a5dac5254e.jpg",
+      "dealer_id": "duncan-chrysler-dodge-jeep-ram-ltd",
+      "vin": "1C4PJXCG8SW570826",
+      "stock": "FP70826",
+      "listing_url": "https://www.duncandodge.ca/vehicles/2025/jeep/wrangler/duncan/bc/70977609/?sale_class=used",
+      "dealer_url": "https://www.duncandodge.ca/vehicles/2025/jeep/wrangler/duncan/bc/70977609/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T18:51:36",
+      "snapshot": "2026-10-03T18:54:06",
+      "go_url": "https://carwhisper.ca/go/duncan-chrysler-dodge-jeep-ram-ltd-1c4pjxcg8sw570826",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Chrysler Dodge Jeep Ram Ltd."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T23:03:57+00:00",
+  "generated_at": "2026-10-04T05:04:43+00:00",
   "condition": "used",
   "make": "audi",
   "files": [
@@ -72,12 +72,12 @@
       "condition": "used",
       "make": "audi",
       "model": "SQ5",
-      "count": 9,
+      "count": 8,
       "file": "inventory/used-audi-sq5.json",
       "models": [
         {
           "model": "SQ5",
-          "count": 9
+          "count": 8
         }
       ]
     },
@@ -240,6 +240,19 @@
     {
       "condition": "used",
       "make": "audi",
+      "model": "Q8 e-tron",
+      "count": 1,
+      "file": "inventory/used-audi-q8-e-tron.json",
+      "models": [
+        {
+          "model": "Q8 e-tron",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "audi",
       "model": "Q6 e-tron",
       "count": 1,
       "file": "inventory/used-audi-q6-e-tron.json",
@@ -267,12 +280,12 @@
       "condition": "used",
       "make": "audi",
       "model": "R8",
-      "count": 2,
+      "count": 3,
       "file": "inventory/used-audi-r8.json",
       "models": [
         {
           "model": "R8",
-          "count": 2
+          "count": 3
         }
       ]
     },

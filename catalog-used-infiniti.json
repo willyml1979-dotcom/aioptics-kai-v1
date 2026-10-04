@@ -1,18 +1,31 @@
 {
-  "generated_at": "2026-10-03T23:03:57+00:00",
+  "generated_at": "2026-10-04T05:04:43+00:00",
   "condition": "used",
   "make": "infiniti",
   "files": [
     {
       "condition": "used",
       "make": "infiniti",
+      "model": "JX35",
+      "count": 1,
+      "file": "inventory/used-infiniti-jx35.json",
+      "models": [
+        {
+          "model": "JX35",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "infiniti",
       "model": "Q50",
-      "count": 5,
+      "count": 4,
       "file": "inventory/used-infiniti-q50.json",
       "models": [
         {
           "model": "Q50",
-          "count": 5
+          "count": 4
         }
       ]
     },
@@ -78,19 +91,6 @@
         {
           "model": "QX80",
           "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "infiniti",
-      "model": "JX35",
-      "count": 1,
-      "file": "inventory/used-infiniti-jx35.json",
-      "models": [
-        {
-          "model": "JX35",
-          "count": 1
         }
       ]
     },

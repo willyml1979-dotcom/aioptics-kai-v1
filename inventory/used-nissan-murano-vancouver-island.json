@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T23:03:57+00:00",
-  "snapshot": "2026-10-03T23:03:57+00:00",
+  "generated_at": "2026-10-04T05:04:43+00:00",
+  "snapshot": "2026-10-04T05:04:43+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 15,
+  "count": 16,
   "vehicles": [
     {
       "pub_id": "island-ford-5n1az2mh6fn247245",
@@ -271,6 +271,35 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Island Ford"
+    },
+    {
+      "pub_id": "duncan-chrysler-dodge-jeep-ram-ltd-5n1az2csxmc145033",
+      "year": 2021,
+      "make": "Nissan",
+      "model": "Murano",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 108707,
+      "price_cad": 26945.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/d63a3c0d-54a5-4b26-903d-77bcdb2761ea_bb697e39-87bc-447e-b45a-e7781ebfcdbd.jpg",
+      "dealer_id": "duncan-chrysler-dodge-jeep-ram-ltd",
+      "vin": "5N1AZ2CSXMC145033",
+      "stock": "FP45033",
+      "listing_url": "https://www.duncandodge.ca/vehicles/2021/nissan/murano/duncan/bc/70977619/?sale_class=used",
+      "dealer_url": "https://www.duncandodge.ca/vehicles/2021/nissan/murano/duncan/bc/70977619/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T18:42:16",
+      "snapshot": "2026-10-03T18:54:06",
+      "go_url": "https://carwhisper.ca/go/duncan-chrysler-dodge-jeep-ram-ltd-5n1az2csxmc145033",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Chrysler Dodge Jeep Ram Ltd."
     },
     {
       "pub_id": "duncan-hyundai-5n1az2ds1ln108423",

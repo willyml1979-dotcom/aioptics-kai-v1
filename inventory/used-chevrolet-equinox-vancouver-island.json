@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T23:03:57+00:00",
-  "snapshot": "2026-10-03T23:03:57+00:00",
+  "generated_at": "2026-10-04T05:04:43+00:00",
+  "snapshot": "2026-10-04T05:04:43+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 15,
+  "count": 16,
   "vehicles": [
     {
       "pub_id": "duncan-hyundai-2cndl23f386287000",
@@ -341,6 +341,35 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Island Chevrolet Buick GMC"
+    },
+    {
+      "pub_id": "duncan-chrysler-dodge-jeep-ram-ltd-2gnaxwev0n6117378",
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 40243,
+      "price_cad": 27986.0,
+      "price_note": null,
+      "color": "Red",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/a86a0964-aa3d-4691-99a2-b6daa69d50c6_b78569b0-a363-4933-a579-5dd570e637e0.jpg",
+      "dealer_id": "duncan-chrysler-dodge-jeep-ram-ltd",
+      "vin": "2GNAXWEV0N6117378",
+      "stock": "FP17378",
+      "listing_url": "https://www.duncandodge.ca/vehicles/2022/chevrolet/equinox/duncan/bc/70977604/?sale_class=used",
+      "dealer_url": "https://www.duncandodge.ca/vehicles/2022/chevrolet/equinox/duncan/bc/70977604/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T18:42:44",
+      "snapshot": "2026-10-03T18:54:06",
+      "go_url": "https://carwhisper.ca/go/duncan-chrysler-dodge-jeep-ram-ltd-2gnaxwev0n6117378",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Chrysler Dodge Jeep Ram Ltd."
     },
     {
       "pub_id": "island-chevrolet-buick-gmc-3gnaxseg6rl231395",

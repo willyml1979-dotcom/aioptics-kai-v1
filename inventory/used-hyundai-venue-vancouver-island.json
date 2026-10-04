@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T23:03:57+00:00",
-  "snapshot": "2026-10-03T23:03:57+00:00",
+  "generated_at": "2026-10-04T05:04:43+00:00",
+  "snapshot": "2026-10-04T05:04:43+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 20,
+  "count": 22,
   "vehicles": [
     {
       "pub_id": "duncan-hyundai-kmhrc8a39ru301406",
@@ -56,6 +56,34 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Victoria Hyundai"
+    },
+    {
+      "pub_id": "duncan-chrysler-dodge-jeep-ram-ltd-kmhrc8a32pu257360",
+      "year": 2023,
+      "make": "Hyundai",
+      "model": "Venue",
+      "drivetrain": "FWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 52115,
+      "price_cad": 19714.0,
+      "price_note": null,
+      "color": "Red",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/a9f93c8f-c6fc-4b68-a3f0-40d39819b082_fc655f9f-5d18-47e5-88e3-59377f1e7466.jpg",
+      "dealer_id": "duncan-chrysler-dodge-jeep-ram-ltd",
+      "vin": "KMHRC8A32PU257360",
+      "stock": "FP57360",
+      "listing_url": "https://www.duncandodge.ca/vehicles/2023/hyundai/venue/duncan/bc/71389662/?sale_class=used",
+      "dealer_url": "https://www.duncandodge.ca/vehicles/2023/hyundai/venue/duncan/bc/71389662/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T18:45:44",
+      "snapshot": "2026-10-03T18:54:06",
+      "go_url": "https://carwhisper.ca/go/duncan-chrysler-dodge-jeep-ram-ltd-kmhrc8a32pu257360",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Chrysler Dodge Jeep Ram Ltd."
     },
     {
       "pub_id": "duncan-hyundai-kmhrc8a30pu274464",
@@ -562,6 +590,35 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Duncan Hyundai"
+    },
+    {
+      "pub_id": "duncan-chrysler-dodge-jeep-ram-ltd-kmhrb8a36su373365",
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Venue",
+      "body_type": "suv",
+      "drivetrain": "FWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 22632,
+      "price_cad": 25888.0,
+      "price_note": null,
+      "color": "Silver",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/0b585f1a-4a88-45c7-90c1-a2dbd59d1726_459287a7-9e17-47fb-89a4-b3f0a9ce654e.jpg",
+      "dealer_id": "duncan-chrysler-dodge-jeep-ram-ltd",
+      "vin": "KMHRB8A36SU373365",
+      "stock": "FP73365",
+      "listing_url": "https://www.duncandodge.ca/vehicles/2025/hyundai/venue/duncan/bc/70709447/?sale_class=used",
+      "dealer_url": "https://www.duncandodge.ca/vehicles/2025/hyundai/venue/duncan/bc/70709447/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T18:50:48",
+      "snapshot": "2026-10-03T18:54:06",
+      "go_url": "https://carwhisper.ca/go/duncan-chrysler-dodge-jeep-ram-ltd-kmhrb8a36su373365",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Chrysler Dodge Jeep Ram Ltd."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T23:03:57+00:00",
-  "snapshot": "2026-10-03T23:03:57+00:00",
+  "generated_at": "2026-10-04T05:04:43+00:00",
+  "snapshot": "2026-10-04T05:04:43+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "northland-chrysler-jeep-dodge-kl79mrsl2sb133161",
@@ -26,6 +26,34 @@
       "city": "Prince George",
       "province": "BC",
       "dealer_name": "Northland Chrysler Jeep Dodge"
+    },
+    {
+      "pub_id": "coast-mountain-chevrolet-buick-gmc-ltd-kl79musl6tb312341",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "TrailBlazer",
+      "trim": "RS",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 0,
+      "price_cad": 43955.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "coast-mountain-chevrolet-buick-gmc-ltd",
+      "vin": "KL79MUSL6TB312341",
+      "stock": "14462046",
+      "listing_url": "https://www.coastmountaingm.com/new/inventory/2026-Chevrolet-TrailBlazer-id14462046.html",
+      "dealer_url": "https://www.coastmountaingm.com/new/inventory/2026-Chevrolet-TrailBlazer-id14462046.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T18:34:28",
+      "snapshot": "2026-10-03T18:39:21",
+      "go_url": "https://carwhisper.ca/go/coast-mountain-chevrolet-buick-gmc-ltd-kl79musl6tb312341",
+      "region": "Norte/Cariboo",
+      "city": "Smithers",
+      "province": "BC",
+      "dealer_name": "Coast Mountain Chevrolet Buick GMC Ltd."
     }
   ]
 }

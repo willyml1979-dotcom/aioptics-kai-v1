@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T23:03:57+00:00",
-  "snapshot": "2026-10-03T23:03:57+00:00",
+  "generated_at": "2026-10-04T05:04:43+00:00",
+  "snapshot": "2026-10-04T05:04:43+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 20,
+  "count": 21,
   "vehicles": [
     {
       "pub_id": "sullivan-motor-products-nelson-ltd-2c3cdamp7tr224752",
@@ -394,6 +394,35 @@
       "city": "Port Alberni",
       "province": "BC",
       "dealer_name": "Alberni Chrysler Dodge Jeep Ram"
+    },
+    {
+      "pub_id": "duncan-chrysler-dodge-jeep-ram-ltd-2c3cdamp5tr245986",
+      "year": 2026,
+      "make": "Dodge",
+      "model": "Charger",
+      "body_type": "sedan",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 233,
+      "price_cad": 79665.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/f920c388-312d-42e3-a5cc-c87629e3f573_576eaab9-2dea-4408-8303-7fb21787b2a1.jpg",
+      "dealer_id": "duncan-chrysler-dodge-jeep-ram-ltd",
+      "vin": "2C3CDAMP5TR245986",
+      "stock": "F26CR59",
+      "listing_url": "https://www.duncandodge.ca/vehicles/2026/dodge/charger/duncan/bc/69522939/?sale_class=new",
+      "dealer_url": "https://www.duncandodge.ca/vehicles/2026/dodge/charger/duncan/bc/69522939/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T18:55:06",
+      "snapshot": "2026-10-03T19:11:43",
+      "go_url": "https://carwhisper.ca/go/duncan-chrysler-dodge-jeep-ram-ltd-2c3cdamp5tr245986",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Chrysler Dodge Jeep Ram Ltd."
     },
     {
       "pub_id": "haley-dodge-sc-2c3cdapp7tr288317",

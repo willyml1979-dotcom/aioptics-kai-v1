@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T23:03:57+00:00",
-  "snapshot": "2026-10-03T23:03:57+00:00",
+  "generated_at": "2026-10-04T05:04:43+00:00",
+  "snapshot": "2026-10-04T05:04:43+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 8,
+  "count": 9,
   "vehicles": [
     {
       "pub_id": "carter-gm-northshore-1gnskgkt2rr332086",
@@ -58,6 +58,29 @@
       "city": "Richmond",
       "province": "BC",
       "dealer_name": "Richmond Hyundai"
+    },
+    {
+      "pub_id": "coast-mountain-chevrolet-buick-gmc-ltd-1gnskfkt9pr253215",
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 62995.0,
+      "price_note": null,
+      "dealer_id": "coast-mountain-chevrolet-buick-gmc-ltd",
+      "vin": "1GNSKFKT9PR253215",
+      "stock": 14441914,
+      "listing_url": "https://www.coastmountaingm.com/used/2023-Chevrolet-Suburban.html",
+      "dealer_url": "https://www.coastmountaingm.com/used/2023-Chevrolet-Suburban.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T18:36:28",
+      "snapshot": "2026-10-03T18:39:21",
+      "go_url": "https://carwhisper.ca/go/coast-mountain-chevrolet-buick-gmc-ltd-1gnskfkt9pr253215",
+      "region": "Norte/Cariboo",
+      "city": "Smithers",
+      "province": "BC",
+      "dealer_name": "Coast Mountain Chevrolet Buick GMC Ltd."
     },
     {
       "pub_id": "kelowna-chevrolet-1gnskbkd3nr295216",

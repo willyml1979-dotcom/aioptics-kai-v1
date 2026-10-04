@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T23:03:57+00:00",
-  "snapshot": "2026-10-03T23:03:57+00:00",
+  "generated_at": "2026-10-04T05:04:43+00:00",
+  "snapshot": "2026-10-04T05:04:43+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 19,
+  "count": 20,
   "vehicles": [
     {
       "pub_id": "duncan-hyundai-3n1cp5cu5kl555717",
@@ -134,6 +134,35 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Campus Nissan"
+    },
+    {
+      "pub_id": "duncan-chrysler-dodge-jeep-ram-ltd-3n8ap6ca5sl308055",
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Kicks",
+      "body_type": "suv",
+      "drivetrain": "FWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 69360,
+      "price_cad": 21845.0,
+      "price_note": null,
+      "color": "Red",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/f3af4684-1b79-4aa3-951a-b458b0e78cbb_9ca2698b-10ef-403d-96af-53343aaf4094.jpg",
+      "dealer_id": "duncan-chrysler-dodge-jeep-ram-ltd",
+      "vin": "3N8AP6CA5SL308055",
+      "stock": "FP08055",
+      "listing_url": "https://www.duncandodge.ca/vehicles/2025/nissan/kicks/duncan/bc/70180303/?sale_class=used",
+      "dealer_url": "https://www.duncandodge.ca/vehicles/2025/nissan/kicks/duncan/bc/70180303/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T18:52:03",
+      "snapshot": "2026-10-03T18:54:06",
+      "go_url": "https://carwhisper.ca/go/duncan-chrysler-dodge-jeep-ram-ltd-3n8ap6ca5sl308055",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Chrysler Dodge Jeep Ram Ltd."
     },
     {
       "pub_id": "courtenay-nissan-3n1cp5dv1rl509738",

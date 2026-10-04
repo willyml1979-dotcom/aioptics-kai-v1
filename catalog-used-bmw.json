@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T23:03:57+00:00",
+  "generated_at": "2026-10-04T05:04:43+00:00",
   "condition": "used",
   "make": "bmw",
   "files": [
@@ -7,12 +7,12 @@
       "condition": "used",
       "make": "bmw",
       "model": "3 Series",
-      "count": 29,
+      "count": 31,
       "file": "inventory/used-bmw-3-series.json",
       "models": [
         {
           "model": "3 Series",
-          "count": 29
+          "count": 31
         }
       ]
     },
@@ -21,12 +21,12 @@
       "make": "bmw",
       "model": "X3",
       "shard": "part1",
-      "count": 26,
+      "count": 21,
       "file": "inventory/used-bmw-x3-part1.json",
       "models": [
         {
           "model": "X3",
-          "count": 26
+          "count": 21
         }
       ]
     },
@@ -35,12 +35,26 @@
       "make": "bmw",
       "model": "X3",
       "shard": "part2",
-      "count": 25,
+      "count": 21,
       "file": "inventory/used-bmw-x3-part2.json",
       "models": [
         {
           "model": "X3",
-          "count": 25
+          "count": 21
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "bmw",
+      "model": "X3",
+      "shard": "part3",
+      "count": 21,
+      "file": "inventory/used-bmw-x3-part3.json",
+      "models": [
+        {
+          "model": "X3",
+          "count": 21
         }
       ]
     },
@@ -87,12 +101,12 @@
       "condition": "used",
       "make": "bmw",
       "model": "X5",
-      "count": 26,
+      "count": 27,
       "file": "inventory/used-bmw-x5.json",
       "models": [
         {
           "model": "X5",
-          "count": 26
+          "count": 27
         }
       ]
     },
@@ -139,12 +153,25 @@
       "condition": "used",
       "make": "bmw",
       "model": "4 Series Convertible",
-      "count": 2,
+      "count": 3,
       "file": "inventory/used-bmw-4-series-convertible.json",
       "models": [
         {
           "model": "4 Series Convertible",
-          "count": 2
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "bmw",
+      "model": "4 Series Gran",
+      "count": 5,
+      "file": "inventory/used-bmw-4-series-gran.json",
+      "models": [
+        {
+          "model": "4 Series Gran",
+          "count": 5
         }
       ]
     },
@@ -152,12 +179,12 @@
       "condition": "used",
       "make": "bmw",
       "model": "X4",
-      "count": 4,
+      "count": 5,
       "file": "inventory/used-bmw-x4.json",
       "models": [
         {
           "model": "X4",
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -190,13 +217,13 @@
     {
       "condition": "used",
       "make": "bmw",
-      "model": "4 Series Gran",
-      "count": 2,
-      "file": "inventory/used-bmw-4-series-gran.json",
+      "model": "2 Series Gran",
+      "count": 1,
+      "file": "inventory/used-bmw-2-series-gran.json",
       "models": [
         {
-          "model": "4 Series Gran",
-          "count": 2
+          "model": "2 Series Gran",
+          "count": 1
         }
       ]
     },
@@ -204,12 +231,12 @@
       "condition": "used",
       "make": "bmw",
       "model": "X7",
-      "count": 12,
+      "count": 13,
       "file": "inventory/used-bmw-x7.json",
       "models": [
         {
           "model": "X7",
-          "count": 12
+          "count": 13
         }
       ]
     },
@@ -229,26 +256,26 @@
     {
       "condition": "used",
       "make": "bmw",
-      "model": "i4",
-      "count": 7,
-      "file": "inventory/used-bmw-i4.json",
+      "model": "4 Series",
+      "count": 8,
+      "file": "inventory/used-bmw-4-series.json",
       "models": [
         {
-          "model": "i4",
-          "count": 7
+          "model": "4 Series",
+          "count": 8
         }
       ]
     },
     {
       "condition": "used",
       "make": "bmw",
-      "model": "4 Series",
-      "count": 6,
-      "file": "inventory/used-bmw-4-series.json",
+      "model": "i4",
+      "count": 12,
+      "file": "inventory/used-bmw-i4.json",
       "models": [
         {
-          "model": "4 Series",
-          "count": 6
+          "model": "i4",
+          "count": 12
         }
       ]
     },
@@ -256,12 +283,12 @@
       "condition": "used",
       "make": "bmw",
       "model": "iX",
-      "count": 11,
+      "count": 16,
       "file": "inventory/used-bmw-ix.json",
       "models": [
         {
           "model": "iX",
-          "count": 11
+          "count": 16
         }
       ]
     },
@@ -269,12 +296,12 @@
       "condition": "used",
       "make": "bmw",
       "model": "M4",
-      "count": 5,
+      "count": 6,
       "file": "inventory/used-bmw-m4.json",
       "models": [
         {
           "model": "M4",
-          "count": 5
+          "count": 6
         }
       ]
     },
@@ -391,6 +418,19 @@
       "models": [
         {
           "model": "iX xDrive50 - Premium Essential Package",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "bmw",
+      "model": "i5",
+      "count": 1,
+      "file": "inventory/used-bmw-i5.json",
+      "models": [
+        {
+          "model": "i5",
           "count": 1
         }
       ]

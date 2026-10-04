@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T23:03:57+00:00",
-  "snapshot": "2026-10-03T23:03:57+00:00",
+  "generated_at": "2026-10-04T05:04:43+00:00",
+  "snapshot": "2026-10-04T05:04:43+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 13,
+  "count": 14,
   "vehicles": [
     {
       "pub_id": "island-ford-1c4pjlab6fw695457",
@@ -350,6 +350,34 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Victoria Hyundai"
+    },
+    {
+      "pub_id": "duncan-chrysler-dodge-jeep-ram-ltd-1c4pjmmb6pd113453",
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "drivetrain": "4WD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 52250,
+      "price_cad": 43988.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/2c4f09ed-a82f-42ee-9035-a20caeabc2b0_5bd1228c-9c2c-4ef7-8c46-d93e4c681edc.jpg",
+      "dealer_id": "duncan-chrysler-dodge-jeep-ram-ltd",
+      "vin": "1C4PJMMB6PD113453",
+      "stock": "F23CH34",
+      "listing_url": "https://www.duncandodge.ca/vehicles/2023/jeep/cherokee/duncan/bc/64366587/?sale_class=used",
+      "dealer_url": "https://www.duncandodge.ca/vehicles/2023/jeep/cherokee/duncan/bc/64366587/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T18:45:54",
+      "snapshot": "2026-10-03T18:54:06",
+      "go_url": "https://carwhisper.ca/go/duncan-chrysler-dodge-jeep-ram-ltd-1c4pjmmb6pd113453",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Chrysler Dodge Jeep Ram Ltd."
     }
   ]
 }

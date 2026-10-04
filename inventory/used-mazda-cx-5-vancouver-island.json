@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T23:03:57+00:00",
-  "snapshot": "2026-10-03T23:03:57+00:00",
+  "generated_at": "2026-10-04T05:04:43+00:00",
+  "snapshot": "2026-10-04T05:04:43+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "campus-nissan-jm3ke4dy5g0811585",
@@ -82,6 +82,34 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Victoria Hyundai"
+    },
+    {
+      "pub_id": "duncan-chrysler-dodge-jeep-ram-ltd-jm3kfbbm8p0140737",
+      "year": 2023,
+      "make": "Mazda",
+      "model": "CX-5",
+      "body_type": "suv",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 59220,
+      "price_cad": 31500.0,
+      "price_note": null,
+      "color": "Red",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/bdd8b596-3cda-4634-8e46-1144c1f20a41_f355013c-4622-4dc5-8d79-425a2e5c39a3.jpg",
+      "dealer_id": "duncan-chrysler-dodge-jeep-ram-ltd",
+      "vin": "JM3KFBBM8P0140737",
+      "stock": "FP40737",
+      "listing_url": "https://www.duncandodge.ca/vehicles/2023/mazda/cx-5/duncan/bc/70687853/?sale_class=used",
+      "dealer_url": "https://www.duncandodge.ca/vehicles/2023/mazda/cx-5/duncan/bc/70687853/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T18:46:27",
+      "snapshot": "2026-10-03T18:54:06",
+      "go_url": "https://carwhisper.ca/go/duncan-chrysler-dodge-jeep-ram-ltd-jm3kfbbm8p0140737",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Chrysler Dodge Jeep Ram Ltd."
     },
     {
       "pub_id": "duncan-hyundai-jm3kfbcl8s0609503",
