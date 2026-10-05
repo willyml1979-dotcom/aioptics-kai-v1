@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "richmond-hyundai-salct2bg5gh626481",
@@ -59,6 +59,32 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Kelowna Toyota Ltd."
+    },
+    {
+      "pub_id": "winnipeg-hyundai-salcj2fx2lh837051",
+      "year": 2020,
+      "make": "Land Rover",
+      "model": "Discovery Sport",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 120057,
+      "price_cad": 19500.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/9b4da7cd-a851-4f99-9e78-986732a9fefd_6a60af88-91d0-4698-be90-804e3285f041.jpg",
+      "dealer_id": "winnipeg-hyundai",
+      "vin": "SALCJ2FX2LH837051",
+      "stock": "6340A",
+      "listing_url": "https://www.winnipeghyundai.com/vehicles/2020/land-rover/discovery-sport/winnipeg/mb/69661994/?sale_class=used",
+      "dealer_url": "https://www.winnipeghyundai.com/vehicles/2020/land-rover/discovery-sport/winnipeg/mb/69661994/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T12:59:33",
+      "snapshot": "2026-10-04T13:06:40",
+      "go_url": "https://carwhisper.ca/go/winnipeg-hyundai-salcj2fx2lh837051",
+      "city": null,
+      "province": "MB",
+      "dealer_name": "Winnipeg Hyundai"
     }
   ]
 }

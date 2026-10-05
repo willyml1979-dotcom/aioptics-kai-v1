@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 30,
+  "count": 31,
   "vehicles": [
     {
       "pub_id": "bannister-gm-chilliwack-3n1cp5cv2sl464302",
@@ -841,6 +841,31 @@
       "city": "Sechelt",
       "province": "BC",
       "dealer_name": "South Coast Ford Sales Ltd."
+    },
+    {
+      "pub_id": "red-deer-nissan-3n1cp5cv6sl483497",
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Kicks Play",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 14446,
+      "price_cad": 25669.0,
+      "price_note": null,
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/5c4e70d1-c476-4b95-9d72-15a016c68b31_28b53657-e8a6-4c40-8517-ed8dc4a1c09d.jpg",
+      "dealer_id": "red-deer-nissan",
+      "vin": "3N1CP5CV6SL483497",
+      "stock": "RD37460",
+      "listing_url": "https://www.reddeernissan.com/vehicles/2025/nissan/kicks-play/red-deer/ab/68975472/?sale_class=used",
+      "dealer_url": "https://www.reddeernissan.com/vehicles/2025/nissan/kicks-play/red-deer/ab/68975472/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T13:07:25",
+      "snapshot": "2026-10-04T13:12:52",
+      "go_url": "https://carwhisper.ca/go/red-deer-nissan-3n1cp5cv6sl483497",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Red Deer Nissan"
     }
   ]
 }

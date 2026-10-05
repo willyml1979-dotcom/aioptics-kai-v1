@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 25,
+  "count": 26,
   "vehicles": [
     {
       "pub_id": "sun-country-toyota-5tfwa5db5tx442851",
@@ -175,6 +175,31 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Sun Country Toyota"
+    },
+    {
+      "pub_id": "comox-valley-toyota-5tfla5da0tx383976",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tundra",
+      "trim": "4x2 Double Cab SR",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": 57460.0,
+      "price_note": null,
+      "color": "Mudbath",
+      "dealer_id": "comox-valley-toyota",
+      "vin": "5TFLA5DA0TX383976",
+      "stock": "72098-477262",
+      "listing_url": "https://www.comoxvalleytoyota.com/new/2026-Toyota-Tundra.html",
+      "dealer_url": "https://www.comoxvalleytoyota.com/new/2026-Toyota-Tundra.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T00:58:52",
+      "snapshot": "2026-09-26T02:41:05",
+      "go_url": "https://carwhisper.ca/go/comox-valley-toyota-5tfla5da0tx383976",
+      "region": "Vancouver Island",
+      "city": "Courtenay",
+      "province": "BC",
+      "dealer_name": "Comox Valley Toyota"
     },
     {
       "pub_id": "jim-pattison-toyota-victoria-5tfkb5da3sx291641",

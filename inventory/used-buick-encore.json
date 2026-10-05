@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 14,
+  "count": 15,
   "vehicles": [
     {
       "pub_id": "castlegar-toyota-kl4cjesb7kb721553",
@@ -238,6 +238,36 @@
       "city": "Penticton",
       "province": "BC",
       "dealer_name": "Penticton Nissan"
+    },
+    {
+      "pub_id": "bannister-hyundai-kamloops-kl4cjesm7nb555766",
+      "year": 2022,
+      "make": "Buick",
+      "model": "Encore",
+      "trim": "Preferred AWD",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 77408,
+      "price_cad": 19988.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/inventory/RGQB36FDOVCGHCJBDI4PMC6ZTM.webp",
+      "dealer_id": "bannister-hyundai-kamloops",
+      "vin": "KL4CJESM7NB555766",
+      "stock": "51-2676",
+      "listing_url": "https://www.bannisterhyundaikamloops.com/inventory/2022-buick-encore-preferred-CKrNaxQoRhuQyzkt8mUZpAvdp",
+      "dealer_url": "https://www.bannisterhyundaikamloops.com/inventory/2022-buick-encore-preferred-CKrNaxQoRhuQyzkt8mUZpAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T15:13:17",
+      "snapshot": "2026-10-04T15:17:41",
+      "go_url": "https://carwhisper.ca/go/bannister-hyundai-kamloops-kl4cjesm7nb555766",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Bannister Hyundai Kamloops"
     },
     {
       "pub_id": "duncan-hyundai-kl4cjhsm9jb709017",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
   "condition": "new",
   "make": "toyota",
   "files": [
@@ -8,12 +8,12 @@
       "make": "toyota",
       "model": "Corolla",
       "shard": "part1",
-      "count": 32,
+      "count": 26,
       "file": "inventory/new-toyota-corolla-part1.json",
       "models": [
         {
           "model": "Corolla",
-          "count": 32
+          "count": 26
         }
       ]
     },
@@ -22,12 +22,12 @@
       "make": "toyota",
       "model": "Corolla",
       "shard": "part2",
-      "count": 32,
+      "count": 26,
       "file": "inventory/new-toyota-corolla-part2.json",
       "models": [
         {
           "model": "Corolla",
-          "count": 32
+          "count": 26
         }
       ]
     },
@@ -36,12 +36,12 @@
       "make": "toyota",
       "model": "Corolla",
       "shard": "part3",
-      "count": 32,
+      "count": 26,
       "file": "inventory/new-toyota-corolla-part3.json",
       "models": [
         {
           "model": "Corolla",
-          "count": 32
+          "count": 26
         }
       ]
     },
@@ -50,12 +50,26 @@
       "make": "toyota",
       "model": "Corolla",
       "shard": "part4",
-      "count": 30,
+      "count": 26,
       "file": "inventory/new-toyota-corolla-part4.json",
       "models": [
         {
           "model": "Corolla",
-          "count": 30
+          "count": 26
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "toyota",
+      "model": "Corolla",
+      "shard": "part5",
+      "count": 25,
+      "file": "inventory/new-toyota-corolla-part5.json",
+      "models": [
+        {
+          "model": "Corolla",
+          "count": 25
         }
       ]
     },
@@ -218,12 +232,12 @@
       "make": "toyota",
       "model": "RAV4",
       "shard": "Vancouver Island",
-      "count": 12,
+      "count": 11,
       "file": "inventory/new-toyota-rav4-vancouver-island.json",
       "models": [
         {
           "model": "RAV4",
-          "count": 12
+          "count": 11
         }
       ]
     },
@@ -274,12 +288,12 @@
       "make": "toyota",
       "model": "Prius Prime",
       "shard": "part4",
-      "count": 24,
+      "count": 25,
       "file": "inventory/new-toyota-prius-prime-part4.json",
       "models": [
         {
           "model": "Prius Prime",
-          "count": 24
+          "count": 25
         }
       ]
     },
@@ -371,12 +385,12 @@
       "make": "toyota",
       "model": "Tacoma",
       "shard": "part6",
-      "count": 28,
+      "count": 29,
       "file": "inventory/new-toyota-tacoma-part6.json",
       "models": [
         {
           "model": "Tacoma",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -466,12 +480,12 @@
       "condition": "new",
       "make": "toyota",
       "model": "Sienna",
-      "count": 30,
+      "count": 31,
       "file": "inventory/new-toyota-sienna.json",
       "models": [
         {
           "model": "Sienna",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -479,12 +493,12 @@
       "condition": "new",
       "make": "toyota",
       "model": "Grand Highlander",
-      "count": 17,
+      "count": 18,
       "file": "inventory/new-toyota-grand-highlander.json",
       "models": [
         {
           "model": "Grand Highlander",
-          "count": 17
+          "count": 18
         }
       ]
     },
@@ -563,12 +577,12 @@
       "make": "toyota",
       "model": "Tundra",
       "shard": "part6",
-      "count": 25,
+      "count": 26,
       "file": "inventory/new-toyota-tundra-part6.json",
       "models": [
         {
           "model": "Tundra",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -615,12 +629,12 @@
       "condition": "new",
       "make": "toyota",
       "model": "Prius",
-      "count": 18,
+      "count": 19,
       "file": "inventory/new-toyota-prius.json",
       "models": [
         {
           "model": "Prius",
-          "count": 18
+          "count": 19
         }
       ]
     },

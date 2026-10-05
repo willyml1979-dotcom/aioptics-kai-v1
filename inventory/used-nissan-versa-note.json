@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "pioneer-chrysler-jeep-3n1ce2cp7gl389822",
@@ -154,6 +154,33 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Victoria Hyundai"
+    },
+    {
+      "pub_id": "sherwood-park-chevrolet-3n1ce2cp9hl366561",
+      "year": 2017,
+      "make": "Nissan",
+      "model": "Versa Note",
+      "body_type": "hatchback",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 148640,
+      "price_cad": 8980.0,
+      "price_note": null,
+      "color": "Blue",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/5b4dd5eb-1a46-4cdc-99f2-671e29b169f0_f9e6b60b-a457-4ad4-8fc0-f1f1f76c4436.jpg",
+      "dealer_id": "sherwood-park-chevrolet",
+      "vin": "3N1CE2CP9HL366561",
+      "stock": "Z-26S29",
+      "listing_url": "https://www.sherwoodparkchev.com/vehicles/2017/nissan/versa-note/edmonton/ab/71444667/?sale_class=used",
+      "dealer_url": "https://www.sherwoodparkchev.com/vehicles/2017/nissan/versa-note/edmonton/ab/71444667/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T13:11:51",
+      "snapshot": "2026-10-04T13:54:20",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-3n1ce2cp9hl366561",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Chevrolet"
     }
   ]
 }

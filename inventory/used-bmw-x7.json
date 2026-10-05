@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 13,
+  "count": 14,
   "vehicles": [
     {
       "pub_id": "carter-gm-burnaby-5uxcw2c54kl080806",
@@ -216,6 +216,36 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Brian Jessel BMW"
+    },
+    {
+      "pub_id": "bannister-kia-penticton-5uxcw2c09l9c10911",
+      "year": 2020,
+      "make": "BMW",
+      "model": "X7",
+      "trim": "xDrive40i Sports Activity Vehicle",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 84361,
+      "price_cad": 44995.0,
+      "price_note": null,
+      "color": "Gray",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/inventory/NEJJVIDYAJHS3L5OBK6ETRX2RM.webp",
+      "dealer_id": "bannister-kia-penticton",
+      "vin": "5UXCW2C09L9C10911",
+      "stock": "5926PK96",
+      "listing_url": "https://www.bannisterkiapenticton.com/inventory/2020-bmw-x7-xdrive40i-Gu2S9NK7TqqG6YpLjKEKPwvdp",
+      "dealer_url": "https://www.bannisterkiapenticton.com/inventory/2020-bmw-x7-xdrive40i-Gu2S9NK7TqqG6YpLjKEKPwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T15:14:51",
+      "snapshot": "2026-10-04T15:25:57",
+      "go_url": "https://carwhisper.ca/go/bannister-kia-penticton-5uxcw2c09l9c10911",
+      "region": "Okanagan",
+      "city": "Penticton",
+      "province": "BC",
+      "dealer_name": "Bannister Kia Penticton"
     },
     {
       "pub_id": "kelowna-hyundai-5uxcw2c02m9f83239",

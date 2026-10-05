@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 10,
+  "count": 11,
   "vehicles": [
     {
       "pub_id": "capilano-volkswagen-1v2dp2ca4jc525820",
@@ -31,6 +31,33 @@
       "city": null,
       "province": "BC",
       "dealer_name": "Capilano Volkswagen"
+    },
+    {
+      "pub_id": "sherwood-park-chevrolet-1v2nr2ca3jc572593",
+      "year": 2018,
+      "make": "Volkswagen",
+      "model": "Atlas",
+      "body_type": "suv",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 183260,
+      "price_cad": 16980.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/3979fc0a-e702-4f54-b902-d10fcfc10811_1558ac26-45ac-43eb-a975-197d7808145e.jpg",
+      "dealer_id": "sherwood-park-chevrolet",
+      "vin": "1V2NR2CA3JC572593",
+      "stock": "Z-27TS3",
+      "listing_url": "https://www.sherwoodparkchev.com/vehicles/2018/volkswagen/atlas/edmonton/ab/71278331/?sale_class=used",
+      "dealer_url": "https://www.sherwoodparkchev.com/vehicles/2018/volkswagen/atlas/edmonton/ab/71278331/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T13:15:38",
+      "snapshot": "2026-10-04T13:54:20",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-1v2nr2ca3jc572593",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Chevrolet"
     },
     {
       "pub_id": "norden-volkswagen-1v2lr2ca9kc529417",

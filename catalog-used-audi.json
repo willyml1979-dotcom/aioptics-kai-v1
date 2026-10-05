@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
   "condition": "used",
   "make": "audi",
   "files": [
@@ -20,12 +20,12 @@
       "condition": "used",
       "make": "audi",
       "model": "Q3",
-      "count": 25,
+      "count": 26,
       "file": "inventory/used-audi-q3.json",
       "models": [
         {
           "model": "Q3",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -377,6 +377,19 @@
         {
           "model": "Q4 e-tron",
           "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "audi",
+      "model": "RS3",
+      "count": 1,
+      "file": "inventory/used-audi-rs3.json",
+      "models": [
+        {
+          "model": "RS3",
+          "count": 1
         }
       ]
     },

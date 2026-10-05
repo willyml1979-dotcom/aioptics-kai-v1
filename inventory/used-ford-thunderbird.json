@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "kelowna-toyota-ltd-1fahp60a82y102845",
@@ -30,6 +30,30 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Kelowna Toyota Ltd."
+    },
+    {
+      "pub_id": "sherwood-park-chevrolet-2j87n181776000000",
+      "year": 1972,
+      "make": "Ford",
+      "model": "Thunderbird",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 69758,
+      "price_cad": 22900.0,
+      "price_note": null,
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/953a9e3d-3f4c-4be1-9eb8-5b0ce4fca902_72f934c4-95bd-4d6a-9162-77eec71437d8.jpg",
+      "dealer_id": "sherwood-park-chevrolet",
+      "vin": "2J87N181776000000",
+      "stock": "SMC1591",
+      "listing_url": "https://www.sherwoodparkchev.com/vehicles/1972/ford/thunderbird/sherwood-park/ab/69424457/?sale_class=used",
+      "dealer_url": "https://www.sherwoodparkchev.com/vehicles/1972/ford/thunderbird/sherwood-park/ab/69424457/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T13:02:49",
+      "snapshot": "2026-10-04T13:54:20",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-2j87n181776000000",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Chevrolet"
     }
   ]
 }

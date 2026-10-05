@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 8,
+  "count": 9,
   "vehicles": [
     {
       "pub_id": "destination-burnaby-honda-happy-honda-nmtkhmbx2jr001344",
@@ -50,7 +50,7 @@
       "listing_url": "https://www.autowestbmw.com/used/2020-Toyota-C_HR.html",
       "dealer_url": "https://www.autowestbmw.com/used/2020-Toyota-C_HR.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:14:28",
-      "snapshot": "2026-10-03T16:16:52",
+      "snapshot": "2026-10-04T16:25:09",
       "go_url": "https://carwhisper.ca/go/auto-west-bmw-jtnkhmbx8l1077096",
       "region": "Lower Mainland",
       "city": "Richmond",
@@ -215,6 +215,32 @@
       "city": "Courtenay",
       "province": "BC",
       "dealer_name": "Comox Valley Dodge"
+    },
+    {
+      "pub_id": "sherwood-park-chevrolet-jtnkhmbx7l1075162",
+      "year": 2020,
+      "make": "Toyota",
+      "model": "C-HR",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 94177,
+      "price_cad": 22280.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/1f6c52eb-4b22-4fd0-9303-9d35947a2d4f_99acc096-e02a-4136-989f-e9f56db8bc39.jpg",
+      "dealer_id": "sherwood-park-chevrolet",
+      "vin": "JTNKHMBX7L1075162",
+      "stock": "Z-LW346",
+      "listing_url": "https://www.sherwoodparkchev.com/vehicles/2020/toyota/c-hr/edmonton/ab/71455074/?sale_class=used",
+      "dealer_url": "https://www.sherwoodparkchev.com/vehicles/2020/toyota/c-hr/edmonton/ab/71455074/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T13:21:18",
+      "snapshot": "2026-10-04T13:54:20",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-jtnkhmbx7l1075162",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Chevrolet"
     }
   ]
 }

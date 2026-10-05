@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 25,
+  "count": 26,
   "vehicles": [
     {
       "pub_id": "sullivan-motor-products-nelson-ltd-2c4rc1zg2vr618258",
@@ -50,8 +50,8 @@
       "stock": "13890018",
       "listing_url": "https://www.cranbrookdodge.ca/new/inventory/2027-Chrysler-Grand_Caravan-id13890018.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2027-Chrysler-Grand_Caravan-id13890018.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T22:26:45",
-      "snapshot": "2026-10-03T15:37:51",
+      "last_verified": "2026-10-04T15:57:31",
+      "snapshot": "2026-10-04T15:57:49",
       "go_url": "https://carwhisper.ca/go/cranbrook-dodge-2c4rc1zg2vr557297",
       "region": "Kootenays",
       "city": "Cranbrook",
@@ -77,8 +77,8 @@
       "stock": "13929030",
       "listing_url": "https://www.cranbrookdodge.ca/new/inventory/2027-Chrysler-Grand_Caravan-id13929030.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2027-Chrysler-Grand_Caravan-id13929030.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T22:26:57",
-      "snapshot": "2026-10-03T15:37:51",
+      "last_verified": "2026-10-04T15:57:44",
+      "snapshot": "2026-10-04T15:57:49",
       "go_url": "https://carwhisper.ca/go/cranbrook-dodge-2c4rc1zg0vr557296",
       "region": "Kootenays",
       "city": "Cranbrook",
@@ -655,6 +655,33 @@
       "city": "Gibsons",
       "province": "BC",
       "dealer_name": "Haley Dodge SC"
+    },
+    {
+      "pub_id": "vaughan-chrysler-2c4rc1zg8vr565145",
+      "year": 2027,
+      "make": "Chrysler",
+      "model": "Grand Caravan",
+      "trim": "SXT",
+      "drivetrain": "FWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "odometer_km": 18,
+      "price_cad": 50103.0,
+      "price_note": null,
+      "color": "Diamond black crystal pearl",
+      "photo_url": "https://img.sm360.ca/images/inventory/vaughanchrysler-677/chrysler/grand-caravan/2027/38456534/38456534_09384_2027-chrysler-grand-caravan_013.jpg",
+      "dealer_id": "vaughan-chrysler",
+      "vin": "2C4RC1ZG8VR565145",
+      "stock": "270004",
+      "listing_url": "https://www.vaughanchrysler.com/en/new-inventory/chrysler/grand-caravan/2027-chrysler-grand-caravan-id38456534",
+      "dealer_url": "https://www.vaughanchrysler.com/en/new-inventory/chrysler/grand-caravan/2027-chrysler-grand-caravan-id38456534?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T15:28:50",
+      "snapshot": "2026-10-04T15:31:52",
+      "go_url": "https://carwhisper.ca/go/vaughan-chrysler-2c4rc1zg8vr565145",
+      "city": null,
+      "province": "ON",
+      "dealer_name": "Vaughan Chrysler"
     }
   ]
 }

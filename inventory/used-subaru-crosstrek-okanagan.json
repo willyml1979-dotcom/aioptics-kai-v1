@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 22,
+  "count": 23,
   "vehicles": [
     {
       "pub_id": "kelowna-chevrolet-jf2gtamc3jh350694",
@@ -253,6 +253,36 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Kelowna Subaru"
+    },
+    {
+      "pub_id": "bannister-kia-penticton-jf2guabcxrh283362",
+      "year": 2024,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "trim": "Convenience AWD",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 75550,
+      "price_cad": 26995.0,
+      "price_note": null,
+      "color": "Blue",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/inventory/P6VGNSXCCVGTZC44OOBLL5CJOY.webp",
+      "dealer_id": "bannister-kia-penticton",
+      "vin": "JF2GUABCXRH283362",
+      "stock": "5926PK163",
+      "listing_url": "https://www.bannisterkiapenticton.com/inventory/2024-subaru-crosstrek-convenience-jTZQkh1xTWeDYP7l45IBHQvdp",
+      "dealer_url": "https://www.bannisterkiapenticton.com/inventory/2024-subaru-crosstrek-convenience-jTZQkh1xTWeDYP7l45IBHQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T15:24:06",
+      "snapshot": "2026-10-04T15:25:57",
+      "go_url": "https://carwhisper.ca/go/bannister-kia-penticton-jf2guabcxrh283362",
+      "region": "Okanagan",
+      "city": "Penticton",
+      "province": "BC",
+      "dealer_name": "Bannister Kia Penticton"
     },
     {
       "pub_id": "harmony-acura-jf2gtapc8m8339433",

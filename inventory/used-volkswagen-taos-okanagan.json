@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 13,
+  "count": 14,
   "vehicles": [
     {
       "pub_id": "turner-volkswagen-3vvax7b22pm331954",
@@ -242,6 +242,36 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Kelowna Chevrolet"
+    },
+    {
+      "pub_id": "bannister-kia-penticton-3vvuc7b21tm016257",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "trim": "Comfortline 4MOTION",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 4732,
+      "price_cad": 33995.0,
+      "price_note": null,
+      "color": "Gray",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/inventory/TAQICD543RG7BKFMKCXVBZURTU.webp",
+      "dealer_id": "bannister-kia-penticton",
+      "vin": "3VVUC7B21TM016257",
+      "stock": "5926PK150",
+      "listing_url": "https://www.bannisterkiapenticton.com/inventory/2026-volkswagen-taos-comfortline-W7T8ouUbQV6wyJweK5cgxQvdp",
+      "dealer_url": "https://www.bannisterkiapenticton.com/inventory/2026-volkswagen-taos-comfortline-W7T8ouUbQV6wyJweK5cgxQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T15:25:39",
+      "snapshot": "2026-10-04T15:25:57",
+      "go_url": "https://carwhisper.ca/go/bannister-kia-penticton-3vvuc7b21tm016257",
+      "region": "Okanagan",
+      "city": "Penticton",
+      "province": "BC",
+      "dealer_name": "Bannister Kia Penticton"
     },
     {
       "pub_id": "turner-volkswagen-3vv4c7b23sm065359",

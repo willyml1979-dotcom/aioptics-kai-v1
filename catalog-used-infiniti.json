@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
   "condition": "used",
   "make": "infiniti",
   "files": [
@@ -20,12 +20,12 @@
       "condition": "used",
       "make": "infiniti",
       "model": "Q50",
-      "count": 4,
+      "count": 5,
       "file": "inventory/used-infiniti-q50.json",
       "models": [
         {
           "model": "Q50",
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -33,12 +33,12 @@
       "condition": "used",
       "make": "infiniti",
       "model": "QX60",
-      "count": 9,
+      "count": 12,
       "file": "inventory/used-infiniti-qx60.json",
       "models": [
         {
           "model": "QX60",
-          "count": 9
+          "count": 12
         }
       ]
     },
@@ -59,12 +59,12 @@
       "condition": "used",
       "make": "infiniti",
       "model": "Q60",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-infiniti-q60.json",
       "models": [
         {
           "model": "Q60",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -168,6 +168,19 @@
       "models": [
         {
           "model": "QX568 Passenger 4dr All-Wheel Drive",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "infiniti",
+      "model": "QX60 BASE",
+      "count": 1,
+      "file": "inventory/used-infiniti-qx60-base.json",
+      "models": [
+        {
+          "model": "QX60 BASE",
           "count": 1
         }
       ]

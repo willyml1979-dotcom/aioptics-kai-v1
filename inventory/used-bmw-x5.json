@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 27,
+  "count": 28,
   "vehicles": [
     {
       "pub_id": "brian-jessel-bmw-5uxzv4c56cl763147",
@@ -685,6 +685,31 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Country Hills Nissan"
+    },
+    {
+      "pub_id": "red-deer-nissan-5uxkt0c50h0s79970",
+      "year": 2017,
+      "make": "BMW",
+      "model": "X5",
+      "propulsion": "hybrid",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 129383,
+      "price_cad": 23449.0,
+      "price_note": null,
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/a1dea831-be80-49b8-840a-893593aeea78_a14019c8-a833-4ba9-9d04-975fb850d56a.jpg",
+      "dealer_id": "red-deer-nissan",
+      "vin": "5UXKT0C50H0S79970",
+      "stock": "RD08570",
+      "listing_url": "https://www.reddeernissan.com/vehicles/2017/bmw/x5/red-deer/ab/69684390/?sale_class=used",
+      "dealer_url": "https://www.reddeernissan.com/vehicles/2017/bmw/x5/red-deer/ab/69684390/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T12:59:45",
+      "snapshot": "2026-10-04T13:12:52",
+      "go_url": "https://carwhisper.ca/go/red-deer-nissan-5uxkt0c50h0s79970",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Red Deer Nissan"
     },
     {
       "pub_id": "country-hills-nissan-5uxju4c02lle45517",

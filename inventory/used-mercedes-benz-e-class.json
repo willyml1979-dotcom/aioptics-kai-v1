@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "chilliwack-mitsubishi-wdbuf82j24x113836",
@@ -90,6 +90,30 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Kelowna Toyota Ltd."
+    },
+    {
+      "pub_id": "bannister-kia-penticton-wdbjf55f0tj022669",
+      "year": 1996,
+      "make": "Mercedes-benz",
+      "model": "E CLASS",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "Gray",
+      "dealer_id": "bannister-kia-penticton",
+      "vin": "WDBJF55F0TJ022669",
+      "stock": "5926SP6",
+      "listing_url": "https://www.bannisterkiapenticton.com/inventory/1996-mercedes-benz-e-class-8FHWSprhTlqNN7a61yAR0gvdp",
+      "dealer_url": "https://www.bannisterkiapenticton.com/inventory/1996-mercedes-benz-e-class-8FHWSprhTlqNN7a61yAR0gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T15:11:09",
+      "snapshot": "2026-10-04T15:25:57",
+      "go_url": "https://carwhisper.ca/go/bannister-kia-penticton-wdbjf55f0tj022669",
+      "region": "Okanagan",
+      "city": "Penticton",
+      "province": "BC",
+      "dealer_name": "Bannister Kia Penticton"
     },
     {
       "pub_id": "country-hills-nissan-wdbuf65j15a640187",

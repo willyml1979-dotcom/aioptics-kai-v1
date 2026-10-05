@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 14,
+  "count": 15,
   "vehicles": [
     {
       "pub_id": "destination-kingsway-honda-vancouver-jm3tcbdy5k0330579",
@@ -319,6 +319,34 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Duncan Hyundai"
+    },
+    {
+      "pub_id": "sherwood-park-chevrolet-jm3tcbcy1g0102183",
+      "year": 2016,
+      "make": "Mazda",
+      "model": "CX-9",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 148964,
+      "price_cad": 16980.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/108c2437-876d-4e84-93ae-3e55f0b7c1ed_f7953e50-ecfa-4f82-871f-b5a904356a7e.jpg",
+      "dealer_id": "sherwood-park-chevrolet",
+      "vin": "JM3TCBCY1G0102183",
+      "stock": "S-SPC20",
+      "listing_url": "https://www.sherwoodparkchev.com/vehicles/2016/mazda/cx-9/edmonton/ab/71255285/?sale_class=used",
+      "dealer_url": "https://www.sherwoodparkchev.com/vehicles/2016/mazda/cx-9/edmonton/ab/71255285/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T13:08:56",
+      "snapshot": "2026-10-04T13:54:20",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-jm3tcbcy1g0102183",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Chevrolet"
     },
     {
       "pub_id": "sherwood-park-hyundai-jm3tcbey3j0206145",

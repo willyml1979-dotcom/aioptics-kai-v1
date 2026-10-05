@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 23,
+  "count": 24,
   "vehicles": [
     {
       "pub_id": "richmond-hyundai-3mvdmbdm6pm537914",
@@ -272,7 +272,7 @@
       "listing_url": "https://www.kiawest.com/vehicles/2023/mazda/cx-30/coquitlam/bc/70448246/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2023/mazda/cx-30/coquitlam/bc/70448246/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T16:30:28",
-      "snapshot": "2026-10-03T22:58:16",
+      "snapshot": "2026-10-04T11:04:47",
       "go_url": "https://carwhisper.ca/go/go-kia-west-3mvdmbdm3pm500934",
       "region": "Lower Mainland",
       "city": "Coquitlam",
@@ -645,6 +645,33 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Discovery Honda"
+    },
+    {
+      "pub_id": "sherwood-park-chevrolet-3mvdmbdl2mm208243",
+      "year": 2021,
+      "make": "Mazda",
+      "model": "CX-30",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 60444,
+      "price_cad": 28980.0,
+      "price_note": null,
+      "color": "Blue",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/e2d2a149-c022-4c49-a7d2-b14c40cfc691_f0a89011-5f23-4a67-8bb0-5414687ed9fe.jpg",
+      "dealer_id": "sherwood-park-chevrolet",
+      "vin": "3MVDMBDL2MM208243",
+      "stock": "S-27EQ3",
+      "listing_url": "https://www.sherwoodparkchev.com/vehicles/2021/mazda/cx-30/sherwood-park/ab/71446462/?sale_class=used",
+      "dealer_url": "https://www.sherwoodparkchev.com/vehicles/2021/mazda/cx-30/sherwood-park/ab/71446462/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T13:23:40",
+      "snapshot": "2026-10-04T13:54:20",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-3mvdmbdl2mm208243",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Chevrolet"
     }
   ]
 }

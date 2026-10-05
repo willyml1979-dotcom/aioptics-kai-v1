@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 15,
+  "count": 17,
   "vehicles": [
     {
       "pub_id": "chilliwack-mitsubishi-3c4pddfgxdt709056",
@@ -277,6 +277,36 @@
       "dealer_name": "Penticton Nissan"
     },
     {
+      "pub_id": "bannister-kia-penticton-3c4pddgg9jt359395",
+      "year": 2018,
+      "make": "Dodge",
+      "model": "Journey",
+      "trim": "Crossroad AWD",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 109462,
+      "price_cad": 14995.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/inventory/JY7VII56JFBHLKOXHPXFXUCXMM.webp",
+      "dealer_id": "bannister-kia-penticton",
+      "vin": "3C4PDDGG9JT359395",
+      "stock": "5926PK123",
+      "listing_url": "https://www.bannisterkiapenticton.com/inventory/2018-dodge-journey-crossroad-kl0CduA8SCa1QCE0qMxFQgvdp",
+      "dealer_url": "https://www.bannisterkiapenticton.com/inventory/2018-dodge-journey-crossroad-kl0CduA8SCa1QCE0qMxFQgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T15:13:37",
+      "snapshot": "2026-10-04T15:25:57",
+      "go_url": "https://carwhisper.ca/go/bannister-kia-penticton-3c4pddgg9jt359395",
+      "region": "Okanagan",
+      "city": "Penticton",
+      "province": "BC",
+      "dealer_name": "Bannister Kia Penticton"
+    },
+    {
       "pub_id": "penticton-nissan-3c4pddfg9kt794551",
       "year": 2019,
       "make": "Dodge",
@@ -410,6 +440,31 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Duncan Hyundai"
+    },
+    {
+      "pub_id": "red-deer-nissan-3d4pg5fv4at243294",
+      "year": 2010,
+      "make": "Dodge",
+      "model": "Journey",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 193213,
+      "price_cad": 2890.0,
+      "price_note": null,
+      "photo_url": "https://www.reddeernissan.com/wp-content/themes/convertus-achilles/achilles/assets/images/srp-placeholder/PV.jpg",
+      "dealer_id": "red-deer-nissan",
+      "vin": "3D4PG5FV4AT243294",
+      "stock": "RDN4312",
+      "listing_url": "https://www.reddeernissan.com/vehicles/2010/dodge/journey/red-deer/ab/71413838/?sale_class=used",
+      "dealer_url": "https://www.reddeernissan.com/vehicles/2010/dodge/journey/red-deer/ab/71413838/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T12:59:19",
+      "snapshot": "2026-10-04T13:12:52",
+      "go_url": "https://carwhisper.ca/go/red-deer-nissan-3d4pg5fv4at243294",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Red Deer Nissan"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "auto-west-bmw-jn1ev7el2hm551797",
@@ -21,12 +21,40 @@
       "listing_url": "https://www.autowestbmw.com/used/2017-Infiniti-Q60.html",
       "dealer_url": "https://www.autowestbmw.com/used/2017-Infiniti-Q60.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:13:02",
-      "snapshot": "2026-10-03T16:16:52",
+      "snapshot": "2026-10-04T16:25:09",
       "go_url": "https://carwhisper.ca/go/auto-west-bmw-jn1ev7el2hm551797",
       "region": "Lower Mainland",
       "city": "Richmond",
       "province": "BC",
       "dealer_name": "Auto West BMW"
+    },
+    {
+      "pub_id": "sherwood-park-chevrolet-jn1ev7elxhm552924",
+      "year": 2017,
+      "make": "Infiniti",
+      "model": "Q60",
+      "body_type": "coupe",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 85386,
+      "price_cad": 27980.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/1f05c12a-3cdf-48b1-a84d-22eeb89355dc_ce61e762-3688-4869-a44d-11e9a6332e69.jpg",
+      "dealer_id": "sherwood-park-chevrolet",
+      "vin": "JN1EV7ELXHM552924",
+      "stock": "S-26CL3",
+      "listing_url": "https://www.sherwoodparkchev.com/vehicles/2017/infiniti/q60-coupe/sherwood-park/ab/70993148/?sale_class=used",
+      "dealer_url": "https://www.sherwoodparkchev.com/vehicles/2017/infiniti/q60-coupe/sherwood-park/ab/70993148/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T13:11:13",
+      "snapshot": "2026-10-04T13:54:20",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-jn1ev7elxhm552924",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Chevrolet"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 11,
+  "count": 12,
   "vehicles": [
     {
       "pub_id": "chilliwack-mitsubishi-1gyfzfr40kf163430",
@@ -235,6 +235,32 @@
       "city": "Nanaimo",
       "province": "BC",
       "dealer_name": "Laird Wheaton GM"
+    },
+    {
+      "pub_id": "red-deer-nissan-1gyfzfr40kf105933",
+      "year": 2019,
+      "make": "Cadillac",
+      "model": "XT4",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 117897,
+      "price_cad": 26995.0,
+      "price_note": null,
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/1d7215c7-0f6d-4e15-9bec-cd8836dc2eb2_d39085b7-db86-4052-9617-dce4410ed152.jpg",
+      "dealer_id": "red-deer-nissan",
+      "vin": "1GYFZFR40KF105933",
+      "stock": "ICEN510",
+      "listing_url": "https://www.reddeernissan.com/vehicles/2019/cadillac/xt4/red-deer/ab/70988496/?sale_class=used",
+      "dealer_url": "https://www.reddeernissan.com/vehicles/2019/cadillac/xt4/red-deer/ab/70988496/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T13:01:54",
+      "snapshot": "2026-10-04T13:12:52",
+      "go_url": "https://carwhisper.ca/go/red-deer-nissan-1gyfzfr40kf105933",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Red Deer Nissan"
     },
     {
       "pub_id": "country-hills-nissan-1gyfzfr41rf105028",

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "northland-nissan-5n1az3ds9tc129621",
@@ -27,6 +27,50 @@
       "city": "Prince George",
       "province": "BC",
       "dealer_name": "Northland Nissan"
+    },
+    {
+      "pub_id": "red-deer-nissan-5n1az3ds4vc100112",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Murano Platinum",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "red-deer-nissan",
+      "vin": "5N1AZ3DS4VC100112",
+      "stock": "RDN1001",
+      "listing_url": "https://www.reddeernissan.com/vehicles/2027/nissan/murano/red-deer/ab/71216195/?sale_class=new",
+      "dealer_url": "https://www.reddeernissan.com/vehicles/2027/nissan/murano/red-deer/ab/71216195/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T13:43:25",
+      "snapshot": "2026-10-04T13:43:58",
+      "go_url": "https://carwhisper.ca/go/red-deer-nissan-5n1az3ds4vc100112",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Red Deer Nissan"
+    },
+    {
+      "pub_id": "red-deer-nissan-5n1az3ds3vc104734",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Murano Platinum",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "red-deer-nissan",
+      "vin": "5N1AZ3DS3VC104734",
+      "stock": "RDN1047",
+      "listing_url": "https://www.reddeernissan.com/vehicles/2027/nissan/murano/red-deer/ab/71348765/?sale_class=new",
+      "dealer_url": "https://www.reddeernissan.com/vehicles/2027/nissan/murano/red-deer/ab/71348765/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T13:43:52",
+      "snapshot": "2026-10-04T13:43:58",
+      "go_url": "https://carwhisper.ca/go/red-deer-nissan-5n1az3ds3vc104734",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Red Deer Nissan"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 7,
+  "count": 8,
   "vehicles": [
     {
       "pub_id": "jim-pattison-toyota-downtown-jtdkdtb34c1006792",
@@ -145,6 +145,36 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Kelowna Toyota Ltd."
+    },
+    {
+      "pub_id": "bannister-kia-penticton-jtdadabu9r3013260",
+      "year": 2024,
+      "make": "Toyota",
+      "model": "Prius",
+      "trim": "XLE AWD-e",
+      "body_type": "hatchback",
+      "drivetrain": "AWD",
+      "propulsion": "hybrid",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 46500,
+      "price_cad": 34995.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/inventory/3PTHMN5PBNFN7IIBHFJL4SRURU.webp",
+      "dealer_id": "bannister-kia-penticton",
+      "vin": "JTDADABU9R3013260",
+      "stock": "5926PK135",
+      "listing_url": "https://www.bannisterkiapenticton.com/inventory/2024-toyota-prius-xle-U5OwYsLIT72RHcAXdc9q5wvdp",
+      "dealer_url": "https://www.bannisterkiapenticton.com/inventory/2024-toyota-prius-xle-U5OwYsLIT72RHcAXdc9q5wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T15:24:16",
+      "snapshot": "2026-10-04T15:25:57",
+      "go_url": "https://carwhisper.ca/go/bannister-kia-penticton-jtdadabu9r3013260",
+      "region": "Okanagan",
+      "city": "Penticton",
+      "province": "BC",
+      "dealer_name": "Bannister Kia Penticton"
     },
     {
       "pub_id": "nanaimo-toyota-jtdadabu4s3029937",

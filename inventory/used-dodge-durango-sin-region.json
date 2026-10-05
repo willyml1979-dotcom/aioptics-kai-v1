@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 12,
+  "count": 14,
   "vehicles": [
     {
       "pub_id": "country-hills-nissan-1c4sdjet6hc666165",
@@ -164,6 +164,33 @@
       "dealer_name": "Haley Dodge SC"
     },
     {
+      "pub_id": "vaughan-chrysler-1c4sdjct6mc875256",
+      "year": 2021,
+      "make": "Dodge",
+      "model": "Durango",
+      "trim": "R/T AWD",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 38800,
+      "price_cad": 43388.0,
+      "price_note": null,
+      "color": "White Knuckle",
+      "photo_url": "https://img.sm360.ca/images/inventory/vaughanchrysler-677/dodge/durango/2021/39102448/39102448_07803_b3d7fd44ddfe55884bb94b1d141a3c26.jpeg",
+      "dealer_id": "vaughan-chrysler",
+      "vin": "1C4SDJCT6MC875256",
+      "stock": "M5113",
+      "listing_url": "https://www.vaughanchrysler.com/en/used-inventory/dodge/durango/2021-dodge-durango-id39102448",
+      "dealer_url": "https://www.vaughanchrysler.com/en/used-inventory/dodge/durango/2021-dodge-durango-id39102448?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T16:13:38",
+      "snapshot": "2026-10-04T16:16:25",
+      "go_url": "https://carwhisper.ca/go/vaughan-chrysler-1c4sdjct6mc875256",
+      "city": null,
+      "province": "ON",
+      "dealer_name": "Vaughan Chrysler"
+    },
+    {
       "pub_id": "go-auto-brampton-chrysler-1c4rdjdg6sc562396",
       "year": 2025,
       "make": "Dodge",
@@ -290,7 +317,7 @@
       "listing_url": "https://www.gorichmondkia.ca/vehicles/2026/dodge/durango/richmond/bc/ad12998649/?sale_class=used",
       "dealer_url": "https://www.gorichmondkia.ca/vehicles/2026/dodge/durango/richmond/bc/ad12998649/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T15:59:24",
-      "snapshot": "2026-10-03T16:12:44",
+      "snapshot": "2026-10-04T16:21:05",
       "go_url": "https://carwhisper.ca/go/go-richmond-kia-1c4sdjct5tc216745",
       "city": null,
       "province": "BC",
@@ -321,6 +348,33 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Country Hills Nissan"
+    },
+    {
+      "pub_id": "vaughan-chrysler-1c4sdjgj5pc636598",
+      "year": 2023,
+      "make": "Dodge",
+      "model": "Durango",
+      "trim": "SRT 392 AWD",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 34452,
+      "price_cad": 68688.0,
+      "price_note": null,
+      "color": "Baltic Grey (MET)",
+      "photo_url": "https://img.sm360.ca/images/inventory/vaughanchrysler-677/dodge/durango/2023/38874835/38874835_06792_a1b47f435cf624c84ebaa1d1d75d086b.jpeg",
+      "dealer_id": "vaughan-chrysler",
+      "vin": "1C4SDJGJ5PC636598",
+      "stock": "P5152",
+      "listing_url": "https://www.vaughanchrysler.com/en/used-inventory/dodge/durango/2023-dodge-durango-id38874835",
+      "dealer_url": "https://www.vaughanchrysler.com/en/used-inventory/dodge/durango/2023-dodge-durango-id38874835?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T16:13:54",
+      "snapshot": "2026-10-04T16:16:25",
+      "go_url": "https://carwhisper.ca/go/vaughan-chrysler-1c4sdjgj5pc636598",
+      "city": null,
+      "province": "ON",
+      "dealer_name": "Vaughan Chrysler"
     }
   ]
 }

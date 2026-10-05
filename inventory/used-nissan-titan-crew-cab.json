@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "tricity-mitsubishi-1n6aa1e56kn523554",
@@ -58,6 +58,34 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Duncan Hyundai"
+    },
+    {
+      "pub_id": "sherwood-park-chevrolet-1n6aa1ej3hn518611",
+      "year": 2017,
+      "make": "Nissan",
+      "model": "Titan Crew Cab",
+      "body_type": "truck",
+      "drivetrain": "4WD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 238025,
+      "price_cad": 15966.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/6b00ee76-33f2-4c7a-84ee-476228dfdd80_9b62f408-ee2a-45e0-a3ad-9554bf2ed9ed.jpg",
+      "dealer_id": "sherwood-park-chevrolet",
+      "vin": "1N6AA1EJ3HN518611",
+      "stock": "Z-SPC74",
+      "listing_url": "https://www.sherwoodparkchev.com/vehicles/2017/nissan/titan-crew-cab/sherwood-park/ab/70546362/?sale_class=used",
+      "dealer_url": "https://www.sherwoodparkchev.com/vehicles/2017/nissan/titan-crew-cab/sherwood-park/ab/70546362/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T13:11:40",
+      "snapshot": "2026-10-04T13:54:20",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-1n6aa1ej3hn518611",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Chevrolet"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 13,
+  "count": 14,
   "vehicles": [
     {
       "pub_id": "openroad-mercedes-benz-surrey-1gys4ckj7hr401843",
@@ -48,7 +48,7 @@
       "listing_url": "https://www.kiawest.com/vehicles/2019/cadillac/escalade/coquitlam/bc/71308644/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2019/cadillac/escalade/coquitlam/bc/71308644/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:36:38",
-      "snapshot": "2026-10-03T22:58:16",
+      "snapshot": "2026-10-04T11:04:47",
       "go_url": "https://carwhisper.ca/go/go-kia-west-1gys4ckj7kr179120",
       "region": "Lower Mainland",
       "city": "Coquitlam",
@@ -322,6 +322,31 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Country Hills Nissan"
+    },
+    {
+      "pub_id": "red-deer-nissan-1gys4dkj1kr365113",
+      "year": 2019,
+      "make": "Cadillac",
+      "model": "Escalade",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 91971,
+      "price_cad": 54879.0,
+      "price_note": null,
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/ca87e0b4-09f8-4bf3-a1f1-a1f665847d0e_33496bb2-bb13-4733-aaa1-98d5db208772.jpg",
+      "dealer_id": "red-deer-nissan",
+      "vin": "1GYS4DKJ1KR365113",
+      "stock": "RD43186",
+      "listing_url": "https://www.reddeernissan.com/vehicles/2019/cadillac/escalade/red-deer/ab/70180293/?sale_class=used",
+      "dealer_url": "https://www.reddeernissan.com/vehicles/2019/cadillac/escalade/red-deer/ab/70180293/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T13:01:45",
+      "snapshot": "2026-10-04T13:12:52",
+      "go_url": "https://carwhisper.ca/go/red-deer-nissan-1gys4dkj1kr365113",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Red Deer Nissan"
     },
     {
       "pub_id": "country-hills-nissan-1gys9gkl0tr197700",

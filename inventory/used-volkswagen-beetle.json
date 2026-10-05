@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "journey-vw-of-coquitlam-3vw5x7at8dm828560",
@@ -85,6 +85,35 @@
       "city": "Abbotsford",
       "province": "BC",
       "dealer_name": "Abbotsford Volkswagen"
+    },
+    {
+      "pub_id": "bannister-kia-penticton-3vwj07at0fm648673",
+      "year": 2015,
+      "make": "Volkswagen",
+      "model": "Beetle",
+      "trim": "2dr Cpe 1.8 TSI Auto Comfortline",
+      "body_type": "hatchback",
+      "drivetrain": "FWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 112037,
+      "price_cad": 14995.0,
+      "price_note": null,
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/inventory/LA3F7HJFF5FI5NUG65DXK5SHHA.webp",
+      "dealer_id": "bannister-kia-penticton",
+      "vin": "3VWJ07AT0FM648673",
+      "stock": "5926PK175",
+      "listing_url": "https://www.bannisterkiapenticton.com/inventory/2015-volkswagen-beetle-coupe-comfortline-QBTrJDzlRgu7ihcmZrvBBQvdp",
+      "dealer_url": "https://www.bannisterkiapenticton.com/inventory/2015-volkswagen-beetle-coupe-comfortline-QBTrJDzlRgu7ihcmZrvBBQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T15:12:01",
+      "snapshot": "2026-10-04T15:25:57",
+      "go_url": "https://carwhisper.ca/go/bannister-kia-penticton-3vwj07at0fm648673",
+      "region": "Okanagan",
+      "city": "Penticton",
+      "province": "BC",
+      "dealer_name": "Bannister Kia Penticton"
     },
     {
       "pub_id": "comox-valley-vw-3vw5daat6km501920",

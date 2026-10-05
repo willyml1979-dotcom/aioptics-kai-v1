@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "marine-chrysler-dodge-jeep-ltd-1g1fy6s04p4196622",
@@ -87,6 +87,32 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Kelowna Chevrolet"
+    },
+    {
+      "pub_id": "bannister-kia-penticton-1g1fy6s05p4149955",
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Bolt EUV",
+      "trim": "LT",
+      "propulsion": "electric",
+      "propulsion_source": "model_variant",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "White",
+      "dealer_id": "bannister-kia-penticton",
+      "vin": "1G1FY6S05P4149955",
+      "stock": "5926PK2",
+      "listing_url": "https://www.bannisterkiapenticton.com/inventory/2023-chevrolet-bolt-euv-lt-BVWQo4leTH2YPt7UdBgj4Qvdp",
+      "dealer_url": "https://www.bannisterkiapenticton.com/inventory/2023-chevrolet-bolt-euv-lt-BVWQo4leTH2YPt7UdBgj4Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T15:20:03",
+      "snapshot": "2026-10-04T15:25:57",
+      "go_url": "https://carwhisper.ca/go/bannister-kia-penticton-1g1fy6s05p4149955",
+      "region": "Okanagan",
+      "city": "Penticton",
+      "province": "BC",
+      "dealer_name": "Bannister Kia Penticton"
     },
     {
       "pub_id": "bannister-chevrolet-cadillac-kamloops-ltd-1g1fz6s01p4207928",

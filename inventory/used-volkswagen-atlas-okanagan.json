@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 15,
+  "count": 16,
   "vehicles": [
     {
       "pub_id": "harmony-acura-1v2nr2ca8jc586764",
@@ -265,6 +265,36 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Turner Volkswagen"
+    },
+    {
+      "pub_id": "bannister-kia-penticton-1v2br2ca9rc501784",
+      "year": 2024,
+      "make": "Volkswagen",
+      "model": "Atlas",
+      "trim": "Highline 2.0 TSI 4MOTION",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 124857,
+      "price_cad": 36995.0,
+      "price_note": null,
+      "color": "Silver",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/inventory/3WHT3GALNNASBANN2YSMM6HPX4.webp",
+      "dealer_id": "bannister-kia-penticton",
+      "vin": "1V2BR2CA9RC501784",
+      "stock": "5926PK170",
+      "listing_url": "https://www.bannisterkiapenticton.com/inventory/2024-volkswagen-atlas-highline-xJJPqEcZQAi5RGIT0HP5Gwvdp",
+      "dealer_url": "https://www.bannisterkiapenticton.com/inventory/2024-volkswagen-atlas-highline-xJJPqEcZQAi5RGIT0HP5Gwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T15:24:27",
+      "snapshot": "2026-10-04T15:25:57",
+      "go_url": "https://carwhisper.ca/go/bannister-kia-penticton-1v2br2ca9rc501784",
+      "region": "Okanagan",
+      "city": "Penticton",
+      "province": "BC",
+      "dealer_name": "Bannister Kia Penticton"
     },
     {
       "pub_id": "turner-volkswagen-1v2lr2ca3pc527380",

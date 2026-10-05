@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 9,
+  "count": 10,
   "vehicles": [
     {
       "pub_id": "pioneer-chrysler-jeep-3gnkdcrj2rs115643",
@@ -143,6 +143,36 @@
       "city": "Richmond",
       "province": "BC",
       "dealer_name": "Dueck Richmond"
+    },
+    {
+      "pub_id": "bannister-kia-penticton-3gnkdcrj6rs189440",
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Blazer EV",
+      "trim": "RS eAWD",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "electric",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 31790,
+      "price_cad": 39995.0,
+      "price_note": null,
+      "color": "Red",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/trim/ER4RJIMDVRAMZJGX7SQ2BICL74.webp",
+      "dealer_id": "bannister-kia-penticton",
+      "vin": "3GNKDCRJ6RS189440",
+      "stock": "5927SE12A",
+      "listing_url": "https://www.bannisterkiapenticton.com/inventory/2024-chevrolet-blazer-ev-eawd-rs-3gKa8a31T06mpBV8nD9glQvdp",
+      "dealer_url": "https://www.bannisterkiapenticton.com/inventory/2024-chevrolet-blazer-ev-eawd-rs-3gKa8a31T06mpBV8nD9glQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T15:22:38",
+      "snapshot": "2026-10-04T15:25:57",
+      "go_url": "https://carwhisper.ca/go/bannister-kia-penticton-3gnkdcrj6rs189440",
+      "region": "Okanagan",
+      "city": "Penticton",
+      "province": "BC",
+      "dealer_name": "Bannister Kia Penticton"
     },
     {
       "pub_id": "laird-wheaton-gm-3gnkdbrj5rs238637",

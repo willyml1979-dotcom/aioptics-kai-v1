@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 8,
+  "count": 9,
   "vehicles": [
     {
       "pub_id": "volkswagen-of-kamloops-3vvax7b23nm044247",
@@ -88,6 +88,36 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Rivershore Chrysler Dodge Jeep Ram"
+    },
+    {
+      "pub_id": "bannister-hyundai-kamloops-3vv2x7b24pm323214",
+      "year": 2023,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "trim": "Highline 4MOTION",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 66254,
+      "price_cad": 27988.0,
+      "price_note": null,
+      "color": "Red",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/trim/CCSQJQ5M4RCOTA6AP7H6GPMAFY.webp",
+      "dealer_id": "bannister-hyundai-kamloops",
+      "vin": "3VV2X7B24PM323214",
+      "stock": "51F27009A",
+      "listing_url": "https://www.bannisterhyundaikamloops.com/inventory/2023-volkswagen-taos-highline-9sCgsqWlTh2lmvbDa3iYdwvdp",
+      "dealer_url": "https://www.bannisterhyundaikamloops.com/inventory/2023-volkswagen-taos-highline-9sCgsqWlTh2lmvbDa3iYdwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T15:13:50",
+      "snapshot": "2026-10-04T15:17:41",
+      "go_url": "https://carwhisper.ca/go/bannister-hyundai-kamloops-3vv2x7b24pm323214",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Bannister Hyundai Kamloops"
     },
     {
       "pub_id": "rivershore-chrysler-dodge-jeep-ram-3vvuc7b22sm032899",

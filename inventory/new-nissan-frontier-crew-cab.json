@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "northland-nissan-1n6ed1ek3vn600402",
@@ -169,6 +169,32 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Campus Nissan"
+    },
+    {
+      "pub_id": "red-deer-nissan-1n6ed1ek1vn602021",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Frontier Crew Cab",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 8,
+      "price_cad": 69995.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/81ecfd70-a168-47e7-80fd-57466ae05baf_8dce79ee-670f-4ff6-b887-ebb4cab6262b.jpg",
+      "dealer_id": "red-deer-nissan",
+      "vin": "1N6ED1EK1VN602021",
+      "stock": "RDN6020",
+      "listing_url": "https://www.reddeernissan.com/vehicles/2027/nissan/frontier-crew-cab/red-deer/ab/71348766/?sale_class=new",
+      "dealer_url": "https://www.reddeernissan.com/vehicles/2027/nissan/frontier-crew-cab/red-deer/ab/71348766/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T13:42:13",
+      "snapshot": "2026-10-04T13:43:58",
+      "go_url": "https://carwhisper.ca/go/red-deer-nissan-1n6ed1ek1vn602021",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Red Deer Nissan"
     }
   ]
 }

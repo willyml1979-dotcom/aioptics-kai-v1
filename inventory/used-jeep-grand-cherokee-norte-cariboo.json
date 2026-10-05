@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 7,
+  "count": 8,
   "vehicles": [
     {
       "pub_id": "prince-george-ford-1c4rjfbg5ec246971",
@@ -31,6 +31,36 @@
       "city": "Prince George",
       "province": "BC",
       "dealer_name": "Prince George Ford"
+    },
+    {
+      "pub_id": "cariboo-chevrolet-buick-gmc-ltd-1c4rjfag9kc694630",
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "trim": "Altitude 4x4",
+      "body_type": "suv",
+      "drivetrain": "4WD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 91041,
+      "price_cad": 26995.0,
+      "price_note": null,
+      "color": "Gray",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/inventory/AEKJ32WY3VGTLLFGJD7OHAN6SI.webp",
+      "dealer_id": "cariboo-chevrolet-buick-gmc-ltd",
+      "vin": "1C4RJFAG9KC694630",
+      "stock": "27T002A",
+      "listing_url": "https://www.cariboogm.ca/inventory/2019-jeep-grand-cherokee-altitude-sDtMOOIXRkWTSGwXRcm2lQvdp",
+      "dealer_url": "https://www.cariboogm.ca/inventory/2019-jeep-grand-cherokee-altitude-sDtMOOIXRkWTSGwXRcm2lQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T15:45:42",
+      "snapshot": "2026-10-04T15:46:48",
+      "go_url": "https://carwhisper.ca/go/cariboo-chevrolet-buick-gmc-ltd-1c4rjfag9kc694630",
+      "region": "Norte/Cariboo",
+      "city": "Williams Lake",
+      "province": "BC",
+      "dealer_name": "Cariboo Chevrolet Buick GMC Ltd."
     },
     {
       "pub_id": "northland-chrysler-jeep-dodge-1c4rjhbg1r8512670",

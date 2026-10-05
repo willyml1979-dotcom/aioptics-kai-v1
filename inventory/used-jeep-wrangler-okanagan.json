@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 31,
+  "count": 32,
   "vehicles": [
     {
       "pub_id": "kelowna-hyundai-1c4ajwag0jl900347",
@@ -511,6 +511,36 @@
       "city": "Salmon Arm",
       "province": "BC",
       "dealer_name": "Braby Motors Ltd."
+    },
+    {
+      "pub_id": "bannister-kia-penticton-1c4hjxdg7nw251182",
+      "year": 2022,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "Unlimited Willys 4x4",
+      "body_type": "suv",
+      "drivetrain": "4WD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 86894,
+      "price_cad": 35995.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/inventory/GNXRL7MLLFBRLI3DPXFC2PXBHA.webp",
+      "dealer_id": "bannister-kia-penticton",
+      "vin": "1C4HJXDG7NW251182",
+      "stock": "5926PK203",
+      "listing_url": "https://www.bannisterkiapenticton.com/inventory/2022-jeep-wrangler-unlimited-willys-iB06aZplTae0xZVOIBKGsAvdp",
+      "dealer_url": "https://www.bannisterkiapenticton.com/inventory/2022-jeep-wrangler-unlimited-willys-iB06aZplTae0xZVOIBKGsAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T15:19:14",
+      "snapshot": "2026-10-04T15:25:57",
+      "go_url": "https://carwhisper.ca/go/bannister-kia-penticton-1c4hjxdg7nw251182",
+      "region": "Okanagan",
+      "city": "Penticton",
+      "province": "BC",
+      "dealer_name": "Bannister Kia Penticton"
     },
     {
       "pub_id": "okanagan-chrysler-dodge-jeep-ram-1c4gjxag1nw139168",

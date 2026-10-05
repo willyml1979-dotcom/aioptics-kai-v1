@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 8,
   "vehicles": [
     {
       "pub_id": "sherwood-park-hyundai-kmhl34jj4ta137357",
@@ -117,6 +117,33 @@
       "dealer_name": "Sherwood Park Hyundai"
     },
     {
+      "pub_id": "winnipeg-hyundai-kmhl34jj2ta149359",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Sonata",
+      "trim": "Hybrid",
+      "propulsion": "hybrid",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 5950,
+      "price_cad": 38795.0,
+      "price_note": null,
+      "color": "Blue",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/9e795b21-38bf-447c-bf40-c2e5090165e9_d020972f-0359-4d5c-877c-34049c93d9cf.jpg",
+      "dealer_id": "winnipeg-hyundai",
+      "vin": "KMHL34JJ2TA149359",
+      "stock": "6295",
+      "listing_url": "https://www.winnipeghyundai.com/vehicles/2026/hyundai/sonata-hybrid/winnipeg/mb/68845564/?sale_class=new",
+      "dealer_url": "https://www.winnipeghyundai.com/vehicles/2026/hyundai/sonata-hybrid/winnipeg/mb/68845564/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T13:22:43",
+      "snapshot": "2026-10-04T13:55:11",
+      "go_url": "https://carwhisper.ca/go/winnipeg-hyundai-kmhl34jj2ta149359",
+      "city": null,
+      "province": "MB",
+      "dealer_name": "Winnipeg Hyundai"
+    },
+    {
       "pub_id": "sherwood-park-hyundai-kmhl34jj8ta177795",
       "year": 2026,
       "make": "Hyundai",
@@ -173,6 +200,32 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Sherwood Park Hyundai"
+    },
+    {
+      "pub_id": "winnipeg-hyundai-kmhl44ja3ta575235",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Sonata",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 25,
+      "price_cad": 40149.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/02365cdc-5a4a-4a69-bd43-cff27efb6a8f_667245ba-90f0-440e-8ffd-ca7f3009cdb5.jpg",
+      "dealer_id": "winnipeg-hyundai",
+      "vin": "KMHL44JA3TA575235",
+      "stock": "6434",
+      "listing_url": "https://www.winnipeghyundai.com/vehicles/2026/hyundai/sonata/winnipeg/mb/69284748/?sale_class=new",
+      "dealer_url": "https://www.winnipeghyundai.com/vehicles/2026/hyundai/sonata/winnipeg/mb/69284748/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T13:22:53",
+      "snapshot": "2026-10-04T13:55:11",
+      "go_url": "https://carwhisper.ca/go/winnipeg-hyundai-kmhl44ja3ta575235",
+      "city": null,
+      "province": "MB",
+      "dealer_name": "Winnipeg Hyundai"
     }
   ]
 }

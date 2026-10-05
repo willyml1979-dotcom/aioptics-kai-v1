@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "brian-jessel-bmw-jn1az4eh3km420382",
@@ -32,6 +32,31 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Brian Jessel BMW"
+    },
+    {
+      "pub_id": "bannister-kia-penticton-jn1az4eh8lm820584",
+      "year": 2020,
+      "make": "Nissan",
+      "model": "370Z",
+      "body_type": "coupe",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "Blue",
+      "dealer_id": "bannister-kia-penticton",
+      "vin": "JN1AZ4EH8LM820584",
+      "stock": "5926PK1",
+      "listing_url": "https://www.bannisterkiapenticton.com/inventory/2020-nissan-370z-coupe-ePdLIB5wSrC1lg2hsxsmawvdp",
+      "dealer_url": "https://www.bannisterkiapenticton.com/inventory/2020-nissan-370z-coupe-ePdLIB5wSrC1lg2hsxsmawvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T15:16:39",
+      "snapshot": "2026-10-04T15:25:57",
+      "go_url": "https://carwhisper.ca/go/bannister-kia-penticton-jn1az4eh8lm820584",
+      "region": "Okanagan",
+      "city": "Penticton",
+      "province": "BC",
+      "dealer_name": "Bannister Kia Penticton"
     }
   ]
 }

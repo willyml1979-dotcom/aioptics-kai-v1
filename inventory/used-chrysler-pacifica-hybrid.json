@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 4,
   "vehicles": [
     {
       "pub_id": "marine-chrysler-dodge-jeep-ltd-2c4rc1s71rr112226",
@@ -61,6 +61,36 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Marine Chrysler Dodge Jeep Ltd."
+    },
+    {
+      "pub_id": "bannister-kia-penticton-2c4rc1n70lr287585",
+      "year": 2020,
+      "make": "Chrysler",
+      "model": "Pacifica Hybrid",
+      "trim": "Red S 2WD",
+      "body_type": "van",
+      "drivetrain": "FWD",
+      "propulsion": "hybrid",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 96233,
+      "price_cad": 29995.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/inventory/VJNBOPYJNVBJNI6IEQFHRBZSMU.webp",
+      "dealer_id": "bannister-kia-penticton",
+      "vin": "2C4RC1N70LR287585",
+      "stock": "5926PK193",
+      "listing_url": "https://www.bannisterkiapenticton.com/inventory/2020-chrysler-pacifica-hybrid-red-s-Xj4fPjMhQC6VdEMo1NsIdgvdp",
+      "dealer_url": "https://www.bannisterkiapenticton.com/inventory/2020-chrysler-pacifica-hybrid-red-s-Xj4fPjMhQC6VdEMo1NsIdgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T15:15:03",
+      "snapshot": "2026-10-04T15:25:57",
+      "go_url": "https://carwhisper.ca/go/bannister-kia-penticton-2c4rc1n70lr287585",
+      "region": "Okanagan",
+      "city": "Penticton",
+      "province": "BC",
+      "dealer_name": "Bannister Kia Penticton"
     },
     {
       "pub_id": "alberni-chrysler-dodge-jeep-ram-2c4rc1s77sr558645",

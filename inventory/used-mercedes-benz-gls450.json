@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "mercedes-benz-vancouver-4jgff5ke8rb099498",
@@ -61,6 +61,33 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Mercedes Benz Vancouver"
+    },
+    {
+      "pub_id": "vaughan-chrysler-4jgdf6ee8kb219623",
+      "year": 2019,
+      "make": "Mercedes-Benz",
+      "model": "GLS450",
+      "trim": "AWD",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 142195,
+      "price_cad": 28124.0,
+      "price_note": null,
+      "color": "Selenite Grey Met",
+      "photo_url": "https://img.sm360.ca/images/inventory/vaughanchrysler-677/mercedes-benz/gls450/2019/38747595/38747595_05319_027f4751de2ef9bc8264795f6df7913d.jpeg",
+      "dealer_id": "vaughan-chrysler",
+      "vin": "4JGDF6EE8KB219623",
+      "stock": "P5147A",
+      "listing_url": "https://www.vaughanchrysler.com/en/used-inventory/mercedes-benz/gls450/2019-mercedes-benz-gls450-id38747595",
+      "dealer_url": "https://www.vaughanchrysler.com/en/used-inventory/mercedes-benz/gls450/2019-mercedes-benz-gls450-id38747595?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T16:09:41",
+      "snapshot": "2026-10-04T16:16:25",
+      "go_url": "https://carwhisper.ca/go/vaughan-chrysler-4jgdf6ee8kb219623",
+      "city": null,
+      "province": "ON",
+      "dealer_name": "Vaughan Chrysler"
     }
   ]
 }

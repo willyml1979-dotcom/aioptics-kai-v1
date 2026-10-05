@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "kamloops-honda-cars-jm3kfacm5j1302365",
@@ -89,6 +89,36 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Kamloops Honda Cars"
+    },
+    {
+      "pub_id": "bannister-hyundai-kamloops-jm3kfbcl7s0682605",
+      "year": 2025,
+      "make": "Mazda",
+      "model": "CX-5",
+      "trim": "Kuro AWD",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 42626,
+      "price_cad": 33488.0,
+      "price_note": null,
+      "color": "Blue",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/inventory/N6HHTKN4GFHP7ICICXOU6JEKGM.webp",
+      "dealer_id": "bannister-hyundai-kamloops",
+      "vin": "JM3KFBCL7S0682605",
+      "stock": "51-2718",
+      "listing_url": "https://www.bannisterhyundaikamloops.com/inventory/2025-mazda-cx-5-kuro-XXZrBl2LSDGk19xK3IEZ7gvdp",
+      "dealer_url": "https://www.bannisterhyundaikamloops.com/inventory/2025-mazda-cx-5-kuro-XXZrBl2LSDGk19xK3IEZ7gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T15:16:23",
+      "snapshot": "2026-10-04T15:17:41",
+      "go_url": "https://carwhisper.ca/go/bannister-hyundai-kamloops-jm3kfbcl7s0682605",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Bannister Hyundai Kamloops"
     },
     {
       "pub_id": "kamloops-honda-cars-jm3kmdha1t0129989",

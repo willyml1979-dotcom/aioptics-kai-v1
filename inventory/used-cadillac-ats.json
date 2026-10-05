@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "pioneer-chrysler-jeep-1g6ah5rx7e0190884",
@@ -60,6 +60,33 @@
       "city": "Burnaby",
       "province": "BC",
       "dealer_name": "Carter GM Burnaby"
+    },
+    {
+      "pub_id": "sherwood-park-chevrolet-1g6aa5ra6e0112418",
+      "year": 2014,
+      "make": "Cadillac",
+      "model": "ATS",
+      "body_type": "sedan",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 130692,
+      "price_cad": 12680.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/fcd80263-0a53-47be-9e7e-fda253f34c47_8ea4e4aa-e650-4487-be95-b3b0176ed287.jpg",
+      "dealer_id": "sherwood-park-chevrolet",
+      "vin": "1G6AA5RA6E0112418",
+      "stock": "Z-LWC79",
+      "listing_url": "https://www.sherwoodparkchev.com/vehicles/2014/cadillac/ats-sedan/sherwood-park/ab/71304509/?sale_class=used",
+      "dealer_url": "https://www.sherwoodparkchev.com/vehicles/2014/cadillac/ats-sedan/sherwood-park/ab/71304509/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T13:05:54",
+      "snapshot": "2026-10-04T13:54:20",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-1g6aa5ra6e0112418",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Chevrolet"
     }
   ]
 }

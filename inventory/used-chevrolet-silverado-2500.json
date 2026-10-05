@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 12,
+  "count": 13,
   "vehicles": [
     {
       "pub_id": "kelowna-chevrolet-1gc4ymey8nf191171",
@@ -253,6 +253,33 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Island Chevrolet Buick GMC"
+    },
+    {
+      "pub_id": "sherwood-park-chevrolet-1gc1kve82gf243908",
+      "year": 2016,
+      "make": "Chevrolet",
+      "model": "Silverado 2500",
+      "body_type": "truck",
+      "propulsion": "diesel",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 239833,
+      "price_cad": 37980.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/57774c03-3029-4b0d-be9e-f34ac02afb8b_19704ead-2748-4dee-93bd-2b10cb85c167.jpg",
+      "dealer_id": "sherwood-park-chevrolet",
+      "vin": "1GC1KVE82GF243908",
+      "stock": "Z-26S35",
+      "listing_url": "https://www.sherwoodparkchev.com/vehicles/2016/chevrolet/silverado-2500/edmonton/ab/71173127/?sale_class=used",
+      "dealer_url": "https://www.sherwoodparkchev.com/vehicles/2016/chevrolet/silverado-2500/edmonton/ab/71173127/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T13:08:20",
+      "snapshot": "2026-10-04T13:54:20",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-1gc1kve82gf243908",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Chevrolet"
     },
     {
       "pub_id": "country-hills-nissan-2gc4yney3n1228608",

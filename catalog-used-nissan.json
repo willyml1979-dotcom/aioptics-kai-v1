@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
   "condition": "used",
   "make": "nissan",
   "files": [
@@ -94,6 +94,20 @@
     {
       "condition": "used",
       "make": "nissan",
+      "model": "Rogue",
+      "shard": "part7",
+      "count": 31,
+      "file": "inventory/used-nissan-rogue-part7.json",
+      "models": [
+        {
+          "model": "Rogue",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
       "model": "Armada",
       "count": 12,
       "file": "inventory/used-nissan-armada.json",
@@ -150,12 +164,12 @@
       "make": "nissan",
       "model": "Sentra",
       "shard": "Okanagan",
-      "count": 7,
+      "count": 8,
       "file": "inventory/used-nissan-sentra-okanagan.json",
       "models": [
         {
           "model": "Sentra",
-          "count": 7
+          "count": 8
         }
       ]
     },
@@ -192,12 +206,12 @@
       "make": "nissan",
       "model": "Sentra",
       "shard": "sin-region",
-      "count": 4,
+      "count": 10,
       "file": "inventory/used-nissan-sentra-sin-region.json",
       "models": [
         {
           "model": "Sentra",
-          "count": 4
+          "count": 10
         }
       ]
     },
@@ -218,12 +232,12 @@
       "condition": "used",
       "make": "nissan",
       "model": "Versa Note",
-      "count": 6,
+      "count": 7,
       "file": "inventory/used-nissan-versa-note.json",
       "models": [
         {
           "model": "Versa Note",
-          "count": 6
+          "count": 7
         }
       ]
     },
@@ -231,7 +245,7 @@
       "condition": "used",
       "make": "nissan",
       "model": "Altima",
-      "count": 19,
+      "count": 20,
       "file": "inventory/used-nissan-altima.json",
       "models": [
         {
@@ -240,7 +254,7 @@
         },
         {
           "model": "Altima",
-          "count": 18
+          "count": 19
         }
       ]
     },
@@ -319,12 +333,12 @@
       "make": "nissan",
       "model": "Qashqai",
       "shard": "sin-region",
-      "count": 7,
+      "count": 11,
       "file": "inventory/used-nissan-qashqai-sin-region.json",
       "models": [
         {
           "model": "Qashqai",
-          "count": 7
+          "count": 11
         }
       ]
     },
@@ -361,12 +375,12 @@
       "make": "nissan",
       "model": "Pathfinder",
       "shard": "Okanagan",
-      "count": 13,
+      "count": 15,
       "file": "inventory/used-nissan-pathfinder-okanagan.json",
       "models": [
         {
           "model": "Pathfinder",
-          "count": 13
+          "count": 15
         }
       ]
     },
@@ -416,13 +430,13 @@
       "condition": "used",
       "make": "nissan",
       "model": "Kicks",
-      "shard": "Lower Mainland",
-      "count": 33,
-      "file": "inventory/used-nissan-kicks-lower-mainland.json",
+      "shard": "part1",
+      "count": 26,
+      "file": "inventory/used-nissan-kicks-part1.json",
       "models": [
         {
           "model": "Kicks",
-          "count": 33
+          "count": 26
         }
       ]
     },
@@ -430,13 +444,13 @@
       "condition": "used",
       "make": "nissan",
       "model": "Kicks",
-      "shard": "Norte/Cariboo",
-      "count": 4,
-      "file": "inventory/used-nissan-kicks-norte-cariboo.json",
+      "shard": "part2",
+      "count": 26,
+      "file": "inventory/used-nissan-kicks-part2.json",
       "models": [
         {
           "model": "Kicks",
-          "count": 4
+          "count": 26
         }
       ]
     },
@@ -444,13 +458,13 @@
       "condition": "used",
       "make": "nissan",
       "model": "Kicks",
-      "shard": "Okanagan",
-      "count": 12,
-      "file": "inventory/used-nissan-kicks-okanagan.json",
+      "shard": "part3",
+      "count": 26,
+      "file": "inventory/used-nissan-kicks-part3.json",
       "models": [
         {
           "model": "Kicks",
-          "count": 12
+          "count": 26
         }
       ]
     },
@@ -458,41 +472,13 @@
       "condition": "used",
       "make": "nissan",
       "model": "Kicks",
-      "shard": "Thompson-Okanagan",
-      "count": 2,
-      "file": "inventory/used-nissan-kicks-thompson-okanagan.json",
+      "shard": "part4",
+      "count": 24,
+      "file": "inventory/used-nissan-kicks-part4.json",
       "models": [
         {
           "model": "Kicks",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Kicks",
-      "shard": "Vancouver Island",
-      "count": 20,
-      "file": "inventory/used-nissan-kicks-vancouver-island.json",
-      "models": [
-        {
-          "model": "Kicks",
-          "count": 20
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Kicks",
-      "shard": "sin-region",
-      "count": 11,
-      "file": "inventory/used-nissan-kicks-sin-region.json",
-      "models": [
-        {
-          "model": "Kicks",
-          "count": 11
+          "count": 24
         }
       ]
     },
@@ -529,12 +515,12 @@
       "make": "nissan",
       "model": "Murano",
       "shard": "Okanagan",
-      "count": 13,
+      "count": 14,
       "file": "inventory/used-nissan-murano-okanagan.json",
       "models": [
         {
           "model": "Murano",
-          "count": 13
+          "count": 14
         }
       ]
     },
@@ -571,12 +557,12 @@
       "make": "nissan",
       "model": "Murano",
       "shard": "sin-region",
-      "count": 2,
+      "count": 6,
       "file": "inventory/used-nissan-murano-sin-region.json",
       "models": [
         {
           "model": "Murano",
-          "count": 2
+          "count": 6
         }
       ]
     },
@@ -584,12 +570,12 @@
       "condition": "used",
       "make": "nissan",
       "model": "Versa",
-      "count": 23,
+      "count": 26,
       "file": "inventory/used-nissan-versa.json",
       "models": [
         {
           "model": "Versa",
-          "count": 23
+          "count": 26
         }
       ]
     },
@@ -627,7 +613,7 @@
       "condition": "used",
       "make": "nissan",
       "model": "Kicks Play",
-      "count": 30,
+      "count": 31,
       "file": "inventory/used-nissan-kicks-play.json",
       "models": [
         {
@@ -636,7 +622,7 @@
         },
         {
           "model": "Kicks Play",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -700,12 +686,12 @@
       "condition": "used",
       "make": "nissan",
       "model": "370Z",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-nissan-370z.json",
       "models": [
         {
           "model": "370Z",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -713,12 +699,12 @@
       "condition": "used",
       "make": "nissan",
       "model": "Titan Crew Cab",
-      "count": 2,
+      "count": 3,
       "file": "inventory/used-nissan-titan-crew-cab.json",
       "models": [
         {
           "model": "Titan Crew Cab",
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -817,12 +803,25 @@
       "condition": "used",
       "make": "nissan",
       "model": "Frontier Crew Cab",
-      "count": 6,
+      "count": 7,
       "file": "inventory/used-nissan-frontier-crew-cab.json",
       "models": [
         {
           "model": "Frontier Crew Cab",
-          "count": 6
+          "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "NV200",
+      "count": 3,
+      "file": "inventory/used-nissan-nv200.json",
+      "models": [
+        {
+          "model": "NV200",
+          "count": 3
         }
       ]
     },

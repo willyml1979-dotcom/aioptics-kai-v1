@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 4,
   "vehicles": [
     {
       "pub_id": "kamloops-honda-cars-2c4rc1bg4nr195533",
@@ -88,6 +88,36 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Kamloops Honda Cars"
+    },
+    {
+      "pub_id": "bannister-hyundai-kamloops-2c4rc1gg4sr545750",
+      "year": 2025,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "Limited FWD",
+      "body_type": "van",
+      "drivetrain": "FWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 84012,
+      "price_cad": 37988.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/trim/6BCAHQ737ZCWHP72WFYURWRUH4.webp",
+      "dealer_id": "bannister-hyundai-kamloops",
+      "vin": "2C4RC1GG4SR545750",
+      "stock": "51-2728",
+      "listing_url": "https://www.bannisterhyundaikamloops.com/inventory/2025-chrysler-pacifica-limited-e3RelSFVRgmTvTMGMt4Rwwvdp",
+      "dealer_url": "https://www.bannisterhyundaikamloops.com/inventory/2025-chrysler-pacifica-limited-e3RelSFVRgmTvTMGMt4Rwwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T15:15:16",
+      "snapshot": "2026-10-04T15:17:41",
+      "go_url": "https://carwhisper.ca/go/bannister-hyundai-kamloops-2c4rc1gg4sr545750",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Bannister Hyundai Kamloops"
     }
   ]
 }

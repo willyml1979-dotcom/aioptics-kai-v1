@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 15,
+  "count": 16,
   "vehicles": [
     {
       "pub_id": "kelowna-hyundai-1c6rr7lt7ks582074",
@@ -105,6 +105,36 @@
       "city": "Salmon Arm",
       "province": "BC",
       "dealer_name": "Braby Motors Ltd."
+    },
+    {
+      "pub_id": "bannister-kia-penticton-1c6rr7fgxms582183",
+      "year": 2021,
+      "make": "Ram",
+      "model": "1500 Classic",
+      "trim": "Express 4x4 Quad Cab 6'4\" Box",
+      "body_type": "truck",
+      "drivetrain": "4WD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 116188,
+      "price_cad": 29995.0,
+      "price_note": null,
+      "color": "Blue",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/inventory/M27KCBBHKJBLTNRIXWH5EGZ5EA.webp",
+      "dealer_id": "bannister-kia-penticton",
+      "vin": "1C6RR7FGXMS582183",
+      "stock": "5926PK183",
+      "listing_url": "https://www.bannisterkiapenticton.com/inventory/2021-ram-1500-classic-express-KNLVmXw3QGeY2xgIOHd76gvdp",
+      "dealer_url": "https://www.bannisterkiapenticton.com/inventory/2021-ram-1500-classic-express-KNLVmXw3QGeY2xgIOHd76gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T15:18:02",
+      "snapshot": "2026-10-04T15:25:57",
+      "go_url": "https://carwhisper.ca/go/bannister-kia-penticton-1c6rr7fgxms582183",
+      "region": "Okanagan",
+      "city": "Penticton",
+      "province": "BC",
+      "dealer_name": "Bannister Kia Penticton"
     },
     {
       "pub_id": "braby-motors-ltd-3c6rr7kg0mg569861",

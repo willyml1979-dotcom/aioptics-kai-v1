@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "marine-chrysler-dodge-jeep-ltd-1vwaa7a30lc006108",
@@ -62,6 +62,33 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Rivershore Chrysler Dodge Jeep Ram"
+    },
+    {
+      "pub_id": "sherwood-park-chevrolet-1vwea7a33jc018459",
+      "year": 2018,
+      "make": "Volkswagen",
+      "model": "Passat",
+      "body_type": "sedan",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 177597,
+      "price_cad": 9995.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/73653aae-99a0-483f-82dc-7b70ae585fa1_220dd3e4-9c3e-4234-9cd6-f3f483c03e1a.jpg",
+      "dealer_id": "sherwood-park-chevrolet",
+      "vin": "1VWEA7A33JC018459",
+      "stock": "Z-SMC79",
+      "listing_url": "https://www.sherwoodparkchev.com/vehicles/2018/volkswagen/passat/sherwood-park/ab/71469022/?sale_class=used",
+      "dealer_url": "https://www.sherwoodparkchev.com/vehicles/2018/volkswagen/passat/sherwood-park/ab/71469022/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T13:15:46",
+      "snapshot": "2026-10-04T13:54:20",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-1vwea7a33jc018459",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Chevrolet"
     }
   ]
 }

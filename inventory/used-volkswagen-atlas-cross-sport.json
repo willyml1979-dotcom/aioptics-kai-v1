@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 22,
+  "count": 23,
   "vehicles": [
     {
       "pub_id": "journey-vw-of-coquitlam-1v2fe2ca9pc201527",
@@ -542,6 +542,33 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Norden Volkswagen"
+    },
+    {
+      "pub_id": "sherwood-park-chevrolet-1v2te2ca3lc210995",
+      "year": 2020,
+      "make": "Volkswagen",
+      "model": "Atlas Cross Sport",
+      "body_type": "suv",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 83103,
+      "price_cad": 32480.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/95a88f2f-c509-4aba-91c6-0f5f6119fc24_5ea69bd7-fcf1-458b-bc42-1523d93e8453.jpg",
+      "dealer_id": "sherwood-park-chevrolet",
+      "vin": "1V2TE2CA3LC210995",
+      "stock": "R-27TS0",
+      "listing_url": "https://www.sherwoodparkchev.com/vehicles/2020/volkswagen/atlas-cross-sport/edmonton/ab/71389901/?sale_class=used",
+      "dealer_url": "https://www.sherwoodparkchev.com/vehicles/2020/volkswagen/atlas-cross-sport/edmonton/ab/71389901/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T13:21:26",
+      "snapshot": "2026-10-04T13:54:20",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-1v2te2ca3lc210995",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Chevrolet"
     },
     {
       "pub_id": "norden-volkswagen-1v2be2ca4rc217734",

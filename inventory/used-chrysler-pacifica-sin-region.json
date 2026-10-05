@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "zender-ford-2c4rc1eg4hr756572",
@@ -25,6 +25,34 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Zender Ford"
+    },
+    {
+      "pub_id": "sherwood-park-chevrolet-2c4rc3gg0pr622875",
+      "year": 2023,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "body_type": "van",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 66382,
+      "price_cad": 38980.0,
+      "price_note": null,
+      "color": "Silver",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/53888ea1-0b3c-4746-bd0a-b24d07e028a5_a32d5df3-0033-49b8-900c-136e55ac399c.jpg",
+      "dealer_id": "sherwood-park-chevrolet",
+      "vin": "2C4RC3GG0PR622875",
+      "stock": "S-LW362",
+      "listing_url": "https://www.sherwoodparkchev.com/vehicles/2023/chrysler/pacifica/edmonton/ab/71158243/?sale_class=used",
+      "dealer_url": "https://www.sherwoodparkchev.com/vehicles/2023/chrysler/pacifica/edmonton/ab/71158243/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T13:28:00",
+      "snapshot": "2026-10-04T13:54:20",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-2c4rc3gg0pr622875",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Chevrolet"
     },
     {
       "pub_id": "country-hills-nissan-2c4rc1gg6sr533034",

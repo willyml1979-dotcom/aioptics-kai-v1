@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 30,
   "vehicles": [
@@ -690,6 +690,36 @@
       "dealer_name": "Sun Country Toyota"
     },
     {
+      "pub_id": "bannister-hyundai-kamloops-5yfb4mde5rp196546",
+      "year": 2024,
+      "make": "Toyota",
+      "model": "Corolla",
+      "trim": "LE CVT",
+      "body_type": "sedan",
+      "drivetrain": "FWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 67123,
+      "price_cad": 25988.0,
+      "price_note": null,
+      "color": "Gray",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/inventory/FBYXGGEV4VEPNLFWP64JGTUWVU.webp",
+      "dealer_id": "bannister-hyundai-kamloops",
+      "vin": "5YFB4MDE5RP196546",
+      "stock": "51-2721",
+      "listing_url": "https://www.bannisterhyundaikamloops.com/inventory/2024-toyota-corolla-le-yoZitjpYReyhyd0Rw5KeRQvdp",
+      "dealer_url": "https://www.bannisterhyundaikamloops.com/inventory/2024-toyota-corolla-le-yoZitjpYReyhyd0Rw5KeRQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T15:14:55",
+      "snapshot": "2026-10-04T15:17:41",
+      "go_url": "https://carwhisper.ca/go/bannister-hyundai-kamloops-5yfb4mde5rp196546",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Bannister Hyundai Kamloops"
+    },
+    {
       "pub_id": "bannister-chevrolet-cadillac-kamloops-ltd-jtdbcmfe0r3041816",
       "year": 2024,
       "make": "Toyota",
@@ -775,32 +805,6 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Kamloops Honda Cars"
-    },
-    {
-      "pub_id": "dearborn-motors-ltd-2t1burhe1fc329323",
-      "year": 2015,
-      "make": "Toyota",
-      "model": "Corolla",
-      "trim": "S (M6) 4dr",
-      "body_type": "sedan",
-      "propulsion": "unknown",
-      "propulsion_source": null,
-      "condition": "used",
-      "odometer_km": 139052,
-      "price_cad": null,
-      "price_note": "precio no publicado en la fuente",
-      "dealer_id": "dearborn-motors-ltd",
-      "vin": "2T1BURHE1FC329323",
-      "stock": "CT650A",
-      "listing_url": "https://www.dearbornford.com/used/vehicle/2015-toyota-corolla-s-id15396654.htm",
-      "dealer_url": "https://www.dearbornford.com/used/vehicle/2015-toyota-corolla-s-id15396654.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T17:00:08",
-      "snapshot": "2026-09-25T17:19:21",
-      "go_url": "https://carwhisper.ca/go/dearborn-motors-ltd-2t1burhe1fc329323",
-      "region": "Thompson-Okanagan",
-      "city": "Kamloops",
-      "province": "BC",
-      "dealer_name": "Dearborn Motors Ltd."
     }
   ]
 }

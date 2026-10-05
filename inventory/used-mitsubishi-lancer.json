@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "chilliwack-mitsubishi-ja3au16u39u609340",
@@ -33,6 +33,32 @@
       "city": "Chilliwack",
       "province": "BC",
       "dealer_name": "Chilliwack Mitsubishi"
+    },
+    {
+      "pub_id": "red-deer-nissan-ja32u2fu1hu600466",
+      "year": 2017,
+      "make": "Mitsubishi",
+      "model": "Lancer",
+      "body_type": "sedan",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 133101,
+      "price_cad": 13489.0,
+      "price_note": null,
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/0d962168-3e61-4975-b362-8496a18c9b68_15fe6acc-7ddd-41d6-a993-86aa9e1386be.jpg",
+      "dealer_id": "red-deer-nissan",
+      "vin": "JA32U2FU1HU600466",
+      "stock": "RDN4882",
+      "listing_url": "https://www.reddeernissan.com/vehicles/2017/mitsubishi/lancer-sedan/red-deer/ab/71348785/?sale_class=used",
+      "dealer_url": "https://www.reddeernissan.com/vehicles/2017/mitsubishi/lancer-sedan/red-deer/ab/71348785/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T13:00:10",
+      "snapshot": "2026-10-04T13:12:52",
+      "go_url": "https://carwhisper.ca/go/red-deer-nissan-ja32u2fu1hu600466",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Red Deer Nissan"
     }
   ]
 }

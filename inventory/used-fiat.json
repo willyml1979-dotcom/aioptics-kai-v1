@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "sullivan-motor-products-nelson-ltd-zfaffaa4xsx240819",
@@ -85,6 +85,31 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Kamloops Honda Cars"
+    },
+    {
+      "pub_id": "red-deer-nissan-zfbnf3b13ppa00075",
+      "year": 2023,
+      "make": "Fiat",
+      "model": "500X",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 37250,
+      "price_cad": 27995.0,
+      "price_note": null,
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/e2ddd5fa-d4ab-4325-b8d2-6760fb603f71_2bfd7664-398d-4ae0-886d-c5830fe099bd.jpg",
+      "dealer_id": "red-deer-nissan",
+      "vin": "ZFBNF3B13PPA00075",
+      "stock": "ICSCA00",
+      "listing_url": "https://www.reddeernissan.com/vehicles/2023/fiat/500x/red-deer/ab/70077374/?sale_class=used",
+      "dealer_url": "https://www.reddeernissan.com/vehicles/2023/fiat/500x/red-deer/ab/70077374/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T13:04:09",
+      "snapshot": "2026-10-04T13:12:52",
+      "go_url": "https://carwhisper.ca/go/red-deer-nissan-zfbnf3b13ppa00075",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Red Deer Nissan"
     },
     {
       "pub_id": "go-auto-brampton-chrysler-zfaffaa45sx240520",

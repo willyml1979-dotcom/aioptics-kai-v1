@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 19,
+  "count": 21,
   "vehicles": [
     {
       "pub_id": "go-langley-mitsubishi-2c3cdzbt2fh868541",
@@ -259,6 +259,36 @@
       "dealer_name": "Northland Chrysler Jeep Dodge"
     },
     {
+      "pub_id": "bannister-kia-penticton-2c3cdzag9ph565715",
+      "year": 2023,
+      "make": "Dodge",
+      "model": "Challenger",
+      "trim": "SXT RWD",
+      "body_type": "coupe",
+      "drivetrain": "RWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 64091,
+      "price_cad": 33995.0,
+      "price_note": null,
+      "color": "Red",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/inventory/5FN5KBPX2ZH4NHW4E2YY5QL6UU.webp",
+      "dealer_id": "bannister-kia-penticton",
+      "vin": "2C3CDZAG9PH565715",
+      "stock": "5926PK141",
+      "listing_url": "https://www.bannisterkiapenticton.com/inventory/2023-dodge-challenger-sxt-pnjOGvPzRCGHnCjvBiiWfAvdp",
+      "dealer_url": "https://www.bannisterkiapenticton.com/inventory/2023-dodge-challenger-sxt-pnjOGvPzRCGHnCjvBiiWfAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T15:20:15",
+      "snapshot": "2026-10-04T15:25:57",
+      "go_url": "https://carwhisper.ca/go/bannister-kia-penticton-2c3cdzag9ph565715",
+      "region": "Okanagan",
+      "city": "Penticton",
+      "province": "BC",
+      "dealer_name": "Bannister Kia Penticton"
+    },
+    {
       "pub_id": "kelowna-hyundai-2c3cdzbt4mh572563",
       "year": 2021,
       "make": "Dodge",
@@ -475,6 +505,31 @@
       "city": "Sechelt",
       "province": "BC",
       "dealer_name": "South Coast Ford Sales Ltd."
+    },
+    {
+      "pub_id": "red-deer-nissan-2c3cdzfj6nh164477",
+      "year": 2022,
+      "make": "Dodge",
+      "model": "Challenger",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 36588,
+      "price_cad": 69999.0,
+      "price_note": null,
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/d1806248-83b2-4e7f-bcd7-af511b5afd70_1ab3148c-2066-4e1d-a1d8-cf31cd72d1ed.jpg",
+      "dealer_id": "red-deer-nissan",
+      "vin": "2C3CDZFJ6NH164477",
+      "stock": "RDN4302",
+      "listing_url": "https://www.reddeernissan.com/vehicles/2022/dodge/challenger/red-deer/ab/71357303/?sale_class=used",
+      "dealer_url": "https://www.reddeernissan.com/vehicles/2022/dodge/challenger/red-deer/ab/71357303/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T13:03:19",
+      "snapshot": "2026-10-04T13:12:52",
+      "go_url": "https://carwhisper.ca/go/red-deer-nissan-2c3cdzfj6nh164477",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Red Deer Nissan"
     }
   ]
 }

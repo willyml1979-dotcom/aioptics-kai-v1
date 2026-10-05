@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 4,
   "vehicles": [
     {
       "pub_id": "sherwood-park-hyundai-5tfdy5f18kx797695",
@@ -29,6 +29,34 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Sherwood Park Hyundai"
+    },
+    {
+      "pub_id": "vaughan-chrysler-5tfjc5ec3px004105",
+      "year": 2023,
+      "make": "Toyota",
+      "model": "Tundra",
+      "trim": "Limited HV",
+      "drivetrain": "AWD",
+      "propulsion": "hybrid",
+      "propulsion_source": "description",
+      "propulsion_confidence": "medium",
+      "condition": "used",
+      "odometer_km": 84525,
+      "price_cad": 55478.0,
+      "price_note": null,
+      "color": "Midnight Black (Met)",
+      "photo_url": "https://img.sm360.ca/images/inventory/vaughanchrysler-677/toyota/tundra/2023/39150844/39150844_00430_8e19f549265ee20ba6692e7dae21388e.jpeg",
+      "dealer_id": "vaughan-chrysler",
+      "vin": "5TFJC5EC3PX004105",
+      "stock": "P5159B",
+      "listing_url": "https://www.vaughanchrysler.com/en/used-inventory/toyota/tundra/2023-toyota-tundra-id39150844",
+      "dealer_url": "https://www.vaughanchrysler.com/en/used-inventory/toyota/tundra/2023-toyota-tundra-id39150844?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T16:13:05",
+      "snapshot": "2026-10-04T16:16:25",
+      "go_url": "https://carwhisper.ca/go/vaughan-chrysler-5tfjc5ec3px004105",
+      "city": null,
+      "province": "ON",
+      "dealer_name": "Vaughan Chrysler"
     },
     {
       "pub_id": "country-hills-nissan-5tfna5db4nx040673",

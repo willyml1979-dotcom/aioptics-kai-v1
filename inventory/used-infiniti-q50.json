@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "richmond-hyundai-jn1ev7ar2hm833352",
@@ -100,11 +100,38 @@
       "listing_url": "https://www.gorichmondsubaru.ca/vehicles/2018/infiniti/q50/richmond/bc/70932475/?sale_class=used",
       "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2018/infiniti/q50/richmond/bc/70932475/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T16:02:25",
-      "snapshot": "2026-10-03T16:13:35",
+      "snapshot": "2026-10-04T16:22:20",
       "go_url": "https://carwhisper.ca/go/go-richmond-subaru-jn1cv7ar5jm490078",
       "city": null,
       "province": "BC",
       "dealer_name": "Go Richmond Subaru"
+    },
+    {
+      "pub_id": "vaughan-chrysler-jn1ev7br4mm752121",
+      "year": 2021,
+      "make": "Infiniti",
+      "model": "Q50",
+      "trim": "Luxe",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 75605,
+      "price_cad": 27495.0,
+      "price_note": null,
+      "color": "Black Obsidian",
+      "photo_url": "https://img.sm360.ca/images/inventory/vaughanchrysler-677/infiniti/q50/2021/39228853/39228853_04663_c750359f3c3c3fc7e511900dfaad7c97.jpeg",
+      "dealer_id": "vaughan-chrysler",
+      "vin": "JN1EV7BR4MM752121",
+      "stock": "I5112A",
+      "listing_url": "https://www.vaughanchrysler.com/en/used-inventory/infiniti/q50/2021-infiniti-q50-id39228853",
+      "dealer_url": "https://www.vaughanchrysler.com/en/used-inventory/infiniti/q50/2021-infiniti-q50-id39228853?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T16:08:07",
+      "snapshot": "2026-10-04T16:16:25",
+      "go_url": "https://carwhisper.ca/go/vaughan-chrysler-jn1ev7br4mm752121",
+      "city": null,
+      "province": "ON",
+      "dealer_name": "Vaughan Chrysler"
     }
   ]
 }

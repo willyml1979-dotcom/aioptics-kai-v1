@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "maple-ridge-chrysler-jeep-dodge-1c4sjvbp1ts193734",
@@ -150,6 +150,33 @@
       "city": null,
       "province": "ON",
       "dealer_name": "Go Auto Brampton Chrysler"
+    },
+    {
+      "pub_id": "vaughan-chrysler-1c4sjvep7ts180871",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Grand Wagoneer",
+      "trim": "OBSIDIAN",
+      "drivetrain": "AWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "odometer_km": 18,
+      "price_cad": 126187.0,
+      "price_note": null,
+      "color": "BRIGHT WHITE",
+      "photo_url": "https://img.sm360.ca/images/inventory/vaughanchrysler-677/jeep/grand-wagoneer/2026/38356670/38356670_00057_2026-jeep-grand-wagoneer_007.jpg",
+      "dealer_id": "vaughan-chrysler",
+      "vin": "1C4SJVEP7TS180871",
+      "stock": "260482",
+      "listing_url": "https://www.vaughanchrysler.com/en/new-inventory/jeep/grand-wagoneer/2026-jeep-grand-wagoneer-id38356670",
+      "dealer_url": "https://www.vaughanchrysler.com/en/new-inventory/jeep/grand-wagoneer/2026-jeep-grand-wagoneer-id38356670?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T16:51:14",
+      "snapshot": "2026-10-04T15:31:52",
+      "go_url": "https://carwhisper.ca/go/vaughan-chrysler-1c4sjvep7ts180871",
+      "city": null,
+      "province": "ON",
+      "dealer_name": "Vaughan Chrysler"
     }
   ]
 }

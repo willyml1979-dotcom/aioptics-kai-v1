@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "kamloops-honda-cars-1yvhz8ch4d5m00252",
@@ -32,6 +32,33 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Kamloops Honda Cars"
+    },
+    {
+      "pub_id": "sherwood-park-chevrolet-jm1gl1wy1j1314499",
+      "year": 2018,
+      "make": "Mazda",
+      "model": "Mazda6",
+      "body_type": "sedan",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 110216,
+      "price_cad": 20680.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/859ac271-6d5b-4633-a33b-1557804732ef_0a0d447b-e7bc-4bc3-ab6a-4a49593557a1.jpg",
+      "dealer_id": "sherwood-park-chevrolet",
+      "vin": "JM1GL1WY1J1314499",
+      "stock": "R-26T11",
+      "listing_url": "https://www.sherwoodparkchev.com/vehicles/2018/mazda/mazda6-sedan/sherwood-park/ab/71084373/?sale_class=used",
+      "dealer_url": "https://www.sherwoodparkchev.com/vehicles/2018/mazda/mazda6-sedan/sherwood-park/ab/71084373/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T13:15:02",
+      "snapshot": "2026-10-04T13:54:20",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-jm1gl1wy1j1314499",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Chevrolet"
     }
   ]
 }

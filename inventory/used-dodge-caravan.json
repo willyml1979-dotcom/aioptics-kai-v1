@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "northland-nissan-1b4gp45r72b594910",
@@ -30,6 +30,35 @@
       "city": "Prince George",
       "province": "BC",
       "dealer_name": "Northland Nissan"
+    },
+    {
+      "pub_id": "cariboo-chevrolet-buick-gmc-ltd-2d4gp44r73r307785",
+      "year": 2003,
+      "make": "Dodge",
+      "model": "Caravan",
+      "trim": "4dr Grand Sport 119\" WB",
+      "body_type": "van",
+      "drivetrain": "FWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 263857,
+      "price_cad": 3488.0,
+      "price_note": null,
+      "photo_url": "https://static.edealer.ca/V4/assets/images/new_vehicles_images_coming.png",
+      "dealer_id": "cariboo-chevrolet-buick-gmc-ltd",
+      "vin": "2D4GP44R73R307785",
+      "stock": "5925A",
+      "listing_url": "https://www.cariboogm.ca/inventory/2003-dodge-caravan-sport-MDUN7Ts0REuTqjJbXfeg3gvdp",
+      "dealer_url": "https://www.cariboogm.ca/inventory/2003-dodge-caravan-sport-MDUN7Ts0REuTqjJbXfeg3gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T15:42:20",
+      "snapshot": "2026-10-04T15:46:48",
+      "go_url": "https://carwhisper.ca/go/cariboo-chevrolet-buick-gmc-ltd-2d4gp44r73r307785",
+      "region": "Norte/Cariboo",
+      "city": "Williams Lake",
+      "province": "BC",
+      "dealer_name": "Cariboo Chevrolet Buick GMC Ltd."
     }
   ]
 }

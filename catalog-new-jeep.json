@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
   "condition": "new",
   "make": "jeep",
   "files": [
@@ -34,7 +34,7 @@
       "make": "jeep",
       "model": "Compass",
       "shard": "part1",
-      "count": 29,
+      "count": 31,
       "file": "inventory/new-jeep-compass-part1.json",
       "models": [
         {
@@ -43,7 +43,7 @@
         },
         {
           "model": "Compass",
-          "count": 22
+          "count": 24
         }
       ]
     },
@@ -52,12 +52,12 @@
       "make": "jeep",
       "model": "Compass",
       "shard": "part2",
-      "count": 29,
+      "count": 31,
       "file": "inventory/new-jeep-compass-part2.json",
       "models": [
         {
           "model": "Compass",
-          "count": 29
+          "count": 31
         }
       ]
     },
@@ -66,12 +66,12 @@
       "make": "jeep",
       "model": "Compass",
       "shard": "part3",
-      "count": 29,
+      "count": 31,
       "file": "inventory/new-jeep-compass-part3.json",
       "models": [
         {
           "model": "COMPASS",
-          "count": 5
+          "count": 7
         },
         {
           "model": "Compass",
@@ -84,16 +84,16 @@
       "make": "jeep",
       "model": "Compass",
       "shard": "part4",
-      "count": 29,
+      "count": 31,
       "file": "inventory/new-jeep-compass-part4.json",
       "models": [
         {
           "model": "COMPASS",
-          "count": 7
+          "count": 8
         },
         {
           "model": "Compass",
-          "count": 22
+          "count": 23
         }
       ]
     },
@@ -102,16 +102,16 @@
       "make": "jeep",
       "model": "Compass",
       "shard": "part5",
-      "count": 29,
+      "count": 31,
       "file": "inventory/new-jeep-compass-part5.json",
       "models": [
         {
           "model": "COMPASS",
-          "count": 14
+          "count": 15
         },
         {
           "model": "Compass",
-          "count": 15
+          "count": 16
         }
       ]
     },
@@ -120,16 +120,12 @@
       "make": "jeep",
       "model": "Compass",
       "shard": "part6",
-      "count": 29,
+      "count": 31,
       "file": "inventory/new-jeep-compass-part6.json",
       "models": [
         {
-          "model": "COMPASS",
-          "count": 4
-        },
-        {
           "model": "Compass",
-          "count": 25
+          "count": 31
         }
       ]
     },
@@ -138,12 +134,12 @@
       "make": "jeep",
       "model": "Compass",
       "shard": "part7",
-      "count": 26,
+      "count": 27,
       "file": "inventory/new-jeep-compass-part7.json",
       "models": [
         {
           "model": "Compass",
-          "count": 26
+          "count": 27
         }
       ]
     },
@@ -282,6 +278,20 @@
       "file": "inventory/new-jeep-cherokee-part7.json",
       "models": [
         {
+          "model": "Cherokee",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Cherokee",
+      "shard": "part8",
+      "count": 32,
+      "file": "inventory/new-jeep-cherokee-part8.json",
+      "models": [
+        {
           "model": "CHEROKEE",
           "count": 1
         },
@@ -295,13 +305,13 @@
       "condition": "new",
       "make": "jeep",
       "model": "Cherokee",
-      "shard": "part8",
-      "count": 27,
-      "file": "inventory/new-jeep-cherokee-part8.json",
+      "shard": "part9",
+      "count": 28,
+      "file": "inventory/new-jeep-cherokee-part9.json",
       "models": [
         {
           "model": "Cherokee",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -422,16 +432,95 @@
       "condition": "new",
       "make": "jeep",
       "model": "GLADIATOR",
-      "count": 33,
-      "file": "inventory/new-jeep-gladiator.json",
+      "shard": "Kootenays",
+      "count": 6,
+      "file": "inventory/new-jeep-gladiator-kootenays.json",
       "models": [
         {
           "model": "GLADIATOR",
-          "count": 3
+          "count": 1
         },
         {
           "model": "Gladiator",
-          "count": 30
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "GLADIATOR",
+      "shard": "Lower Mainland",
+      "count": 8,
+      "file": "inventory/new-jeep-gladiator-lower-mainland.json",
+      "models": [
+        {
+          "model": "Gladiator",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "GLADIATOR",
+      "shard": "Norte/Cariboo",
+      "count": 5,
+      "file": "inventory/new-jeep-gladiator-norte-cariboo.json",
+      "models": [
+        {
+          "model": "GLADIATOR",
+          "count": 1
+        },
+        {
+          "model": "Gladiator",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "GLADIATOR",
+      "shard": "Okanagan",
+      "count": 3,
+      "file": "inventory/new-jeep-gladiator-okanagan.json",
+      "models": [
+        {
+          "model": "GLADIATOR",
+          "count": 1
+        },
+        {
+          "model": "Gladiator",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "GLADIATOR",
+      "shard": "Vancouver Island",
+      "count": 6,
+      "file": "inventory/new-jeep-gladiator-vancouver-island.json",
+      "models": [
+        {
+          "model": "Gladiator",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "GLADIATOR",
+      "shard": "sin-region",
+      "count": 14,
+      "file": "inventory/new-jeep-gladiator-sin-region.json",
+      "models": [
+        {
+          "model": "Gladiator",
+          "count": 14
         }
       ]
     },
@@ -548,7 +637,7 @@
       "make": "jeep",
       "model": "GRAND CHEROKEE",
       "shard": "sin-region",
-      "count": 17,
+      "count": 29,
       "file": "inventory/new-jeep-grand-cherokee-sin-region.json",
       "models": [
         {
@@ -557,7 +646,7 @@
         },
         {
           "model": "Grand Cherokee",
-          "count": 16
+          "count": 28
         }
       ]
     },
@@ -578,7 +667,7 @@
       "condition": "new",
       "make": "jeep",
       "model": "Grand Cherokee L",
-      "count": 26,
+      "count": 30,
       "file": "inventory/new-jeep-grand-cherokee-l.json",
       "models": [
         {
@@ -587,7 +676,7 @@
         },
         {
           "model": "Grand Cherokee L",
-          "count": 24
+          "count": 28
         }
       ]
     },
@@ -634,12 +723,16 @@
       "condition": "new",
       "make": "jeep",
       "model": "Wrangler 4 Door",
-      "count": 6,
+      "count": 16,
       "file": "inventory/new-jeep-wrangler-4-door.json",
       "models": [
         {
           "model": "Wrangler 4 Door",
           "count": 6
+        },
+        {
+          "model": "Wrangler 4-Door",
+          "count": 10
         }
       ]
     },
@@ -703,12 +796,12 @@
       "condition": "new",
       "make": "jeep",
       "model": "Grand Wagoneer",
-      "count": 6,
+      "count": 7,
       "file": "inventory/new-jeep-grand-wagoneer.json",
       "models": [
         {
           "model": "Grand Wagoneer",
-          "count": 6
+          "count": 7
         }
       ]
     },
@@ -721,6 +814,32 @@
       "models": [
         {
           "model": "Grand Wagoneer L",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Compass NORTH",
+      "count": 9,
+      "file": "inventory/new-jeep-compass-north.json",
+      "models": [
+        {
+          "model": "Compass NORTH",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Recon",
+      "count": 2,
+      "file": "inventory/new-jeep-recon.json",
+      "models": [
+        {
+          "model": "Recon",
           "count": 2
         }
       ]

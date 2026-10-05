@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 13,
+  "count": 14,
   "vehicles": [
     {
       "pub_id": "bannister-cadillac-buick-gmc-ltd-jn8az1mw6ew521019",
@@ -201,6 +201,36 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Kelowna Hyundai"
+    },
+    {
+      "pub_id": "bannister-kia-penticton-5n1az2bs4mc135423",
+      "year": 2021,
+      "make": "Nissan",
+      "model": "Murano",
+      "trim": "AWD SV",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 75784,
+      "price_cad": 23995.0,
+      "price_note": null,
+      "color": "Blue",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/inventory/IDWDSHZHFBGOJELPTWJJHK2U7U.webp",
+      "dealer_id": "bannister-kia-penticton",
+      "vin": "5N1AZ2BS4MC135423",
+      "stock": "5926PK134",
+      "listing_url": "https://www.bannisterkiapenticton.com/inventory/2021-nissan-murano-sv-up17esVBTOCcmbTSlYnu2gvdp",
+      "dealer_url": "https://www.bannisterkiapenticton.com/inventory/2021-nissan-murano-sv-up17esVBTOCcmbTSlYnu2gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T15:17:37",
+      "snapshot": "2026-10-04T15:25:57",
+      "go_url": "https://carwhisper.ca/go/bannister-kia-penticton-5n1az2bs4mc135423",
+      "region": "Okanagan",
+      "city": "Penticton",
+      "province": "BC",
+      "dealer_name": "Bannister Kia Penticton"
     },
     {
       "pub_id": "kelowna-hyundai-5n1az2ds1ln108423",

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 12,
+  "count": 13,
   "vehicles": [
     {
       "pub_id": "murray-buick-gmc-penticton-4a4ah3au4fe602386",
@@ -150,6 +150,36 @@
       "city": "Penticton",
       "province": "BC",
       "dealer_name": "Penticton Nissan"
+    },
+    {
+      "pub_id": "bannister-ford-penticton-ja4ajvaw3ru608435",
+      "year": 2024,
+      "make": "Mitsubishi",
+      "model": "RVR",
+      "trim": "SE AWC",
+      "body_type": "suv",
+      "drivetrain": "4WD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 56751,
+      "price_cad": 22695.0,
+      "price_note": null,
+      "color": "Silver",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/inventory/AN6JC52XEVAJNH445YEN4RT4IQ.webp",
+      "dealer_id": "bannister-ford-penticton",
+      "vin": "JA4AJVAW3RU608435",
+      "stock": "57B1912",
+      "listing_url": "https://www.bannisterfordpenticton.com/inventory/2024-mitsubishi-rvr-se-YfpcU2EjRpSmtTDWpNf6swvdp",
+      "dealer_url": "https://www.bannisterfordpenticton.com/inventory/2024-mitsubishi-rvr-se-YfpcU2EjRpSmtTDWpNf6swvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T15:06:22",
+      "snapshot": "2026-10-04T15:06:50",
+      "go_url": "https://carwhisper.ca/go/bannister-ford-penticton-ja4ajvaw3ru608435",
+      "region": "Okanagan",
+      "city": "Penticton",
+      "province": "BC",
+      "dealer_name": "Bannister Ford Penticton"
     },
     {
       "pub_id": "harmony-acura-ja4ajuau6ru608342",

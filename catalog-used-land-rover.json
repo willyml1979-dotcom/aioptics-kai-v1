@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
   "condition": "used",
   "make": "land-rover",
   "files": [
@@ -20,12 +20,12 @@
       "condition": "used",
       "make": "land-rover",
       "model": "Range Rover Evoque",
-      "count": 7,
+      "count": 11,
       "file": "inventory/used-land-rover-range-rover-evoque.json",
       "models": [
         {
           "model": "Range Rover Evoque",
-          "count": 7
+          "count": 11
         }
       ]
     },
@@ -33,12 +33,12 @@
       "condition": "used",
       "make": "land-rover",
       "model": "Discovery Sport",
-      "count": 2,
+      "count": 3,
       "file": "inventory/used-land-rover-discovery-sport.json",
       "models": [
         {
           "model": "Discovery Sport",
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -65,6 +65,19 @@
         {
           "model": "Defender",
           "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "land-rover",
+      "model": "LR4",
+      "count": 1,
+      "file": "inventory/used-land-rover-lr4.json",
+      "models": [
+        {
+          "model": "LR4",
+          "count": 1
         }
       ]
     },

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 18,
+  "count": 19,
   "vehicles": [
     {
       "pub_id": "go-kia-west-km8kn4ab5nu068825",
@@ -24,7 +24,7 @@
       "listing_url": "https://www.kiawest.com/vehicles/2022/hyundai/ioniq-5/coquitlam/bc/71415326/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2022/hyundai/ioniq-5/coquitlam/bc/71415326/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T22:56:56",
-      "snapshot": "2026-10-03T22:58:16",
+      "snapshot": "2026-10-04T11:04:47",
       "go_url": "https://carwhisper.ca/go/go-kia-west-km8kn4ab5nu068825",
       "region": "Lower Mainland",
       "city": "Coquitlam",
@@ -459,6 +459,33 @@
       "city": "Nanaimo",
       "province": "BC",
       "dealer_name": "Laird Wheaton GM"
+    },
+    {
+      "pub_id": "winnipeg-hyundai-km8krddf1ru247016",
+      "year": 2024,
+      "make": "Hyundai",
+      "model": "Ioniq 5",
+      "drivetrain": "AWD",
+      "propulsion": "electric",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 31296,
+      "price_cad": 46252.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/902d03c2-6aab-46df-8033-cd6852de7701_96255220-6487-4b95-9370-324b4c32e190.jpg",
+      "dealer_id": "winnipeg-hyundai",
+      "vin": "KM8KRDDF1RU247016",
+      "stock": "6401A",
+      "listing_url": "https://www.winnipeghyundai.com/vehicles/2024/hyundai/ioniq-5/winnipeg/mb/71358413/?sale_class=used",
+      "dealer_url": "https://www.winnipeghyundai.com/vehicles/2024/hyundai/ioniq-5/winnipeg/mb/71358413/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T13:02:38",
+      "snapshot": "2026-10-04T13:06:40",
+      "go_url": "https://carwhisper.ca/go/winnipeg-hyundai-km8krddf1ru247016",
+      "city": null,
+      "province": "MB",
+      "dealer_name": "Winnipeg Hyundai"
     }
   ]
 }

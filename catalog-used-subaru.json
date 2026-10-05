@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
   "condition": "used",
   "make": "subaru",
   "files": [
@@ -63,12 +63,12 @@
       "make": "subaru",
       "model": "Crosstrek",
       "shard": "Okanagan",
-      "count": 22,
+      "count": 23,
       "file": "inventory/used-subaru-crosstrek-okanagan.json",
       "models": [
         {
           "model": "Crosstrek",
-          "count": 22
+          "count": 23
         }
       ]
     },
@@ -175,12 +175,12 @@
       "make": "subaru",
       "model": "Outback",
       "shard": "sin-region",
-      "count": 21,
+      "count": 19,
       "file": "inventory/used-subaru-outback-sin-region.json",
       "models": [
         {
           "model": "Outback",
-          "count": 21
+          "count": 19
         }
       ]
     },
@@ -273,12 +273,12 @@
       "make": "subaru",
       "model": "WRX",
       "shard": "sin-region",
-      "count": 14,
+      "count": 15,
       "file": "inventory/used-subaru-wrx-sin-region.json",
       "models": [
         {
           "model": "WRX",
-          "count": 14
+          "count": 15
         }
       ]
     },
@@ -300,12 +300,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "part1",
-      "count": 29,
+      "count": 30,
       "file": "inventory/used-subaru-forester-part1.json",
       "models": [
         {
           "model": "Forester",
-          "count": 29
+          "count": 30
         }
       ]
     },
@@ -314,12 +314,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "part2",
-      "count": 29,
+      "count": 30,
       "file": "inventory/used-subaru-forester-part2.json",
       "models": [
         {
           "model": "Forester",
-          "count": 29
+          "count": 30
         }
       ]
     },
@@ -328,12 +328,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "part3",
-      "count": 29,
+      "count": 30,
       "file": "inventory/used-subaru-forester-part3.json",
       "models": [
         {
           "model": "Forester",
-          "count": 29
+          "count": 30
         }
       ]
     },
@@ -342,12 +342,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "part4",
-      "count": 29,
+      "count": 27,
       "file": "inventory/used-subaru-forester-part4.json",
       "models": [
         {
           "model": "Forester",
-          "count": 29
+          "count": 27
         }
       ]
     },
@@ -381,12 +381,12 @@
       "condition": "used",
       "make": "subaru",
       "model": "BRZ",
-      "count": 6,
+      "count": 7,
       "file": "inventory/used-subaru-brz.json",
       "models": [
         {
           "model": "BRZ",
-          "count": 6
+          "count": 7
         }
       ]
     },
@@ -581,6 +581,19 @@
       "models": [
         {
           "model": "Forester 2.5i Limited w-EyeSight Pkg",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Forester Limited AWD",
+      "count": 1,
+      "file": "inventory/used-subaru-forester-limited-awd.json",
+      "models": [
+        {
+          "model": "Forester Limited AWD",
           "count": 1
         }
       ]

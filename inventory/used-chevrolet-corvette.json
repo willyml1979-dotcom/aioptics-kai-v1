@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 19,
+  "count": 20,
   "vehicles": [
     {
       "pub_id": "maple-ridge-volkswagen-1g1yy36u965101498",
@@ -305,6 +305,36 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Kelowna Chevrolet"
+    },
+    {
+      "pub_id": "bannister-kia-penticton-1g1yz2d77h5118503",
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Corvette",
+      "trim": "Grand Sport Coupe 3LT Coupe",
+      "body_type": "coupe",
+      "drivetrain": "RWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 25642,
+      "price_cad": 79995.0,
+      "price_note": null,
+      "color": "Blue",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/inventory/VXQRKE4Q65DQRKIHAP54FYD33Q.webp",
+      "dealer_id": "bannister-kia-penticton",
+      "vin": "1G1YZ2D77H5118503",
+      "stock": "5926PK144",
+      "listing_url": "https://www.bannisterkiapenticton.com/inventory/2017-chevrolet-corvette-grand-sport-3lt-AP2HW1DmS5uRc2zgecOMPwvdp",
+      "dealer_url": "https://www.bannisterkiapenticton.com/inventory/2017-chevrolet-corvette-grand-sport-3lt-AP2HW1DmS5uRc2zgecOMPwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T15:12:47",
+      "snapshot": "2026-10-04T15:25:57",
+      "go_url": "https://carwhisper.ca/go/bannister-kia-penticton-1g1yz2d77h5118503",
+      "region": "Okanagan",
+      "city": "Penticton",
+      "province": "BC",
+      "dealer_name": "Bannister Kia Penticton"
     },
     {
       "pub_id": "kelowna-chevrolet-1g1ya2d47t5104414",

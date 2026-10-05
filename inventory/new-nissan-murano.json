@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 15,
+  "count": 16,
   "vehicles": [
     {
       "pub_id": "pioneer-chrysler-jeep-5n1az3dt0sc112584",
@@ -79,7 +79,7 @@
       "listing_url": "https://www.bannisternissan.ca/inventory/2027-nissan-murano-platinum-W6nYuuxsSuSH2sD32IOZsgvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2027-nissan-murano-platinum-W6nYuuxsSuSH2sD32IOZsgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T16:30:47",
-      "snapshot": "2026-10-03T16:33:17",
+      "snapshot": "2026-10-04T16:40:09",
       "go_url": "https://carwhisper.ca/go/bannister-nissan-chilliwack-5n1az3ds4vc100255",
       "region": "Lower Mainland",
       "city": "Chilliwack",
@@ -109,7 +109,7 @@
       "listing_url": "https://www.bannisternissan.ca/inventory/2027-nissan-murano-sl-RIMmceBASEWWM5aldiPlZwvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2027-nissan-murano-sl-RIMmceBASEWWM5aldiPlZwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T16:30:57",
-      "snapshot": "2026-10-03T16:33:17",
+      "snapshot": "2026-10-04T16:40:09",
       "go_url": "https://carwhisper.ca/go/bannister-nissan-chilliwack-5n1az3cs4vc104954",
       "region": "Lower Mainland",
       "city": "Chilliwack",
@@ -414,6 +414,31 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Campus Nissan"
+    },
+    {
+      "pub_id": "red-deer-nissan-5n1az3ds8vc100176",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Murano",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 13,
+      "price_cad": 68387.0,
+      "price_note": null,
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/f27b9280-9b90-4c1e-b6c1-c73425c54fe4_c6db3575-641d-46cd-9d66-2e985b33fd76.jpg",
+      "dealer_id": "red-deer-nissan",
+      "vin": "5N1AZ3DS8VC100176",
+      "stock": "RDN1001",
+      "listing_url": "https://www.reddeernissan.com/vehicles/2027/nissan/murano/red-deer/ab/71170010/?sale_class=new",
+      "dealer_url": "https://www.reddeernissan.com/vehicles/2027/nissan/murano/red-deer/ab/71170010/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T13:43:16",
+      "snapshot": "2026-10-04T13:43:58",
+      "go_url": "https://carwhisper.ca/go/red-deer-nissan-5n1az3ds8vc100176",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Red Deer Nissan"
     }
   ]
 }

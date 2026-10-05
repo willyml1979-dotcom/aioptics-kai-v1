@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "northland-nissan-1n6ed1ek6nn601804",
@@ -170,6 +170,33 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Country Hills Nissan"
+    },
+    {
+      "pub_id": "sherwood-park-chevrolet-1n6ed1fk5pn641048",
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Frontier Crew Cab",
+      "body_type": "truck",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 99241,
+      "price_cad": 37980.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/d5d0d441-ba69-49be-a4ef-a924a4b199f9_748ca1ab-b7bf-45fb-aadc-f45868b931e0.jpg",
+      "dealer_id": "sherwood-park-chevrolet",
+      "vin": "1N6ED1FK5PN641048",
+      "stock": "R-LW329",
+      "listing_url": "https://www.sherwoodparkchev.com/vehicles/2023/nissan/frontier-crew-cab/edmonton/ab/71378214/?sale_class=used",
+      "dealer_url": "https://www.sherwoodparkchev.com/vehicles/2023/nissan/frontier-crew-cab/edmonton/ab/71378214/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T13:29:47",
+      "snapshot": "2026-10-04T13:54:20",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-1n6ed1fk5pn641048",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Chevrolet"
     }
   ]
 }

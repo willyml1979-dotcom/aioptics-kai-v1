@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "abbotsford-volkswagen-3vw2m7bu0vm005920",
@@ -53,6 +53,34 @@
       "city": "Langley",
       "province": "BC",
       "dealer_name": "Gold Key Langley Volkswagen"
+    },
+    {
+      "pub_id": "comox-valley-vw-3vw2m7buxvm012423",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "GLI",
+      "body_type": "sedan",
+      "drivetrain": "FWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 15,
+      "price_cad": 38562.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "comox-valley-vw",
+      "vin": "3VW2M7BUXVM012423",
+      "stock": "14472585",
+      "listing_url": "https://www.comoxvalleyvolkswagen.com/new/inventory/2027-Volkswagen-GLI-id14472585.html",
+      "dealer_url": "https://www.comoxvalleyvolkswagen.com/new/inventory/2027-Volkswagen-GLI-id14472585.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T11:13:07",
+      "snapshot": "2026-10-04T11:15:57",
+      "go_url": "https://carwhisper.ca/go/comox-valley-vw-3vw2m7buxvm012423",
+      "region": "Vancouver Island",
+      "city": "Courtenay",
+      "province": "BC",
+      "dealer_name": "Comox Valley VW"
     },
     {
       "pub_id": "comox-valley-vw-79431-489455",

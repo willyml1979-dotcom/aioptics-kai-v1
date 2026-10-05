@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 24,
+  "count": 25,
   "vehicles": [
     {
       "pub_id": "marine-chrysler-dodge-jeep-ltd-1c4jjxr66mw660841",
@@ -305,6 +305,36 @@
       "city": "Penticton",
       "province": "BC",
       "dealer_name": "Penticton Nissan"
+    },
+    {
+      "pub_id": "bannister-kia-penticton-1c4rjxn67rw169002",
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Wrangler 4xe",
+      "trim": "Sport S 4 Door 4x4",
+      "body_type": "suv",
+      "drivetrain": "4WD",
+      "propulsion": "hybrid",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 28592,
+      "price_cad": 44995.0,
+      "price_note": null,
+      "color": "Silver",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/inventory/RYJB6XQWR5HQJC7GU5KCJAIZQU.webp",
+      "dealer_id": "bannister-kia-penticton",
+      "vin": "1C4RJXN67RW169002",
+      "stock": "5927E301A",
+      "listing_url": "https://www.bannisterkiapenticton.com/inventory/2024-jeep-wrangler-4xe-sport-s-GjQPagOeSgOz4k7vjFGCUgvdp",
+      "dealer_url": "https://www.bannisterkiapenticton.com/inventory/2024-jeep-wrangler-4xe-sport-s-GjQPagOeSgOz4k7vjFGCUgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T15:23:04",
+      "snapshot": "2026-10-04T15:25:57",
+      "go_url": "https://carwhisper.ca/go/bannister-kia-penticton-1c4rjxn67rw169002",
+      "region": "Okanagan",
+      "city": "Penticton",
+      "province": "BC",
+      "dealer_name": "Bannister Kia Penticton"
     },
     {
       "pub_id": "kelowna-hyundai-1c4rjxn64rw220097",

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:00:11+00:00",
-  "snapshot": "2026-10-04T18:00:11+00:00",
+  "generated_at": "2026-10-05T00:01:08+00:00",
+  "snapshot": "2026-10-05T00:01:08+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "integrity-subaru-1c4bjweg1jl824619",
@@ -119,6 +119,33 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Duncan Hyundai"
+    },
+    {
+      "pub_id": "sherwood-park-chevrolet-1c4bjweg4jl886029",
+      "year": 2018,
+      "make": "Jeep",
+      "model": "Wrangler JK Unlimited",
+      "drivetrain": "4WD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 161789,
+      "price_cad": 23680.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/dc54a80b-2df3-4e81-95c8-b894c4c15253_41eca66b-02db-4e61-af11-158510c4cf22.jpg",
+      "dealer_id": "sherwood-park-chevrolet",
+      "vin": "1C4BJWEG4JL886029",
+      "stock": "S-26GY6",
+      "listing_url": "https://www.sherwoodparkchev.com/vehicles/2018/jeep/wrangler-jk-unlimited/sherwood-park/ab/71294324/?sale_class=used",
+      "dealer_url": "https://www.sherwoodparkchev.com/vehicles/2018/jeep/wrangler-jk-unlimited/sherwood-park/ab/71294324/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T13:14:53",
+      "snapshot": "2026-10-04T13:54:20",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-1c4bjweg4jl886029",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Chevrolet"
     },
     {
       "pub_id": "applewood-ford-1c4bjwdgxjl857779",
