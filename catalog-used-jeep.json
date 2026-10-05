@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T06:01:09+00:00",
+  "generated_at": "2026-10-05T12:01:10+00:00",
   "condition": "used",
   "make": "jeep",
   "files": [
@@ -535,7 +535,7 @@
       "make": "jeep",
       "model": "Compass",
       "shard": "sin-region",
-      "count": 22,
+      "count": 24,
       "file": "inventory/used-jeep-compass-sin-region.json",
       "models": [
         {
@@ -544,7 +544,7 @@
         },
         {
           "model": "Compass",
-          "count": 21
+          "count": 23
         }
       ]
     },
@@ -1082,6 +1082,19 @@
       "models": [
         {
           "model": "Wrangler JK",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Renegade",
+      "count": 2,
+      "file": "inventory/used-jeep-renegade.json",
+      "models": [
+        {
+          "model": "Renegade",
           "count": 2
         }
       ]

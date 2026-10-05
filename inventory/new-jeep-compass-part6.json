@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T06:01:09+00:00",
-  "snapshot": "2026-10-05T06:01:09+00:00",
+  "generated_at": "2026-10-05T12:01:10+00:00",
+  "snapshot": "2026-10-05T12:01:10+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 31,
   "vehicles": [
@@ -833,6 +833,30 @@
       "dealer_name": "Comox Valley Dodge"
     },
     {
+      "pub_id": "tacoma-dodge-chrysler-jeep-ram-3c4njdbn7tt279019",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Latitude Altitude",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": 30955.0,
+      "price_note": null,
+      "color": "Silver Zynith Metallic Clearcoat",
+      "dealer_id": "tacoma-dodge-chrysler-jeep-ram",
+      "vin": "3C4NJDBN7TT279019",
+      "stock": "TT279019",
+      "listing_url": "https://www.tacomadodge.com/inventory/new/jeep/compass?paymenttype=finance&instock=true&intransit=true&inproduction=true",
+      "dealer_url": "https://www.tacomadodge.com/inventory/new/jeep/compass?paymenttype=finance&instock=true&intransit=true&inproduction=true&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T23:29:55",
+      "snapshot": "2026-10-04T23:31:53",
+      "go_url": "https://carwhisper.ca/go/tacoma-dodge-chrysler-jeep-ram-3c4njdbn7tt279019",
+      "city": null,
+      "province": "US",
+      "dealer_name": "Tacoma Dodge Chrysler Jeep Ram"
+    },
+    {
       "pub_id": "go-auto-brampton-chrysler-3c4njdbn7tt153484",
       "year": 2026,
       "make": "Jeep",
@@ -858,33 +882,6 @@
       "city": null,
       "province": "ON",
       "dealer_name": "Go Auto Brampton Chrysler"
-    },
-    {
-      "pub_id": "tacoma-dodge-chrysler-jeep-ram-3c4njdcn5tt285884",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "trim": "Limited",
-      "propulsion": "gas",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
-      "condition": "new",
-      "odometer_km": 0,
-      "price_cad": 36150.0,
-      "price_note": null,
-      "color": "Diamond Black Crystal Pearlcoat",
-      "photo_url": "https://content.homenetiol.com/2000157/2065512/0x0/81018433094f4db9880b1e3df4ea0b5a.jpg",
-      "dealer_id": "tacoma-dodge-chrysler-jeep-ram",
-      "vin": "3C4NJDCN5TT285884",
-      "stock": "TT285884",
-      "listing_url": "https://www.tacomadodge.com/viewdetails/new/3c4njdcn5tt285884/2026-jeep-compass-sport-utility",
-      "dealer_url": "https://www.tacomadodge.com/viewdetails/new/3c4njdcn5tt285884/2026-jeep-compass-sport-utility?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T22:45:07",
-      "snapshot": "2026-10-04T22:45:20",
-      "go_url": "https://carwhisper.ca/go/tacoma-dodge-chrysler-jeep-ram-3c4njdcn5tt285884",
-      "city": null,
-      "province": "US",
-      "dealer_name": "Tacoma Dodge Chrysler Jeep Ram"
     }
   ]
 }

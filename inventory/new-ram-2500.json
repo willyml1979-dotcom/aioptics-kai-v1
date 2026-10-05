@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T06:01:09+00:00",
-  "snapshot": "2026-10-05T06:01:09+00:00",
+  "generated_at": "2026-10-05T12:01:10+00:00",
+  "snapshot": "2026-10-05T12:01:10+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 19,
+  "count": 20,
   "vehicles": [
     {
       "pub_id": "sullivan-motor-products-nelson-ltd-3c63r5cl3tg202781",
@@ -175,6 +175,30 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Duncan Chrysler Dodge Jeep Ram Ltd."
+    },
+    {
+      "pub_id": "tacoma-dodge-chrysler-jeep-ram-3c6ur5jl1tg326636",
+      "year": 2026,
+      "make": "RAM",
+      "model": "2500",
+      "trim": "Big Horn",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": 66558.0,
+      "price_note": null,
+      "color": "Ceramic Gray Clearcoat",
+      "dealer_id": "tacoma-dodge-chrysler-jeep-ram",
+      "vin": "3C6UR5JL1TG326636",
+      "stock": "TG326636",
+      "listing_url": "https://www.tacomadodge.com/inventory/new/ram/2500?paymenttype=finance&instock=true&intransit=true&inproduction=true",
+      "dealer_url": "https://www.tacomadodge.com/inventory/new/ram/2500?paymenttype=finance&instock=true&intransit=true&inproduction=true&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T23:31:10",
+      "snapshot": "2026-10-04T23:31:53",
+      "go_url": "https://carwhisper.ca/go/tacoma-dodge-chrysler-jeep-ram-3c6ur5jl1tg326636",
+      "city": null,
+      "province": "US",
+      "dealer_name": "Tacoma Dodge Chrysler Jeep Ram"
     },
     {
       "pub_id": "go-auto-brampton-chrysler-3c63r5cl1tg220759",

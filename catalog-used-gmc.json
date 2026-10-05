@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T06:01:09+00:00",
+  "generated_at": "2026-10-05T12:01:10+00:00",
   "condition": "used",
   "make": "gmc",
   "files": [
@@ -127,12 +127,12 @@
       "make": "gmc",
       "model": "Sierra 1500",
       "shard": "part1",
-      "count": 30,
+      "count": 31,
       "file": "inventory/used-gmc-sierra-1500-part1.json",
       "models": [
         {
           "model": "Sierra 1500",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -141,7 +141,7 @@
       "make": "gmc",
       "model": "Sierra 1500",
       "shard": "part2",
-      "count": 30,
+      "count": 31,
       "file": "inventory/used-gmc-sierra-1500-part2.json",
       "models": [
         {
@@ -150,7 +150,7 @@
         },
         {
           "model": "Sierra 1500",
-          "count": 29
+          "count": 30
         }
       ]
     },
@@ -159,12 +159,12 @@
       "make": "gmc",
       "model": "Sierra 1500",
       "shard": "part3",
-      "count": 30,
+      "count": 31,
       "file": "inventory/used-gmc-sierra-1500-part3.json",
       "models": [
         {
           "model": "Sierra 1500",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -173,8 +173,22 @@
       "make": "gmc",
       "model": "Sierra 1500",
       "shard": "part4",
-      "count": 30,
+      "count": 31,
       "file": "inventory/used-gmc-sierra-1500-part4.json",
+      "models": [
+        {
+          "model": "Sierra 1500",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "gmc",
+      "model": "Sierra 1500",
+      "shard": "part5",
+      "count": 30,
+      "file": "inventory/used-gmc-sierra-1500-part5.json",
       "models": [
         {
           "model": "Sierra 1500",
@@ -185,27 +199,13 @@
     {
       "condition": "used",
       "make": "gmc",
-      "model": "Sierra 1500",
-      "shard": "part5",
-      "count": 29,
-      "file": "inventory/used-gmc-sierra-1500-part5.json",
-      "models": [
-        {
-          "model": "Sierra 1500",
-          "count": 29
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "gmc",
       "model": "Yukon XL",
-      "count": 25,
+      "count": 26,
       "file": "inventory/used-gmc-yukon-xl.json",
       "models": [
         {
           "model": "Yukon XL",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -226,12 +226,69 @@
       "condition": "used",
       "make": "gmc",
       "model": "Acadia",
-      "count": 37,
-      "file": "inventory/used-gmc-acadia.json",
+      "shard": "Lower Mainland",
+      "count": 8,
+      "file": "inventory/used-gmc-acadia-lower-mainland.json",
       "models": [
         {
           "model": "Acadia",
-          "count": 37
+          "count": 8
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "gmc",
+      "model": "Acadia",
+      "shard": "Norte/Cariboo",
+      "count": 1,
+      "file": "inventory/used-gmc-acadia-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Acadia",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "gmc",
+      "model": "Acadia",
+      "shard": "Okanagan",
+      "count": 12,
+      "file": "inventory/used-gmc-acadia-okanagan.json",
+      "models": [
+        {
+          "model": "Acadia",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "gmc",
+      "model": "Acadia",
+      "shard": "Vancouver Island",
+      "count": 8,
+      "file": "inventory/used-gmc-acadia-vancouver-island.json",
+      "models": [
+        {
+          "model": "Acadia",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "gmc",
+      "model": "Acadia",
+      "shard": "sin-region",
+      "count": 10,
+      "file": "inventory/used-gmc-acadia-sin-region.json",
+      "models": [
+        {
+          "model": "Acadia",
+          "count": 10
         }
       ]
     },
@@ -409,12 +466,12 @@
       "condition": "used",
       "make": "gmc",
       "model": "Sierra 2500HD",
-      "count": 9,
+      "count": 10,
       "file": "inventory/used-gmc-sierra-2500hd.json",
       "models": [
         {
           "model": "Sierra 2500HD",
-          "count": 9
+          "count": 10
         }
       ]
     },

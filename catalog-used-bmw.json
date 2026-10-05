@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T06:01:09+00:00",
+  "generated_at": "2026-10-05T12:01:10+00:00",
   "condition": "used",
   "make": "bmw",
   "files": [
@@ -7,12 +7,41 @@
       "condition": "used",
       "make": "bmw",
       "model": "3 Series",
-      "count": 31,
-      "file": "inventory/used-bmw-3-series.json",
+      "shard": "Lower Mainland",
+      "count": 25,
+      "file": "inventory/used-bmw-3-series-lower-mainland.json",
       "models": [
         {
           "model": "3 Series",
-          "count": 31
+          "count": 25
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "bmw",
+      "model": "3 Series",
+      "shard": "Vancouver Island",
+      "count": 3,
+      "file": "inventory/used-bmw-3-series-vancouver-island.json",
+      "models": [
+        {
+          "model": "3 Series",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "bmw",
+      "model": "3 Series",
+      "shard": "sin-region",
+      "count": 4,
+      "file": "inventory/used-bmw-3-series-sin-region.json",
+      "models": [
+        {
+          "model": "3 Series",
+          "count": 4
         }
       ]
     },
@@ -495,12 +524,12 @@
       "condition": "used",
       "make": "bmw",
       "model": "2 Series",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-bmw-2-series.json",
       "models": [
         {
           "model": "2 Series",
-          "count": 1
+          "count": 2
         }
       ]
     },

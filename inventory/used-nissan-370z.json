@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T06:01:09+00:00",
-  "snapshot": "2026-10-05T06:01:09+00:00",
+  "generated_at": "2026-10-05T12:01:10+00:00",
+  "snapshot": "2026-10-05T12:01:10+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "brian-jessel-bmw-jn1az4eh3km420382",
@@ -57,6 +57,33 @@
       "city": "Penticton",
       "province": "BC",
       "dealer_name": "Bannister Kia Penticton"
+    },
+    {
+      "pub_id": "tacoma-dodge-chrysler-jeep-ram-jn1az4fh7fm430076",
+      "year": 2015,
+      "make": "Nissan",
+      "model": "370Z",
+      "trim": "Base",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 52579,
+      "price_cad": 19544.0,
+      "price_note": null,
+      "color": "Magma Red Metallic",
+      "photo_url": "https://content.homenetiol.com/2000157/2065512/0x0/de45ad9ae1224b4c86013c2d1a69e42e.jpg",
+      "dealer_id": "tacoma-dodge-chrysler-jeep-ram",
+      "vin": "JN1AZ4FH7FM430076",
+      "stock": "24578A",
+      "listing_url": "https://www.tacomadodge.com/viewdetails/used/jn1az4fh7fm430076/2015-nissan-370z-convertible?type=cash",
+      "dealer_url": "https://www.tacomadodge.com/viewdetails/used/jn1az4fh7fm430076/2015-nissan-370z-convertible?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T23:23:02",
+      "snapshot": "2026-10-04T23:28:25",
+      "go_url": "https://carwhisper.ca/go/tacoma-dodge-chrysler-jeep-ram-jn1az4fh7fm430076",
+      "city": null,
+      "province": "US",
+      "dealer_name": "Tacoma Dodge Chrysler Jeep Ram"
     }
   ]
 }

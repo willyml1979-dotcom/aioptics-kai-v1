@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T06:01:09+00:00",
-  "snapshot": "2026-10-05T06:01:09+00:00",
+  "generated_at": "2026-10-05T12:01:10+00:00",
+  "snapshot": "2026-10-05T12:01:10+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 26,
+  "count": 27,
   "vehicles": [
     {
       "pub_id": "denham-ford-bc-ltd-kndeucaa3s7760579",
@@ -733,6 +733,30 @@
       "city": "Langley",
       "province": "BC",
       "dealer_name": "Applewood Kia - Langley"
+    },
+    {
+      "pub_id": "maple-ridge-hyundai-kndeu2aa5r7606136",
+      "year": 2024,
+      "make": "Kia",
+      "model": "Seltos",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 24797.0,
+      "price_note": null,
+      "color": "Grey",
+      "dealer_id": "maple-ridge-hyundai",
+      "vin": "KNDEU2AA5R7606136",
+      "stock": 13844398,
+      "listing_url": "https://www.mapleridgehyundai.com/used/2024-Kia-Seltos.html",
+      "dealer_url": "https://www.mapleridgehyundai.com/used/2024-Kia-Seltos.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T06:53:44",
+      "snapshot": "2026-09-25T07:09:21",
+      "go_url": "https://carwhisper.ca/go/maple-ridge-hyundai-kndeu2aa5r7606136",
+      "region": "Lower Mainland",
+      "city": "Maple Ridge",
+      "province": "BC",
+      "dealer_name": "Maple Ridge Hyundai"
     }
   ]
 }

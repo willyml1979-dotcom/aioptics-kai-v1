@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T06:01:09+00:00",
-  "snapshot": "2026-10-05T06:01:09+00:00",
+  "generated_at": "2026-10-05T12:01:10+00:00",
+  "snapshot": "2026-10-05T12:01:10+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "northland-chrysler-jeep-dodge-1ft7w2b61kef73294",
@@ -51,6 +51,33 @@
       "city": "Fort St. John",
       "province": "BC",
       "dealer_name": "Fort Motors Ltd."
+    },
+    {
+      "pub_id": "tacoma-dodge-chrysler-jeep-ram-1ft7w2b64kee05293",
+      "year": 2019,
+      "make": "Ford",
+      "model": "Super Duty F-250 SRW",
+      "trim": "XLT",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 175598,
+      "price_cad": 0.0,
+      "price_note": null,
+      "color": "Oxford White",
+      "photo_url": "https://content.homenetiol.com/2000157/2065512/0x0/ac1a97d1ab6244dc811c4ce76122cfed.jpg",
+      "dealer_id": "tacoma-dodge-chrysler-jeep-ram",
+      "vin": "1FT7W2B64KEE05293",
+      "stock": "KEE05293",
+      "listing_url": "https://www.tacomadodge.com/viewdetails/used/1ft7w2b64kee05293/2019-ford-super-duty-f-250-srw-crew-cab-pickup?type=cash",
+      "dealer_url": "https://www.tacomadodge.com/viewdetails/used/1ft7w2b64kee05293/2019-ford-super-duty-f-250-srw-crew-cab-pickup?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T23:00:36",
+      "snapshot": "2026-10-04T23:28:25",
+      "go_url": "https://carwhisper.ca/go/tacoma-dodge-chrysler-jeep-ram-1ft7w2b64kee05293",
+      "city": null,
+      "province": "US",
+      "dealer_name": "Tacoma Dodge Chrysler Jeep Ram"
     }
   ]
 }

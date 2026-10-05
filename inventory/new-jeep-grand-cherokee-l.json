@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T06:01:09+00:00",
-  "snapshot": "2026-10-05T06:01:09+00:00",
+  "generated_at": "2026-10-05T12:01:10+00:00",
+  "snapshot": "2026-10-05T12:01:10+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 30,
+  "count": 31,
   "vehicles": [
     {
       "pub_id": "kootenay-chrysler-dodge-jeep-ram-ltd-1c4rjkar6t8585833",
@@ -356,6 +356,30 @@
       "city": "Port Alberni",
       "province": "BC",
       "dealer_name": "Alberni Chrysler Dodge Jeep Ram"
+    },
+    {
+      "pub_id": "tacoma-dodge-chrysler-jeep-ram-1c4rjkag8t8599568",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Grand Cherokee L",
+      "trim": "Laredo",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": 38393.0,
+      "price_note": null,
+      "color": "Silver Zynith",
+      "dealer_id": "tacoma-dodge-chrysler-jeep-ram",
+      "vin": "1C4RJKAG8T8599568",
+      "stock": "T8599568",
+      "listing_url": "https://www.tacomadodge.com/inventory/new/jeep/grand-cherokee-l?paymenttype=finance&instock=true&intransit=true&inproduction=true",
+      "dealer_url": "https://www.tacomadodge.com/inventory/new/jeep/grand-cherokee-l?paymenttype=finance&instock=true&intransit=true&inproduction=true&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T23:30:15",
+      "snapshot": "2026-10-04T23:31:53",
+      "go_url": "https://carwhisper.ca/go/tacoma-dodge-chrysler-jeep-ram-1c4rjkag8t8599568",
+      "city": null,
+      "province": "US",
+      "dealer_name": "Tacoma Dodge Chrysler Jeep Ram"
     },
     {
       "pub_id": "go-auto-brampton-chrysler-1c4rjkagxt8580584",

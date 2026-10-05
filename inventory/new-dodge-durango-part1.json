@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T06:01:09+00:00",
-  "snapshot": "2026-10-05T06:01:09+00:00",
+  "generated_at": "2026-10-05T12:01:10+00:00",
+  "snapshot": "2026-10-05T12:01:10+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 31,
+  "count": 32,
   "vehicles": [
     {
       "pub_id": "cranbrook-dodge-1c4rdjdg6tc316272",
@@ -788,6 +788,33 @@
       "city": "Penticton",
       "province": "BC",
       "dealer_name": "Penticton Nissan"
+    },
+    {
+      "pub_id": "braby-motors-ltd-1c4rdjdg0tc276903",
+      "year": 2026,
+      "make": "DODGE",
+      "model": "DURANGO",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 11,
+      "price_cad": 55485.0,
+      "price_note": null,
+      "color": "Triple Nickel",
+      "photo_url": "https://portal.omni.auto/Media/InventoryMedia/1C4RDJDG0TC276903/Optimized/9608229cf79839e2af66620e065f010a.webp",
+      "dealer_id": "braby-motors-ltd",
+      "vin": "1C4RDJDG0TC276903",
+      "stock": "26-241",
+      "listing_url": "https://brabymotors.com/Inventory/2026-DODGE-DURANGO-SXT-1C4RDJDG0TC276903",
+      "dealer_url": "https://brabymotors.com/Inventory/2026-DODGE-DURANGO-SXT-1C4RDJDG0TC276903?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T17:55:33",
+      "snapshot": "2026-10-04T17:59:58",
+      "go_url": "https://carwhisper.ca/go/braby-motors-ltd-1c4rdjdg0tc276903",
+      "region": "Okanagan",
+      "city": "Salmon Arm",
+      "province": "BC",
+      "dealer_name": "Braby Motors Ltd."
     }
   ]
 }

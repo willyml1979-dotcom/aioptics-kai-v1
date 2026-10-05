@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T06:01:09+00:00",
+  "generated_at": "2026-10-05T12:01:10+00:00",
   "condition": "new",
   "make": "dodge",
   "files": [
@@ -8,12 +8,12 @@
       "make": "dodge",
       "model": "Durango",
       "shard": "part1",
-      "count": 31,
+      "count": 32,
       "file": "inventory/new-dodge-durango-part1.json",
       "models": [
         {
           "model": "DURANGO",
-          "count": 5
+          "count": 6
         },
         {
           "model": "Durango",
@@ -26,16 +26,16 @@
       "make": "dodge",
       "model": "Durango",
       "shard": "part2",
-      "count": 31,
+      "count": 32,
       "file": "inventory/new-dodge-durango-part2.json",
       "models": [
         {
           "model": "DURANGO",
-          "count": 5
+          "count": 4
         },
         {
           "model": "Durango",
-          "count": 26
+          "count": 28
         }
       ]
     },
@@ -44,12 +44,12 @@
       "make": "dodge",
       "model": "Durango",
       "shard": "part3",
-      "count": 31,
+      "count": 32,
       "file": "inventory/new-dodge-durango-part3.json",
       "models": [
         {
           "model": "Durango",
-          "count": 31
+          "count": 32
         }
       ]
     },
@@ -58,12 +58,12 @@
       "make": "dodge",
       "model": "Durango",
       "shard": "part4",
-      "count": 31,
+      "count": 32,
       "file": "inventory/new-dodge-durango-part4.json",
       "models": [
         {
           "model": "Durango",
-          "count": 31
+          "count": 32
         }
       ]
     },
@@ -72,12 +72,12 @@
       "make": "dodge",
       "model": "Durango",
       "shard": "part5",
-      "count": 31,
+      "count": 28,
       "file": "inventory/new-dodge-durango-part5.json",
       "models": [
         {
           "model": "Durango",
-          "count": 31
+          "count": 28
         }
       ]
     },
@@ -111,7 +111,7 @@
       "condition": "new",
       "make": "dodge",
       "model": "CHARGER",
-      "count": 21,
+      "count": 22,
       "file": "inventory/new-dodge-charger.json",
       "models": [
         {
@@ -120,7 +120,7 @@
         },
         {
           "model": "Charger",
-          "count": 18
+          "count": 19
         }
       ]
     },
@@ -134,6 +134,19 @@
         {
           "model": "Hornet",
           "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "dodge",
+      "model": "Charger Daytona",
+      "count": 1,
+      "file": "inventory/new-dodge-charger-daytona.json",
+      "models": [
+        {
+          "model": "Charger Daytona",
+          "count": 1
         }
       ]
     },

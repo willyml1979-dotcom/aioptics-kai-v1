@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T06:01:09+00:00",
-  "snapshot": "2026-10-05T06:01:09+00:00",
+  "generated_at": "2026-10-05T12:01:10+00:00",
+  "snapshot": "2026-10-05T12:01:10+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "preston-chevrolet-buick-gmc-cadillac-ltd-1gys4lkl0nr173133",
@@ -180,6 +180,33 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Bannister Cadillac Buick GMC Ltd."
+    },
+    {
+      "pub_id": "tacoma-dodge-chrysler-jeep-ram-1gys4jkjxjr110571",
+      "year": 2018,
+      "make": "Cadillac",
+      "model": "Escalade ESV",
+      "trim": "Premium Luxury",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 87255,
+      "price_cad": 29840.0,
+      "price_note": null,
+      "color": "Bronze Dune Metallic",
+      "photo_url": "https://content.homenetiol.com/2000157/2065512/0x0/a7969e1d65d04d90aafd36447908dbf5.jpg",
+      "dealer_id": "tacoma-dodge-chrysler-jeep-ram",
+      "vin": "1GYS4JKJXJR110571",
+      "stock": "24553",
+      "listing_url": "https://www.tacomadodge.com/viewdetails/used/1gys4jkjxjr110571/2018-cadillac-escalade-esv-sport-utility?type=cash",
+      "dealer_url": "https://www.tacomadodge.com/viewdetails/used/1gys4jkjxjr110571/2018-cadillac-escalade-esv-sport-utility?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T23:05:13",
+      "snapshot": "2026-10-04T23:28:25",
+      "go_url": "https://carwhisper.ca/go/tacoma-dodge-chrysler-jeep-ram-1gys4jkjxjr110571",
+      "city": null,
+      "province": "US",
+      "dealer_name": "Tacoma Dodge Chrysler Jeep Ram"
     }
   ]
 }

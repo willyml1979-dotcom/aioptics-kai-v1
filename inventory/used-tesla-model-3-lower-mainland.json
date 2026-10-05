@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T06:01:09+00:00",
-  "snapshot": "2026-10-05T06:01:09+00:00",
+  "generated_at": "2026-10-05T12:01:10+00:00",
+  "snapshot": "2026-10-05T12:01:10+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 19,
+  "count": 20,
   "vehicles": [
     {
       "pub_id": "destination-burnaby-honda-happy-honda-5yj3e1eaxlf626022",
@@ -498,6 +498,36 @@
       "city": "Mission",
       "province": "BC",
       "dealer_name": "Pioneer Chrysler Jeep"
+    },
+    {
+      "pub_id": "applewood-mazda-surrey-lrw3e7fa3tc848493",
+      "year": 2026,
+      "make": "Tesla",
+      "model": "Model 3",
+      "trim": "Premium RWD",
+      "body_type": "sedan",
+      "drivetrain": "RWD",
+      "propulsion": "electric",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 8017,
+      "price_cad": 46004.0,
+      "price_note": null,
+      "color": "Gray",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,op_bl,ow_100,v1/adjustment/3OCOZ3MGPBCRVGQXDTFNDEL3SI%3Btrim/RJECWYPPDZHR5AFLCFBAL3ERRY-86082.webp",
+      "dealer_id": "applewood-mazda-surrey",
+      "vin": "LRW3E7FA3TC848493",
+      "stock": "B68493",
+      "listing_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-tesla-model-3-premium-EbzBqepgTv6aak3c2SXbTAvdp",
+      "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-tesla-model-3-premium-EbzBqepgTv6aak3c2SXbTAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-05T01:59:48",
+      "snapshot": "2026-10-05T02:02:50",
+      "go_url": "https://carwhisper.ca/go/applewood-mazda-surrey-lrw3e7fa3tc848493",
+      "region": "Lower Mainland",
+      "city": "Surrey",
+      "province": "BC",
+      "dealer_name": "Applewood Mazda Surrey"
     }
   ]
 }

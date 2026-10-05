@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T06:01:09+00:00",
-  "snapshot": "2026-10-05T06:01:09+00:00",
+  "generated_at": "2026-10-05T12:01:10+00:00",
+  "snapshot": "2026-10-05T12:01:10+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 21,
+  "count": 22,
   "vehicles": [
     {
       "pub_id": "maple-ridge-volkswagen-1g1yy36u965101498",
@@ -530,6 +530,33 @@
       "city": "Nanaimo",
       "province": "BC",
       "dealer_name": "Laird Wheaton GM"
+    },
+    {
+      "pub_id": "tacoma-dodge-chrysler-jeep-ram-1g1ya2d4xr5120034",
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Corvette",
+      "trim": "1LT",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 12604,
+      "price_cad": 65622.0,
+      "price_note": null,
+      "color": "Red",
+      "photo_url": "https://content.homenetiol.com/2000157/2065512/0x0/73e18f9dde8045179376f9e832a5f8f2.jpg",
+      "dealer_id": "tacoma-dodge-chrysler-jeep-ram",
+      "vin": "1G1YA2D4XR5120034",
+      "stock": "C151306B",
+      "listing_url": "https://www.tacomadodge.com/viewdetails/used/1g1ya2d4xr5120034/2024-chevrolet-corvette-2dr-car?type=cash",
+      "dealer_url": "https://www.tacomadodge.com/viewdetails/used/1g1ya2d4xr5120034/2024-chevrolet-corvette-2dr-car?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T23:02:05",
+      "snapshot": "2026-10-04T23:28:25",
+      "go_url": "https://carwhisper.ca/go/tacoma-dodge-chrysler-jeep-ram-1g1ya2d4xr5120034",
+      "city": null,
+      "province": "US",
+      "dealer_name": "Tacoma Dodge Chrysler Jeep Ram"
     },
     {
       "pub_id": "maple-ridge-chevrolet-buick-gmc-1g1ya2d40t5103198",

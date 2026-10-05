@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T06:01:09+00:00",
-  "snapshot": "2026-10-05T06:01:09+00:00",
+  "generated_at": "2026-10-05T12:01:10+00:00",
+  "snapshot": "2026-10-05T12:01:10+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 29,
+  "count": 31,
   "vehicles": [
     {
       "pub_id": "preston-chevrolet-buick-gmc-cadillac-ltd-3gcukrec7fg169911",
@@ -806,6 +806,54 @@
       "city": "Vernon",
       "province": "BC",
       "dealer_name": "Bannister Chevrolet Inc. Vernon"
+    },
+    {
+      "pub_id": "kelowna-hyundai-2gcudeed3p1104785",
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 50904.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "kelowna-hyundai",
+      "vin": "2GCUDEED3P1104785",
+      "stock": 14365273,
+      "listing_url": "https://www.kelownahyundai.com/used/2023-Chevrolet-Silverado_1500.html",
+      "dealer_url": "https://www.kelownahyundai.com/used/2023-Chevrolet-Silverado_1500.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T13:24:49",
+      "snapshot": "2026-09-26T14:01:03",
+      "go_url": "https://carwhisper.ca/go/kelowna-hyundai-2gcudeed3p1104785",
+      "region": "Okanagan",
+      "city": "Kelowna",
+      "province": "BC",
+      "dealer_name": "Kelowna Hyundai"
+    },
+    {
+      "pub_id": "okanagan-chrysler-dodge-jeep-ram-2gcudeed3p1104785",
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 50904.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "okanagan-chrysler-dodge-jeep-ram",
+      "vin": "2GCUDEED3P1104785",
+      "stock": 14365273,
+      "listing_url": "https://www.okanagandodge.com/used/2023-Chevrolet-Silverado_1500.html",
+      "dealer_url": "https://www.okanagandodge.com/used/2023-Chevrolet-Silverado_1500.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T21:37:49",
+      "snapshot": "2026-09-26T22:16:38",
+      "go_url": "https://carwhisper.ca/go/okanagan-chrysler-dodge-jeep-ram-2gcudeed3p1104785",
+      "region": "Okanagan",
+      "city": "Kelowna",
+      "province": "BC",
+      "dealer_name": "Okanagan Chrysler Dodge Jeep Ram"
     }
   ]
 }

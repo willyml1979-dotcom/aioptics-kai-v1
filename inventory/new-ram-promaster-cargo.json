@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T06:01:09+00:00",
-  "snapshot": "2026-10-05T06:01:09+00:00",
+  "generated_at": "2026-10-05T12:01:10+00:00",
+  "snapshot": "2026-10-05T12:01:10+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 22,
+  "count": 23,
   "vehicles": [
     {
       "pub_id": "maple-ridge-hyundai-3c6lrvcg0se539454",
@@ -530,6 +530,31 @@
       "city": "Courtenay",
       "province": "BC",
       "dealer_name": "Comox Valley Dodge"
+    },
+    {
+      "pub_id": "tacoma-dodge-chrysler-jeep-ram-3c6lrvng0te198202",
+      "year": 2026,
+      "make": "RAM",
+      "model": "ProMaster Cargo",
+      "trim": "Tradesman",
+      "body_type": "van",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": 43960.0,
+      "price_note": null,
+      "color": "Bright White Clearcoat",
+      "dealer_id": "tacoma-dodge-chrysler-jeep-ram",
+      "vin": "3C6LRVNG0TE198202",
+      "stock": "TE198202",
+      "listing_url": "https://www.tacomadodge.com/inventory/new/ram/promaster-cargo-van?paymenttype=finance&instock=true&intransit=true&inproduction=true",
+      "dealer_url": "https://www.tacomadodge.com/inventory/new/ram/promaster-cargo-van?paymenttype=finance&instock=true&intransit=true&inproduction=true&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T23:31:48",
+      "snapshot": "2026-10-04T23:31:53",
+      "go_url": "https://carwhisper.ca/go/tacoma-dodge-chrysler-jeep-ram-3c6lrvng0te198202",
+      "city": null,
+      "province": "US",
+      "dealer_name": "Tacoma Dodge Chrysler Jeep Ram"
     },
     {
       "pub_id": "go-auto-brampton-chrysler-3c6mrwez2te202486",

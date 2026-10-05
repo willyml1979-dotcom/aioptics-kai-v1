@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T06:01:09+00:00",
-  "snapshot": "2026-10-05T06:01:09+00:00",
+  "generated_at": "2026-10-05T12:01:10+00:00",
+  "snapshot": "2026-10-05T12:01:10+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 8,
+  "count": 9,
   "vehicles": [
     {
       "pub_id": "jim-pattison-toyota-downtown-jtdkdtb34c1006792",
@@ -203,6 +203,32 @@
       "city": "Nanaimo",
       "province": "BC",
       "dealer_name": "Nanaimo Toyota"
+    },
+    {
+      "pub_id": "tacoma-dodge-chrysler-jeep-ram-jtdkn3du4d5632095",
+      "year": 2013,
+      "make": "Toyota",
+      "model": "Prius",
+      "propulsion": "hybrid",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 73257,
+      "price_cad": 0.0,
+      "price_note": null,
+      "color": "Other",
+      "photo_url": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2013TOY010a_640/2013TOY010a_640_01.jpg",
+      "dealer_id": "tacoma-dodge-chrysler-jeep-ram",
+      "vin": "JTDKN3DU4D5632095",
+      "stock": "N260494A",
+      "listing_url": "https://www.tacomadodge.com/viewdetails/used/jtdkn3du4d5632095/2013-toyota-prius-hatchback?type=cash",
+      "dealer_url": "https://www.tacomadodge.com/viewdetails/used/jtdkn3du4d5632095/2013-toyota-prius-hatchback?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T23:24:07",
+      "snapshot": "2026-10-04T23:28:25",
+      "go_url": "https://carwhisper.ca/go/tacoma-dodge-chrysler-jeep-ram-jtdkn3du4d5632095",
+      "city": null,
+      "province": "US",
+      "dealer_name": "Tacoma Dodge Chrysler Jeep Ram"
     },
     {
       "pub_id": "gardner-chevrolet-buick-gmc-ltd-jtdkdtb39h1596950",

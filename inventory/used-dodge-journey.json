@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T06:01:09+00:00",
-  "snapshot": "2026-10-05T06:01:09+00:00",
+  "generated_at": "2026-10-05T12:01:10+00:00",
+  "snapshot": "2026-10-05T12:01:10+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 17,
+  "count": 18,
   "vehicles": [
     {
       "pub_id": "chilliwack-mitsubishi-3c4pddfgxdt709056",
@@ -465,6 +465,33 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Red Deer Nissan"
+    },
+    {
+      "pub_id": "tacoma-dodge-chrysler-jeep-ram-3c4pdcbb2kt708114",
+      "year": 2019,
+      "make": "Dodge",
+      "model": "Journey",
+      "trim": "SE",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 137037,
+      "price_cad": 8695.0,
+      "price_note": null,
+      "color": "Pitch Black Clearcoat",
+      "photo_url": "https://content.homenetiol.com/2000157/2065512/0x0/225e53766f3b46509099a613a5c71a97.jpg",
+      "dealer_id": "tacoma-dodge-chrysler-jeep-ram",
+      "vin": "3C4PDCBB2KT708114",
+      "stock": "KT708114",
+      "listing_url": "https://www.tacomadodge.com/viewdetails/used/3c4pdcbb2kt708114/2019-dodge-journey-sport-utility?type=cash",
+      "dealer_url": "https://www.tacomadodge.com/viewdetails/used/3c4pdcbb2kt708114/2019-dodge-journey-sport-utility?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T23:11:00",
+      "snapshot": "2026-10-04T23:28:25",
+      "go_url": "https://carwhisper.ca/go/tacoma-dodge-chrysler-jeep-ram-3c4pdcbb2kt708114",
+      "city": null,
+      "province": "US",
+      "dealer_name": "Tacoma Dodge Chrysler Jeep Ram"
     }
   ]
 }

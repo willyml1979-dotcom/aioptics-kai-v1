@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T06:01:09+00:00",
-  "snapshot": "2026-10-05T06:01:09+00:00",
+  "generated_at": "2026-10-05T12:01:10+00:00",
+  "snapshot": "2026-10-05T12:01:10+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 32,
   "vehicles": [
@@ -175,6 +175,30 @@
       "city": "Courtenay",
       "province": "BC",
       "dealer_name": "Comox Valley Dodge"
+    },
+    {
+      "pub_id": "tacoma-dodge-chrysler-jeep-ram-3c4pjmb21tt252400",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "Laredo",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": 32495.0,
+      "price_note": null,
+      "color": "Hydro Blue Pearlcoat",
+      "dealer_id": "tacoma-dodge-chrysler-jeep-ram",
+      "vin": "3C4PJMB21TT252400",
+      "stock": "TT252400",
+      "listing_url": "https://www.tacomadodge.com/inventory/new/jeep/cherokee?paymenttype=finance&instock=true&intransit=true&inproduction=true",
+      "dealer_url": "https://www.tacomadodge.com/inventory/new/jeep/cherokee?paymenttype=finance&instock=true&intransit=true&inproduction=true&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T23:29:45",
+      "snapshot": "2026-10-04T23:31:53",
+      "go_url": "https://carwhisper.ca/go/tacoma-dodge-chrysler-jeep-ram-3c4pjmb21tt252400",
+      "city": null,
+      "province": "US",
+      "dealer_name": "Tacoma Dodge Chrysler Jeep Ram"
     },
     {
       "pub_id": "tacoma-dodge-chrysler-jeep-ram-3c4pjmb23tt252401",
@@ -853,33 +877,6 @@
       "city": null,
       "province": "ON",
       "dealer_name": "Vaughan Chrysler"
-    },
-    {
-      "pub_id": "go-auto-brampton-chrysler-3c4pjmb24tt283298",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "body_type": "suv",
-      "drivetrain": "4WD",
-      "propulsion": "hybrid",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
-      "condition": "new",
-      "price_cad": 45785.0,
-      "price_note": null,
-      "color": "Black",
-      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/787bde8b-fd91-4f94-8f96-193c5e2dbf26_c0a2b265-b1d5-4a0b-90cc-4ea5c8a254c8.jpg",
-      "dealer_id": "go-auto-brampton-chrysler",
-      "vin": "3C4PJMB24TT283298",
-      "stock": "N27TA72",
-      "listing_url": "https://www.bramptonchrysler.ca/vehicles/2026/jeep/cherokee/brampton/on/70571019/?sale_class=new",
-      "dealer_url": "https://www.bramptonchrysler.ca/vehicles/2026/jeep/cherokee/brampton/on/70571019/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T21:40:59",
-      "snapshot": "2026-10-04T23:01:49",
-      "go_url": "https://carwhisper.ca/go/go-auto-brampton-chrysler-3c4pjmb24tt283298",
-      "city": null,
-      "province": "ON",
-      "dealer_name": "Go Auto Brampton Chrysler"
     }
   ]
 }
