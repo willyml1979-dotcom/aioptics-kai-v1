@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
-  "snapshot": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
+  "snapshot": "2026-10-05T06:01:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 4,
   "vehicles": [
     {
       "pub_id": "sherwood-park-chevrolet-5tdjzrfh8hs516577",
@@ -31,6 +31,34 @@
       "dealer_name": "Sherwood Park Chevrolet"
     },
     {
+      "pub_id": "pacific-honda-5tdkbrch0rs140505",
+      "year": 2024,
+      "make": "Toyota",
+      "model": "Highlander",
+      "trim": "XLE AWD",
+      "drivetrain": "4WD",
+      "propulsion": "hybrid",
+      "propulsion_source": "model_trim_name",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 72419,
+      "price_cad": 52888.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://img.sm360.ca/images/inventory/mercedes-benz-richmond/toyota/highlander-hybrid/2024/39281924/39281924_06813_9e363fc01ef3ae0a3d8d57b77510990f.jpeg",
+      "dealer_id": "pacific-honda",
+      "vin": "5TDKBRCH0RS140505",
+      "stock": "MB61216",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/toyota/highlander-hybrid/2024-toyota-highlander-hybrid-id39281924",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/toyota/highlander-hybrid/2024-toyota-highlander-hybrid-id39281924?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T20:06:59",
+      "snapshot": "2026-10-04T20:22:02",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-5tdkbrch0rs140505",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
+    },
+    {
       "pub_id": "gardner-chevrolet-buick-gmc-ltd-5tddzrbh0ms066615",
       "year": 2021,
       "make": "Toyota",
@@ -54,6 +82,32 @@
       "city": "Hope",
       "province": "BC",
       "dealer_name": "Gardner Chevrolet Buick GMC Ltd."
+    },
+    {
+      "pub_id": "pacific-honda-5tdabrch9ps566007",
+      "year": 2023,
+      "make": "Toyota",
+      "model": "Highlander",
+      "trim": "Hybrid XLE AWD",
+      "drivetrain": "AWD",
+      "propulsion": "hybrid",
+      "propulsion_source": "model_trim_name",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 50931,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "pacific-honda",
+      "vin": "5TDABRCH9PS566007",
+      "stock": "H117987",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/toyota/highlander-hybrid/2023-toyota-highlander-hybrid-id39289814",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/toyota/highlander-hybrid/2023-toyota-highlander-hybrid-id39289814?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T20:06:39",
+      "snapshot": "2026-10-04T20:22:02",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-5tdabrch9ps566007",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

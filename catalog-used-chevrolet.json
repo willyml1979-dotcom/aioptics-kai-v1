@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
   "condition": "used",
   "make": "chevrolet",
   "files": [
@@ -92,12 +92,12 @@
       "make": "chevrolet",
       "model": "Equinox",
       "shard": "sin-region",
-      "count": 27,
+      "count": 29,
       "file": "inventory/used-chevrolet-equinox-sin-region.json",
       "models": [
         {
           "model": "Equinox",
-          "count": 27
+          "count": 29
         }
       ]
     },
@@ -227,7 +227,7 @@
       "make": "chevrolet",
       "model": "Trailblazer",
       "shard": "sin-region",
-      "count": 11,
+      "count": 12,
       "file": "inventory/used-chevrolet-trailblazer-sin-region.json",
       "models": [
         {
@@ -236,7 +236,7 @@
         },
         {
           "model": "Trailblazer",
-          "count": 10
+          "count": 11
         }
       ]
     },
@@ -329,12 +329,12 @@
       "make": "chevrolet",
       "model": "Trax",
       "shard": "sin-region",
-      "count": 14,
+      "count": 15,
       "file": "inventory/used-chevrolet-trax-sin-region.json",
       "models": [
         {
           "model": "Trax",
-          "count": 14
+          "count": 15
         }
       ]
     },
@@ -453,12 +453,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Sonic",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-chevrolet-sonic.json",
       "models": [
         {
           "model": "Sonic",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -563,12 +563,12 @@
       "make": "chevrolet",
       "model": "Malibu",
       "shard": "sin-region",
-      "count": 9,
+      "count": 10,
       "file": "inventory/used-chevrolet-malibu-sin-region.json",
       "models": [
         {
           "model": "Malibu",
-          "count": 9
+          "count": 10
         }
       ]
     },
@@ -590,7 +590,7 @@
       "make": "chevrolet",
       "model": "Silverado 1500",
       "shard": "part1",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-chevrolet-silverado-1500-part1.json",
       "models": [
         {
@@ -599,7 +599,7 @@
         },
         {
           "model": "Silverado 1500",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -608,12 +608,12 @@
       "make": "chevrolet",
       "model": "Silverado 1500",
       "shard": "part2",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-chevrolet-silverado-1500-part2.json",
       "models": [
         {
           "model": "Silverado 1500",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -622,12 +622,12 @@
       "make": "chevrolet",
       "model": "Silverado 1500",
       "shard": "part3",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-chevrolet-silverado-1500-part3.json",
       "models": [
         {
           "model": "Silverado 1500",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -636,12 +636,12 @@
       "make": "chevrolet",
       "model": "Silverado 1500",
       "shard": "part4",
-      "count": 27,
+      "count": 28,
       "file": "inventory/used-chevrolet-silverado-1500-part4.json",
       "models": [
         {
           "model": "Silverado 1500",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -758,12 +758,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Corvette",
-      "count": 20,
+      "count": 21,
       "file": "inventory/used-chevrolet-corvette.json",
       "models": [
         {
           "model": "Corvette",
-          "count": 20
+          "count": 21
         }
       ]
     },
@@ -862,12 +862,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Suburban",
-      "count": 9,
+      "count": 8,
       "file": "inventory/used-chevrolet-suburban.json",
       "models": [
         {
           "model": "Suburban",
-          "count": 9
+          "count": 8
         }
       ]
     },
@@ -1326,6 +1326,19 @@
       "models": [
         {
           "model": "Trailblazer RS",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Silverado 1500 LS Ext Cab Std Box 2WD 1SF",
+      "count": 1,
+      "file": "inventory/used-chevrolet-silverado-1500-ls-ext-cab-std-box-2wd-1sf.json",
+      "models": [
+        {
+          "model": "Silverado 1500 LS Ext Cab Std Box 2WD 1SF",
           "count": 1
         }
       ]
@@ -1846,6 +1859,19 @@
       "models": [
         {
           "model": "ColoradoWT 4x4 Crew Cab 5 ft. box",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Corvette Z06 Coupe 3LZ",
+      "count": 1,
+      "file": "inventory/used-chevrolet-corvette-z06-coupe-3lz.json",
+      "models": [
+        {
+          "model": "Corvette Z06 Coupe 3LZ",
           "count": 1
         }
       ]

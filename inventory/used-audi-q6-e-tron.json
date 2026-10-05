@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
-  "snapshot": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
+  "snapshot": "2026-10-05T06:01:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "acura-of-langley-wa154bgf1sa007658",
@@ -32,6 +32,34 @@
       "city": "Langley",
       "province": "BC",
       "dealer_name": "Acura of Langley"
+    },
+    {
+      "pub_id": "pacific-honda-wa154bgf1sa007658",
+      "year": 2025,
+      "make": "Audi",
+      "model": "Q6 e-tron",
+      "trim": "Progressiv quattro",
+      "drivetrain": "4WD",
+      "propulsion": "electric",
+      "propulsion_source": "description",
+      "propulsion_confidence": "medium",
+      "condition": "used",
+      "odometer_km": 54299,
+      "price_cad": 64995.0,
+      "price_note": null,
+      "color": "Glacier White Metallic",
+      "photo_url": "https://img.sm360.ca/images/inventory/acura-of-langley/audi/q6-e-tron/2025/39163997/39163997_07533_c2e87f3f87ccda2651589906519763c4.jpeg",
+      "dealer_id": "pacific-honda",
+      "vin": "WA154BGF1SA007658",
+      "stock": "A12C016",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/audi/q6-e-tron/2025-audi-q6-e-tron-id39163997",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/audi/q6-e-tron/2025-audi-q6-e-tron-id39163997?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T17:12:13",
+      "snapshot": "2026-10-04T20:22:02",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-wa154bgf1sa007658",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

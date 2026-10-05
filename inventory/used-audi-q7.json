@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
-  "snapshot": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
+  "snapshot": "2026-10-05T06:01:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 20,
+  "count": 21,
   "vehicles": [
     {
       "pub_id": "tricity-mitsubishi-wa1laaf74jd039294",
@@ -484,12 +484,39 @@
       "stock": "CA6083A",
       "listing_url": "https://www.godowntownkia.ca/vehicles/2022/audi/q7/vancouver/bc/71030279/?sale_class=used",
       "dealer_url": "https://www.godowntownkia.ca/vehicles/2022/audi/q7/vancouver/bc/71030279/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T17:44:26",
-      "snapshot": "2026-10-03T18:46:10",
+      "last_verified": "2026-10-04T18:50:11",
+      "snapshot": "2026-10-04T18:51:42",
       "go_url": "https://carwhisper.ca/go/go-downtown-kia-wa1bxbf7xnd014809",
       "city": null,
       "province": "BC",
       "dealer_name": "Go Downtown Kia"
+    },
+    {
+      "pub_id": "red-deer-mitsubishi-wa1mxaf74md028612",
+      "year": 2021,
+      "make": "Audi",
+      "model": "Q7",
+      "trim": "3.0 Progressiv",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 88601,
+      "price_cad": 36776.0,
+      "price_note": null,
+      "color": "Navarra Blue Metallic",
+      "photo_url": "https://img.sm360.ca/images/inventory/red-deer-mitsubishi/audi/q7/2021/39196575/39196575_02004_ddc578331e8713c5255e88b03e85af95.jpeg",
+      "dealer_id": "red-deer-mitsubishi",
+      "vin": "WA1MXAF74MD028612",
+      "stock": "P20016",
+      "listing_url": "https://www.reddeermitsubishi.ca/en/used-inventory/audi/q7/2021-audi-q7-id39196575",
+      "dealer_url": "https://www.reddeermitsubishi.ca/en/used-inventory/audi/q7/2021-audi-q7-id39196575?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T22:36:39",
+      "snapshot": "2026-10-04T22:48:55",
+      "go_url": "https://carwhisper.ca/go/red-deer-mitsubishi-wa1mxaf74md028612",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Red Deer Mitsubishi"
     }
   ]
 }

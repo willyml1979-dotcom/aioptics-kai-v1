@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
-  "snapshot": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
+  "snapshot": "2026-10-05T06:01:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 26,
+  "count": 27,
   "vehicles": [
     {
       "pub_id": "castlegar-kia-kndrfdjg3t5515400",
@@ -730,6 +730,33 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Kia South Vancouver"
+    },
+    {
+      "pub_id": "murray-kia-abbotsford-kndrkdjh3t5524151",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sorento",
+      "trim": "Plug-In Hybrid",
+      "propulsion": "plug-in hybrid",
+      "propulsion_source": "model_trim_name",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 116,
+      "price_cad": 49145.0,
+      "price_note": null,
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/0f4647a3-296d-4751-afb9-f7759210b322_65f67083-b03e-43d9-9599-e1c74a8d0a8f.jpg",
+      "dealer_id": "murray-kia-abbotsford",
+      "vin": "KNDRKDJH3T5524151",
+      "stock": "2026",
+      "listing_url": "https://www.murraykiaabbotsford.com/vehicles/2026/kia/sorento-plug-in-hybrid/abbotsford/bc/70402806/?sale_class=new",
+      "dealer_url": "https://www.murraykiaabbotsford.com/vehicles/2026/kia/sorento-plug-in-hybrid/abbotsford/bc/70402806/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T14:24:55",
+      "snapshot": "2026-09-26T14:36:11",
+      "go_url": "https://carwhisper.ca/go/murray-kia-abbotsford-kndrkdjh3t5524151",
+      "region": "Lower Mainland",
+      "city": "Abbotsford",
+      "province": "BC",
+      "dealer_name": "Murray Kia Abbotsford"
     }
   ]
 }

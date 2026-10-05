@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
-  "snapshot": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
+  "snapshot": "2026-10-05T06:01:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 14,
+  "count": 15,
   "vehicles": [
     {
       "pub_id": "tricity-mitsubishi-1n4az1cp5lc300103",
@@ -383,6 +383,35 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Country Hills Nissan"
+    },
+    {
+      "pub_id": "pacific-honda-1n4cz1cv8pc558256",
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Leaf",
+      "trim": "Plus SV",
+      "body_type": "hatchback",
+      "drivetrain": "FWD",
+      "propulsion": "electric",
+      "propulsion_source": "description",
+      "propulsion_confidence": "medium",
+      "condition": "used",
+      "odometer_km": 24887,
+      "price_cad": 30860.0,
+      "price_note": null,
+      "color": "Silver",
+      "photo_url": "https://img.sm360.ca/images/inventory/northvancouver-nissan/nissan/leaf/2023/39006056/39006056_06386_dd2610cc36d532746e51fd2dbcd9c3c7.jpeg",
+      "dealer_id": "pacific-honda",
+      "vin": "1N4CZ1CV8PC558256",
+      "stock": "N115480",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/nissan/leaf/2023-nissan-leaf-id39006056",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/nissan/leaf/2023-nissan-leaf-id39006056?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:19:19",
+      "snapshot": "2026-10-04T20:22:02",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-1n4cz1cv8pc558256",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

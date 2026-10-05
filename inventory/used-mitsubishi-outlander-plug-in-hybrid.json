@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
-  "snapshot": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
+  "snapshot": "2026-10-05T06:01:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "bannister-gm-chilliwack-ja4t5va99rz620969",
@@ -28,6 +28,34 @@
       "city": "Chilliwack",
       "province": "BC",
       "dealer_name": "Bannister GM Chilliwack"
+    },
+    {
+      "pub_id": "pacific-honda-ja4t5va94sz606998",
+      "year": 2025,
+      "make": "Mitsubishi",
+      "model": "Outlander Plug-In Hybrid",
+      "trim": "SEL S-AWC",
+      "drivetrain": "4WD",
+      "propulsion": "plug-in hybrid",
+      "propulsion_source": "model_trim_name",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 17608,
+      "price_cad": 47221.0,
+      "price_note": null,
+      "color": "Cosmic Blue",
+      "photo_url": "https://img.sm360.ca/images/inventory/burrard-acura/mitsubishi/outlander-plug-in-hybrid/2025/39174597/39174597_02199_b28b8e9e9611088d6800b6bb204075a3.jpeg",
+      "dealer_id": "pacific-honda",
+      "vin": "JA4T5VA94SZ606998",
+      "stock": "A22E002",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/mitsubishi/outlander-plug-in-hybrid/2025-mitsubishi-outlander-plug-in-hybrid-id39174597",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/mitsubishi/outlander-plug-in-hybrid/2025-mitsubishi-outlander-plug-in-hybrid-id39174597?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:16:40",
+      "snapshot": "2026-10-04T20:22:02",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-ja4t5va94sz606998",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

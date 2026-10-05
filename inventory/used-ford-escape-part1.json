@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
-  "snapshot": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
+  "snapshot": "2026-10-05T06:01:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 33,
+  "count": 34,
   "vehicles": [
     {
       "pub_id": "sullivan-motor-products-nelson-ltd-1fmcu94133kc52385",
@@ -890,6 +890,36 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Brown Bros Ford Lincoln"
+    },
+    {
+      "pub_id": "cam-clark-ford-lincoln-ltd-1fmcu0kzxnub21448",
+      "year": 2022,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "SEL Plug-In Hybrid FWD",
+      "body_type": "suv",
+      "drivetrain": "FWD",
+      "propulsion": "plug-in hybrid",
+      "propulsion_source": "model_trim_name",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 64876,
+      "price_cad": 24900.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/inventory/SLICCG2ARJFOHGNSNCAAVQ4GDU.webp",
+      "dealer_id": "cam-clark-ford-lincoln-ltd",
+      "vin": "1FMCU0KZXNUB21448",
+      "stock": "P14086",
+      "listing_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-escape-sel-plug-in-hybrid-AbEfZMX2S7CJfF2brU9h1gvdp",
+      "dealer_url": "https://www.camclarkfordlincoln.com/inventory/2022-ford-escape-sel-plug-in-hybrid-AbEfZMX2S7CJfF2brU9h1gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-23T23:32:57",
+      "snapshot": "2026-09-27T01:24:19",
+      "go_url": "https://carwhisper.ca/go/cam-clark-ford-lincoln-ltd-1fmcu0kzxnub21448",
+      "region": "Lower Mainland",
+      "city": "North Vancouver",
+      "province": "BC",
+      "dealer_name": "Cam Clark Ford Lincoln Ltd."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
-  "snapshot": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
+  "snapshot": "2026-10-05T06:01:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 14,
+  "count": 15,
   "vehicles": [
     {
       "pub_id": "chilliwack-mitsubishi-1fadp3k20jl306117",
@@ -350,6 +350,34 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Country Hills Nissan"
+    },
+    {
+      "pub_id": "red-deer-mitsubishi-1fahp3n29cl218201",
+      "year": 2012,
+      "make": "Ford",
+      "model": "Focus",
+      "trim": "Titanium",
+      "drivetrain": "FWD",
+      "propulsion": "gas",
+      "propulsion_source": "description",
+      "propulsion_confidence": "medium",
+      "condition": "used",
+      "odometer_km": 180500,
+      "price_cad": 4800.0,
+      "price_note": null,
+      "color": "Yellow",
+      "photo_url": "https://img.sm360.ca/images/inventory/",
+      "dealer_id": "red-deer-mitsubishi",
+      "vin": "1FAHP3N29CL218201",
+      "stock": "R268262",
+      "listing_url": "https://www.reddeermitsubishi.ca/en/used-inventory/ford/focus/2012-ford-focus-id39294598",
+      "dealer_url": "https://www.reddeermitsubishi.ca/en/used-inventory/ford/focus/2012-ford-focus-id39294598?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T22:39:47",
+      "snapshot": "2026-10-04T22:48:55",
+      "go_url": "https://carwhisper.ca/go/red-deer-mitsubishi-1fahp3n29cl218201",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Red Deer Mitsubishi"
     },
     {
       "pub_id": "south-coast-ford-sales-ltd-1fadp3k24hl226703",

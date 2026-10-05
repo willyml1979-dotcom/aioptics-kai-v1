@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
-  "snapshot": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
+  "snapshot": "2026-10-05T06:01:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 15,
+  "count": 16,
   "vehicles": [
     {
       "pub_id": "go-kia-west-wvweb7cd1rw160258",
@@ -401,6 +401,34 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Norden Volkswagen"
+    },
+    {
+      "pub_id": "pacific-honda-wvwcf7cd3tw177565",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Golf R",
+      "trim": "DSG",
+      "body_type": "hatchback",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 13645,
+      "price_cad": 49989.0,
+      "price_note": null,
+      "color": "Lapiz Blue Metallic",
+      "photo_url": "https://img.sm360.ca/images/inventory/white-rock-honda/volkswagen/golf-r/2026/38908529/38908529_06759_13843497fce4d1cd33a13a7a0ca50d81.jpeg",
+      "dealer_id": "pacific-honda",
+      "vin": "WVWCF7CD3TW177565",
+      "stock": "26H966A",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/volkswagen/golf-r/2026-volkswagen-golf-r-id38908529",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/volkswagen/golf-r/2026-volkswagen-golf-r-id38908529?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T20:15:04",
+      "snapshot": "2026-10-04T20:22:02",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-wvwcf7cd3tw177565",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
-  "snapshot": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
+  "snapshot": "2026-10-05T06:01:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 11,
+  "count": 12,
   "vehicles": [
     {
       "pub_id": "carter-gm-northshore-1gyknbr4xmz113865",
@@ -313,6 +313,34 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Country Hills Nissan"
+    },
+    {
+      "pub_id": "pacific-honda-1gykngrs5sz108372",
+      "year": 2025,
+      "make": "Cadillac",
+      "model": "XT5",
+      "trim": "AWD 4dr Sport",
+      "body_type": "suv",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 32973,
+      "price_cad": 54995.0,
+      "price_note": null,
+      "color": "Stellar Black Metallic",
+      "photo_url": "https://img.sm360.ca/images/inventory/dilawri-vancouver-honda/cadillac/xt5/2025/38967462/38967462_09852_7a631753a420a44bfd2cb1605c829f0b.jpeg",
+      "dealer_id": "pacific-honda",
+      "vin": "1GYKNGRS5SZ108372",
+      "stock": "H26706A",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/cadillac/xt5/2025-cadillac-xt5-id38967462",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/cadillac/xt5/2025-cadillac-xt5-id38967462?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T17:23:41",
+      "snapshot": "2026-10-04T20:22:02",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-1gykngrs5sz108372",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

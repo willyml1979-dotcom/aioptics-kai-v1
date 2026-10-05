@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
-  "snapshot": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
+  "snapshot": "2026-10-05T06:01:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "richmond-hyundai-zam57rta0e1101062",
@@ -105,6 +105,56 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Orchard Ford Sales Ltd."
+    },
+    {
+      "pub_id": "red-deer-mitsubishi-zn661yum8nx396310",
+      "year": 2022,
+      "make": "Maserati",
+      "model": "Levante",
+      "trim": "Modena",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 65263,
+      "price_cad": 58785.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://img.sm360.ca/images/inventory/red-deer-mitsubishi/maserati/levante/2022/39258866/39258866_04287_7189ad26e07da4596e5818e278e6340e.jpeg",
+      "dealer_id": "red-deer-mitsubishi",
+      "vin": "ZN661YUM8NX396310",
+      "stock": "P20018",
+      "listing_url": "https://www.reddeermitsubishi.ca/en/used-inventory/maserati/levante/2022-maserati-levante-id39258866",
+      "dealer_url": "https://www.reddeermitsubishi.ca/en/used-inventory/maserati/levante/2022-maserati-levante-id39258866?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T22:42:30",
+      "snapshot": "2026-10-04T22:48:55",
+      "go_url": "https://carwhisper.ca/go/red-deer-mitsubishi-zn661yum8nx396310",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Red Deer Mitsubishi"
+    },
+    {
+      "pub_id": "pacific-honda-zn682avm7p7412060",
+      "year": 2023,
+      "make": "Maserati",
+      "model": "Grecale Modena Limited Edition Canada",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 44373,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "pacific-honda",
+      "vin": "ZN682AVM7P7412060",
+      "stock": "JL12B07",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/maserati/grecale-modena/2023-maserati-grecale-modena-id38089023",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/maserati/grecale-modena/2023-maserati-grecale-modena-id38089023?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T18:42:16",
+      "snapshot": "2026-10-04T20:22:02",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-zn682avm7p7412060",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

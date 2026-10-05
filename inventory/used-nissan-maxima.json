@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
-  "snapshot": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
+  "snapshot": "2026-10-05T06:01:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "carter-gm-burnaby-1n4aa6dvxnc505274",
@@ -115,6 +115,33 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Duncan Hyundai"
+    },
+    {
+      "pub_id": "red-deer-mitsubishi-1n4aa6dv1pc510009",
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Maxima",
+      "trim": "3.5 SL",
+      "drivetrain": "FWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 74932,
+      "price_cad": 27795.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://img.sm360.ca/images/inventory/red-deer-mitsubishi/nissan/maxima/2023/39004131/39004131_02217_dd9a43cdd4798a10441b6239c81281b4.jpeg",
+      "dealer_id": "red-deer-mitsubishi",
+      "vin": "1N4AA6DV1PC510009",
+      "stock": "LP1903",
+      "listing_url": "https://www.reddeermitsubishi.ca/en/used-inventory/nissan/maxima/2023-nissan-maxima-id39004131",
+      "dealer_url": "https://www.reddeermitsubishi.ca/en/used-inventory/nissan/maxima/2023-nissan-maxima-id39004131?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T22:46:21",
+      "snapshot": "2026-10-04T22:48:55",
+      "go_url": "https://carwhisper.ca/go/red-deer-mitsubishi-1n4aa6dv1pc510009",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Red Deer Mitsubishi"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
-  "snapshot": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
+  "snapshot": "2026-10-05T06:01:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "go-kia-west-kndaffs52s6060179",
@@ -171,6 +171,34 @@
       "city": null,
       "province": "BC",
       "dealer_name": "Go Richmond Kia"
+    },
+    {
+      "pub_id": "pacific-honda-kndaefs59r6049158",
+      "year": 2024,
+      "make": "Kia",
+      "model": "EV9",
+      "trim": "Land w/GT-Line Package AWD",
+      "drivetrain": "4WD",
+      "propulsion": "electric",
+      "propulsion_source": "model_trim_name",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 30385,
+      "price_cad": 64995.0,
+      "price_note": null,
+      "color": "Snow White Pearl",
+      "photo_url": "https://img.sm360.ca/images/inventory/acura-of-langley/kia/ev9/2024/39207291/39207291_01119_4dcee10d9db8b34abd99506a3e467d9e.jpeg",
+      "dealer_id": "pacific-honda",
+      "vin": "KNDAEFS59R6049158",
+      "stock": "A12C016",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/kia/ev9/2024-kia-ev9-id39207291",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/kia/ev9/2024-kia-ev9-id39207291?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T18:19:35",
+      "snapshot": "2026-10-04T20:22:02",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-kndaefs59r6049158",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

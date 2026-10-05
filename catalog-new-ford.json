@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
   "condition": "new",
   "make": "ford",
   "files": [
@@ -162,96 +162,12 @@
       "make": "ford",
       "model": "Bronco Sport",
       "shard": "part12",
-      "count": 25,
+      "count": 29,
       "file": "inventory/new-ford-bronco-sport-part12.json",
       "models": [
         {
           "model": "Bronco Sport",
-          "count": 25
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "ford",
-      "model": "Maverick",
-      "shard": "part1",
-      "count": 32,
-      "file": "inventory/new-ford-maverick-part1.json",
-      "models": [
-        {
-          "model": "Maverick",
-          "count": 32
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "ford",
-      "model": "Maverick",
-      "shard": "part2",
-      "count": 32,
-      "file": "inventory/new-ford-maverick-part2.json",
-      "models": [
-        {
-          "model": "Maverick",
-          "count": 32
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "ford",
-      "model": "Maverick",
-      "shard": "part3",
-      "count": 32,
-      "file": "inventory/new-ford-maverick-part3.json",
-      "models": [
-        {
-          "model": "Maverick",
-          "count": 32
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "ford",
-      "model": "Maverick",
-      "shard": "part4",
-      "count": 32,
-      "file": "inventory/new-ford-maverick-part4.json",
-      "models": [
-        {
-          "model": "Maverick",
-          "count": 32
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "ford",
-      "model": "Maverick",
-      "shard": "part5",
-      "count": 32,
-      "file": "inventory/new-ford-maverick-part5.json",
-      "models": [
-        {
-          "model": "Maverick",
-          "count": 32
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "ford",
-      "model": "Maverick",
-      "shard": "part6",
-      "count": 32,
-      "file": "inventory/new-ford-maverick-part6.json",
-      "models": [
-        {
-          "model": "Maverick",
-          "count": 32
+          "count": 29
         }
       ]
     },
@@ -462,6 +378,90 @@
     {
       "condition": "new",
       "make": "ford",
+      "model": "Maverick",
+      "shard": "part1",
+      "count": 32,
+      "file": "inventory/new-ford-maverick-part1.json",
+      "models": [
+        {
+          "model": "Maverick",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "Maverick",
+      "shard": "part2",
+      "count": 32,
+      "file": "inventory/new-ford-maverick-part2.json",
+      "models": [
+        {
+          "model": "Maverick",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "Maverick",
+      "shard": "part3",
+      "count": 32,
+      "file": "inventory/new-ford-maverick-part3.json",
+      "models": [
+        {
+          "model": "Maverick",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "Maverick",
+      "shard": "part4",
+      "count": 32,
+      "file": "inventory/new-ford-maverick-part4.json",
+      "models": [
+        {
+          "model": "Maverick",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "Maverick",
+      "shard": "part5",
+      "count": 32,
+      "file": "inventory/new-ford-maverick-part5.json",
+      "models": [
+        {
+          "model": "Maverick",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "Maverick",
+      "shard": "part6",
+      "count": 32,
+      "file": "inventory/new-ford-maverick-part6.json",
+      "models": [
+        {
+          "model": "Maverick",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
       "model": "Mustang Mach-E",
       "shard": "part1",
       "count": 28,
@@ -604,12 +604,12 @@
       "make": "ford",
       "model": "Mustang Mach-E",
       "shard": "part11",
-      "count": 24,
+      "count": 25,
       "file": "inventory/new-ford-mustang-mach-e-part11.json",
       "models": [
         {
           "model": "Mustang Mach-E",
-          "count": 24
+          "count": 25
         }
       ]
     },
@@ -772,12 +772,54 @@
       "make": "ford",
       "model": "Bronco",
       "shard": "part6",
-      "count": 30,
+      "count": 31,
       "file": "inventory/new-ford-bronco-part6.json",
       "models": [
         {
           "model": "Bronco",
-          "count": 30
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "Mustang",
+      "shard": "part1",
+      "count": 28,
+      "file": "inventory/new-ford-mustang-part1.json",
+      "models": [
+        {
+          "model": "Mustang",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "Mustang",
+      "shard": "part2",
+      "count": 28,
+      "file": "inventory/new-ford-mustang-part2.json",
+      "models": [
+        {
+          "model": "Mustang",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "Mustang",
+      "shard": "part3",
+      "count": 26,
+      "file": "inventory/new-ford-mustang-part3.json",
+      "models": [
+        {
+          "model": "Mustang",
+          "count": 26
         }
       ]
     },
@@ -1407,48 +1449,6 @@
         {
           "model": "Expedition",
           "count": 13
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "ford",
-      "model": "Mustang",
-      "shard": "part1",
-      "count": 27,
-      "file": "inventory/new-ford-mustang-part1.json",
-      "models": [
-        {
-          "model": "Mustang",
-          "count": 27
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "ford",
-      "model": "Mustang",
-      "shard": "part2",
-      "count": 27,
-      "file": "inventory/new-ford-mustang-part2.json",
-      "models": [
-        {
-          "model": "Mustang",
-          "count": 27
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "ford",
-      "model": "Mustang",
-      "shard": "part3",
-      "count": 26,
-      "file": "inventory/new-ford-mustang-part3.json",
-      "models": [
-        {
-          "model": "Mustang",
-          "count": 26
         }
       ]
     },
@@ -2324,12 +2324,12 @@
       "condition": "new",
       "make": "ford",
       "model": "Super Duty F-250 SRW",
-      "count": 4,
+      "count": 3,
       "file": "inventory/new-ford-super-duty-f-250-srw.json",
       "models": [
         {
           "model": "Super Duty F-250 SRW",
-          "count": 4
+          "count": 3
         }
       ]
     },

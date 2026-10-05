@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
-  "snapshot": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
+  "snapshot": "2026-10-05T06:01:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "richmond-hyundai-jn1ev7ar2hm833352",
@@ -74,7 +74,7 @@
       "listing_url": "https://www.sphyundai.com/vehicles/2016/infiniti/q50/sherwood-park/ab/71140773/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2016/infiniti/q50/sherwood-park/ab/71140773/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T18:30:33",
-      "snapshot": "2026-10-03T18:39:48",
+      "snapshot": "2026-10-04T18:43:38",
       "go_url": "https://carwhisper.ca/go/sherwood-park-hyundai-jn1cv7ar2gm251290",
       "city": null,
       "province": "AB",
@@ -132,6 +132,33 @@
       "city": null,
       "province": "ON",
       "dealer_name": "Vaughan Chrysler"
+    },
+    {
+      "pub_id": "pacific-honda-jn1ev7br6pm542348",
+      "year": 2023,
+      "make": "Infiniti",
+      "model": "Q50",
+      "trim": "LUXE",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 46458,
+      "price_cad": 33000.0,
+      "price_note": null,
+      "color": "Pure White",
+      "photo_url": "https://img.sm360.ca/images/inventory/white-rock-honda/infiniti/q50/2023/39254427/39254427_08265_f99f6ec06184382dc94f8b18fd747eba.jpeg",
+      "dealer_id": "pacific-honda",
+      "vin": "JN1EV7BR6PM542348",
+      "stock": "H32E002",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/infiniti/q50/2023-infiniti-q50-id39254427",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/infiniti/q50/2023-infiniti-q50-id39254427?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T18:11:44",
+      "snapshot": "2026-10-04T20:22:02",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-jn1ev7br6pm542348",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

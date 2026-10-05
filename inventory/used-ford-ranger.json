@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
-  "snapshot": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
+  "snapshot": "2026-10-05T06:01:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 29,
+  "count": 30,
   "vehicles": [
     {
       "pub_id": "cranbrook-dodge-1fter4fhxmld98869",
@@ -649,7 +649,7 @@
       "listing_url": "https://www.sphyundai.com/vehicles/2020/ford/ranger/sherwood-park/ab/71455928/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2020/ford/ranger/sherwood-park/ab/71455928/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T18:28:58",
-      "snapshot": "2026-10-03T18:39:48",
+      "snapshot": "2026-10-04T18:43:38",
       "go_url": "https://carwhisper.ca/go/sherwood-park-hyundai-1fter4fh5lla17587",
       "city": null,
       "province": "AB",
@@ -755,6 +755,33 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Country Hills Nissan"
+    },
+    {
+      "pub_id": "pacific-honda-1fter4lr7sle00359",
+      "year": 2025,
+      "make": "Ford",
+      "model": "Ranger",
+      "trim": "RAPTOR 4WD SuperCrew 5' Box",
+      "drivetrain": "AWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 10021,
+      "price_cad": 73688.0,
+      "price_note": null,
+      "color": "Desert Sand",
+      "photo_url": "https://img.sm360.ca/images/inventory/white-rock-honda/ford/ranger/2025/39192084/39192084_01971_4409dd096bbf613c74c96a5be175a6d9.jpeg",
+      "dealer_id": "pacific-honda",
+      "vin": "1FTER4LR7SLE00359",
+      "stock": "H32E002",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/ford/ranger/2025-ford-ranger-id39192084",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/ford/ranger/2025-ford-ranger-id39192084?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T17:35:11",
+      "snapshot": "2026-10-04T20:22:02",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-1fter4lr7sle00359",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

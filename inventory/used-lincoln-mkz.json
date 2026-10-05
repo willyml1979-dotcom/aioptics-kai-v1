@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
-  "snapshot": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
+  "snapshot": "2026-10-05T06:01:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "jim-pattison-toyota-victoria-3ln6l2jk9fr628088",
@@ -32,6 +32,33 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Jim Pattison Toyota Victoria"
+    },
+    {
+      "pub_id": "red-deer-mitsubishi-3ln6l2jk2er815719",
+      "year": 2014,
+      "make": "Lincoln",
+      "model": "MKZ",
+      "trim": "Base",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 191813,
+      "price_cad": 9924.0,
+      "price_note": null,
+      "color": "Dark Side Metallic",
+      "photo_url": "https://img.sm360.ca/images/inventory/red-deer-mitsubishi/lincoln/mkz/2014/39154859/39154859_01720_d9a558ff52b291e5a3b32a3127fb9412.jpeg",
+      "dealer_id": "red-deer-mitsubishi",
+      "vin": "3LN6L2JK2ER815719",
+      "stock": "PI1849B",
+      "listing_url": "https://www.reddeermitsubishi.ca/en/used-inventory/lincoln/mkz/2014-lincoln-mkz-id39154859",
+      "dealer_url": "https://www.reddeermitsubishi.ca/en/used-inventory/lincoln/mkz/2014-lincoln-mkz-id39154859?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T22:42:15",
+      "snapshot": "2026-10-04T22:48:55",
+      "go_url": "https://carwhisper.ca/go/red-deer-mitsubishi-3ln6l2jk2er815719",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Red Deer Mitsubishi"
     }
   ]
 }

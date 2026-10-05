@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
-  "snapshot": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
+  "snapshot": "2026-10-05T06:01:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 20,
+  "count": 21,
   "vehicles": [
     {
       "pub_id": "maple-ridge-volkswagen-1g1yy36u965101498",
@@ -185,7 +185,7 @@
       "listing_url": "https://www.brianjesselbmw.com/vehicles/2025/chevrolet/corvette/vancouver/bc/70900313/?sale_class=used",
       "dealer_url": "https://www.brianjesselbmw.com/vehicles/2025/chevrolet/corvette/vancouver/bc/70900313/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T20:50:18",
-      "snapshot": "2026-10-03T18:38:00",
+      "snapshot": "2026-10-04T18:43:12",
       "go_url": "https://carwhisper.ca/go/brian-jessel-bmw-1g1ya2d49s5109936",
       "region": "Lower Mainland",
       "city": "Vancouver",
@@ -556,6 +556,33 @@
       "city": "Pitt Meadows",
       "province": "BC",
       "dealer_name": "Maple Ridge Chevrolet Buick GMC"
+    },
+    {
+      "pub_id": "pacific-honda-1g1yc3d41s5109218",
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Corvette",
+      "trim": "3LT",
+      "drivetrain": "RWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 8508,
+      "price_cad": 109996.0,
+      "price_note": null,
+      "color": "Torch Red",
+      "photo_url": "https://img.sm360.ca/images/inventory/genesis-downtown-vancouver/chevrolet/corvette/2025/39049290/39049290_07924_2cc10954eda296e7f301ef2d463cf8a9.jpeg",
+      "dealer_id": "pacific-honda",
+      "vin": "1G1YC3D41S5109218",
+      "stock": "G27003A",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/chevrolet/corvette/2025-chevrolet-corvette-id39049290",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/chevrolet/corvette/2025-chevrolet-corvette-id39049290?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T17:24:21",
+      "snapshot": "2026-10-04T20:22:02",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-1g1yc3d41s5109218",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
-  "snapshot": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
+  "snapshot": "2026-10-05T06:01:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 29,
+  "count": 30,
   "vehicles": [
     {
       "pub_id": "glacier-honda-72199-477774",
@@ -795,6 +795,34 @@
       "city": "Mission",
       "province": "BC",
       "dealer_name": "Pioneer Chrysler Jeep"
+    },
+    {
+      "pub_id": "destination-burnaby-honda-happy-honda-3czrz2h56vm100661",
+      "year": 2027,
+      "make": "Honda",
+      "model": "HR-V",
+      "trim": "Turbo Sport",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 5,
+      "price_cad": 39075.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/93ad18c2-1f3f-4b82-8424-5abdb4502a02_e7c67525-ba47-4779-a581-848fc2941133.jpg",
+      "dealer_id": "destination-burnaby-honda-happy-honda",
+      "vin": "3CZRZ2H56VM100661",
+      "stock": "35925E",
+      "listing_url": "https://www.destinationhonda.ca/vehicles/2027/honda/hr-v-turbo-sport/burnaby/bc/70201601/?sale_class=new",
+      "dealer_url": "https://www.destinationhonda.ca/vehicles/2027/honda/hr-v-turbo-sport/burnaby/bc/70201601/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T03:42:49",
+      "snapshot": "2026-09-26T05:46:56",
+      "go_url": "https://carwhisper.ca/go/destination-burnaby-honda-happy-honda-3czrz2h56vm100661",
+      "region": "Lower Mainland",
+      "city": "Burnaby",
+      "province": "BC",
+      "dealer_name": "Destination Burnaby Honda (Happy Honda)"
     }
   ]
 }

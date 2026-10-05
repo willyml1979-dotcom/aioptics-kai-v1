@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
-  "snapshot": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
+  "snapshot": "2026-10-05T06:01:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "go-downtown-kia-5ymuj0c02llu67392",
@@ -24,11 +24,39 @@
       "listing_url": "https://www.godowntownkia.ca/vehicles/2020/bmw/x4-m/vancouver/bc/71437793/?sale_class=used",
       "dealer_url": "https://www.godowntownkia.ca/vehicles/2020/bmw/x4-m/vancouver/bc/71437793/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T18:45:45",
-      "snapshot": "2026-10-03T18:46:10",
+      "snapshot": "2026-10-04T18:51:42",
       "go_url": "https://carwhisper.ca/go/go-downtown-kia-5ymuj0c02llu67392",
       "city": null,
       "province": "BC",
       "dealer_name": "Go Downtown Kia"
+    },
+    {
+      "pub_id": "pacific-honda-5ym23ec04r9u43695",
+      "year": 2024,
+      "make": "BMW",
+      "model": "X4 M",
+      "trim": "Competition",
+      "body_type": "suv",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 23758,
+      "price_cad": 91995.0,
+      "price_note": null,
+      "color": "Carbon Black Metallic ",
+      "photo_url": "https://img.sm360.ca/images/inventory/mercedes-benz-boundary/bmw/x4-m/2024/39116934/39116934_00306_f1393877079bf46aee1da1f75b2f8fad.jpeg",
+      "dealer_id": "pacific-honda",
+      "vin": "5YM23EC04R9U43695",
+      "stock": "7T8821A",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/bmw/x4-m/2024-bmw-x4-m-id39116934",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/bmw/x4-m/2024-bmw-x4-m-id39116934?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T17:21:04",
+      "snapshot": "2026-10-04T20:22:02",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-5ym23ec04r9u43695",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

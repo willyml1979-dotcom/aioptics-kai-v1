@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
-  "snapshot": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
+  "snapshot": "2026-10-05T06:01:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 31,
+  "count": 32,
   "vehicles": [
     {
       "pub_id": "cranbrook-dodge-5n1at2mv7ec838671",
@@ -844,6 +844,35 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Southside Nissan Ltd."
+    },
+    {
+      "pub_id": "marine-chrysler-dodge-jeep-ltd-jn8bt3ab6sw155268",
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Rogue",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 47120,
+      "price_cad": 26999.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/c46e9905-df20-459a-a812-a96fe85ec0e9_d3d3ea88-f141-4ee9-b0ed-0b60415a3225.jpg",
+      "dealer_id": "marine-chrysler-dodge-jeep-ltd",
+      "vin": "JN8BT3AB6SW155268",
+      "stock": "BE8440",
+      "listing_url": "https://www.marinechrysler.com/vehicles/2025/nissan/rogue/vancouver/bc/71372044/?sale_class=used",
+      "dealer_url": "https://www.marinechrysler.com/vehicles/2025/nissan/rogue/vancouver/bc/71372044/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T12:32:06",
+      "snapshot": "2026-09-26T12:38:05",
+      "go_url": "https://carwhisper.ca/go/marine-chrysler-dodge-jeep-ltd-jn8bt3ab6sw155268",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Marine Chrysler Dodge Jeep Ltd."
     }
   ]
 }

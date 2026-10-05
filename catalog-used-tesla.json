@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
   "condition": "used",
   "make": "tesla",
   "files": [
@@ -50,12 +50,12 @@
       "make": "tesla",
       "model": "Model 3",
       "shard": "sin-region",
-      "count": 10,
+      "count": 12,
       "file": "inventory/used-tesla-model-3-sin-region.json",
       "models": [
         {
           "model": "Model 3",
-          "count": 10
+          "count": 12
         }
       ]
     },
@@ -63,12 +63,12 @@
       "condition": "used",
       "make": "tesla",
       "model": "Model X",
-      "count": 4,
+      "count": 5,
       "file": "inventory/used-tesla-model-x.json",
       "models": [
         {
           "model": "Model X",
-          "count": 4
+          "count": 5
         }
       ]
     },

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
-  "snapshot": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
+  "snapshot": "2026-10-05T06:01:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 10,
+  "count": 11,
   "vehicles": [
     {
       "pub_id": "kia-south-vancouver-jhmge88829s803806",
@@ -220,6 +220,33 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Campus Honda"
+    },
+    {
+      "pub_id": "pacific-honda-jhmgd37448s809304",
+      "year": 2008,
+      "make": "Honda",
+      "model": "Fit",
+      "trim": "LX",
+      "drivetrain": "FWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 156359,
+      "price_cad": 8995.0,
+      "price_note": null,
+      "color": "SILVER",
+      "photo_url": "https://img.sm360.ca/images/inventory/southside-nissan/honda/fit/2008/39288500/39288500_07213_a436ba9859825962c713bfdec50dc729.jpeg",
+      "dealer_id": "pacific-honda",
+      "vin": "JHMGD37448S809304",
+      "stock": "N226103",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/honda/fit/2008-honda-fit-id39288500",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/honda/fit/2008-honda-fit-id39288500?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T17:55:02",
+      "snapshot": "2026-10-04T20:22:02",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-jhmgd37448s809304",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     },
     {
       "pub_id": "go-richmond-subaru-3hggk5h68hm101568",

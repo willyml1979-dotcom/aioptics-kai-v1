@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
-  "snapshot": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
+  "snapshot": "2026-10-05T06:01:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "jim-pattison-toyota-northshore-jm3kjdha2s1109297",
@@ -176,6 +176,35 @@
       "city": "Nanaimo",
       "province": "BC",
       "dealer_name": "Sunshine Mountain Ford Lincoln Ltd."
+    },
+    {
+      "pub_id": "pacific-honda-jm3kjcha4s1107495",
+      "year": 2025,
+      "make": "Mazda",
+      "model": "CX-70 PHEV",
+      "trim": "GS-L AWD",
+      "body_type": "suv",
+      "drivetrain": "4WD",
+      "propulsion": "plug-in hybrid",
+      "propulsion_source": "model_trim_name",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 41955,
+      "price_cad": 42900.0,
+      "price_note": null,
+      "color": "Jet Black Mica",
+      "photo_url": "https://img.sm360.ca/images/inventory/docksteader-subaru/mazda/cx-70-phev/2025/39089124/39089124_00282_bf641fbfa31d3ca57fdcb0bc4c705bb4.jpeg",
+      "dealer_id": "pacific-honda",
+      "vin": "JM3KJCHA4S1107495",
+      "stock": "S260211",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/mazda/cx-70-phev/2025-mazda-cx-70-phev-id39089124",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/mazda/cx-70-phev/2025-mazda-cx-70-phev-id39089124?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T18:43:55",
+      "snapshot": "2026-10-04T20:22:02",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-jm3kjcha4s1107495",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

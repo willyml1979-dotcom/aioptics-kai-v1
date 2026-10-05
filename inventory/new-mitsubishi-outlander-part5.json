@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
-  "snapshot": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
+  "snapshot": "2026-10-05T06:01:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 26,
+  "count": 27,
   "vehicles": [
     {
       "pub_id": "tricity-mitsubishi-ja4j4wab9tz612090",
@@ -667,6 +667,33 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Victoria Hyundai"
+    },
+    {
+      "pub_id": "red-deer-mitsubishi-ja4j4wab8tz608743",
+      "year": 2026,
+      "make": "Mitsubishi",
+      "model": "Outlander",
+      "trim": "GT PREMIUM S-AWC",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "odometer_km": 6,
+      "price_cad": 48592.0,
+      "price_note": null,
+      "color": "Premium Finish White Diamond ",
+      "photo_url": "https://img.sm360.ca/images/inventory/red-deer-mitsubishi/mitsubishi/outlander/2026/37989327/37989327_02649_5451486df363af074ab93dd74055ce08.jpeg",
+      "dealer_id": "red-deer-mitsubishi",
+      "vin": "JA4J4WAB8TZ608743",
+      "stock": "T261796",
+      "listing_url": "https://www.reddeermitsubishi.ca/en/new-inventory/mitsubishi/outlander/2026-mitsubishi-outlander-id37989327",
+      "dealer_url": "https://www.reddeermitsubishi.ca/en/new-inventory/mitsubishi/outlander/2026-mitsubishi-outlander-id37989327?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T23:00:04",
+      "go_url": "https://carwhisper.ca/go/red-deer-mitsubishi-ja4j4wab8tz608743",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Red Deer Mitsubishi",
+      "snapshot": "2026-10-05T06:01:09+00:00"
     }
   ]
 }

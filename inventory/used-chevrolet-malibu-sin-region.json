@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
-  "snapshot": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
+  "snapshot": "2026-10-05T06:01:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 9,
+  "count": 10,
   "vehicles": [
     {
       "pub_id": "sherwood-park-chevrolet-1g1ze5st5hf110279",
@@ -57,6 +57,33 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Sherwood Park Chevrolet"
+    },
+    {
+      "pub_id": "red-deer-mitsubishi-1g1zd5st4nf163814",
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "trim": "LT",
+      "drivetrain": "FWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 137595,
+      "price_cad": 15375.0,
+      "price_note": null,
+      "color": "Summit White",
+      "photo_url": "https://img.sm360.ca/images/inventory/red-deer-mitsubishi/chevrolet/malibu/2022/38843112/38843112_05451_f68f9f580d344785d10719881856de5c.jpeg",
+      "dealer_id": "red-deer-mitsubishi",
+      "vin": "1G1ZD5ST4NF163814",
+      "stock": "T266427",
+      "listing_url": "https://www.reddeermitsubishi.ca/en/used-inventory/chevrolet/malibu/2022-chevrolet-malibu-id38843112",
+      "dealer_url": "https://www.reddeermitsubishi.ca/en/used-inventory/chevrolet/malibu/2022-chevrolet-malibu-id38843112?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T22:37:53",
+      "snapshot": "2026-10-04T22:48:55",
+      "go_url": "https://carwhisper.ca/go/red-deer-mitsubishi-1g1zd5st4nf163814",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Red Deer Mitsubishi"
     },
     {
       "pub_id": "sherwood-park-chevrolet-1g1zd5st4mf035409",

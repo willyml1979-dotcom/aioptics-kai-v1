@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
-  "snapshot": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
+  "snapshot": "2026-10-05T06:01:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "zender-ford-2c4rc1eg4hr756572",
@@ -19,8 +19,8 @@
       "stock": 14454319,
       "listing_url": "https://www.zenderford.com/used/2017-Chrysler-Pacifica.html",
       "dealer_url": "https://www.zenderford.com/used/2017-Chrysler-Pacifica.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T17:17:30",
-      "snapshot": "2026-10-03T17:38:11",
+      "last_verified": "2026-10-04T17:39:57",
+      "snapshot": "2026-10-04T17:41:36",
       "go_url": "https://carwhisper.ca/go/zender-ford-2c4rc1eg4hr756572",
       "city": null,
       "province": "AB",
@@ -132,6 +132,34 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Country Hills Nissan"
+    },
+    {
+      "pub_id": "pacific-honda-2c4rc1bg1sr596260",
+      "year": 2025,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "trim": "Select FWD",
+      "body_type": "van",
+      "drivetrain": "FWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 35620,
+      "price_cad": 45487.0,
+      "price_note": null,
+      "color": "Bright White",
+      "photo_url": "https://img.sm360.ca/images/inventory/northvancouver-nissan/chrysler/pacifica/2025/39061206/39061206_04204_87855cd3720a9d55397438e0e1ff3db7.jpeg",
+      "dealer_id": "pacific-honda",
+      "vin": "2C4RC1BG1SR596260",
+      "stock": "N12B000",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/chrysler/pacifica/2025-chrysler-pacifica-id39061206",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/chrysler/pacifica/2025-chrysler-pacifica-id39061206?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T17:27:41",
+      "snapshot": "2026-10-04T20:22:02",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-2c4rc1bg1sr596260",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

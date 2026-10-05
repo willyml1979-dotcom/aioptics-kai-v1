@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
-  "snapshot": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
+  "snapshot": "2026-10-05T06:01:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 26,
+  "count": 27,
   "vehicles": [
     {
       "pub_id": "chilliwack-mitsubishi-3n1cp5cu7kl554374",
@@ -730,6 +730,30 @@
       "city": "Surrey",
       "province": "BC",
       "dealer_name": "Jonker Honda"
+    },
+    {
+      "pub_id": "maple-ridge-hyundai-3n1cp5dv5rl564192",
+      "year": 2024,
+      "make": "Nissan",
+      "model": "Kicks",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 25904.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "maple-ridge-hyundai",
+      "vin": "3N1CP5DV5RL564192",
+      "stock": 14419598,
+      "listing_url": "https://www.mapleridgehyundai.com/used/2024-Nissan-Kicks.html",
+      "dealer_url": "https://www.mapleridgehyundai.com/used/2024-Nissan-Kicks.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T06:55:33",
+      "snapshot": "2026-09-25T07:09:21",
+      "go_url": "https://carwhisper.ca/go/maple-ridge-hyundai-3n1cp5dv5rl564192",
+      "region": "Lower Mainland",
+      "city": "Maple Ridge",
+      "province": "BC",
+      "dealer_name": "Maple Ridge Hyundai"
     }
   ]
 }

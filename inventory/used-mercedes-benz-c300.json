@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
-  "snapshot": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
+  "snapshot": "2026-10-05T06:01:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 4,
   "vehicles": [
     {
       "pub_id": "mercedes-benz-richmond-w1kaf4hb8pr073001",
@@ -90,6 +90,34 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Mercedes Benz Kamloops"
+    },
+    {
+      "pub_id": "pacific-honda-w1kaf4hb8pr073001",
+      "year": 2023,
+      "make": "Mercedes-Benz",
+      "model": "C300",
+      "trim": "4MATIC",
+      "body_type": "sedan",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 19629,
+      "price_cad": 46488.0,
+      "price_note": null,
+      "color": "Polar White",
+      "photo_url": "https://img.sm360.ca/images/inventory/mercedes-benz-richmond/mercedes-benz/c300/2023/39102276/39102276_01120_9219e79fcb6b082b6e54e717b91d34c2.jpeg",
+      "dealer_id": "pacific-honda",
+      "vin": "W1KAF4HB8PR073001",
+      "stock": "2651448",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/mercedes-benz/c300/2023-mercedes-benz-c300-id39102276",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/mercedes-benz/c300/2023-mercedes-benz-c300-id39102276?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T18:45:32",
+      "snapshot": "2026-10-04T20:22:02",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-w1kaf4hb8pr073001",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

@@ -1,46 +1,74 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
   "condition": "new",
   "make": "acura",
   "files": [
     {
       "condition": "new",
       "make": "acura",
+      "model": "ADX",
+      "shard": "part1",
+      "count": 31,
+      "file": "inventory/new-acura-adx-part1.json",
+      "models": [
+        {
+          "model": "ADX",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "acura",
+      "model": "ADX",
+      "shard": "part2",
+      "count": 31,
+      "file": "inventory/new-acura-adx-part2.json",
+      "models": [
+        {
+          "model": "ADX",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "acura",
+      "model": "ADX",
+      "shard": "part3",
+      "count": 31,
+      "file": "inventory/new-acura-adx-part3.json",
+      "models": [
+        {
+          "model": "ADX",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "acura",
+      "model": "ADX",
+      "shard": "part4",
+      "count": 30,
+      "file": "inventory/new-acura-adx-part4.json",
+      "models": [
+        {
+          "model": "ADX",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "acura",
       "model": "Integra",
-      "count": 10,
+      "count": 13,
       "file": "inventory/new-acura-integra.json",
       "models": [
         {
           "model": "Integra",
-          "count": 10
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "acura",
-      "model": "ADX",
-      "shard": "Lower Mainland",
-      "count": 25,
-      "file": "inventory/new-acura-adx-lower-mainland.json",
-      "models": [
-        {
-          "model": "ADX",
-          "count": 25
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "acura",
-      "model": "ADX",
-      "shard": "Okanagan",
-      "count": 23,
-      "file": "inventory/new-acura-adx-okanagan.json",
-      "models": [
-        {
-          "model": "ADX",
-          "count": 23
+          "count": 13
         }
       ]
     },
@@ -48,12 +76,12 @@
       "condition": "new",
       "make": "acura",
       "model": "RDX",
-      "count": 10,
+      "count": 16,
       "file": "inventory/new-acura-rdx.json",
       "models": [
         {
           "model": "RDX",
-          "count": 10
+          "count": 16
         }
       ]
     },
@@ -61,12 +89,53 @@
       "condition": "new",
       "make": "acura",
       "model": "MDX",
-      "count": 28,
-      "file": "inventory/new-acura-mdx.json",
+      "shard": "part1",
+      "count": 23,
+      "file": "inventory/new-acura-mdx-part1.json",
       "models": [
         {
           "model": "MDX",
-          "count": 28
+          "count": 23
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "acura",
+      "model": "MDX",
+      "shard": "part2",
+      "count": 23,
+      "file": "inventory/new-acura-mdx-part2.json",
+      "models": [
+        {
+          "model": "MDX",
+          "count": 23
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "acura",
+      "model": "Integra Elite A-Spec CVT",
+      "count": 5,
+      "file": "inventory/new-acura-integra-elite-a-spec-cvt.json",
+      "models": [
+        {
+          "model": "Integra Elite A-Spec CVT",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "acura",
+      "model": "Integra Elite A-Spec MT",
+      "count": 2,
+      "file": "inventory/new-acura-integra-elite-a-spec-mt.json",
+      "models": [
+        {
+          "model": "Integra Elite A-Spec MT",
+          "count": 2
         }
       ]
     },
@@ -74,12 +143,12 @@
       "condition": "new",
       "make": "acura",
       "model": "MDX Platinum Elite",
-      "count": 5,
+      "count": 13,
       "file": "inventory/new-acura-mdx-platinum-elite.json",
       "models": [
         {
           "model": "MDX Platinum Elite",
-          "count": 5
+          "count": 13
         }
       ]
     },

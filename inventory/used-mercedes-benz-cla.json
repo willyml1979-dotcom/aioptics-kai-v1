@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
-  "snapshot": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
+  "snapshot": "2026-10-05T06:01:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 7,
+  "count": 8,
   "vehicles": [
     {
       "pub_id": "kia-south-vancouver-wddsj4gbxjn527249",
@@ -194,11 +194,39 @@
       "listing_url": "https://www.bramptonchrysler.ca/vehicles/2025/mercedes-benz/cla-coupe/brampton/on/70820489/?sale_class=used",
       "dealer_url": "https://www.bramptonchrysler.ca/vehicles/2025/mercedes-benz/cla-coupe/brampton/on/70820489/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T21:12:23",
-      "snapshot": "2026-10-03T21:24:33",
+      "snapshot": "2026-10-04T21:28:58",
       "go_url": "https://carwhisper.ca/go/go-auto-brampton-chrysler-w1k5j4hb8sn530390",
       "city": null,
       "province": "ON",
       "dealer_name": "Go Auto Brampton Chrysler"
+    },
+    {
+      "pub_id": "pacific-honda-w1k5j4hb8sn517865",
+      "year": 2025,
+      "make": "Mercedes-Benz",
+      "model": "CLA",
+      "trim": "250 4MATIC",
+      "body_type": "coupe",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 3191,
+      "price_cad": 60450.0,
+      "price_note": null,
+      "color": "Night Black",
+      "photo_url": "https://img.sm360.ca/images/inventory/mercedes-benz-boundary/mercedes-benz/cla/2025/39236144/39236144_00559_7246576aae3b479efe11d0b4f338121a.jpeg",
+      "dealer_id": "pacific-honda",
+      "vin": "W1K5J4HB8SN517865",
+      "stock": "MB13100",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/mercedes-benz/cla/2025-mercedes-benz-cla-id39236144",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/mercedes-benz/cla/2025-mercedes-benz-cla-id39236144?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T18:46:51",
+      "snapshot": "2026-10-04T20:22:02",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-w1k5j4hb8sn517865",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

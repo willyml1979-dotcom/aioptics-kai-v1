@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
   "condition": "new",
   "make": "bmw",
   "files": [
@@ -142,6 +142,48 @@
     {
       "condition": "new",
       "make": "bmw",
+      "model": "i4",
+      "shard": "part1",
+      "count": 22,
+      "file": "inventory/new-bmw-i4-part1.json",
+      "models": [
+        {
+          "model": "i4",
+          "count": 22
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "bmw",
+      "model": "i4",
+      "shard": "part2",
+      "count": 22,
+      "file": "inventory/new-bmw-i4-part2.json",
+      "models": [
+        {
+          "model": "i4",
+          "count": 22
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "bmw",
+      "model": "i4",
+      "shard": "part3",
+      "count": 21,
+      "file": "inventory/new-bmw-i4-part3.json",
+      "models": [
+        {
+          "model": "i4",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "bmw",
       "model": "X2 Sports Activity",
       "count": 6,
       "file": "inventory/new-bmw-x2-sports-activity.json",
@@ -203,48 +245,6 @@
         {
           "model": "X3 Sports Activity Vehicle",
           "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "bmw",
-      "model": "i4",
-      "shard": "part1",
-      "count": 22,
-      "file": "inventory/new-bmw-i4-part1.json",
-      "models": [
-        {
-          "model": "i4",
-          "count": 22
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "bmw",
-      "model": "i4",
-      "shard": "part2",
-      "count": 22,
-      "file": "inventory/new-bmw-i4-part2.json",
-      "models": [
-        {
-          "model": "i4",
-          "count": 22
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "bmw",
-      "model": "i4",
-      "shard": "part3",
-      "count": 21,
-      "file": "inventory/new-bmw-i4-part3.json",
-      "models": [
-        {
-          "model": "i4",
-          "count": 21
         }
       ]
     },

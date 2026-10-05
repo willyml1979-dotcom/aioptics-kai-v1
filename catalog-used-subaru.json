@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
   "condition": "used",
   "make": "subaru",
   "files": [
@@ -7,12 +7,12 @@
       "condition": "used",
       "make": "subaru",
       "model": "Legacy",
-      "count": 8,
+      "count": 9,
       "file": "inventory/used-subaru-legacy.json",
       "models": [
         {
           "model": "Legacy",
-          "count": 8
+          "count": 9
         }
       ]
     },
@@ -20,13 +20,13 @@
       "condition": "used",
       "make": "subaru",
       "model": "Crosstrek",
-      "shard": "Kootenays",
-      "count": 3,
-      "file": "inventory/used-subaru-crosstrek-kootenays.json",
+      "shard": "part1",
+      "count": 28,
+      "file": "inventory/used-subaru-crosstrek-part1.json",
       "models": [
         {
           "model": "Crosstrek",
-          "count": 3
+          "count": 28
         }
       ]
     },
@@ -34,13 +34,13 @@
       "condition": "used",
       "make": "subaru",
       "model": "Crosstrek",
-      "shard": "Lower Mainland",
-      "count": 19,
-      "file": "inventory/used-subaru-crosstrek-lower-mainland.json",
+      "shard": "part2",
+      "count": 28,
+      "file": "inventory/used-subaru-crosstrek-part2.json",
       "models": [
         {
           "model": "Crosstrek",
-          "count": 19
+          "count": 28
         }
       ]
     },
@@ -48,13 +48,13 @@
       "condition": "used",
       "make": "subaru",
       "model": "Crosstrek",
-      "shard": "Norte/Cariboo",
-      "count": 6,
-      "file": "inventory/used-subaru-crosstrek-norte-cariboo.json",
+      "shard": "part3",
+      "count": 28,
+      "file": "inventory/used-subaru-crosstrek-part3.json",
       "models": [
         {
           "model": "Crosstrek",
-          "count": 6
+          "count": 28
         }
       ]
     },
@@ -62,13 +62,13 @@
       "condition": "used",
       "make": "subaru",
       "model": "Crosstrek",
-      "shard": "Okanagan",
-      "count": 23,
-      "file": "inventory/used-subaru-crosstrek-okanagan.json",
+      "shard": "part4",
+      "count": 28,
+      "file": "inventory/used-subaru-crosstrek-part4.json",
       "models": [
         {
           "model": "Crosstrek",
-          "count": 23
+          "count": 28
         }
       ]
     },
@@ -76,23 +76,9 @@
       "condition": "used",
       "make": "subaru",
       "model": "Crosstrek",
-      "shard": "Vancouver Island",
-      "count": 16,
-      "file": "inventory/used-subaru-crosstrek-vancouver-island.json",
-      "models": [
-        {
-          "model": "Crosstrek",
-          "count": 16
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "subaru",
-      "model": "Crosstrek",
-      "shard": "sin-region",
+      "shard": "part5",
       "count": 26,
-      "file": "inventory/used-subaru-crosstrek-sin-region.json",
+      "file": "inventory/used-subaru-crosstrek-part5.json",
       "models": [
         {
           "model": "Crosstrek",
@@ -175,12 +161,12 @@
       "make": "subaru",
       "model": "Outback",
       "shard": "sin-region",
-      "count": 19,
+      "count": 25,
       "file": "inventory/used-subaru-outback-sin-region.json",
       "models": [
         {
           "model": "Outback",
-          "count": 19
+          "count": 25
         }
       ]
     },
@@ -273,12 +259,12 @@
       "make": "subaru",
       "model": "WRX",
       "shard": "sin-region",
-      "count": 15,
+      "count": 17,
       "file": "inventory/used-subaru-wrx-sin-region.json",
       "models": [
         {
           "model": "WRX",
-          "count": 15
+          "count": 17
         }
       ]
     },
@@ -300,12 +286,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "part1",
-      "count": 30,
+      "count": 31,
       "file": "inventory/used-subaru-forester-part1.json",
       "models": [
         {
           "model": "Forester",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -314,12 +300,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "part2",
-      "count": 30,
+      "count": 31,
       "file": "inventory/used-subaru-forester-part2.json",
       "models": [
         {
           "model": "Forester",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -328,12 +314,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "part3",
-      "count": 30,
+      "count": 31,
       "file": "inventory/used-subaru-forester-part3.json",
       "models": [
         {
           "model": "Forester",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -342,12 +328,26 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "part4",
-      "count": 27,
+      "count": 31,
       "file": "inventory/used-subaru-forester-part4.json",
       "models": [
         {
           "model": "Forester",
-          "count": 27
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Forester",
+      "shard": "part5",
+      "count": 28,
+      "file": "inventory/used-subaru-forester-part5.json",
+      "models": [
+        {
+          "model": "Forester",
+          "count": 28
         }
       ]
     },
@@ -355,12 +355,12 @@
       "condition": "used",
       "make": "subaru",
       "model": "Impreza",
-      "count": 22,
+      "count": 26,
       "file": "inventory/used-subaru-impreza.json",
       "models": [
         {
           "model": "Impreza",
-          "count": 22
+          "count": 26
         }
       ]
     },
@@ -368,12 +368,12 @@
       "condition": "used",
       "make": "subaru",
       "model": "Ascent",
-      "count": 25,
+      "count": 27,
       "file": "inventory/used-subaru-ascent.json",
       "models": [
         {
           "model": "Ascent",
-          "count": 25
+          "count": 27
         }
       ]
     },
@@ -650,6 +650,32 @@
       "models": [
         {
           "model": "Legacy Sedan 2.5i w/Touring Pkg",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Crosstrek Touring Pkg CVT",
+      "count": 1,
+      "file": "inventory/used-subaru-crosstrek-touring-pkg-cvt.json",
+      "models": [
+        {
+          "model": "Crosstrek Touring Pkg CVT",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "WRX Sport",
+      "count": 1,
+      "file": "inventory/used-subaru-wrx-sport.json",
+      "models": [
+        {
+          "model": "WRX Sport",
           "count": 1
         }
       ]

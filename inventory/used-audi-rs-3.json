@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
-  "snapshot": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
+  "snapshot": "2026-10-05T06:01:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "harmony-acura-wuabwhff7j1900118",
@@ -51,6 +51,33 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Harmony Honda"
+    },
+    {
+      "pub_id": "pacific-honda-wuagwcgy5sa910995",
+      "year": 2025,
+      "make": "Audi",
+      "model": "RS 3",
+      "trim": "2.5 TFSI quattro w/Carbon Optic Plus Package",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 4469,
+      "price_cad": 74901.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://img.sm360.ca/images/inventory/burrard-acura/audi/rs-3/2025/39223220/39223220_04781_6b192193b9fd995204292d2e5529a1ca.jpeg",
+      "dealer_id": "pacific-honda",
+      "vin": "WUAGWCGY5SA910995",
+      "stock": "A22F002",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/audi/rs-3/2025-audi-rs-3-id39223220",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/audi/rs-3/2025-audi-rs-3-id39223220?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T17:12:56",
+      "snapshot": "2026-10-04T20:22:02",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-wuagwcgy5sa910995",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

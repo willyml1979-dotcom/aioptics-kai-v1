@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
   "condition": "used",
   "make": "genesis",
   "files": [
@@ -20,12 +20,12 @@
       "condition": "used",
       "make": "genesis",
       "model": "GV70",
-      "count": 15,
+      "count": 19,
       "file": "inventory/used-genesis-gv70.json",
       "models": [
         {
           "model": "GV70",
-          "count": 15
+          "count": 19
         }
       ]
     },
@@ -33,12 +33,12 @@
       "condition": "used",
       "make": "genesis",
       "model": "GV80",
-      "count": 22,
+      "count": 23,
       "file": "inventory/used-genesis-gv80.json",
       "models": [
         {
           "model": "GV80",
-          "count": 22
+          "count": 23
         }
       ]
     },
@@ -52,6 +52,19 @@
         {
           "model": "GV60",
           "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "genesis",
+      "model": "GV70 2.5T Advanced",
+      "count": 1,
+      "file": "inventory/used-genesis-gv70-2-5t-advanced.json",
+      "models": [
+        {
+          "model": "GV70 2.5T Advanced",
+          "count": 1
         }
       ]
     }

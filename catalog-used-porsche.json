@@ -1,44 +1,125 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
   "condition": "used",
   "make": "porsche",
   "files": [
     {
       "condition": "used",
       "make": "porsche",
-      "count": 27,
-      "file": "inventory/used-porsche.json",
+      "model": "Cayenne",
+      "count": 10,
+      "file": "inventory/used-porsche-cayenne.json",
       "models": [
         {
-          "model": "911",
-          "count": 1
-        },
-        {
           "model": "Cayenne",
-          "count": 8
-        },
-        {
-          "model": "Cayman",
-          "count": 1
-        },
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "porsche",
+      "model": "Macan",
+      "count": 13,
+      "file": "inventory/used-porsche-macan.json",
+      "models": [
         {
           "model": "MACAN",
           "count": 1
         },
         {
           "model": "Macan",
-          "count": 10
-        },
+          "count": 12
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "porsche",
+      "model": "Macan GTS",
+      "count": 4,
+      "file": "inventory/used-porsche-macan-gts.json",
+      "models": [
         {
           "model": "Macan GTS",
           "count": 4
-        },
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "porsche",
+      "model": "Taycan",
+      "count": 2,
+      "file": "inventory/used-porsche-taycan.json",
+      "models": [
+        {
+          "model": "Taycan",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "porsche",
+      "model": "Panamera",
+      "count": 1,
+      "file": "inventory/used-porsche-panamera.json",
+      "models": [
         {
           "model": "Panamera",
           "count": 1
-        },
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "porsche",
+      "model": "911",
+      "count": 3,
+      "file": "inventory/used-porsche-911.json",
+      "models": [
         {
-          "model": "Taycan",
+          "model": "911",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "porsche",
+      "model": "Cayman",
+      "count": 1,
+      "file": "inventory/used-porsche-cayman.json",
+      "models": [
+        {
+          "model": "Cayman",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "porsche",
+      "model": "Cayenne AWD",
+      "count": 1,
+      "file": "inventory/used-porsche-cayenne-awd.json",
+      "models": [
+        {
+          "model": "Cayenne AWD",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "porsche",
+      "model": "Panamera 4 e-Hybrid",
+      "count": 1,
+      "file": "inventory/used-porsche-panamera-4-e-hybrid.json",
+      "models": [
+        {
+          "model": "Panamera 4 e-Hybrid",
           "count": 1
         }
       ]

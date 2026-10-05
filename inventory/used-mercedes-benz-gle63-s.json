@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
-  "snapshot": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
+  "snapshot": "2026-10-05T06:01:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "mercedes-benz-langley-4jgfb8kb5pa916092",
@@ -32,6 +32,34 @@
       "city": "Langley",
       "province": "BC",
       "dealer_name": "Mercedes Benz Langley"
+    },
+    {
+      "pub_id": "pacific-honda-4jgfb8kb5pa916092",
+      "year": 2023,
+      "make": "Mercedes-Benz",
+      "model": "GLE63 S",
+      "trim": "4MATIC+",
+      "body_type": "suv",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 73000,
+      "price_cad": 98999.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://img.sm360.ca/images/inventory/langley-mercedes-benz/mercedes-benz/gle63-s/2023/39026530/39026530_04509_95148b82c9e999783f567dd00793fb54.jpeg",
+      "dealer_id": "pacific-honda",
+      "vin": "4JGFB8KB5PA916092",
+      "stock": "MB32B00",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/mercedes-benz/gle63-s/2023-mercedes-benz-gle63-s-id39026530",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/mercedes-benz/gle63-s/2023-mercedes-benz-gle63-s-id39026530?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:12:31",
+      "snapshot": "2026-10-04T20:22:02",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-4jgfb8kb5pa916092",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

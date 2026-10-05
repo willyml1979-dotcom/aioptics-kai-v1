@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
   "condition": "used",
   "make": "ram",
   "files": [
@@ -8,12 +8,12 @@
       "make": "ram",
       "model": "1500",
       "shard": "part1",
-      "count": 33,
+      "count": 29,
       "file": "inventory/used-ram-1500-part1.json",
       "models": [
         {
           "model": "1500",
-          "count": 33
+          "count": 29
         }
       ]
     },
@@ -22,12 +22,12 @@
       "make": "ram",
       "model": "1500",
       "shard": "part2",
-      "count": 33,
+      "count": 29,
       "file": "inventory/used-ram-1500-part2.json",
       "models": [
         {
           "model": "1500",
-          "count": 33
+          "count": 29
         }
       ]
     },
@@ -36,12 +36,12 @@
       "make": "ram",
       "model": "1500",
       "shard": "part3",
-      "count": 33,
+      "count": 29,
       "file": "inventory/used-ram-1500-part3.json",
       "models": [
         {
           "model": "1500",
-          "count": 33
+          "count": 29
         }
       ]
     },
@@ -50,12 +50,12 @@
       "make": "ram",
       "model": "1500",
       "shard": "part4",
-      "count": 33,
+      "count": 29,
       "file": "inventory/used-ram-1500-part4.json",
       "models": [
         {
           "model": "1500",
-          "count": 33
+          "count": 29
         }
       ]
     },
@@ -64,12 +64,12 @@
       "make": "ram",
       "model": "1500",
       "shard": "part5",
-      "count": 33,
+      "count": 29,
       "file": "inventory/used-ram-1500-part5.json",
       "models": [
         {
           "model": "1500",
-          "count": 33
+          "count": 29
         }
       ]
     },
@@ -78,12 +78,26 @@
       "make": "ram",
       "model": "1500",
       "shard": "part6",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-ram-1500-part6.json",
       "models": [
         {
           "model": "1500",
-          "count": 28
+          "count": 29
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500",
+      "shard": "part7",
+      "count": 29,
+      "file": "inventory/used-ram-1500-part7.json",
+      "models": [
+        {
+          "model": "1500",
+          "count": 29
         }
       ]
     },
@@ -192,7 +206,7 @@
       "make": "ram",
       "model": "1500 Classic",
       "shard": "sin-region",
-      "count": 16,
+      "count": 20,
       "file": "inventory/used-ram-1500-classic-sin-region.json",
       "models": [
         {
@@ -201,7 +215,7 @@
         },
         {
           "model": "1500 Classic",
-          "count": 14
+          "count": 18
         }
       ]
     },
@@ -537,12 +551,12 @@
       "condition": "used",
       "make": "ram",
       "model": "ProMaster Cargo",
-      "count": 13,
+      "count": 14,
       "file": "inventory/used-ram-promaster-cargo.json",
       "models": [
         {
           "model": "ProMaster Cargo",
-          "count": 13
+          "count": 14
         }
       ]
     },
@@ -602,12 +616,12 @@
       "condition": "used",
       "make": "ram",
       "model": "1500 Tradesman 4x4 Crew Cab 5'7 Box",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-ram-1500-tradesman-4x4-crew-cab-5-7-box.json",
       "models": [
         {
           "model": "1500 Tradesman 4x4 Crew Cab 5'7 Box",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -936,6 +950,58 @@
       "models": [
         {
           "model": "1500 Laramie",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "2500 Big Horn 4x4 Crew Cab 6'4 Box",
+      "count": 1,
+      "file": "inventory/used-ram-2500-big-horn-4x4-crew-cab-6-4-box.json",
+      "models": [
+        {
+          "model": "2500 Big Horn 4x4 Crew Cab 6'4 Box",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "3500 Big Horn 4x4 Crew Cab 6'4 Box",
+      "count": 1,
+      "file": "inventory/used-ram-3500-big-horn-4x4-crew-cab-6-4-box.json",
+      "models": [
+        {
+          "model": "3500 Big Horn 4x4 Crew Cab 6'4 Box",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500 Trx Crew Cab 4x4 Base 144.5 WB 5' 7 Box Ram",
+      "count": 1,
+      "file": "inventory/used-ram-1500-trx-crew-cab-4x4-base-144-5-wb-5-7-box-ram.json",
+      "models": [
+        {
+          "model": "1500 Trx Crew Cab 4x4 Base 144.5 WB 5' 7 Box Ram",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "2500 Crew Cab 4x4 Power Wagon (149 WB 6'4 Box) Ram",
+      "count": 1,
+      "file": "inventory/used-ram-2500-crew-cab-4x4-power-wagon-149-wb-6-4-box-ram.json",
+      "models": [
+        {
+          "model": "2500 Crew Cab 4x4 Power Wagon (149 WB 6'4 Box) Ram",
           "count": 1
         }
       ]

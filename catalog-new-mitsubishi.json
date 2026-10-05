@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
   "condition": "new",
   "make": "mitsubishi",
   "files": [
@@ -50,12 +50,12 @@
       "make": "mitsubishi",
       "model": "Eclipse Cross",
       "shard": "part1",
-      "count": 31,
+      "count": 25,
       "file": "inventory/new-mitsubishi-eclipse-cross-part1.json",
       "models": [
         {
           "model": "Eclipse Cross",
-          "count": 31
+          "count": 25
         }
       ]
     },
@@ -64,12 +64,40 @@
       "make": "mitsubishi",
       "model": "Eclipse Cross",
       "shard": "part2",
-      "count": 31,
+      "count": 25,
       "file": "inventory/new-mitsubishi-eclipse-cross-part2.json",
       "models": [
         {
           "model": "Eclipse Cross",
-          "count": 31
+          "count": 25
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mitsubishi",
+      "model": "Eclipse Cross",
+      "shard": "part3",
+      "count": 25,
+      "file": "inventory/new-mitsubishi-eclipse-cross-part3.json",
+      "models": [
+        {
+          "model": "Eclipse Cross",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mitsubishi",
+      "model": "Eclipse Cross",
+      "shard": "part4",
+      "count": 25,
+      "file": "inventory/new-mitsubishi-eclipse-cross-part4.json",
+      "models": [
+        {
+          "model": "Eclipse Cross",
+          "count": 25
         }
       ]
     },
@@ -134,12 +162,12 @@
       "make": "mitsubishi",
       "model": "Outlander",
       "shard": "part5",
-      "count": 26,
+      "count": 27,
       "file": "inventory/new-mitsubishi-outlander-part5.json",
       "models": [
         {
           "model": "Outlander",
-          "count": 26
+          "count": 27
         }
       ]
     },
@@ -224,6 +252,19 @@
         {
           "model": "Outlander PHEV",
           "count": 23
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mitsubishi",
+      "model": "Mirage",
+      "count": 1,
+      "file": "inventory/new-mitsubishi-mirage.json",
+      "models": [
+        {
+          "model": "Mirage",
+          "count": 1
         }
       ]
     }

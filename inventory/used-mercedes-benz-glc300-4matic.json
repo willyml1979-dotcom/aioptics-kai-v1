@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
-  "snapshot": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
+  "snapshot": "2026-10-05T06:01:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "mercedes-benz-boundary-w1nkm4hb6tf512902",
@@ -28,6 +28,30 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Mercedes-Benz Boundary"
+    },
+    {
+      "pub_id": "pacific-honda-w1nkm4hb6tf512902",
+      "year": 2026,
+      "make": "Mercedes-benz",
+      "model": "GLC300 4MATIC",
+      "body_type": "suv",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 2418,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "pacific-honda",
+      "vin": "W1NKM4HB6TF512902",
+      "stock": "6T3111A",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/mercedes-benz/glc300/2026-mercedes-benz-glc300-id38853566",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/mercedes-benz/glc300/2026-mercedes-benz-glc300-id38853566?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:00:55",
+      "snapshot": "2026-10-04T20:22:02",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-w1nkm4hb6tf512902",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
   "condition": "used",
   "make": "jeep",
   "files": [
@@ -104,7 +104,7 @@
       "make": "jeep",
       "model": "GRAND CHEROKEE",
       "shard": "sin-region",
-      "count": 23,
+      "count": 27,
       "file": "inventory/used-jeep-grand-cherokee-sin-region.json",
       "models": [
         {
@@ -113,7 +113,7 @@
         },
         {
           "model": "Grand Cherokee",
-          "count": 22
+          "count": 26
         }
       ]
     },
@@ -214,7 +214,7 @@
       "make": "jeep",
       "model": "Wrangler",
       "shard": "sin-region",
-      "count": 19,
+      "count": 26,
       "file": "inventory/used-jeep-wrangler-sin-region.json",
       "models": [
         {
@@ -223,7 +223,7 @@
         },
         {
           "model": "Wrangler",
-          "count": 18
+          "count": 25
         }
       ]
     },
@@ -328,12 +328,12 @@
       "make": "jeep",
       "model": "Cherokee",
       "shard": "sin-region",
-      "count": 10,
+      "count": 12,
       "file": "inventory/used-jeep-cherokee-sin-region.json",
       "models": [
         {
           "model": "Cherokee",
-          "count": 10
+          "count": 12
         }
       ]
     },
@@ -535,7 +535,7 @@
       "make": "jeep",
       "model": "Compass",
       "shard": "sin-region",
-      "count": 21,
+      "count": 22,
       "file": "inventory/used-jeep-compass-sin-region.json",
       "models": [
         {
@@ -544,7 +544,7 @@
         },
         {
           "model": "Compass",
-          "count": 20
+          "count": 21
         }
       ]
     },
@@ -591,8 +591,9 @@
       "condition": "used",
       "make": "jeep",
       "model": "GLADIATOR",
-      "count": 34,
-      "file": "inventory/used-jeep-gladiator.json",
+      "shard": "Kootenays",
+      "count": 3,
+      "file": "inventory/used-jeep-gladiator-kootenays.json",
       "models": [
         {
           "model": "GLADIATOR",
@@ -600,7 +601,77 @@
         },
         {
           "model": "Gladiator",
-          "count": 32
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "GLADIATOR",
+      "shard": "Lower Mainland",
+      "count": 11,
+      "file": "inventory/used-jeep-gladiator-lower-mainland.json",
+      "models": [
+        {
+          "model": "Gladiator",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "GLADIATOR",
+      "shard": "Norte/Cariboo",
+      "count": 2,
+      "file": "inventory/used-jeep-gladiator-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Gladiator",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "GLADIATOR",
+      "shard": "Okanagan",
+      "count": 11,
+      "file": "inventory/used-jeep-gladiator-okanagan.json",
+      "models": [
+        {
+          "model": "Gladiator",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "GLADIATOR",
+      "shard": "Vancouver Island",
+      "count": 3,
+      "file": "inventory/used-jeep-gladiator-vancouver-island.json",
+      "models": [
+        {
+          "model": "Gladiator",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "GLADIATOR",
+      "shard": "sin-region",
+      "count": 6,
+      "file": "inventory/used-jeep-gladiator-sin-region.json",
+      "models": [
+        {
+          "model": "Gladiator",
+          "count": 6
         }
       ]
     },
@@ -608,12 +679,12 @@
       "condition": "used",
       "make": "jeep",
       "model": "Grand Cherokee 4xe",
-      "count": 20,
+      "count": 23,
       "file": "inventory/used-jeep-grand-cherokee-4xe.json",
       "models": [
         {
           "model": "Grand Cherokee 4xe",
-          "count": 20
+          "count": 23
         }
       ]
     },
@@ -621,12 +692,12 @@
       "condition": "used",
       "make": "jeep",
       "model": "Grand Cherokee L",
-      "count": 23,
+      "count": 27,
       "file": "inventory/used-jeep-grand-cherokee-l.json",
       "models": [
         {
           "model": "Grand Cherokee L",
-          "count": 23
+          "count": 27
         }
       ]
     },
@@ -673,12 +744,12 @@
       "condition": "used",
       "make": "jeep",
       "model": "Patriot",
-      "count": 7,
+      "count": 8,
       "file": "inventory/used-jeep-patriot.json",
       "models": [
         {
           "model": "Patriot",
-          "count": 7
+          "count": 8
         }
       ]
     },
@@ -686,7 +757,7 @@
       "condition": "used",
       "make": "jeep",
       "model": "Wrangler 4xe",
-      "count": 25,
+      "count": 29,
       "file": "inventory/used-jeep-wrangler-4xe.json",
       "models": [
         {
@@ -695,7 +766,7 @@
         },
         {
           "model": "Wrangler 4xe",
-          "count": 24
+          "count": 28
         }
       ]
     },
@@ -742,12 +813,12 @@
       "condition": "used",
       "make": "jeep",
       "model": "Wagoneer",
-      "count": 2,
+      "count": 3,
       "file": "inventory/used-jeep-wagoneer.json",
       "models": [
         {
           "model": "Wagoneer",
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -837,12 +908,12 @@
       "condition": "used",
       "make": "jeep",
       "model": "Grand Wagoneer L",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-jeep-grand-wagoneer-l.json",
       "models": [
         {
           "model": "Grand Wagoneer L",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -1011,6 +1082,19 @@
       "models": [
         {
           "model": "Wrangler JK",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Wagoneer L",
+      "count": 2,
+      "file": "inventory/used-jeep-wagoneer-l.json",
+      "models": [
+        {
+          "model": "Wagoneer L",
           "count": 2
         }
       ]

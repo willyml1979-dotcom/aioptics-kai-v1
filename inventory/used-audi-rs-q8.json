@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
-  "snapshot": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
+  "snapshot": "2026-10-05T06:01:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "pioneer-chrysler-jeep-wu1araf13md002990",
@@ -27,6 +27,33 @@
       "city": "Mission",
       "province": "BC",
       "dealer_name": "Pioneer Chrysler Jeep"
+    },
+    {
+      "pub_id": "pacific-honda-wu1arbf17td001362",
+      "year": 2026,
+      "make": "Audi",
+      "model": "RS Q8",
+      "trim": "performance 4.0 TFSI quattro",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 38824,
+      "price_cad": 165188.0,
+      "price_note": null,
+      "color": "Ascari blue metallic",
+      "photo_url": "https://img.sm360.ca/images/inventory/",
+      "dealer_id": "pacific-honda",
+      "vin": "WU1ARBF17TD001362",
+      "stock": "MB61616",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/audi/rs-q8/2026-audi-rs-q8-id39207348",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/audi/rs-q8/2026-audi-rs-q8-id39207348?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T17:14:11",
+      "snapshot": "2026-10-04T20:22:02",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-wu1arbf17td001362",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

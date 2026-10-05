@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
-  "snapshot": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
+  "snapshot": "2026-10-05T06:01:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 12,
+  "count": 14,
   "vehicles": [
     {
       "pub_id": "maple-ridge-chrysler-jeep-dodge-5n1dl0mmxkc513159",
@@ -288,6 +288,34 @@
       "dealer_name": "Red Deer Nissan"
     },
     {
+      "pub_id": "pacific-honda-5n1dl1fsxpc333110",
+      "year": 2023,
+      "make": "Infiniti",
+      "model": "QX60",
+      "trim": "AWD LUXE",
+      "body_type": "suv",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 55000,
+      "price_cad": 38995.0,
+      "price_note": null,
+      "color": "Blue",
+      "photo_url": "https://img.sm360.ca/images/inventory/langley-mercedes-benz/infiniti/qx60/2023/39260955/39260955_04842_0a3e245ff0faeeb5ac8f003bf1dc2a16.jpeg",
+      "dealer_id": "pacific-honda",
+      "vin": "5N1DL1FSXPC333110",
+      "stock": "MB32B05",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/infiniti/qx60/2023-infiniti-qx60-id39260955",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/infiniti/qx60/2023-infiniti-qx60-id39260955?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T18:14:39",
+      "snapshot": "2026-10-04T20:22:02",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-5n1dl1fsxpc333110",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
+    },
+    {
       "pub_id": "vaughan-chrysler-5n1dl1hu5pc346992",
       "year": 2023,
       "make": "Infiniti",
@@ -313,6 +341,33 @@
       "city": null,
       "province": "ON",
       "dealer_name": "Vaughan Chrysler"
+    },
+    {
+      "pub_id": "pacific-honda-5n1dl1hu8rc340042",
+      "year": 2024,
+      "make": "Infiniti",
+      "model": "QX60",
+      "trim": "AUTOGRAPH AWD",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 33890,
+      "price_cad": 54650.0,
+      "price_note": null,
+      "color": "2-Tone Warm Titanium/Black Obsidian",
+      "photo_url": "https://img.sm360.ca/images/inventory/northvancouver-nissan/infiniti/qx60/2024/39164070/39164070_00046_b770a2718c0be79c7d3a5066e1a9ce9b.jpeg",
+      "dealer_id": "pacific-honda",
+      "vin": "5N1DL1HU8RC340042",
+      "stock": "I27012A",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/infiniti/qx60/2024-infiniti-qx60-id39164070",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/infiniti/qx60/2024-infiniti-qx60-id39164070?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T18:14:58",
+      "snapshot": "2026-10-04T20:22:02",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-5n1dl1hu8rc340042",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

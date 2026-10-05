@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
   "condition": "used",
   "make": "mitsubishi",
   "files": [
@@ -91,12 +91,12 @@
       "make": "mitsubishi",
       "model": "RVR",
       "shard": "sin-region",
-      "count": 5,
+      "count": 8,
       "file": "inventory/used-mitsubishi-rvr-sin-region.json",
       "models": [
         {
           "model": "RVR",
-          "count": 5
+          "count": 8
         }
       ]
     },
@@ -104,12 +104,12 @@
       "condition": "used",
       "make": "mitsubishi",
       "model": "Mirage",
-      "count": 12,
+      "count": 14,
       "file": "inventory/used-mitsubishi-mirage.json",
       "models": [
         {
           "model": "Mirage",
-          "count": 12
+          "count": 14
         }
       ]
     },
@@ -118,12 +118,12 @@
       "make": "mitsubishi",
       "model": "Outlander",
       "shard": "part1",
-      "count": 24,
+      "count": 25,
       "file": "inventory/used-mitsubishi-outlander-part1.json",
       "models": [
         {
           "model": "Outlander",
-          "count": 24
+          "count": 25
         }
       ]
     },
@@ -132,12 +132,12 @@
       "make": "mitsubishi",
       "model": "Outlander",
       "shard": "part2",
-      "count": 24,
+      "count": 25,
       "file": "inventory/used-mitsubishi-outlander-part2.json",
       "models": [
         {
           "model": "Outlander",
-          "count": 24
+          "count": 25
         }
       ]
     },
@@ -146,12 +146,12 @@
       "make": "mitsubishi",
       "model": "Outlander",
       "shard": "part3",
-      "count": 24,
+      "count": 25,
       "file": "inventory/used-mitsubishi-outlander-part3.json",
       "models": [
         {
           "model": "Outlander",
-          "count": 24
+          "count": 25
         }
       ]
     },
@@ -202,12 +202,12 @@
       "make": "mitsubishi",
       "model": "Eclipse Cross",
       "shard": "sin-region",
-      "count": 2,
+      "count": 5,
       "file": "inventory/used-mitsubishi-eclipse-cross-sin-region.json",
       "models": [
         {
           "model": "Eclipse Cross",
-          "count": 2
+          "count": 5
         }
       ]
     },
@@ -272,12 +272,12 @@
       "make": "mitsubishi",
       "model": "Outlander PHEV",
       "shard": "sin-region",
-      "count": 4,
+      "count": 5,
       "file": "inventory/used-mitsubishi-outlander-phev-sin-region.json",
       "models": [
         {
           "model": "Outlander PHEV",
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -298,12 +298,12 @@
       "condition": "used",
       "make": "mitsubishi",
       "model": "Outlander Plug-In Hybrid",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-mitsubishi-outlander-plug-in-hybrid.json",
       "models": [
         {
           "model": "Outlander Plug-In Hybrid",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -459,6 +459,19 @@
       "models": [
         {
           "model": "Endeavor SE",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "Outlander ES S-AWC",
+      "count": 1,
+      "file": "inventory/used-mitsubishi-outlander-es-s-awc.json",
+      "models": [
+        {
+          "model": "Outlander ES S-AWC",
           "count": 1
         }
       ]

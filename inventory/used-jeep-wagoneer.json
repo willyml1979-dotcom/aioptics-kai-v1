@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
-  "snapshot": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
+  "snapshot": "2026-10-05T06:01:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "bannister-nissan-chilliwack-1c4sjvbp8rs113290",
@@ -63,6 +63,33 @@
       "city": "Williams Lake",
       "province": "BC",
       "dealer_name": "Cariboo Chevrolet Buick GMC Ltd."
+    },
+    {
+      "pub_id": "red-deer-mitsubishi-1c4sjvbp1rs112739",
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Wagoneer",
+      "trim": "Series II",
+      "drivetrain": "AWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 118903,
+      "price_cad": 46466.0,
+      "price_note": null,
+      "color": "Bright White Clearcoat",
+      "photo_url": "https://img.sm360.ca/images/inventory/red-deer-mitsubishi/jeep/wagoneer/2024/38710809/38710809_05455_d5a59e1477a1b6dfd95926d032a3e415.jpeg",
+      "dealer_id": "red-deer-mitsubishi",
+      "vin": "1C4SJVBP1RS112739",
+      "stock": "P1880",
+      "listing_url": "https://www.reddeermitsubishi.ca/en/used-inventory/jeep/wagoneer/2024-jeep-wagoneer-id38710809",
+      "dealer_url": "https://www.reddeermitsubishi.ca/en/used-inventory/jeep/wagoneer/2024-jeep-wagoneer-id38710809?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T22:41:31",
+      "snapshot": "2026-10-04T22:48:55",
+      "go_url": "https://carwhisper.ca/go/red-deer-mitsubishi-1c4sjvbp1rs112739",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Red Deer Mitsubishi"
     }
   ]
 }

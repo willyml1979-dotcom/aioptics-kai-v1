@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
-  "snapshot": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
+  "snapshot": "2026-10-05T06:01:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "jacobson-ford-sales-ltd-3fadp4cj2cm174877",
@@ -115,6 +115,34 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Island Ford"
+    },
+    {
+      "pub_id": "pacific-honda-3fadp4ej3cm113650",
+      "year": 2012,
+      "make": "Ford",
+      "model": "Fiesta",
+      "trim": "SES 4D",
+      "body_type": "hatchback",
+      "drivetrain": "FWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 61883,
+      "price_cad": 6888.0,
+      "price_note": null,
+      "color": "RED",
+      "photo_url": "https://img.sm360.ca/images/inventory/pacific-honda/ford/fiesta/2012/39060804/39060804_03090_a341ebd0584a27b295922a5a6cfe81b3.jpeg",
+      "dealer_id": "pacific-honda",
+      "vin": "3FADP4EJ3CM113650",
+      "stock": "H113985",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/ford/fiesta/2012-ford-fiesta-id39060804",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/ford/fiesta/2012-ford-fiesta-id39060804?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T17:34:12",
+      "snapshot": "2026-10-04T20:22:02",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-3fadp4ej3cm113650",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

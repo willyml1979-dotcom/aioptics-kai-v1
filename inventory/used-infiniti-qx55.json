@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
-  "snapshot": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
+  "snapshot": "2026-10-05T06:01:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 8,
+  "count": 9,
   "vehicles": [
     {
       "pub_id": "maple-ridge-hyundai-3pcaj5l35nf105081",
@@ -209,6 +209,33 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Campus Nissan"
+    },
+    {
+      "pub_id": "pacific-honda-3pcaj5kr9sf116151",
+      "year": 2025,
+      "make": "Infiniti",
+      "model": "QX55",
+      "trim": "ESSENTIAL AWD",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 15,
+      "price_cad": 51286.0,
+      "price_note": null,
+      "color": "Radiant White Pearl Tintcoat",
+      "photo_url": "https://img.sm360.ca/images/inventory/northvancouver-nissan/infiniti/qx55/2025/39089127/39089127_05546_85504bc2002b23911bd0c5b5ab9ff0b3.jpeg",
+      "dealer_id": "pacific-honda",
+      "vin": "3PCAJ5KR9SF116151",
+      "stock": "I13492",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/infiniti/qx55/2025-infiniti-qx55-id39089127",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/infiniti/qx55/2025-infiniti-qx55-id39089127?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T18:14:19",
+      "snapshot": "2026-10-04T20:22:02",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-3pcaj5kr9sf116151",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

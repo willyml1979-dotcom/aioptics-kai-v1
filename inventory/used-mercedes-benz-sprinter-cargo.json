@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T00:01:08+00:00",
-  "snapshot": "2026-10-05T00:01:08+00:00",
+  "generated_at": "2026-10-05T06:01:09+00:00",
+  "snapshot": "2026-10-05T06:01:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 8,
+  "count": 9,
   "vehicles": [
     {
       "pub_id": "go-kia-west-w1y4kchy9sp799208",
@@ -232,6 +232,35 @@
       "city": "Nanaimo",
       "province": "BC",
       "dealer_name": "Mercedes-Benz Nanaimo"
+    },
+    {
+      "pub_id": "pacific-honda-w1y4nbhyxrp683883",
+      "year": 2024,
+      "make": "Mercedes-Benz",
+      "model": "Sprinter Cargo",
+      "trim": "2500 Standard Roof I4 Diesel HO 144",
+      "body_type": "van",
+      "drivetrain": "RWD",
+      "propulsion": "diesel",
+      "propulsion_source": "model_trim_name",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 31558,
+      "price_cad": 54995.0,
+      "price_note": null,
+      "color": "Arctic White ",
+      "photo_url": "https://img.sm360.ca/images/inventory/",
+      "dealer_id": "pacific-honda",
+      "vin": "W1Y4NBHYXRP683883",
+      "stock": "25V0143",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/mercedes-benz/sprinter-cargo-van/2024-mercedes-benz-sprinter-cargo-van-id39297812",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/mercedes-benz/sprinter-cargo-van/2024-mercedes-benz-sprinter-cargo-van-id39297812?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:15:01",
+      "snapshot": "2026-10-04T20:22:02",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-w1y4nbhyxrp683883",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }
