@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T15:57:40+00:00",
+  "generated_at": "2026-10-06T21:57:35+00:00",
   "condition": "used",
   "make": "mercedes-benz",
   "files": [
@@ -1155,12 +1155,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "CLE300",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-mercedes-benz-cle300.json",
       "models": [
         {
           "model": "CLE300",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -1212,6 +1212,19 @@
       "models": [
         {
           "model": "M-ClassML 350 4dr All-Wheel Drive 4MATIC",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "GLA GLA 250 4MATIC",
+      "count": 1,
+      "file": "inventory/used-mercedes-benz-gla-gla-250-4matic.json",
+      "models": [
+        {
+          "model": "GLA GLA 250 4MATIC",
           "count": 1
         }
       ]

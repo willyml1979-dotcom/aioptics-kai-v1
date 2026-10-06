@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-06T15:57:40+00:00",
-  "snapshot": "2026-10-06T15:57:40+00:00",
+  "generated_at": "2026-10-06T21:57:35+00:00",
+  "snapshot": "2026-10-06T21:57:35+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 12,
+  "count": 13,
   "vehicles": [
     {
       "pub_id": "winnipeg-hyundai-kmhrc8a33lu017213",
@@ -132,7 +132,7 @@
       "listing_url": "https://www.northshorehonda.ca/en/used-inventory/hyundai/venue/2024-hyundai-venue-id39264322",
       "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/hyundai/venue/2024-hyundai-venue-id39264322?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T18:11:24",
-      "snapshot": "2026-10-04T20:22:02",
+      "snapshot": "2026-10-06T09:56:54",
       "go_url": "https://carwhisper.ca/go/pacific-honda-kmhrb8a30ru336063",
       "city": null,
       "province": "BC",
@@ -324,6 +324,31 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Sherwood Park Chevrolet"
+    },
+    {
+      "pub_id": "go-richmond-kia-kmhrc8a37su371847",
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Venue",
+      "trim": "Preferred",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 59119,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "Grey",
+      "dealer_id": "go-richmond-kia",
+      "vin": "KMHRC8A37SU371847",
+      "stock": "PF0107",
+      "listing_url": "https://www.gorichmondkia.ca/vehicles/2025/hyundai/venue/richmond/bc/ad13126470/?sale_class=used",
+      "dealer_url": "https://www.gorichmondkia.ca/vehicles/2025/hyundai/venue/richmond/bc/ad13126470/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T09:26:24",
+      "snapshot": "2026-10-06T09:29:30",
+      "go_url": "https://carwhisper.ca/go/go-richmond-kia-kmhrc8a37su371847",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Richmond Kia"
     }
   ]
 }

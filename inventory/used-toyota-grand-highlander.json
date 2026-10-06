@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-06T15:57:40+00:00",
-  "snapshot": "2026-10-06T15:57:40+00:00",
+  "generated_at": "2026-10-06T21:57:35+00:00",
+  "snapshot": "2026-10-06T21:57:35+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "destination-toyota-burnaby-5tdacab55rs016344",
@@ -144,6 +144,31 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Island Ford"
+    },
+    {
+      "pub_id": "go-richmond-kia-5tdaaab55ss088463",
+      "year": 2025,
+      "make": "Toyota",
+      "model": "Grand Highlander",
+      "trim": "XLE",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 60959,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "Silver",
+      "dealer_id": "go-richmond-kia",
+      "vin": "5TDAAAB55SS088463",
+      "stock": "PJ0083",
+      "listing_url": "https://www.gorichmondkia.ca/vehicles/2025/toyota/grand-highlander/richmond/bc/ad13126477/?sale_class=used",
+      "dealer_url": "https://www.gorichmondkia.ca/vehicles/2025/toyota/grand-highlander/richmond/bc/ad13126477/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T09:26:34",
+      "snapshot": "2026-10-06T09:29:30",
+      "go_url": "https://carwhisper.ca/go/go-richmond-kia-5tdaaab55ss088463",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Richmond Kia"
     }
   ]
 }

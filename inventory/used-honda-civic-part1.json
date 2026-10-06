@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-06T15:57:40+00:00",
-  "snapshot": "2026-10-06T15:57:40+00:00",
+  "generated_at": "2026-10-06T21:57:35+00:00",
+  "snapshot": "2026-10-06T21:57:35+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 30,
+  "count": 31,
   "vehicles": [
     {
       "pub_id": "champion-chevrolet-2hgfc2f57lh025172",
@@ -113,7 +113,7 @@
       "listing_url": "https://www.kiawest.com/vehicles/2014/honda/civic-sedan/coquitlam/bc/71207245/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2014/honda/civic-sedan/coquitlam/bc/71207245/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T16:31:15",
-      "snapshot": "2026-10-04T11:04:47",
+      "snapshot": "2026-10-06T09:28:58",
       "go_url": "https://carwhisper.ca/go/go-kia-west-2hgfb2f50eh021454",
       "region": "Lower Mainland",
       "city": "Coquitlam",
@@ -141,7 +141,7 @@
       "listing_url": "https://www.kiawest.com/vehicles/2012/honda/civic-sedan/coquitlam/bc/71282336/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2012/honda/civic-sedan/coquitlam/bc/71282336/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T22:08:15",
-      "snapshot": "2026-10-04T11:04:47",
+      "snapshot": "2026-10-06T09:28:58",
       "go_url": "https://carwhisper.ca/go/go-kia-west-2hgfb2f55ch115892",
       "region": "Lower Mainland",
       "city": "Coquitlam",
@@ -818,6 +818,30 @@
       "city": "Langley",
       "province": "BC",
       "dealer_name": "Applewood Kia - Langley"
+    },
+    {
+      "pub_id": "gold-key-langley-volkswagen-2hgfc2f81kh024270",
+      "year": 2019,
+      "make": "Honda",
+      "model": "Civic",
+      "body_type": "sedan",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 22443.0,
+      "price_note": null,
+      "dealer_id": "gold-key-langley-volkswagen",
+      "vin": "2HGFC2F81KH024270",
+      "stock": 12687923,
+      "listing_url": "https://www.goldkeyvw.ca/used/2019-Honda-Civic.html",
+      "dealer_url": "https://www.goldkeyvw.ca/used/2019-Honda-Civic.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T07:05:32",
+      "snapshot": "2026-09-26T07:07:28",
+      "go_url": "https://carwhisper.ca/go/gold-key-langley-volkswagen-2hgfc2f81kh024270",
+      "region": "Lower Mainland",
+      "city": "Langley",
+      "province": "BC",
+      "dealer_name": "Gold Key Langley Volkswagen"
     }
   ]
 }

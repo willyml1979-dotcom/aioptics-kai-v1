@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-06T15:57:40+00:00",
-  "snapshot": "2026-10-06T15:57:40+00:00",
+  "generated_at": "2026-10-06T21:57:35+00:00",
+  "snapshot": "2026-10-06T21:57:35+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "duncan-hyundai-2t1kr32ex4c802768",
@@ -31,6 +31,33 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Duncan Hyundai"
+    },
+    {
+      "pub_id": "pacific-honda-2t1kr32e93c763041",
+      "year": 2003,
+      "make": "Toyota",
+      "model": "Matrix",
+      "trim": "5-door FWD 4A",
+      "drivetrain": "FWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 299999,
+      "price_cad": 7550.0,
+      "price_note": null,
+      "color": "SILVER",
+      "photo_url": "https://img.sm360.ca/images/inventory/",
+      "dealer_id": "pacific-honda",
+      "vin": "2T1KR32E93C763041",
+      "stock": "H126296",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/toyota/matrix/2003-toyota-matrix-id39308828",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/toyota/matrix/2003-toyota-matrix-id39308828?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T09:51:40",
+      "snapshot": "2026-10-06T09:56:54",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-2t1kr32e93c763041",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }
