@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-06T07:23:41+00:00",
-  "snapshot": "2026-10-06T07:23:41+00:00",
+  "generated_at": "2026-10-06T15:57:40+00:00",
+  "snapshot": "2026-10-06T15:57:40+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 9,
+  "count": 10,
   "vehicles": [
     {
       "pub_id": "applewood-kia-langley-kndc4dlc1n5067800",
@@ -219,7 +219,7 @@
       "listing_url": "https://www.godowntownkia.ca/vehicles/2022/kia/ev6/vancouver/bc/71242268/?sale_class=used",
       "dealer_url": "https://www.godowntownkia.ca/vehicles/2022/kia/ev6/vancouver/bc/71242268/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T18:51:03",
-      "snapshot": "2026-10-04T18:51:42",
+      "snapshot": "2026-10-06T00:26:46",
       "go_url": "https://carwhisper.ca/go/go-downtown-kia-kndc4dlc9n5087860",
       "city": null,
       "province": "BC",
@@ -252,6 +252,32 @@
       "city": null,
       "province": "BC",
       "dealer_name": "Pacific Honda"
+    },
+    {
+      "pub_id": "go-downtown-kia-kndc3dlc5p5115367",
+      "year": 2023,
+      "make": "Kia",
+      "model": "EV6",
+      "trim": "AWD Long Range",
+      "drivetrain": "AWD",
+      "propulsion": "electric",
+      "propulsion_source": "model_trim_name",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 38333,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "go-downtown-kia",
+      "vin": "KNDC3DLC5P5115367",
+      "stock": "CLB0063",
+      "listing_url": "https://www.godowntownkia.ca/vehicles/2023/kia/ev6/vancouver/bc/71489310/?sale_class=used",
+      "dealer_url": "https://www.godowntownkia.ca/vehicles/2023/kia/ev6/vancouver/bc/71489310/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T00:23:21",
+      "snapshot": "2026-10-06T00:26:46",
+      "go_url": "https://carwhisper.ca/go/go-downtown-kia-kndc3dlc5p5115367",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Downtown Kia"
     }
   ]
 }
