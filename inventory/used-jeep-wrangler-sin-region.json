@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T23:01:40+00:00",
-  "snapshot": "2026-10-05T23:01:40+00:00",
+  "generated_at": "2026-10-06T07:23:41+00:00",
+  "snapshot": "2026-10-06T07:23:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 26,
+  "count": 27,
   "vehicles": [
     {
       "pub_id": "country-hills-nissan-1c4ajwag3dl588738",
@@ -218,6 +218,31 @@
       "city": null,
       "province": "US",
       "dealer_name": "Tacoma Dodge Chrysler Jeep Ram"
+    },
+    {
+      "pub_id": "red-deer-nissan-1c4hjxen5lw293926",
+      "year": 2020,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 107260,
+      "price_cad": 31889.0,
+      "price_note": null,
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/dc45b981-f950-4a68-922a-88cdc0067fb8_934e339c-c534-473b-a6f9-34d3fe429e3a.jpg",
+      "dealer_id": "red-deer-nissan",
+      "vin": "1C4HJXEN5LW293926",
+      "stock": "ICSD293",
+      "listing_url": "https://www.reddeernissan.com/vehicles/2020/jeep/wrangler/red-deer/ab/70092407/?sale_class=used",
+      "dealer_url": "https://www.reddeernissan.com/vehicles/2020/jeep/wrangler/red-deer/ab/70092407/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-05T16:07:46",
+      "snapshot": "2026-10-06T00:11:35",
+      "go_url": "https://carwhisper.ca/go/red-deer-nissan-1c4hjxen5lw293926",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Red Deer Nissan"
     },
     {
       "pub_id": "country-hills-nissan-1c4hjxdg8mw867035",
