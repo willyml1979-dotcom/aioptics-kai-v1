@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T03:57:54+00:00",
-  "snapshot": "2026-10-07T03:57:54+00:00",
+  "generated_at": "2026-10-07T09:57:54+00:00",
+  "snapshot": "2026-10-07T09:57:54+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "destination-kingsway-honda-vancouver-wa1awbf72nd003950",
@@ -30,6 +30,32 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Destination Kingsway Honda Vancouver"
+    },
+    {
+      "pub_id": "sherwood-park-chevrolet-wa1awaf73md029417",
+      "year": 2021,
+      "make": "Audi",
+      "model": "SQ7",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 121576,
+      "price_cad": 39900.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/ead83b1c-08f6-4156-a4cc-96fc9a00d8a0_123f03c2-804b-4068-939e-13ff667dc1cd.jpg",
+      "dealer_id": "sherwood-park-chevrolet",
+      "vin": "WA1AWAF73MD029417",
+      "stock": "SMCC181",
+      "listing_url": "https://www.sherwoodparkchev.com/vehicles/2021/audi/sq7/sherwood-park/ab/ad13137813/?sale_class=used",
+      "dealer_url": "https://www.sherwoodparkchev.com/vehicles/2021/audi/sq7/sherwood-park/ab/ad13137813/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T00:23:17",
+      "snapshot": "2026-10-07T01:04:35",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-wa1awaf73md029417",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Chevrolet"
     }
   ]
 }

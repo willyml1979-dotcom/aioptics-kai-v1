@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T03:57:54+00:00",
+  "generated_at": "2026-10-07T09:57:54+00:00",
   "condition": "used",
   "make": "mazda",
   "files": [
@@ -91,12 +91,12 @@
       "make": "mazda",
       "model": "CX-5",
       "shard": "sin-region",
-      "count": 12,
+      "count": 13,
       "file": "inventory/used-mazda-cx-5-sin-region.json",
       "models": [
         {
           "model": "CX-5",
-          "count": 12
+          "count": 13
         }
       ]
     },
@@ -123,6 +123,19 @@
         {
           "model": "Mazda3 Sport",
           "count": 17
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mazda",
+      "model": "5",
+      "count": 1,
+      "file": "inventory/used-mazda-5.json",
+      "models": [
+        {
+          "model": "5",
+          "count": 1
         }
       ]
     },
@@ -221,12 +234,12 @@
       "condition": "used",
       "make": "mazda",
       "model": "CX-70 MHEV",
-      "count": 7,
+      "count": 8,
       "file": "inventory/used-mazda-cx-70-mhev.json",
       "models": [
         {
           "model": "CX-70 MHEV",
-          "count": 7
+          "count": 8
         }
       ]
     },
@@ -395,6 +408,19 @@
       "models": [
         {
           "model": "CX-5 Signature",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mazda",
+      "model": "CX-30 GT w-Turbo AWD",
+      "count": 1,
+      "file": "inventory/used-mazda-cx-30-gt-w-turbo-awd.json",
+      "models": [
+        {
+          "model": "CX-30 GT w-Turbo AWD",
           "count": 1
         }
       ]

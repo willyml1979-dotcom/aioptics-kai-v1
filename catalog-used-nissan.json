@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T03:57:54+00:00",
+  "generated_at": "2026-10-07T09:57:54+00:00",
   "condition": "used",
   "make": "nissan",
   "files": [
@@ -431,12 +431,12 @@
       "make": "nissan",
       "model": "Pathfinder",
       "shard": "sin-region",
-      "count": 21,
+      "count": 22,
       "file": "inventory/used-nissan-pathfinder-sin-region.json",
       "models": [
         {
           "model": "Pathfinder",
-          "count": 21
+          "count": 22
         }
       ]
     },
@@ -946,6 +946,19 @@
     {
       "condition": "used",
       "make": "nissan",
+      "model": "300 ZX",
+      "count": 1,
+      "file": "inventory/used-nissan-300-zx.json",
+      "models": [
+        {
+          "model": "300 ZX",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
       "model": "Kicks PlayS",
       "count": 1,
       "file": "inventory/used-nissan-kicks-plays.json",
@@ -1056,6 +1069,32 @@
       "models": [
         {
           "model": "Sentra SR CVT",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Kicks SV",
+      "count": 1,
+      "file": "inventory/used-nissan-kicks-sv.json",
+      "models": [
+        {
+          "model": "Kicks SV",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Rogue S",
+      "count": 2,
+      "file": "inventory/used-nissan-rogue-s.json",
+      "models": [
+        {
+          "model": "Rogue S",
           "count": 2
         }
       ]

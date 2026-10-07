@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T03:57:54+00:00",
-  "snapshot": "2026-10-07T03:57:54+00:00",
+  "generated_at": "2026-10-07T09:57:54+00:00",
+  "snapshot": "2026-10-07T09:57:54+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 16,
+  "count": 17,
   "vehicles": [
     {
       "pub_id": "jim-pattison-chrysler-jeep-dodge-surrey-2c4rdgbg4fr566109",
@@ -81,7 +81,7 @@
       "listing_url": "https://www.kiawest.com/vehicles/2020/dodge/grand-caravan-passenger-van/coquitlam/bc/71289117/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2020/dodge/grand-caravan-passenger-van/coquitlam/bc/71289117/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:37:12",
-      "snapshot": "2026-10-06T15:40:25",
+      "snapshot": "2026-10-06T21:45:35",
       "go_url": "https://carwhisper.ca/go/go-kia-west-2c4rdgbg4lr170788",
       "region": "Lower Mainland",
       "city": "Coquitlam",
@@ -456,6 +456,33 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Country Hills Nissan"
+    },
+    {
+      "pub_id": "sherwood-park-chevrolet-2c4rdgcg7lr224678",
+      "year": 2020,
+      "make": "Dodge",
+      "model": "Grand Caravan Passenger",
+      "body_type": "van",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 92161,
+      "price_cad": 24680.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/83811023-5f37-48c3-8586-3f53106d252f_f1ff76cb-8063-443f-84c7-628f42a54c62.jpg",
+      "dealer_id": "sherwood-park-chevrolet",
+      "vin": "2C4RDGCG7LR224678",
+      "stock": "S-26GY4",
+      "listing_url": "https://www.sherwoodparkchev.com/vehicles/2020/dodge/grand-caravan-passenger-van/sherwood-park/ab/71357460/?sale_class=used",
+      "dealer_url": "https://www.sherwoodparkchev.com/vehicles/2020/dodge/grand-caravan-passenger-van/sherwood-park/ab/71357460/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T00:22:33",
+      "snapshot": "2026-10-07T01:04:35",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-2c4rdgcg7lr224678",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Chevrolet"
     }
   ]
 }

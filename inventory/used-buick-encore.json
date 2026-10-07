@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T03:57:54+00:00",
-  "snapshot": "2026-10-07T03:57:54+00:00",
+  "generated_at": "2026-10-07T09:57:54+00:00",
+  "snapshot": "2026-10-07T09:57:54+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 15,
+  "count": 16,
   "vehicles": [
     {
       "pub_id": "castlegar-toyota-kl4cjesb7kb721553",
@@ -378,6 +378,34 @@
       "city": "Nanaimo",
       "province": "BC",
       "dealer_name": "Laird Wheaton GM"
+    },
+    {
+      "pub_id": "sherwood-park-chevrolet-kl4cjesb8lb041064",
+      "year": 2020,
+      "make": "Buick",
+      "model": "Encore",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 73388,
+      "price_cad": 15491.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/292581bc-b520-4ec0-a711-7e3005256dc9_91c8c86c-3372-4974-b273-e999b54c05e0.jpg",
+      "dealer_id": "sherwood-park-chevrolet",
+      "vin": "KL4CJESB8LB041064",
+      "stock": "Z-LW334",
+      "listing_url": "https://www.sherwoodparkchev.com/vehicles/2020/buick/encore/edmonton/ab/70871004/?sale_class=used",
+      "dealer_url": "https://www.sherwoodparkchev.com/vehicles/2020/buick/encore/edmonton/ab/70871004/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T00:21:58",
+      "snapshot": "2026-10-07T01:04:35",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-kl4cjesb8lb041064",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Chevrolet"
     },
     {
       "pub_id": "country-hills-nissan-kl4cjesm2nb529348",

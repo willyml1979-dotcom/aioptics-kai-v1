@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T03:57:54+00:00",
+  "generated_at": "2026-10-07T09:57:54+00:00",
   "condition": "used",
   "make": "tesla",
   "files": [
@@ -136,6 +136,19 @@
       "models": [
         {
           "model": "Model 3Standard Range",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "tesla",
+      "model": "Model 3 RWD",
+      "count": 1,
+      "file": "inventory/used-tesla-model-3-rwd.json",
+      "models": [
+        {
+          "model": "Model 3 RWD",
           "count": 1
         }
       ]

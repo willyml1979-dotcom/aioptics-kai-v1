@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T03:57:54+00:00",
-  "snapshot": "2026-10-07T03:57:54+00:00",
+  "generated_at": "2026-10-07T09:57:54+00:00",
+  "snapshot": "2026-10-07T09:57:54+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 4,
   "vehicles": [
     {
       "pub_id": "regency-chrysler-1c4rjfag0nc111866",
@@ -87,6 +87,34 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Duncan Hyundai"
+    },
+    {
+      "pub_id": "sherwood-park-chevrolet-1c4rjfag1nc142656",
+      "year": 2022,
+      "make": "Jeep",
+      "model": "Grand Cherokee WK",
+      "body_type": "suv",
+      "drivetrain": "4WD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 82755,
+      "price_cad": 30980.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/e2453fc0-735a-4585-8a1a-6edd81e26094_dc320bdc-f3e8-46a9-aabd-1bcd19f25e49.jpg",
+      "dealer_id": "sherwood-park-chevrolet",
+      "vin": "1C4RJFAG1NC142656",
+      "stock": "R-27BT7",
+      "listing_url": "https://www.sherwoodparkchev.com/vehicles/2022/jeep/grand-cherokee-wk/edmonton/ab/ad13122502/?sale_class=used",
+      "dealer_url": "https://www.sherwoodparkchev.com/vehicles/2022/jeep/grand-cherokee-wk/edmonton/ab/ad13122502/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T00:27:54",
+      "snapshot": "2026-10-07T01:04:35",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-1c4rjfag1nc142656",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Chevrolet"
     }
   ]
 }

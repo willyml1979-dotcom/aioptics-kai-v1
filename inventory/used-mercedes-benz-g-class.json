@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T03:57:54+00:00",
-  "snapshot": "2026-10-07T03:57:54+00:00",
+  "generated_at": "2026-10-07T09:57:54+00:00",
+  "snapshot": "2026-10-07T09:57:54+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "tricity-mitsubishi-w1nyc7hj4nx444019",
@@ -58,6 +58,31 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Country Hills Nissan"
+    },
+    {
+      "pub_id": "sherwood-park-chevrolet-wdcyc7df2gx254760",
+      "year": 2016,
+      "make": "Mercedes-Benz",
+      "model": "G-Class",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 154784,
+      "price_cad": 69900.0,
+      "price_note": null,
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/a2dba781-3487-404d-9ae0-dec980f9907d_872f0535-ad7c-4b02-84da-a5ea8c642c08.jpg",
+      "dealer_id": "sherwood-park-chevrolet",
+      "vin": "WDCYC7DF2GX254760",
+      "stock": "SMC1859",
+      "listing_url": "https://www.sherwoodparkchev.com/vehicles/2016/mercedes-benz/g-class/sherwood-park/ab/71176608/?sale_class=used",
+      "dealer_url": "https://www.sherwoodparkchev.com/vehicles/2016/mercedes-benz/g-class/sherwood-park/ab/71176608/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T00:18:33",
+      "snapshot": "2026-10-07T01:04:35",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-wdcyc7df2gx254760",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Chevrolet"
     }
   ]
 }

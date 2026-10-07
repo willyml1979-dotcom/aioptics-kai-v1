@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T03:57:54+00:00",
-  "snapshot": "2026-10-07T03:57:54+00:00",
+  "generated_at": "2026-10-07T09:57:54+00:00",
+  "snapshot": "2026-10-07T09:57:54+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 27,
+  "count": 28,
   "vehicles": [
     {
       "pub_id": "integrity-subaru-kndpvdah9p7078838",
@@ -468,7 +468,7 @@
       "listing_url": "https://www.kiawest.com/vehicles/2023/kia/sportage/coquitlam/bc/70750564/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2023/kia/sportage/coquitlam/bc/70750564/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T16:30:20",
-      "snapshot": "2026-10-06T15:40:25",
+      "snapshot": "2026-10-06T21:45:35",
       "go_url": "https://carwhisper.ca/go/go-kia-west-kndpvcaf2p7127015",
       "region": "Lower Mainland",
       "city": "Coquitlam",
@@ -496,7 +496,7 @@
       "listing_url": "https://www.kiawest.com/vehicles/2023/kia/sportage/coquitlam/bc/71320592/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2023/kia/sportage/coquitlam/bc/71320592/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T04:42:26",
-      "snapshot": "2026-10-06T15:40:25",
+      "snapshot": "2026-10-06T21:45:35",
       "go_url": "https://carwhisper.ca/go/go-kia-west-kndpu3af7p7114621",
       "region": "Lower Mainland",
       "city": "Coquitlam",
@@ -748,12 +748,36 @@
       "listing_url": "https://www.kiawest.com/vehicles/2024/kia/sportage/coquitlam/bc/70974797/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2024/kia/sportage/coquitlam/bc/70974797/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T10:16:34",
-      "snapshot": "2026-10-06T15:40:25",
+      "snapshot": "2026-10-06T21:45:35",
       "go_url": "https://carwhisper.ca/go/go-kia-west-kndpvcdf1r7232241",
       "region": "Lower Mainland",
       "city": "Coquitlam",
       "province": "BC",
       "dealer_name": "Go Kia West"
+    },
+    {
+      "pub_id": "maple-ridge-hyundai-kndpucdf2r7305992",
+      "year": 2024,
+      "make": "Kia",
+      "model": "Sportage",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 27797.0,
+      "price_note": null,
+      "color": "Grey",
+      "dealer_id": "maple-ridge-hyundai",
+      "vin": "KNDPUCDF2R7305992",
+      "stock": 13648385,
+      "listing_url": "https://www.mapleridgehyundai.com/used/2024-Kia-Sportage.html",
+      "dealer_url": "https://www.mapleridgehyundai.com/used/2024-Kia-Sportage.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T06:53:53",
+      "snapshot": "2026-09-25T07:09:21",
+      "go_url": "https://carwhisper.ca/go/maple-ridge-hyundai-kndpucdf2r7305992",
+      "region": "Lower Mainland",
+      "city": "Maple Ridge",
+      "province": "BC",
+      "dealer_name": "Maple Ridge Hyundai"
     }
   ]
 }

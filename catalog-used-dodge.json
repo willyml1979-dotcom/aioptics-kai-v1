@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T03:57:54+00:00",
+  "generated_at": "2026-10-07T09:57:54+00:00",
   "condition": "used",
   "make": "dodge",
   "files": [
@@ -117,7 +117,7 @@
       "make": "dodge",
       "model": "DURANGO",
       "shard": "sin-region",
-      "count": 19,
+      "count": 22,
       "file": "inventory/used-dodge-durango-sin-region.json",
       "models": [
         {
@@ -126,7 +126,7 @@
         },
         {
           "model": "Durango",
-          "count": 18
+          "count": 21
         }
       ]
     },
@@ -207,12 +207,12 @@
       "condition": "used",
       "make": "dodge",
       "model": "Grand Caravan Passenger",
-      "count": 16,
+      "count": 17,
       "file": "inventory/used-dodge-grand-caravan-passenger.json",
       "models": [
         {
           "model": "Grand Caravan Passenger",
-          "count": 16
+          "count": 17
         }
       ]
     },
@@ -220,12 +220,12 @@
       "condition": "used",
       "make": "dodge",
       "model": "Charger",
-      "count": 22,
+      "count": 23,
       "file": "inventory/used-dodge-charger.json",
       "models": [
         {
           "model": "Charger",
-          "count": 22
+          "count": 23
         }
       ]
     },
@@ -233,12 +233,12 @@
       "condition": "used",
       "make": "dodge",
       "model": "Challenger",
-      "count": 22,
+      "count": 23,
       "file": "inventory/used-dodge-challenger.json",
       "models": [
         {
           "model": "Challenger",
-          "count": 22
+          "count": 23
         }
       ]
     },
@@ -367,12 +367,12 @@
       "condition": "used",
       "make": "dodge",
       "model": "Dart",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-dodge-dart.json",
       "models": [
         {
           "model": "Dart",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -411,6 +411,19 @@
       "models": [
         {
           "model": "Neon",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
+      "model": "otros",
+      "count": 1,
+      "file": "inventory/used-dodge-otros.json",
+      "models": [
+        {
+          "model": "sin-modelo",
           "count": 1
         }
       ]

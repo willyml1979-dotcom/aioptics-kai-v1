@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T03:57:54+00:00",
+  "generated_at": "2026-10-07T09:57:54+00:00",
   "condition": "new",
   "make": "chevrolet",
   "files": [
@@ -1058,12 +1058,12 @@
       "make": "chevrolet",
       "model": "Silverado 1500",
       "shard": "part12",
-      "count": 30,
+      "count": 31,
       "file": "inventory/new-chevrolet-silverado-1500-part12.json",
       "models": [
         {
           "model": "Silverado 1500",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -1928,6 +1928,84 @@
       "models": [
         {
           "model": "Corvette 3LT",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Corvette 2LT",
+      "count": 1,
+      "file": "inventory/new-chevrolet-corvette-2lt.json",
+      "models": [
+        {
+          "model": "Corvette 2LT",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Silverado 1500 RST",
+      "count": 3,
+      "file": "inventory/new-chevrolet-silverado-1500-rst.json",
+      "models": [
+        {
+          "model": "Silverado 1500 RST",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Silverado 1500 High Country",
+      "count": 1,
+      "file": "inventory/new-chevrolet-silverado-1500-high-country.json",
+      "models": [
+        {
+          "model": "Silverado 1500 High Country",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Silverado 3500 3in Zone Lift",
+      "count": 1,
+      "file": "inventory/new-chevrolet-silverado-3500-3in-zone-lift.json",
+      "models": [
+        {
+          "model": "Silverado 3500 3in Zone Lift",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Silverado 3500 LTZ",
+      "count": 4,
+      "file": "inventory/new-chevrolet-silverado-3500-ltz.json",
+      "models": [
+        {
+          "model": "Silverado 3500 LTZ",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Tahoe RST",
+      "count": 1,
+      "file": "inventory/new-chevrolet-tahoe-rst.json",
+      "models": [
+        {
+          "model": "Tahoe RST",
           "count": 1
         }
       ]

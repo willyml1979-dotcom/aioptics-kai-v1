@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T03:57:54+00:00",
+  "generated_at": "2026-10-07T09:57:54+00:00",
   "condition": "used",
   "make": "bmw",
   "files": [
@@ -160,12 +160,12 @@
       "make": "bmw",
       "model": "X1",
       "shard": "sin-region",
-      "count": 9,
+      "count": 8,
       "file": "inventory/used-bmw-x1-sin-region.json",
       "models": [
         {
           "model": "X1",
-          "count": 9
+          "count": 8
         }
       ]
     },
@@ -173,12 +173,12 @@
       "condition": "used",
       "make": "bmw",
       "model": "X5",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-bmw-x5.json",
       "models": [
         {
           "model": "X5",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -368,12 +368,12 @@
       "condition": "used",
       "make": "bmw",
       "model": "M4",
-      "count": 9,
+      "count": 10,
       "file": "inventory/used-bmw-m4.json",
       "models": [
         {
           "model": "M4",
-          "count": 9
+          "count": 10
         }
       ]
     },
@@ -595,6 +595,19 @@
         {
           "model": "330i",
           "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "bmw",
+      "model": "M3 Convertible",
+      "count": 1,
+      "file": "inventory/used-bmw-m3-convertible.json",
+      "models": [
+        {
+          "model": "M3 Convertible",
+          "count": 1
         }
       ]
     },

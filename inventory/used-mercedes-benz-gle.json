@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T03:57:54+00:00",
-  "snapshot": "2026-10-07T03:57:54+00:00",
+  "generated_at": "2026-10-07T09:57:54+00:00",
+  "snapshot": "2026-10-07T09:57:54+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 14,
+  "count": 15,
   "vehicles": [
     {
       "pub_id": "cam-clark-ford-lincoln-ltd-4jgda5gb6jb042743",
@@ -138,7 +138,7 @@
       "listing_url": "https://www.kiawest.com/vehicles/2019/mercedes-benz/gle/coquitlam/bc/71271393/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2019/mercedes-benz/gle/coquitlam/bc/71271393/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:36:46",
-      "snapshot": "2026-10-06T15:40:25",
+      "snapshot": "2026-10-06T21:45:35",
       "go_url": "https://carwhisper.ca/go/go-kia-west-4jgda6eb4kb183854",
       "region": "Lower Mainland",
       "city": "Coquitlam",
@@ -394,6 +394,34 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Sherwood Park Hyundai"
+    },
+    {
+      "pub_id": "sherwood-park-chevrolet-4jgfd8kbxna812382",
+      "year": 2022,
+      "make": "Mercedes-Benz",
+      "model": "GLE",
+      "body_type": "coupe",
+      "drivetrain": "AWD",
+      "propulsion": "hybrid",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 44098,
+      "price_cad": 107900.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/1ddb3a55-55b1-460c-860b-a382eef1948c_7d16451e-0b90-4bcd-84ac-ca9fb067fdf1.jpg",
+      "dealer_id": "sherwood-park-chevrolet",
+      "vin": "4JGFD8KBXNA812382",
+      "stock": "SMC1654",
+      "listing_url": "https://www.sherwoodparkchev.com/vehicles/2022/mercedes-benz/gle-coupe/sherwood-park/ab/69895954/?sale_class=used",
+      "dealer_url": "https://www.sherwoodparkchev.com/vehicles/2022/mercedes-benz/gle-coupe/sherwood-park/ab/69895954/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T00:28:10",
+      "snapshot": "2026-10-07T01:04:35",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-4jgfd8kbxna812382",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Chevrolet"
     }
   ]
 }

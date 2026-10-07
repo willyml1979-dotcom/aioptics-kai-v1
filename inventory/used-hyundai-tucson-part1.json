@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T03:57:54+00:00",
-  "snapshot": "2026-10-07T03:57:54+00:00",
+  "generated_at": "2026-10-07T09:57:54+00:00",
+  "snapshot": "2026-10-07T09:57:54+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 31,
+  "count": 32,
   "vehicles": [
     {
       "pub_id": "denham-ford-bc-ltd-5nmjbcde5sh485342",
@@ -739,7 +739,7 @@
       "listing_url": "https://www.kiawest.com/vehicles/2024/hyundai/tucson/coquitlam/bc/69888265/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2024/hyundai/tucson/coquitlam/bc/69888265/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-06T09:27:13",
-      "snapshot": "2026-10-06T15:40:25",
+      "snapshot": "2026-10-06T21:45:35",
       "go_url": "https://carwhisper.ca/go/go-kia-west-km8jbcde5ru321524",
       "region": "Lower Mainland",
       "city": "Coquitlam",
@@ -793,7 +793,7 @@
       "listing_url": "https://www.kiawest.com/vehicles/2023/hyundai/tucson/coquitlam/bc/71320598/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2023/hyundai/tucson/coquitlam/bc/71320598/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:38:35",
-      "snapshot": "2026-10-06T15:40:25",
+      "snapshot": "2026-10-06T21:45:35",
       "go_url": "https://carwhisper.ca/go/go-kia-west-km8jccaexpu232868",
       "region": "Lower Mainland",
       "city": "Coquitlam",
@@ -849,6 +849,36 @@
       "city": "Maple Ridge",
       "province": "BC",
       "dealer_name": "Maple Ridge Hyundai"
+    },
+    {
+      "pub_id": "chilliwack-mitsubishi-km8jbcdexru321664",
+      "year": 2024,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "trim": "Preferred AWD",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 46588,
+      "price_cad": 28950.0,
+      "price_note": null,
+      "color": "Blue",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/inventory/SX2Q4DOSOBFVBD5URHFLTVY74U.webp",
+      "dealer_id": "chilliwack-mitsubishi",
+      "vin": "KM8JBCDEXRU321664",
+      "stock": "NA321664",
+      "listing_url": "https://www.chilliwackmitsubishi.ca/inventory/2024-hyundai-tucson-preferred-6C1zb4YgR4ytTGhLeWlSDwvdp",
+      "dealer_url": "https://www.chilliwackmitsubishi.ca/inventory/2024-hyundai-tucson-preferred-6C1zb4YgR4ytTGhLeWlSDwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-27T01:24:58",
+      "snapshot": "2026-09-27T01:32:45",
+      "go_url": "https://carwhisper.ca/go/chilliwack-mitsubishi-km8jbcdexru321664",
+      "region": "Lower Mainland",
+      "city": "Chilliwack",
+      "province": "BC",
+      "dealer_name": "Chilliwack Mitsubishi"
     }
   ]
 }

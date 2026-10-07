@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T03:57:54+00:00",
-  "snapshot": "2026-10-07T03:57:54+00:00",
+  "generated_at": "2026-10-07T09:57:54+00:00",
+  "snapshot": "2026-10-07T09:57:54+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 10,
+  "count": 11,
   "vehicles": [
     {
       "pub_id": "chilliwack-mitsubishi-wp1aa2a28gla09730",
@@ -217,6 +217,32 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Sherwood Park Hyundai"
+    },
+    {
+      "pub_id": "sherwood-park-chevrolet-wp1ab2ay0mda28344",
+      "year": 2021,
+      "make": "Porsche",
+      "model": "Cayenne",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 72637,
+      "price_cad": 56900.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/a984e2aa-064a-4c97-853b-6536f6bc143a_be8134cb-90d9-45e2-b1bb-73d49242c20a.jpg",
+      "dealer_id": "sherwood-park-chevrolet",
+      "vin": "WP1AB2AY0MDA28344",
+      "stock": "SMCS183",
+      "listing_url": "https://www.sherwoodparkchev.com/vehicles/2021/porsche/cayenne/sherwood-park/ab/71268895/?sale_class=used",
+      "dealer_url": "https://www.sherwoodparkchev.com/vehicles/2021/porsche/cayenne/sherwood-park/ab/71268895/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T00:24:18",
+      "snapshot": "2026-10-07T01:04:35",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-wp1ab2ay0mda28344",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Chevrolet"
     },
     {
       "pub_id": "pacific-honda-wp1ag2ay1pda18086",

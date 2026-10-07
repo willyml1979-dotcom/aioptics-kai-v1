@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T03:57:54+00:00",
-  "snapshot": "2026-10-07T03:57:54+00:00",
+  "generated_at": "2026-10-07T09:57:54+00:00",
+  "snapshot": "2026-10-07T09:57:54+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 9,
+  "count": 10,
   "vehicles": [
     {
       "pub_id": "carter-gm-northshore-1gnskgkt2rr332086",
@@ -225,6 +225,33 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Country Hills Nissan"
+    },
+    {
+      "pub_id": "sherwood-park-chevrolet-1gnskbkd8pr381723",
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "body_type": "suv",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 79919,
+      "price_cad": 61980.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/3207d92f-9bc4-4db9-84e6-a5bdde490188_89f5f3af-6af0-47db-bec4-1677eabf7bb6.jpg",
+      "dealer_id": "sherwood-park-chevrolet",
+      "vin": "1GNSKBKD8PR381723",
+      "stock": "S-26SU5",
+      "listing_url": "https://www.sherwoodparkchev.com/vehicles/2023/chevrolet/suburban/sherwood-park/ab/71245850/?sale_class=used",
+      "dealer_url": "https://www.sherwoodparkchev.com/vehicles/2023/chevrolet/suburban/sherwood-park/ab/71245850/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T00:30:27",
+      "snapshot": "2026-10-07T01:04:35",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-1gnskbkd8pr381723",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Chevrolet"
     },
     {
       "pub_id": "country-hills-nissan-1gnskckt5pr540873",

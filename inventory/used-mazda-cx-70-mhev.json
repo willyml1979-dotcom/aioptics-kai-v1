@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T03:57:54+00:00",
-  "snapshot": "2026-10-07T03:57:54+00:00",
+  "generated_at": "2026-10-07T09:57:54+00:00",
+  "snapshot": "2026-10-07T09:57:54+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 7,
+  "count": 8,
   "vehicles": [
     {
       "pub_id": "applewood-kia-surrey-jm3kjdhd8s1123070",
@@ -171,7 +171,7 @@
       "listing_url": "https://www.sherwoodparkchev.com/vehicles/2025/mazda/cx-70-mhev/edmonton/ab/71304495/?sale_class=used",
       "dealer_url": "https://www.sherwoodparkchev.com/vehicles/2025/mazda/cx-70-mhev/edmonton/ab/71304495/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T13:46:35",
-      "snapshot": "2026-10-04T13:54:20",
+      "snapshot": "2026-10-07T01:04:35",
       "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-jm3kjchd1s1118321",
       "city": null,
       "province": "AB",
@@ -197,11 +197,38 @@
       "listing_url": "https://www.winnipeghyundai.com/vehicles/2025/mazda/cx-70-mhev/winnipeg/mb/71158798/?sale_class=used",
       "dealer_url": "https://www.winnipeghyundai.com/vehicles/2025/mazda/cx-70-mhev/winnipeg/mb/71158798/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T13:05:19",
-      "snapshot": "2026-10-06T00:09:40",
+      "snapshot": "2026-10-07T00:13:47",
       "go_url": "https://carwhisper.ca/go/winnipeg-hyundai-jm3kjdhd4s1122997",
       "city": null,
       "province": "MB",
       "dealer_name": "Winnipeg Hyundai"
+    },
+    {
+      "pub_id": "sherwood-park-chevrolet-jm3kjdhd1s1122231",
+      "year": 2025,
+      "make": "Mazda",
+      "model": "CX-70 MHEV",
+      "drivetrain": "AWD",
+      "propulsion": "hybrid",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 56013,
+      "price_cad": 39980.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/48ef5ec2-3c5c-4d7c-be3d-c62bb8ecbf9a_ba5f44d5-e5cb-4343-b178-6ea7df69711b.jpg",
+      "dealer_id": "sherwood-park-chevrolet",
+      "vin": "JM3KJDHD1S1122231",
+      "stock": "LW3670A",
+      "listing_url": "https://www.sherwoodparkchev.com/vehicles/2025/mazda/cx-70-mhev/edmonton/ab/71253785/?sale_class=used",
+      "dealer_url": "https://www.sherwoodparkchev.com/vehicles/2025/mazda/cx-70-mhev/edmonton/ab/71253785/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T01:02:55",
+      "snapshot": "2026-10-07T01:04:35",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-jm3kjdhd1s1122231",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Chevrolet"
     }
   ]
 }

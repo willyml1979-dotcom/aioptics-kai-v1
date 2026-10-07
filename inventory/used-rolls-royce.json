@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T03:57:54+00:00",
-  "snapshot": "2026-10-07T03:57:54+00:00",
+  "generated_at": "2026-10-07T09:57:54+00:00",
+  "snapshot": "2026-10-07T09:57:54+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "mclaren-vancouver-sca664l59hux66456",
@@ -31,6 +31,33 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "McLaren Vancouver"
+    },
+    {
+      "pub_id": "sherwood-park-chevrolet-sca664s55cux51009",
+      "year": 2012,
+      "make": "Rolls-Royce",
+      "model": "Ghost",
+      "drivetrain": "RWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 42648,
+      "price_cad": 129900.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/13163d93-17c0-4651-a95e-d7740fcc6775_8ed58623-c279-4883-a491-26b4347c420c.jpg",
+      "dealer_id": "sherwood-park-chevrolet",
+      "vin": "SCA664S55CUX51009",
+      "stock": "SMC1853",
+      "listing_url": "https://www.sherwoodparkchev.com/vehicles/2012/rolls-royce/ghost/sherwood-park/ab/71226464/?sale_class=used",
+      "dealer_url": "https://www.sherwoodparkchev.com/vehicles/2012/rolls-royce/ghost/sherwood-park/ab/71226464/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T00:16:53",
+      "snapshot": "2026-10-07T01:04:35",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-sca664s55cux51009",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Chevrolet"
     }
   ]
 }

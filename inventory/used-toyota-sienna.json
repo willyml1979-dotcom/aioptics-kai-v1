@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T03:57:54+00:00",
-  "snapshot": "2026-10-07T03:57:54+00:00",
+  "generated_at": "2026-10-07T09:57:54+00:00",
+  "snapshot": "2026-10-07T09:57:54+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 24,
+  "count": 25,
   "vehicles": [
     {
       "pub_id": "destination-toyota-burnaby-5tdez3dc0ls228292",
@@ -537,6 +537,34 @@
       "city": null,
       "province": "US",
       "dealer_name": "Tacoma Dodge Chrysler Jeep Ram"
+    },
+    {
+      "pub_id": "sherwood-park-chevrolet-5tdgskfc3ns063636",
+      "year": 2022,
+      "make": "Toyota",
+      "model": "Sienna",
+      "body_type": "van",
+      "drivetrain": "AWD",
+      "propulsion": "hybrid",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 52161,
+      "price_cad": 53980.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/23dc39b7-5210-4b74-8526-d635463bff41_511e1a86-8b2a-4ade-9ddc-ee658cfeb876.jpg",
+      "dealer_id": "sherwood-park-chevrolet",
+      "vin": "5TDGSKFC3NS063636",
+      "stock": "U14537A",
+      "listing_url": "https://www.sherwoodparkchev.com/vehicles/2022/toyota/sienna/edmonton/ab/ad13144525/?sale_class=used",
+      "dealer_url": "https://www.sherwoodparkchev.com/vehicles/2022/toyota/sienna/edmonton/ab/ad13144525/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T00:28:37",
+      "snapshot": "2026-10-07T01:04:35",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-5tdgskfc3ns063636",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Chevrolet"
     },
     {
       "pub_id": "pacific-honda-5tdgrkec7ts293996",

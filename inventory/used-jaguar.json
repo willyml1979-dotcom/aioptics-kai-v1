@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T03:57:54+00:00",
-  "snapshot": "2026-10-07T03:57:54+00:00",
+  "generated_at": "2026-10-07T09:57:54+00:00",
+  "snapshot": "2026-10-07T09:57:54+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 25,
+  "count": 26,
   "vehicles": [
     {
       "pub_id": "applewood-nissan-sadfp2fx0j1z30776",
@@ -472,6 +472,33 @@
       "city": null,
       "province": "BC",
       "dealer_name": "Pacific Honda"
+    },
+    {
+      "pub_id": "sherwood-park-chevrolet-sajd51ee1jck53049",
+      "year": 2018,
+      "make": "Jaguar",
+      "model": "F-Type",
+      "body_type": "coupe",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 41000,
+      "price_cad": 66900.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/a82a6e21-abac-422c-8ca9-521d4d23b447_eaba655f-4389-401f-b87a-c7abe3954026.jpg",
+      "dealer_id": "sherwood-park-chevrolet",
+      "vin": "SAJD51EE1JCK53049",
+      "stock": "S-SMC18",
+      "listing_url": "https://www.sherwoodparkchev.com/vehicles/2018/jaguar/f-type-coupe/sherwood-park/ab/70939775/?sale_class=used",
+      "dealer_url": "https://www.sherwoodparkchev.com/vehicles/2018/jaguar/f-type-coupe/sherwood-park/ab/70939775/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T00:20:18",
+      "snapshot": "2026-10-07T01:04:35",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-sajd51ee1jck53049",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Chevrolet"
     },
     {
       "pub_id": "norden-volkswagen-sadcz2ee0ra733213",

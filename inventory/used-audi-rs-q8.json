@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T03:57:54+00:00",
-  "snapshot": "2026-10-07T03:57:54+00:00",
+  "generated_at": "2026-10-07T09:57:54+00:00",
+  "snapshot": "2026-10-07T09:57:54+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "pioneer-chrysler-jeep-wu1araf13md002990",
@@ -27,6 +27,33 @@
       "city": "Mission",
       "province": "BC",
       "dealer_name": "Pioneer Chrysler Jeep"
+    },
+    {
+      "pub_id": "sherwood-park-chevrolet-wu1arbf1xpd032756",
+      "year": 2023,
+      "make": "Audi",
+      "model": "RS Q8",
+      "body_type": "suv",
+      "propulsion": "hybrid",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 22614,
+      "price_cad": 117899.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/0d238aa9-efc8-4953-a69c-4b22c135017e_440a2f7d-9421-453d-829c-d614e4c8179d.jpg",
+      "dealer_id": "sherwood-park-chevrolet",
+      "vin": "WU1ARBF1XPD032756",
+      "stock": "SMCC181",
+      "listing_url": "https://www.sherwoodparkchev.com/vehicles/2023/audi/rs-q8/sherwood-park/ab/70798137/?sale_class=used",
+      "dealer_url": "https://www.sherwoodparkchev.com/vehicles/2023/audi/rs-q8/sherwood-park/ab/70798137/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T00:28:54",
+      "snapshot": "2026-10-07T01:04:35",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-wu1arbf1xpd032756",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Chevrolet"
     },
     {
       "pub_id": "pacific-honda-wu1arbf17td001362",
