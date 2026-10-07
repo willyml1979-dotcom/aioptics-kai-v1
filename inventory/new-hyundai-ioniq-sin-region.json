@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T15:57:55+00:00",
-  "snapshot": "2026-10-07T15:57:55+00:00",
+  "generated_at": "2026-10-07T21:58:11+00:00",
+  "snapshot": "2026-10-07T21:58:11+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "winnipeg-hyundai-km8myfs5xta006890",
@@ -30,6 +30,35 @@
       "city": null,
       "province": "MB",
       "dealer_name": "Winnipeg Hyundai"
+    },
+    {
+      "pub_id": "sherwood-park-hyundai-km8myfs51va029669",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Ioniq",
+      "trim": "9",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "electric",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 16,
+      "price_cad": 88494.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://www.sphyundai.com/wp-content/themes/convertus-achilles/achilles/assets/images/srp-placeholder/PV.jpg",
+      "dealer_id": "sherwood-park-hyundai",
+      "vin": "KM8MYFS51VA029669",
+      "stock": "27IN966",
+      "listing_url": "https://www.sphyundai.com/vehicles/2027/hyundai/ioniq-9/sherwood-park/ab/70994111/?sale_class=new",
+      "dealer_url": "https://www.sphyundai.com/vehicles/2027/hyundai/ioniq-9/sherwood-park/ab/70994111/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T14:50:03",
+      "snapshot": "2026-10-04T18:55:23",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-hyundai-km8myfs51va029669",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Hyundai"
     }
   ]
 }

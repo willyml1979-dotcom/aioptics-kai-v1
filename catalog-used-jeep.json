@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T15:57:55+00:00",
+  "generated_at": "2026-10-07T21:58:11+00:00",
   "condition": "used",
   "make": "jeep",
   "files": [
@@ -90,12 +90,12 @@
       "make": "jeep",
       "model": "GRAND CHEROKEE",
       "shard": "Vancouver Island",
-      "count": 14,
+      "count": 13,
       "file": "inventory/used-jeep-grand-cherokee-vancouver-island.json",
       "models": [
         {
           "model": "Grand Cherokee",
-          "count": 14
+          "count": 13
         }
       ]
     },
@@ -104,7 +104,7 @@
       "make": "jeep",
       "model": "GRAND CHEROKEE",
       "shard": "sin-region",
-      "count": 28,
+      "count": 27,
       "file": "inventory/used-jeep-grand-cherokee-sin-region.json",
       "models": [
         {
@@ -113,7 +113,7 @@
         },
         {
           "model": "Grand Cherokee",
-          "count": 27
+          "count": 26
         }
       ]
     },
@@ -200,12 +200,12 @@
       "make": "jeep",
       "model": "Wrangler",
       "shard": "Vancouver Island",
-      "count": 21,
+      "count": 23,
       "file": "inventory/used-jeep-wrangler-vancouver-island.json",
       "models": [
         {
           "model": "Wrangler",
-          "count": 21
+          "count": 23
         }
       ]
     },
@@ -341,83 +341,12 @@
       "condition": "used",
       "make": "jeep",
       "model": "Wrangler Unlimited",
-      "shard": "Kootenays",
-      "count": 1,
-      "file": "inventory/used-jeep-wrangler-unlimited-kootenays.json",
+      "count": 31,
+      "file": "inventory/used-jeep-wrangler-unlimited.json",
       "models": [
         {
           "model": "Wrangler Unlimited",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "jeep",
-      "model": "Wrangler Unlimited",
-      "shard": "Lower Mainland",
-      "count": 9,
-      "file": "inventory/used-jeep-wrangler-unlimited-lower-mainland.json",
-      "models": [
-        {
-          "model": "Wrangler Unlimited",
-          "count": 9
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "jeep",
-      "model": "Wrangler Unlimited",
-      "shard": "Norte/Cariboo",
-      "count": 1,
-      "file": "inventory/used-jeep-wrangler-unlimited-norte-cariboo.json",
-      "models": [
-        {
-          "model": "Wrangler Unlimited",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "jeep",
-      "model": "Wrangler Unlimited",
-      "shard": "Okanagan",
-      "count": 2,
-      "file": "inventory/used-jeep-wrangler-unlimited-okanagan.json",
-      "models": [
-        {
-          "model": "Wrangler Unlimited",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "jeep",
-      "model": "Wrangler Unlimited",
-      "shard": "Vancouver Island",
-      "count": 10,
-      "file": "inventory/used-jeep-wrangler-unlimited-vancouver-island.json",
-      "models": [
-        {
-          "model": "Wrangler Unlimited",
-          "count": 10
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "jeep",
-      "model": "Wrangler Unlimited",
-      "shard": "sin-region",
-      "count": 13,
-      "file": "inventory/used-jeep-wrangler-unlimited-sin-region.json",
-      "models": [
-        {
-          "model": "Wrangler Unlimited",
-          "count": 13
+          "count": 31
         }
       ]
     },
@@ -521,12 +450,12 @@
       "make": "jeep",
       "model": "Compass",
       "shard": "Vancouver Island",
-      "count": 30,
+      "count": 29,
       "file": "inventory/used-jeep-compass-vancouver-island.json",
       "models": [
         {
           "model": "Compass",
-          "count": 30
+          "count": 29
         }
       ]
     },

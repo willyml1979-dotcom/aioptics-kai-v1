@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T15:57:55+00:00",
-  "snapshot": "2026-10-07T15:57:55+00:00",
+  "generated_at": "2026-10-07T21:58:11+00:00",
+  "snapshot": "2026-10-07T21:58:11+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 31,
   "vehicles": [
@@ -829,31 +829,28 @@
       "dealer_name": "Country Hills Nissan"
     },
     {
-      "pub_id": "country-hills-nissan-5npdh4ae9gh744494",
-      "year": 2016,
+      "pub_id": "pacific-honda-5npdh4ae1ch145311",
+      "year": 2012,
       "make": "Hyundai",
       "model": "Elantra",
-      "drivetrain": "FWD",
-      "propulsion": "gas",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
+      "trim": "GL at",
+      "propulsion": "unknown",
+      "propulsion_source": null,
       "condition": "used",
-      "odometer_km": 202710,
-      "price_cad": 6700.0,
+      "odometer_km": 188480,
+      "price_cad": 7750.0,
       "price_note": null,
-      "color": "White",
-      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/a3c8c474-9684-44ef-a4ba-78f3263cdb4d_78077fba-cdb7-4bee-9f61-b4061e91897c.jpg",
-      "dealer_id": "country-hills-nissan",
-      "vin": "5NPDH4AE9GH744494",
-      "stock": "CNL9326",
-      "listing_url": "https://www.chnissan.com/vehicles/2016/hyundai/elantra/calgary/ab/71327797/?sale_class=used",
-      "dealer_url": "https://www.chnissan.com/vehicles/2016/hyundai/elantra/calgary/ab/71327797/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T23:46:47",
-      "snapshot": "2026-10-04T23:47:46",
-      "go_url": "https://carwhisper.ca/go/country-hills-nissan-5npdh4ae9gh744494",
+      "dealer_id": "pacific-honda",
+      "vin": "5NPDH4AE1CH145311",
+      "stock": "H126159",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/hyundai/elantra/2012-hyundai-elantra-id39289811",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/hyundai/elantra/2012-hyundai-elantra-id39289811?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T18:08:48",
+      "snapshot": "2026-10-07T10:23:34",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-5npdh4ae1ch145311",
       "city": null,
-      "province": "AB",
-      "dealer_name": "Country Hills Nissan"
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

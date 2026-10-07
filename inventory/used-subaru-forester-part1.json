@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T15:57:55+00:00",
-  "snapshot": "2026-10-07T15:57:55+00:00",
+  "generated_at": "2026-10-07T21:58:11+00:00",
+  "snapshot": "2026-10-07T21:58:11+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 32,
+  "count": 31,
   "vehicles": [
     {
       "pub_id": "integrity-subaru-jf2sldhc1sh477760",
@@ -816,35 +816,6 @@
       "city": "Penticton",
       "province": "BC",
       "dealer_name": "Penticton Nissan"
-    },
-    {
-      "pub_id": "hilltop-subaru-jf2sjcbc2fh580104",
-      "year": 2015,
-      "make": "Subaru",
-      "model": "Forester",
-      "body_type": "suv",
-      "drivetrain": "AWD",
-      "propulsion": "gas",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
-      "condition": "used",
-      "odometer_km": 153090,
-      "price_cad": 18995.0,
-      "price_note": null,
-      "color": "White",
-      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/0a250fc8-8a54-424d-9819-63deef7c294d_d210fa16-86a3-4f5c-a288-3d69e0d1c19a.jpg",
-      "dealer_id": "hilltop-subaru",
-      "vin": "JF2SJCBC2FH580104",
-      "stock": "HS00508",
-      "listing_url": "https://www.hilltopsubaru.com/vehicles/2015/subaru/forester/vernon/bc/71295271/?sale_class=used",
-      "dealer_url": "https://www.hilltopsubaru.com/vehicles/2015/subaru/forester/vernon/bc/71295271/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T08:38:27",
-      "snapshot": "2026-09-26T09:24:28",
-      "go_url": "https://carwhisper.ca/go/hilltop-subaru-jf2sjcbc2fh580104",
-      "region": "Okanagan",
-      "city": "Vernon",
-      "province": "BC",
-      "dealer_name": "Hilltop Subaru"
     }
   ]
 }

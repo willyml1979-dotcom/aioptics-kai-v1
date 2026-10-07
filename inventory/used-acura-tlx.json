@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T15:57:55+00:00",
-  "snapshot": "2026-10-07T15:57:55+00:00",
+  "generated_at": "2026-10-07T21:58:11+00:00",
+  "snapshot": "2026-10-07T21:58:11+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "acura-of-langley-19uub6f9xma800486",
@@ -62,32 +62,6 @@
       "city": "North Vancouver",
       "province": "BC",
       "dealer_name": "North Shore Kia"
-    },
-    {
-      "pub_id": "country-hills-nissan-19uub3f52fa803817",
-      "year": 2015,
-      "make": "Acura",
-      "model": "TLX",
-      "drivetrain": "AWD",
-      "propulsion": "gas",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
-      "condition": "used",
-      "odometer_km": 168657,
-      "price_cad": 15495.0,
-      "price_note": null,
-      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/4a51cc7a-9a58-43f7-9452-488430ecb8f0_384444d2-af2f-4923-8c4b-46cf66c05938.jpg",
-      "dealer_id": "country-hills-nissan",
-      "vin": "19UUB3F52FA803817",
-      "stock": "OG41534",
-      "listing_url": "https://www.chnissan.com/vehicles/2015/acura/tlx/okotoks/ab/71163758/?sale_class=used",
-      "dealer_url": "https://www.chnissan.com/vehicles/2015/acura/tlx/okotoks/ab/71163758/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T23:22:22",
-      "snapshot": "2026-10-04T23:47:46",
-      "go_url": "https://carwhisper.ca/go/country-hills-nissan-19uub3f52fa803817",
-      "city": null,
-      "province": "AB",
-      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

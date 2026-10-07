@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T15:57:55+00:00",
-  "snapshot": "2026-10-07T15:57:55+00:00",
+  "generated_at": "2026-10-07T21:58:11+00:00",
+  "snapshot": "2026-10-07T21:58:11+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 12,
+  "count": 13,
   "vehicles": [
     {
       "pub_id": "kia-south-vancouver-salvv2bg7fh057523",
@@ -310,7 +310,7 @@
       "listing_url": "https://www.northshorehonda.ca/en/used-inventory/land-rover/range-rover-evoque/2023-land-rover-range-rover-evoque-id39069340",
       "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/land-rover/range-rover-evoque/2023-land-rover-range-rover-evoque-id39069340?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T18:27:30",
-      "snapshot": "2026-10-06T09:56:54",
+      "snapshot": "2026-10-07T10:23:34",
       "go_url": "https://carwhisper.ca/go/pacific-honda-salzl2fx3ph210708",
       "city": null,
       "province": "BC",
@@ -342,6 +342,33 @@
       "city": null,
       "province": "ON",
       "dealer_name": "Go Auto Brampton Chrysler"
+    },
+    {
+      "pub_id": "jaguar-land-rover-richmond-salzl2fx7th288838",
+      "year": 2026,
+      "make": "Land Rover",
+      "model": "Range Rover Evoque",
+      "body_type": "suv",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 11125,
+      "price_cad": 54994.0,
+      "price_note": null,
+      "color": "Fuji White",
+      "photo_url": "https://pictures.web.dealer.com/v/vamidlothianlr/0236/e44585749b47cdcd6627e7e0bc5dfd32x.jpg",
+      "dealer_id": "jaguar-land-rover-richmond",
+      "vin": "SALZL2FX7TH288838",
+      "stock": "255876",
+      "listing_url": "https://www.landroverrichmond.com/exotic-used/Land Rover/2026-Land-Rover-Range-Rover-Evoque-richmond-va-b9074e45ac18551cd6336dbb2c041ad5.htm",
+      "dealer_url": "https://www.landroverrichmond.com/exotic-used/Land Rover/2026-Land-Rover-Range-Rover-Evoque-richmond-va-b9074e45ac18551cd6336dbb2c041ad5.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T09:31:59",
+      "snapshot": "2026-10-07T09:32:31",
+      "go_url": "https://carwhisper.ca/go/jaguar-land-rover-richmond-salzl2fx7th288838",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Jaguar Land Rover Richmond"
     }
   ]
 }

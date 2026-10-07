@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T15:57:55+00:00",
-  "snapshot": "2026-10-07T15:57:55+00:00",
+  "generated_at": "2026-10-07T21:58:11+00:00",
+  "snapshot": "2026-10-07T21:58:11+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 10,
+  "count": 11,
   "vehicles": [
     {
       "pub_id": "carter-gm-northshore-1gnskgkt2rr332086",
@@ -173,6 +173,33 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Island Chevrolet Buick GMC"
+    },
+    {
+      "pub_id": "capilano-volkswagen-1gnskje36br280864",
+      "year": 2011,
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "trim": "LT",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 225623,
+      "price_cad": 14995.0,
+      "price_note": null,
+      "color": "Summit White",
+      "photo_url": "https://img.sm360.ca/ir/w800h600/images/inventory/capilano-volkswagen/chevrolet/suburban/2011/39313735/39313735_06834_2011-chevrolet-suburban_001.png",
+      "dealer_id": "capilano-volkswagen",
+      "vin": "1GNSKJE36BR280864",
+      "stock": "N3274A2",
+      "listing_url": "https://www.capilanovw.com/en/used-inventory/chevrolet/suburban/2011-chevrolet-suburban-id39313735",
+      "dealer_url": "https://www.capilanovw.com/en/used-inventory/chevrolet/suburban/2011-chevrolet-suburban-id39313735?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T09:37:18",
+      "snapshot": "2026-10-07T09:42:32",
+      "go_url": "https://carwhisper.ca/go/capilano-volkswagen-1gnskje36br280864",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Capilano Volkswagen"
     },
     {
       "pub_id": "tacoma-dodge-chrysler-jeep-ram-1gnskbkd3nr139189",
