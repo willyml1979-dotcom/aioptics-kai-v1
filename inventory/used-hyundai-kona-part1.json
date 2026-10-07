@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-06T21:57:35+00:00",
-  "snapshot": "2026-10-06T21:57:35+00:00",
+  "generated_at": "2026-10-07T03:57:54+00:00",
+  "snapshot": "2026-10-07T03:57:54+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 27,
+  "count": 28,
   "vehicles": [
     {
       "pub_id": "richmond-hyundai-km8k2caa8mu751210",
@@ -740,6 +740,30 @@
       "city": "Port Coquitlam",
       "province": "BC",
       "dealer_name": "Tricity Mitsubishi"
+    },
+    {
+      "pub_id": "maple-ridge-hyundai-km8hb3ab0ru150206",
+      "year": 2024,
+      "make": "Hyundai",
+      "model": "Kona",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 28904.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "maple-ridge-hyundai",
+      "vin": "KM8HB3AB0RU150206",
+      "stock": 14177479,
+      "listing_url": "https://www.mapleridgehyundai.com/used/2024-Hyundai-Kona.html",
+      "dealer_url": "https://www.mapleridgehyundai.com/used/2024-Hyundai-Kona.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T06:51:26",
+      "snapshot": "2026-09-25T07:09:21",
+      "go_url": "https://carwhisper.ca/go/maple-ridge-hyundai-km8hb3ab0ru150206",
+      "region": "Lower Mainland",
+      "city": "Maple Ridge",
+      "province": "BC",
+      "dealer_name": "Maple Ridge Hyundai"
     }
   ]
 }

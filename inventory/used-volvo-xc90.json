@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-06T21:57:35+00:00",
-  "snapshot": "2026-10-06T21:57:35+00:00",
+  "generated_at": "2026-10-07T03:57:54+00:00",
+  "snapshot": "2026-10-07T03:57:54+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 24,
+  "count": 25,
   "vehicles": [
     {
       "pub_id": "carter-gm-northshore-yv4a22pl3h1176327",
@@ -613,7 +613,7 @@
       "listing_url": "https://www.sphyundai.com/vehicles/2024/volvo/xc90/sherwood-park/ab/69128601/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2024/volvo/xc90/sherwood-park/ab/69128601/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T18:19:38",
-      "snapshot": "2026-10-04T18:43:38",
+      "snapshot": "2026-10-06T15:36:22",
       "go_url": "https://carwhisper.ca/go/sherwood-park-hyundai-yv4062pk6r1152659",
       "city": null,
       "province": "AB",
@@ -646,6 +646,32 @@
       "city": null,
       "province": "ON",
       "dealer_name": "Go Auto Brampton Chrysler"
+    },
+    {
+      "pub_id": "sherwood-park-hyundai-yv4062pf0r1173249",
+      "year": 2024,
+      "make": "Volvo",
+      "model": "XC90",
+      "propulsion": "hybrid",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 39256,
+      "price_cad": 54388.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/296cf62d-bd89-4aa4-a6ce-b6039fdb3c07_cc492ae8-9651-4da9-be08-e8ed68fe4fd0.jpg",
+      "dealer_id": "sherwood-park-hyundai",
+      "vin": "YV4062PF0R1173249",
+      "stock": "PC3249",
+      "listing_url": "https://www.sphyundai.com/vehicles/2024/volvo/xc90/sherwood-park/ab/70536367/?sale_class=used",
+      "dealer_url": "https://www.sphyundai.com/vehicles/2024/volvo/xc90/sherwood-park/ab/70536367/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T15:33:08",
+      "snapshot": "2026-10-06T15:36:22",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-hyundai-yv4062pf0r1173249",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Hyundai"
     }
   ]
 }

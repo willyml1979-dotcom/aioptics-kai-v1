@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-06T21:57:35+00:00",
-  "snapshot": "2026-10-06T21:57:35+00:00",
+  "generated_at": "2026-10-07T03:57:54+00:00",
+  "snapshot": "2026-10-07T03:57:54+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 31,
+  "count": 32,
   "vehicles": [
     {
       "pub_id": "integrity-subaru-jm1bl1s53a1138609",
@@ -148,6 +148,34 @@
       "city": "Abbotsford",
       "province": "BC",
       "dealer_name": "The Honda Way - Abbotsford"
+    },
+    {
+      "pub_id": "go-kia-west-3mzbpadm5km104360",
+      "year": 2019,
+      "make": "Mazda",
+      "model": "Mazda3",
+      "body_type": "sedan",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 142487,
+      "price_cad": 16998.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/c1dc541c-88c4-46ae-8374-49aa62ecc94d_5ba3ae4f-dade-469c-9bde-4e6cd41da3ef.jpg",
+      "dealer_id": "go-kia-west",
+      "vin": "3MZBPADM5KM104360",
+      "stock": "E578880",
+      "listing_url": "https://www.kiawest.com/vehicles/2019/mazda/mazda3-sedan/coquitlam/bc/71461235/?sale_class=used",
+      "dealer_url": "https://www.kiawest.com/vehicles/2019/mazda/mazda3-sedan/coquitlam/bc/71461235/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T15:39:17",
+      "snapshot": "2026-10-06T15:40:25",
+      "go_url": "https://carwhisper.ca/go/go-kia-west-3mzbpadm5km104360",
+      "region": "Lower Mainland",
+      "city": "Coquitlam",
+      "province": "BC",
+      "dealer_name": "Go Kia West"
     },
     {
       "pub_id": "langley-hyundai-3mzbpbcm0lm139008",

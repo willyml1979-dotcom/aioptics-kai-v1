@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T21:57:35+00:00",
+  "generated_at": "2026-10-07T03:57:54+00:00",
   "condition": "used",
   "make": "ford",
   "files": [
@@ -176,12 +176,12 @@
       "make": "ford",
       "model": "Escape",
       "shard": "part6",
-      "count": 31,
+      "count": 32,
       "file": "inventory/used-ford-escape-part6.json",
       "models": [
         {
           "model": "Escape",
-          "count": 31
+          "count": 32
         }
       ]
     },
@@ -366,11 +366,11 @@
       "models": [
         {
           "model": "F 150",
-          "count": 8
+          "count": 9
         },
         {
           "model": "F-150",
-          "count": 23
+          "count": 22
         }
       ]
     },
@@ -402,11 +402,11 @@
       "models": [
         {
           "model": "F 150",
-          "count": 23
+          "count": 22
         },
         {
           "model": "F-150",
-          "count": 8
+          "count": 9
         }
       ]
     },
@@ -415,7 +415,7 @@
       "make": "ford",
       "model": "F-150",
       "shard": "part15",
-      "count": 25,
+      "count": 24,
       "file": "inventory/used-ford-f-150-part15.json",
       "models": [
         {
@@ -424,7 +424,7 @@
         },
         {
           "model": "F-150",
-          "count": 20
+          "count": 19
         }
       ]
     },
@@ -432,12 +432,12 @@
       "condition": "used",
       "make": "ford",
       "model": "Maverick",
-      "count": 29,
+      "count": 30,
       "file": "inventory/used-ford-maverick.json",
       "models": [
         {
           "model": "Maverick",
-          "count": 29
+          "count": 30
         }
       ]
     },
@@ -1062,12 +1062,12 @@
       "make": "ford",
       "model": "Super Duty F-350 SRW",
       "shard": "sin-region",
-      "count": 4,
+      "count": 5,
       "file": "inventory/used-ford-super-duty-f-350-srw-sin-region.json",
       "models": [
         {
           "model": "Super Duty F-350 SRW",
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -1519,6 +1519,19 @@
     {
       "condition": "used",
       "make": "ford",
+      "model": "Flex",
+      "count": 1,
+      "file": "inventory/used-ford-flex.json",
+      "models": [
+        {
+          "model": "Flex",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
       "model": "ECONOLINE COMMERCIAL CHASSIS",
       "count": 1,
       "file": "inventory/used-ford-econoline-commercial-chassis.json",
@@ -1538,6 +1551,19 @@
       "models": [
         {
           "model": "F 150 Lightning",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "EcoSportTitanium",
+      "count": 1,
+      "file": "inventory/used-ford-ecosporttitanium.json",
+      "models": [
+        {
+          "model": "EcoSportTitanium",
           "count": 1
         }
       ]

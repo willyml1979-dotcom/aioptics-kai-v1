@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-06T21:57:35+00:00",
-  "snapshot": "2026-10-06T21:57:35+00:00",
+  "generated_at": "2026-10-07T03:57:54+00:00",
+  "snapshot": "2026-10-07T03:57:54+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 32,
+  "count": 33,
   "vehicles": [
     {
       "pub_id": "maple-ridge-hyundai-1gks2de00dr353234",
@@ -705,7 +705,7 @@
       "listing_url": "https://www.tacomadodge.com/viewdetails/used/1gks2ckjxkr343301/2019-gmc-yukon-sport-utility?type=cash",
       "dealer_url": "https://www.tacomadodge.com/viewdetails/used/1gks2ckjxkr343301/2019-gmc-yukon-sport-utility?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T23:03:24",
-      "snapshot": "2026-10-04T23:28:25",
+      "snapshot": "2026-10-06T15:57:15",
       "go_url": "https://carwhisper.ca/go/tacoma-dodge-chrysler-jeep-ram-1gks2ckjxkr343301",
       "city": null,
       "province": "US",
@@ -840,6 +840,32 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Country Hills Nissan"
+    },
+    {
+      "pub_id": "sherwood-park-hyundai-1gks2drl7sr118282",
+      "year": 2025,
+      "make": "GMC",
+      "model": "Yukon",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 49179,
+      "price_cad": 92107.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/e7decc36-69e8-4c12-8141-3346da48a604_a352d066-8671-4518-a317-ebc8e56be0d6.jpg",
+      "dealer_id": "sherwood-park-hyundai",
+      "vin": "1GKS2DRL7SR118282",
+      "stock": "P8282",
+      "listing_url": "https://www.sphyundai.com/vehicles/2025/gmc/yukon/sherwood-park/ab/71457636/?sale_class=used",
+      "dealer_url": "https://www.sphyundai.com/vehicles/2025/gmc/yukon/sherwood-park/ab/71457636/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T15:33:18",
+      "snapshot": "2026-10-06T15:36:22",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-hyundai-1gks2drl7sr118282",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Hyundai"
     }
   ]
 }

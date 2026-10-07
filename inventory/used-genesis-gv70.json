@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-06T21:57:35+00:00",
-  "snapshot": "2026-10-06T21:57:35+00:00",
+  "generated_at": "2026-10-07T03:57:54+00:00",
+  "snapshot": "2026-10-07T03:57:54+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 20,
+  "count": 21,
   "vehicles": [
     {
       "pub_id": "go-north-surrey-chevrolet-buick-gmc-kmumcdtc0nu024852",
@@ -376,7 +376,7 @@
       "listing_url": "https://www.tacomadodge.com/viewdetails/used/kmumadtb1su216404/2025-genesis-gv70-sport-utility?type=cash",
       "dealer_url": "https://www.tacomadodge.com/viewdetails/used/kmumadtb1su216404/2025-genesis-gv70-sport-utility?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T23:27:21",
-      "snapshot": "2026-10-04T23:28:25",
+      "snapshot": "2026-10-06T15:57:15",
       "go_url": "https://carwhisper.ca/go/tacoma-dodge-chrysler-jeep-ram-kmumadtb1su216404",
       "city": null,
       "province": "US",
@@ -402,7 +402,7 @@
       "listing_url": "https://www.sphyundai.com/vehicles/2022/genesis/gv70/sherwood-park/ab/70745458/?sale_class=used",
       "dealer_url": "https://www.sphyundai.com/vehicles/2022/genesis/gv70/sherwood-park/ab/70745458/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T18:42:18",
-      "snapshot": "2026-10-04T18:43:38",
+      "snapshot": "2026-10-06T15:36:22",
       "go_url": "https://carwhisper.ca/go/sherwood-park-hyundai-kmumcdtc6nu024497",
       "city": null,
       "province": "AB",
@@ -518,6 +518,32 @@
       "city": null,
       "province": "BC",
       "dealer_name": "Pacific Honda"
+    },
+    {
+      "pub_id": "sherwood-park-hyundai-kmumadtb0tu264901",
+      "year": 2026,
+      "make": "Genesis",
+      "model": "GV70",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 28612,
+      "price_cad": 54907.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/b4b3410e-47a6-47c4-a68d-f9720a892714_a32564c4-ab30-4c85-9f49-db08d1d63a39.jpg",
+      "dealer_id": "sherwood-park-hyundai",
+      "vin": "KMUMADTB0TU264901",
+      "stock": "PC4901",
+      "listing_url": "https://www.sphyundai.com/vehicles/2026/genesis/gv70/sherwood-park/ab/71305325/?sale_class=used",
+      "dealer_url": "https://www.sphyundai.com/vehicles/2026/genesis/gv70/sherwood-park/ab/71305325/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T15:33:55",
+      "snapshot": "2026-10-06T15:36:22",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-hyundai-kmumadtb0tu264901",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Hyundai"
     }
   ]
 }

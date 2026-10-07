@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-06T21:57:35+00:00",
-  "snapshot": "2026-10-06T21:57:35+00:00",
+  "generated_at": "2026-10-07T03:57:54+00:00",
+  "snapshot": "2026-10-07T03:57:54+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 23,
+  "count": 24,
   "vehicles": [
     {
       "pub_id": "destination-toyota-burnaby-5tdez3dc0ls228292",
@@ -510,6 +510,33 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Country Hills Nissan"
+    },
+    {
+      "pub_id": "tacoma-dodge-chrysler-jeep-ram-5tdgskfc2rs131561",
+      "year": 2024,
+      "make": "Toyota",
+      "model": "Sienna",
+      "trim": "LE",
+      "propulsion": "hybrid",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 20343,
+      "price_cad": 47633.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://content.homenetiol.com/2000157/2065512/0x0/2caf3f7a7b11454791648b306a2e00dd.jpg",
+      "dealer_id": "tacoma-dodge-chrysler-jeep-ram",
+      "vin": "5TDGSKFC2RS131561",
+      "stock": "CG13142",
+      "listing_url": "https://www.tacomadodge.com/viewdetails/used/5tdgskfc2rs131561/2024-toyota-sienna-mini-van,-passenger?type=cash",
+      "dealer_url": "https://www.tacomadodge.com/viewdetails/used/5tdgskfc2rs131561/2024-toyota-sienna-mini-van,-passenger?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T15:53:38",
+      "snapshot": "2026-10-06T15:57:15",
+      "go_url": "https://carwhisper.ca/go/tacoma-dodge-chrysler-jeep-ram-5tdgskfc2rs131561",
+      "city": null,
+      "province": "US",
+      "dealer_name": "Tacoma Dodge Chrysler Jeep Ram"
     },
     {
       "pub_id": "pacific-honda-5tdgrkec7ts293996",

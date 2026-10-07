@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-06T21:57:35+00:00",
-  "snapshot": "2026-10-06T21:57:35+00:00",
+  "generated_at": "2026-10-07T03:57:54+00:00",
+  "snapshot": "2026-10-07T03:57:54+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 11,
+  "count": 12,
   "vehicles": [
     {
       "pub_id": "harmony-acura-5lm5j7xc1lgl07693",
@@ -292,6 +292,32 @@
       "city": "Nanaimo",
       "province": "BC",
       "dealer_name": "Laird Wheaton GM"
+    },
+    {
+      "pub_id": "sherwood-park-hyundai-5lm5j7xc2sgl13209",
+      "year": 2025,
+      "make": "Lincoln",
+      "model": "Aviator",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 41181,
+      "price_cad": 81595.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/03c40acb-6492-4cfa-8fca-386d022001d0_ec497845-888a-4922-8d87-b5c5950d9dd9.jpg",
+      "dealer_id": "sherwood-park-hyundai",
+      "vin": "5LM5J7XC2SGL13209",
+      "stock": "P3209",
+      "listing_url": "https://www.sphyundai.com/vehicles/2025/lincoln/aviator/sherwood-park/ab/ad13123062/?sale_class=used",
+      "dealer_url": "https://www.sphyundai.com/vehicles/2025/lincoln/aviator/sherwood-park/ab/ad13123062/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T15:33:44",
+      "snapshot": "2026-10-06T15:36:22",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-hyundai-5lm5j7xc2sgl13209",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Hyundai"
     }
   ]
 }

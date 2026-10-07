@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-06T21:57:35+00:00",
-  "snapshot": "2026-10-06T21:57:35+00:00",
+  "generated_at": "2026-10-07T03:57:54+00:00",
+  "snapshot": "2026-10-07T03:57:54+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 29,
+  "count": 30,
   "vehicles": [
     {
       "pub_id": "sullivan-motor-products-nelson-ltd-3fttw8f96pra88563",
@@ -709,6 +709,33 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Jim Pattison Subaru Victoria"
+    },
+    {
+      "pub_id": "tacoma-dodge-chrysler-jeep-ram-3fttw8b38srb31794",
+      "year": 2025,
+      "make": "Ford",
+      "model": "Maverick",
+      "trim": "XL",
+      "propulsion": "hybrid",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 15991,
+      "price_cad": 0.0,
+      "price_note": null,
+      "color": "Beige",
+      "photo_url": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/8/2025FOT21_640/2025FOT212096347_640_01.jpg",
+      "dealer_id": "tacoma-dodge-chrysler-jeep-ram",
+      "vin": "3FTTW8B38SRB31794",
+      "stock": "C1512631A",
+      "listing_url": "https://www.tacomadodge.com/viewdetails/used/3fttw8b38srb31794/2025-ford-maverick-crew-cab-pickup?type=cash",
+      "dealer_url": "https://www.tacomadodge.com/viewdetails/used/3fttw8b38srb31794/2025-ford-maverick-crew-cab-pickup?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T15:52:34",
+      "snapshot": "2026-10-06T15:57:15",
+      "go_url": "https://carwhisper.ca/go/tacoma-dodge-chrysler-jeep-ram-3fttw8b38srb31794",
+      "city": null,
+      "province": "US",
+      "dealer_name": "Tacoma Dodge Chrysler Jeep Ram"
     },
     {
       "pub_id": "go-downtown-kia-3fttw8e3xpra71293",

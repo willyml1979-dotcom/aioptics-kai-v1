@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T21:57:35+00:00",
+  "generated_at": "2026-10-07T03:57:54+00:00",
   "condition": "new",
   "make": "jeep",
   "files": [
@@ -306,12 +306,12 @@
       "make": "jeep",
       "model": "Cherokee",
       "shard": "part9",
-      "count": 30,
+      "count": 27,
       "file": "inventory/new-jeep-cherokee-part9.json",
       "models": [
         {
           "model": "Cherokee",
-          "count": 30
+          "count": 27
         }
       ]
     },
@@ -415,7 +415,7 @@
       "make": "jeep",
       "model": "Wrangler",
       "shard": "sin-region",
-      "count": 14,
+      "count": 31,
       "file": "inventory/new-jeep-wrangler-sin-region.json",
       "models": [
         {
@@ -424,7 +424,7 @@
         },
         {
           "model": "Wrangler",
-          "count": 11
+          "count": 28
         }
       ]
     },
@@ -767,20 +767,6 @@
     {
       "condition": "new",
       "make": "jeep",
-      "model": "Wrangler Unlimited",
-      "shard": "sin-region",
-      "count": 17,
-      "file": "inventory/new-jeep-wrangler-unlimited-sin-region.json",
-      "models": [
-        {
-          "model": "Wrangler Unlimited",
-          "count": 17
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "jeep",
       "model": "Grand Wagoneer",
       "count": 8,
       "file": "inventory/new-jeep-grand-wagoneer.json",
@@ -808,12 +794,12 @@
       "condition": "new",
       "make": "jeep",
       "model": "Compass NORTH",
-      "count": 9,
+      "count": 8,
       "file": "inventory/new-jeep-compass-north.json",
       "models": [
         {
           "model": "Compass NORTH",
-          "count": 9
+          "count": 8
         }
       ]
     },

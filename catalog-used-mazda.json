@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T21:57:35+00:00",
+  "generated_at": "2026-10-07T03:57:54+00:00",
   "condition": "used",
   "make": "mazda",
   "files": [
@@ -7,12 +7,12 @@
       "condition": "used",
       "make": "mazda",
       "model": "Mazda3",
-      "count": 31,
+      "count": 32,
       "file": "inventory/used-mazda-mazda3.json",
       "models": [
         {
           "model": "Mazda3",
-          "count": 31
+          "count": 32
         }
       ]
     },
@@ -21,12 +21,12 @@
       "make": "mazda",
       "model": "CX-5",
       "shard": "Lower Mainland",
-      "count": 31,
+      "count": 32,
       "file": "inventory/used-mazda-cx-5-lower-mainland.json",
       "models": [
         {
           "model": "CX-5",
-          "count": 31
+          "count": 32
         }
       ]
     },
@@ -91,12 +91,12 @@
       "make": "mazda",
       "model": "CX-5",
       "shard": "sin-region",
-      "count": 13,
+      "count": 12,
       "file": "inventory/used-mazda-cx-5-sin-region.json",
       "models": [
         {
           "model": "CX-5",
-          "count": 13
+          "count": 12
         }
       ]
     },
@@ -279,32 +279,6 @@
         {
           "model": "CX-50GT w/Turbo 4dr All-Wheel Drive Sport Utility",
           "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mazda",
-      "model": "CX-5 GS",
-      "count": 1,
-      "file": "inventory/used-mazda-cx-5-gs.json",
-      "models": [
-        {
-          "model": "CX-5 GS",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mazda",
-      "model": "Mazda3 Sedan GT Auto FWD",
-      "count": 1,
-      "file": "inventory/used-mazda-mazda3-sedan-gt-auto-fwd.json",
-      "models": [
-        {
-          "model": "Mazda3 Sedan GT Auto FWD",
-          "count": 1
         }
       ]
     },
