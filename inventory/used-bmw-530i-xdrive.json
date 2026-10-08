@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-08T15:59:46+00:00",
-  "snapshot": "2026-10-08T15:59:46+00:00",
+  "generated_at": "2026-10-08T22:00:32+00:00",
+  "snapshot": "2026-10-08T22:00:32+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "acura-of-langley-wba53fj03tcw59592",
@@ -26,12 +26,41 @@
       "listing_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/530i-xdrive/2026-bmw-530i-xdrive-id39171075",
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/530i-xdrive/2026-bmw-530i-xdrive-id39171075?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T19:54:18",
-      "snapshot": "2026-10-08T03:43:28",
+      "snapshot": "2026-10-08T09:47:20",
       "go_url": "https://carwhisper.ca/go/acura-of-langley-wba53fj03tcw59592",
       "region": "Lower Mainland",
       "city": "Langley",
       "province": "BC",
       "dealer_name": "Acura of Langley"
+    },
+    {
+      "pub_id": "burrard-acura-wba53fj03tcw59592",
+      "year": 2026,
+      "make": "BMW",
+      "model": "530i xDrive",
+      "body_type": "sedan",
+      "drivetrain": "4WD",
+      "propulsion": "hybrid",
+      "propulsion_source": "description",
+      "propulsion_confidence": "medium",
+      "condition": "used",
+      "odometer_km": 18319,
+      "price_cad": 61999.0,
+      "price_note": null,
+      "color": "Dark Graphite Metallic",
+      "photo_url": "https://img.sm360.ca/images/inventory/langley-mercedes-benz/bmw/530i/2026/39171075/39171075_02260_d19c63258aafa359e2650bf73e503ceb.jpeg",
+      "dealer_id": "burrard-acura",
+      "vin": "WBA53FJ03TCW59592",
+      "stock": "MB32B00",
+      "listing_url": "https://www.burrardacura.ca/en/used-inventory/bmw/530i-xdrive/2026-bmw-530i-xdrive-id39171075",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/bmw/530i-xdrive/2026-bmw-530i-xdrive-id39171075?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T14:54:40",
+      "snapshot": "2026-10-04T15:08:54",
+      "go_url": "https://carwhisper.ca/go/burrard-acura-wba53fj03tcw59592",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Burrard Acura"
     }
   ]
 }

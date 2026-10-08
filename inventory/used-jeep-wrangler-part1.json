@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-08T15:59:46+00:00",
-  "snapshot": "2026-10-08T15:59:46+00:00",
+  "generated_at": "2026-10-08T22:00:32+00:00",
+  "snapshot": "2026-10-08T22:00:32+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 29,
+  "count": 30,
   "vehicles": [
     {
       "pub_id": "kootenay-chrysler-dodge-jeep-ram-ltd-1j4aa2d15al165164",
@@ -612,6 +612,34 @@
       "city": "Maple Ridge",
       "province": "BC",
       "dealer_name": "Maple Ridge Volkswagen"
+    },
+    {
+      "pub_id": "brian-jessel-bmw-1c4bjwfg2hl642470",
+      "year": 2017,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "drivetrain": "4WD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 96000,
+      "price_cad": 37900.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/599423be-9583-4cf3-af96-8887c6125272_8566e1cc-c662-4170-a3d5-4cf7dafbf64e.jpg?promo=9e584cfe-2897-4a08-b166-a6186c7c566a_1&overlay-type=tadv",
+      "dealer_id": "brian-jessel-bmw",
+      "vin": "1C4BJWFG2HL642470",
+      "stock": "B1123A",
+      "listing_url": "https://www.brianjesselbmw.com/vehicles/2017/jeep/wrangler/vancouver/bc/ad13049704/?sale_class=used",
+      "dealer_url": "https://www.brianjesselbmw.com/vehicles/2017/jeep/wrangler/vancouver/bc/ad13049704/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T14:30:10",
+      "snapshot": "2026-10-08T14:35:48",
+      "go_url": "https://carwhisper.ca/go/brian-jessel-bmw-1c4bjwfg2hl642470",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Brian Jessel BMW"
     },
     {
       "pub_id": "marine-chrysler-dodge-jeep-ltd-1c4hjxagxpw595936",

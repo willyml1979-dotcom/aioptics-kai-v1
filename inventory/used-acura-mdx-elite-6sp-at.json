@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-08T15:59:46+00:00",
-  "snapshot": "2026-10-08T15:59:46+00:00",
+  "generated_at": "2026-10-08T22:00:32+00:00",
+  "snapshot": "2026-10-08T22:00:32+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "acura-of-langley-2hnyd2h69dh000599",
@@ -21,12 +21,36 @@
       "listing_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2013-acura-mdx-id39308830",
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2013-acura-mdx-id39308830?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T03:43:04",
-      "snapshot": "2026-10-08T03:43:28",
+      "snapshot": "2026-10-08T09:47:20",
       "go_url": "https://carwhisper.ca/go/acura-of-langley-2hnyd2h69dh000599",
       "region": "Lower Mainland",
       "city": "Langley",
       "province": "BC",
       "dealer_name": "Acura of Langley"
+    },
+    {
+      "pub_id": "burrard-acura-2hnyd2h69dh000599",
+      "year": 2013,
+      "make": "Acura",
+      "model": "MDX Elite 6sp at",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 150135,
+      "price_cad": 15750.0,
+      "price_note": null,
+      "dealer_id": "burrard-acura",
+      "vin": "2HNYD2H69DH000599",
+      "stock": "267102B",
+      "listing_url": "https://www.burrardacura.ca/en/used-inventory/acura/mdx/2013-acura-mdx-id39308830",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/acura/mdx/2013-acura-mdx-id39308830?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T14:46:06",
+      "snapshot": "2026-10-04T15:08:54",
+      "go_url": "https://carwhisper.ca/go/burrard-acura-2hnyd2h69dh000599",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Burrard Acura"
     }
   ]
 }

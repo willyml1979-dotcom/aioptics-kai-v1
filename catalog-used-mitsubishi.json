@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T15:59:46+00:00",
+  "generated_at": "2026-10-08T22:00:32+00:00",
   "condition": "used",
   "make": "mitsubishi",
   "files": [
@@ -459,6 +459,19 @@
       "models": [
         {
           "model": "Endeavor SE",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "RVR ES",
+      "count": 1,
+      "file": "inventory/used-mitsubishi-rvr-es.json",
+      "models": [
+        {
+          "model": "RVR ES",
           "count": 1
         }
       ]

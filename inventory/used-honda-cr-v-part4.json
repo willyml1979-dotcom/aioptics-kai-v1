@@ -1,35 +1,9 @@
 {
-  "generated_at": "2026-10-08T15:59:46+00:00",
-  "snapshot": "2026-10-08T15:59:46+00:00",
+  "generated_at": "2026-10-08T22:00:32+00:00",
+  "snapshot": "2026-10-08T22:00:32+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 28,
   "vehicles": [
-    {
-      "pub_id": "north-shore-honda-2hkrs4h56sh105429",
-      "year": 2025,
-      "make": "Honda",
-      "model": "CR-V",
-      "trim": "Sport AWD",
-      "drivetrain": "AWD",
-      "propulsion": "unknown",
-      "propulsion_source": null,
-      "condition": "used",
-      "odometer_km": 18395,
-      "price_cad": null,
-      "price_note": "precio no publicado en la fuente",
-      "dealer_id": "north-shore-honda",
-      "vin": "2HKRS4H56SH105429",
-      "stock": "H126102",
-      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/honda/cr-v/2025-honda-cr-v-id39237317",
-      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/honda/cr-v/2025-honda-cr-v-id39237317?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:27:45",
-      "snapshot": "2026-09-26T19:34:59",
-      "go_url": "https://carwhisper.ca/go/north-shore-honda-2hkrs4h56sh105429",
-      "region": "Lower Mainland",
-      "city": "North Vancouver",
-      "province": "BC",
-      "dealer_name": "North Shore Honda"
-    },
     {
       "pub_id": "heartland-toyota-u3f6d39ea3d",
       "year": 2021,
@@ -683,6 +657,30 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Okanagan Chrysler Dodge Jeep Ram"
+    },
+    {
+      "pub_id": "penticton-nissan-2hkrw2h98lh212043",
+      "year": 2020,
+      "make": "Honda",
+      "model": "CR-V",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 32904.0,
+      "price_note": null,
+      "color": "Silver",
+      "dealer_id": "penticton-nissan",
+      "vin": "2HKRW2H98LH212043",
+      "stock": 14413393,
+      "listing_url": "https://www.pentictonnissan.com/used/2020-Honda-CR_V.html",
+      "dealer_url": "https://www.pentictonnissan.com/used/2020-Honda-CR_V.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T23:28:59",
+      "snapshot": "2026-09-27T00:33:10",
+      "go_url": "https://carwhisper.ca/go/penticton-nissan-2hkrw2h98lh212043",
+      "region": "Okanagan",
+      "city": "Penticton",
+      "province": "BC",
+      "dealer_name": "Penticton Nissan"
     }
   ]
 }

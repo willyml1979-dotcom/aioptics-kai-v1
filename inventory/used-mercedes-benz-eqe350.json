@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-08T15:59:46+00:00",
-  "snapshot": "2026-10-08T15:59:46+00:00",
+  "generated_at": "2026-10-08T22:00:32+00:00",
+  "snapshot": "2026-10-08T22:00:32+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "acura-of-langley-4jggm1cb4pa008527",
@@ -26,7 +26,7 @@
       "listing_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/eqe350/2023-mercedes-benz-eqe350-id39056065",
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/eqe350/2023-mercedes-benz-eqe350-id39056065?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T20:47:57",
-      "snapshot": "2026-10-08T03:43:28",
+      "snapshot": "2026-10-08T09:47:20",
       "go_url": "https://carwhisper.ca/go/acura-of-langley-4jggm1cb4pa008527",
       "region": "Lower Mainland",
       "city": "Langley",
@@ -61,6 +61,34 @@
       "city": "Richmond",
       "province": "BC",
       "dealer_name": "Mercedes-Benz Richmond"
+    },
+    {
+      "pub_id": "pacific-honda-4jggm1cb4pa008527",
+      "year": 2023,
+      "make": "Mercedes-Benz",
+      "model": "EQE350",
+      "trim": "4MATIC",
+      "body_type": "suv",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 46079,
+      "price_cad": 64999.0,
+      "price_note": null,
+      "color": "MANUFAKUR Alpine Grey",
+      "photo_url": "https://img.sm360.ca/images/inventory/mercedes-benz-north-vancouver/mercedes-benz/eqe350/2023/39056065/39056065_01809_eff1b626f32ee556f773d8f016534795.jpeg",
+      "dealer_id": "pacific-honda",
+      "vin": "4JGGM1CB4PA008527",
+      "stock": "MB51701",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/mercedes-benz/eqe350/2023-mercedes-benz-eqe350-id39056065",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/mercedes-benz/eqe350/2023-mercedes-benz-eqe350-id39056065?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T10:41:34",
+      "snapshot": "2026-10-08T10:46:38",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-4jggm1cb4pa008527",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }
