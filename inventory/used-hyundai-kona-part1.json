@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T21:58:11+00:00",
-  "snapshot": "2026-10-07T21:58:11+00:00",
+  "generated_at": "2026-10-08T03:58:59+00:00",
+  "snapshot": "2026-10-08T03:58:59+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 28,
   "vehicles": [
@@ -629,6 +629,36 @@
       "dealer_name": "Pioneer Chrysler Jeep"
     },
     {
+      "pub_id": "acura-of-langley-km8hc3a68ru012073",
+      "year": 2024,
+      "make": "Hyundai",
+      "model": "Kona",
+      "trim": "Preferred FWD",
+      "body_type": "suv",
+      "drivetrain": "FWD",
+      "propulsion": "electric",
+      "propulsion_source": "model_trim_name",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 87717,
+      "price_cad": 26988.0,
+      "price_note": null,
+      "color": "Mirage Green",
+      "photo_url": "https://img.sm360.ca/images/inventory/acura-of-langley/hyundai/kona-electric/2024/38894297/38894297_05486_29ae7d6a8eaf54eb20216e159ba5180a.jpeg",
+      "dealer_id": "acura-of-langley",
+      "vin": "KM8HC3A68RU012073",
+      "stock": "A12C015",
+      "listing_url": "https://www.acuraoflangley.ca/en/used-inventory/hyundai/kona-electric/2024-hyundai-kona-electric-id38894297",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/hyundai/kona-electric/2024-hyundai-kona-electric-id38894297?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:21:12",
+      "snapshot": "2026-10-04T11:09:43",
+      "go_url": "https://carwhisper.ca/go/acura-of-langley-km8hc3a68ru012073",
+      "region": "Lower Mainland",
+      "city": "Langley",
+      "province": "BC",
+      "dealer_name": "Acura of Langley"
+    },
+    {
       "pub_id": "richmond-hyundai-km8hccab9su284053",
       "year": 2025,
       "make": "Hyundai",
@@ -740,30 +770,6 @@
       "city": "Port Coquitlam",
       "province": "BC",
       "dealer_name": "Tricity Mitsubishi"
-    },
-    {
-      "pub_id": "maple-ridge-hyundai-km8hb3ab0ru150206",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Kona",
-      "propulsion": "unknown",
-      "propulsion_source": null,
-      "condition": "used",
-      "price_cad": 28904.0,
-      "price_note": null,
-      "color": "Black",
-      "dealer_id": "maple-ridge-hyundai",
-      "vin": "KM8HB3AB0RU150206",
-      "stock": 14177479,
-      "listing_url": "https://www.mapleridgehyundai.com/used/2024-Hyundai-Kona.html",
-      "dealer_url": "https://www.mapleridgehyundai.com/used/2024-Hyundai-Kona.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T06:51:26",
-      "snapshot": "2026-09-25T07:09:21",
-      "go_url": "https://carwhisper.ca/go/maple-ridge-hyundai-km8hb3ab0ru150206",
-      "region": "Lower Mainland",
-      "city": "Maple Ridge",
-      "province": "BC",
-      "dealer_name": "Maple Ridge Hyundai"
     }
   ]
 }

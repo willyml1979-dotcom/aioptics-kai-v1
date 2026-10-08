@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T21:58:11+00:00",
+  "generated_at": "2026-10-08T03:58:59+00:00",
   "condition": "used",
   "make": "nissan",
   "files": [
@@ -110,12 +110,12 @@
       "make": "nissan",
       "model": "Rogue",
       "shard": "part8",
-      "count": 25,
+      "count": 26,
       "file": "inventory/used-nissan-rogue-part8.json",
       "models": [
         {
           "model": "Rogue",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -275,6 +275,90 @@
     {
       "condition": "used",
       "make": "nissan",
+      "model": "Pathfinder",
+      "shard": "Lower Mainland",
+      "count": 20,
+      "file": "inventory/used-nissan-pathfinder-lower-mainland.json",
+      "models": [
+        {
+          "model": "Pathfinder",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Pathfinder",
+      "shard": "Norte/Cariboo",
+      "count": 4,
+      "file": "inventory/used-nissan-pathfinder-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Pathfinder",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Pathfinder",
+      "shard": "Okanagan",
+      "count": 15,
+      "file": "inventory/used-nissan-pathfinder-okanagan.json",
+      "models": [
+        {
+          "model": "Pathfinder",
+          "count": 15
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Pathfinder",
+      "shard": "Thompson-Okanagan",
+      "count": 1,
+      "file": "inventory/used-nissan-pathfinder-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "Pathfinder",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Pathfinder",
+      "shard": "Vancouver Island",
+      "count": 8,
+      "file": "inventory/used-nissan-pathfinder-vancouver-island.json",
+      "models": [
+        {
+          "model": "Pathfinder",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Pathfinder",
+      "shard": "sin-region",
+      "count": 23,
+      "file": "inventory/used-nissan-pathfinder-sin-region.json",
+      "models": [
+        {
+          "model": "Pathfinder",
+          "count": 23
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
       "model": "Qashqai",
       "shard": "Lower Mainland",
       "count": 10,
@@ -347,96 +431,12 @@
       "make": "nissan",
       "model": "Qashqai",
       "shard": "sin-region",
-      "count": 10,
+      "count": 11,
       "file": "inventory/used-nissan-qashqai-sin-region.json",
       "models": [
         {
           "model": "Qashqai",
-          "count": 10
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Pathfinder",
-      "shard": "Lower Mainland",
-      "count": 19,
-      "file": "inventory/used-nissan-pathfinder-lower-mainland.json",
-      "models": [
-        {
-          "model": "Pathfinder",
-          "count": 19
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Pathfinder",
-      "shard": "Norte/Cariboo",
-      "count": 4,
-      "file": "inventory/used-nissan-pathfinder-norte-cariboo.json",
-      "models": [
-        {
-          "model": "Pathfinder",
-          "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Pathfinder",
-      "shard": "Okanagan",
-      "count": 15,
-      "file": "inventory/used-nissan-pathfinder-okanagan.json",
-      "models": [
-        {
-          "model": "Pathfinder",
-          "count": 15
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Pathfinder",
-      "shard": "Thompson-Okanagan",
-      "count": 1,
-      "file": "inventory/used-nissan-pathfinder-thompson-okanagan.json",
-      "models": [
-        {
-          "model": "Pathfinder",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Pathfinder",
-      "shard": "Vancouver Island",
-      "count": 8,
-      "file": "inventory/used-nissan-pathfinder-vancouver-island.json",
-      "models": [
-        {
-          "model": "Pathfinder",
-          "count": 8
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Pathfinder",
-      "shard": "sin-region",
-      "count": 22,
-      "file": "inventory/used-nissan-pathfinder-sin-region.json",
-      "models": [
-        {
-          "model": "Pathfinder",
-          "count": 22
+          "count": 11
         }
       ]
     },
@@ -972,19 +972,6 @@
     {
       "condition": "used",
       "make": "nissan",
-      "model": "PathfinderS",
-      "count": 1,
-      "file": "inventory/used-nissan-pathfinders.json",
-      "models": [
-        {
-          "model": "PathfinderS",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
       "model": "PathfinderRock Creek",
       "count": 1,
       "file": "inventory/used-nissan-pathfinderrock-creek.json",
@@ -1030,6 +1017,19 @@
       "models": [
         {
           "model": "Murano SV",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Sentra Sedan SR",
+      "count": 1,
+      "file": "inventory/used-nissan-sentra-sedan-sr.json",
+      "models": [
+        {
+          "model": "Sentra Sedan SR",
           "count": 1
         }
       ]

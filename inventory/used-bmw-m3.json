@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T21:58:11+00:00",
-  "snapshot": "2026-10-07T21:58:11+00:00",
+  "generated_at": "2026-10-08T03:58:59+00:00",
+  "snapshot": "2026-10-08T03:58:59+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "tricity-mitsubishi-wbs53ay0xnfn09968",
@@ -55,6 +55,34 @@
       "city": "Surrey",
       "province": "BC",
       "dealer_name": "OpenRoad Mercedes Benz Surrey"
+    },
+    {
+      "pub_id": "acura-of-langley-wbs43ay05nfm99622",
+      "year": 2022,
+      "make": "BMW",
+      "model": "M3",
+      "trim": "Competition",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 64509,
+      "price_cad": 93550.0,
+      "price_note": null,
+      "color": "GREY",
+      "photo_url": "https://img.sm360.ca/images/inventory/",
+      "dealer_id": "acura-of-langley",
+      "vin": "WBS43AY05NFM99622",
+      "stock": "A12A015",
+      "listing_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/m3/2022-bmw-m3-id39314783",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/m3/2022-bmw-m3-id39314783?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:55:19",
+      "snapshot": "2026-10-04T11:09:43",
+      "go_url": "https://carwhisper.ca/go/acura-of-langley-wbs43ay05nfm99622",
+      "region": "Lower Mainland",
+      "city": "Langley",
+      "province": "BC",
+      "dealer_name": "Acura of Langley"
     },
     {
       "pub_id": "brian-jessel-bmw-wbs43ay02pfp25554",

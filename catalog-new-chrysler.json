@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T21:58:11+00:00",
+  "generated_at": "2026-10-08T03:58:59+00:00",
   "condition": "new",
   "make": "chrysler",
   "files": [
@@ -37,77 +37,17 @@
       "condition": "new",
       "make": "chrysler",
       "model": "Pacifica",
-      "shard": "Kootenays",
-      "count": 3,
-      "file": "inventory/new-chrysler-pacifica-kootenays.json",
+      "shard": "part1",
+      "count": 30,
+      "file": "inventory/new-chrysler-pacifica-part1.json",
       "models": [
         {
           "model": "PACIFICA",
-          "count": 1
-        },
-        {
-          "model": "Pacifica",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "chrysler",
-      "model": "Pacifica",
-      "shard": "Lower Mainland",
-      "count": 14,
-      "file": "inventory/new-chrysler-pacifica-lower-mainland.json",
-      "models": [
-        {
-          "model": "Pacifica",
-          "count": 14
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "chrysler",
-      "model": "Pacifica",
-      "shard": "Norte/Cariboo",
-      "count": 6,
-      "file": "inventory/new-chrysler-pacifica-norte-cariboo.json",
-      "models": [
-        {
-          "model": "PACIFICA",
-          "count": 2
-        },
-        {
-          "model": "Pacifica",
           "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "chrysler",
-      "model": "Pacifica",
-      "shard": "Okanagan",
-      "count": 1,
-      "file": "inventory/new-chrysler-pacifica-okanagan.json",
-      "models": [
-        {
-          "model": "PACIFICA",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "chrysler",
-      "model": "Pacifica",
-      "shard": "Thompson-Okanagan",
-      "count": 1,
-      "file": "inventory/new-chrysler-pacifica-thompson-okanagan.json",
-      "models": [
+        },
         {
           "model": "Pacifica",
-          "count": 1
+          "count": 26
         }
       ]
     },
@@ -115,23 +55,9 @@
       "condition": "new",
       "make": "chrysler",
       "model": "Pacifica",
-      "shard": "Vancouver Island",
-      "count": 1,
-      "file": "inventory/new-chrysler-pacifica-vancouver-island.json",
-      "models": [
-        {
-          "model": "Pacifica",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "chrysler",
-      "model": "Pacifica",
-      "shard": "sin-region",
-      "count": 29,
-      "file": "inventory/new-chrysler-pacifica-sin-region.json",
+      "shard": "part2",
+      "count": 30,
+      "file": "inventory/new-chrysler-pacifica-part2.json",
       "models": [
         {
           "model": "PACIFICA",
@@ -139,7 +65,7 @@
         },
         {
           "model": "Pacifica",
-          "count": 28
+          "count": 29
         }
       ]
     },

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T21:58:11+00:00",
-  "snapshot": "2026-10-07T21:58:11+00:00",
+  "generated_at": "2026-10-08T03:58:59+00:00",
+  "snapshot": "2026-10-08T03:58:59+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 15,
+  "count": 16,
   "vehicles": [
     {
       "pub_id": "pioneer-chrysler-jeep-kl47lae20rb224533",
@@ -54,6 +54,35 @@
       "city": "Burnaby",
       "province": "BC",
       "dealer_name": "Carter GM Burnaby"
+    },
+    {
+      "pub_id": "acura-of-langley-kl47lce20rb170470",
+      "year": 2024,
+      "make": "Buick",
+      "model": "Envista",
+      "trim": "FWD Avenir",
+      "body_type": "suv",
+      "drivetrain": "FWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 32106,
+      "price_cad": 24500.0,
+      "price_note": null,
+      "color": "Ebony Twilight Metallic",
+      "photo_url": "https://img.sm360.ca/images/inventory/pacific-honda/buick/envista/2024/39012554/39012554_08596_bc50217207dfe9db04564f9df397c8ef.jpeg",
+      "dealer_id": "acura-of-langley",
+      "vin": "KL47LCE20RB170470",
+      "stock": "H126273",
+      "listing_url": "https://www.acuraoflangley.ca/en/used-inventory/buick/envista/2024-buick-envista-id39012554",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/buick/envista/2024-buick-envista-id39012554?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:57:50",
+      "snapshot": "2026-10-04T11:09:43",
+      "go_url": "https://carwhisper.ca/go/acura-of-langley-kl47lce20rb170470",
+      "region": "Lower Mainland",
+      "city": "Langley",
+      "province": "BC",
+      "dealer_name": "Acura of Langley"
     },
     {
       "pub_id": "bannister-gm-chilliwack-kl47lbe22rb206556",

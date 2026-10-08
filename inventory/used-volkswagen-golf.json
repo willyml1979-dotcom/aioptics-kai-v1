@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T21:58:11+00:00",
-  "snapshot": "2026-10-07T21:58:11+00:00",
+  "generated_at": "2026-10-08T03:58:59+00:00",
+  "snapshot": "2026-10-08T03:58:59+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 20,
+  "count": 21,
   "vehicles": [
     {
       "pub_id": "msa-ford-sales-3vwb17au5jm252371",
@@ -523,6 +523,33 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Victoria Hyundai"
+    },
+    {
+      "pub_id": "go-auto-brampton-chrysler-3vw217au8km506429",
+      "year": 2019,
+      "make": "Volkswagen",
+      "model": "Golf",
+      "trim": "SportWagen",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 99322,
+      "price_cad": 19888.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/3888dcd9-6a27-44db-993e-960c78d73ecc_c830e25b-5334-4ed2-b99d-7b1d1736ad6b.jpg",
+      "dealer_id": "go-auto-brampton-chrysler",
+      "vin": "3VW217AU8KM506429",
+      "stock": "T27KA11",
+      "listing_url": "https://www.bramptonchrysler.ca/vehicles/2019/volkswagen/golf-sportwagen/brampton/on/71503834/?sale_class=used",
+      "dealer_url": "https://www.bramptonchrysler.ca/vehicles/2019/volkswagen/golf-sportwagen/brampton/on/71503834/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:39:57",
+      "snapshot": "2026-10-07T19:44:17",
+      "go_url": "https://carwhisper.ca/go/go-auto-brampton-chrysler-3vw217au8km506429",
+      "city": null,
+      "province": "ON",
+      "dealer_name": "Go Auto Brampton Chrysler"
     }
   ]
 }

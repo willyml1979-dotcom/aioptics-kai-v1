@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T21:58:11+00:00",
-  "snapshot": "2026-10-07T21:58:11+00:00",
+  "generated_at": "2026-10-08T03:58:59+00:00",
+  "snapshot": "2026-10-08T03:58:59+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 15,
+  "count": 16,
   "vehicles": [
     {
       "pub_id": "chilliwack-mitsubishi-wdbrn47j22a347002",
@@ -138,7 +138,7 @@
       "listing_url": "https://www.kiawest.com/vehicles/2023/mercedes-benz/c-class-sedan/coquitlam/bc/71282337/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2023/mercedes-benz/c-class-sedan/coquitlam/bc/71282337/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T04:42:44",
-      "snapshot": "2026-10-07T09:54:25",
+      "snapshot": "2026-10-07T15:58:28",
       "go_url": "https://carwhisper.ca/go/go-kia-west-w1kaf4hb9pr100125",
       "region": "Lower Mainland",
       "city": "Coquitlam",
@@ -415,6 +415,33 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Sherwood Park Chevrolet"
+    },
+    {
+      "pub_id": "country-hills-nissan-55swf8hb9ju237519",
+      "year": 2018,
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "sedan",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 125651,
+      "price_cad": 46916.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/b75c7100-bb98-4507-a7bf-69a5ab00226b_e88d9d17-9d73-41ed-af50-e76496daa8b4.jpg",
+      "dealer_id": "country-hills-nissan",
+      "vin": "55SWF8HB9JU237519",
+      "stock": "CHP1001",
+      "listing_url": "https://www.chnissan.com/vehicles/2018/mercedes-benz/c-class-sedan/calgary/ab/70816073/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2018/mercedes-benz/c-class-sedan/calgary/ab/70816073/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T14:59:55",
+      "snapshot": "2026-10-07T15:08:19",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-55swf8hb9ju237519",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

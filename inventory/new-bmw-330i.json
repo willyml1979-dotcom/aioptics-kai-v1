@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T21:58:11+00:00",
-  "snapshot": "2026-10-07T21:58:11+00:00",
+  "generated_at": "2026-10-08T03:58:59+00:00",
+  "snapshot": "2026-10-08T03:58:59+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "bmw-victoria-mini-victoria-1791388-ontario-limited-3mw89cw0xt8g59745",
@@ -60,6 +60,34 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "BMW Victoria/MINI Victoria (1791388 Ontario Limited)"
+    },
+    {
+      "pub_id": "bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-3mw89cw03t8g81974",
+      "year": 2026,
+      "make": "BMW",
+      "model": "330i",
+      "trim": "Xdrive M Sport",
+      "drivetrain": "FWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 90,
+      "price_cad": 74510.0,
+      "price_note": null,
+      "color": "Grey",
+      "dealer_id": "bmw-nanaimo-mini-nanaimo-1791388-ontario-limited",
+      "vin": "3MW89CW03T8G81974",
+      "stock": "14487657",
+      "listing_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-330i-id14487657.html",
+      "dealer_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-330i-id14487657.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:53:47",
+      "snapshot": "2026-10-07T20:57:34",
+      "go_url": "https://carwhisper.ca/go/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-3mw89cw03t8g81974",
+      "region": "Vancouver Island",
+      "city": "Nanaimo",
+      "province": "BC",
+      "dealer_name": "BMW Nanaimo / MINI Nanaimo (1791388 Ontario Limited)"
     }
   ]
 }

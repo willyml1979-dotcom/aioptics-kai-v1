@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T21:58:11+00:00",
-  "snapshot": "2026-10-07T21:58:11+00:00",
+  "generated_at": "2026-10-08T03:58:59+00:00",
+  "snapshot": "2026-10-08T03:58:59+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "go-kia-west-2t2gkcez2sc047973",
@@ -24,12 +24,38 @@
       "listing_url": "https://www.kiawest.com/vehicles/2025/lexus/nx-hybrid/coquitlam/bc/71207248/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2025/lexus/nx-hybrid/coquitlam/bc/71207248/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T10:49:02",
-      "snapshot": "2026-10-07T09:54:25",
+      "snapshot": "2026-10-07T15:58:28",
       "go_url": "https://carwhisper.ca/go/go-kia-west-2t2gkcez2sc047973",
       "region": "Lower Mainland",
       "city": "Coquitlam",
       "province": "BC",
       "dealer_name": "Go Kia West"
+    },
+    {
+      "pub_id": "country-hills-nissan-2t2gkcez2sc047388",
+      "year": 2025,
+      "make": "Lexus",
+      "model": "NX Hybrid",
+      "propulsion": "hybrid",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 20512,
+      "price_cad": 57167.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/9360c939-fdef-4fec-9d17-906bcd5a05bf_0aefc696-4991-4f1a-bfce-430d4c6c1aa6.jpg",
+      "dealer_id": "country-hills-nissan",
+      "vin": "2T2GKCEZ2SC047388",
+      "stock": "CHP0473",
+      "listing_url": "https://www.chnissan.com/vehicles/2025/lexus/nx-hybrid/calgary/ab/71440530/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2025/lexus/nx-hybrid/calgary/ab/71440530/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T15:04:02",
+      "snapshot": "2026-10-07T15:08:19",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-2t2gkcez2sc047388",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T21:58:11+00:00",
-  "snapshot": "2026-10-07T21:58:11+00:00",
+  "generated_at": "2026-10-08T03:58:59+00:00",
+  "snapshot": "2026-10-08T03:58:59+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 20,
+  "count": 21,
   "vehicles": [
     {
       "pub_id": "maple-ridge-hyundai-1g1p75sz6e7145134",
@@ -416,6 +416,33 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Victoria Hyundai"
+    },
+    {
+      "pub_id": "country-hills-nissan-1g1pg5sc2c7336977",
+      "year": 2012,
+      "make": "Chevrolet",
+      "model": "Cruze",
+      "body_type": "sedan",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 241315,
+      "price_cad": 4798.0,
+      "price_note": null,
+      "color": "Red",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/c2329a12-68a9-4ea6-904f-9e76e221a022_85655e3f-c7ad-4881-84d1-5ef1c3a4b762.jpg",
+      "dealer_id": "country-hills-nissan",
+      "vin": "1G1PG5SC2C7336977",
+      "stock": "CH45669",
+      "listing_url": "https://www.chnissan.com/vehicles/2012/chevrolet/cruze-sedan/calgary/ab/71290209/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2012/chevrolet/cruze-sedan/calgary/ab/71290209/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T14:58:48",
+      "snapshot": "2026-10-07T15:08:19",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-1g1pg5sc2c7336977",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Country Hills Nissan"
     },
     {
       "pub_id": "sherwood-park-chevrolet-1g1pc5sb8e7293249",

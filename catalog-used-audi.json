@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T21:58:11+00:00",
+  "generated_at": "2026-10-08T03:58:59+00:00",
   "condition": "used",
   "make": "audi",
   "files": [
@@ -7,12 +7,12 @@
       "condition": "used",
       "make": "audi",
       "model": "Q5",
-      "count": 36,
+      "count": 37,
       "file": "inventory/used-audi-q5.json",
       "models": [
         {
           "model": "Q5",
-          "count": 36
+          "count": 37
         }
       ]
     },
@@ -20,12 +20,12 @@
       "condition": "used",
       "make": "audi",
       "model": "Q3",
-      "count": 27,
+      "count": 29,
       "file": "inventory/used-audi-q3.json",
       "models": [
         {
           "model": "Q3",
-          "count": 27
+          "count": 29
         }
       ]
     },
@@ -137,12 +137,12 @@
       "condition": "used",
       "make": "audi",
       "model": "Q8",
-      "count": 3,
+      "count": 5,
       "file": "inventory/used-audi-q8.json",
       "models": [
         {
           "model": "Q8",
-          "count": 3
+          "count": 5
         }
       ]
     },
@@ -214,6 +214,19 @@
     {
       "condition": "used",
       "make": "audi",
+      "model": "S3",
+      "count": 2,
+      "file": "inventory/used-audi-s3.json",
+      "models": [
+        {
+          "model": "S3",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "audi",
       "model": "TT RS",
       "count": 5,
       "file": "inventory/used-audi-tt-rs.json",
@@ -221,6 +234,19 @@
         {
           "model": "TT RS",
           "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "audi",
+      "model": "New Q5",
+      "count": 4,
+      "file": "inventory/used-audi-new-q5.json",
+      "models": [
+        {
+          "model": "New Q5",
+          "count": 4
         }
       ]
     },
@@ -292,12 +318,90 @@
     {
       "condition": "used",
       "make": "audi",
+      "model": "New SQ5",
+      "count": 2,
+      "file": "inventory/used-audi-new-sq5.json",
+      "models": [
+        {
+          "model": "New SQ5",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "audi",
+      "model": "RS 3",
+      "count": 4,
+      "file": "inventory/used-audi-rs-3.json",
+      "models": [
+        {
+          "model": "RS 3",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "audi",
+      "model": "RS 5 Sportback",
+      "count": 2,
+      "file": "inventory/used-audi-rs-5-sportback.json",
+      "models": [
+        {
+          "model": "RS 5 Sportback",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "audi",
       "model": "RS Q8",
-      "count": 3,
+      "count": 4,
       "file": "inventory/used-audi-rs-q8.json",
       "models": [
         {
           "model": "RS Q8",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "audi",
+      "model": "RS 6 Avant 4.0T quattro 8sp S-tronic",
+      "count": 1,
+      "file": "inventory/used-audi-rs-6-avant-4-0t-quattro-8sp-s-tronic.json",
+      "models": [
+        {
+          "model": "RS 6 Avant 4.0T quattro 8sp S-tronic",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "audi",
+      "model": "RS 6 Avant performance 4.0 TFSI quattro",
+      "count": 2,
+      "file": "inventory/used-audi-rs-6-avant-performance-4-0-tfsi-quattro.json",
+      "models": [
+        {
+          "model": "RS 6 Avant performance 4.0 TFSI quattro",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "audi",
+      "model": "RS Q8 4.0T quattro 8sp Tiptronic",
+      "count": 3,
+      "file": "inventory/used-audi-rs-q8-4-0t-quattro-8sp-tiptronic.json",
+      "models": [
+        {
+          "model": "RS Q8 4.0T quattro 8sp Tiptronic",
           "count": 3
         }
       ]
@@ -357,19 +461,6 @@
     {
       "condition": "used",
       "make": "audi",
-      "model": "RS 3",
-      "count": 3,
-      "file": "inventory/used-audi-rs-3.json",
-      "models": [
-        {
-          "model": "RS 3",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "audi",
       "model": "Q4 e-tron",
       "count": 2,
       "file": "inventory/used-audi-q4-e-tron.json",
@@ -409,90 +500,12 @@
     {
       "condition": "used",
       "make": "audi",
-      "model": "S3",
-      "count": 1,
-      "file": "inventory/used-audi-s3.json",
-      "models": [
-        {
-          "model": "S3",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "audi",
-      "model": "New Q5",
-      "count": 2,
-      "file": "inventory/used-audi-new-q5.json",
-      "models": [
-        {
-          "model": "New Q5",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "audi",
-      "model": "New SQ5",
-      "count": 1,
-      "file": "inventory/used-audi-new-sq5.json",
-      "models": [
-        {
-          "model": "New SQ5",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "audi",
-      "model": "RS 5 Sportback",
-      "count": 1,
-      "file": "inventory/used-audi-rs-5-sportback.json",
-      "models": [
-        {
-          "model": "RS 5 Sportback",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "audi",
       "model": "S74.0T 4dr All-Wheel Drive quattro Sportback",
       "count": 1,
       "file": "inventory/used-audi-s74-0t-4dr-all-wheel-drive-quattro-sportback.json",
       "models": [
         {
           "model": "S74.0T 4dr All-Wheel Drive quattro Sportback",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "audi",
-      "model": "RS 6 Avant performance 4.0 TFSI quattro",
-      "count": 1,
-      "file": "inventory/used-audi-rs-6-avant-performance-4-0-tfsi-quattro.json",
-      "models": [
-        {
-          "model": "RS 6 Avant performance 4.0 TFSI quattro",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "audi",
-      "model": "RS Q8 4.0T quattro 8sp Tiptronic",
-      "count": 1,
-      "file": "inventory/used-audi-rs-q8-4-0t-quattro-8sp-tiptronic.json",
-      "models": [
-        {
-          "model": "RS Q8 4.0T quattro 8sp Tiptronic",
           "count": 1
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T21:58:11+00:00",
+  "generated_at": "2026-10-08T03:58:59+00:00",
   "condition": "used",
   "make": "mazda",
   "files": [
@@ -20,13 +20,13 @@
       "condition": "used",
       "make": "mazda",
       "model": "CX-5",
-      "shard": "Lower Mainland",
-      "count": 32,
-      "file": "inventory/used-mazda-cx-5-lower-mainland.json",
+      "shard": "part1",
+      "count": 26,
+      "file": "inventory/used-mazda-cx-5-part1.json",
       "models": [
         {
           "model": "CX-5",
-          "count": 32
+          "count": 26
         }
       ]
     },
@@ -34,13 +34,13 @@
       "condition": "used",
       "make": "mazda",
       "model": "CX-5",
-      "shard": "Norte/Cariboo",
-      "count": 2,
-      "file": "inventory/used-mazda-cx-5-norte-cariboo.json",
+      "shard": "part2",
+      "count": 26,
+      "file": "inventory/used-mazda-cx-5-part2.json",
       "models": [
         {
           "model": "CX-5",
-          "count": 2
+          "count": 26
         }
       ]
     },
@@ -48,55 +48,13 @@
       "condition": "used",
       "make": "mazda",
       "model": "CX-5",
-      "shard": "Okanagan",
-      "count": 17,
-      "file": "inventory/used-mazda-cx-5-okanagan.json",
+      "shard": "part3",
+      "count": 26,
+      "file": "inventory/used-mazda-cx-5-part3.json",
       "models": [
         {
           "model": "CX-5",
-          "count": 17
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mazda",
-      "model": "CX-5",
-      "shard": "Thompson-Okanagan",
-      "count": 5,
-      "file": "inventory/used-mazda-cx-5-thompson-okanagan.json",
-      "models": [
-        {
-          "model": "CX-5",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mazda",
-      "model": "CX-5",
-      "shard": "Vancouver Island",
-      "count": 7,
-      "file": "inventory/used-mazda-cx-5-vancouver-island.json",
-      "models": [
-        {
-          "model": "CX-5",
-          "count": 7
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mazda",
-      "model": "CX-5",
-      "shard": "sin-region",
-      "count": 13,
-      "file": "inventory/used-mazda-cx-5-sin-region.json",
-      "models": [
-        {
-          "model": "CX-5",
-          "count": 13
+          "count": 26
         }
       ]
     },
@@ -117,12 +75,12 @@
       "condition": "used",
       "make": "mazda",
       "model": "Mazda3 Sport",
-      "count": 17,
+      "count": 18,
       "file": "inventory/used-mazda-mazda3-sport.json",
       "models": [
         {
           "model": "Mazda3 Sport",
-          "count": 17
+          "count": 18
         }
       ]
     },
@@ -169,12 +127,12 @@
       "condition": "used",
       "make": "mazda",
       "model": "CX-30",
-      "count": 29,
+      "count": 31,
       "file": "inventory/used-mazda-cx-30.json",
       "models": [
         {
           "model": "CX-30",
-          "count": 29
+          "count": 31
         }
       ]
     },
@@ -208,12 +166,12 @@
       "condition": "used",
       "make": "mazda",
       "model": "CX-90 MHEV",
-      "count": 15,
+      "count": 16,
       "file": "inventory/used-mazda-cx-90-mhev.json",
       "models": [
         {
           "model": "CX-90 MHEV",
-          "count": 15
+          "count": 16
         }
       ]
     },
@@ -247,12 +205,12 @@
       "condition": "used",
       "make": "mazda",
       "model": "CX-70 PHEV",
-      "count": 7,
+      "count": 8,
       "file": "inventory/used-mazda-cx-70-phev.json",
       "models": [
         {
           "model": "CX-70 PHEV",
-          "count": 7
+          "count": 8
         }
       ]
     },

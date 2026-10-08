@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T21:58:11+00:00",
-  "snapshot": "2026-10-07T21:58:11+00:00",
+  "generated_at": "2026-10-08T03:58:59+00:00",
+  "snapshot": "2026-10-08T03:58:59+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "kootenay-chrysler-dodge-jeep-ram-ltd-1c4pjmcs9hd214831",
@@ -31,6 +31,29 @@
       "city": "Trail",
       "province": "BC",
       "dealer_name": "Kootenay Chrysler Dodge Jeep Ram Ltd."
+    },
+    {
+      "pub_id": "a-m-ford-sales-limited-1c4pjmcnxkd173322",
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 16989.0,
+      "price_note": null,
+      "dealer_id": "a-m-ford-sales-limited",
+      "vin": "1C4PJMCNXKD173322",
+      "stock": 14320876,
+      "listing_url": "https://www.amford.com/used/2019-Jeep-Cherokee.html",
+      "dealer_url": "https://www.amford.com/used/2019-Jeep-Cherokee.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T20:54:26",
+      "snapshot": "2026-10-07T14:47:58",
+      "go_url": "https://carwhisper.ca/go/a-m-ford-sales-limited-1c4pjmcnxkd173322",
+      "region": "Kootenays",
+      "city": "Trail",
+      "province": "BC",
+      "dealer_name": "A.M. Ford Sales Limited"
     },
     {
       "pub_id": "kootenay-chrysler-dodge-jeep-ram-ltd-1c4pjmbn4ld598022",

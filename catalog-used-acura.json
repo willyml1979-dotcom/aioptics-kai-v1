@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T21:58:11+00:00",
+  "generated_at": "2026-10-08T03:58:59+00:00",
   "condition": "used",
   "make": "acura",
   "files": [
@@ -7,12 +7,12 @@
       "condition": "used",
       "make": "acura",
       "model": "ILX",
-      "count": 4,
+      "count": 5,
       "file": "inventory/used-acura-ilx.json",
       "models": [
         {
           "model": "ILX",
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -34,12 +34,12 @@
       "make": "acura",
       "model": "RDX",
       "shard": "Lower Mainland",
-      "count": 25,
+      "count": 29,
       "file": "inventory/used-acura-rdx-lower-mainland.json",
       "models": [
         {
           "model": "RDX",
-          "count": 25
+          "count": 29
         }
       ]
     },
@@ -102,14 +102,27 @@
     {
       "condition": "used",
       "make": "acura",
+      "model": "TSX",
+      "count": 1,
+      "file": "inventory/used-acura-tsx.json",
+      "models": [
+        {
+          "model": "TSX",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "acura",
       "model": "MDX",
       "shard": "Lower Mainland",
-      "count": 11,
+      "count": 24,
       "file": "inventory/used-acura-mdx-lower-mainland.json",
       "models": [
         {
           "model": "MDX",
-          "count": 11
+          "count": 24
         }
       ]
     },
@@ -159,12 +172,12 @@
       "condition": "used",
       "make": "acura",
       "model": "TLX",
-      "count": 2,
+      "count": 3,
       "file": "inventory/used-acura-tlx.json",
       "models": [
         {
           "model": "TLX",
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -172,12 +185,12 @@
       "condition": "used",
       "make": "acura",
       "model": "Integra",
-      "count": 13,
+      "count": 20,
       "file": "inventory/used-acura-integra.json",
       "models": [
         {
           "model": "Integra",
-          "count": 13
+          "count": 20
         }
       ]
     },
@@ -185,12 +198,12 @@
       "condition": "used",
       "make": "acura",
       "model": "ADX",
-      "count": 6,
+      "count": 7,
       "file": "inventory/used-acura-adx.json",
       "models": [
         {
           "model": "ADX",
-          "count": 6
+          "count": 7
         }
       ]
     },
@@ -204,6 +217,32 @@
         {
           "model": "NSX",
           "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "acura",
+      "model": "ADX A-Spec",
+      "count": 2,
+      "file": "inventory/used-acura-adx-a-spec.json",
+      "models": [
+        {
+          "model": "ADX A-Spec",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "acura",
+      "model": "TLX SH-AWD A-Spec",
+      "count": 2,
+      "file": "inventory/used-acura-tlx-sh-awd-a-spec.json",
+      "models": [
+        {
+          "model": "TLX SH-AWD A-Spec",
+          "count": 2
         }
       ]
     },
@@ -229,32 +268,6 @@
       "models": [
         {
           "model": "MDX A-SPEC",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "acura",
-      "model": "ADX A-Spec",
-      "count": 1,
-      "file": "inventory/used-acura-adx-a-spec.json",
-      "models": [
-        {
-          "model": "ADX A-Spec",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "acura",
-      "model": "TLX SH-AWD A-Spec",
-      "count": 1,
-      "file": "inventory/used-acura-tlx-sh-awd-a-spec.json",
-      "models": [
-        {
-          "model": "TLX SH-AWD A-Spec",
           "count": 1
         }
       ]
