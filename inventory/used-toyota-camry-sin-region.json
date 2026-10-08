@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-08T03:58:59+00:00",
-  "snapshot": "2026-10-08T03:58:59+00:00",
+  "generated_at": "2026-10-08T09:59:45+00:00",
+  "snapshot": "2026-10-08T09:59:45+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 9,
+  "count": 10,
   "vehicles": [
     {
       "pub_id": "country-hills-nissan-4t1b11hk1ku214522",
@@ -195,6 +195,33 @@
       "city": null,
       "province": "BC",
       "dealer_name": "Pacific Honda"
+    },
+    {
+      "pub_id": "sherwood-park-chevrolet-4t1k61ak8mu485382",
+      "year": 2021,
+      "make": "Toyota",
+      "model": "Camry",
+      "body_type": "sedan",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 98501,
+      "price_cad": 29980.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/5cb7d6da-aa9f-420d-830e-458727a8e3c0_dc7be8df-a043-46cf-85b9-d0638d6d373a.jpg",
+      "dealer_id": "sherwood-park-chevrolet",
+      "vin": "4T1K61AK8MU485382",
+      "stock": "S-261S0",
+      "listing_url": "https://www.sherwoodparkchev.com/vehicles/2021/toyota/camry-sedan/sherwood-park/ab/ad13146789/?sale_class=used",
+      "dealer_url": "https://www.sherwoodparkchev.com/vehicles/2021/toyota/camry-sedan/sherwood-park/ab/ad13146789/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T01:14:34",
+      "snapshot": "2026-10-08T01:23:56",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-4t1k61ak8mu485382",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Chevrolet"
     },
     {
       "pub_id": "tacoma-dodge-chrysler-jeep-ram-4t1daack5su520042",

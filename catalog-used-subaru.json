@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T03:58:59+00:00",
+  "generated_at": "2026-10-08T09:59:45+00:00",
   "condition": "used",
   "make": "subaru",
   "files": [
@@ -7,12 +7,12 @@
       "condition": "used",
       "make": "subaru",
       "model": "Legacy",
-      "count": 9,
+      "count": 10,
       "file": "inventory/used-subaru-legacy.json",
       "models": [
         {
           "model": "Legacy",
-          "count": 9
+          "count": 10
         }
       ]
     },
@@ -21,12 +21,12 @@
       "make": "subaru",
       "model": "Crosstrek",
       "shard": "part1",
-      "count": 28,
+      "count": 31,
       "file": "inventory/used-subaru-crosstrek-part1.json",
       "models": [
         {
           "model": "Crosstrek",
-          "count": 28
+          "count": 31
         }
       ]
     },
@@ -35,12 +35,12 @@
       "make": "subaru",
       "model": "Crosstrek",
       "shard": "part2",
-      "count": 28,
+      "count": 31,
       "file": "inventory/used-subaru-crosstrek-part2.json",
       "models": [
         {
           "model": "Crosstrek",
-          "count": 28
+          "count": 31
         }
       ]
     },
@@ -49,12 +49,12 @@
       "make": "subaru",
       "model": "Crosstrek",
       "shard": "part3",
-      "count": 28,
+      "count": 31,
       "file": "inventory/used-subaru-crosstrek-part3.json",
       "models": [
         {
           "model": "Crosstrek",
-          "count": 28
+          "count": 31
         }
       ]
     },
@@ -63,12 +63,12 @@
       "make": "subaru",
       "model": "Crosstrek",
       "shard": "part4",
-      "count": 28,
+      "count": 31,
       "file": "inventory/used-subaru-crosstrek-part4.json",
       "models": [
         {
           "model": "Crosstrek",
-          "count": 28
+          "count": 31
         }
       ]
     },
@@ -77,12 +77,26 @@
       "make": "subaru",
       "model": "Crosstrek",
       "shard": "part5",
-      "count": 26,
+      "count": 31,
       "file": "inventory/used-subaru-crosstrek-part5.json",
       "models": [
         {
           "model": "Crosstrek",
-          "count": 26
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Crosstrek",
+      "shard": "part6",
+      "count": 28,
+      "file": "inventory/used-subaru-crosstrek-part6.json",
+      "models": [
+        {
+          "model": "Crosstrek",
+          "count": 28
         }
       ]
     },
@@ -105,12 +119,12 @@
       "make": "subaru",
       "model": "Outback",
       "shard": "Lower Mainland",
-      "count": 12,
+      "count": 18,
       "file": "inventory/used-subaru-outback-lower-mainland.json",
       "models": [
         {
           "model": "Outback",
-          "count": 12
+          "count": 18
         }
       ]
     },
@@ -189,12 +203,12 @@
       "make": "subaru",
       "model": "WRX",
       "shard": "Lower Mainland",
-      "count": 9,
+      "count": 12,
       "file": "inventory/used-subaru-wrx-lower-mainland.json",
       "models": [
         {
           "model": "WRX",
-          "count": 9
+          "count": 12
         }
       ]
     },
@@ -272,12 +286,12 @@
       "condition": "used",
       "make": "subaru",
       "model": "Solterra",
-      "count": 7,
+      "count": 8,
       "file": "inventory/used-subaru-solterra.json",
       "models": [
         {
           "model": "Solterra",
-          "count": 7
+          "count": 8
         }
       ]
     },
@@ -286,12 +300,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "part1",
-      "count": 31,
+      "count": 32,
       "file": "inventory/used-subaru-forester-part1.json",
       "models": [
         {
           "model": "Forester",
-          "count": 31
+          "count": 32
         }
       ]
     },
@@ -300,12 +314,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "part2",
-      "count": 31,
+      "count": 32,
       "file": "inventory/used-subaru-forester-part2.json",
       "models": [
         {
           "model": "Forester",
-          "count": 31
+          "count": 32
         }
       ]
     },
@@ -314,12 +328,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "part3",
-      "count": 31,
+      "count": 32,
       "file": "inventory/used-subaru-forester-part3.json",
       "models": [
         {
           "model": "Forester",
-          "count": 31
+          "count": 32
         }
       ]
     },
@@ -328,12 +342,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "part4",
-      "count": 31,
+      "count": 32,
       "file": "inventory/used-subaru-forester-part4.json",
       "models": [
         {
           "model": "Forester",
-          "count": 31
+          "count": 32
         }
       ]
     },
@@ -342,8 +356,22 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "part5",
-      "count": 31,
+      "count": 32,
       "file": "inventory/used-subaru-forester-part5.json",
+      "models": [
+        {
+          "model": "Forester",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Forester",
+      "shard": "part6",
+      "count": 31,
+      "file": "inventory/used-subaru-forester-part6.json",
       "models": [
         {
           "model": "Forester",
@@ -355,12 +383,69 @@
       "condition": "used",
       "make": "subaru",
       "model": "Impreza",
-      "count": 28,
-      "file": "inventory/used-subaru-impreza.json",
+      "shard": "Lower Mainland",
+      "count": 9,
+      "file": "inventory/used-subaru-impreza-lower-mainland.json",
       "models": [
         {
           "model": "Impreza",
-          "count": 28
+          "count": 9
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Impreza",
+      "shard": "Norte/Cariboo",
+      "count": 2,
+      "file": "inventory/used-subaru-impreza-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Impreza",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Impreza",
+      "shard": "Okanagan",
+      "count": 6,
+      "file": "inventory/used-subaru-impreza-okanagan.json",
+      "models": [
+        {
+          "model": "Impreza",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Impreza",
+      "shard": "Vancouver Island",
+      "count": 3,
+      "file": "inventory/used-subaru-impreza-vancouver-island.json",
+      "models": [
+        {
+          "model": "Impreza",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Impreza",
+      "shard": "sin-region",
+      "count": 13,
+      "file": "inventory/used-subaru-impreza-sin-region.json",
+      "models": [
+        {
+          "model": "Impreza",
+          "count": 13
         }
       ]
     },
@@ -368,12 +453,12 @@
       "condition": "used",
       "make": "subaru",
       "model": "Ascent",
-      "count": 27,
+      "count": 28,
       "file": "inventory/used-subaru-ascent.json",
       "models": [
         {
           "model": "Ascent",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -387,6 +472,19 @@
         {
           "model": "BRZ",
           "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "WRX Sport",
+      "count": 2,
+      "file": "inventory/used-subaru-wrx-sport.json",
+      "models": [
+        {
+          "model": "WRX Sport",
+          "count": 2
         }
       ]
     },
@@ -637,19 +735,6 @@
       "models": [
         {
           "model": "Crosstrek Touring Pkg CVT",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "subaru",
-      "model": "WRX Sport",
-      "count": 1,
-      "file": "inventory/used-subaru-wrx-sport.json",
-      "models": [
-        {
-          "model": "WRX Sport",
           "count": 1
         }
       ]

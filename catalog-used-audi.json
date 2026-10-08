@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T03:58:59+00:00",
+  "generated_at": "2026-10-08T09:59:45+00:00",
   "condition": "used",
   "make": "audi",
   "files": [
@@ -7,12 +7,55 @@
       "condition": "used",
       "make": "audi",
       "model": "Q5",
-      "count": 37,
-      "file": "inventory/used-audi-q5.json",
+      "shard": "Lower Mainland",
+      "count": 15,
+      "file": "inventory/used-audi-q5-lower-mainland.json",
       "models": [
         {
           "model": "Q5",
-          "count": 37
+          "count": 15
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "audi",
+      "model": "Q5",
+      "shard": "Okanagan",
+      "count": 7,
+      "file": "inventory/used-audi-q5-okanagan.json",
+      "models": [
+        {
+          "model": "Q5",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "audi",
+      "model": "Q5",
+      "shard": "Vancouver Island",
+      "count": 9,
+      "file": "inventory/used-audi-q5-vancouver-island.json",
+      "models": [
+        {
+          "model": "Q5",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "audi",
+      "model": "Q5",
+      "shard": "sin-region",
+      "count": 7,
+      "file": "inventory/used-audi-q5-sin-region.json",
+      "models": [
+        {
+          "model": "Q5",
+          "count": 7
         }
       ]
     },

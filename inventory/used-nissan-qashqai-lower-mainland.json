@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-08T03:58:59+00:00",
-  "snapshot": "2026-10-08T03:58:59+00:00",
+  "generated_at": "2026-10-08T09:59:45+00:00",
+  "snapshot": "2026-10-08T09:59:45+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 10,
+  "count": 11,
   "vehicles": [
     {
       "pub_id": "go-kia-west-jn1bj1cr5kw317121",
@@ -25,7 +25,7 @@
       "listing_url": "https://www.kiawest.com/vehicles/2019/nissan/qashqai/coquitlam/bc/70511836/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2019/nissan/qashqai/coquitlam/bc/70511836/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T09:53:03",
-      "snapshot": "2026-10-07T15:58:28",
+      "snapshot": "2026-10-07T22:04:11",
       "go_url": "https://carwhisper.ca/go/go-kia-west-jn1bj1cr5kw317121",
       "region": "Lower Mainland",
       "city": "Coquitlam",
@@ -147,7 +147,7 @@
       "listing_url": "https://www.kiawest.com/vehicles/2023/nissan/qashqai/coquitlam/bc/71133528/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2023/nissan/qashqai/coquitlam/bc/71133528/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T11:02:39",
-      "snapshot": "2026-10-07T15:58:28",
+      "snapshot": "2026-10-07T22:04:11",
       "go_url": "https://carwhisper.ca/go/go-kia-west-jn1bj1aw0pw113746",
       "region": "Lower Mainland",
       "city": "Coquitlam",
@@ -263,6 +263,34 @@
       "city": "Mission",
       "province": "BC",
       "dealer_name": "Pioneer Chrysler Jeep"
+    },
+    {
+      "pub_id": "acura-of-langley-jn1bj1bw1pw101314",
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Qashqai",
+      "trim": "SV AWD CVT",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 32953,
+      "price_cad": 24888.0,
+      "price_note": null,
+      "color": "Scarlett Ember Pearl Metallic",
+      "photo_url": "https://img.sm360.ca/images/inventory/southside-nissan/nissan/qashqai/2023/39191360/39191360_00211_314060d7b8f8302bb1ddb2f77e67f998.jpeg",
+      "dealer_id": "acura-of-langley",
+      "vin": "JN1BJ1BW1PW101314",
+      "stock": "N226102",
+      "listing_url": "https://www.acuraoflangley.ca/en/used-inventory/nissan/qashqai/2023-nissan-qashqai-id39191360",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/nissan/qashqai/2023-nissan-qashqai-id39191360?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T21:02:28",
+      "snapshot": "2026-10-07T21:39:03",
+      "go_url": "https://carwhisper.ca/go/acura-of-langley-jn1bj1bw1pw101314",
+      "region": "Lower Mainland",
+      "city": "Langley",
+      "province": "BC",
+      "dealer_name": "Acura of Langley"
     }
   ]
 }

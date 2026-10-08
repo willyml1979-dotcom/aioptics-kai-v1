@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-08T03:58:59+00:00",
-  "snapshot": "2026-10-08T03:58:59+00:00",
+  "generated_at": "2026-10-08T09:59:45+00:00",
+  "snapshot": "2026-10-08T09:59:45+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "pioneer-chrysler-jeep-wp0ab2y11lsa52448",
@@ -27,6 +27,36 @@
       "city": "Mission",
       "province": "BC",
       "dealer_name": "Pioneer Chrysler Jeep"
+    },
+    {
+      "pub_id": "acura-of-langley-wp0ab2y13nsa43821",
+      "year": 2022,
+      "make": "Porsche",
+      "model": "Taycan",
+      "trim": "4S",
+      "body_type": "sedan",
+      "drivetrain": "4WD",
+      "propulsion": "electric",
+      "propulsion_source": "description",
+      "propulsion_confidence": "medium",
+      "condition": "used",
+      "odometer_km": 17758,
+      "price_cad": 86988.0,
+      "price_note": null,
+      "color": "Volcano Grey Metallic",
+      "photo_url": "https://img.sm360.ca/images/inventory/acura-of-langley/porsche/taycan/2022/39061087/39061087_02073_30037938e348de2a7140191859424777.jpeg",
+      "dealer_id": "acura-of-langley",
+      "vin": "WP0AB2Y13NSA43821",
+      "stock": "A12C016",
+      "listing_url": "https://www.acuraoflangley.ca/en/used-inventory/porsche/taycan/2022-porsche-taycan-id39061087",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/porsche/taycan/2022-porsche-taycan-id39061087?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T21:06:55",
+      "snapshot": "2026-10-07T21:39:03",
+      "go_url": "https://carwhisper.ca/go/acura-of-langley-wp0ab2y13nsa43821",
+      "region": "Lower Mainland",
+      "city": "Langley",
+      "province": "BC",
+      "dealer_name": "Acura of Langley"
     },
     {
       "pub_id": "pacific-honda-wp0ab2y12psa36619",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T03:58:59+00:00",
+  "generated_at": "2026-10-08T09:59:45+00:00",
   "condition": "used",
   "make": "mitsubishi",
   "files": [
@@ -91,12 +91,12 @@
       "make": "mitsubishi",
       "model": "RVR",
       "shard": "sin-region",
-      "count": 8,
+      "count": 7,
       "file": "inventory/used-mitsubishi-rvr-sin-region.json",
       "models": [
         {
           "model": "RVR",
-          "count": 8
+          "count": 7
         }
       ]
     },
@@ -104,12 +104,12 @@
       "condition": "used",
       "make": "mitsubishi",
       "model": "Mirage",
-      "count": 14,
+      "count": 15,
       "file": "inventory/used-mitsubishi-mirage.json",
       "models": [
         {
           "model": "Mirage",
-          "count": 14
+          "count": 15
         }
       ]
     },
@@ -118,12 +118,12 @@
       "make": "mitsubishi",
       "model": "Outlander",
       "shard": "part1",
-      "count": 26,
+      "count": 27,
       "file": "inventory/used-mitsubishi-outlander-part1.json",
       "models": [
         {
           "model": "Outlander",
-          "count": 26
+          "count": 27
         }
       ]
     },
@@ -132,12 +132,12 @@
       "make": "mitsubishi",
       "model": "Outlander",
       "shard": "part2",
-      "count": 26,
+      "count": 27,
       "file": "inventory/used-mitsubishi-outlander-part2.json",
       "models": [
         {
           "model": "Outlander",
-          "count": 26
+          "count": 27
         }
       ]
     },
@@ -146,12 +146,12 @@
       "make": "mitsubishi",
       "model": "Outlander",
       "shard": "part3",
-      "count": 24,
+      "count": 26,
       "file": "inventory/used-mitsubishi-outlander-part3.json",
       "models": [
         {
           "model": "Outlander",
-          "count": 24
+          "count": 26
         }
       ]
     },
@@ -284,6 +284,19 @@
     {
       "condition": "used",
       "make": "mitsubishi",
+      "model": "Outlander Plug-In Hybrid",
+      "count": 3,
+      "file": "inventory/used-mitsubishi-outlander-plug-in-hybrid.json",
+      "models": [
+        {
+          "model": "Outlander Plug-In Hybrid",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
       "model": "OutlanderSE",
       "count": 1,
       "file": "inventory/used-mitsubishi-outlanderse.json",
@@ -291,19 +304,6 @@
         {
           "model": "OutlanderSE",
           "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mitsubishi",
-      "model": "Outlander Plug-In Hybrid",
-      "count": 2,
-      "file": "inventory/used-mitsubishi-outlander-plug-in-hybrid.json",
-      "models": [
-        {
-          "model": "Outlander Plug-In Hybrid",
-          "count": 2
         }
       ]
     },

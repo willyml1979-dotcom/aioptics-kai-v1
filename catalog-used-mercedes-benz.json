@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T03:58:59+00:00",
+  "generated_at": "2026-10-08T09:59:45+00:00",
   "condition": "used",
   "make": "mercedes-benz",
   "files": [
@@ -286,6 +286,19 @@
     {
       "condition": "used",
       "make": "mercedes-benz",
+      "model": "Sprinter Cargo",
+      "count": 12,
+      "file": "inventory/used-mercedes-benz-sprinter-cargo.json",
+      "models": [
+        {
+          "model": "Sprinter Cargo",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
       "model": "EQB350",
       "count": 2,
       "file": "inventory/used-mercedes-benz-eqb350.json",
@@ -319,19 +332,6 @@
         {
           "model": "C 63 AMG",
           "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mercedes-benz",
-      "model": "Sprinter Cargo",
-      "count": 9,
-      "file": "inventory/used-mercedes-benz-sprinter-cargo.json",
-      "models": [
-        {
-          "model": "Sprinter Cargo",
-          "count": 9
         }
       ]
     },
@@ -573,12 +573,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLE53",
-      "count": 7,
+      "count": 8,
       "file": "inventory/used-mercedes-benz-gle53.json",
       "models": [
         {
           "model": "GLE53",
-          "count": 7
+          "count": 8
         }
       ]
     },
@@ -664,12 +664,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLS450",
-      "count": 6,
+      "count": 9,
       "file": "inventory/used-mercedes-benz-gls450.json",
       "models": [
         {
           "model": "GLS450",
-          "count": 6
+          "count": 9
         }
       ]
     },
@@ -677,12 +677,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLE63 S",
-      "count": 2,
+      "count": 3,
       "file": "inventory/used-mercedes-benz-gle63-s.json",
       "models": [
         {
           "model": "GLE63 S",
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -741,6 +741,32 @@
     {
       "condition": "used",
       "make": "mercedes-benz",
+      "model": "GLE580",
+      "count": 2,
+      "file": "inventory/used-mercedes-benz-gle580.json",
+      "models": [
+        {
+          "model": "GLE580",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "Maybach",
+      "count": 2,
+      "file": "inventory/used-mercedes-benz-maybach.json",
+      "models": [
+        {
+          "model": "Maybach",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
       "model": "G-Class",
       "count": 3,
       "file": "inventory/used-mercedes-benz-g-class.json",
@@ -748,6 +774,19 @@
         {
           "model": "G-Class",
           "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "S580",
+      "count": 1,
+      "file": "inventory/used-mercedes-benz-s580.json",
+      "models": [
+        {
+          "model": "S580",
+          "count": 1
         }
       ]
     },
@@ -839,6 +878,19 @@
         {
           "model": "GLE450 4MATIC",
           "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "GLS63 AMG 4MATIC+",
+      "count": 1,
+      "file": "inventory/used-mercedes-benz-gls63-amg-4matic.json",
+      "models": [
+        {
+          "model": "GLS63 AMG 4MATIC+",
+          "count": 1
         }
       ]
     },
@@ -1235,25 +1287,12 @@
     {
       "condition": "used",
       "make": "mercedes-benz",
-      "model": "GLE580",
+      "model": "CLK-Class Convertible",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-gle580.json",
+      "file": "inventory/used-mercedes-benz-clk-class-convertible.json",
       "models": [
         {
-          "model": "GLE580",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mercedes-benz",
-      "model": "Maybach",
-      "count": 1,
-      "file": "inventory/used-mercedes-benz-maybach.json",
-      "models": [
-        {
-          "model": "Maybach",
+          "model": "CLK-Class Convertible",
           "count": 1
         }
       ]

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-08T03:58:59+00:00",
-  "snapshot": "2026-10-08T03:58:59+00:00",
+  "generated_at": "2026-10-08T09:59:45+00:00",
+  "snapshot": "2026-10-08T09:59:45+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "maple-ridge-hyundai-1fbax2xv4hka79237",
@@ -150,6 +150,33 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Country Hills Nissan"
+    },
+    {
+      "pub_id": "sherwood-park-chevrolet-1fbax9cg3tka03436",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Transit",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 11446,
+      "price_cad": 80980.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/01639162-488a-4cbc-892b-b9800f0e237d_e11bf5db-294d-48e4-ad8c-5502699cb1a6.jpg",
+      "dealer_id": "sherwood-park-chevrolet",
+      "vin": "1FBAX9CG3TKA03436",
+      "stock": "S-BH364",
+      "listing_url": "https://www.sherwoodparkchev.com/vehicles/2026/ford/transit/edmonton/ab/71226339/?sale_class=used",
+      "dealer_url": "https://www.sherwoodparkchev.com/vehicles/2026/ford/transit/edmonton/ab/71226339/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T01:19:56",
+      "snapshot": "2026-10-08T01:23:56",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-1fbax9cg3tka03436",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Chevrolet"
     }
   ]
 }

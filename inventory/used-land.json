@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-08T03:58:59+00:00",
-  "snapshot": "2026-10-08T03:58:59+00:00",
+  "generated_at": "2026-10-08T09:59:45+00:00",
+  "snapshot": "2026-10-08T09:59:45+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "country-hills-nissan-saljy124xwa781222",
@@ -27,6 +27,31 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Country Hills Nissan"
+    },
+    {
+      "pub_id": "go-downtown-kia-salct2bg9hh649473",
+      "year": 2017,
+      "make": "Land",
+      "model": "Rover Discovery Sport AWD 4dr HSE LUXURY",
+      "drivetrain": "AWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 157795,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "White",
+      "dealer_id": "go-downtown-kia",
+      "vin": "SALCT2BG9HH649473",
+      "stock": "CB0014",
+      "listing_url": "https://www.godowntownkia.ca/vehicles/2017/land-rover/discovery-sport/vancouver/bc/71508469/?sale_class=used",
+      "dealer_url": "https://www.godowntownkia.ca/vehicles/2017/land-rover/discovery-sport/vancouver/bc/71508469/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T00:35:50",
+      "snapshot": "2026-10-08T00:39:06",
+      "go_url": "https://carwhisper.ca/go/go-downtown-kia-salct2bg9hh649473",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Downtown Kia"
     }
   ]
 }
