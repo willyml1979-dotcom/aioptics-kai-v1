@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T09:59:45+00:00",
+  "generated_at": "2026-10-08T15:59:46+00:00",
   "condition": "used",
   "make": "acura",
   "files": [
@@ -115,14 +115,27 @@
     {
       "condition": "used",
       "make": "acura",
+      "model": "MDX Elite 6sp at",
+      "count": 1,
+      "file": "inventory/used-acura-mdx-elite-6sp-at.json",
+      "models": [
+        {
+          "model": "MDX Elite 6sp at",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "acura",
       "model": "MDX",
       "shard": "Lower Mainland",
-      "count": 24,
+      "count": 23,
       "file": "inventory/used-acura-mdx-lower-mainland.json",
       "models": [
         {
           "model": "MDX",
-          "count": 24
+          "count": 23
         }
       ]
     },
