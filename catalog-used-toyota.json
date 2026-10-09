@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T22:00:32+00:00",
+  "generated_at": "2026-10-09T04:00:39+00:00",
   "condition": "used",
   "make": "toyota",
   "files": [
@@ -8,12 +8,12 @@
       "make": "toyota",
       "model": "RAV4",
       "shard": "part1",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-toyota-rav4-part1.json",
       "models": [
         {
           "model": "RAV4",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -22,12 +22,12 @@
       "make": "toyota",
       "model": "RAV4",
       "shard": "part2",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-toyota-rav4-part2.json",
       "models": [
         {
           "model": "RAV4",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -36,12 +36,12 @@
       "make": "toyota",
       "model": "RAV4",
       "shard": "part3",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-toyota-rav4-part3.json",
       "models": [
         {
           "model": "RAV4",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -50,12 +50,12 @@
       "make": "toyota",
       "model": "RAV4",
       "shard": "part4",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-toyota-rav4-part4.json",
       "models": [
         {
           "model": "RAV4",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -64,12 +64,12 @@
       "make": "toyota",
       "model": "RAV4",
       "shard": "part5",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-toyota-rav4-part5.json",
       "models": [
         {
           "model": "RAV4",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -78,8 +78,22 @@
       "make": "toyota",
       "model": "RAV4",
       "shard": "part6",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-toyota-rav4-part6.json",
+      "models": [
+        {
+          "model": "RAV4",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "toyota",
+      "model": "RAV4",
+      "shard": "part7",
+      "count": 28,
+      "file": "inventory/used-toyota-rav4-part7.json",
       "models": [
         {
           "model": "RAV4",
@@ -90,27 +104,13 @@
     {
       "condition": "used",
       "make": "toyota",
-      "model": "RAV4",
-      "shard": "part7",
-      "count": 25,
-      "file": "inventory/used-toyota-rav4-part7.json",
-      "models": [
-        {
-          "model": "RAV4",
-          "count": 25
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "toyota",
       "model": "Prius Prime",
-      "count": 25,
+      "count": 28,
       "file": "inventory/used-toyota-prius-prime.json",
       "models": [
         {
           "model": "Prius Prime",
-          "count": 25
+          "count": 28
         }
       ]
     },
@@ -119,12 +119,12 @@
       "make": "toyota",
       "model": "Corolla",
       "shard": "part1",
-      "count": 26,
+      "count": 27,
       "file": "inventory/used-toyota-corolla-part1.json",
       "models": [
         {
           "model": "Corolla",
-          "count": 26
+          "count": 27
         }
       ]
     },
@@ -133,12 +133,12 @@
       "make": "toyota",
       "model": "Corolla",
       "shard": "part2",
-      "count": 26,
+      "count": 27,
       "file": "inventory/used-toyota-corolla-part2.json",
       "models": [
         {
           "model": "Corolla",
-          "count": 26
+          "count": 27
         }
       ]
     },
@@ -147,12 +147,12 @@
       "make": "toyota",
       "model": "Corolla",
       "shard": "part3",
-      "count": 26,
+      "count": 27,
       "file": "inventory/used-toyota-corolla-part3.json",
       "models": [
         {
           "model": "Corolla",
-          "count": 26
+          "count": 27
         }
       ]
     },
@@ -161,12 +161,12 @@
       "make": "toyota",
       "model": "Corolla",
       "shard": "part4",
-      "count": 26,
+      "count": 27,
       "file": "inventory/used-toyota-corolla-part4.json",
       "models": [
         {
           "model": "Corolla",
-          "count": 26
+          "count": 27
         }
       ]
     },
@@ -175,12 +175,12 @@
       "make": "toyota",
       "model": "Corolla",
       "shard": "part5",
-      "count": 26,
+      "count": 27,
       "file": "inventory/used-toyota-corolla-part5.json",
       "models": [
         {
           "model": "Corolla",
-          "count": 26
+          "count": 27
         }
       ]
     },
@@ -231,12 +231,12 @@
       "make": "toyota",
       "model": "Tacoma",
       "shard": "part4",
-      "count": 24,
+      "count": 27,
       "file": "inventory/used-toyota-tacoma-part4.json",
       "models": [
         {
           "model": "Tacoma",
-          "count": 24
+          "count": 27
         }
       ]
     },
@@ -259,12 +259,12 @@
       "make": "toyota",
       "model": "Camry",
       "shard": "Lower Mainland",
-      "count": 19,
+      "count": 21,
       "file": "inventory/used-toyota-camry-lower-mainland.json",
       "models": [
         {
           "model": "Camry",
-          "count": 19
+          "count": 21
         }
       ]
     },
@@ -455,12 +455,12 @@
       "make": "toyota",
       "model": "Tundra",
       "shard": "Lower Mainland",
-      "count": 25,
+      "count": 27,
       "file": "inventory/used-toyota-tundra-lower-mainland.json",
       "models": [
         {
           "model": "Tundra",
-          "count": 25
+          "count": 27
         }
       ]
     },
@@ -565,12 +565,12 @@
       "make": "toyota",
       "model": "Highlander",
       "shard": "Lower Mainland",
-      "count": 22,
+      "count": 25,
       "file": "inventory/used-toyota-highlander-lower-mainland.json",
       "models": [
         {
           "model": "Highlander",
-          "count": 22
+          "count": 25
         }
       ]
     },
@@ -635,12 +635,12 @@
       "make": "toyota",
       "model": "Highlander",
       "shard": "sin-region",
-      "count": 6,
+      "count": 7,
       "file": "inventory/used-toyota-highlander-sin-region.json",
       "models": [
         {
           "model": "Highlander",
-          "count": 6
+          "count": 7
         }
       ]
     },
@@ -700,12 +700,41 @@
       "condition": "used",
       "make": "toyota",
       "model": "Sienna",
-      "count": 29,
-      "file": "inventory/used-toyota-sienna.json",
+      "shard": "Lower Mainland",
+      "count": 23,
+      "file": "inventory/used-toyota-sienna-lower-mainland.json",
       "models": [
         {
           "model": "Sienna",
-          "count": 29
+          "count": 23
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "toyota",
+      "model": "Sienna",
+      "shard": "Thompson-Okanagan",
+      "count": 2,
+      "file": "inventory/used-toyota-sienna-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "Sienna",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "toyota",
+      "model": "Sienna",
+      "shard": "sin-region",
+      "count": 9,
+      "file": "inventory/used-toyota-sienna-sin-region.json",
+      "models": [
+        {
+          "model": "Sienna",
+          "count": 9
         }
       ]
     },
@@ -726,12 +755,12 @@
       "condition": "used",
       "make": "toyota",
       "model": "Crown",
-      "count": 2,
+      "count": 3,
       "file": "inventory/used-toyota-crown.json",
       "models": [
         {
           "model": "Crown",
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -778,12 +807,12 @@
       "condition": "used",
       "make": "toyota",
       "model": "Land Cruiser",
-      "count": 9,
+      "count": 12,
       "file": "inventory/used-toyota-land-cruiser.json",
       "models": [
         {
           "model": "Land Cruiser",
-          "count": 9
+          "count": 12
         }
       ]
     },
@@ -791,12 +820,12 @@
       "condition": "used",
       "make": "toyota",
       "model": "Sequoia",
-      "count": 5,
+      "count": 6,
       "file": "inventory/used-toyota-sequoia.json",
       "models": [
         {
           "model": "Sequoia",
-          "count": 5
+          "count": 6
         }
       ]
     },

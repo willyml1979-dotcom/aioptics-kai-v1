@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-08T22:00:32+00:00",
-  "snapshot": "2026-10-08T22:00:32+00:00",
+  "generated_at": "2026-10-09T04:00:39+00:00",
+  "snapshot": "2026-10-09T04:00:39+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 26,
+  "count": 27,
   "vehicles": [
     {
       "pub_id": "harmony-honda-jtnk4rbe6k3028277",
@@ -600,6 +600,29 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Duncan Hyundai"
+    },
+    {
+      "pub_id": "comox-valley-toyota-5yfb4mbe2np123387",
+      "year": 2022,
+      "make": "Toyota",
+      "model": "Corolla",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 22176.0,
+      "price_note": null,
+      "dealer_id": "comox-valley-toyota",
+      "vin": "5YFB4MBE2NP123387",
+      "stock": 14453716,
+      "listing_url": "https://www.comoxvalleytoyota.com/used/2022-Toyota-Corolla.html",
+      "dealer_url": "https://www.comoxvalleytoyota.com/used/2022-Toyota-Corolla.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T20:50:08",
+      "snapshot": "2026-10-08T20:54:20",
+      "go_url": "https://carwhisper.ca/go/comox-valley-toyota-5yfb4mbe2np123387",
+      "region": "Vancouver Island",
+      "city": "Courtenay",
+      "province": "BC",
+      "dealer_name": "Comox Valley Toyota"
     },
     {
       "pub_id": "victoria-hyundai-5yfbpmbe4np343573",

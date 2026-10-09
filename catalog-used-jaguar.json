@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-10-08T22:00:32+00:00",
+  "generated_at": "2026-10-09T04:00:39+00:00",
   "condition": "used",
   "make": "jaguar",
   "files": [
     {
       "condition": "used",
       "make": "jaguar",
-      "count": 32,
-      "file": "inventory/used-jaguar.json",
+      "model": "E-PACE",
+      "count": 7,
+      "file": "inventory/used-jaguar-e-pace.json",
       "models": [
         {
           "model": "E-PACE",
@@ -16,35 +17,29 @@
         {
           "model": "E-Pace",
           "count": 1
-        },
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jaguar",
+      "model": "XE",
+      "count": 1,
+      "file": "inventory/used-jaguar-xe.json",
+      "models": [
         {
-          "model": "F-PACE",
-          "count": 6
-        },
-        {
-          "model": "F-Pace",
+          "model": "XE",
           "count": 1
-        },
-        {
-          "model": "F-TYPE",
-          "count": 3
-        },
-        {
-          "model": "F-Type",
-          "count": 2
-        },
-        {
-          "model": "F-Type Convertible P450 R-Dynamic AWD",
-          "count": 2
-        },
-        {
-          "model": "F-Type Coupe P450 75 AWD",
-          "count": 2
-        },
-        {
-          "model": "F-Type Coupe P575 R75 AWD",
-          "count": 2
-        },
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jaguar",
+      "model": "I-Pace",
+      "count": 2,
+      "file": "inventory/used-jaguar-i-pace.json",
+      "models": [
         {
           "model": "I-PACE",
           "count": 1
@@ -52,21 +47,117 @@
         {
           "model": "I-Pace",
           "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jaguar",
+      "model": "F-TYPE",
+      "count": 5,
+      "file": "inventory/used-jaguar-f-type.json",
+      "models": [
+        {
+          "model": "F-TYPE",
+          "count": 3
         },
         {
-          "model": "XE",
-          "count": 1
-        },
+          "model": "F-Type",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jaguar",
+      "model": "XF",
+      "count": 3,
+      "file": "inventory/used-jaguar-xf.json",
+      "models": [
         {
           "model": "XF",
-          "count": 2
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jaguar",
+      "model": "F-PACE",
+      "count": 9,
+      "file": "inventory/used-jaguar-f-pace.json",
+      "models": [
+        {
+          "model": "F-PACE",
+          "count": 8
         },
         {
-          "model": "XF P 300 R-Dynamic SE",
+          "model": "F-Pace",
           "count": 1
-        },
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jaguar",
+      "model": "F-Type Convertible P450 R-Dynamic AWD",
+      "count": 3,
+      "file": "inventory/used-jaguar-f-type-convertible-p450-r-dynamic-awd.json",
+      "models": [
+        {
+          "model": "F-Type Convertible P450 R-Dynamic AWD",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jaguar",
+      "model": "F-Type Coupe P575 R75 AWD",
+      "count": 3,
+      "file": "inventory/used-jaguar-f-type-coupe-p575-r75-awd.json",
+      "models": [
+        {
+          "model": "F-Type Coupe P575 R75 AWD",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jaguar",
+      "model": "F-Type Coupe P450 75 AWD",
+      "count": 3,
+      "file": "inventory/used-jaguar-f-type-coupe-p450-75-awd.json",
+      "models": [
+        {
+          "model": "F-Type Coupe P450 75 AWD",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jaguar",
+      "model": "XKR",
+      "count": 1,
+      "file": "inventory/used-jaguar-xkr.json",
+      "models": [
         {
           "model": "XKR",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jaguar",
+      "model": "XF P 300 R-Dynamic SE",
+      "count": 1,
+      "file": "inventory/used-jaguar-xf-p-300-r-dynamic-se.json",
+      "models": [
+        {
+          "model": "XF P 300 R-Dynamic SE",
           "count": 1
         }
       ]

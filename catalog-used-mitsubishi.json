@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T22:00:32+00:00",
+  "generated_at": "2026-10-09T04:00:39+00:00",
   "condition": "used",
   "make": "mitsubishi",
   "files": [
@@ -104,12 +104,12 @@
       "condition": "used",
       "make": "mitsubishi",
       "model": "Mirage",
-      "count": 15,
+      "count": 16,
       "file": "inventory/used-mitsubishi-mirage.json",
       "models": [
         {
           "model": "Mirage",
-          "count": 15
+          "count": 16
         }
       ]
     },
@@ -118,12 +118,12 @@
       "make": "mitsubishi",
       "model": "Outlander",
       "shard": "part1",
-      "count": 27,
+      "count": 28,
       "file": "inventory/used-mitsubishi-outlander-part1.json",
       "models": [
         {
           "model": "Outlander",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -132,12 +132,12 @@
       "make": "mitsubishi",
       "model": "Outlander",
       "shard": "part2",
-      "count": 27,
+      "count": 28,
       "file": "inventory/used-mitsubishi-outlander-part2.json",
       "models": [
         {
           "model": "Outlander",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -160,12 +160,12 @@
       "make": "mitsubishi",
       "model": "Eclipse Cross",
       "shard": "Lower Mainland",
-      "count": 23,
+      "count": 24,
       "file": "inventory/used-mitsubishi-eclipse-cross-lower-mainland.json",
       "models": [
         {
           "model": "Eclipse Cross",
-          "count": 23
+          "count": 24
         }
       ]
     },
@@ -216,12 +216,12 @@
       "make": "mitsubishi",
       "model": "Outlander PHEV",
       "shard": "Lower Mainland",
-      "count": 21,
+      "count": 22,
       "file": "inventory/used-mitsubishi-outlander-phev-lower-mainland.json",
       "models": [
         {
           "model": "Outlander PHEV",
-          "count": 21
+          "count": 22
         }
       ]
     },
@@ -285,12 +285,12 @@
       "condition": "used",
       "make": "mitsubishi",
       "model": "Outlander Plug-In Hybrid",
-      "count": 3,
+      "count": 4,
       "file": "inventory/used-mitsubishi-outlander-plug-in-hybrid.json",
       "models": [
         {
           "model": "Outlander Plug-In Hybrid",
-          "count": 3
+          "count": 4
         }
       ]
     },
@@ -310,13 +310,13 @@
     {
       "condition": "used",
       "make": "mitsubishi",
-      "model": "RVRES 4dr Front-Wheel Drive",
-      "count": 1,
-      "file": "inventory/used-mitsubishi-rvres-4dr-front-wheel-drive.json",
+      "model": "Outlander ES S-AWC",
+      "count": 2,
+      "file": "inventory/used-mitsubishi-outlander-es-s-awc.json",
       "models": [
         {
-          "model": "RVRES 4dr Front-Wheel Drive",
-          "count": 1
+          "model": "Outlander ES S-AWC",
+          "count": 2
         }
       ]
     },
@@ -472,19 +472,6 @@
       "models": [
         {
           "model": "RVR ES",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mitsubishi",
-      "model": "Outlander ES S-AWC",
-      "count": 1,
-      "file": "inventory/used-mitsubishi-outlander-es-s-awc.json",
-      "models": [
-        {
-          "model": "Outlander ES S-AWC",
           "count": 1
         }
       ]

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-08T22:00:32+00:00",
-  "snapshot": "2026-10-08T22:00:32+00:00",
+  "generated_at": "2026-10-09T04:00:39+00:00",
+  "snapshot": "2026-10-09T04:00:39+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "sherwood-park-chevrolet-5tdjzrfh8hs516577",
@@ -50,8 +50,8 @@
       "stock": "24605",
       "listing_url": "https://www.tacomadodge.com/viewdetails/used/5tdbzrbh6ns187724/2022-toyota-highlander-sport-utility?type=cash",
       "dealer_url": "https://www.tacomadodge.com/viewdetails/used/5tdbzrbh6ns187724/2022-toyota-highlander-sport-utility?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:28:30",
-      "snapshot": "2026-10-07T20:38:22",
+      "last_verified": "2026-10-08T15:35:40",
+      "snapshot": "2026-10-08T15:45:04",
       "go_url": "https://carwhisper.ca/go/tacoma-dodge-chrysler-jeep-ram-5tdbzrbh6ns187724",
       "city": null,
       "province": "US",
@@ -77,8 +77,8 @@
       "stock": "MS060927",
       "listing_url": "https://www.tacomadodge.com/viewdetails/used/5tdebrch1ms060927/2021-toyota-highlander-sport-utility?type=cash",
       "dealer_url": "https://www.tacomadodge.com/viewdetails/used/5tdebrch1ms060927/2021-toyota-highlander-sport-utility?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:28:39",
-      "snapshot": "2026-10-07T20:38:22",
+      "last_verified": "2026-10-08T15:35:51",
+      "snapshot": "2026-10-08T15:45:04",
       "go_url": "https://carwhisper.ca/go/tacoma-dodge-chrysler-jeep-ram-5tdebrch1ms060927",
       "city": null,
       "province": "US",
@@ -162,6 +162,31 @@
       "city": null,
       "province": "BC",
       "dealer_name": "Pacific Honda"
+    },
+    {
+      "pub_id": "sherwood-park-hyundai-5tdjzrfh0js530740",
+      "year": 2018,
+      "make": "Toyota",
+      "model": "Highlander",
+      "trim": "XLE",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 198241,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "White",
+      "dealer_id": "sherwood-park-hyundai",
+      "vin": "5TDJZRFH0JS530740",
+      "stock": "27PA756",
+      "listing_url": "https://www.sphyundai.com/vehicles/2018/toyota/highlander/sherwood-park/ab/ad13162514/?sale_class=used",
+      "dealer_url": "https://www.sphyundai.com/vehicles/2018/toyota/highlander/sherwood-park/ab/ad13162514/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T15:39:39",
+      "snapshot": "2026-10-08T15:42:24",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-hyundai-5tdjzrfh0js530740",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Hyundai"
     }
   ]
 }

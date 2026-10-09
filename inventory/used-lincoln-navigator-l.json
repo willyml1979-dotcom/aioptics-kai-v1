@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-08T22:00:32+00:00",
-  "snapshot": "2026-10-08T22:00:32+00:00",
+  "generated_at": "2026-10-09T04:00:39+00:00",
+  "snapshot": "2026-10-09T04:00:39+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "msa-ford-sales-5lmjj3lg6sel03360",
@@ -87,33 +87,6 @@
       "city": "Prince George",
       "province": "BC",
       "dealer_name": "Prince George Ford"
-    },
-    {
-      "pub_id": "country-hills-nissan-5lmjj3jt7jel10431",
-      "year": 2018,
-      "make": "Lincoln",
-      "model": "Navigator L",
-      "body_type": "truck",
-      "propulsion": "gas",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
-      "condition": "used",
-      "odometer_km": 126448,
-      "price_cad": 40900.0,
-      "price_note": null,
-      "color": "White",
-      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/06eb74f7-e31a-4e47-a869-4c135c9ab90f_08e12e2f-760f-4701-8f29-6ee02414c703.jpg",
-      "dealer_id": "country-hills-nissan",
-      "vin": "5LMJJ3JT7JEL10431",
-      "stock": "CG21483",
-      "listing_url": "https://www.chnissan.com/vehicles/2018/lincoln/navigator-l/calgary/ab/71416401/?sale_class=used",
-      "dealer_url": "https://www.chnissan.com/vehicles/2018/lincoln/navigator-l/calgary/ab/71416401/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T21:11:28",
-      "snapshot": "2026-10-07T15:08:19",
-      "go_url": "https://carwhisper.ca/go/country-hills-nissan-5lmjj3jt7jel10431",
-      "city": null,
-      "province": "AB",
-      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

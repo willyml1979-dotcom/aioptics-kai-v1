@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-08T22:00:32+00:00",
-  "snapshot": "2026-10-08T22:00:32+00:00",
+  "generated_at": "2026-10-09T04:00:39+00:00",
+  "snapshot": "2026-10-09T04:00:39+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 11,
+  "count": 12,
   "vehicles": [
     {
       "pub_id": "go-kia-west-jn1bj1cr5kw317121",
@@ -177,7 +177,7 @@
       "listing_url": "https://www.chilliwackmitsubishi.ca/inventory/2023-nissan-qashqai-s-ZiNEaiY3RoaM8r9qELhxPwvdp",
       "dealer_url": "https://www.chilliwackmitsubishi.ca/inventory/2023-nissan-qashqai-s-ZiNEaiY3RoaM8r9qELhxPwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:23:43",
-      "snapshot": "2026-09-27T01:32:45",
+      "snapshot": "2026-10-08T19:16:43",
       "go_url": "https://carwhisper.ca/go/chilliwack-mitsubishi-jn1bj1aw6pw101522",
       "region": "Lower Mainland",
       "city": "Chilliwack",
@@ -285,12 +285,40 @@
       "listing_url": "https://www.acuraoflangley.ca/en/used-inventory/nissan/qashqai/2023-nissan-qashqai-id39191360",
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/nissan/qashqai/2023-nissan-qashqai-id39191360?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T21:02:28",
-      "snapshot": "2026-10-08T09:47:20",
+      "snapshot": "2026-10-08T15:56:46",
       "go_url": "https://carwhisper.ca/go/acura-of-langley-jn1bj1bw1pw101314",
       "region": "Lower Mainland",
       "city": "Langley",
       "province": "BC",
       "dealer_name": "Acura of Langley"
+    },
+    {
+      "pub_id": "burrard-acura-jn1bj1bw1pw101314",
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Qashqai",
+      "trim": "SV AWD CVT",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 32953,
+      "price_cad": 24888.0,
+      "price_note": null,
+      "color": "Scarlett Ember Pearl Metallic",
+      "photo_url": "https://img.sm360.ca/images/inventory/southside-nissan/nissan/qashqai/2023/39191360/39191360_00211_314060d7b8f8302bb1ddb2f77e67f998.jpeg",
+      "dealer_id": "burrard-acura",
+      "vin": "JN1BJ1BW1PW101314",
+      "stock": "N226102",
+      "listing_url": "https://www.burrardacura.ca/en/used-inventory/nissan/qashqai/2023-nissan-qashqai-id39191360",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/nissan/qashqai/2023-nissan-qashqai-id39191360?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T16:30:58",
+      "snapshot": "2026-10-08T17:21:24",
+      "go_url": "https://carwhisper.ca/go/burrard-acura-jn1bj1bw1pw101314",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Burrard Acura"
     }
   ]
 }

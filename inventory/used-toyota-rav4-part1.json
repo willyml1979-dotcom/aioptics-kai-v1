@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-08T22:00:32+00:00",
-  "snapshot": "2026-10-08T22:00:32+00:00",
+  "generated_at": "2026-10-09T04:00:39+00:00",
+  "snapshot": "2026-10-09T04:00:39+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 28,
+  "count": 29,
   "vehicles": [
     {
       "pub_id": "integrity-subaru-2t3bfrev3ew183980",
@@ -300,7 +300,7 @@
       "listing_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/rav4/2019-toyota-rav4-id39314785",
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/rav4/2019-toyota-rav4-id39314785?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T21:28:22",
-      "snapshot": "2026-10-08T09:47:20",
+      "snapshot": "2026-10-08T15:56:46",
       "go_url": "https://carwhisper.ca/go/acura-of-langley-2t3z1rfv7kw017310",
       "region": "Lower Mainland",
       "city": "Langley",
@@ -777,6 +777,30 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Jim Pattison Toyota - Downtown"
+    },
+    {
+      "pub_id": "maple-ridge-hyundai-2t3d1rfvxmw197086",
+      "year": 2021,
+      "make": "Toyota",
+      "model": "RAV4",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 34904.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "maple-ridge-hyundai",
+      "vin": "2T3D1RFVXMW197086",
+      "stock": 13629189,
+      "listing_url": "https://www.mapleridgehyundai.com/used/2021-Toyota-RAV4.html",
+      "dealer_url": "https://www.mapleridgehyundai.com/used/2021-Toyota-RAV4.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T06:31:56",
+      "snapshot": "2026-09-25T07:09:21",
+      "go_url": "https://carwhisper.ca/go/maple-ridge-hyundai-2t3d1rfvxmw197086",
+      "region": "Lower Mainland",
+      "city": "Maple Ridge",
+      "province": "BC",
+      "dealer_name": "Maple Ridge Hyundai"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T22:00:32+00:00",
-  "snapshot": "2026-10-08T22:00:32+00:00",
+  "generated_at": "2026-10-09T04:00:39+00:00",
+  "snapshot": "2026-10-09T04:00:39+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 9,
   "vehicles": [
@@ -120,6 +120,29 @@
       "dealer_name": "Island Ford"
     },
     {
+      "pub_id": "comox-valley-toyota-1fm5k8gc2lgb16838",
+      "year": 2020,
+      "make": "Ford",
+      "model": "Explorer",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 28901.0,
+      "price_note": null,
+      "dealer_id": "comox-valley-toyota",
+      "vin": "1FM5K8GC2LGB16838",
+      "stock": 14441776,
+      "listing_url": "https://www.comoxvalleytoyota.com/used/2020-Ford-Explorer.html",
+      "dealer_url": "https://www.comoxvalleytoyota.com/used/2020-Ford-Explorer.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T20:48:19",
+      "snapshot": "2026-10-08T20:54:20",
+      "go_url": "https://carwhisper.ca/go/comox-valley-toyota-1fm5k8gc2lgb16838",
+      "region": "Vancouver Island",
+      "city": "Courtenay",
+      "province": "BC",
+      "dealer_name": "Comox Valley Toyota"
+    },
+    {
       "pub_id": "duncan-hyundai-1fm5k8hc3lga98820",
       "year": 2020,
       "make": "Ford",
@@ -198,29 +221,6 @@
       "city": "Campbell River",
       "province": "BC",
       "dealer_name": "Campbell River Hyundai"
-    },
-    {
-      "pub_id": "comox-valley-toyota-1fm5k8gc8mgb90217",
-      "year": 2021,
-      "make": "Ford",
-      "model": "Explorer",
-      "propulsion": "unknown",
-      "propulsion_source": null,
-      "condition": "used",
-      "price_cad": 35556.0,
-      "price_note": null,
-      "dealer_id": "comox-valley-toyota",
-      "vin": "1FM5K8GC8MGB90217",
-      "stock": 14353789,
-      "listing_url": "https://www.comoxvalleytoyota.com/used/2021-Ford-Explorer.html",
-      "dealer_url": "https://www.comoxvalleytoyota.com/used/2021-Ford-Explorer.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T01:04:23",
-      "snapshot": "2026-09-26T02:41:05",
-      "go_url": "https://carwhisper.ca/go/comox-valley-toyota-1fm5k8gc8mgb90217",
-      "region": "Vancouver Island",
-      "city": "Courtenay",
-      "province": "BC",
-      "dealer_name": "Comox Valley Toyota"
     },
     {
       "pub_id": "island-ford-1fm5k8gc3nga56619",

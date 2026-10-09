@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-08T22:00:32+00:00",
-  "snapshot": "2026-10-08T22:00:32+00:00",
+  "generated_at": "2026-10-09T04:00:39+00:00",
+  "snapshot": "2026-10-09T04:00:39+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "kelowna-toyota-ltd-jf1znaa10f9711035",
@@ -32,6 +32,33 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Kelowna Toyota Ltd."
+    },
+    {
+      "pub_id": "applewood-ford-jtlze4fe5dj035673",
+      "year": 2013,
+      "make": "Scion",
+      "model": "xB",
+      "body_type": "hatchback",
+      "drivetrain": "FWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 126339,
+      "price_cad": 9000.0,
+      "price_note": null,
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,op_bl,ow_100,v2/adjustment/3OCOZ3MGPBCRVGQXDTFNDEL3SI%3Binventory/ZMXIVCV7WJDSBG4GW5XZJBMXBM-10419.webp",
+      "dealer_id": "applewood-ford",
+      "vin": "JTLZE4FE5DJ035673",
+      "stock": "FH6N5704A",
+      "listing_url": "https://www.applewoodford.ca/inventory/2013-scion-xb-1jvyxUvQScuswUZQjwySvwvdp",
+      "dealer_url": "https://www.applewoodford.ca/inventory/2013-scion-xb-1jvyxUvQScuswUZQjwySvwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T20:51:57",
+      "snapshot": "2026-10-08T20:53:25",
+      "go_url": "https://carwhisper.ca/go/applewood-ford-jtlze4fe5dj035673",
+      "city": "Port Hardy",
+      "province": "BC",
+      "dealer_name": "Applewood Ford"
     }
   ]
 }

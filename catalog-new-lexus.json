@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-10-08T22:00:32+00:00",
+  "generated_at": "2026-10-09T04:00:39+00:00",
   "condition": "new",
   "make": "lexus",
   "files": [
+    {
+      "condition": "new",
+      "make": "lexus",
+      "model": "UX 300h",
+      "count": 8,
+      "file": "inventory/new-lexus-ux-300h.json",
+      "models": [
+        {
+          "model": "UX 300h",
+          "count": 8
+        }
+      ]
+    },
     {
       "condition": "new",
       "make": "lexus",
@@ -116,19 +129,6 @@
       "models": [
         {
           "model": "TX",
-          "count": 7
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "lexus",
-      "model": "UX 300h",
-      "count": 7,
-      "file": "inventory/new-lexus-ux-300h.json",
-      "models": [
-        {
-          "model": "UX 300h",
           "count": 7
         }
       ]

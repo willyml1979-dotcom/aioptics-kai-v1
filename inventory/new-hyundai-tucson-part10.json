@@ -1,35 +1,9 @@
 {
-  "generated_at": "2026-10-08T22:00:32+00:00",
-  "snapshot": "2026-10-08T22:00:32+00:00",
+  "generated_at": "2026-10-09T04:00:39+00:00",
+  "snapshot": "2026-10-09T04:00:39+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 29,
   "vehicles": [
-    {
-      "pub_id": "langley-hyundai-km8jddd20tu537133",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "trim": "Plug-In Hybrid Ultimate AWD",
-      "drivetrain": "AWD",
-      "propulsion": "plug-in hybrid",
-      "propulsion_source": "model_trim_name",
-      "propulsion_confidence": "high",
-      "condition": "new",
-      "price_cad": 56398.0,
-      "price_note": null,
-      "dealer_id": "langley-hyundai",
-      "vin": "KM8JDDD20TU537133",
-      "stock": "73400-480564",
-      "listing_url": "https://www.langleyhyundai.com/new/2026-Hyundai-Tucson_Plug_In_Hybrid.html",
-      "dealer_url": "https://www.langleyhyundai.com/new/2026-Hyundai-Tucson_Plug_In_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T06:14:08",
-      "snapshot": "2026-09-26T06:14:14",
-      "go_url": "https://carwhisper.ca/go/langley-hyundai-km8jddd20tu537133",
-      "region": "Lower Mainland",
-      "city": "Surrey",
-      "province": "BC",
-      "dealer_name": "Langley Hyundai"
-    },
     {
       "pub_id": "lougheed-hyundai-km8jddd24tu536356",
       "year": 2026,
@@ -823,6 +797,30 @@
       "city": "Prince George",
       "province": "BC",
       "dealer_name": "Northland Hyundai"
+    },
+    {
+      "pub_id": "kelowna-hyundai-3kmjccde1se025256",
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": 32904.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "kelowna-hyundai",
+      "vin": "3KMJCCDE1SE025256",
+      "stock": 14365265,
+      "listing_url": "https://www.kelownahyundai.com/used/2025-Hyundai-Tucson.html",
+      "dealer_url": "https://www.kelownahyundai.com/used/2025-Hyundai-Tucson.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T13:46:21",
+      "snapshot": "2026-09-26T14:01:03",
+      "go_url": "https://carwhisper.ca/go/kelowna-hyundai-3kmjccde1se025256",
+      "region": "Okanagan",
+      "city": "Kelowna",
+      "province": "BC",
+      "dealer_name": "Kelowna Hyundai"
     }
   ]
 }

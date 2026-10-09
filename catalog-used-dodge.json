@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T22:00:32+00:00",
+  "generated_at": "2026-10-09T04:00:39+00:00",
   "condition": "used",
   "make": "dodge",
   "files": [
@@ -17,6 +17,19 @@
         {
           "model": "Grand Caravan",
           "count": 18
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
+      "model": "Journey",
+      "count": 20,
+      "file": "inventory/used-dodge-journey.json",
+      "models": [
+        {
+          "model": "Journey",
+          "count": 20
         }
       ]
     },
@@ -43,12 +56,12 @@
       "make": "dodge",
       "model": "DURANGO",
       "shard": "Lower Mainland",
-      "count": 12,
+      "count": 13,
       "file": "inventory/used-dodge-durango-lower-mainland.json",
       "models": [
         {
           "model": "Durango",
-          "count": 12
+          "count": 13
         }
       ]
     },
@@ -174,19 +187,6 @@
         {
           "model": "Dakota",
           "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "Journey",
-      "count": 18,
-      "file": "inventory/used-dodge-journey.json",
-      "models": [
-        {
-          "model": "Journey",
-          "count": 18
         }
       ]
     },

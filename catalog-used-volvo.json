@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T22:00:32+00:00",
+  "generated_at": "2026-10-09T04:00:39+00:00",
   "condition": "used",
   "make": "volvo",
   "files": [
@@ -32,19 +32,6 @@
     {
       "condition": "used",
       "make": "volvo",
-      "model": "XC40",
-      "count": 16,
-      "file": "inventory/used-volvo-xc40.json",
-      "models": [
-        {
-          "model": "XC40",
-          "count": 16
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volvo",
       "model": "XC90",
       "count": 26,
       "file": "inventory/used-volvo-xc90.json",
@@ -52,6 +39,19 @@
         {
           "model": "XC90",
           "count": 26
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volvo",
+      "model": "XC40",
+      "count": 15,
+      "file": "inventory/used-volvo-xc40.json",
+      "models": [
+        {
+          "model": "XC40",
+          "count": 15
         }
       ]
     },
@@ -137,12 +137,12 @@
       "condition": "used",
       "make": "volvo",
       "model": "EX40",
-      "count": 3,
+      "count": 4,
       "file": "inventory/used-volvo-ex40.json",
       "models": [
         {
           "model": "EX40",
-          "count": 3
+          "count": 4
         }
       ]
     },

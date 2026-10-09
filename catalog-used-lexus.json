@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T22:00:32+00:00",
+  "generated_at": "2026-10-09T04:00:39+00:00",
   "condition": "used",
   "make": "lexus",
   "files": [
@@ -46,12 +46,12 @@
       "condition": "used",
       "make": "lexus",
       "model": "RX",
-      "count": 26,
+      "count": 28,
       "file": "inventory/used-lexus-rx.json",
       "models": [
         {
           "model": "RX",
-          "count": 26
+          "count": 28
         }
       ]
     },
@@ -59,12 +59,69 @@
       "condition": "used",
       "make": "lexus",
       "model": "NX",
-      "count": 30,
-      "file": "inventory/used-lexus-nx.json",
+      "shard": "Lower Mainland",
+      "count": 22,
+      "file": "inventory/used-lexus-nx-lower-mainland.json",
       "models": [
         {
           "model": "NX",
-          "count": 30
+          "count": 22
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "NX",
+      "shard": "Okanagan",
+      "count": 3,
+      "file": "inventory/used-lexus-nx-okanagan.json",
+      "models": [
+        {
+          "model": "NX",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "NX",
+      "shard": "Thompson-Okanagan",
+      "count": 1,
+      "file": "inventory/used-lexus-nx-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "NX",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "NX",
+      "shard": "Vancouver Island",
+      "count": 2,
+      "file": "inventory/used-lexus-nx-vancouver-island.json",
+      "models": [
+        {
+          "model": "NX",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "NX",
+      "shard": "sin-region",
+      "count": 8,
+      "file": "inventory/used-lexus-nx-sin-region.json",
+      "models": [
+        {
+          "model": "NX",
+          "count": 8
         }
       ]
     },
@@ -98,12 +155,12 @@
       "condition": "used",
       "make": "lexus",
       "model": "IS",
-      "count": 5,
+      "count": 6,
       "file": "inventory/used-lexus-is.json",
       "models": [
         {
           "model": "IS",
-          "count": 5
+          "count": 6
         }
       ]
     },
@@ -111,12 +168,12 @@
       "condition": "used",
       "make": "lexus",
       "model": "RX 350",
-      "count": 7,
+      "count": 8,
       "file": "inventory/used-lexus-rx-350.json",
       "models": [
         {
           "model": "RX 350",
-          "count": 7
+          "count": 8
         }
       ]
     },
@@ -124,12 +181,12 @@
       "condition": "used",
       "make": "lexus",
       "model": "UXh",
-      "count": 2,
+      "count": 3,
       "file": "inventory/used-lexus-uxh.json",
       "models": [
         {
           "model": "UXh",
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -150,24 +207,11 @@
       "condition": "used",
       "make": "lexus",
       "model": "TX",
-      "count": 2,
+      "count": 3,
       "file": "inventory/used-lexus-tx.json",
       "models": [
         {
           "model": "TX",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "lexus",
-      "model": "GX",
-      "count": 3,
-      "file": "inventory/used-lexus-gx.json",
-      "models": [
-        {
-          "model": "GX",
           "count": 3
         }
       ]
@@ -175,13 +219,26 @@
     {
       "condition": "used",
       "make": "lexus",
+      "model": "GX",
+      "count": 4,
+      "file": "inventory/used-lexus-gx.json",
+      "models": [
+        {
+          "model": "GX",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
       "model": "GX 550",
-      "count": 2,
+      "count": 3,
       "file": "inventory/used-lexus-gx-550.json",
       "models": [
         {
           "model": "GX 550",
-          "count": 2
+          "count": 3
         }
       ]
     },

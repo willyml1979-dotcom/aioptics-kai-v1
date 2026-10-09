@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T22:00:32+00:00",
+  "generated_at": "2026-10-09T04:00:39+00:00",
   "condition": "used",
   "make": "mazda",
   "files": [
@@ -21,12 +21,12 @@
       "make": "mazda",
       "model": "CX-5",
       "shard": "part1",
-      "count": 26,
+      "count": 27,
       "file": "inventory/used-mazda-cx-5-part1.json",
       "models": [
         {
           "model": "CX-5",
-          "count": 26
+          "count": 27
         }
       ]
     },
@@ -35,12 +35,12 @@
       "make": "mazda",
       "model": "CX-5",
       "shard": "part2",
-      "count": 26,
+      "count": 27,
       "file": "inventory/used-mazda-cx-5-part2.json",
       "models": [
         {
           "model": "CX-5",
-          "count": 26
+          "count": 27
         }
       ]
     },
@@ -75,12 +75,12 @@
       "condition": "used",
       "make": "mazda",
       "model": "Mazda3 Sport",
-      "count": 18,
+      "count": 20,
       "file": "inventory/used-mazda-mazda3-sport.json",
       "models": [
         {
           "model": "Mazda3 Sport",
-          "count": 18
+          "count": 20
         }
       ]
     },
@@ -127,12 +127,69 @@
       "condition": "used",
       "make": "mazda",
       "model": "CX-30",
-      "count": 31,
-      "file": "inventory/used-mazda-cx-30.json",
+      "shard": "Lower Mainland",
+      "count": 25,
+      "file": "inventory/used-mazda-cx-30-lower-mainland.json",
       "models": [
         {
           "model": "CX-30",
-          "count": 31
+          "count": 25
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mazda",
+      "model": "CX-30",
+      "shard": "Okanagan",
+      "count": 2,
+      "file": "inventory/used-mazda-cx-30-okanagan.json",
+      "models": [
+        {
+          "model": "CX-30",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mazda",
+      "model": "CX-30",
+      "shard": "Thompson-Okanagan",
+      "count": 2,
+      "file": "inventory/used-mazda-cx-30-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "CX-30",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mazda",
+      "model": "CX-30",
+      "shard": "Vancouver Island",
+      "count": 1,
+      "file": "inventory/used-mazda-cx-30-vancouver-island.json",
+      "models": [
+        {
+          "model": "CX-30",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mazda",
+      "model": "CX-30",
+      "shard": "sin-region",
+      "count": 3,
+      "file": "inventory/used-mazda-cx-30-sin-region.json",
+      "models": [
+        {
+          "model": "CX-30",
+          "count": 3
         }
       ]
     },
@@ -166,12 +223,12 @@
       "condition": "used",
       "make": "mazda",
       "model": "CX-90 MHEV",
-      "count": 16,
+      "count": 17,
       "file": "inventory/used-mazda-cx-90-mhev.json",
       "models": [
         {
           "model": "CX-90 MHEV",
-          "count": 16
+          "count": 17
         }
       ]
     },
@@ -205,12 +262,12 @@
       "condition": "used",
       "make": "mazda",
       "model": "CX-70 PHEV",
-      "count": 8,
+      "count": 9,
       "file": "inventory/used-mazda-cx-70-phev.json",
       "models": [
         {
           "model": "CX-70 PHEV",
-          "count": 8
+          "count": 9
         }
       ]
     },

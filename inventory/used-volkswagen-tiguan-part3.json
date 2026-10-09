@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-08T22:00:32+00:00",
-  "snapshot": "2026-10-08T22:00:32+00:00",
+  "generated_at": "2026-10-09T04:00:39+00:00",
+  "snapshot": "2026-10-09T04:00:39+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 29,
+  "count": 30,
   "vehicles": [
     {
       "pub_id": "kelowna-toyota-ltd-wvgmv7ax6hk040117",
@@ -760,6 +760,34 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Bannister Chevrolet Cadillac Kamloops Ltd."
+    },
+    {
+      "pub_id": "kamloops-honda-cars-3vver7rm6tm013848",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 31449,
+      "price_cad": 35495.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/c0c7bb23-b9dd-4593-ac17-9734acf0ffa7_695b2672-7e2a-417c-a4a4-99c77d53ddd9.jpg",
+      "dealer_id": "kamloops-honda-cars",
+      "vin": "3VVER7RM6TM013848",
+      "stock": "U18488V",
+      "listing_url": "https://www.kamloopshonda.ca/vehicles/2026/volkswagen/tiguan/kamloops/bc/71268825/?sale_class=used",
+      "dealer_url": "https://www.kamloopshonda.ca/vehicles/2026/volkswagen/tiguan/kamloops/bc/71268825/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T22:35:44",
+      "snapshot": "2026-09-26T02:33:06",
+      "go_url": "https://carwhisper.ca/go/kamloops-honda-cars-3vver7rm6tm013848",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Kamloops Honda Cars"
     }
   ]
 }
