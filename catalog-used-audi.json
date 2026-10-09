@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
   "condition": "used",
   "make": "audi",
   "files": [
@@ -7,55 +7,12 @@
       "condition": "used",
       "make": "audi",
       "model": "Q5",
-      "shard": "Lower Mainland",
-      "count": 16,
-      "file": "inventory/used-audi-q5-lower-mainland.json",
+      "count": 37,
+      "file": "inventory/used-audi-q5.json",
       "models": [
         {
           "model": "Q5",
-          "count": 16
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "audi",
-      "model": "Q5",
-      "shard": "Okanagan",
-      "count": 7,
-      "file": "inventory/used-audi-q5-okanagan.json",
-      "models": [
-        {
-          "model": "Q5",
-          "count": 7
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "audi",
-      "model": "Q5",
-      "shard": "Vancouver Island",
-      "count": 9,
-      "file": "inventory/used-audi-q5-vancouver-island.json",
-      "models": [
-        {
-          "model": "Q5",
-          "count": 9
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "audi",
-      "model": "Q5",
-      "shard": "sin-region",
-      "count": 8,
-      "file": "inventory/used-audi-q5-sin-region.json",
-      "models": [
-        {
-          "model": "Q5",
-          "count": 8
+          "count": 37
         }
       ]
     },
@@ -76,37 +33,11 @@
       "condition": "used",
       "make": "audi",
       "model": "A4",
-      "count": 5,
+      "count": 6,
       "file": "inventory/used-audi-a4.json",
       "models": [
         {
           "model": "A4",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "audi",
-      "model": "Q7",
-      "count": 19,
-      "file": "inventory/used-audi-q7.json",
-      "models": [
-        {
-          "model": "Q7",
-          "count": 19
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "audi",
-      "model": "A5",
-      "count": 6,
-      "file": "inventory/used-audi-a5.json",
-      "models": [
-        {
-          "model": "A5",
           "count": 6
         }
       ]
@@ -114,13 +45,39 @@
     {
       "condition": "used",
       "make": "audi",
+      "model": "Q7",
+      "count": 20,
+      "file": "inventory/used-audi-q7.json",
+      "models": [
+        {
+          "model": "Q7",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "audi",
+      "model": "A5",
+      "count": 7,
+      "file": "inventory/used-audi-a5.json",
+      "models": [
+        {
+          "model": "A5",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "audi",
       "model": "SQ5",
-      "count": 8,
+      "count": 9,
       "file": "inventory/used-audi-sq5.json",
       "models": [
         {
           "model": "SQ5",
-          "count": 8
+          "count": 9
         }
       ]
     },
@@ -134,19 +91,6 @@
         {
           "model": "S4",
           "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "audi",
-      "model": "A3",
-      "count": 3,
-      "file": "inventory/used-audi-a3.json",
-      "models": [
-        {
-          "model": "A3",
-          "count": 3
         }
       ]
     },
@@ -231,6 +175,19 @@
     {
       "condition": "used",
       "make": "audi",
+      "model": "S3",
+      "count": 4,
+      "file": "inventory/used-audi-s3.json",
+      "models": [
+        {
+          "model": "S3",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "audi",
       "model": "SQ5 Sportback",
       "count": 2,
       "file": "inventory/used-audi-sq5-sportback.json",
@@ -257,26 +214,13 @@
     {
       "condition": "used",
       "make": "audi",
-      "model": "S3",
-      "count": 3,
-      "file": "inventory/used-audi-s3.json",
-      "models": [
-        {
-          "model": "S3",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "audi",
       "model": "TT RS",
-      "count": 5,
+      "count": 6,
       "file": "inventory/used-audi-tt-rs.json",
       "models": [
         {
           "model": "TT RS",
-          "count": 5
+          "count": 6
         }
       ]
     },
@@ -459,6 +403,19 @@
         {
           "model": "Q545 Technik 4dr All-Wheel Drive quattro Sport Utility",
           "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "audi",
+      "model": "A3",
+      "count": 2,
+      "file": "inventory/used-audi-a3.json",
+      "models": [
+        {
+          "model": "A3",
+          "count": 2
         }
       ]
     },

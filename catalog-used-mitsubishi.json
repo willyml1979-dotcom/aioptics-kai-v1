@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
   "condition": "used",
   "make": "mitsubishi",
   "files": [
@@ -21,12 +21,12 @@
       "make": "mitsubishi",
       "model": "RVR",
       "shard": "Lower Mainland",
-      "count": 31,
+      "count": 32,
       "file": "inventory/used-mitsubishi-rvr-lower-mainland.json",
       "models": [
         {
           "model": "RVR",
-          "count": 31
+          "count": 32
         }
       ]
     },
@@ -77,12 +77,12 @@
       "make": "mitsubishi",
       "model": "RVR",
       "shard": "Vancouver Island",
-      "count": 5,
+      "count": 3,
       "file": "inventory/used-mitsubishi-rvr-vancouver-island.json",
       "models": [
         {
           "model": "RVR",
-          "count": 5
+          "count": 3
         }
       ]
     },
@@ -146,12 +146,12 @@
       "make": "mitsubishi",
       "model": "Outlander",
       "shard": "part3",
-      "count": 26,
+      "count": 28,
       "file": "inventory/used-mitsubishi-outlander-part3.json",
       "models": [
         {
           "model": "Outlander",
-          "count": 26
+          "count": 28
         }
       ]
     },
@@ -160,12 +160,12 @@
       "make": "mitsubishi",
       "model": "Eclipse Cross",
       "shard": "Lower Mainland",
-      "count": 24,
+      "count": 22,
       "file": "inventory/used-mitsubishi-eclipse-cross-lower-mainland.json",
       "models": [
         {
           "model": "Eclipse Cross",
-          "count": 24
+          "count": 22
         }
       ]
     },
@@ -174,12 +174,12 @@
       "make": "mitsubishi",
       "model": "Eclipse Cross",
       "shard": "Okanagan",
-      "count": 6,
+      "count": 7,
       "file": "inventory/used-mitsubishi-eclipse-cross-okanagan.json",
       "models": [
         {
           "model": "Eclipse Cross",
-          "count": 6
+          "count": 7
         }
       ]
     },
@@ -188,12 +188,12 @@
       "make": "mitsubishi",
       "model": "Eclipse Cross",
       "shard": "Vancouver Island",
-      "count": 6,
+      "count": 7,
       "file": "inventory/used-mitsubishi-eclipse-cross-vancouver-island.json",
       "models": [
         {
           "model": "Eclipse Cross",
-          "count": 6
+          "count": 7
         }
       ]
     },
@@ -216,12 +216,12 @@
       "make": "mitsubishi",
       "model": "Outlander PHEV",
       "shard": "Lower Mainland",
-      "count": 22,
+      "count": 24,
       "file": "inventory/used-mitsubishi-outlander-phev-lower-mainland.json",
       "models": [
         {
           "model": "Outlander PHEV",
-          "count": 22
+          "count": 24
         }
       ]
     },
@@ -258,12 +258,12 @@
       "make": "mitsubishi",
       "model": "Outlander PHEV",
       "shard": "Vancouver Island",
-      "count": 6,
+      "count": 7,
       "file": "inventory/used-mitsubishi-outlander-phev-vancouver-island.json",
       "models": [
         {
           "model": "Outlander PHEV",
-          "count": 6
+          "count": 7
         }
       ]
     },
@@ -285,12 +285,12 @@
       "condition": "used",
       "make": "mitsubishi",
       "model": "Outlander Plug-In Hybrid",
-      "count": 4,
+      "count": 5,
       "file": "inventory/used-mitsubishi-outlander-plug-in-hybrid.json",
       "models": [
         {
           "model": "Outlander Plug-In Hybrid",
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -311,24 +311,24 @@
       "condition": "used",
       "make": "mitsubishi",
       "model": "Outlander ES S-AWC",
-      "count": 2,
+      "count": 3,
       "file": "inventory/used-mitsubishi-outlander-es-s-awc.json",
       "models": [
         {
           "model": "Outlander ES S-AWC",
-          "count": 2
+          "count": 3
         }
       ]
     },
     {
       "condition": "used",
       "make": "mitsubishi",
-      "model": "Outlander GT",
+      "model": "Outlander PHEVLE",
       "count": 1,
-      "file": "inventory/used-mitsubishi-outlander-gt.json",
+      "file": "inventory/used-mitsubishi-outlander-phevle.json",
       "models": [
         {
-          "model": "Outlander GT",
+          "model": "Outlander PHEVLE",
           "count": 1
         }
       ]
@@ -362,38 +362,38 @@
     {
       "condition": "used",
       "make": "mitsubishi",
-      "model": "Outlander PHEV LE S-AWC",
-      "count": 1,
-      "file": "inventory/used-mitsubishi-outlander-phev-le-s-awc.json",
-      "models": [
-        {
-          "model": "Outlander PHEV LE S-AWC",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mitsubishi",
-      "model": "Outlander LE",
-      "count": 1,
-      "file": "inventory/used-mitsubishi-outlander-le.json",
-      "models": [
-        {
-          "model": "Outlander LE",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mitsubishi",
       "model": "Outlander PHEV GT S-AWC",
       "count": 1,
       "file": "inventory/used-mitsubishi-outlander-phev-gt-s-awc.json",
       "models": [
         {
           "model": "Outlander PHEV GT S-AWC",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "RVR SEL",
+      "count": 1,
+      "file": "inventory/used-mitsubishi-rvr-sel.json",
+      "models": [
+        {
+          "model": "RVR SEL",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "RVR SE AWC",
+      "count": 1,
+      "file": "inventory/used-mitsubishi-rvr-se-awc.json",
+      "models": [
+        {
+          "model": "RVR SE AWC",
           "count": 1
         }
       ]
@@ -420,6 +420,19 @@
       "models": [
         {
           "model": "OutlanderSE 4dr S-AWC",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "Eclipse CrossES 4dr S-AWC",
+      "count": 1,
+      "file": "inventory/used-mitsubishi-eclipse-crosses-4dr-s-awc.json",
+      "models": [
+        {
+          "model": "Eclipse CrossES 4dr S-AWC",
           "count": 1
         }
       ]

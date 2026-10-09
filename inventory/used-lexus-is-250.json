@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
-  "snapshot": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
+  "snapshot": "2026-10-09T10:00:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "north-shore-kia-jthcf1d26f5020986",
@@ -32,6 +32,33 @@
       "city": "North Vancouver",
       "province": "BC",
       "dealer_name": "North Shore Kia"
+    },
+    {
+      "pub_id": "discovery-honda-jthbf5c23c2102871",
+      "year": 2012,
+      "make": "Lexus",
+      "model": "IS 250",
+      "drivetrain": "RWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 164344,
+      "price_cad": 12990.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://img.sm360.ca/ir/w800h600/images/inventory/discovery-honda/lexus/is-250/2012/39288577/39288577_08659_3c745c54ad5b1bc4a6d9bc00414d6413.jpg",
+      "dealer_id": "discovery-honda",
+      "vin": "JTHBF5C23C2102871",
+      "stock": "B4570A",
+      "listing_url": "https://www.discoveryhonda.com/en/used-inventory/lexus/is-250/2012-lexus-is-250-id39288577",
+      "dealer_url": "https://www.discoveryhonda.com/en/used-inventory/lexus/is-250/2012-lexus-is-250-id39288577?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T23:51:17",
+      "snapshot": "2026-10-08T23:55:09",
+      "go_url": "https://carwhisper.ca/go/discovery-honda-jthbf5c23c2102871",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Discovery Honda"
     }
   ]
 }

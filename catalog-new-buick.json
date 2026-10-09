@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
   "condition": "new",
   "make": "buick",
   "files": [
@@ -35,12 +35,26 @@
       "make": "buick",
       "model": "Encore GX",
       "shard": "Lower Mainland",
-      "count": 16,
+      "count": 18,
       "file": "inventory/new-buick-encore-gx-lower-mainland.json",
       "models": [
         {
           "model": "Encore GX",
-          "count": 16
+          "count": 18
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "buick",
+      "model": "Encore GX",
+      "shard": "Norte/Cariboo",
+      "count": 1,
+      "file": "inventory/new-buick-encore-gx-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Encore GX",
+          "count": 1
         }
       ]
     },
@@ -63,12 +77,12 @@
       "make": "buick",
       "model": "Encore GX",
       "shard": "Vancouver Island",
-      "count": 19,
+      "count": 17,
       "file": "inventory/new-buick-encore-gx-vancouver-island.json",
       "models": [
         {
           "model": "Encore GX",
-          "count": 19
+          "count": 17
         }
       ]
     },
@@ -119,12 +133,12 @@
       "make": "buick",
       "model": "Envision",
       "shard": "part3",
-      "count": 30,
+      "count": 28,
       "file": "inventory/new-buick-envision-part3.json",
       "models": [
         {
           "model": "Envision",
-          "count": 30
+          "count": 28
         }
       ]
     },
@@ -188,12 +202,12 @@
       "make": "buick",
       "model": "Envista",
       "shard": "Vancouver Island",
-      "count": 12,
+      "count": 13,
       "file": "inventory/new-buick-envista-vancouver-island.json",
       "models": [
         {
           "model": "Envista",
-          "count": 12
+          "count": 13
         }
       ]
     },
@@ -215,12 +229,12 @@
       "condition": "new",
       "make": "buick",
       "model": "Enclave",
-      "count": 21,
+      "count": 22,
       "file": "inventory/new-buick-enclave.json",
       "models": [
         {
           "model": "Enclave",
-          "count": 21
+          "count": 22
         }
       ]
     },

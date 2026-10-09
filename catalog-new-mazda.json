@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
   "condition": "new",
   "make": "mazda",
   "files": [
@@ -78,12 +78,12 @@
       "make": "mazda",
       "model": "CX-5",
       "shard": "part6",
-      "count": 27,
+      "count": 26,
       "file": "inventory/new-mazda-cx-5-part6.json",
       "models": [
         {
           "model": "CX-5",
-          "count": 27
+          "count": 26
         }
       ]
     },
@@ -92,12 +92,12 @@
       "make": "mazda",
       "model": "Mazda3",
       "shard": "Lower Mainland",
-      "count": 23,
+      "count": 28,
       "file": "inventory/new-mazda-mazda3-lower-mainland.json",
       "models": [
         {
           "model": "Mazda3",
-          "count": 23
+          "count": 28
         }
       ]
     },
@@ -134,12 +134,12 @@
       "make": "mazda",
       "model": "Mazda3 Sport",
       "shard": "Vancouver Island",
-      "count": 20,
+      "count": 16,
       "file": "inventory/new-mazda-mazda3-sport-vancouver-island.json",
       "models": [
         {
           "model": "Mazda3 Sport",
-          "count": 20
+          "count": 16
         }
       ]
     },
@@ -148,12 +148,12 @@
       "make": "mazda",
       "model": "CX-30",
       "shard": "Lower Mainland",
-      "count": 29,
+      "count": 33,
       "file": "inventory/new-mazda-cx-30-lower-mainland.json",
       "models": [
         {
           "model": "CX-30",
-          "count": 29
+          "count": 33
         }
       ]
     },
@@ -162,12 +162,12 @@
       "make": "mazda",
       "model": "CX-30",
       "shard": "Vancouver Island",
-      "count": 26,
+      "count": 27,
       "file": "inventory/new-mazda-cx-30-vancouver-island.json",
       "models": [
         {
           "model": "CX-30",
-          "count": 26
+          "count": 27
         }
       ]
     },
@@ -188,12 +188,12 @@
       "condition": "new",
       "make": "mazda",
       "model": "CX-70 MHEV",
-      "count": 23,
+      "count": 22,
       "file": "inventory/new-mazda-cx-70-mhev.json",
       "models": [
         {
           "model": "CX-70 MHEV",
-          "count": 23
+          "count": 22
         }
       ]
     },
@@ -267,12 +267,12 @@
       "make": "mazda",
       "model": "CX-90 PHEV",
       "shard": "Lower Mainland",
-      "count": 24,
+      "count": 26,
       "file": "inventory/new-mazda-cx-90-phev-lower-mainland.json",
       "models": [
         {
           "model": "CX-90 PHEV",
-          "count": 24
+          "count": 26
         }
       ]
     },
@@ -281,12 +281,12 @@
       "make": "mazda",
       "model": "CX-90 PHEV",
       "shard": "Vancouver Island",
-      "count": 16,
+      "count": 15,
       "file": "inventory/new-mazda-cx-90-phev-vancouver-island.json",
       "models": [
         {
           "model": "CX-90 PHEV",
-          "count": 16
+          "count": 15
         }
       ]
     },
@@ -320,12 +320,12 @@
       "condition": "new",
       "make": "mazda",
       "model": "CX-70 PHEV",
-      "count": 25,
+      "count": 26,
       "file": "inventory/new-mazda-cx-70-phev.json",
       "models": [
         {
           "model": "CX-70 PHEV",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -377,6 +377,19 @@
       "models": [
         {
           "model": "Mazda3 Sport GX Auto FWD",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mazda",
+      "model": "CX-70",
+      "count": 1,
+      "file": "inventory/new-mazda-cx-70.json",
+      "models": [
+        {
+          "model": "CX-70",
           "count": 1
         }
       ]

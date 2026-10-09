@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
-  "snapshot": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
+  "snapshot": "2026-10-09T10:00:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "burrard-acura-ja4j4ua85pz616099",
@@ -27,6 +27,31 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Burrard Acura"
+    },
+    {
+      "pub_id": "go-langley-mitsubishi-ja4j4ua82sz626873",
+      "year": 2025,
+      "make": "Mitsubishi",
+      "model": "Outlander ES S-AWC",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 39336,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "Blue",
+      "dealer_id": "go-langley-mitsubishi",
+      "vin": "JA4J4UA82SZ626873",
+      "stock": "MO0021E",
+      "listing_url": "https://www.langleymitsubishi.com/vehicles/2025/mitsubishi/outlander/surrey/bc/71519970/?sale_class=used",
+      "dealer_url": "https://www.langleymitsubishi.com/vehicles/2025/mitsubishi/outlander/surrey/bc/71519970/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T02:12:16",
+      "snapshot": "2026-10-09T02:16:18",
+      "go_url": "https://carwhisper.ca/go/go-langley-mitsubishi-ja4j4ua82sz626873",
+      "region": "Lower Mainland",
+      "city": "Surrey",
+      "province": "BC",
+      "dealer_name": "Go Langley Mitsubishi"
     },
     {
       "pub_id": "pacific-honda-ja4j4ua85pz616099",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
   "condition": "used",
   "make": "infiniti",
   "files": [
@@ -32,19 +32,6 @@
     {
       "condition": "used",
       "make": "infiniti",
-      "model": "QX60",
-      "count": 19,
-      "file": "inventory/used-infiniti-qx60.json",
-      "models": [
-        {
-          "model": "QX60",
-          "count": 19
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "infiniti",
       "model": "QX50",
       "count": 29,
       "file": "inventory/used-infiniti-qx50.json",
@@ -58,13 +45,26 @@
     {
       "condition": "used",
       "make": "infiniti",
+      "model": "QX60",
+      "count": 21,
+      "file": "inventory/used-infiniti-qx60.json",
+      "models": [
+        {
+          "model": "QX60",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "infiniti",
       "model": "QX55",
-      "count": 11,
+      "count": 10,
       "file": "inventory/used-infiniti-qx55.json",
       "models": [
         {
           "model": "QX55",
-          "count": 11
+          "count": 10
         }
       ]
     },
@@ -72,12 +72,12 @@
       "condition": "used",
       "make": "infiniti",
       "model": "QX80",
-      "count": 7,
+      "count": 9,
       "file": "inventory/used-infiniti-qx80.json",
       "models": [
         {
           "model": "QX80",
-          "count": 7
+          "count": 9
         }
       ]
     },
@@ -97,12 +97,12 @@
     {
       "condition": "used",
       "make": "infiniti",
-      "model": "FX",
+      "model": "Q603.0t Red Sport 400 2dr All-Wheel Drive",
       "count": 1,
-      "file": "inventory/used-infiniti-fx.json",
+      "file": "inventory/used-infiniti-q603-0t-red-sport-400-2dr-all-wheel-drive.json",
       "models": [
         {
-          "model": "FX",
+          "model": "Q603.0t Red Sport 400 2dr All-Wheel Drive",
           "count": 1
         }
       ]
@@ -110,12 +110,38 @@
     {
       "condition": "used",
       "make": "infiniti",
-      "model": "EX",
+      "model": "FX45",
       "count": 1,
-      "file": "inventory/used-infiniti-ex.json",
+      "file": "inventory/used-infiniti-fx45.json",
       "models": [
         {
-          "model": "EX",
+          "model": "FX45",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "infiniti",
+      "model": "EX35",
+      "count": 1,
+      "file": "inventory/used-infiniti-ex35.json",
+      "models": [
+        {
+          "model": "EX35",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "infiniti",
+      "model": "QX65",
+      "count": 1,
+      "file": "inventory/used-infiniti-qx65.json",
+      "models": [
+        {
+          "model": "QX65",
           "count": 1
         }
       ]

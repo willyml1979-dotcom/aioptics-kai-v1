@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
-  "snapshot": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
+  "snapshot": "2026-10-09T10:00:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 18,
+  "count": 19,
   "vehicles": [
     {
       "pub_id": "marine-chrysler-dodge-jeep-ltd-1v2mr2ca1kc514673",
@@ -240,6 +240,35 @@
       "city": "Coquitlam",
       "province": "BC",
       "dealer_name": "Go Kia West"
+    },
+    {
+      "pub_id": "destination-burnaby-honda-happy-honda-1v2sr2caxpc553387",
+      "year": 2023,
+      "make": "Volkswagen",
+      "model": "Atlas",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 68300,
+      "price_cad": 35995.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/b0de8a69-1d5c-4452-8396-ec42b91629f0_91a8d12d-dcc5-4582-ae5e-680f7dbbcac4.jpg",
+      "dealer_id": "destination-burnaby-honda-happy-honda",
+      "vin": "1V2SR2CAXPC553387",
+      "stock": "B14543A",
+      "listing_url": "https://www.destinationhonda.ca/vehicles/2023/volkswagen/atlas/burnaby/bc/71481311/?sale_class=used",
+      "dealer_url": "https://www.destinationhonda.ca/vehicles/2023/volkswagen/atlas/burnaby/bc/71481311/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T00:18:11",
+      "snapshot": "2026-10-09T00:22:41",
+      "go_url": "https://carwhisper.ca/go/destination-burnaby-honda-happy-honda-1v2sr2caxpc553387",
+      "region": "Lower Mainland",
+      "city": "Burnaby",
+      "province": "BC",
+      "dealer_name": "Destination Burnaby Honda (Happy Honda)"
     },
     {
       "pub_id": "journey-vw-of-coquitlam-1v2br2ca0pc532161",

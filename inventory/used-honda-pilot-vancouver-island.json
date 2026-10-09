@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
-  "snapshot": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
+  "snapshot": "2026-10-09T10:00:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "island-chevrolet-buick-gmc-5fnyf6h34hb504406",
@@ -32,6 +32,33 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Island Chevrolet Buick GMC"
+    },
+    {
+      "pub_id": "campus-nissan-5fnyf6h95mb501867",
+      "year": 2021,
+      "make": "Honda",
+      "model": "Pilot",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 133829,
+      "price_cad": 31595.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/84c229bf-7325-4624-ac20-dae52a72faa6_b80f893c-d987-4137-bc39-585c65767615.jpg",
+      "dealer_id": "campus-nissan",
+      "vin": "5FNYF6H95MB501867",
+      "stock": "JI4439",
+      "listing_url": "https://www.campusnissan.com/vehicles/2021/honda/pilot/victoria/bc/71470897/?sale_class=used",
+      "dealer_url": "https://www.campusnissan.com/vehicles/2021/honda/pilot/victoria/bc/71470897/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T21:14:01",
+      "snapshot": "2026-10-08T21:21:50",
+      "go_url": "https://carwhisper.ca/go/campus-nissan-5fnyf6h95mb501867",
+      "region": "Vancouver Island",
+      "city": "Victoria",
+      "province": "BC",
+      "dealer_name": "Campus Nissan"
     }
   ]
 }

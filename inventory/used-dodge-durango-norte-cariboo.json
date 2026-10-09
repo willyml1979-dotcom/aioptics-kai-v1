@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
-  "snapshot": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
+  "snapshot": "2026-10-09T10:00:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 7,
+  "count": 8,
   "vehicles": [
     {
       "pub_id": "subaru-of-prince-george-1c4rdjdg0jc400794",
@@ -31,6 +31,31 @@
       "city": "Prince George",
       "province": "BC",
       "dealer_name": "Subaru of Prince George"
+    },
+    {
+      "pub_id": "fort-motors-ltd-1c4sdjct9jc323388",
+      "year": 2018,
+      "make": "Dodge",
+      "model": "Durango",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 136221,
+      "price_cad": 27995.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "fort-motors-ltd",
+      "vin": "1C4SDJCT9JC323388",
+      "stock": "Y23388",
+      "listing_url": "https://www.fortmotors.ca/inventory/2018-dodge-durango/14853302",
+      "dealer_url": "https://www.fortmotors.ca/inventory/2018-dodge-durango/14853302?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T01:08:44",
+      "snapshot": "2026-10-09T01:13:00",
+      "go_url": "https://carwhisper.ca/go/fort-motors-ltd-1c4sdjct9jc323388",
+      "region": "Norte/Cariboo",
+      "city": "Fort St. John",
+      "province": "BC",
+      "dealer_name": "Fort Motors Ltd."
     },
     {
       "pub_id": "prince-george-ford-1c4rdjag3nc193294",

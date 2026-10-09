@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
   "condition": "used",
   "make": "chrysler",
   "files": [
@@ -75,9 +75,13 @@
       "make": "chrysler",
       "model": "PACIFICA",
       "shard": "Norte/Cariboo",
-      "count": 6,
+      "count": 7,
       "file": "inventory/used-chrysler-pacifica-norte-cariboo.json",
       "models": [
+        {
+          "model": "PACIFICA",
+          "count": 1
+        },
         {
           "model": "Pacifica",
           "count": 6
@@ -117,12 +121,12 @@
       "make": "chrysler",
       "model": "PACIFICA",
       "shard": "Vancouver Island",
-      "count": 4,
+      "count": 5,
       "file": "inventory/used-chrysler-pacifica-vancouver-island.json",
       "models": [
         {
           "model": "Pacifica",
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -144,8 +148,37 @@
       "condition": "used",
       "make": "chrysler",
       "model": "Grand Caravan",
-      "count": 32,
-      "file": "inventory/used-chrysler-grand-caravan.json",
+      "shard": "Lower Mainland",
+      "count": 7,
+      "file": "inventory/used-chrysler-grand-caravan-lower-mainland.json",
+      "models": [
+        {
+          "model": "Grand Caravan",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chrysler",
+      "model": "Grand Caravan",
+      "shard": "Norte/Cariboo",
+      "count": 1,
+      "file": "inventory/used-chrysler-grand-caravan-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Grand Caravan",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chrysler",
+      "model": "Grand Caravan",
+      "shard": "Okanagan",
+      "count": 2,
+      "file": "inventory/used-chrysler-grand-caravan-okanagan.json",
       "models": [
         {
           "model": "GRAND CARAVAN",
@@ -153,7 +186,49 @@
         },
         {
           "model": "Grand Caravan",
-          "count": 31
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chrysler",
+      "model": "Grand Caravan",
+      "shard": "Thompson-Okanagan",
+      "count": 1,
+      "file": "inventory/used-chrysler-grand-caravan-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "Grand Caravan",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chrysler",
+      "model": "Grand Caravan",
+      "shard": "Vancouver Island",
+      "count": 8,
+      "file": "inventory/used-chrysler-grand-caravan-vancouver-island.json",
+      "models": [
+        {
+          "model": "Grand Caravan",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chrysler",
+      "model": "Grand Caravan",
+      "shard": "sin-region",
+      "count": 15,
+      "file": "inventory/used-chrysler-grand-caravan-sin-region.json",
+      "models": [
+        {
+          "model": "Grand Caravan",
+          "count": 15
         }
       ]
     },
@@ -173,6 +248,19 @@
     {
       "condition": "used",
       "make": "chrysler",
+      "model": "Sebring",
+      "count": 1,
+      "file": "inventory/used-chrysler-sebring.json",
+      "models": [
+        {
+          "model": "Sebring",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chrysler",
       "model": "Grand Caravan SXT 2WD",
       "count": 1,
       "file": "inventory/used-chrysler-grand-caravan-sxt-2wd.json",
@@ -186,12 +274,12 @@
     {
       "condition": "used",
       "make": "chrysler",
-      "model": "Town & Country",
+      "model": "Town &amp; Country",
       "count": 1,
-      "file": "inventory/used-chrysler-town-country.json",
+      "file": "inventory/used-chrysler-town-amp-country.json",
       "models": [
         {
-          "model": "Town & Country",
+          "model": "Town &amp; Country",
           "count": 1
         }
       ]

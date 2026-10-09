@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
-  "snapshot": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
+  "snapshot": "2026-10-09T10:00:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 9,
+  "count": 10,
   "vehicles": [
     {
       "pub_id": "greg-gardner-motors-ltd-1g1fy6s04l4127309",
@@ -63,6 +63,32 @@
       "city": "Squamish",
       "province": "BC",
       "dealer_name": "Greg Gardner Motors Ltd."
+    },
+    {
+      "pub_id": "eagle-ridge-chevrolet-buick-gmc-ltd-1g1fw6s03h4180709",
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Bolt",
+      "trim": "LT",
+      "propulsion": "electric",
+      "propulsion_source": "model_variant",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "Blue",
+      "dealer_id": "eagle-ridge-chevrolet-buick-gmc-ltd",
+      "vin": "1G1FW6S03H4180709",
+      "stock": "170384P",
+      "listing_url": "https://www.eagleridgegm.com/inventory/2017-chevrolet-bolt-ev-lt-Vd2dqY1kRBSIPOQLDTH5eQvdp",
+      "dealer_url": "https://www.eagleridgegm.com/inventory/2017-chevrolet-bolt-ev-lt-Vd2dqY1kRBSIPOQLDTH5eQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T00:59:21",
+      "snapshot": "2026-10-09T01:01:28",
+      "go_url": "https://carwhisper.ca/go/eagle-ridge-chevrolet-buick-gmc-ltd-1g1fw6s03h4180709",
+      "region": "Lower Mainland",
+      "city": "Coquitlam",
+      "province": "BC",
+      "dealer_name": "Eagle Ridge Chevrolet Buick GMC Ltd."
     },
     {
       "pub_id": "north-shore-kia-1g1fx6s00j4115593",

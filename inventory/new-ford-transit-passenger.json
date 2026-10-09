@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
-  "snapshot": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
+  "snapshot": "2026-10-09T10:00:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "brown-bros-ford-lincoln-1fbax2cg9tkb26620",
@@ -151,6 +151,30 @@
       "city": "Kitimat",
       "province": "BC",
       "dealer_name": "Snow Valley Ford Sales"
+    },
+    {
+      "pub_id": "fort-motors-ltd-1fbax9cg1tkb51472",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Transit Passenger",
+      "body_type": "wagon",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": 97150.0,
+      "price_note": null,
+      "dealer_id": "fort-motors-ltd",
+      "vin": "1FBAX9CG1TKB51472",
+      "stock": "51472Y",
+      "listing_url": "https://www.fortmotors.ca/inventory/2026-ford-transit-passenger-wagon/14923220",
+      "dealer_url": "https://www.fortmotors.ca/inventory/2026-ford-transit-passenger-wagon/14923220?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T01:15:15",
+      "snapshot": "2026-10-09T01:18:51",
+      "go_url": "https://carwhisper.ca/go/fort-motors-ltd-1fbax9cg1tkb51472",
+      "region": "Norte/Cariboo",
+      "city": "Fort St. John",
+      "province": "BC",
+      "dealer_name": "Fort Motors Ltd."
     },
     {
       "pub_id": "applewood-ford-1fbax9c82tkb19509",

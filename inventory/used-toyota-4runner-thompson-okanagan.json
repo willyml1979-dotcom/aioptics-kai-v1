@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
-  "snapshot": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
+  "snapshot": "2026-10-09T10:00:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "sun-country-toyota-jtenu5jr6n6052480",
@@ -61,6 +61,32 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Rivershore Chrysler Dodge Jeep Ram"
+    },
+    {
+      "pub_id": "dearborn-motors-ltd-jtebu5jr8l5797754",
+      "year": 2020,
+      "make": "Toyota",
+      "model": "4Runner",
+      "trim": "4dr 4x4",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 127563,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "dearborn-motors-ltd",
+      "vin": "JTEBU5JR8L5797754",
+      "stock": "G6478A",
+      "listing_url": "https://www.dearbornford.com/used/vehicle/2020-toyota-4runner-base-id15418054.htm",
+      "dealer_url": "https://www.dearbornford.com/used/vehicle/2020-toyota-4runner-base-id15418054.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T22:46:07",
+      "snapshot": "2026-10-08T22:52:33",
+      "go_url": "https://carwhisper.ca/go/dearborn-motors-ltd-jtebu5jr8l5797754",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Dearborn Motors Ltd."
     }
   ]
 }

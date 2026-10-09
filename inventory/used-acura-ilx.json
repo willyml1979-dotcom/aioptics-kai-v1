@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
-  "snapshot": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
+  "snapshot": "2026-10-09T10:00:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "jonker-honda-19ude2f70ga800192",
@@ -52,7 +52,7 @@
       "listing_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/ilx/2018-acura-ilx-id39137592",
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/ilx/2018-acura-ilx-id39137592?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T03:41:48",
-      "snapshot": "2026-10-08T15:56:46",
+      "snapshot": "2026-10-08T22:04:28",
       "go_url": "https://carwhisper.ca/go/acura-of-langley-19ude2f76ja800320",
       "region": "Lower Mainland",
       "city": "Langley",
@@ -132,7 +132,7 @@
       "listing_url": "https://www.harmonyacura.com/used/2017-Acura-ILX.html",
       "dealer_url": "https://www.harmonyacura.com/used/2017-Acura-ILX.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:11:08",
-      "snapshot": "2026-09-26T09:17:16",
+      "snapshot": "2026-10-09T02:41:38",
       "go_url": "https://carwhisper.ca/go/harmony-acura-19ude2f86ha800255",
       "region": "Okanagan",
       "city": "Kelowna",
@@ -162,6 +162,30 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Harmony Honda"
+    },
+    {
+      "pub_id": "harmony-acura-19ude2f75ka800097",
+      "year": 2019,
+      "make": "Acura",
+      "model": "ILX",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 24990.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "harmony-acura",
+      "vin": "19UDE2F75KA800097",
+      "stock": 14450428,
+      "listing_url": "https://www.harmonyacura.com/used/2019-Acura-ILX.html",
+      "dealer_url": "https://www.harmonyacura.com/used/2019-Acura-ILX.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T02:35:59",
+      "snapshot": "2026-10-09T02:41:38",
+      "go_url": "https://carwhisper.ca/go/harmony-acura-19ude2f75ka800097",
+      "region": "Okanagan",
+      "city": "Kelowna",
+      "province": "BC",
+      "dealer_name": "Harmony Acura"
     }
   ]
 }

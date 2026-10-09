@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
   "condition": "used",
   "make": "land-rover",
   "files": [
@@ -7,12 +7,12 @@
       "condition": "used",
       "make": "land-rover",
       "model": "Discovery",
-      "count": 6,
+      "count": 5,
       "file": "inventory/used-land-rover-discovery.json",
       "models": [
         {
           "model": "Discovery",
-          "count": 6
+          "count": 5
         }
       ]
     },
@@ -33,12 +33,12 @@
       "condition": "used",
       "make": "land-rover",
       "model": "Range Rover Evoque",
-      "count": 15,
+      "count": 14,
       "file": "inventory/used-land-rover-range-rover-evoque.json",
       "models": [
         {
           "model": "Range Rover Evoque",
-          "count": 15
+          "count": 14
         }
       ]
     },
@@ -77,12 +77,12 @@
       "make": "land-rover",
       "model": "Range Rover Sport",
       "shard": "Lower Mainland",
-      "count": 28,
+      "count": 30,
       "file": "inventory/used-land-rover-range-rover-sport-lower-mainland.json",
       "models": [
         {
           "model": "Range Rover Sport",
-          "count": 28
+          "count": 30
         }
       ]
     },
@@ -97,20 +97,6 @@
         {
           "model": "Range Rover Sport",
           "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "land-rover",
-      "model": "Range Rover Sport",
-      "shard": "Vancouver Island",
-      "count": 2,
-      "file": "inventory/used-land-rover-range-rover-sport-vancouver-island.json",
-      "models": [
-        {
-          "model": "Range Rover Sport",
-          "count": 2
         }
       ]
     },

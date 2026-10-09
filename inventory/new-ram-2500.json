@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
-  "snapshot": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
+  "snapshot": "2026-10-09T10:00:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 27,
+  "count": 28,
   "vehicles": [
     {
       "pub_id": "sullivan-motor-products-nelson-ltd-3c63r5cl3tg202781",
@@ -129,6 +129,30 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Kelowna Chrysler Dodge Ltd."
+    },
+    {
+      "pub_id": "comox-valley-dodge-3c63r5cl6vg400175",
+      "year": 2027,
+      "make": "RAM",
+      "model": "2500",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": 104485.0,
+      "price_note": null,
+      "color": "Grey",
+      "dealer_id": "comox-valley-dodge",
+      "vin": "3C63R5CL6VG400175",
+      "stock": 14247862,
+      "listing_url": "https://www.comoxvalleydodge.com/new/inventory/2027-RAM-2500.html",
+      "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2027-RAM-2500.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T21:09:41",
+      "snapshot": "2026-10-08T21:12:29",
+      "go_url": "https://carwhisper.ca/go/comox-valley-dodge-3c63r5cl6vg400175",
+      "region": "Vancouver Island",
+      "city": "Courtenay",
+      "province": "BC",
+      "dealer_name": "Comox Valley Dodge"
     },
     {
       "pub_id": "duncan-chrysler-dodge-jeep-ram-ltd-3c6ur5hj6vg355945",

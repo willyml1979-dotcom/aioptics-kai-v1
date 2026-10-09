@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
-  "snapshot": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
+  "snapshot": "2026-10-09T10:00:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "north-shore-kia-knagu4le3j5028829",
@@ -32,6 +32,31 @@
       "city": "North Vancouver",
       "province": "BC",
       "dealer_name": "North Shore Kia"
+    },
+    {
+      "pub_id": "duncan-hyundai-knagn4ad1e5064113",
+      "year": 2014,
+      "make": "Kia",
+      "model": "Optima Hybrid",
+      "propulsion": "hybrid",
+      "propulsion_source": "model_trim_name",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "price_cad": 5999.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "duncan-hyundai",
+      "vin": "KNAGN4AD1E5064113",
+      "stock": 14495931,
+      "listing_url": "https://www.duncanhyundai.net/used/2014-Kia-Optima_Hybrid.html",
+      "dealer_url": "https://www.duncanhyundai.net/used/2014-Kia-Optima_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T22:46:05",
+      "snapshot": "2026-10-08T23:59:08",
+      "go_url": "https://carwhisper.ca/go/duncan-hyundai-knagn4ad1e5064113",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Hyundai"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
-  "snapshot": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
+  "snapshot": "2026-10-09T10:00:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 9,
+  "count": 10,
   "vehicles": [
     {
       "pub_id": "maple-ridge-hyundai-1c4sjvgpxps552643",
@@ -175,6 +175,30 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Island Ford"
+    },
+    {
+      "pub_id": "duncan-hyundai-1c4sjvgpxps552643",
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Grand Wagoneer",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 63995.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "duncan-hyundai",
+      "vin": "1C4SJVGPXPS552643",
+      "stock": 13308215,
+      "listing_url": "https://www.duncanhyundai.net/used/2023-Jeep-Grand_Wagoneer.html",
+      "dealer_url": "https://www.duncanhyundai.net/used/2023-Jeep-Grand_Wagoneer.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T23:33:21",
+      "snapshot": "2026-10-08T23:59:08",
+      "go_url": "https://carwhisper.ca/go/duncan-hyundai-1c4sjvgpxps552643",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Hyundai"
     },
     {
       "pub_id": "victoria-hyundai-1c4sjvgpxps552643",

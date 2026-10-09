@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
-  "snapshot": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
+  "snapshot": "2026-10-09T10:00:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "kelowna-hyundai-ja4at4aa5jz607383",
@@ -144,6 +144,30 @@
       "city": "Penticton",
       "province": "BC",
       "dealer_name": "Penticton Nissan"
+    },
+    {
+      "pub_id": "harmony-acura-ja4atuaa0rz617119",
+      "year": 2024,
+      "make": "Mitsubishi",
+      "model": "Eclipse Cross",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 27999.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "harmony-acura",
+      "vin": "JA4ATUAA0RZ617119",
+      "stock": 14482140,
+      "listing_url": "https://www.harmonyacura.com/used/2024-Mitsubishi-Eclipse_Cross.html",
+      "dealer_url": "https://www.harmonyacura.com/used/2024-Mitsubishi-Eclipse_Cross.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T02:38:57",
+      "snapshot": "2026-10-09T02:41:38",
+      "go_url": "https://carwhisper.ca/go/harmony-acura-ja4atuaa0rz617119",
+      "region": "Okanagan",
+      "city": "Kelowna",
+      "province": "BC",
+      "dealer_name": "Harmony Acura"
     }
   ]
 }

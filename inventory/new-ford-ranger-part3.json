@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
-  "snapshot": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
+  "snapshot": "2026-10-09T10:00:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 27,
   "vehicles": [
@@ -330,6 +330,30 @@
       "city": "Dawson Creek",
       "province": "BC",
       "dealer_name": "Bannister Ford Ltd"
+    },
+    {
+      "pub_id": "fort-motors-ltd-1fter4ph5tle52933",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Ranger",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": 48515.0,
+      "price_note": null,
+      "color": "Carbonized Grey Metallic",
+      "dealer_id": "fort-motors-ltd",
+      "vin": "1FTER4PH5TLE52933",
+      "stock": "52933Y",
+      "listing_url": "https://www.fortmotors.ca/inventory/2026-ford-ranger/14879801",
+      "dealer_url": "https://www.fortmotors.ca/inventory/2026-ford-ranger/14879801?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T01:14:35",
+      "snapshot": "2026-10-09T01:18:51",
+      "go_url": "https://carwhisper.ca/go/fort-motors-ltd-1fter4ph5tle52933",
+      "region": "Norte/Cariboo",
+      "city": "Fort St. John",
+      "province": "BC",
+      "dealer_name": "Fort Motors Ltd."
     },
     {
       "pub_id": "cariboo-ford-ltd-1fter4ph6tle35882",
@@ -757,36 +781,6 @@
       "city": "Smithers",
       "province": "BC",
       "dealer_name": "Hoskins Ford Sales Ltd"
-    },
-    {
-      "pub_id": "cariboo-ford-ltd-1fter4hp4tle47339",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Ranger",
-      "trim": "XLT 4WD SuperCrew 5' Box",
-      "body_type": "truck",
-      "drivetrain": "4WD",
-      "propulsion": "gas",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
-      "condition": "new",
-      "odometer_km": 36,
-      "price_cad": 59789.0,
-      "price_note": null,
-      "color": "Gray",
-      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,op_mc,ow_100,v1/adjustment/WFVSRWA53BGTBMTYLYXNZ3GRYA%3Binventory/YYCSZJUL6VFLNMYXAU72BFHB6I.webp",
-      "dealer_id": "cariboo-ford-ltd",
-      "vin": "1FTER4HP4TLE47339",
-      "stock": "26T114",
-      "listing_url": "https://www.caribooford.com/inventory/2026-ford-ranger-xlt-1b2Dt1UwRRegtxSM61Ndqgvdp",
-      "dealer_url": "https://www.caribooford.com/inventory/2026-ford-ranger-xlt-1b2Dt1UwRRegtxSM61Ndqgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T14:42:10",
-      "snapshot": "2026-10-08T14:42:14",
-      "go_url": "https://carwhisper.ca/go/cariboo-ford-ltd-1fter4hp4tle47339",
-      "region": "Norte/Cariboo",
-      "city": "Quesnel",
-      "province": "BC",
-      "dealer_name": "Cariboo Ford Ltd."
     }
   ]
 }

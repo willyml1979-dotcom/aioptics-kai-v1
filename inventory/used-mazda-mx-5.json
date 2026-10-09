@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
-  "snapshot": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
+  "snapshot": "2026-10-09T10:00:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 7,
+  "count": 8,
   "vehicles": [
     {
       "pub_id": "maple-ridge-hyundai-jm1ndac7xr0602605",
@@ -147,6 +147,30 @@
       "city": "Courtenay",
       "province": "BC",
       "dealer_name": "Comox Valley Toyota"
+    },
+    {
+      "pub_id": "duncan-hyundai-jm1ndac7xr0602605",
+      "year": 2024,
+      "make": "Mazda",
+      "model": "MX-5",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 32695.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "duncan-hyundai",
+      "vin": "JM1NDAC7XR0602605",
+      "stock": 13822957,
+      "listing_url": "https://www.duncanhyundai.net/used/2024-Mazda-MX_5.html",
+      "dealer_url": "https://www.duncanhyundai.net/used/2024-Mazda-MX_5.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T23:43:49",
+      "snapshot": "2026-10-08T23:59:08",
+      "go_url": "https://carwhisper.ca/go/duncan-hyundai-jm1ndac7xr0602605",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Hyundai"
     },
     {
       "pub_id": "victoria-hyundai-jm1ndac7xr0602605",

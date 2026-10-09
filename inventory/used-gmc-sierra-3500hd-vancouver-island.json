@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
-  "snapshot": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
+  "snapshot": "2026-10-09T10:00:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "island-chevrolet-buick-gmc-1gt42xcy3jf278198",
@@ -61,6 +61,33 @@
       "city": "Courtenay",
       "province": "BC",
       "dealer_name": "Brian McLean Chevrolet Buick GMC Ltd."
+    },
+    {
+      "pub_id": "campbell-river-hyundai-1gt4utey8sf261673",
+      "year": 2025,
+      "make": "GMC",
+      "model": "Sierra 3500HD",
+      "propulsion": "diesel",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 19586,
+      "price_cad": 78998.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/e55657fd-8fb4-42f6-a67d-e6ed57e46da0_b51335be-ea39-4fa2-920b-0adeaac192b1.jpg?promo=588b9355-d893-4389-8110-3bcf44509431_1&overlay-type=tadv",
+      "dealer_id": "campbell-river-hyundai",
+      "vin": "1GT4UTEY8SF261673",
+      "stock": "N26091",
+      "listing_url": "https://www.campbellriverhyundai.com/vehicles/2025/gmc/sierra-3500hd/campbell-river/bc/71096199/?sale_class=used",
+      "dealer_url": "https://www.campbellriverhyundai.com/vehicles/2025/gmc/sierra-3500hd/campbell-river/bc/71096199/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T22:31:29",
+      "snapshot": "2026-10-08T22:33:52",
+      "go_url": "https://carwhisper.ca/go/campbell-river-hyundai-1gt4utey8sf261673",
+      "region": "Vancouver Island",
+      "city": "Campbell River",
+      "province": "BC",
+      "dealer_name": "Campbell River Hyundai"
     },
     {
       "pub_id": "island-chevrolet-buick-gmc-1gt49uey1rf370672",

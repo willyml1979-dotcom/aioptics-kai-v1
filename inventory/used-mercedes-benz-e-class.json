@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
-  "snapshot": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
+  "snapshot": "2026-10-09T10:00:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 8,
+  "count": 9,
   "vehicles": [
     {
       "pub_id": "chilliwack-mitsubishi-wdbuf82j24x113836",
@@ -61,6 +61,34 @@
       "city": "Port Coquitlam",
       "province": "BC",
       "dealer_name": "Tricity Mitsubishi"
+    },
+    {
+      "pub_id": "destination-kingsway-honda-vancouver-wddhf8jbxda683024",
+      "year": 2013,
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "body_type": "sedan",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 149822,
+      "price_cad": 14995.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://www.kingswayhonda.ca/wp-content/themes/convertus-achilles/achilles/assets/images/srp-placeholder/PV.jpg",
+      "dealer_id": "destination-kingsway-honda-vancouver",
+      "vin": "WDDHF8JBXDA683024",
+      "stock": "HP10117",
+      "listing_url": "https://www.kingswayhonda.ca/vehicles/2013/mercedes-benz/e-class-sedan/vancouver/bc/71490468/?sale_class=used",
+      "dealer_url": "https://www.kingswayhonda.ca/vehicles/2013/mercedes-benz/e-class-sedan/vancouver/bc/71490468/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T00:49:03",
+      "snapshot": "2026-10-09T00:55:55",
+      "go_url": "https://carwhisper.ca/go/destination-kingsway-honda-vancouver-wddhf8jbxda683024",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Destination Kingsway Honda Vancouver"
     },
     {
       "pub_id": "burrard-acura-wddzh6bb4la720147",

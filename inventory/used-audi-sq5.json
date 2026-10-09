@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
-  "snapshot": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
+  "snapshot": "2026-10-09T10:00:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 8,
+  "count": 9,
   "vehicles": [
     {
       "pub_id": "jim-pattison-volvo-cars-surrey-wa1c4afy3j2174438",
@@ -138,6 +138,29 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Brian Jessel BMW"
+    },
+    {
+      "pub_id": "harmony-acura-wa1a4afy6j2022001",
+      "year": 2018,
+      "make": "Audi",
+      "model": "SQ5",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 31900.0,
+      "price_note": null,
+      "dealer_id": "harmony-acura",
+      "vin": "WA1A4AFY6J2022001",
+      "stock": 14471283,
+      "listing_url": "https://www.harmonyacura.com/used/2018-Audi-SQ5.html",
+      "dealer_url": "https://www.harmonyacura.com/used/2018-Audi-SQ5.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T02:35:31",
+      "snapshot": "2026-10-09T02:41:38",
+      "go_url": "https://carwhisper.ca/go/harmony-acura-wa1a4afy6j2022001",
+      "region": "Okanagan",
+      "city": "Kelowna",
+      "province": "BC",
+      "dealer_name": "Harmony Acura"
     },
     {
       "pub_id": "applewood-ford-wa1c4afy5k2005135",

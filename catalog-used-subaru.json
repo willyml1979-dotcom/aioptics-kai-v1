@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
   "condition": "used",
   "make": "subaru",
   "files": [
@@ -119,12 +119,12 @@
       "make": "subaru",
       "model": "Crosstrek",
       "shard": "part8",
-      "count": 27,
+      "count": 23,
       "file": "inventory/used-subaru-crosstrek-part8.json",
       "models": [
         {
           "model": "Crosstrek",
-          "count": 27
+          "count": 23
         }
       ]
     },
@@ -147,12 +147,12 @@
       "make": "subaru",
       "model": "Outback",
       "shard": "Lower Mainland",
-      "count": 24,
+      "count": 25,
       "file": "inventory/used-subaru-outback-lower-mainland.json",
       "models": [
         {
           "model": "Outback",
-          "count": 24
+          "count": 25
         }
       ]
     },
@@ -175,12 +175,12 @@
       "make": "subaru",
       "model": "Outback",
       "shard": "Okanagan",
-      "count": 20,
+      "count": 21,
       "file": "inventory/used-subaru-outback-okanagan.json",
       "models": [
         {
           "model": "Outback",
-          "count": 20
+          "count": 21
         }
       ]
     },
@@ -189,12 +189,12 @@
       "make": "subaru",
       "model": "Outback",
       "shard": "Vancouver Island",
-      "count": 8,
+      "count": 9,
       "file": "inventory/used-subaru-outback-vancouver-island.json",
       "models": [
         {
           "model": "Outback",
-          "count": 8
+          "count": 9
         }
       ]
     },
@@ -482,12 +482,12 @@
       "make": "subaru",
       "model": "Impreza",
       "shard": "Vancouver Island",
-      "count": 3,
+      "count": 2,
       "file": "inventory/used-subaru-impreza-vancouver-island.json",
       "models": [
         {
           "model": "Impreza",
-          "count": 3
+          "count": 2
         }
       ]
     },
@@ -586,19 +586,6 @@
     {
       "condition": "used",
       "make": "subaru",
-      "model": "XV Crosstrek",
-      "count": 3,
-      "file": "inventory/used-subaru-xv-crosstrek.json",
-      "models": [
-        {
-          "model": "XV Crosstrek",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "subaru",
       "model": "Crosstrek Outdoor CVT",
       "count": 1,
       "file": "inventory/used-subaru-crosstrek-outdoor-cvt.json",
@@ -619,6 +606,19 @@
         {
           "model": "WRX STI",
           "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Outback PREMIUM",
+      "count": 1,
+      "file": "inventory/used-subaru-outback-premium.json",
+      "models": [
+        {
+          "model": "Outback PREMIUM",
+          "count": 1
         }
       ]
     },
@@ -671,6 +671,19 @@
         {
           "model": "WRX Sport-tech",
           "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "XV Crosstrek",
+      "count": 2,
+      "file": "inventory/used-subaru-xv-crosstrek.json",
+      "models": [
+        {
+          "model": "XV Crosstrek",
+          "count": 2
         }
       ]
     },

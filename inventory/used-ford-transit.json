@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
-  "snapshot": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
+  "snapshot": "2026-10-09T10:00:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 7,
+  "count": 8,
   "vehicles": [
     {
       "pub_id": "maple-ridge-hyundai-1fbax2xv4hka79237",
@@ -101,6 +101,30 @@
       "dealer_name": "Penticton Nissan"
     },
     {
+      "pub_id": "duncan-hyundai-1fbax2xv4hka79237",
+      "year": 2017,
+      "make": "Ford",
+      "model": "Transit",
+      "body_type": "wagon",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 38995.0,
+      "price_note": null,
+      "dealer_id": "duncan-hyundai",
+      "vin": "1FBAX2XV4HKA79237",
+      "stock": 13923215,
+      "listing_url": "https://www.duncanhyundai.net/used/2017-Ford-Transit.html",
+      "dealer_url": "https://www.duncanhyundai.net/used/2017-Ford-Transit.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T22:55:17",
+      "snapshot": "2026-10-08T23:59:08",
+      "go_url": "https://carwhisper.ca/go/duncan-hyundai-1fbax2xv4hka79237",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Hyundai"
+    },
+    {
       "pub_id": "victoria-hyundai-1fbax2xv4hka79237",
       "year": 2017,
       "make": "Ford",
@@ -172,7 +196,7 @@
       "listing_url": "https://www.sherwoodparkchev.com/vehicles/2026/ford/transit/edmonton/ab/71226339/?sale_class=used",
       "dealer_url": "https://www.sherwoodparkchev.com/vehicles/2026/ford/transit/edmonton/ab/71226339/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T01:19:56",
-      "snapshot": "2026-10-08T01:23:56",
+      "snapshot": "2026-10-09T01:38:56",
       "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-1fbax9cg3tka03436",
       "city": null,
       "province": "AB",

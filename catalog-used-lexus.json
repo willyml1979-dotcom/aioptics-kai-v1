@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
   "condition": "used",
   "make": "lexus",
   "files": [
@@ -20,12 +20,12 @@
       "condition": "used",
       "make": "lexus",
       "model": "ES",
-      "count": 5,
+      "count": 6,
       "file": "inventory/used-lexus-es.json",
       "models": [
         {
           "model": "ES",
-          "count": 5
+          "count": 6
         }
       ]
     },
@@ -33,80 +33,11 @@
       "condition": "used",
       "make": "lexus",
       "model": "IS 250",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-lexus-is-250.json",
       "models": [
         {
           "model": "IS 250",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "lexus",
-      "model": "RX",
-      "count": 28,
-      "file": "inventory/used-lexus-rx.json",
-      "models": [
-        {
-          "model": "RX",
-          "count": 28
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "lexus",
-      "model": "NX",
-      "shard": "Lower Mainland",
-      "count": 22,
-      "file": "inventory/used-lexus-nx-lower-mainland.json",
-      "models": [
-        {
-          "model": "NX",
-          "count": 22
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "lexus",
-      "model": "NX",
-      "shard": "Okanagan",
-      "count": 3,
-      "file": "inventory/used-lexus-nx-okanagan.json",
-      "models": [
-        {
-          "model": "NX",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "lexus",
-      "model": "NX",
-      "shard": "Thompson-Okanagan",
-      "count": 1,
-      "file": "inventory/used-lexus-nx-thompson-okanagan.json",
-      "models": [
-        {
-          "model": "NX",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "lexus",
-      "model": "NX",
-      "shard": "Vancouver Island",
-      "count": 2,
-      "file": "inventory/used-lexus-nx-vancouver-island.json",
-      "models": [
-        {
-          "model": "NX",
           "count": 2
         }
       ]
@@ -114,14 +45,26 @@
     {
       "condition": "used",
       "make": "lexus",
+      "model": "RX",
+      "count": 29,
+      "file": "inventory/used-lexus-rx.json",
+      "models": [
+        {
+          "model": "RX",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
       "model": "NX",
-      "shard": "sin-region",
-      "count": 8,
-      "file": "inventory/used-lexus-nx-sin-region.json",
+      "count": 34,
+      "file": "inventory/used-lexus-nx.json",
       "models": [
         {
           "model": "NX",
-          "count": 8
+          "count": 34
         }
       ]
     },
@@ -142,12 +85,12 @@
       "condition": "used",
       "make": "lexus",
       "model": "UX",
-      "count": 7,
+      "count": 10,
       "file": "inventory/used-lexus-ux.json",
       "models": [
         {
           "model": "UX",
-          "count": 7
+          "count": 10
         }
       ]
     },
@@ -187,6 +130,19 @@
         {
           "model": "UXh",
           "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "NX Plug-in Hybrid",
+      "count": 1,
+      "file": "inventory/used-lexus-nx-plug-in-hybrid.json",
+      "models": [
+        {
+          "model": "NX Plug-in Hybrid",
+          "count": 1
         }
       ]
     },

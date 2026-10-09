@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
-  "snapshot": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
+  "snapshot": "2026-10-09T10:00:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 11,
+  "count": 12,
   "vehicles": [
     {
       "pub_id": "subaru-of-prince-george-2fmpk4j90hbb85539",
@@ -220,7 +220,7 @@
       "listing_url": "https://www.fortmotors.ca/inventory/2024-ford-edge/14311571",
       "dealer_url": "https://www.fortmotors.ca/inventory/2024-ford-edge/14311571?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T06:24:37",
-      "snapshot": "2026-09-26T06:26:42",
+      "snapshot": "2026-10-09T01:13:00",
       "go_url": "https://carwhisper.ca/go/fort-motors-ltd-2fmpk4j91rba96435",
       "region": "Norte/Cariboo",
       "city": "Fort St. John",
@@ -244,7 +244,7 @@
       "listing_url": "https://www.fortmotors.ca/inventory/2024-ford-edge/14491978",
       "dealer_url": "https://www.fortmotors.ca/inventory/2024-ford-edge/14491978?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T06:24:50",
-      "snapshot": "2026-09-26T06:26:42",
+      "snapshot": "2026-10-09T01:13:00",
       "go_url": "https://carwhisper.ca/go/fort-motors-ltd-2fmpk4j95rba95921",
       "region": "Norte/Cariboo",
       "city": "Fort St. John",
@@ -307,6 +307,31 @@
       "city": "Williams Lake",
       "province": "BC",
       "dealer_name": "Cariboo Chevrolet Buick GMC Ltd."
+    },
+    {
+      "pub_id": "fort-motors-ltd-2fmpk4j92gbb28855",
+      "year": 2016,
+      "make": "Ford",
+      "model": "Edge",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 138983,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "Magnetic",
+      "dealer_id": "fort-motors-ltd",
+      "vin": "2FMPK4J92GBB28855",
+      "stock": "Y28855",
+      "listing_url": "https://www.fortmotors.ca/inventory/2016-ford-edge/14923226",
+      "dealer_url": "https://www.fortmotors.ca/inventory/2016-ford-edge/14923226?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T01:08:25",
+      "snapshot": "2026-10-09T01:13:00",
+      "go_url": "https://carwhisper.ca/go/fort-motors-ltd-2fmpk4j92gbb28855",
+      "region": "Norte/Cariboo",
+      "city": "Fort St. John",
+      "province": "BC",
+      "dealer_name": "Fort Motors Ltd."
     }
   ]
 }

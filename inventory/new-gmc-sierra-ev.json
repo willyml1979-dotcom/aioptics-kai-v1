@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
-  "snapshot": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
+  "snapshot": "2026-10-09T10:00:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "preston-chevrolet-buick-gmc-cadillac-ltd-1gt1eted8tu418080",
@@ -55,6 +55,36 @@
       "city": "Maple Ridge",
       "province": "BC",
       "dealer_name": "Maple Ridge Hyundai"
+    },
+    {
+      "pub_id": "dueck-richmond-1gt4evel3tu419878",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra EV",
+      "trim": "e4WD Crew Cab Max Range AT4",
+      "body_type": "truck",
+      "drivetrain": "4WD",
+      "propulsion": "electric",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 0,
+      "price_cad": 116058.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,op_bc,ow_100,v1/adjustment/YQSHGIFU4ZD7FGZP5UU56AGAGQ%3Binventory/HO43MIMFNBGYPMZUUEGXNJB36M.webp",
+      "dealer_id": "dueck-richmond",
+      "vin": "1GT4EVEL3TU419878",
+      "stock": "26CE9878",
+      "listing_url": "https://www.dueckrichmond.com/inventory/2026-gmc-sierra-ev-max-range-at4-UTZrRJzDRryuna5BIFb5VQvdp",
+      "dealer_url": "https://www.dueckrichmond.com/inventory/2026-gmc-sierra-ev-max-range-at4-UTZrRJzDRryuna5BIFb5VQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T00:13:58",
+      "snapshot": "2026-10-09T00:16:05",
+      "go_url": "https://carwhisper.ca/go/dueck-richmond-1gt4evel3tu419878",
+      "region": "Lower Mainland",
+      "city": "Richmond",
+      "province": "BC",
+      "dealer_name": "Dueck Richmond"
     },
     {
       "pub_id": "kelowna-hyundai-1gt40lel6su401120",

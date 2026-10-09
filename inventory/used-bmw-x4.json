@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
-  "snapshot": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
+  "snapshot": "2026-10-09T10:00:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "chilliwack-mitsubishi-5uxxw7c30h0u26759",
@@ -147,6 +147,29 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Kelowna Toyota Ltd."
+    },
+    {
+      "pub_id": "duncan-hyundai-5uxuj3c50klg52465",
+      "year": 2019,
+      "make": "BMW",
+      "model": "X4",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 29995.0,
+      "price_note": null,
+      "dealer_id": "duncan-hyundai",
+      "vin": "5UXUJ3C50KLG52465",
+      "stock": 14478624,
+      "listing_url": "https://www.duncanhyundai.net/used/2019-BMW-X4.html",
+      "dealer_url": "https://www.duncanhyundai.net/used/2019-BMW-X4.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T23:04:04",
+      "snapshot": "2026-10-08T23:59:08",
+      "go_url": "https://carwhisper.ca/go/duncan-hyundai-5uxuj3c50klg52465",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Hyundai"
     }
   ]
 }

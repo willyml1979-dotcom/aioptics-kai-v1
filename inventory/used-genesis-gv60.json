@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
-  "snapshot": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
+  "snapshot": "2026-10-09T10:00:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 7,
+  "count": 8,
   "vehicles": [
     {
       "pub_id": "openroad-mercedes-benz-surrey-kmukedtb3pu009869",
@@ -147,6 +147,30 @@
       "city": "Penticton",
       "province": "BC",
       "dealer_name": "Penticton Nissan"
+    },
+    {
+      "pub_id": "duncan-hyundai-kmukedtb7pu004352",
+      "year": 2023,
+      "make": "Genesis",
+      "model": "GV60",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 53995.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "duncan-hyundai",
+      "vin": "KMUKEDTB7PU004352",
+      "stock": 14327762,
+      "listing_url": "https://www.duncanhyundai.net/used/2023-Genesis-GV60.html",
+      "dealer_url": "https://www.duncanhyundai.net/used/2023-Genesis-GV60.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T23:30:54",
+      "snapshot": "2026-10-08T23:59:08",
+      "go_url": "https://carwhisper.ca/go/duncan-hyundai-kmukedtb7pu004352",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Hyundai"
     },
     {
       "pub_id": "victoria-hyundai-kmukedtb7pu004352",

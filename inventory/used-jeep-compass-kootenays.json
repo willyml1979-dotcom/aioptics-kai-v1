@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
-  "snapshot": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
+  "snapshot": "2026-10-09T10:00:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "kootenay-chrysler-dodge-jeep-ram-ltd-3c4njdan1rt594618",
@@ -58,6 +58,33 @@
       "city": "Nelson",
       "province": "BC",
       "dealer_name": "Sullivan Motor Products-Nelson Ltd"
+    },
+    {
+      "pub_id": "fernie-chrysler-3c4njdfn3rt588859",
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Altitude",
+      "drivetrain": "FWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 28187,
+      "price_cad": 32778.0,
+      "price_note": null,
+      "dealer_id": "fernie-chrysler",
+      "vin": "3C4NJDFN3RT588859",
+      "stock": "14400750",
+      "listing_url": "https://www.ferniechrysler.com/used/2024-Jeep-Compass-id14400750.html",
+      "dealer_url": "https://www.ferniechrysler.com/used/2024-Jeep-Compass-id14400750.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T01:09:57",
+      "snapshot": "2026-10-09T01:11:28",
+      "go_url": "https://carwhisper.ca/go/fernie-chrysler-3c4njdfn3rt588859",
+      "region": "Kootenays",
+      "city": "Fernie",
+      "province": "BC",
+      "dealer_name": "Fernie Chrysler"
     }
   ]
 }

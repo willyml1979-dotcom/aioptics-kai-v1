@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
-  "snapshot": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
+  "snapshot": "2026-10-09T10:00:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "maple-ridge-hyundai-559938",
@@ -99,6 +99,30 @@
       "city": "Penticton",
       "province": "BC",
       "dealer_name": "Penticton Nissan"
+    },
+    {
+      "pub_id": "duncan-hyundai-559938",
+      "year": 2014,
+      "make": "International",
+      "model": "TerraStar",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 39998.0,
+      "price_note": null,
+      "color": "Gold",
+      "dealer_id": "duncan-hyundai",
+      "vin": "",
+      "stock": 559938,
+      "listing_url": "https://www.duncanhyundai.net/used/heavy_trucks/2014-International-TerraStar.html",
+      "dealer_url": "https://www.duncanhyundai.net/used/heavy_trucks/2014-International-TerraStar.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T23:59:03",
+      "snapshot": "2026-10-08T23:59:08",
+      "go_url": "https://carwhisper.ca/go/duncan-hyundai-559938",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Hyundai"
     },
     {
       "pub_id": "victoria-hyundai-559938",

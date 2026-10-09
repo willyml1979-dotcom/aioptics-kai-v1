@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
   "condition": "used",
   "make": "acura",
   "files": [
@@ -7,12 +7,12 @@
       "condition": "used",
       "make": "acura",
       "model": "ILX",
-      "count": 6,
+      "count": 7,
       "file": "inventory/used-acura-ilx.json",
       "models": [
         {
           "model": "ILX",
-          "count": 6
+          "count": 7
         }
       ]
     },
@@ -33,13 +33,13 @@
       "condition": "used",
       "make": "acura",
       "model": "RDX",
-      "shard": "Lower Mainland",
-      "count": 34,
-      "file": "inventory/used-acura-rdx-lower-mainland.json",
+      "shard": "part1",
+      "count": 28,
+      "file": "inventory/used-acura-rdx-part1.json",
       "models": [
         {
           "model": "RDX",
-          "count": 34
+          "count": 28
         }
       ]
     },
@@ -47,55 +47,13 @@
       "condition": "used",
       "make": "acura",
       "model": "RDX",
-      "shard": "Okanagan",
-      "count": 7,
-      "file": "inventory/used-acura-rdx-okanagan.json",
+      "shard": "part2",
+      "count": 27,
+      "file": "inventory/used-acura-rdx-part2.json",
       "models": [
         {
           "model": "RDX",
-          "count": 7
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "acura",
-      "model": "RDX",
-      "shard": "Thompson-Okanagan",
-      "count": 1,
-      "file": "inventory/used-acura-rdx-thompson-okanagan.json",
-      "models": [
-        {
-          "model": "RDX",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "acura",
-      "model": "RDX",
-      "shard": "Vancouver Island",
-      "count": 2,
-      "file": "inventory/used-acura-rdx-vancouver-island.json",
-      "models": [
-        {
-          "model": "RDX",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "acura",
-      "model": "RDX",
-      "shard": "sin-region",
-      "count": 6,
-      "file": "inventory/used-acura-rdx-sin-region.json",
-      "models": [
-        {
-          "model": "RDX",
-          "count": 6
+          "count": 27
         }
       ]
     },
@@ -115,27 +73,14 @@
     {
       "condition": "used",
       "make": "acura",
-      "model": "MDX Elite 6sp at",
-      "count": 2,
-      "file": "inventory/used-acura-mdx-elite-6sp-at.json",
-      "models": [
-        {
-          "model": "MDX Elite 6sp at",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "acura",
       "model": "MDX",
       "shard": "Lower Mainland",
-      "count": 30,
+      "count": 31,
       "file": "inventory/used-acura-mdx-lower-mainland.json",
       "models": [
         {
           "model": "MDX",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -144,12 +89,12 @@
       "make": "acura",
       "model": "MDX",
       "shard": "Okanagan",
-      "count": 16,
+      "count": 15,
       "file": "inventory/used-acura-mdx-okanagan.json",
       "models": [
         {
           "model": "MDX",
-          "count": 16
+          "count": 15
         }
       ]
     },
@@ -158,12 +103,12 @@
       "make": "acura",
       "model": "MDX",
       "shard": "Vancouver Island",
-      "count": 5,
+      "count": 4,
       "file": "inventory/used-acura-mdx-vancouver-island.json",
       "models": [
         {
           "model": "MDX",
-          "count": 5
+          "count": 4
         }
       ]
     },
@@ -184,6 +129,19 @@
     {
       "condition": "used",
       "make": "acura",
+      "model": "MDX Elite 6sp at",
+      "count": 2,
+      "file": "inventory/used-acura-mdx-elite-6sp-at.json",
+      "models": [
+        {
+          "model": "MDX Elite 6sp at",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "acura",
       "model": "TLX",
       "count": 5,
       "file": "inventory/used-acura-tlx.json",
@@ -198,12 +156,12 @@
       "condition": "used",
       "make": "acura",
       "model": "Integra",
-      "count": 20,
+      "count": 21,
       "file": "inventory/used-acura-integra.json",
       "models": [
         {
           "model": "Integra",
-          "count": 20
+          "count": 21
         }
       ]
     },
@@ -211,12 +169,12 @@
       "condition": "used",
       "make": "acura",
       "model": "ADX",
-      "count": 9,
+      "count": 12,
       "file": "inventory/used-acura-adx.json",
       "models": [
         {
           "model": "ADX",
-          "count": 9
+          "count": 12
         }
       ]
     },
@@ -294,6 +252,19 @@
       "models": [
         {
           "model": "MDX A-SPEC",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "acura",
+      "model": "MDXElite 7-Passenger (A9) 4dr SH-AWD",
+      "count": 1,
+      "file": "inventory/used-acura-mdxelite-7-passenger-a9-4dr-sh-awd.json",
+      "models": [
+        {
+          "model": "MDXElite 7-Passenger (A9) 4dr SH-AWD",
           "count": 1
         }
       ]

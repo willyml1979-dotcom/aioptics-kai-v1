@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
   "condition": "used",
   "make": "mercedes-benz",
   "files": [
@@ -20,7 +20,7 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "E-Class",
-      "count": 8,
+      "count": 9,
       "file": "inventory/used-mercedes-benz-e-class.json",
       "models": [
         {
@@ -29,7 +29,7 @@
         },
         {
           "model": "E-Class",
-          "count": 7
+          "count": 8
         }
       ]
     },
@@ -89,12 +89,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLA",
-      "count": 24,
+      "count": 23,
       "file": "inventory/used-mercedes-benz-gla.json",
       "models": [
         {
           "model": "GLA",
-          "count": 24
+          "count": 23
         }
       ]
     },
@@ -102,12 +102,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "CLA",
-      "count": 11,
+      "count": 12,
       "file": "inventory/used-mercedes-benz-cla.json",
       "models": [
         {
           "model": "CLA",
-          "count": 11
+          "count": 12
         }
       ]
     },
@@ -128,12 +128,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLE",
-      "count": 16,
+      "count": 17,
       "file": "inventory/used-mercedes-benz-gle.json",
       "models": [
         {
           "model": "GLE",
-          "count": 16
+          "count": 17
         }
       ]
     },
@@ -548,19 +548,6 @@
     {
       "condition": "used",
       "make": "mercedes-benz",
-      "model": "EQE",
-      "count": 3,
-      "file": "inventory/used-mercedes-benz-eqe.json",
-      "models": [
-        {
-          "model": "EQE",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mercedes-benz",
       "model": "E 450",
       "count": 2,
       "file": "inventory/used-mercedes-benz-e-450.json",
@@ -575,12 +562,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLE53",
-      "count": 10,
+      "count": 11,
       "file": "inventory/used-mercedes-benz-gle53.json",
       "models": [
         {
           "model": "GLE53",
-          "count": 10
+          "count": 11
         }
       ]
     },
@@ -645,6 +632,19 @@
       "models": [
         {
           "model": "GLE 450e",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "EQE320",
+      "count": 1,
+      "file": "inventory/used-mercedes-benz-eqe320.json",
+      "models": [
+        {
+          "model": "EQE320",
           "count": 1
         }
       ]
@@ -1003,6 +1003,19 @@
     {
       "condition": "used",
       "make": "mercedes-benz",
+      "model": "EQE",
+      "count": 2,
+      "file": "inventory/used-mercedes-benz-eqe.json",
+      "models": [
+        {
+          "model": "EQE",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
       "model": "A-Class Sedan A 220 4MATIC Sedan",
       "count": 1,
       "file": "inventory/used-mercedes-benz-a-class-sedan-a-220-4matic-sedan.json",
@@ -1120,38 +1133,12 @@
     {
       "condition": "used",
       "make": "mercedes-benz",
-      "model": "B 250",
-      "count": 1,
-      "file": "inventory/used-mercedes-benz-b-250.json",
-      "models": [
-        {
-          "model": "B 250",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mercedes-benz",
       "model": "GLE 400",
       "count": 1,
       "file": "inventory/used-mercedes-benz-gle-400.json",
       "models": [
         {
           "model": "GLE 400",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mercedes-benz",
-      "model": "SL-Class",
-      "count": 1,
-      "file": "inventory/used-mercedes-benz-sl-class.json",
-      "models": [
-        {
-          "model": "SL-Class",
           "count": 1
         }
       ]
@@ -1328,12 +1315,12 @@
     {
       "condition": "used",
       "make": "mercedes-benz",
-      "model": "M-ClassML 350 4dr All-Wheel Drive 4MATIC",
+      "model": "A-Class Sedan A 220",
       "count": 1,
-      "file": "inventory/used-mercedes-benz-m-classml-350-4dr-all-wheel-drive-4matic.json",
+      "file": "inventory/used-mercedes-benz-a-class-sedan-a-220.json",
       "models": [
         {
-          "model": "M-ClassML 350 4dr All-Wheel Drive 4MATIC",
+          "model": "A-Class Sedan A 220",
           "count": 1
         }
       ]

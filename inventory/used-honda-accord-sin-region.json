@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
-  "snapshot": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
+  "snapshot": "2026-10-09T10:00:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 7,
+  "count": 8,
   "vehicles": [
     {
       "pub_id": "go-downtown-kia-1hgcv1f9xka803598",
@@ -25,7 +25,7 @@
       "listing_url": "https://www.godowntownkia.ca/vehicles/2019/honda/accord-sedan/vancouver/bc/70920290/?sale_class=used",
       "dealer_url": "https://www.godowntownkia.ca/vehicles/2019/honda/accord-sedan/vancouver/bc/70920290/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T18:44:56",
-      "snapshot": "2026-10-08T00:39:06",
+      "snapshot": "2026-10-09T00:49:41",
       "go_url": "https://carwhisper.ca/go/go-downtown-kia-1hgcv1f9xka803598",
       "city": null,
       "province": "BC",
@@ -112,6 +112,32 @@
       "city": null,
       "province": "ON",
       "dealer_name": "Go Auto Brampton Chrysler"
+    },
+    {
+      "pub_id": "go-downtown-kia-1hgcy2f85sa800175",
+      "year": 2025,
+      "make": "Honda",
+      "model": "Accord",
+      "trim": "Hybrid Touring eCVT",
+      "propulsion": "hybrid",
+      "propulsion_source": "model_trim_name",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 10406,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "Grey",
+      "dealer_id": "go-downtown-kia",
+      "vin": "1HGCY2F85SA800175",
+      "stock": "SP7043A",
+      "listing_url": "https://www.godowntownkia.ca/vehicles/2025/honda/accord-hybrid/vancouver/bc/71520011/?sale_class=used",
+      "dealer_url": "https://www.godowntownkia.ca/vehicles/2025/honda/accord-hybrid/vancouver/bc/71520011/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T00:46:46",
+      "snapshot": "2026-10-09T00:49:41",
+      "go_url": "https://carwhisper.ca/go/go-downtown-kia-1hgcy2f85sa800175",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Downtown Kia"
     },
     {
       "pub_id": "pacific-honda-1hgcv1f92ka803451",

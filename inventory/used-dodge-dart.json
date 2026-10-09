@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
-  "snapshot": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
+  "snapshot": "2026-10-09T10:00:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "island-ford-1c3cdfaa6dd290999",
@@ -34,6 +34,30 @@
       "dealer_name": "Island Ford"
     },
     {
+      "pub_id": "duncan-hyundai-1c3cdfah9dd303810",
+      "year": 2013,
+      "make": "Dodge",
+      "model": "Dart",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 3999.0,
+      "price_note": null,
+      "color": "Red",
+      "dealer_id": "duncan-hyundai",
+      "vin": "1C3CDFAH9DD303810",
+      "stock": 14474997,
+      "listing_url": "https://www.duncanhyundai.net/used/2013-Dodge-Dart.html",
+      "dealer_url": "https://www.duncanhyundai.net/used/2013-Dodge-Dart.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T22:42:31",
+      "snapshot": "2026-10-08T23:59:08",
+      "go_url": "https://carwhisper.ca/go/duncan-hyundai-1c3cdfah9dd303810",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Hyundai"
+    },
+    {
       "pub_id": "sherwood-park-chevrolet-ll23h1r263388",
       "year": 1971,
       "make": "Dodge",
@@ -52,7 +76,7 @@
       "listing_url": "https://www.sherwoodparkchev.com/vehicles/1971/dodge/dart/sherwood-park/ab/70831521/?sale_class=used",
       "dealer_url": "https://www.sherwoodparkchev.com/vehicles/1971/dodge/dart/sherwood-park/ab/70831521/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T00:15:06",
-      "snapshot": "2026-10-08T01:23:56",
+      "snapshot": "2026-10-09T01:38:56",
       "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-ll23h1r263388",
       "city": null,
       "province": "AB",

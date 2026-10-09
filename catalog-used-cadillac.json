@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
   "condition": "used",
   "make": "cadillac",
   "files": [
@@ -7,7 +7,7 @@
       "condition": "used",
       "make": "cadillac",
       "model": "Ats",
-      "count": 2,
+      "count": 3,
       "file": "inventory/used-cadillac-ats.json",
       "models": [
         {
@@ -16,7 +16,7 @@
         },
         {
           "model": "Ats",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -30,6 +30,19 @@
         {
           "model": "XT4",
           "count": 13
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "cadillac",
+      "model": "CT4",
+      "count": 2,
+      "file": "inventory/used-cadillac-ct4.json",
+      "models": [
+        {
+          "model": "CT4",
+          "count": 2
         }
       ]
     },
@@ -50,12 +63,12 @@
       "condition": "used",
       "make": "cadillac",
       "model": "Escalade",
-      "count": 22,
+      "count": 23,
       "file": "inventory/used-cadillac-escalade.json",
       "models": [
         {
           "model": "Escalade",
-          "count": 22
+          "count": 23
         }
       ]
     },
@@ -89,16 +102,33 @@
       "condition": "used",
       "make": "cadillac",
       "model": "LYRIQ",
-      "count": 16,
+      "count": 18,
       "file": "inventory/used-cadillac-lyriq.json",
       "models": [
         {
           "model": "LYRIQ",
-          "count": 11
+          "count": 12
         },
         {
           "model": "Lyriq",
-          "count": 5
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "cadillac",
+      "model": "OPTIQ",
+      "count": 4,
+      "file": "inventory/used-cadillac-optiq.json",
+      "models": [
+        {
+          "model": "OPTIQ",
+          "count": 1
+        },
+        {
+          "model": "Optiq",
+          "count": 3
         }
       ]
     },
@@ -118,19 +148,6 @@
     {
       "condition": "used",
       "make": "cadillac",
-      "model": "Optiq",
-      "count": 2,
-      "file": "inventory/used-cadillac-optiq.json",
-      "models": [
-        {
-          "model": "Optiq",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "cadillac",
       "model": "Escalade ESV",
       "count": 7,
       "file": "inventory/used-cadillac-escalade-esv.json",
@@ -144,6 +161,19 @@
     {
       "condition": "used",
       "make": "cadillac",
+      "model": "CTS-V",
+      "count": 1,
+      "file": "inventory/used-cadillac-cts-v.json",
+      "models": [
+        {
+          "model": "CTS-V",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "cadillac",
       "model": "Escalade IQ",
       "count": 4,
       "file": "inventory/used-cadillac-escalade-iq.json",
@@ -151,19 +181,6 @@
         {
           "model": "Escalade IQ",
           "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "cadillac",
-      "model": "CT4",
-      "count": 1,
-      "file": "inventory/used-cadillac-ct4.json",
-      "models": [
-        {
-          "model": "CT4",
-          "count": 1
         }
       ]
     },

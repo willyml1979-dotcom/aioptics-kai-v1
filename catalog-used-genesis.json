@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
   "condition": "used",
   "make": "genesis",
   "files": [
@@ -7,12 +7,12 @@
       "condition": "used",
       "make": "genesis",
       "model": "G70",
-      "count": 21,
+      "count": 22,
       "file": "inventory/used-genesis-g70.json",
       "models": [
         {
           "model": "G70",
-          "count": 21
+          "count": 22
         }
       ]
     },
@@ -20,12 +20,12 @@
       "condition": "used",
       "make": "genesis",
       "model": "GV70",
-      "count": 33,
+      "count": 35,
       "file": "inventory/used-genesis-gv70.json",
       "models": [
         {
           "model": "GV70",
-          "count": 33
+          "count": 35
         }
       ]
     },
@@ -33,12 +33,55 @@
       "condition": "used",
       "make": "genesis",
       "model": "GV80",
-      "count": 37,
-      "file": "inventory/used-genesis-gv80.json",
+      "shard": "Lower Mainland",
+      "count": 15,
+      "file": "inventory/used-genesis-gv80-lower-mainland.json",
       "models": [
         {
           "model": "GV80",
-          "count": 37
+          "count": 15
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "genesis",
+      "model": "GV80",
+      "shard": "Okanagan",
+      "count": 10,
+      "file": "inventory/used-genesis-gv80-okanagan.json",
+      "models": [
+        {
+          "model": "GV80",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "genesis",
+      "model": "GV80",
+      "shard": "Vancouver Island",
+      "count": 6,
+      "file": "inventory/used-genesis-gv80-vancouver-island.json",
+      "models": [
+        {
+          "model": "GV80",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "genesis",
+      "model": "GV80",
+      "shard": "sin-region",
+      "count": 10,
+      "file": "inventory/used-genesis-gv80-sin-region.json",
+      "models": [
+        {
+          "model": "GV80",
+          "count": 10
         }
       ]
     },
@@ -46,12 +89,12 @@
       "condition": "used",
       "make": "genesis",
       "model": "GV60",
-      "count": 7,
+      "count": 8,
       "file": "inventory/used-genesis-gv60.json",
       "models": [
         {
           "model": "GV60",
-          "count": 7
+          "count": 8
         }
       ]
     },
@@ -65,6 +108,19 @@
         {
           "model": "GV70 2.5T Advanced",
           "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "genesis",
+      "model": "G80",
+      "count": 1,
+      "file": "inventory/used-genesis-g80.json",
+      "models": [
+        {
+          "model": "G80",
+          "count": 1
         }
       ]
     }

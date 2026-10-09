@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
-  "snapshot": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
+  "snapshot": "2026-10-09T10:00:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 10,
+  "count": 11,
   "vehicles": [
     {
       "pub_id": "prince-george-ford-1ftbr2c85tka53541",
@@ -267,6 +267,31 @@
       "city": "Dawson Creek",
       "province": "BC",
       "dealer_name": "Bannister Ford Ltd"
+    },
+    {
+      "pub_id": "fort-motors-ltd-1ftbr2xg7tkb41301",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Transit Cargo",
+      "body_type": "van",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": 87765.0,
+      "price_note": null,
+      "color": "Oxford White",
+      "dealer_id": "fort-motors-ltd",
+      "vin": "1FTBR2XG7TKB41301",
+      "stock": "41301Y",
+      "listing_url": "https://www.fortmotors.ca/inventory/2026-ford-transit-cargo-van/14918027",
+      "dealer_url": "https://www.fortmotors.ca/inventory/2026-ford-transit-cargo-van/14918027?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T01:15:03",
+      "snapshot": "2026-10-09T01:18:51",
+      "go_url": "https://carwhisper.ca/go/fort-motors-ltd-1ftbr2xg7tkb41301",
+      "region": "Norte/Cariboo",
+      "city": "Fort St. John",
+      "province": "BC",
+      "dealer_name": "Fort Motors Ltd."
     },
     {
       "pub_id": "bannister-ford-ltd-1ftbw3ug4tkb31425",

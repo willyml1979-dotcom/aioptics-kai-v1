@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
-  "snapshot": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
+  "snapshot": "2026-10-09T10:00:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "sunshine-mountain-ford-lincoln-ltd-3fmcr9a66mra24945",
@@ -141,34 +141,6 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Island Ford"
-    },
-    {
-      "pub_id": "family-ford-ltd-3fmcr9da5srf74747",
-      "year": 2025,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "body_type": "truck",
-      "propulsion": "gas",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
-      "condition": "used",
-      "odometer_km": 2100,
-      "price_cad": 41998.0,
-      "price_note": null,
-      "color": "Blue",
-      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/b03b04cf-e1b1-45bf-8d64-3998fcc5a6a0_a3a1eea5-2a86-4f1b-a2ae-aa29eedaf580.jpg",
-      "dealer_id": "family-ford-ltd",
-      "vin": "3FMCR9DA5SRF74747",
-      "stock": "94736",
-      "listing_url": "https://www.ourfamilyford.com/vehicles/2025/ford/bronco-sport/parksville/bc/71344112/?sale_class=used",
-      "dealer_url": "https://www.ourfamilyford.com/vehicles/2025/ford/bronco-sport/parksville/bc/71344112/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T18:36:18",
-      "snapshot": "2026-09-26T18:37:56",
-      "go_url": "https://carwhisper.ca/go/family-ford-ltd-3fmcr9da5srf74747",
-      "region": "Vancouver Island",
-      "city": "Parksville",
-      "province": "BC",
-      "dealer_name": "Family Ford Ltd"
     }
   ]
 }

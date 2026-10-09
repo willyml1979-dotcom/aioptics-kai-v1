@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
-  "snapshot": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
+  "snapshot": "2026-10-09T10:00:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 4,
   "vehicles": [
     {
       "pub_id": "northland-chrysler-jeep-dodge-3vvux7b29rm128639",
@@ -58,6 +58,34 @@
       "city": "Prince George",
       "province": "BC",
       "dealer_name": "Hub City Volkswagen"
+    },
+    {
+      "pub_id": "fort-city-chrysler-3vvuc7b27sm069463",
+      "year": 2025,
+      "make": "VOLKSWAGEN",
+      "model": "Taos",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 49242,
+      "price_cad": 31998.0,
+      "price_note": null,
+      "color": "SILVER",
+      "photo_url": "https://portal.omni.auto/Media/SettingsMedia/4827fe8e-8393-42fb-8624-5e2ac294bfc2.webp",
+      "dealer_id": "fort-city-chrysler",
+      "vin": "3VVUC7B27SM069463",
+      "stock": "PT1170",
+      "listing_url": "https://fortcitychrysler.ca/Inventory/2025-VOLKSWAGEN-TAOS-COMFORTLINE-3VVUC7B27SM069463",
+      "dealer_url": "https://fortcitychrysler.ca/Inventory/2025-VOLKSWAGEN-TAOS-COMFORTLINE-3VVUC7B27SM069463?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T01:18:35",
+      "snapshot": "2026-10-09T01:20:58",
+      "go_url": "https://carwhisper.ca/go/fort-city-chrysler-3vvuc7b27sm069463",
+      "region": "Norte/Cariboo",
+      "city": "Fort St. John",
+      "province": "BC",
+      "dealer_name": "Fort City Chrysler"
     },
     {
       "pub_id": "prince-george-ford-3vvlx7b23rm113484",

@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-10-09T04:00:39+00:00",
+  "generated_at": "2026-10-09T10:00:41+00:00",
   "condition": "new",
   "make": "volvo",
   "files": [
+    {
+      "condition": "new",
+      "make": "volvo",
+      "model": "XC40",
+      "count": 26,
+      "file": "inventory/new-volvo-xc40.json",
+      "models": [
+        {
+          "model": "XC40",
+          "count": 26
+        }
+      ]
+    },
     {
       "condition": "new",
       "make": "volvo",
@@ -26,19 +39,6 @@
         {
           "model": "EX30",
           "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "volvo",
-      "model": "XC40",
-      "count": 25,
-      "file": "inventory/new-volvo-xc40.json",
-      "models": [
-        {
-          "model": "XC40",
-          "count": 25
         }
       ]
     },
