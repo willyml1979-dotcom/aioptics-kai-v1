@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
-  "snapshot": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
+  "snapshot": "2026-10-09T16:00:42+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 9,
+  "count": 10,
   "vehicles": [
     {
       "pub_id": "chilliwack-mitsubishi-5npe34af0kh762905",
@@ -164,6 +164,35 @@
       "city": "Maple Ridge",
       "province": "BC",
       "dealer_name": "Maple Ridge Hyundai"
+    },
+    {
+      "pub_id": "jim-pattison-hyundai-surrey-kmhl44ja6sa472311",
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Sonata",
+      "body_type": "sedan",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 12080,
+      "price_cad": 31490.0,
+      "price_note": null,
+      "color": "Blue",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/bbf3604d-2297-472c-9ffb-8f6f0c835fb4_469151eb-ef66-4d14-9c52-98760d86d6b2.jpg",
+      "dealer_id": "jim-pattison-hyundai-surrey",
+      "vin": "KMHL44JA6SA472311",
+      "stock": "UD-4723",
+      "listing_url": "https://www.jphyundaisurrey.com/vehicles/2025/hyundai/sonata/surrey/bc/65139299/?sale_class=used",
+      "dealer_url": "https://www.jphyundaisurrey.com/vehicles/2025/hyundai/sonata/surrey/bc/65139299/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T04:39:43",
+      "snapshot": "2026-10-09T04:40:57",
+      "go_url": "https://carwhisper.ca/go/jim-pattison-hyundai-surrey-kmhl44ja6sa472311",
+      "region": "Lower Mainland",
+      "city": "Surrey",
+      "province": "BC",
+      "dealer_name": "Jim Pattison Hyundai Surrey"
     },
     {
       "pub_id": "marine-chrysler-dodge-jeep-ltd-kmhl44ja4sa439047",

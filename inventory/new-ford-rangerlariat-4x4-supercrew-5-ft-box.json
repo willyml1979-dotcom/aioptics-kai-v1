@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
-  "snapshot": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
+  "snapshot": "2026-10-09T16:00:42+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "cam-clark-ford-richmond-ltd-1fter4kp1sle42669",
@@ -153,6 +153,31 @@
       "city": "Richmond",
       "province": "BC",
       "dealer_name": "Cam Clark Ford Richmond Ltd."
+    },
+    {
+      "pub_id": "kamloops-ford-lincoln-ltd-1fter4kp1sle42669",
+      "year": 2025,
+      "make": "Ford",
+      "model": "RANGERLARIAT 4X4 SUPERCREW 5 FT. BOX",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "Tan",
+      "dealer_id": "kamloops-ford-lincoln-ltd",
+      "vin": "1FTER4KP1SLE42669",
+      "stock": "25R2669",
+      "listing_url": "https://www.kamloopsford.ca/new/vehicle/2025-ford-ranger-lariat-id14749660.htm",
+      "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2025-ford-ranger-lariat-id14749660.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T08:03:01",
+      "snapshot": "2026-09-24T13:39:22",
+      "go_url": "https://carwhisper.ca/go/kamloops-ford-lincoln-ltd-1fter4kp1sle42669",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Kamloops Ford Lincoln Ltd."
     }
   ]
 }

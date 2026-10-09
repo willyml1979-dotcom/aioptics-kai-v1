@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
-  "snapshot": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
+  "snapshot": "2026-10-09T16:00:42+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "dearborn-motors-ltd-3ln6l5mu7hr614238",
@@ -30,6 +30,33 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Dearborn Motors Ltd."
+    },
+    {
+      "pub_id": "kamloops-ford-lincoln-ltd-3ln6l5mu7hr614238",
+      "year": 2017,
+      "make": "Lincoln",
+      "model": "MKZ HybridReserve 4dr Front-Wheel Drive",
+      "body_type": "sedan",
+      "drivetrain": "FWD",
+      "propulsion": "hybrid",
+      "propulsion_source": "url",
+      "propulsion_confidence": "low",
+      "condition": "used",
+      "odometer_km": 108655,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "kamloops-ford-lincoln-ltd",
+      "vin": "3LN6L5MU7HR614238",
+      "stock": "Z5304A",
+      "listing_url": "https://www.kamloopsford.ca/used/vehicle/2017-lincoln-mkz-hybrid-reserve-id15418057.htm",
+      "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2017-lincoln-mkz-hybrid-reserve-id15418057.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T07:20:53",
+      "snapshot": "2026-10-09T07:44:05",
+      "go_url": "https://carwhisper.ca/go/kamloops-ford-lincoln-ltd-3ln6l5mu7hr614238",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Kamloops Ford Lincoln Ltd."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
-  "snapshot": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
+  "snapshot": "2026-10-09T16:00:42+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "go-langley-mitsubishi-5yjsa1e56mf446841",
@@ -55,6 +55,32 @@
       "city": "Surrey",
       "province": "BC",
       "dealer_name": "OpenRoad Mercedes Benz Surrey"
+    },
+    {
+      "pub_id": "island-chevrolet-buick-gmc-5yjsa1h19efp45010",
+      "year": 2014,
+      "make": "Tesla",
+      "model": "Model S",
+      "propulsion": "electric",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 227121,
+      "price_cad": 16370.0,
+      "price_note": null,
+      "photo_url": "https://www.islandgm.com/wp-content/themes/convertus-achilles/achilles/assets/images/srp-placeholder/PV.jpg",
+      "dealer_id": "island-chevrolet-buick-gmc",
+      "vin": "5YJSA1H19EFP45010",
+      "stock": "N602448",
+      "listing_url": "https://www.islandgm.com/vehicles/2014/tesla/model-s/duncan/bc/ad13157100/?sale_class=used",
+      "dealer_url": "https://www.islandgm.com/vehicles/2014/tesla/model-s/duncan/bc/ad13157100/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T03:27:10",
+      "snapshot": "2026-10-09T03:33:23",
+      "go_url": "https://carwhisper.ca/go/island-chevrolet-buick-gmc-5yjsa1h19efp45010",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Island Chevrolet Buick GMC"
     }
   ]
 }

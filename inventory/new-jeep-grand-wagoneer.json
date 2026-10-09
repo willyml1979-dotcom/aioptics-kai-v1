@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
-  "snapshot": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
+  "snapshot": "2026-10-09T16:00:42+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 16,
+  "count": 17,
   "vehicles": [
     {
       "pub_id": "maple-ridge-chrysler-jeep-dodge-1c4sjvbp1ts193734",
@@ -77,6 +77,30 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Okanagan Chrysler Dodge Jeep Ram"
+    },
+    {
+      "pub_id": "kelowna-chrysler-dodge-ltd-1c4sjvep6ts190775",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Grand Wagoneer",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": 120351.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "kelowna-chrysler-dodge-ltd",
+      "vin": "1C4SJVEP6TS190775",
+      "stock": 14115476,
+      "listing_url": "https://www.kelownachrysler.com/new/inventory/2026-Jeep-Grand_Wagoneer.html",
+      "dealer_url": "https://www.kelownachrysler.com/new/inventory/2026-Jeep-Grand_Wagoneer.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T14:27:01",
+      "snapshot": "2026-10-09T07:09:47",
+      "go_url": "https://carwhisper.ca/go/kelowna-chrysler-dodge-ltd-1c4sjvep6ts190775",
+      "region": "Okanagan",
+      "city": "Kelowna",
+      "province": "BC",
+      "dealer_name": "Kelowna Chrysler Dodge Ltd."
     },
     {
       "pub_id": "duncan-chrysler-dodge-jeep-ram-ltd-1c4sjvdp6vs556948",

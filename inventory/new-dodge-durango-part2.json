@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
-  "snapshot": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
+  "snapshot": "2026-10-09T16:00:42+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 29,
+  "count": 28,
   "vehicles": [
     {
       "pub_id": "penticton-nissan-1c4sdjct3sc539562",
@@ -245,6 +245,30 @@
       "dealer_name": "Okanagan Chrysler Dodge Jeep Ram"
     },
     {
+      "pub_id": "kelowna-chrysler-dodge-ltd-1c4sdjct1vc587663",
+      "year": 2027,
+      "make": "Dodge",
+      "model": "Durango",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": 79385.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "kelowna-chrysler-dodge-ltd",
+      "vin": "1C4SDJCT1VC587663",
+      "stock": 14433807,
+      "listing_url": "https://www.kelownachrysler.com/new/inventory/2027-Dodge-Durango.html",
+      "dealer_url": "https://www.kelownachrysler.com/new/inventory/2027-Dodge-Durango.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T14:29:01",
+      "snapshot": "2026-10-09T07:09:47",
+      "go_url": "https://carwhisper.ca/go/kelowna-chrysler-dodge-ltd-1c4sdjct1vc587663",
+      "region": "Okanagan",
+      "city": "Kelowna",
+      "province": "BC",
+      "dealer_name": "Kelowna Chrysler Dodge Ltd."
+    },
+    {
       "pub_id": "okanagan-chrysler-dodge-jeep-ram-1c4sdjct5vc582062",
       "year": 2027,
       "make": "Dodge",
@@ -267,30 +291,6 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Okanagan Chrysler Dodge Jeep Ram"
-    },
-    {
-      "pub_id": "kelowna-infiniti-nissan-1c4sdjh91sc508890",
-      "year": 2025,
-      "make": "Dodge",
-      "model": "Durango",
-      "propulsion": "unknown",
-      "propulsion_source": null,
-      "condition": "new",
-      "price_cad": 97900.0,
-      "price_note": null,
-      "color": "Night Moves",
-      "dealer_id": "kelowna-infiniti-nissan",
-      "vin": "1C4SDJH91SC508890",
-      "stock": 14207425,
-      "listing_url": "https://www.kelownanissan.com/used/2025-Dodge-Durango.html",
-      "dealer_url": "https://www.kelownanissan.com/used/2025-Dodge-Durango.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T14:52:03",
-      "snapshot": "2026-09-26T15:01:08",
-      "go_url": "https://carwhisper.ca/go/kelowna-infiniti-nissan-1c4sdjh91sc508890",
-      "region": "Okanagan",
-      "city": "Kelowna",
-      "province": "BC",
-      "dealer_name": "Kelowna Infiniti Nissan"
     },
     {
       "pub_id": "duncan-chrysler-dodge-jeep-ram-ltd-1c4rdjdg9tc234830",
@@ -760,29 +760,6 @@
       "city": null,
       "province": "ON",
       "dealer_name": "Go Auto Brampton Chrysler"
-    },
-    {
-      "pub_id": "zender-ford-1c4sdjct9sc500197",
-      "year": 2025,
-      "make": "Dodge",
-      "model": "Durango",
-      "propulsion": "unknown",
-      "propulsion_source": null,
-      "condition": "new",
-      "price_cad": 49777.0,
-      "price_note": null,
-      "color": "Black",
-      "dealer_id": "zender-ford",
-      "vin": "1C4SDJCT9SC500197",
-      "stock": 14272701,
-      "listing_url": "https://www.zenderford.com/used/2025-Dodge-Durango.html",
-      "dealer_url": "https://www.zenderford.com/used/2025-Dodge-Durango.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T17:30:37",
-      "snapshot": "2026-10-08T14:47:01",
-      "go_url": "https://carwhisper.ca/go/zender-ford-1c4sdjct9sc500197",
-      "city": null,
-      "province": "AB",
-      "dealer_name": "Zender Ford"
     }
   ]
 }

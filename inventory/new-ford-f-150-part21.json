@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
-  "snapshot": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
+  "snapshot": "2026-10-09T16:00:42+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 30,
   "vehicles": [
+    {
+      "pub_id": "fort-motors-ltd-1ftfw3l83tfb88512",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": 83690.0,
+      "price_note": null,
+      "color": "Oxford White",
+      "dealer_id": "fort-motors-ltd",
+      "vin": "1FTFW3L83TFB88512",
+      "stock": "88512Y",
+      "listing_url": "https://www.fortmotors.ca/inventory/2026-ford-f-150/14628348",
+      "dealer_url": "https://www.fortmotors.ca/inventory/2026-ford-f-150/14628348?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T04:38:16",
+      "snapshot": "2026-10-09T01:18:51",
+      "go_url": "https://carwhisper.ca/go/fort-motors-ltd-1ftfw3l83tfb88512",
+      "region": "Norte/Cariboo",
+      "city": "Fort St. John",
+      "province": "BC",
+      "dealer_name": "Fort Motors Ltd."
+    },
     {
       "pub_id": "fort-motors-ltd-1ftfw3l86tke88598",
       "year": 2026,
@@ -794,30 +818,6 @@
       "city": "Dawson Creek",
       "province": "BC",
       "dealer_name": "Bannister Ford Ltd"
-    },
-    {
-      "pub_id": "fort-motors-ltd-1ftfw3l81tke12450",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "propulsion": "unknown",
-      "propulsion_source": null,
-      "condition": "new",
-      "price_cad": 85500.0,
-      "price_note": null,
-      "color": "Iconic Silver Metallic",
-      "dealer_id": "fort-motors-ltd",
-      "vin": "1FTFW3L81TKE12450",
-      "stock": "12450Y",
-      "listing_url": "https://www.fortmotors.ca/inventory/2026-ford-f-150/14208389",
-      "dealer_url": "https://www.fortmotors.ca/inventory/2026-ford-f-150/14208389?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T01:16:40",
-      "snapshot": "2026-10-09T01:18:51",
-      "go_url": "https://carwhisper.ca/go/fort-motors-ltd-1ftfw3l81tke12450",
-      "region": "Norte/Cariboo",
-      "city": "Fort St. John",
-      "province": "BC",
-      "dealer_name": "Fort Motors Ltd."
     }
   ]
 }

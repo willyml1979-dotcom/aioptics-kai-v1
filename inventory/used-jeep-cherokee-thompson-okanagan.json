@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
-  "snapshot": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
+  "snapshot": "2026-10-09T16:00:42+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 4,
   "vehicles": [
     {
       "pub_id": "volkswagen-of-kamloops-1c4pjmbx7kd210958",
@@ -30,6 +30,36 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Volkswagen of Kamloops"
+    },
+    {
+      "pub_id": "kamloops-chrysler-dodge-jeep-ram-inc-1c4pjmbx7ld562312",
+      "year": 2020,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": "Trailhawk Elite 4x4",
+      "body_type": "suv",
+      "drivetrain": "4WD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 146702,
+      "price_cad": 23988.0,
+      "price_note": null,
+      "color": "Red",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/inventory/3UT7KHYOUFEMFOWX43XFV3LLEE.webp",
+      "dealer_id": "kamloops-chrysler-dodge-jeep-ram-inc",
+      "vin": "1C4PJMBX7LD562312",
+      "stock": "1419",
+      "listing_url": "https://www.kamloopsram.com/inventory/2020-jeep-cherokee-trailhawk-elite-MhtMf8Z1Sm2AOs45muQlRwvdp",
+      "dealer_url": "https://www.kamloopsram.com/inventory/2020-jeep-cherokee-trailhawk-elite-MhtMf8Z1Sm2AOs45muQlRwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T06:43:42",
+      "snapshot": "2026-10-09T06:44:18",
+      "go_url": "https://carwhisper.ca/go/kamloops-chrysler-dodge-jeep-ram-inc-1c4pjmbx7ld562312",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Kamloops Chrysler Dodge Jeep Ram Inc."
     },
     {
       "pub_id": "bannister-chevrolet-cadillac-kamloops-ltd-1c4pjmmb7pd103272",

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
-  "snapshot": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
+  "snapshot": "2026-10-09T16:00:42+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "acura-of-langley-ja4t5va94sz606998",
@@ -26,7 +26,7 @@
       "listing_url": "https://www.acuraoflangley.ca/en/used-inventory/mitsubishi/outlander-plug-in-hybrid/2025-mitsubishi-outlander-plug-in-hybrid-id39174597",
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mitsubishi/outlander-plug-in-hybrid/2025-mitsubishi-outlander-plug-in-hybrid-id39174597?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T20:58:54",
-      "snapshot": "2026-10-08T22:04:28",
+      "snapshot": "2026-10-09T04:10:32",
       "go_url": "https://carwhisper.ca/go/acura-of-langley-ja4t5va94sz606998",
       "region": "Lower Mainland",
       "city": "Langley",
@@ -111,6 +111,31 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Dearborn Motors Ltd."
+    },
+    {
+      "pub_id": "kamloops-ford-lincoln-ltd-ja4t5ua96pz608253",
+      "year": 2023,
+      "make": "Mitsubishi",
+      "model": "Outlander Plug-In Hybrid",
+      "propulsion": "plug-in hybrid",
+      "propulsion_source": "model_trim_name",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 64986,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "kamloops-ford-lincoln-ltd",
+      "vin": "JA4T5UA96PZ608253",
+      "stock": "7X0072A",
+      "listing_url": "https://www.kamloopsford.ca/used/vehicle/2023-mitsubishi-outlander-plug-in-hybrid-id15431309.htm",
+      "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2023-mitsubishi-outlander-plug-in-hybrid-id15431309.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T07:31:52",
+      "snapshot": "2026-10-09T07:44:05",
+      "go_url": "https://carwhisper.ca/go/kamloops-ford-lincoln-ltd-ja4t5ua96pz608253",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Kamloops Ford Lincoln Ltd."
     },
     {
       "pub_id": "pacific-honda-ja4t5va94sz606998",

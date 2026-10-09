@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
-  "snapshot": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
+  "snapshot": "2026-10-09T16:00:42+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "dearborn-motors-ltd-jn1fv7el5hm700241",
@@ -29,6 +29,32 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Dearborn Motors Ltd."
+    },
+    {
+      "pub_id": "kamloops-ford-lincoln-ltd-jn1fv7el5hm700241",
+      "year": 2017,
+      "make": "Infiniti",
+      "model": "Q603.0t Red Sport 400 2dr All-Wheel Drive",
+      "body_type": "coupe",
+      "drivetrain": "AWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 107321,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "kamloops-ford-lincoln-ltd",
+      "vin": "JN1FV7EL5HM700241",
+      "stock": "G6478G",
+      "listing_url": "https://www.kamloopsford.ca/used/vehicle/2017-infiniti-q60-30t-red-sport-400-id15426649.htm",
+      "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2017-infiniti-q60-30t-red-sport-400-id15426649.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T07:20:12",
+      "snapshot": "2026-10-09T07:44:05",
+      "go_url": "https://carwhisper.ca/go/kamloops-ford-lincoln-ltd-jn1fv7el5hm700241",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Kamloops Ford Lincoln Ltd."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
-  "snapshot": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
+  "snapshot": "2026-10-09T16:00:42+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 8,
+  "count": 9,
   "vehicles": [
     {
       "pub_id": "destination-burnaby-honda-happy-honda-nmtkhmbx2jr001344",
@@ -113,6 +113,33 @@
       "city": "Prince George",
       "province": "BC",
       "dealer_name": "Subaru of Prince George"
+    },
+    {
+      "pub_id": "island-ford-nmtkhmbx3jr011204",
+      "year": 2018,
+      "make": "Toyota",
+      "model": "C-HR",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 78485,
+      "price_cad": 19999.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/5daad72c-2e51-477f-abf0-b8371561b03b_e2f21192-2e92-4589-8874-e0717ed6d066.jpg",
+      "dealer_id": "island-ford",
+      "vin": "NMTKHMBX3JR011204",
+      "stock": "26759AV",
+      "listing_url": "https://www.islandford.ca/vehicles/2018/toyota/c-hr/duncan/bc/71486942/?sale_class=used",
+      "dealer_url": "https://www.islandford.ca/vehicles/2018/toyota/c-hr/duncan/bc/71486942/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T03:47:55",
+      "snapshot": "2026-10-09T03:53:33",
+      "go_url": "https://carwhisper.ca/go/island-ford-nmtkhmbx3jr011204",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Island Ford"
     },
     {
       "pub_id": "campus-honda-nmtkhmbx2jr062144",

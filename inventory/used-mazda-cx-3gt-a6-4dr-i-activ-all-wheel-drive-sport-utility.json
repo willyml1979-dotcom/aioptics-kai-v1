@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
-  "snapshot": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
+  "snapshot": "2026-10-09T16:00:42+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "dearborn-motors-ltd-jm1dkfd79k1400528",
@@ -28,6 +28,31 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Dearborn Motors Ltd."
+    },
+    {
+      "pub_id": "kamloops-ford-lincoln-ltd-jm1dkfd79k1400528",
+      "year": 2019,
+      "make": "Mazda",
+      "model": "CX-3GT (A6) 4dr i-ACTIV All-Wheel Drive Sport Utility",
+      "drivetrain": "AWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 73681,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "kamloops-ford-lincoln-ltd",
+      "vin": "JM1DKFD79K1400528",
+      "stock": "9K2662A",
+      "listing_url": "https://www.kamloopsford.ca/used/vehicle/2019-mazda-cx-3-gt-id15438108.htm",
+      "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2019-mazda-cx-3-gt-id15438108.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T07:22:16",
+      "snapshot": "2026-10-09T07:44:05",
+      "go_url": "https://carwhisper.ca/go/kamloops-ford-lincoln-ltd-jm1dkfd79k1400528",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Kamloops Ford Lincoln Ltd."
     }
   ]
 }

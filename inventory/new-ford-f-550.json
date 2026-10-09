@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
-  "snapshot": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
+  "snapshot": "2026-10-09T16:00:42+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "snow-valley-ford-sales-1fdsw5ht6tee61029",
@@ -33,6 +33,29 @@
       "dealer_name": "Snow Valley Ford Sales"
     },
     {
+      "pub_id": "jacobson-ford-sales-ltd-2fdsw5htxvba07607",
+      "year": 2027,
+      "make": "Ford",
+      "model": "F-550",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": 105045.0,
+      "price_note": null,
+      "dealer_id": "jacobson-ford-sales-ltd",
+      "vin": "2FDSW5HTXVBA07607",
+      "stock": "W5HB727",
+      "listing_url": "https://www.jacobsonford.com/inventory/2027-ford-f-550/14864195",
+      "dealer_url": "https://www.jacobsonford.com/inventory/2027-ford-f-550/14864195?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T05:41:44",
+      "snapshot": "2026-10-09T05:44:21",
+      "go_url": "https://carwhisper.ca/go/jacobson-ford-sales-ltd-2fdsw5htxvba07607",
+      "region": "Okanagan",
+      "city": "Salmon Arm",
+      "province": "BC",
+      "dealer_name": "Jacobson Ford Sales Ltd."
+    },
+    {
       "pub_id": "jacobson-ford-sales-ltd-2fdsw5ht1vba06314",
       "year": 2027,
       "make": "Ford",
@@ -48,7 +71,7 @@
       "listing_url": "https://www.jacobsonford.com/inventory/2027-ford-f-550/14833763",
       "dealer_url": "https://www.jacobsonford.com/inventory/2027-ford-f-550/14833763?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T23:14:13",
-      "snapshot": "2026-09-26T23:27:33",
+      "snapshot": "2026-10-09T05:44:21",
       "go_url": "https://carwhisper.ca/go/jacobson-ford-sales-ltd-2fdsw5ht1vba06314",
       "region": "Okanagan",
       "city": "Salmon Arm",

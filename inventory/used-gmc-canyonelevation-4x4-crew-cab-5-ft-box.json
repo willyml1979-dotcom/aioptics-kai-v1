@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
-  "snapshot": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
+  "snapshot": "2026-10-09T16:00:42+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "dearborn-motors-ltd-1gtp6bek2r1150766",
@@ -28,6 +28,31 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Dearborn Motors Ltd."
+    },
+    {
+      "pub_id": "kamloops-ford-lincoln-ltd-1gtp6bek2r1150766",
+      "year": 2024,
+      "make": "GMC",
+      "model": "CanyonElevation 4x4 Crew Cab 5 ft. box",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 32116,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "kamloops-ford-lincoln-ltd",
+      "vin": "1GTP6BEK2R1150766",
+      "stock": "9K2659",
+      "listing_url": "https://www.kamloopsford.ca/used/vehicle/2024-gmc-canyon-elevation-id15279341.htm",
+      "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2024-gmc-canyon-elevation-id15279341.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T07:33:43",
+      "snapshot": "2026-10-09T07:44:05",
+      "go_url": "https://carwhisper.ca/go/kamloops-ford-lincoln-ltd-1gtp6bek2r1150766",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Kamloops Ford Lincoln Ltd."
     },
     {
       "pub_id": "gardner-chevrolet-buick-gmc-ltd-1gtp2bek4s1229776",

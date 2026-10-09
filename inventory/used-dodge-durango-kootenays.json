@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
-  "snapshot": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
+  "snapshot": "2026-10-09T16:00:42+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 4,
   "vehicles": [
     {
       "pub_id": "sullivan-motor-products-nelson-ltd-1c4sdjct3nc196708",
@@ -84,6 +84,33 @@
       "city": "Nelson",
       "province": "BC",
       "dealer_name": "Sullivan Motor Products-Nelson Ltd"
+    },
+    {
+      "pub_id": "kootenay-chrysler-dodge-jeep-ram-ltd-1c4sdjctxtc180065",
+      "year": 2026,
+      "make": "Dodge",
+      "model": "Durango",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 40344,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "kootenay-chrysler-dodge-jeep-ram-ltd",
+      "vin": "1C4SDJCTXTC180065",
+      "stock": "P2109",
+      "listing_url": "https://www.kootenaychryslerdealer.com/inventory/Used-2026-Dodge-Durango/1623587",
+      "dealer_url": "https://www.kootenaychryslerdealer.com/inventory/Used-2026-Dodge-Durango/1623587?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T08:47:26",
+      "snapshot": "2026-10-09T08:49:30",
+      "go_url": "https://carwhisper.ca/go/kootenay-chrysler-dodge-jeep-ram-ltd-1c4sdjctxtc180065",
+      "region": "Kootenays",
+      "city": "Trail",
+      "province": "BC",
+      "dealer_name": "Kootenay Chrysler Dodge Jeep Ram Ltd."
     }
   ]
 }

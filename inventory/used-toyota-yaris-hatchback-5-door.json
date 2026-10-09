@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
-  "snapshot": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
+  "snapshot": "2026-10-09T16:00:42+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "kelowna-toyota-ltd-vnkktud30ga067186",
@@ -25,12 +25,40 @@
       "listing_url": "https://www.kelownatoyota.com/vehicles/2016/toyota/yaris-hatchback-5-door/kelowna/bc/70838957/?sale_class=used",
       "dealer_url": "https://www.kelownatoyota.com/vehicles/2016/toyota/yaris-hatchback-5-door/kelowna/bc/70838957/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T02:25:57",
-      "snapshot": "2026-09-26T02:26:47",
+      "snapshot": "2026-10-09T08:43:54",
       "go_url": "https://carwhisper.ca/go/kelowna-toyota-ltd-vnkktud30ga067186",
       "region": "Okanagan",
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Kelowna Toyota Ltd."
+    },
+    {
+      "pub_id": "jim-pattison-toyota-victoria-vnkktud3xha085373",
+      "year": 2017,
+      "make": "Toyota",
+      "model": "Yaris Hatchback 5-Door",
+      "body_type": "hatchback",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 82307,
+      "price_cad": 18995.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/acffc6ee-b868-4dd5-9cb0-924ef581ee5a_6dd8f80a-e71f-448d-a949-b44497059263.jpg",
+      "dealer_id": "jim-pattison-toyota-victoria",
+      "vin": "VNKKTUD3XHA085373",
+      "stock": "T4584",
+      "listing_url": "https://www.jptoyotavictoria.com/vehicles/2017/toyota/yaris-hatchback-5-door/victoria/bc/71521933/?sale_class=used",
+      "dealer_url": "https://www.jptoyotavictoria.com/vehicles/2017/toyota/yaris-hatchback-5-door/victoria/bc/71521933/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T05:30:56",
+      "snapshot": "2026-10-09T05:35:28",
+      "go_url": "https://carwhisper.ca/go/jim-pattison-toyota-victoria-vnkktud3xha085373",
+      "region": "Vancouver Island",
+      "city": "Victoria",
+      "province": "BC",
+      "dealer_name": "Jim Pattison Toyota Victoria"
     }
   ]
 }

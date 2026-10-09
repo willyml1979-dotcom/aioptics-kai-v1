@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
-  "snapshot": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
+  "snapshot": "2026-10-09T16:00:42+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "sherwood-park-chevrolet-scbcp73w89c060186",
@@ -30,6 +30,33 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Sherwood Park Chevrolet"
+    },
+    {
+      "pub_id": "haley-dodge-sc-scbgt3zaxec094335",
+      "year": 2014,
+      "make": "BENTLEY",
+      "model": "CONTINENTAL GT V8",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 18429,
+      "price_cad": 109898.0,
+      "price_note": null,
+      "color": "BLACK",
+      "photo_url": "https://portal.omni.auto/Media/InventoryMedia/SCBGT3ZAXEC094335/Optimized/06188d7c80d6d55910a997df67ab8b01.webp",
+      "dealer_id": "haley-dodge-sc",
+      "vin": "SCBGT3ZAXEC094335",
+      "stock": "UV094335",
+      "listing_url": "https://haleydodgesc.com/Inventory/2014-BENTLEY-CONTINENTALGTV8-GTC-SCBGT3ZAXEC094335",
+      "dealer_url": "https://haleydodgesc.com/Inventory/2014-BENTLEY-CONTINENTALGTV8-GTC-SCBGT3ZAXEC094335?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T03:25:49",
+      "snapshot": "2026-10-09T03:28:35",
+      "go_url": "https://carwhisper.ca/go/haley-dodge-sc-scbgt3zaxec094335",
+      "city": "Gibsons",
+      "province": "BC",
+      "dealer_name": "Haley Dodge SC"
     }
   ]
 }

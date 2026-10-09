@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
-  "snapshot": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
+  "snapshot": "2026-10-09T16:00:42+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 13,
+  "count": 14,
   "vehicles": [
     {
       "pub_id": "bannister-nissan-chilliwack-5n1dr3dj0tc285339",
@@ -198,6 +198,30 @@
       "city": "Prince George",
       "province": "BC",
       "dealer_name": "Northland Nissan"
+    },
+    {
+      "pub_id": "kelowna-infiniti-nissan-5n1dr3be5tc283446",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": 57448.0,
+      "price_note": null,
+      "color": "Light green",
+      "dealer_id": "kelowna-infiniti-nissan",
+      "vin": "5N1DR3BE5TC283446",
+      "stock": 14322286,
+      "listing_url": "https://www.kelownanissan.com/new/inventory/2026-Nissan-Pathfinder.html",
+      "dealer_url": "https://www.kelownanissan.com/new/inventory/2026-Nissan-Pathfinder.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T15:15:15",
+      "snapshot": "2026-10-09T07:38:44",
+      "go_url": "https://carwhisper.ca/go/kelowna-infiniti-nissan-5n1dr3be5tc283446",
+      "region": "Okanagan",
+      "city": "Kelowna",
+      "province": "BC",
+      "dealer_name": "Kelowna Infiniti Nissan"
     },
     {
       "pub_id": "campus-nissan-5n1dr3dk8tc288496",

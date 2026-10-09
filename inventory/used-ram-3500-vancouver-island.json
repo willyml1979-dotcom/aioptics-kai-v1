@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
-  "snapshot": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
+  "snapshot": "2026-10-09T16:00:42+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 10,
+  "count": 11,
   "vehicles": [
     {
       "pub_id": "duncan-hyundai-3c63r3el4jg143819",
@@ -248,6 +248,34 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Victoria Hyundai"
+    },
+    {
+      "pub_id": "island-ford-3c63r3el9rg318349",
+      "year": 2024,
+      "make": "RAM",
+      "model": "3500",
+      "drivetrain": "4WD",
+      "propulsion": "diesel",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 59901,
+      "price_cad": 71900.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/339cee35-6b7f-457c-b7d6-fe8a88c80fe0_e8016b92-8f00-4e3a-8da8-0cac2f2ca187.jpg",
+      "dealer_id": "island-ford",
+      "vin": "3C63R3EL9RG318349",
+      "stock": "26711AV",
+      "listing_url": "https://www.islandford.ca/vehicles/2024/ram/3500/duncan/bc/71517129/?sale_class=used",
+      "dealer_url": "https://www.islandford.ca/vehicles/2024/ram/3500/duncan/bc/71517129/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T03:50:39",
+      "snapshot": "2026-10-09T03:53:33",
+      "go_url": "https://carwhisper.ca/go/island-ford-3c63r3el9rg318349",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Island Ford"
     }
   ]
 }

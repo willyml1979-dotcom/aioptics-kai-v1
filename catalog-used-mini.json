@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
   "condition": "used",
   "make": "mini",
   "files": [
     {
       "condition": "used",
       "make": "mini",
-      "count": 35,
-      "file": "inventory/used-mini.json",
+      "model": "3 Door",
+      "count": 8,
+      "file": "inventory/used-mini-3-door.json",
       "models": [
         {
           "model": "3 Door",
@@ -16,41 +17,135 @@
         {
           "model": "3 door",
           "count": 1
-        },
-        {
-          "model": "5 Door",
-          "count": 1
-        },
-        {
-          "model": "Convertible",
-          "count": 1
-        },
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mini",
+      "model": "Cooper C",
+      "count": 6,
+      "file": "inventory/used-mini-cooper-c.json",
+      "models": [
         {
           "model": "Cooper C",
           "count": 6
-        },
-        {
-          "model": "Cooper Clubman",
-          "count": 1
-        },
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mini",
+      "model": "Cooper Hardtop",
+      "count": 3,
+      "file": "inventory/used-mini-cooper-hardtop.json",
+      "models": [
         {
           "model": "Cooper Hardtop",
           "count": 3
-        },
-        {
-          "model": "Countryman",
-          "count": 10
-        },
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mini",
+      "model": "Countryman Cooper 5-Door",
+      "count": 1,
+      "file": "inventory/used-mini-countryman-cooper-5-door.json",
+      "models": [
         {
           "model": "Countryman Cooper 5-Door",
           "count": 1
-        },
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mini",
+      "model": "5 Door",
+      "count": 1,
+      "file": "inventory/used-mini-5-door.json",
+      "models": [
+        {
+          "model": "5 Door",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mini",
+      "model": "Countryman",
+      "count": 12,
+      "file": "inventory/used-mini-countryman.json",
+      "models": [
+        {
+          "model": "Countryman",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mini",
+      "model": "John Cooper Works",
+      "count": 3,
+      "file": "inventory/used-mini-john-cooper-works.json",
+      "models": [
         {
           "model": "John Cooper Works",
           "count": 3
-        },
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mini",
+      "model": "Paceman",
+      "count": 2,
+      "file": "inventory/used-mini-paceman.json",
+      "models": [
         {
           "model": "Paceman",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mini",
+      "model": "Cooper Hardtop 5 Door",
+      "count": 1,
+      "file": "inventory/used-mini-cooper-hardtop-5-door.json",
+      "models": [
+        {
+          "model": "Cooper Hardtop 5 Door",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mini",
+      "model": "Convertible",
+      "count": 1,
+      "file": "inventory/used-mini-convertible.json",
+      "models": [
+        {
+          "model": "Convertible",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mini",
+      "model": "Cooper Clubman",
+      "count": 1,
+      "file": "inventory/used-mini-cooper-clubman.json",
+      "models": [
+        {
+          "model": "Cooper Clubman",
           "count": 1
         }
       ]

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
-  "snapshot": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
+  "snapshot": "2026-10-09T16:00:42+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 30,
+  "count": 29,
   "vehicles": [
     {
       "pub_id": "castlegar-hyundai-km8p3dg10vu219368",
@@ -822,33 +822,6 @@
       "city": "Surrey",
       "province": "BC",
       "dealer_name": "Langley Hyundai"
-    },
-    {
-      "pub_id": "maple-ridge-hyundai-km8p3dg19vu219255",
-      "year": 2027,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "trim": "Hybrid Preferred AWD",
-      "drivetrain": "AWD",
-      "propulsion": "hybrid",
-      "propulsion_source": "model_trim_name",
-      "propulsion_confidence": "high",
-      "condition": "new",
-      "price_cad": 47999.0,
-      "price_note": null,
-      "color": "Grey",
-      "dealer_id": "maple-ridge-hyundai",
-      "vin": "KM8P3DG19VU219255",
-      "stock": "79416-489364",
-      "listing_url": "https://www.mapleridgehyundai.com/new/2027-Hyundai-Santa_Fe_Hybrid.html",
-      "dealer_url": "https://www.mapleridgehyundai.com/new/2027-Hyundai-Santa_Fe_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T05:51:03",
-      "snapshot": "2026-09-25T07:09:21",
-      "go_url": "https://carwhisper.ca/go/maple-ridge-hyundai-km8p3dg19vu219255",
-      "region": "Lower Mainland",
-      "city": "Maple Ridge",
-      "province": "BC",
-      "dealer_name": "Maple Ridge Hyundai"
     }
   ]
 }

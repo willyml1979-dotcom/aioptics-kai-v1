@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
-  "snapshot": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
+  "snapshot": "2026-10-09T16:00:42+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 12,
+  "count": 13,
   "vehicles": [
     {
       "pub_id": "destination-toyota-burnaby-jf1znbe17v9750672",
@@ -301,13 +301,38 @@
       "stock": "261518",
       "listing_url": "https://www.jptoyotavictoria.com/vehicles/2026/toyota/gr86/victoria/bc/71250177/?sale_class=new",
       "dealer_url": "https://www.jptoyotavictoria.com/vehicles/2026/toyota/gr86/victoria/bc/71250177/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T12:33:05",
-      "snapshot": "2026-09-26T12:43:03",
+      "last_verified": "2026-10-09T05:43:35",
+      "snapshot": "2026-10-09T05:43:56",
       "go_url": "https://carwhisper.ca/go/jim-pattison-toyota-victoria-jf1znbb14t9080886",
       "region": "Vancouver Island",
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Jim Pattison Toyota Victoria"
+    },
+    {
+      "pub_id": "jim-pattison-toyota-duncan-jf1znbe14v9751150",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "GR86",
+      "trim": "Premium Manual",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "Thunder",
+      "dealer_id": "jim-pattison-toyota-duncan",
+      "vin": "JF1ZNBE14V9751150",
+      "stock": "N27011",
+      "listing_url": "https://www.jptoyota-duncan.com/vehicles/2027/toyota/gr86/duncan/bc/71521936/?sale_class=new",
+      "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2027/toyota/gr86/duncan/bc/71521936/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T06:01:24",
+      "snapshot": "2026-10-09T06:03:59",
+      "go_url": "https://carwhisper.ca/go/jim-pattison-toyota-duncan-jf1znbe14v9751150",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Jim Pattison Toyota Duncan"
     }
   ]
 }

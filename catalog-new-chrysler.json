@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
   "condition": "new",
   "make": "chrysler",
   "files": [
@@ -24,12 +24,12 @@
       "condition": "new",
       "make": "chrysler",
       "model": "Pacifica Select FWD",
-      "count": 12,
+      "count": 11,
       "file": "inventory/new-chrysler-pacifica-select-fwd.json",
       "models": [
         {
           "model": "Pacifica Select FWD",
-          "count": 12
+          "count": 11
         }
       ]
     },
@@ -38,7 +38,7 @@
       "make": "chrysler",
       "model": "Pacifica",
       "shard": "part1",
-      "count": 30,
+      "count": 31,
       "file": "inventory/new-chrysler-pacifica-part1.json",
       "models": [
         {
@@ -47,7 +47,7 @@
         },
         {
           "model": "Pacifica",
-          "count": 26
+          "count": 27
         }
       ]
     },
@@ -86,12 +86,25 @@
       "condition": "new",
       "make": "chrysler",
       "model": "Grand Caravan SXT 2WD",
-      "count": 11,
+      "count": 10,
       "file": "inventory/new-chrysler-grand-caravan-sxt-2wd.json",
       "models": [
         {
           "model": "Grand Caravan SXT 2WD",
-          "count": 11
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chrysler",
+      "model": "Pacifica Hybrid",
+      "count": 1,
+      "file": "inventory/new-chrysler-pacifica-hybrid.json",
+      "models": [
+        {
+          "model": "Pacifica Hybrid",
+          "count": 1
         }
       ]
     }

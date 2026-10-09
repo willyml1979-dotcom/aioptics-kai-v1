@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
-  "snapshot": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
+  "snapshot": "2026-10-09T16:00:42+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 13,
+  "count": 14,
   "vehicles": [
     {
       "pub_id": "tacoma-dodge-chrysler-jeep-ram-5tfdy5f14hx664408",
@@ -357,6 +357,34 @@
       "city": null,
       "province": "BC",
       "dealer_name": "Pacific Honda"
+    },
+    {
+      "pub_id": "kicking-horse-ford-sales-ltd-5tfmc5db2rx067169",
+      "year": 2024,
+      "make": "Toyota",
+      "model": "Tundra",
+      "trim": "4x4 Crewmax Platinum Hybrid",
+      "body_type": "truck",
+      "drivetrain": "4WD",
+      "propulsion": "hybrid",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 57500,
+      "price_cad": 68858.0,
+      "price_note": null,
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,op_mc,ow_100,v1/adjustment/ZI2GYI5Y3RBRPE6TZX6ES663SE%3Binventory/AMFSUGC6SNAP7BBRWUASZDRTIM.webp",
+      "dealer_id": "kicking-horse-ford-sales-ltd",
+      "vin": "5TFMC5DB2RX067169",
+      "stock": "15355",
+      "listing_url": "https://www.kickinghorseford.ca/inventory/2024-toyota-tundra-platinum-hybrid-zLV4fA4aRNCppulHsAddkgvdp",
+      "dealer_url": "https://www.kickinghorseford.ca/inventory/2024-toyota-tundra-platinum-hybrid-zLV4fA4aRNCppulHsAddkgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T06:31:02",
+      "snapshot": "2026-10-09T06:32:48",
+      "go_url": "https://carwhisper.ca/go/kicking-horse-ford-sales-ltd-5tfmc5db2rx067169",
+      "city": "Golden",
+      "province": "BC",
+      "dealer_name": "Kicking Horse Ford Sales Ltd."
     }
   ]
 }

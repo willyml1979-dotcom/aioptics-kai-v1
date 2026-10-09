@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
-  "snapshot": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
+  "snapshot": "2026-10-09T16:00:42+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "maple-ridge-hyundai-jn8af5mv7ft562396",
@@ -56,6 +56,35 @@
       "city": "Vernon",
       "province": "BC",
       "dealer_name": "Hilltop Subaru"
+    },
+    {
+      "pub_id": "kamloops-kia-jn8af5mr4dt219996",
+      "year": 2013,
+      "make": "Nissan",
+      "model": "JUKE",
+      "trim": "5dr Wgn CVT SV FWD",
+      "body_type": "wagon",
+      "drivetrain": "FWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 100142,
+      "price_cad": 9999.0,
+      "price_note": null,
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/inventory/JNVBSNJTENGRZKNTFFGL4EHPEU.webp",
+      "dealer_id": "kamloops-kia",
+      "vin": "JN8AF5MR4DT219996",
+      "stock": "ZT071A",
+      "listing_url": "https://www.kamloopskia.com/inventory/2013-nissan-juke-sv-nrx3k40MSFKw2mM3KXd18gvdp",
+      "dealer_url": "https://www.kamloopskia.com/inventory/2013-nissan-juke-sv-nrx3k40MSFKw2mM3KXd18gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T05:58:17",
+      "snapshot": "2026-10-09T06:27:02",
+      "go_url": "https://carwhisper.ca/go/kamloops-kia-jn8af5mr4dt219996",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Kamloops Kia"
     },
     {
       "pub_id": "duncan-hyundai-jn8af5mv7ft562396",

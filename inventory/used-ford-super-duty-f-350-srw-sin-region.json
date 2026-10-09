@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
-  "snapshot": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
+  "snapshot": "2026-10-09T16:00:42+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "drayton-valley-ford-1ft8w3bt4jec84666",
@@ -83,6 +83,34 @@
       "dealer_name": "Applewood Ford"
     },
     {
+      "pub_id": "kicking-horse-ford-sales-ltd-1ft8w3bt6pec83446",
+      "year": 2023,
+      "make": "Ford",
+      "model": "Super Duty F-350 SRW",
+      "body_type": "truck",
+      "drivetrain": "4WD",
+      "propulsion": "diesel",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 89115,
+      "price_cad": 67610.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,op_mc,ow_100,v1/adjustment/ZI2GYI5Y3RBRPE6TZX6ES663SE%3Binventory/5UGVBBYQS5HPRAW5IK6Q6RBHJY.webp",
+      "dealer_id": "kicking-horse-ford-sales-ltd",
+      "vin": "1FT8W3BT6PEC83446",
+      "stock": "15414",
+      "listing_url": "https://www.kickinghorseford.ca/inventory/2023-ford-super-duty-f-350-srw-xlt-RDI3rer0QRWB2ZN94K0f9wvdp",
+      "dealer_url": "https://www.kickinghorseford.ca/inventory/2023-ford-super-duty-f-350-srw-xlt-RDI3rer0QRWB2ZN94K0f9wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T06:30:27",
+      "snapshot": "2026-10-09T06:32:48",
+      "go_url": "https://carwhisper.ca/go/kicking-horse-ford-sales-ltd-1ft8w3bt6pec83446",
+      "city": "Golden",
+      "province": "BC",
+      "dealer_name": "Kicking Horse Ford Sales Ltd."
+    },
+    {
       "pub_id": "applewood-ford-1ft8w3bt1ree06279",
       "year": 2024,
       "make": "Ford",
@@ -110,6 +138,34 @@
       "city": "Port Hardy",
       "province": "BC",
       "dealer_name": "Applewood Ford"
+    },
+    {
+      "pub_id": "kicking-horse-ford-sales-ltd-1ft8w3bt2sed89689",
+      "year": 2025,
+      "make": "Ford",
+      "model": "Super Duty F-350 SRW",
+      "body_type": "truck",
+      "drivetrain": "4WD",
+      "propulsion": "diesel",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 9361,
+      "price_cad": 84597.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,op_mc,ow_100,v1/adjustment/ZI2GYI5Y3RBRPE6TZX6ES663SE%3Binventory/AJHCAHYADFCJNKMB5BYSJQ5Z6A.webp",
+      "dealer_id": "kicking-horse-ford-sales-ltd",
+      "vin": "1FT8W3BT2SED89689",
+      "stock": "15354",
+      "listing_url": "https://www.kickinghorseford.ca/inventory/2025-ford-super-duty-f-350-srw-xlt-4wd-crew-cab-6-75-box-uDNehlkZQ5iepTWwQndMIwvdp",
+      "dealer_url": "https://www.kickinghorseford.ca/inventory/2025-ford-super-duty-f-350-srw-xlt-4wd-crew-cab-6-75-box-uDNehlkZQ5iepTWwQndMIwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T06:31:35",
+      "snapshot": "2026-10-09T06:32:48",
+      "go_url": "https://carwhisper.ca/go/kicking-horse-ford-sales-ltd-1ft8w3bt2sed89689",
+      "city": "Golden",
+      "province": "BC",
+      "dealer_name": "Kicking Horse Ford Sales Ltd."
     }
   ]
 }

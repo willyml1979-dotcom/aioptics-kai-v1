@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
-  "snapshot": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
+  "snapshot": "2026-10-09T16:00:42+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 11,
+  "count": 12,
   "vehicles": [
     {
       "pub_id": "brian-jessel-bmw-2fmpk4ap0fbb87223",
@@ -286,6 +286,30 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Brown Bros Ford Lincoln"
+    },
+    {
+      "pub_id": "jim-pattison-chrysler-jeep-dodge-surrey-2fmpk4j88jbc02844",
+      "year": 2018,
+      "make": "Ford",
+      "model": "Edge",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 70610,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "jim-pattison-chrysler-jeep-dodge-surrey",
+      "vin": "2FMPK4J88JBC02844",
+      "stock": "18Y4077",
+      "listing_url": "https://www.jpchrysler.com/vehicles/2018/ford/edge/surrey/bc/ad13123200/?sale_class=used",
+      "dealer_url": "https://www.jpchrysler.com/vehicles/2018/ford/edge/surrey/bc/ad13123200/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T05:15:13",
+      "snapshot": "2026-10-09T05:18:45",
+      "go_url": "https://carwhisper.ca/go/jim-pattison-chrysler-jeep-dodge-surrey-2fmpk4j88jbc02844",
+      "region": "Lower Mainland",
+      "city": "Surrey",
+      "province": "BC",
+      "dealer_name": "Jim Pattison Chrysler Jeep Dodge - Surrey"
     }
   ]
 }

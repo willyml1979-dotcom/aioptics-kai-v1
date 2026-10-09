@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
-  "snapshot": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
+  "snapshot": "2026-10-09T16:00:42+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 18,
+  "count": 19,
   "vehicles": [
     {
       "pub_id": "applewood-nissan-1c4pjmcs8gw166225",
@@ -116,7 +116,7 @@
       "listing_url": "https://www.kiavancouver.com/vehicles/2018/jeep/cherokee/vancouver/bc/70250817/?sale_class=used",
       "dealer_url": "https://www.kiavancouver.com/vehicles/2018/jeep/cherokee/vancouver/bc/70250817/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T23:20:35",
-      "snapshot": "2026-09-26T23:23:40",
+      "snapshot": "2026-10-09T07:58:52",
       "go_url": "https://carwhisper.ca/go/kia-south-vancouver-1c4pjmbx2jd513077",
       "region": "Lower Mainland",
       "city": "Vancouver",
@@ -507,6 +507,31 @@
       "city": "Abbotsford",
       "province": "BC",
       "dealer_name": "Abbotsford Volkswagen"
+    },
+    {
+      "pub_id": "jim-pattison-chrysler-jeep-dodge-surrey-1c4pjmbs6gw320528",
+      "year": 2016,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 173417,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "Grey",
+      "dealer_id": "jim-pattison-chrysler-jeep-dodge-surrey",
+      "vin": "1C4PJMBS6GW320528",
+      "stock": "CO8383A",
+      "listing_url": "https://www.jpchrysler.com/vehicles/2016/jeep/cherokee/surrey/bc/ad13144314/?sale_class=used",
+      "dealer_url": "https://www.jpchrysler.com/vehicles/2016/jeep/cherokee/surrey/bc/ad13144314/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T05:15:03",
+      "snapshot": "2026-10-09T05:18:45",
+      "go_url": "https://carwhisper.ca/go/jim-pattison-chrysler-jeep-dodge-surrey-1c4pjmbs6gw320528",
+      "region": "Lower Mainland",
+      "city": "Surrey",
+      "province": "BC",
+      "dealer_name": "Jim Pattison Chrysler Jeep Dodge - Surrey"
     }
   ]
 }

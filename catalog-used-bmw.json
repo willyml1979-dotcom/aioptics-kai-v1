@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
   "condition": "used",
   "make": "bmw",
   "files": [
+    {
+      "condition": "used",
+      "make": "bmw",
+      "model": "X3 xDrive28i",
+      "count": 1,
+      "file": "inventory/used-bmw-x3-xdrive28i.json",
+      "models": [
+        {
+          "model": "X3 xDrive28i",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "bmw",
+      "model": "4 Series",
+      "count": 9,
+      "file": "inventory/used-bmw-4-series.json",
+      "models": [
+        {
+          "model": "4 Series",
+          "count": 9
+        }
+      ]
+    },
     {
       "condition": "used",
       "make": "bmw",
@@ -75,12 +101,12 @@
       "condition": "used",
       "make": "bmw",
       "model": "X5",
-      "count": 32,
+      "count": 31,
       "file": "inventory/used-bmw-x5.json",
       "models": [
         {
           "model": "X5",
-          "count": 32
+          "count": 31
         }
       ]
     },
@@ -89,12 +115,12 @@
       "make": "bmw",
       "model": "X1",
       "shard": "Lower Mainland",
-      "count": 28,
+      "count": 27,
       "file": "inventory/used-bmw-x1-lower-mainland.json",
       "models": [
         {
           "model": "X1",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -103,12 +129,12 @@
       "make": "bmw",
       "model": "X1",
       "shard": "Okanagan",
-      "count": 8,
+      "count": 7,
       "file": "inventory/used-bmw-x1-okanagan.json",
       "models": [
         {
           "model": "X1",
-          "count": 8
+          "count": 7
         }
       ]
     },
@@ -183,12 +209,12 @@
       "condition": "used",
       "make": "bmw",
       "model": "X4",
-      "count": 6,
+      "count": 7,
       "file": "inventory/used-bmw-x4.json",
       "models": [
         {
           "model": "X4",
-          "count": 6
+          "count": 7
         }
       ]
     },
@@ -248,12 +274,12 @@
       "condition": "used",
       "make": "bmw",
       "model": "X7",
-      "count": 15,
+      "count": 14,
       "file": "inventory/used-bmw-x7.json",
       "models": [
         {
           "model": "X7",
-          "count": 15
+          "count": 14
         }
       ]
     },
@@ -267,19 +293,6 @@
         {
           "model": "Z4 Roadster",
           "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "bmw",
-      "model": "4 Series",
-      "count": 8,
-      "file": "inventory/used-bmw-4-series.json",
-      "models": [
-        {
-          "model": "4 Series",
-          "count": 8
         }
       ]
     },
@@ -604,6 +617,32 @@
       "models": [
         {
           "model": "X3xDrive30i 4dr All-Wheel Drive Sports Activity Vehicle",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "bmw",
+      "model": "135",
+      "count": 1,
+      "file": "inventory/used-bmw-135.json",
+      "models": [
+        {
+          "model": "135",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "bmw",
+      "model": "3 Series Convertible",
+      "count": 1,
+      "file": "inventory/used-bmw-3-series-convertible.json",
+      "models": [
+        {
+          "model": "3 Series Convertible",
           "count": 1
         }
       ]

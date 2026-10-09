@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
   "condition": "used",
   "make": "tesla",
   "files": [
@@ -36,12 +36,12 @@
       "make": "tesla",
       "model": "Model Y",
       "shard": "Okanagan",
-      "count": 3,
+      "count": 4,
       "file": "inventory/used-tesla-model-y-okanagan.json",
       "models": [
         {
           "model": "Model Y",
-          "count": 3
+          "count": 4
         }
       ]
     },
@@ -76,13 +76,14 @@
     {
       "condition": "used",
       "make": "tesla",
-      "model": "Model X",
-      "count": 9,
-      "file": "inventory/used-tesla-model-x.json",
+      "model": "Model 3",
+      "shard": "Kootenays",
+      "count": 1,
+      "file": "inventory/used-tesla-model-3-kootenays.json",
       "models": [
         {
-          "model": "Model X",
-          "count": 9
+          "model": "Model 3",
+          "count": 1
         }
       ]
     },
@@ -105,12 +106,12 @@
       "make": "tesla",
       "model": "Model 3",
       "shard": "Okanagan",
-      "count": 4,
+      "count": 5,
       "file": "inventory/used-tesla-model-3-okanagan.json",
       "models": [
         {
           "model": "Model 3",
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -119,12 +120,12 @@
       "make": "tesla",
       "model": "Model 3",
       "shard": "Vancouver Island",
-      "count": 4,
+      "count": 3,
       "file": "inventory/used-tesla-model-3-vancouver-island.json",
       "models": [
         {
           "model": "Model 3",
-          "count": 4
+          "count": 3
         }
       ]
     },
@@ -145,13 +146,26 @@
     {
       "condition": "used",
       "make": "tesla",
+      "model": "Model X",
+      "count": 9,
+      "file": "inventory/used-tesla-model-x.json",
+      "models": [
+        {
+          "model": "Model X",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "tesla",
       "model": "Model S",
-      "count": 2,
+      "count": 3,
       "file": "inventory/used-tesla-model-s.json",
       "models": [
         {
           "model": "Model S",
-          "count": 2
+          "count": 3
         }
       ]
     },

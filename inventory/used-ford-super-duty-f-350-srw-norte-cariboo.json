@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
-  "snapshot": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
+  "snapshot": "2026-10-09T16:00:42+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 7,
+  "count": 8,
   "vehicles": [
     {
       "pub_id": "northland-chrysler-jeep-dodge-1ft8w3bt3gec65180",
@@ -178,6 +178,33 @@
       "city": "Fort St. John",
       "province": "BC",
       "dealer_name": "Fort Motors Ltd."
+    },
+    {
+      "pub_id": "hoskins-ford-sales-ltd-1ft8w3bnxpec82429",
+      "year": 2023,
+      "make": "Ford",
+      "model": "Super Duty F-350 SRW",
+      "trim": "XLT",
+      "drivetrain": "FWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 71503,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "White",
+      "dealer_id": "hoskins-ford-sales-ltd",
+      "vin": "1FT8W3BNXPEC82429",
+      "stock": "14474938",
+      "listing_url": "https://www.hoskinsford.com/used/2023-Ford-Super_Duty_F_350_SRW-id14474938.html",
+      "dealer_url": "https://www.hoskinsford.com/used/2023-Ford-Super_Duty_F_350_SRW-id14474938.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T03:09:10",
+      "snapshot": "2026-10-09T03:12:04",
+      "go_url": "https://carwhisper.ca/go/hoskins-ford-sales-ltd-1ft8w3bnxpec82429",
+      "region": "Norte/Cariboo",
+      "city": "Smithers",
+      "province": "BC",
+      "dealer_name": "Hoskins Ford Sales Ltd"
     }
   ]
 }

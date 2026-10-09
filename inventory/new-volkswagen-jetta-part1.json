@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
-  "snapshot": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
+  "snapshot": "2026-10-09T16:00:42+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 29,
+  "count": 30,
   "vehicles": [
     {
       "pub_id": "gold-key-langley-volkswagen-3vwcw7bu7tm028851",
@@ -662,8 +662,8 @@
       "stock": "J26659",
       "listing_url": "https://www.vwofcoquitlam.com/en/new-inventory/volkswagen/jetta/2026-volkswagen-jetta-id38118181",
       "dealer_url": "https://www.vwofcoquitlam.com/en/new-inventory/volkswagen/jetta/2026-volkswagen-jetta-id38118181?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T10:15:19",
-      "snapshot": "2026-09-26T10:39:04",
+      "last_verified": "2026-10-09T04:21:09",
+      "snapshot": "2026-10-09T04:23:48",
       "go_url": "https://carwhisper.ca/go/journey-vw-of-coquitlam-3vwcw7bu5tm048659",
       "region": "Lower Mainland",
       "city": "Coquitlam",
@@ -809,6 +809,35 @@
       "city": "Chilliwack",
       "province": "BC",
       "dealer_name": "Chilliwack Volkswagen"
+    },
+    {
+      "pub_id": "maple-ridge-volkswagen-3vwsw7bu1tm072923",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "trim": "Comfortline | Sport Package | Blind Spot System | Apple CarPlay | Sunroof |",
+      "body_type": "sedan",
+      "drivetrain": "FWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 11,
+      "price_cad": 32028.0,
+      "price_note": null,
+      "color": "Silver",
+      "dealer_id": "maple-ridge-volkswagen",
+      "vin": "3VWSW7BU1TM072923",
+      "stock": "14085757",
+      "listing_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Jetta-id14085757.html",
+      "dealer_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Jetta-id14085757.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T08:40:16",
+      "snapshot": "2026-09-26T09:16:58",
+      "go_url": "https://carwhisper.ca/go/maple-ridge-volkswagen-3vwsw7bu1tm072923",
+      "region": "Lower Mainland",
+      "city": "Maple Ridge",
+      "province": "BC",
+      "dealer_name": "Maple Ridge Volkswagen"
     }
   ]
 }

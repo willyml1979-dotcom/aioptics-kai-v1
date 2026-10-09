@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
-  "snapshot": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
+  "snapshot": "2026-10-09T16:00:42+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "bannister-kia-penticton-2c4rc1yg0mr509961",
@@ -60,6 +60,30 @@
       "city": "Salmon Arm",
       "province": "BC",
       "dealer_name": "Braby Motors Ltd."
+    },
+    {
+      "pub_id": "kelowna-hyundai-2c4rc1zg4rr155612",
+      "year": 2024,
+      "make": "Chrysler",
+      "model": "Grand Caravan",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 33904.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "kelowna-hyundai",
+      "vin": "2C4RC1ZG4RR155612",
+      "stock": 14490140,
+      "listing_url": "https://www.kelownahyundai.com/used/2024-Chrysler-Grand_Caravan.html",
+      "dealer_url": "https://www.kelownahyundai.com/used/2024-Chrysler-Grand_Caravan.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T06:15:36",
+      "snapshot": "2026-10-09T06:20:12",
+      "go_url": "https://carwhisper.ca/go/kelowna-hyundai-2c4rc1zg4rr155612",
+      "region": "Okanagan",
+      "city": "Kelowna",
+      "province": "BC",
+      "dealer_name": "Kelowna Hyundai"
     }
   ]
 }

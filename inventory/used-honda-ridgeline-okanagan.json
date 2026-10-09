@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
-  "snapshot": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
+  "snapshot": "2026-10-09T16:00:42+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 7,
+  "count": 8,
   "vehicles": [
     {
       "pub_id": "kelowna-hyundai-5fpyk3f71jb500472",
@@ -20,7 +20,7 @@
       "listing_url": "https://www.kelownahyundai.com/used/2018-Honda-Ridgeline.html",
       "dealer_url": "https://www.kelownahyundai.com/used/2018-Honda-Ridgeline.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T12:50:02",
-      "snapshot": "2026-09-26T14:01:03",
+      "snapshot": "2026-10-09T06:20:12",
       "go_url": "https://carwhisper.ca/go/kelowna-hyundai-5fpyk3f71jb500472",
       "region": "Okanagan",
       "city": "Kelowna",
@@ -119,7 +119,7 @@
       "listing_url": "https://www.kelownahyundai.com/used/2022-Honda-Ridgeline.html",
       "dealer_url": "https://www.kelownahyundai.com/used/2022-Honda-Ridgeline.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T13:19:07",
-      "snapshot": "2026-09-26T14:01:03",
+      "snapshot": "2026-10-09T06:20:12",
       "go_url": "https://carwhisper.ca/go/kelowna-hyundai-5fpyk3f57nb502666",
       "region": "Okanagan",
       "city": "Kelowna",
@@ -173,6 +173,30 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Harmony Acura"
+    },
+    {
+      "pub_id": "harmony-honda-5fpyk3f53lb501186",
+      "year": 2020,
+      "make": "Honda",
+      "model": "Ridgeline",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 43990.0,
+      "price_note": null,
+      "color": "Grey",
+      "dealer_id": "harmony-honda",
+      "vin": "5FPYK3F53LB501186",
+      "stock": 14440800,
+      "listing_url": "https://www.harmonyhonda.com/used/2020-Honda-Ridgeline.html",
+      "dealer_url": "https://www.harmonyhonda.com/used/2020-Honda-Ridgeline.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T03:17:17",
+      "snapshot": "2026-10-09T03:22:25",
+      "go_url": "https://carwhisper.ca/go/harmony-honda-5fpyk3f53lb501186",
+      "region": "Okanagan",
+      "city": "Kelowna",
+      "province": "BC",
+      "dealer_name": "Harmony Honda"
     }
   ]
 }

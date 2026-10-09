@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
   "condition": "used",
   "make": "buick",
   "files": [
@@ -7,12 +7,25 @@
       "condition": "used",
       "make": "buick",
       "model": "Encore",
-      "count": 18,
+      "count": 17,
       "file": "inventory/used-buick-encore.json",
       "models": [
         {
           "model": "Encore",
-          "count": 18
+          "count": 17
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "buick",
+      "model": "Envision Essence",
+      "count": 1,
+      "file": "inventory/used-buick-envision-essence.json",
+      "models": [
+        {
+          "model": "Envision Essence",
+          "count": 1
         }
       ]
     },
@@ -20,12 +33,12 @@
       "condition": "used",
       "make": "buick",
       "model": "Enclave",
-      "count": 16,
+      "count": 18,
       "file": "inventory/used-buick-enclave.json",
       "models": [
         {
           "model": "Enclave",
-          "count": 16
+          "count": 18
         }
       ]
     },
@@ -33,12 +46,12 @@
       "condition": "used",
       "make": "buick",
       "model": "Envision",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-buick-envision.json",
       "models": [
         {
           "model": "Envision",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -46,12 +59,83 @@
       "condition": "used",
       "make": "buick",
       "model": "Encore GX",
-      "count": 32,
-      "file": "inventory/used-buick-encore-gx.json",
+      "shard": "Lower Mainland",
+      "count": 10,
+      "file": "inventory/used-buick-encore-gx-lower-mainland.json",
       "models": [
         {
           "model": "Encore GX",
-          "count": 32
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "buick",
+      "model": "Encore GX",
+      "shard": "Norte/Cariboo",
+      "count": 1,
+      "file": "inventory/used-buick-encore-gx-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Encore GX",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "buick",
+      "model": "Encore GX",
+      "shard": "Okanagan",
+      "count": 5,
+      "file": "inventory/used-buick-encore-gx-okanagan.json",
+      "models": [
+        {
+          "model": "Encore GX",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "buick",
+      "model": "Encore GX",
+      "shard": "Thompson-Okanagan",
+      "count": 2,
+      "file": "inventory/used-buick-encore-gx-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "Encore GX",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "buick",
+      "model": "Encore GX",
+      "shard": "Vancouver Island",
+      "count": 3,
+      "file": "inventory/used-buick-encore-gx-vancouver-island.json",
+      "models": [
+        {
+          "model": "Encore GX",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "buick",
+      "model": "Encore GX",
+      "shard": "sin-region",
+      "count": 12,
+      "file": "inventory/used-buick-encore-gx-sin-region.json",
+      "models": [
+        {
+          "model": "Encore GX",
+          "count": 12
         }
       ]
     },
@@ -72,11 +156,37 @@
       "condition": "used",
       "make": "buick",
       "model": "Encore GXAvenir 4dr All-Wheel Drive",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-buick-encore-gxavenir-4dr-all-wheel-drive.json",
       "models": [
         {
           "model": "Encore GXAvenir 4dr All-Wheel Drive",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "buick",
+      "model": "EnvisionPremium II All-Wheel Drive",
+      "count": 1,
+      "file": "inventory/used-buick-envisionpremium-ii-all-wheel-drive.json",
+      "models": [
+        {
+          "model": "EnvisionPremium II All-Wheel Drive",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "buick",
+      "model": "EnclaveAvenir All-Wheel Drive",
+      "count": 1,
+      "file": "inventory/used-buick-enclaveavenir-all-wheel-drive.json",
+      "models": [
+        {
+          "model": "EnclaveAvenir All-Wheel Drive",
           "count": 1
         }
       ]

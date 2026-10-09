@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
-  "snapshot": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
+  "snapshot": "2026-10-09T16:00:42+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 15,
+  "count": 16,
   "vehicles": [
     {
       "pub_id": "prince-george-ford-3c63r3hl5ng133530",
@@ -78,6 +78,33 @@
       "city": "Prince George",
       "province": "BC",
       "dealer_name": "Northland Chrysler Jeep Dodge"
+    },
+    {
+      "pub_id": "inland-auto-centre-ltd-3c63r3kl0jg158984",
+      "year": 2018,
+      "make": "RAM",
+      "model": "3500",
+      "propulsion": "diesel",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 156456,
+      "price_cad": 55994.0,
+      "price_note": null,
+      "color": "Granite Crystal Met. Clear Coa",
+      "photo_url": "https://portal.omni.auto/Media/InventoryMedia/3C63R3KL0JG158984/Optimized/61f5f0b91f993a5916af415b9b34cc91.webp",
+      "dealer_id": "inland-auto-centre-ltd",
+      "vin": "3C63R3KL0JG158984",
+      "stock": "26-329A2",
+      "listing_url": "https://inlandautocentre.com/Inventory/2018-RAM-3500-3C63R3KL0JG158984",
+      "dealer_url": "https://inlandautocentre.com/Inventory/2018-RAM-3500-3C63R3KL0JG158984?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T03:46:20",
+      "snapshot": "2026-10-09T03:49:09",
+      "go_url": "https://carwhisper.ca/go/inland-auto-centre-ltd-3c63r3kl0jg158984",
+      "region": "Norte/Cariboo",
+      "city": "Dawson Creek",
+      "province": "BC",
+      "dealer_name": "Inland Auto Centre Ltd."
     },
     {
       "pub_id": "northland-chrysler-jeep-dodge-3c63r3el5mg505807",

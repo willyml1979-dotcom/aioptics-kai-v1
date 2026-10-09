@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
-  "snapshot": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
+  "snapshot": "2026-10-09T16:00:42+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "sun-country-toyota-jtenu5jr6n6052480",
@@ -31,6 +31,36 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Sun Country Toyota"
+    },
+    {
+      "pub_id": "kamloops-kia-jtebu5jr8l5797754",
+      "year": 2020,
+      "make": "Toyota",
+      "model": "4Runner",
+      "trim": "4WD",
+      "body_type": "suv",
+      "drivetrain": "4WD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 127563,
+      "price_cad": 46740.0,
+      "price_note": null,
+      "color": "Gray",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/inventory/IQORIBZITFENDEUCGCIM2P43T4.webp",
+      "dealer_id": "kamloops-kia",
+      "vin": "JTEBU5JR8L5797754",
+      "stock": "G6478A",
+      "listing_url": "https://www.kamloopskia.com/inventory/2020-toyota-4runner-K0HVqoEDS2WM8aTynmDesQvdp",
+      "dealer_url": "https://www.kamloopskia.com/inventory/2020-toyota-4runner-K0HVqoEDS2WM8aTynmDesQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T06:03:43",
+      "snapshot": "2026-10-09T06:27:02",
+      "go_url": "https://carwhisper.ca/go/kamloops-kia-jtebu5jr8l5797754",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Kamloops Kia"
     },
     {
       "pub_id": "rivershore-chrysler-dodge-jeep-ram-jtebu5jr7j5513902",
@@ -87,6 +117,32 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Dearborn Motors Ltd."
+    },
+    {
+      "pub_id": "kamloops-ford-lincoln-ltd-jtebu5jr8l5797754",
+      "year": 2020,
+      "make": "Toyota",
+      "model": "4Runner",
+      "trim": "4dr 4x4",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 127563,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "kamloops-ford-lincoln-ltd",
+      "vin": "JTEBU5JR8L5797754",
+      "stock": "G6478A",
+      "listing_url": "https://www.kamloopsford.ca/used/vehicle/2020-toyota-4runner-base-id15418054.htm",
+      "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2020-toyota-4runner-base-id15418054.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T07:23:38",
+      "snapshot": "2026-10-09T07:44:05",
+      "go_url": "https://carwhisper.ca/go/kamloops-ford-lincoln-ltd-jtebu5jr8l5797754",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Kamloops Ford Lincoln Ltd."
     }
   ]
 }

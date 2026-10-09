@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
   "condition": "used",
   "make": "dodge",
   "files": [
     {
       "condition": "used",
       "make": "dodge",
-      "model": "Grand Caravan",
+      "model": "GRAND CARAVAN",
       "count": 26,
       "file": "inventory/used-dodge-grand-caravan.json",
       "models": [
@@ -24,12 +24,12 @@
       "condition": "used",
       "make": "dodge",
       "model": "Journey",
-      "count": 21,
+      "count": 24,
       "file": "inventory/used-dodge-journey.json",
       "models": [
         {
           "model": "Journey",
-          "count": 21
+          "count": 24
         }
       ]
     },
@@ -38,7 +38,7 @@
       "make": "dodge",
       "model": "DURANGO",
       "shard": "Kootenays",
-      "count": 3,
+      "count": 4,
       "file": "inventory/used-dodge-durango-kootenays.json",
       "models": [
         {
@@ -47,7 +47,7 @@
         },
         {
           "model": "Durango",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -70,12 +70,12 @@
       "make": "dodge",
       "model": "DURANGO",
       "shard": "Norte/Cariboo",
-      "count": 8,
+      "count": 9,
       "file": "inventory/used-dodge-durango-norte-cariboo.json",
       "models": [
         {
           "model": "DURANGO",
-          "count": 3
+          "count": 4
         },
         {
           "model": "Durango",
@@ -147,7 +147,7 @@
       "condition": "used",
       "make": "dodge",
       "model": "HORNET",
-      "count": 21,
+      "count": 22,
       "file": "inventory/used-dodge-hornet.json",
       "models": [
         {
@@ -156,7 +156,7 @@
         },
         {
           "model": "Hornet",
-          "count": 17
+          "count": 18
         }
       ]
     },
@@ -220,12 +220,12 @@
       "condition": "used",
       "make": "dodge",
       "model": "Charger",
-      "count": 23,
+      "count": 24,
       "file": "inventory/used-dodge-charger.json",
       "models": [
         {
           "model": "Charger",
-          "count": 23
+          "count": 24
         }
       ]
     },
@@ -233,12 +233,12 @@
       "condition": "used",
       "make": "dodge",
       "model": "Challenger",
-      "count": 25,
+      "count": 26,
       "file": "inventory/used-dodge-challenger.json",
       "models": [
         {
           "model": "Challenger",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -264,19 +264,6 @@
       "models": [
         {
           "model": "JourneyCanada Value Pkg",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "CALIBER",
-      "count": 1,
-      "file": "inventory/used-dodge-caliber.json",
-      "models": [
-        {
-          "model": "CALIBER",
           "count": 1
         }
       ]
@@ -336,19 +323,6 @@
     {
       "condition": "used",
       "make": "dodge",
-      "model": "Ram 2500",
-      "count": 2,
-      "file": "inventory/used-dodge-ram-2500.json",
-      "models": [
-        {
-          "model": "Ram 2500",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
       "model": "Grand Caravan Passenger Van SE",
       "count": 1,
       "file": "inventory/used-dodge-grand-caravan-passenger-van-se.json",
@@ -362,13 +336,26 @@
     {
       "condition": "used",
       "make": "dodge",
-      "model": "ChallengerSXT 2dr All-Wheel Drive",
+      "model": "Grand Caravan Passenger Van Canada Value Package",
       "count": 1,
+      "file": "inventory/used-dodge-grand-caravan-passenger-van-canada-value-package.json",
+      "models": [
+        {
+          "model": "Grand Caravan Passenger Van Canada Value Package",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
+      "model": "ChallengerSXT 2dr All-Wheel Drive",
+      "count": 2,
       "file": "inventory/used-dodge-challengersxt-2dr-all-wheel-drive.json",
       "models": [
         {
           "model": "ChallengerSXT 2dr All-Wheel Drive",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -407,6 +394,19 @@
       "models": [
         {
           "model": "Neon",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
+      "model": "Ram 2500",
+      "count": 1,
+      "file": "inventory/used-dodge-ram-2500.json",
+      "models": [
+        {
+          "model": "Ram 2500",
           "count": 1
         }
       ]

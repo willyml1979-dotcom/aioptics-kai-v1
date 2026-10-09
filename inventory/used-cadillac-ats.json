@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
-  "snapshot": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
+  "snapshot": "2026-10-09T16:00:42+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 4,
   "vehicles": [
     {
       "pub_id": "pioneer-chrysler-jeep-1g6ah5rx7e0190884",
@@ -31,6 +31,31 @@
       "city": "Mission",
       "province": "BC",
       "dealer_name": "Pioneer Chrysler Jeep"
+    },
+    {
+      "pub_id": "kelowna-hyundai-1g6ah1rx9h0210467",
+      "year": 2017,
+      "make": "Cadillac",
+      "model": "Ats",
+      "body_type": "coupe",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 18908.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "kelowna-hyundai",
+      "vin": "1G6AH1RX9H0210467",
+      "stock": 14474993,
+      "listing_url": "https://www.kelownahyundai.com/used/2017-Cadillac-ATS.html",
+      "dealer_url": "https://www.kelownahyundai.com/used/2017-Cadillac-ATS.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T06:07:40",
+      "snapshot": "2026-10-09T06:20:12",
+      "go_url": "https://carwhisper.ca/go/kelowna-hyundai-1g6ah1rx9h0210467",
+      "region": "Okanagan",
+      "city": "Kelowna",
+      "province": "BC",
+      "dealer_name": "Kelowna Hyundai"
     },
     {
       "pub_id": "duncan-hyundai-1g6ah1rx9h0210467",

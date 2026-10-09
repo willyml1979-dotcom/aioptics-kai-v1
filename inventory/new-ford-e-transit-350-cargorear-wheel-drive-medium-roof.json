@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
-  "snapshot": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
+  "snapshot": "2026-10-09T16:00:42+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "cam-clark-ford-richmond-ltd-1ftbw9cm8rkb22682",
@@ -103,6 +103,56 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Dearborn Motors Ltd."
+    },
+    {
+      "pub_id": "kamloops-ford-lincoln-ltd-1ftbw9cm8rkb22682",
+      "year": 2024,
+      "make": "Ford",
+      "model": "E-TRANSIT-350 CARGOREAR-WHEEL DRIVE MEDIUM ROOF",
+      "body_type": "van",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "White",
+      "dealer_id": "kamloops-ford-lincoln-ltd",
+      "vin": "1FTBW9CM8RKB22682",
+      "stock": "W9C2268",
+      "listing_url": "https://www.kamloopsford.ca/new/vehicle/2024-ford-e-transit-350-cargo-base-id13495200.htm",
+      "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2024-ford-e-transit-350-cargo-base-id13495200.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T07:58:57",
+      "snapshot": "2026-09-24T13:39:22",
+      "go_url": "https://carwhisper.ca/go/kamloops-ford-lincoln-ltd-1ftbw9cm8rkb22682",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Kamloops Ford Lincoln Ltd."
+    },
+    {
+      "pub_id": "kamloops-ford-lincoln-ltd-1ftbw9cm9rkb38566",
+      "year": 2024,
+      "make": "Ford",
+      "model": "E-TRANSIT-350 CARGOREAR-WHEEL DRIVE MEDIUM ROOF",
+      "body_type": "van",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "White",
+      "dealer_id": "kamloops-ford-lincoln-ltd",
+      "vin": "1FTBW9CM9RKB38566",
+      "stock": "W9C3856",
+      "listing_url": "https://www.kamloopsford.ca/new/vehicle/2024-ford-e-transit-350-cargo-base-id13505896.htm",
+      "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2024-ford-e-transit-350-cargo-base-id13505896.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T07:59:11",
+      "snapshot": "2026-09-24T13:39:22",
+      "go_url": "https://carwhisper.ca/go/kamloops-ford-lincoln-ltd-1ftbw9cm9rkb38566",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Kamloops Ford Lincoln Ltd."
     }
   ]
 }

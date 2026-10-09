@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T10:00:41+00:00",
-  "snapshot": "2026-10-09T10:00:41+00:00",
+  "generated_at": "2026-10-09T16:00:42+00:00",
+  "snapshot": "2026-10-09T16:00:42+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "carter-gm-northshore-1gc10uehxtu419707",
@@ -32,6 +32,33 @@
       "city": "North Vancouver",
       "province": "BC",
       "dealer_name": "Carter GM Northshore"
+    },
+    {
+      "pub_id": "kelowna-chevrolet-1gc103ed2tu419658",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Silverado EV",
+      "propulsion": "electric",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 15,
+      "price_cad": 94343.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/e13ca118-60a0-4b49-8779-dceb37f4d998_84cf0ac5-52ca-4870-bea8-13c1432aec22.jpg",
+      "dealer_id": "kelowna-chevrolet",
+      "vin": "1GC103ED2TU419658",
+      "stock": "6K19658",
+      "listing_url": "https://www.kelownachev.com/vehicles/2026/chevrolet/silverado-ev/kelowna/bc/71487129/?sale_class=new",
+      "dealer_url": "https://www.kelownachev.com/vehicles/2026/chevrolet/silverado-ev/kelowna/bc/71487129/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T07:16:29",
+      "snapshot": "2026-10-09T07:28:32",
+      "go_url": "https://carwhisper.ca/go/kelowna-chevrolet-1gc103ed2tu419658",
+      "region": "Okanagan",
+      "city": "Kelowna",
+      "province": "BC",
+      "dealer_name": "Kelowna Chevrolet"
     },
     {
       "pub_id": "laird-wheaton-gm-1gc103ed4tu414980",
