@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T16:00:42+00:00",
+  "generated_at": "2026-10-10T23:43:55+00:00",
   "condition": "used",
   "make": "genesis",
   "files": [
@@ -7,12 +7,25 @@
       "condition": "used",
       "make": "genesis",
       "model": "G70",
-      "count": 21,
+      "count": 19,
       "file": "inventory/used-genesis-g70.json",
       "models": [
         {
           "model": "G70",
-          "count": 21
+          "count": 19
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "genesis",
+      "model": "G80Sport",
+      "count": 2,
+      "file": "inventory/used-genesis-g80sport.json",
+      "models": [
+        {
+          "model": "G80Sport",
+          "count": 2
         }
       ]
     },
@@ -20,12 +33,27 @@
       "condition": "used",
       "make": "genesis",
       "model": "GV70",
-      "count": 35,
-      "file": "inventory/used-genesis-gv70.json",
+      "shard": "part1",
+      "count": 28,
+      "file": "inventory/used-genesis-gv70-part1.json",
       "models": [
         {
           "model": "GV70",
-          "count": 35
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "genesis",
+      "model": "GV70",
+      "shard": "part2",
+      "count": 27,
+      "file": "inventory/used-genesis-gv70-part2.json",
+      "models": [
+        {
+          "model": "GV70",
+          "count": 27
         }
       ]
     },
@@ -34,12 +62,12 @@
       "make": "genesis",
       "model": "GV80",
       "shard": "Lower Mainland",
-      "count": 15,
+      "count": 26,
       "file": "inventory/used-genesis-gv80-lower-mainland.json",
       "models": [
         {
           "model": "GV80",
-          "count": 15
+          "count": 26
         }
       ]
     },
@@ -101,13 +129,26 @@
     {
       "condition": "used",
       "make": "genesis",
+      "model": "G90",
+      "count": 1,
+      "file": "inventory/used-genesis-g90.json",
+      "models": [
+        {
+          "model": "G90",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "genesis",
       "model": "GV70 2.5T Advanced",
-      "count": 3,
+      "count": 7,
       "file": "inventory/used-genesis-gv70-2-5t-advanced.json",
       "models": [
         {
           "model": "GV70 2.5T Advanced",
-          "count": 3
+          "count": 7
         }
       ]
     },

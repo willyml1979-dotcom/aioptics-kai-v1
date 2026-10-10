@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T16:00:42+00:00",
-  "snapshot": "2026-10-09T16:00:42+00:00",
+  "generated_at": "2026-10-10T23:43:55+00:00",
+  "snapshot": "2026-10-10T23:43:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "dearborn-motors-ltd-1ft8w3bt8tef01641",
@@ -22,7 +22,7 @@
       "listing_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-350-xl-id15290776.htm",
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-350-xl-id15290776.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:43:57",
-      "snapshot": "2026-10-08T23:36:39",
+      "snapshot": "2026-10-10T00:44:18",
       "go_url": "https://carwhisper.ca/go/dearborn-motors-ltd-1ft8w3bt8tef01641",
       "region": "Thompson-Okanagan",
       "city": "Kamloops",
@@ -47,12 +47,37 @@
       "listing_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-350-xl-id15323209.htm",
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-350-xl-id15323209.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:44:17",
-      "snapshot": "2026-10-08T23:36:39",
+      "snapshot": "2026-10-10T00:44:18",
       "go_url": "https://carwhisper.ca/go/dearborn-motors-ltd-1ft8w3bt5tef29543",
       "region": "Thompson-Okanagan",
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Dearborn Motors Ltd."
+    },
+    {
+      "pub_id": "kamloops-ford-lincoln-ltd-1ft8w3bt8tef01641",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-350XL 4X4 SD CREW CAB 8 FT. BOX SRW (610A)",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "White",
+      "dealer_id": "kamloops-ford-lincoln-ltd",
+      "vin": "1FT8W3BT8TEF01641",
+      "stock": "MT605",
+      "listing_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-f-350-xl-id15290776.htm",
+      "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-f-350-xl-id15290776.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T09:14:03",
+      "snapshot": "2026-10-10T11:03:44",
+      "go_url": "https://carwhisper.ca/go/kamloops-ford-lincoln-ltd-1ft8w3bt8tef01641",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Kamloops Ford Lincoln Ltd."
     }
   ]
 }

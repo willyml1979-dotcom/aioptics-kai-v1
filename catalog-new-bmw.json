@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T16:00:42+00:00",
+  "generated_at": "2026-10-10T23:43:55+00:00",
   "condition": "new",
   "make": "bmw",
   "files": [
@@ -61,12 +61,12 @@
       "condition": "new",
       "make": "bmw",
       "model": "3 Series",
-      "count": 29,
+      "count": 30,
       "file": "inventory/new-bmw-3-series.json",
       "models": [
         {
           "model": "3 Series",
-          "count": 29
+          "count": 30
         }
       ]
     },
@@ -117,12 +117,12 @@
       "make": "bmw",
       "model": "X1",
       "shard": "part4",
-      "count": 28,
+      "count": 29,
       "file": "inventory/new-bmw-x1-part4.json",
       "models": [
         {
           "model": "X1",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -226,12 +226,12 @@
       "condition": "new",
       "make": "bmw",
       "model": "4 Series Gran",
-      "count": 17,
+      "count": 18,
       "file": "inventory/new-bmw-4-series-gran.json",
       "models": [
         {
           "model": "4 Series Gran",
-          "count": 17
+          "count": 18
         }
       ]
     },
@@ -336,6 +336,19 @@
         {
           "model": "4 Series Convertible",
           "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "bmw",
+      "model": "X5",
+      "count": 8,
+      "file": "inventory/new-bmw-x5.json",
+      "models": [
+        {
+          "model": "X5",
+          "count": 8
         }
       ]
     },
@@ -459,19 +472,6 @@
     {
       "condition": "new",
       "make": "bmw",
-      "model": "X5",
-      "count": 7,
-      "file": "inventory/new-bmw-x5.json",
-      "models": [
-        {
-          "model": "X5",
-          "count": 7
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "bmw",
       "model": "M3 M3",
       "count": 6,
       "file": "inventory/new-bmw-m3-m3.json",
@@ -512,12 +512,12 @@
       "condition": "new",
       "make": "bmw",
       "model": "M4 M4",
-      "count": 5,
+      "count": 4,
       "file": "inventory/new-bmw-m4-m4.json",
       "models": [
         {
           "model": "M4 M4",
-          "count": 5
+          "count": 4
         }
       ]
     },

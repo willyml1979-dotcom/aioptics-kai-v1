@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T16:00:42+00:00",
-  "snapshot": "2026-10-09T16:00:42+00:00",
+  "generated_at": "2026-10-10T23:43:55+00:00",
+  "snapshot": "2026-10-10T23:43:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "cam-clark-ford-richmond-ltd-1ftbf1y83vka07365",
@@ -49,12 +49,38 @@
       "listing_url": "https://www.dearbornford.com/new/vehicle/2027-ford-transit-350-cargo-base-id15381683.htm",
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2027-ford-transit-350-cargo-base-id15381683.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T19:15:26",
-      "snapshot": "2026-10-08T23:36:39",
+      "snapshot": "2026-10-10T00:44:18",
       "go_url": "https://carwhisper.ca/go/dearborn-motors-ltd-1ftbf1y83vka07365",
       "region": "Thompson-Okanagan",
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Dearborn Motors Ltd."
+    },
+    {
+      "pub_id": "kamloops-ford-lincoln-ltd-1ftbf1y83vka07365",
+      "year": 2027,
+      "make": "Ford",
+      "model": "TRANSIT-350 CARGOW/9,900 LB. GVWR REAR-WHEEL DRIVE LOW ROOF",
+      "body_type": "van",
+      "drivetrain": "RWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "White",
+      "dealer_id": "kamloops-ford-lincoln-ltd",
+      "vin": "1FTBF1Y83VKA07365",
+      "stock": "F1Y0736",
+      "listing_url": "https://www.kamloopsford.ca/new/vehicle/2027-ford-transit-350-cargo-base-id15381683.htm",
+      "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2027-ford-transit-350-cargo-base-id15381683.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T10:10:08",
+      "snapshot": "2026-10-10T11:03:44",
+      "go_url": "https://carwhisper.ca/go/kamloops-ford-lincoln-ltd-1ftbf1y83vka07365",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Kamloops Ford Lincoln Ltd."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T16:00:42+00:00",
+  "generated_at": "2026-10-10T23:43:55+00:00",
   "condition": "used",
   "make": "lexus",
   "files": [
@@ -13,6 +13,19 @@
         {
           "model": "IS 350",
           "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "Lexus CT",
+      "count": 2,
+      "file": "inventory/used-lexus-lexus-ct.json",
+      "models": [
+        {
+          "model": "Lexus CT",
+          "count": 2
         }
       ]
     },
@@ -46,11 +59,40 @@
       "condition": "used",
       "make": "lexus",
       "model": "RX",
-      "count": 32,
-      "file": "inventory/used-lexus-rx.json",
+      "shard": "part1",
+      "count": 22,
+      "file": "inventory/used-lexus-rx-part1.json",
       "models": [
         {
           "model": "RX",
+          "count": 22
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "RX",
+      "shard": "part2",
+      "count": 22,
+      "file": "inventory/used-lexus-rx-part2.json",
+      "models": [
+        {
+          "model": "RX",
+          "count": 22
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "NX",
+      "shard": "part1",
+      "count": 32,
+      "file": "inventory/used-lexus-nx-part1.json",
+      "models": [
+        {
+          "model": "NX",
           "count": 32
         }
       ]
@@ -59,25 +101,13 @@
       "condition": "used",
       "make": "lexus",
       "model": "NX",
-      "count": 35,
-      "file": "inventory/used-lexus-nx.json",
+      "shard": "part2",
+      "count": 32,
+      "file": "inventory/used-lexus-nx-part2.json",
       "models": [
         {
           "model": "NX",
-          "count": 35
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "lexus",
-      "model": "NX 300",
-      "count": 5,
-      "file": "inventory/used-lexus-nx-300.json",
-      "models": [
-        {
-          "model": "NX 300",
-          "count": 5
+          "count": 32
         }
       ]
     },
@@ -85,24 +115,11 @@
       "condition": "used",
       "make": "lexus",
       "model": "UX",
-      "count": 9,
+      "count": 8,
       "file": "inventory/used-lexus-ux.json",
       "models": [
         {
           "model": "UX",
-          "count": 9
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "lexus",
-      "model": "RX 350",
-      "count": 8,
-      "file": "inventory/used-lexus-rx-350.json",
-      "models": [
-        {
-          "model": "RX 350",
           "count": 8
         }
       ]
@@ -110,13 +127,52 @@
     {
       "condition": "used",
       "make": "lexus",
+      "model": "RX350 LUXURY PACKAGE",
+      "count": 2,
+      "file": "inventory/used-lexus-rx350-luxury-package.json",
+      "models": [
+        {
+          "model": "RX350 LUXURY PACKAGE",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "RX 350 F-SPORT 2",
+      "count": 2,
+      "file": "inventory/used-lexus-rx-350-f-sport-2.json",
+      "models": [
+        {
+          "model": "RX 350 F-SPORT 2",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "RX 350",
+      "count": 15,
+      "file": "inventory/used-lexus-rx-350.json",
+      "models": [
+        {
+          "model": "RX 350",
+          "count": 15
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
       "model": "UXh",
-      "count": 3,
+      "count": 8,
       "file": "inventory/used-lexus-uxh.json",
       "models": [
         {
           "model": "UXh",
-          "count": 3
+          "count": 8
         }
       ]
     },
@@ -124,12 +180,25 @@
       "condition": "used",
       "make": "lexus",
       "model": "IS",
-      "count": 5,
+      "count": 10,
       "file": "inventory/used-lexus-is.json",
       "models": [
         {
           "model": "IS",
-          "count": 5
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "UX 250h AWD",
+      "count": 2,
+      "file": "inventory/used-lexus-ux-250h-awd.json",
+      "models": [
+        {
+          "model": "UX 250h AWD",
+          "count": 2
         }
       ]
     },
@@ -149,6 +218,123 @@
     {
       "condition": "used",
       "make": "lexus",
+      "model": "RXh",
+      "count": 1,
+      "file": "inventory/used-lexus-rxh.json",
+      "models": [
+        {
+          "model": "RXh",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "NX 350",
+      "count": 4,
+      "file": "inventory/used-lexus-nx-350.json",
+      "models": [
+        {
+          "model": "NX 350",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "NX 350h",
+      "count": 2,
+      "file": "inventory/used-lexus-nx-350h.json",
+      "models": [
+        {
+          "model": "NX 350h",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "LS",
+      "count": 1,
+      "file": "inventory/used-lexus-ls.json",
+      "models": [
+        {
+          "model": "LS",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "RX 350h",
+      "count": 2,
+      "file": "inventory/used-lexus-rx-350h.json",
+      "models": [
+        {
+          "model": "RX 350h",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "ES 300h",
+      "count": 2,
+      "file": "inventory/used-lexus-es-300h.json",
+      "models": [
+        {
+          "model": "ES 300h",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "RX 450h AWD",
+      "count": 2,
+      "file": "inventory/used-lexus-rx-450h-awd.json",
+      "models": [
+        {
+          "model": "RX 450h AWD",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "NX350",
+      "count": 3,
+      "file": "inventory/used-lexus-nx350.json",
+      "models": [
+        {
+          "model": "NX350",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "Rx350 Luxury",
+      "count": 2,
+      "file": "inventory/used-lexus-rx350-luxury.json",
+      "models": [
+        {
+          "model": "Rx350 Luxury",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
       "model": "NX Hybrid",
       "count": 2,
       "file": "inventory/used-lexus-nx-hybrid.json",
@@ -162,13 +348,26 @@
     {
       "condition": "used",
       "make": "lexus",
+      "model": "RX 500h",
+      "count": 2,
+      "file": "inventory/used-lexus-rx-500h.json",
+      "models": [
+        {
+          "model": "RX 500h",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
       "model": "TX",
-      "count": 3,
+      "count": 8,
       "file": "inventory/used-lexus-tx.json",
       "models": [
         {
           "model": "TX",
-          "count": 3
+          "count": 8
         }
       ]
     },
@@ -176,12 +375,25 @@
       "condition": "used",
       "make": "lexus",
       "model": "GX",
-      "count": 4,
+      "count": 9,
       "file": "inventory/used-lexus-gx.json",
       "models": [
         {
           "model": "GX",
-          "count": 4
+          "count": 9
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "LX 600",
+      "count": 2,
+      "file": "inventory/used-lexus-lx-600.json",
+      "models": [
+        {
+          "model": "LX 600",
+          "count": 2
         }
       ]
     },
@@ -189,12 +401,38 @@
       "condition": "used",
       "make": "lexus",
       "model": "GX 550",
-      "count": 3,
+      "count": 8,
       "file": "inventory/used-lexus-gx-550.json",
       "models": [
         {
           "model": "GX 550",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "NX 300",
+      "count": 3,
+      "file": "inventory/used-lexus-nx-300.json",
+      "models": [
+        {
+          "model": "NX 300",
           "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "RC",
+      "count": 2,
+      "file": "inventory/used-lexus-rc.json",
+      "models": [
+        {
+          "model": "RC",
+          "count": 2
         }
       ]
     },
@@ -215,25 +453,12 @@
       "condition": "used",
       "make": "lexus",
       "model": "NX 3504dr All-Wheel Drive",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-lexus-nx-3504dr-all-wheel-drive.json",
       "models": [
         {
           "model": "NX 3504dr All-Wheel Drive",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "lexus",
-      "model": "NX350",
-      "count": 1,
-      "file": "inventory/used-lexus-nx350.json",
-      "models": [
-        {
-          "model": "NX350",
-          "count": 1
+          "count": 2
         }
       ]
     },

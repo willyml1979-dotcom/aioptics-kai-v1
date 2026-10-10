@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T16:00:42+00:00",
+  "generated_at": "2026-10-10T23:43:55+00:00",
   "condition": "used",
   "make": "buick",
   "files": [
@@ -46,12 +46,12 @@
       "condition": "used",
       "make": "buick",
       "model": "Envision",
-      "count": 29,
+      "count": 31,
       "file": "inventory/used-buick-envision.json",
       "models": [
         {
           "model": "Envision",
-          "count": 29
+          "count": 31
         }
       ]
     },
@@ -60,9 +60,13 @@
       "make": "buick",
       "model": "Encore GX",
       "shard": "Lower Mainland",
-      "count": 10,
+      "count": 11,
       "file": "inventory/used-buick-encore-gx-lower-mainland.json",
       "models": [
+        {
+          "model": "ENCORE GX",
+          "count": 1
+        },
         {
           "model": "Encore GX",
           "count": 10
@@ -88,12 +92,12 @@
       "make": "buick",
       "model": "Encore GX",
       "shard": "Okanagan",
-      "count": 5,
+      "count": 4,
       "file": "inventory/used-buick-encore-gx-okanagan.json",
       "models": [
         {
           "model": "Encore GX",
-          "count": 5
+          "count": 4
         }
       ]
     },
@@ -143,12 +147,38 @@
       "condition": "used",
       "make": "buick",
       "model": "Envista",
-      "count": 16,
+      "count": 21,
       "file": "inventory/used-buick-envista.json",
       "models": [
         {
           "model": "Envista",
-          "count": 16
+          "count": 21
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "buick",
+      "model": "Encore GXPreferred",
+      "count": 1,
+      "file": "inventory/used-buick-encore-gxpreferred.json",
+      "models": [
+        {
+          "model": "Encore GXPreferred",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "buick",
+      "model": "Verano",
+      "count": 2,
+      "file": "inventory/used-buick-verano.json",
+      "models": [
+        {
+          "model": "Verano",
+          "count": 2
         }
       ]
     },
@@ -207,12 +237,12 @@
     {
       "condition": "used",
       "make": "buick",
-      "model": "Verano",
+      "model": "Lacrosse",
       "count": 1,
-      "file": "inventory/used-buick-verano.json",
+      "file": "inventory/used-buick-lacrosse.json",
       "models": [
         {
-          "model": "Verano",
+          "model": "Lacrosse",
           "count": 1
         }
       ]
@@ -220,12 +250,12 @@
     {
       "condition": "used",
       "make": "buick",
-      "model": "Lacrosse",
+      "model": "EnclavePremium All-Wheel Drive",
       "count": 1,
-      "file": "inventory/used-buick-lacrosse.json",
+      "file": "inventory/used-buick-enclavepremium-all-wheel-drive.json",
       "models": [
         {
-          "model": "Lacrosse",
+          "model": "EnclavePremium All-Wheel Drive",
           "count": 1
         }
       ]

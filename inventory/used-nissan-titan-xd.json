@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T16:00:42+00:00",
-  "snapshot": "2026-10-09T16:00:42+00:00",
+  "generated_at": "2026-10-10T23:43:55+00:00",
+  "snapshot": "2026-10-10T23:43:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "bannister-nissan-chilliwack-1n6ba1f30hn511409",
@@ -27,12 +27,42 @@
       "listing_url": "https://www.bannisternissan.ca/inventory/2017-nissan-titan-xd-sv-zaMOmWxDSPi3tQb5w5UfLQvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2017-nissan-titan-xd-sv-zaMOmWxDSPi3tQb5w5UfLQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:26:59",
-      "snapshot": "2026-10-03T15:29:05",
+      "snapshot": "2026-10-09T21:47:13",
       "go_url": "https://carwhisper.ca/go/bannister-nissan-chilliwack-1n6ba1f30hn511409",
       "region": "Lower Mainland",
       "city": "Chilliwack",
       "province": "BC",
       "dealer_name": "Bannister Nissan Chilliwack"
+    },
+    {
+      "pub_id": "dueck-downtown-chevrolet-buick-gmc-ltd-1n6ba1f4xkn512809",
+      "year": 2019,
+      "make": "Nissan",
+      "model": "Titan XD",
+      "trim": "4x4 Crew Cab Diesel S",
+      "body_type": "truck",
+      "drivetrain": "4WD",
+      "propulsion": "diesel",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 88472,
+      "price_cad": 33994.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/inventory/NPZ3GAMVLBBFHCRQAJKP5LWHEQ.webp",
+      "dealer_id": "dueck-downtown-chevrolet-buick-gmc-ltd",
+      "vin": "1N6BA1F4XKN512809",
+      "stock": "61360A",
+      "listing_url": "https://www.dueckdowntown.com/inventory/2019-nissan-titan-xd-s-UUupJEiOSImNQ9zQ7eYE5wvdp",
+      "dealer_url": "https://www.dueckdowntown.com/inventory/2019-nissan-titan-xd-s-UUupJEiOSImNQ9zQ7eYE5wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-10T00:12:16",
+      "snapshot": "2026-10-10T00:15:04",
+      "go_url": "https://carwhisper.ca/go/dueck-downtown-chevrolet-buick-gmc-ltd-1n6ba1f4xkn512809",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Dueck Downtown Chevrolet Buick GMC Ltd."
     }
   ]
 }

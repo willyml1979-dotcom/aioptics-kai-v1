@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T16:00:42+00:00",
+  "generated_at": "2026-10-10T23:43:55+00:00",
   "condition": "used",
   "make": "volkswagen",
   "files": [
@@ -8,12 +8,12 @@
       "make": "volkswagen",
       "model": "Tiguan",
       "shard": "part1",
-      "count": 32,
+      "count": 29,
       "file": "inventory/used-volkswagen-tiguan-part1.json",
       "models": [
         {
           "model": "Tiguan",
-          "count": 32
+          "count": 29
         }
       ]
     },
@@ -22,12 +22,12 @@
       "make": "volkswagen",
       "model": "Tiguan",
       "shard": "part2",
-      "count": 32,
+      "count": 29,
       "file": "inventory/used-volkswagen-tiguan-part2.json",
       "models": [
         {
           "model": "Tiguan",
-          "count": 32
+          "count": 29
         }
       ]
     },
@@ -36,12 +36,12 @@
       "make": "volkswagen",
       "model": "Tiguan",
       "shard": "part3",
-      "count": 32,
+      "count": 29,
       "file": "inventory/used-volkswagen-tiguan-part3.json",
       "models": [
         {
           "model": "Tiguan",
-          "count": 32
+          "count": 29
         }
       ]
     },
@@ -50,12 +50,12 @@
       "make": "volkswagen",
       "model": "Tiguan",
       "shard": "part4",
-      "count": 32,
+      "count": 29,
       "file": "inventory/used-volkswagen-tiguan-part4.json",
       "models": [
         {
           "model": "Tiguan",
-          "count": 32
+          "count": 29
         }
       ]
     },
@@ -64,106 +64,78 @@
       "make": "volkswagen",
       "model": "Tiguan",
       "shard": "part5",
-      "count": 30,
+      "count": 29,
       "file": "inventory/used-volkswagen-tiguan-part5.json",
       "models": [
         {
           "model": "Tiguan",
-          "count": 30
+          "count": 29
         }
       ]
     },
     {
       "condition": "used",
       "make": "volkswagen",
-      "model": "Taos",
-      "shard": "Kootenays",
-      "count": 1,
-      "file": "inventory/used-volkswagen-taos-kootenays.json",
-      "models": [
-        {
-          "model": "Taos",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Taos",
-      "shard": "Lower Mainland",
-      "count": 26,
-      "file": "inventory/used-volkswagen-taos-lower-mainland.json",
-      "models": [
-        {
-          "model": "Taos",
-          "count": 26
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Taos",
-      "shard": "Norte/Cariboo",
-      "count": 4,
-      "file": "inventory/used-volkswagen-taos-norte-cariboo.json",
-      "models": [
-        {
-          "model": "Taos",
-          "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Taos",
-      "shard": "Okanagan",
-      "count": 14,
-      "file": "inventory/used-volkswagen-taos-okanagan.json",
-      "models": [
-        {
-          "model": "Taos",
-          "count": 14
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Taos",
-      "shard": "Thompson-Okanagan",
-      "count": 10,
-      "file": "inventory/used-volkswagen-taos-thompson-okanagan.json",
-      "models": [
-        {
-          "model": "Taos",
-          "count": 10
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Taos",
-      "shard": "Vancouver Island",
-      "count": 13,
-      "file": "inventory/used-volkswagen-taos-vancouver-island.json",
-      "models": [
-        {
-          "model": "Taos",
-          "count": 13
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Taos",
-      "shard": "sin-region",
+      "model": "Tiguan",
+      "shard": "part6",
       "count": 24,
-      "file": "inventory/used-volkswagen-taos-sin-region.json",
+      "file": "inventory/used-volkswagen-tiguan-part6.json",
+      "models": [
+        {
+          "model": "Tiguan",
+          "count": 24
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volkswagen",
+      "model": "Taos",
+      "shard": "part1",
+      "count": 27,
+      "file": "inventory/used-volkswagen-taos-part1.json",
+      "models": [
+        {
+          "model": "Taos",
+          "count": 27
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volkswagen",
+      "model": "Taos",
+      "shard": "part2",
+      "count": 27,
+      "file": "inventory/used-volkswagen-taos-part2.json",
+      "models": [
+        {
+          "model": "Taos",
+          "count": 27
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volkswagen",
+      "model": "Taos",
+      "shard": "part3",
+      "count": 27,
+      "file": "inventory/used-volkswagen-taos-part3.json",
+      "models": [
+        {
+          "model": "Taos",
+          "count": 27
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volkswagen",
+      "model": "Taos",
+      "shard": "part4",
+      "count": 24,
+      "file": "inventory/used-volkswagen-taos-part4.json",
       "models": [
         {
           "model": "Taos",
@@ -190,12 +162,12 @@
       "make": "volkswagen",
       "model": "Jetta",
       "shard": "Lower Mainland",
-      "count": 20,
+      "count": 29,
       "file": "inventory/used-volkswagen-jetta-lower-mainland.json",
       "models": [
         {
           "model": "Jetta",
-          "count": 20
+          "count": 29
         }
       ]
     },
@@ -204,12 +176,12 @@
       "make": "volkswagen",
       "model": "Jetta",
       "shard": "Norte/Cariboo",
-      "count": 4,
+      "count": 3,
       "file": "inventory/used-volkswagen-jetta-norte-cariboo.json",
       "models": [
         {
           "model": "Jetta",
-          "count": 4
+          "count": 3
         }
       ]
     },
@@ -260,12 +232,12 @@
       "make": "volkswagen",
       "model": "Jetta",
       "shard": "sin-region",
-      "count": 12,
+      "count": 13,
       "file": "inventory/used-volkswagen-jetta-sin-region.json",
       "models": [
         {
           "model": "Jetta",
-          "count": 12
+          "count": 13
         }
       ]
     },
@@ -286,12 +258,38 @@
       "condition": "used",
       "make": "volkswagen",
       "model": "Beetle",
-      "count": 7,
+      "count": 9,
       "file": "inventory/used-volkswagen-beetle.json",
       "models": [
         {
           "model": "Beetle",
-          "count": 7
+          "count": 9
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volkswagen",
+      "model": "Passat",
+      "count": 3,
+      "file": "inventory/used-volkswagen-passat.json",
+      "models": [
+        {
+          "model": "Passat",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volkswagen",
+      "model": "Touareg",
+      "count": 3,
+      "file": "inventory/used-volkswagen-touareg.json",
+      "models": [
+        {
+          "model": "Touareg",
+          "count": 3
         }
       ]
     },
@@ -300,12 +298,12 @@
       "make": "volkswagen",
       "model": "Atlas",
       "shard": "Lower Mainland",
-      "count": 21,
+      "count": 22,
       "file": "inventory/used-volkswagen-atlas-lower-mainland.json",
       "models": [
         {
           "model": "Atlas",
-          "count": 21
+          "count": 22
         }
       ]
     },
@@ -314,12 +312,12 @@
       "make": "volkswagen",
       "model": "Atlas",
       "shard": "Norte/Cariboo",
-      "count": 2,
+      "count": 3,
       "file": "inventory/used-volkswagen-atlas-norte-cariboo.json",
       "models": [
         {
           "model": "Atlas",
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -356,12 +354,12 @@
       "make": "volkswagen",
       "model": "Atlas",
       "shard": "Vancouver Island",
-      "count": 9,
+      "count": 10,
       "file": "inventory/used-volkswagen-atlas-vancouver-island.json",
       "models": [
         {
           "model": "Atlas",
-          "count": 9
+          "count": 10
         }
       ]
     },
@@ -370,38 +368,12 @@
       "make": "volkswagen",
       "model": "Atlas",
       "shard": "sin-region",
-      "count": 12,
+      "count": 11,
       "file": "inventory/used-volkswagen-atlas-sin-region.json",
       "models": [
         {
           "model": "Atlas",
-          "count": 12
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Passat",
-      "count": 3,
-      "file": "inventory/used-volkswagen-passat.json",
-      "models": [
-        {
-          "model": "Passat",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Touareg",
-      "count": 3,
-      "file": "inventory/used-volkswagen-touareg.json",
-      "models": [
-        {
-          "model": "Touareg",
-          "count": 3
+          "count": 11
         }
       ]
     },
@@ -409,12 +381,12 @@
       "condition": "used",
       "make": "volkswagen",
       "model": "Golf GTI",
-      "count": 9,
+      "count": 14,
       "file": "inventory/used-volkswagen-golf-gti.json",
       "models": [
         {
           "model": "Golf GTI",
-          "count": 9
+          "count": 14
         }
       ]
     },
@@ -435,24 +407,11 @@
       "condition": "used",
       "make": "volkswagen",
       "model": "Golf R",
-      "count": 20,
+      "count": 24,
       "file": "inventory/used-volkswagen-golf-r.json",
       "models": [
         {
           "model": "Golf R",
-          "count": 20
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Atlas Cross Sport",
-      "count": 24,
-      "file": "inventory/used-volkswagen-atlas-cross-sport.json",
-      "models": [
-        {
-          "model": "Atlas Cross Sport",
           "count": 24
         }
       ]
@@ -460,13 +419,26 @@
     {
       "condition": "used",
       "make": "volkswagen",
+      "model": "Atlas Cross Sport",
+      "count": 29,
+      "file": "inventory/used-volkswagen-atlas-cross-sport.json",
+      "models": [
+        {
+          "model": "Atlas Cross Sport",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volkswagen",
       "model": "GTI",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-volkswagen-gti.json",
       "models": [
         {
           "model": "GTI",
-          "count": 1
+          "count": 2
         }
       ]
     },

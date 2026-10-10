@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T16:00:42+00:00",
+  "generated_at": "2026-10-10T23:43:55+00:00",
   "condition": "used",
   "make": "volvo",
   "files": [
@@ -20,12 +20,12 @@
       "condition": "used",
       "make": "volvo",
       "model": "S60",
-      "count": 8,
+      "count": 6,
       "file": "inventory/used-volvo-s60.json",
       "models": [
         {
           "model": "S60",
-          "count": 8
+          "count": 6
         }
       ]
     },
@@ -33,12 +33,12 @@
       "condition": "used",
       "make": "volvo",
       "model": "XC60",
-      "count": 17,
+      "count": 20,
       "file": "inventory/used-volvo-xc60.json",
       "models": [
         {
           "model": "XC60",
-          "count": 17
+          "count": 20
         }
       ]
     },
@@ -46,12 +46,55 @@
       "condition": "used",
       "make": "volvo",
       "model": "XC90",
-      "count": 26,
-      "file": "inventory/used-volvo-xc90.json",
+      "shard": "Lower Mainland",
+      "count": 27,
+      "file": "inventory/used-volvo-xc90-lower-mainland.json",
       "models": [
         {
           "model": "XC90",
-          "count": 26
+          "count": 27
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volvo",
+      "model": "XC90",
+      "shard": "Okanagan",
+      "count": 5,
+      "file": "inventory/used-volvo-xc90-okanagan.json",
+      "models": [
+        {
+          "model": "XC90",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volvo",
+      "model": "XC90",
+      "shard": "Vancouver Island",
+      "count": 2,
+      "file": "inventory/used-volvo-xc90-vancouver-island.json",
+      "models": [
+        {
+          "model": "XC90",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volvo",
+      "model": "XC90",
+      "shard": "sin-region",
+      "count": 3,
+      "file": "inventory/used-volvo-xc90-sin-region.json",
+      "models": [
+        {
+          "model": "XC90",
+          "count": 3
         }
       ]
     },
@@ -98,12 +141,16 @@
       "condition": "used",
       "make": "volvo",
       "model": "XC90 Recharge",
-      "count": 5,
+      "count": 7,
       "file": "inventory/used-volvo-xc90-recharge.json",
       "models": [
         {
           "model": "XC90 Recharge",
           "count": 5
+        },
+        {
+          "model": "Xc90 Recharge",
+          "count": 2
         }
       ]
     },
@@ -111,12 +158,38 @@
       "condition": "used",
       "make": "volvo",
       "model": "XC60 Recharge",
-      "count": 4,
+      "count": 5,
       "file": "inventory/used-volvo-xc60-recharge.json",
       "models": [
         {
           "model": "XC60 Recharge",
-          "count": 4
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volvo",
+      "model": "Xc90 T8 Recharge R-Design",
+      "count": 2,
+      "file": "inventory/used-volvo-xc90-t8-recharge-r-design.json",
+      "models": [
+        {
+          "model": "Xc90 T8 Recharge R-Design",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volvo",
+      "model": "C40 Recharge Pure Electric",
+      "count": 1,
+      "file": "inventory/used-volvo-c40-recharge-pure-electric.json",
+      "models": [
+        {
+          "model": "C40 Recharge Pure Electric",
+          "count": 1
         }
       ]
     },
@@ -124,12 +197,12 @@
       "condition": "used",
       "make": "volvo",
       "model": "V60 Cross Country",
-      "count": 2,
+      "count": 3,
       "file": "inventory/used-volvo-v60-cross-country.json",
       "models": [
         {
           "model": "V60 Cross Country",
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -149,13 +222,39 @@
     {
       "condition": "used",
       "make": "volvo",
+      "model": "Xc90 T8 Recharge Ultimate",
+      "count": 2,
+      "file": "inventory/used-volvo-xc90-t8-recharge-ultimate.json",
+      "models": [
+        {
+          "model": "Xc90 T8 Recharge Ultimate",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volvo",
+      "model": "EC40",
+      "count": 1,
+      "file": "inventory/used-volvo-ec40.json",
+      "models": [
+        {
+          "model": "EC40",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volvo",
       "model": "EX40",
-      "count": 4,
+      "count": 9,
       "file": "inventory/used-volvo-ex40.json",
       "models": [
         {
           "model": "EX40",
-          "count": 4
+          "count": 9
         }
       ]
     },
@@ -163,12 +262,12 @@
       "condition": "used",
       "make": "volvo",
       "model": "XC90 Plug-in Hybrid",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-volvo-xc90-plug-in-hybrid.json",
       "models": [
         {
           "model": "XC90 Plug-in Hybrid",
-          "count": 1
+          "count": 2
         }
       ]
     },

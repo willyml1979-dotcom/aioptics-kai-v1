@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T16:00:42+00:00",
+  "generated_at": "2026-10-10T23:43:55+00:00",
   "condition": "new",
   "make": "nissan",
   "files": [
@@ -105,8 +105,36 @@
       "make": "nissan",
       "model": "Kicks",
       "shard": "part7",
-      "count": 27,
+      "count": 30,
       "file": "inventory/new-nissan-kicks-part7.json",
+      "models": [
+        {
+          "model": "Kicks",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Kicks",
+      "shard": "part8",
+      "count": 30,
+      "file": "inventory/new-nissan-kicks-part8.json",
+      "models": [
+        {
+          "model": "Kicks",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Kicks",
+      "shard": "part9",
+      "count": 27,
+      "file": "inventory/new-nissan-kicks-part9.json",
       "models": [
         {
           "model": "Kicks",
@@ -118,12 +146,69 @@
       "condition": "new",
       "make": "nissan",
       "model": "Sentra",
-      "count": 35,
-      "file": "inventory/new-nissan-sentra.json",
+      "shard": "Lower Mainland",
+      "count": 26,
+      "file": "inventory/new-nissan-sentra-lower-mainland.json",
       "models": [
         {
           "model": "Sentra",
-          "count": 35
+          "count": 26
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Sentra",
+      "shard": "Norte/Cariboo",
+      "count": 3,
+      "file": "inventory/new-nissan-sentra-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Sentra",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Sentra",
+      "shard": "Okanagan",
+      "count": 7,
+      "file": "inventory/new-nissan-sentra-okanagan.json",
+      "models": [
+        {
+          "model": "Sentra",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Sentra",
+      "shard": "Vancouver Island",
+      "count": 10,
+      "file": "inventory/new-nissan-sentra-vancouver-island.json",
+      "models": [
+        {
+          "model": "Sentra",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Sentra",
+      "shard": "sin-region",
+      "count": 1,
+      "file": "inventory/new-nissan-sentra-sin-region.json",
+      "models": [
+        {
+          "model": "Sentra",
+          "count": 1
         }
       ]
     },
@@ -158,12 +243,12 @@
       "make": "nissan",
       "model": "Rogue",
       "shard": "part1",
-      "count": 31,
+      "count": 29,
       "file": "inventory/new-nissan-rogue-part1.json",
       "models": [
         {
           "model": "Rogue",
-          "count": 31
+          "count": 29
         }
       ]
     },
@@ -172,12 +257,12 @@
       "make": "nissan",
       "model": "Rogue",
       "shard": "part2",
-      "count": 31,
+      "count": 29,
       "file": "inventory/new-nissan-rogue-part2.json",
       "models": [
         {
           "model": "Rogue",
-          "count": 31
+          "count": 29
         }
       ]
     },
@@ -186,12 +271,12 @@
       "make": "nissan",
       "model": "Rogue",
       "shard": "part3",
-      "count": 31,
+      "count": 29,
       "file": "inventory/new-nissan-rogue-part3.json",
       "models": [
         {
           "model": "Rogue",
-          "count": 31
+          "count": 29
         }
       ]
     },
@@ -200,12 +285,12 @@
       "make": "nissan",
       "model": "Rogue",
       "shard": "part4",
-      "count": 31,
+      "count": 29,
       "file": "inventory/new-nissan-rogue-part4.json",
       "models": [
         {
           "model": "Rogue",
-          "count": 31
+          "count": 29
         }
       ]
     },
@@ -214,12 +299,12 @@
       "make": "nissan",
       "model": "Rogue",
       "shard": "part5",
-      "count": 31,
+      "count": 29,
       "file": "inventory/new-nissan-rogue-part5.json",
       "models": [
         {
           "model": "Rogue",
-          "count": 31
+          "count": 29
         }
       ]
     },
@@ -228,12 +313,12 @@
       "make": "nissan",
       "model": "Rogue",
       "shard": "part6",
-      "count": 31,
+      "count": 29,
       "file": "inventory/new-nissan-rogue-part6.json",
       "models": [
         {
           "model": "Rogue",
-          "count": 31
+          "count": 29
         }
       ]
     },
@@ -242,12 +327,12 @@
       "make": "nissan",
       "model": "Rogue",
       "shard": "part7",
-      "count": 31,
+      "count": 29,
       "file": "inventory/new-nissan-rogue-part7.json",
       "models": [
         {
           "model": "Rogue",
-          "count": 31
+          "count": 29
         }
       ]
     },
@@ -256,12 +341,12 @@
       "make": "nissan",
       "model": "Rogue",
       "shard": "part8",
-      "count": 31,
+      "count": 29,
       "file": "inventory/new-nissan-rogue-part8.json",
       "models": [
         {
           "model": "Rogue",
-          "count": 31
+          "count": 29
         }
       ]
     },
@@ -270,12 +355,12 @@
       "make": "nissan",
       "model": "Rogue",
       "shard": "part9",
-      "count": 31,
+      "count": 29,
       "file": "inventory/new-nissan-rogue-part9.json",
       "models": [
         {
           "model": "Rogue",
-          "count": 31
+          "count": 29
         }
       ]
     },
@@ -284,12 +369,54 @@
       "make": "nissan",
       "model": "Rogue",
       "shard": "part10",
-      "count": 23,
+      "count": 29,
       "file": "inventory/new-nissan-rogue-part10.json",
       "models": [
         {
           "model": "Rogue",
-          "count": 23
+          "count": 29
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Rogue",
+      "shard": "part11",
+      "count": 29,
+      "file": "inventory/new-nissan-rogue-part11.json",
+      "models": [
+        {
+          "model": "Rogue",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Rogue",
+      "shard": "part12",
+      "count": 29,
+      "file": "inventory/new-nissan-rogue-part12.json",
+      "models": [
+        {
+          "model": "Rogue",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Rogue",
+      "shard": "part13",
+      "count": 29,
+      "file": "inventory/new-nissan-rogue-part13.json",
+      "models": [
+        {
+          "model": "Rogue",
+          "count": 29
         }
       ]
     },
@@ -297,12 +424,12 @@
       "condition": "new",
       "make": "nissan",
       "model": "Kicks S FWD",
-      "count": 7,
+      "count": 5,
       "file": "inventory/new-nissan-kicks-s-fwd.json",
       "models": [
         {
           "model": "Kicks S FWD",
-          "count": 7
+          "count": 5
         }
       ]
     },
@@ -323,7 +450,7 @@
       "condition": "new",
       "make": "nissan",
       "model": "LEAF S FWD",
-      "count": 7,
+      "count": 6,
       "file": "inventory/new-nissan-leaf-s-fwd.json",
       "models": [
         {
@@ -332,7 +459,7 @@
         },
         {
           "model": "LEAF S+ FWD",
-          "count": 3
+          "count": 2
         }
       ]
     },
@@ -341,12 +468,12 @@
       "make": "nissan",
       "model": "LEAF",
       "shard": "Lower Mainland",
-      "count": 11,
+      "count": 28,
       "file": "inventory/new-nissan-leaf-lower-mainland.json",
       "models": [
         {
           "model": "LEAF",
-          "count": 11
+          "count": 28
         }
       ]
     },
@@ -369,16 +496,16 @@
       "make": "nissan",
       "model": "LEAF",
       "shard": "Vancouver Island",
-      "count": 28,
+      "count": 26,
       "file": "inventory/new-nissan-leaf-vancouver-island.json",
       "models": [
         {
           "model": "LEAF",
-          "count": 4
+          "count": 3
         },
         {
           "model": "Leaf",
-          "count": 24
+          "count": 23
         }
       ]
     },
@@ -399,12 +526,12 @@
       "condition": "new",
       "make": "nissan",
       "model": "Murano",
-      "count": 15,
+      "count": 20,
       "file": "inventory/new-nissan-murano.json",
       "models": [
         {
           "model": "Murano",
-          "count": 15
+          "count": 20
         }
       ]
     },
@@ -437,6 +564,19 @@
     {
       "condition": "new",
       "make": "nissan",
+      "model": "Pathfinder",
+      "count": 15,
+      "file": "inventory/new-nissan-pathfinder.json",
+      "models": [
+        {
+          "model": "Pathfinder",
+          "count": 15
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
       "model": "Frontier",
       "count": 11,
       "file": "inventory/new-nissan-frontier.json",
@@ -450,13 +590,26 @@
     {
       "condition": "new",
       "make": "nissan",
+      "model": "ARIYA",
+      "count": 3,
+      "file": "inventory/new-nissan-ariya.json",
+      "models": [
+        {
+          "model": "ARIYA",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
       "model": "Pathfinder Rock Creek 4WD",
-      "count": 4,
+      "count": 3,
       "file": "inventory/new-nissan-pathfinder-rock-creek-4wd.json",
       "models": [
         {
           "model": "Pathfinder Rock Creek 4WD",
-          "count": 4
+          "count": 3
         }
       ]
     },
@@ -515,26 +668,13 @@
     {
       "condition": "new",
       "make": "nissan",
-      "model": "Pathfinder",
-      "count": 14,
-      "file": "inventory/new-nissan-pathfinder.json",
-      "models": [
-        {
-          "model": "Pathfinder",
-          "count": 14
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
       "model": "Z",
-      "count": 2,
+      "count": 4,
       "file": "inventory/new-nissan-z.json",
       "models": [
         {
           "model": "Z",
-          "count": 2
+          "count": 4
         }
       ]
     },
@@ -542,12 +682,12 @@
       "condition": "new",
       "make": "nissan",
       "model": "Armada",
-      "count": 11,
+      "count": 16,
       "file": "inventory/new-nissan-armada.json",
       "models": [
         {
           "model": "Armada",
-          "count": 11
+          "count": 16
         }
       ]
     },
@@ -624,12 +764,12 @@
       "condition": "new",
       "make": "nissan",
       "model": "Frontier Crew Cab",
-      "count": 4,
+      "count": 3,
       "file": "inventory/new-nissan-frontier-crew-cab.json",
       "models": [
         {
           "model": "Frontier Crew Cab",
-          "count": 4
+          "count": 3
         }
       ]
     },
@@ -747,19 +887,6 @@
         {
           "model": "Rogue Platinum",
           "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Sentra Sedan SV",
-      "count": 1,
-      "file": "inventory/new-nissan-sentra-sedan-sv.json",
-      "models": [
-        {
-          "model": "Sentra Sedan SV",
-          "count": 1
         }
       ]
     },

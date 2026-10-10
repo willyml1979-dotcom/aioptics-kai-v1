@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T16:00:42+00:00",
-  "snapshot": "2026-10-09T16:00:42+00:00",
+  "generated_at": "2026-10-10T23:43:55+00:00",
+  "snapshot": "2026-10-10T23:43:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "cam-clark-ford-richmond-ltd-1fduf5gtxtda03963",
@@ -45,12 +45,36 @@
       "listing_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-550-chassis-xl-id14688112.htm",
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-550-chassis-xl-id14688112.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T20:30:59",
-      "snapshot": "2026-10-08T23:36:39",
+      "snapshot": "2026-10-10T00:44:18",
       "go_url": "https://carwhisper.ca/go/dearborn-motors-ltd-1fduf5gtxtda03963",
       "region": "Thompson-Okanagan",
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Dearborn Motors Ltd."
+    },
+    {
+      "pub_id": "kamloops-ford-lincoln-ltd-1fduf5gtxtda03963",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-550 CHASSISXL 4X2 SD REGULAR CAB DRW",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "White",
+      "dealer_id": "kamloops-ford-lincoln-ltd",
+      "vin": "1FDUF5GTXTDA03963",
+      "stock": "2026",
+      "listing_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-f-550-chassis-xl-id14688112.htm",
+      "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-f-550-chassis-xl-id14688112.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T09:17:01",
+      "snapshot": "2026-10-10T11:03:44",
+      "go_url": "https://carwhisper.ca/go/kamloops-ford-lincoln-ltd-1fduf5gtxtda03963",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Kamloops Ford Lincoln Ltd."
     }
   ]
 }

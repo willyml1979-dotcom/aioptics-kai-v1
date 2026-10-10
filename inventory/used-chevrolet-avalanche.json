@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T16:00:42+00:00",
-  "snapshot": "2026-10-09T16:00:42+00:00",
+  "generated_at": "2026-10-10T23:43:55+00:00",
+  "snapshot": "2026-10-10T23:43:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 1,
   "vehicles": [
     {
       "pub_id": "penticton-nissan-3gnvkfe02ag146464",
@@ -27,30 +27,6 @@
       "city": "Penticton",
       "province": "BC",
       "dealer_name": "Penticton Nissan"
-    },
-    {
-      "pub_id": "duncan-hyundai-3gnvkfe02ag146464",
-      "year": 2010,
-      "make": "Chevrolet",
-      "model": "Avalanche",
-      "propulsion": "unknown",
-      "propulsion_source": null,
-      "condition": "used",
-      "price_cad": 7499.0,
-      "price_note": null,
-      "color": "Black",
-      "dealer_id": "duncan-hyundai",
-      "vin": "3GNVKFE02AG146464",
-      "stock": 14248117,
-      "listing_url": "https://www.duncanhyundai.net/used/2010-Chevrolet-Avalanche.html",
-      "dealer_url": "https://www.duncanhyundai.net/used/2010-Chevrolet-Avalanche.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T22:38:11",
-      "snapshot": "2026-10-08T23:59:08",
-      "go_url": "https://carwhisper.ca/go/duncan-hyundai-3gnvkfe02ag146464",
-      "region": "Vancouver Island",
-      "city": "Duncan",
-      "province": "BC",
-      "dealer_name": "Duncan Hyundai"
     }
   ]
 }

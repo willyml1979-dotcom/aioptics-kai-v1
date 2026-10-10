@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T16:00:42+00:00",
+  "generated_at": "2026-10-10T23:43:55+00:00",
   "condition": "new",
   "make": "volkswagen",
   "files": [
@@ -64,12 +64,12 @@
       "make": "volkswagen",
       "model": "Jetta",
       "shard": "part5",
-      "count": 27,
+      "count": 30,
       "file": "inventory/new-volkswagen-jetta-part5.json",
       "models": [
         {
           "model": "Jetta",
-          "count": 27
+          "count": 30
         }
       ]
     },
@@ -120,12 +120,12 @@
       "make": "volkswagen",
       "model": "Taos",
       "shard": "part4",
-      "count": 25,
+      "count": 27,
       "file": "inventory/new-volkswagen-taos-part4.json",
       "models": [
         {
           "model": "Taos",
-          "count": 25
+          "count": 27
         }
       ]
     },
@@ -133,13 +133,13 @@
       "condition": "new",
       "make": "volkswagen",
       "model": "Tiguan",
-      "shard": "Lower Mainland",
-      "count": 35,
-      "file": "inventory/new-volkswagen-tiguan-lower-mainland.json",
+      "shard": "part1",
+      "count": 32,
+      "file": "inventory/new-volkswagen-tiguan-part1.json",
       "models": [
         {
           "model": "Tiguan",
-          "count": 35
+          "count": 32
         }
       ]
     },
@@ -147,13 +147,13 @@
       "condition": "new",
       "make": "volkswagen",
       "model": "Tiguan",
-      "shard": "Norte/Cariboo",
-      "count": 19,
-      "file": "inventory/new-volkswagen-tiguan-norte-cariboo.json",
+      "shard": "part2",
+      "count": 32,
+      "file": "inventory/new-volkswagen-tiguan-part2.json",
       "models": [
         {
           "model": "Tiguan",
-          "count": 19
+          "count": 32
         }
       ]
     },
@@ -161,13 +161,13 @@
       "condition": "new",
       "make": "volkswagen",
       "model": "Tiguan",
-      "shard": "Okanagan",
-      "count": 9,
-      "file": "inventory/new-volkswagen-tiguan-okanagan.json",
+      "shard": "part3",
+      "count": 32,
+      "file": "inventory/new-volkswagen-tiguan-part3.json",
       "models": [
         {
           "model": "Tiguan",
-          "count": 9
+          "count": 32
         }
       ]
     },
@@ -175,41 +175,13 @@
       "condition": "new",
       "make": "volkswagen",
       "model": "Tiguan",
-      "shard": "Thompson-Okanagan",
-      "count": 28,
-      "file": "inventory/new-volkswagen-tiguan-thompson-okanagan.json",
+      "shard": "part4",
+      "count": 32,
+      "file": "inventory/new-volkswagen-tiguan-part4.json",
       "models": [
         {
           "model": "Tiguan",
-          "count": 28
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "volkswagen",
-      "model": "Tiguan",
-      "shard": "Vancouver Island",
-      "count": 8,
-      "file": "inventory/new-volkswagen-tiguan-vancouver-island.json",
-      "models": [
-        {
-          "model": "Tiguan",
-          "count": 8
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "volkswagen",
-      "model": "Tiguan",
-      "shard": "sin-region",
-      "count": 25,
-      "file": "inventory/new-volkswagen-tiguan-sin-region.json",
-      "models": [
-        {
-          "model": "Tiguan",
-          "count": 25
+          "count": 32
         }
       ]
     },
@@ -217,12 +189,12 @@
       "condition": "new",
       "make": "volkswagen",
       "model": "Jetta GLI",
-      "count": 15,
+      "count": 14,
       "file": "inventory/new-volkswagen-jetta-gli.json",
       "models": [
         {
           "model": "Jetta GLI",
-          "count": 15
+          "count": 14
         }
       ]
     },
@@ -230,12 +202,12 @@
       "condition": "new",
       "make": "volkswagen",
       "model": "GLI",
-      "count": 3,
+      "count": 2,
       "file": "inventory/new-volkswagen-gli.json",
       "models": [
         {
           "model": "GLI",
-          "count": 3
+          "count": 2
         }
       ]
     },
@@ -243,12 +215,12 @@
       "condition": "new",
       "make": "volkswagen",
       "model": "Golf GTI",
-      "count": 12,
+      "count": 13,
       "file": "inventory/new-volkswagen-golf-gti.json",
       "models": [
         {
           "model": "Golf GTI",
-          "count": 12
+          "count": 13
         }
       ]
     },
@@ -257,12 +229,12 @@
       "make": "volkswagen",
       "model": "Atlas Cross Sport",
       "shard": "Lower Mainland",
-      "count": 7,
+      "count": 6,
       "file": "inventory/new-volkswagen-atlas-cross-sport-lower-mainland.json",
       "models": [
         {
           "model": "Atlas Cross Sport",
-          "count": 7
+          "count": 6
         }
       ]
     },
@@ -411,12 +383,12 @@
       "make": "volkswagen",
       "model": "Atlas",
       "shard": "sin-region",
-      "count": 4,
+      "count": 8,
       "file": "inventory/new-volkswagen-atlas-sin-region.json",
       "models": [
         {
           "model": "Atlas",
-          "count": 4
+          "count": 8
         }
       ]
     },

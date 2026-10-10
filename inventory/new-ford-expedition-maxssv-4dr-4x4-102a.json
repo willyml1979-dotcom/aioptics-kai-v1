@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T16:00:42+00:00",
-  "snapshot": "2026-10-09T16:00:42+00:00",
+  "generated_at": "2026-10-10T23:43:55+00:00",
+  "snapshot": "2026-10-10T23:43:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "dearborn-motors-ltd-1fmjk1g82vea19784",
@@ -22,12 +22,37 @@
       "listing_url": "https://www.dearbornford.com/new/vehicle/2027-ford-expedition-max-ssv-id15209117.htm",
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2027-ford-expedition-max-ssv-id15209117.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T19:04:08",
-      "snapshot": "2026-10-08T23:36:39",
+      "snapshot": "2026-10-10T00:44:18",
       "go_url": "https://carwhisper.ca/go/dearborn-motors-ltd-1fmjk1g82vea19784",
       "region": "Thompson-Okanagan",
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Dearborn Motors Ltd."
+    },
+    {
+      "pub_id": "kamloops-ford-lincoln-ltd-1fmjk1g82vea19784",
+      "year": 2027,
+      "make": "Ford",
+      "model": "EXPEDITION MAXSSV 4DR 4X4 (102A)",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "White",
+      "dealer_id": "kamloops-ford-lincoln-ltd",
+      "vin": "1FMJK1G82VEA19784",
+      "stock": "K1G629A",
+      "listing_url": "https://www.kamloopsford.ca/new/vehicle/2027-ford-expedition-max-ssv-id15209117.htm",
+      "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2027-ford-expedition-max-ssv-id15209117.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T09:51:18",
+      "snapshot": "2026-10-10T11:03:44",
+      "go_url": "https://carwhisper.ca/go/kamloops-ford-lincoln-ltd-1fmjk1g82vea19784",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Kamloops Ford Lincoln Ltd."
     }
   ]
 }

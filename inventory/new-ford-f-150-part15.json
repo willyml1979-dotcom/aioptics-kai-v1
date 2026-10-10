@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T16:00:42+00:00",
-  "snapshot": "2026-10-09T16:00:42+00:00",
+  "generated_at": "2026-10-10T23:43:55+00:00",
+  "snapshot": "2026-10-10T23:43:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 30,
   "vehicles": [
@@ -316,6 +316,33 @@
       "city": "Prince George",
       "province": "BC",
       "dealer_name": "Prince George Ford"
+    },
+    {
+      "pub_id": "hoskins-ford-sales-ltd-1ftew2lp5tke78500",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "4x4 Supercrew - 145",
+      "drivetrain": "FWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "odometer_km": 36,
+      "price_cad": 61615.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "hoskins-ford-sales-ltd",
+      "vin": "1FTEW2LP5TKE78500",
+      "stock": "14365059",
+      "listing_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-F_150-id14365059.html",
+      "dealer_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-F_150-id14365059.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-10T05:22:34",
+      "snapshot": "2026-10-10T05:24:29",
+      "go_url": "https://carwhisper.ca/go/hoskins-ford-sales-ltd-1ftew2lp5tke78500",
+      "region": "Norte/Cariboo",
+      "city": "Smithers",
+      "province": "BC",
+      "dealer_name": "Hoskins Ford Sales Ltd"
     },
     {
       "pub_id": "prince-george-ford-1ftfw3l87tkf22645",
@@ -827,35 +854,6 @@
       "city": "Prince George",
       "province": "BC",
       "dealer_name": "Prince George Ford"
-    },
-    {
-      "pub_id": "snow-valley-ford-sales-1ftfw3l83tke97873",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "trim": "XLT",
-      "body_type": "truck",
-      "drivetrain": "FWD",
-      "propulsion": "gas",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
-      "condition": "new",
-      "odometer_km": 0,
-      "price_cad": 65291.0,
-      "price_note": null,
-      "color": "Red",
-      "dealer_id": "snow-valley-ford-sales",
-      "vin": "1FTFW3L83TKE97873",
-      "stock": "14314054",
-      "listing_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-F_150-id14314054.html",
-      "dealer_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-F_150-id14314054.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T04:09:07",
-      "snapshot": "2026-09-26T04:15:05",
-      "go_url": "https://carwhisper.ca/go/snow-valley-ford-sales-1ftfw3l83tke97873",
-      "region": "Norte/Cariboo",
-      "city": "Kitimat",
-      "province": "BC",
-      "dealer_name": "Snow Valley Ford Sales"
     }
   ]
 }

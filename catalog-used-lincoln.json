@@ -1,21 +1,8 @@
 {
-  "generated_at": "2026-10-09T16:00:42+00:00",
+  "generated_at": "2026-10-10T23:43:55+00:00",
   "condition": "used",
   "make": "lincoln",
   "files": [
-    {
-      "condition": "used",
-      "make": "lincoln",
-      "model": "MKX",
-      "count": 5,
-      "file": "inventory/used-lincoln-mkx.json",
-      "models": [
-        {
-          "model": "MKX",
-          "count": 5
-        }
-      ]
-    },
     {
       "condition": "used",
       "make": "lincoln",
@@ -135,13 +122,26 @@
     {
       "condition": "used",
       "make": "lincoln",
+      "model": "MKX",
+      "count": 3,
+      "file": "inventory/used-lincoln-mkx.json",
+      "models": [
+        {
+          "model": "MKX",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lincoln",
       "model": "Aviator",
-      "count": 9,
+      "count": 8,
       "file": "inventory/used-lincoln-aviator.json",
       "models": [
         {
           "model": "Aviator",
-          "count": 9
+          "count": 8
         }
       ]
     },

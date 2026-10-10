@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T16:00:42+00:00",
-  "snapshot": "2026-10-09T16:00:42+00:00",
+  "generated_at": "2026-10-10T23:43:55+00:00",
+  "snapshot": "2026-10-10T23:43:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 1,
   "vehicles": [
     {
       "pub_id": "signature-mazda-jm3kkbhaxt1410001",
@@ -29,31 +29,6 @@
       "city": "Richmond",
       "province": "BC",
       "dealer_name": "Signature Mazda"
-    },
-    {
-      "pub_id": "courtenay-mazda-75238-483119",
-      "year": 2026,
-      "make": "Mazda",
-      "model": "CX-90 PHEV GS AWD",
-      "drivetrain": "AWD",
-      "propulsion": "plug-in hybrid",
-      "propulsion_source": "model_trim_name",
-      "propulsion_confidence": "high",
-      "condition": "new",
-      "price_cad": 53089.0,
-      "price_note": null,
-      "color": "{$COLOREX}",
-      "dealer_id": "courtenay-mazda",
-      "stock": "75238-483119",
-      "listing_url": "https://www.courtenaymazda.com/new/2026-Mazda-CX_90_PHEV.html",
-      "dealer_url": "https://www.courtenaymazda.com/new/2026-Mazda-CX_90_PHEV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T19:02:31",
-      "snapshot": "2026-10-08T19:04:55",
-      "go_url": "https://carwhisper.ca/go/courtenay-mazda-75238-483119",
-      "region": "Vancouver Island",
-      "city": "Courtenay",
-      "province": "BC",
-      "dealer_name": "Courtenay Mazda"
     }
   ]
 }

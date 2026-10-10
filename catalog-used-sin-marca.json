@@ -1,17 +1,31 @@
 {
-  "generated_at": "2026-10-09T16:00:42+00:00",
+  "generated_at": "2026-10-10T23:43:55+00:00",
   "condition": "used",
   "make": "sin-marca",
   "files": [
     {
       "condition": "used",
       "make": "sin-marca",
-      "count": 35,
-      "file": "inventory/used-sin-marca.json",
+      "shard": "part1",
+      "count": 30,
+      "file": "inventory/used-sin-marca-part1.json",
       "models": [
         {
           "model": "sin-modelo",
-          "count": 35
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "sin-marca",
+      "shard": "part2",
+      "count": 30,
+      "file": "inventory/used-sin-marca-part2.json",
+      "models": [
+        {
+          "model": "sin-modelo",
+          "count": 30
         }
       ]
     }

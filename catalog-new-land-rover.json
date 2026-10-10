@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T16:00:42+00:00",
+  "generated_at": "2026-10-10T23:43:55+00:00",
   "condition": "new",
   "make": "land-rover",
   "files": [
@@ -7,12 +7,12 @@
       "condition": "new",
       "make": "land-rover",
       "model": "Range Rover Evoque",
-      "count": 6,
+      "count": 10,
       "file": "inventory/new-land-rover-range-rover-evoque.json",
       "models": [
         {
           "model": "Range Rover Evoque",
-          "count": 6
+          "count": 10
         }
       ]
     },
@@ -20,12 +20,12 @@
       "condition": "new",
       "make": "land-rover",
       "model": "Range Rover Velar",
-      "count": 7,
+      "count": 9,
       "file": "inventory/new-land-rover-range-rover-velar.json",
       "models": [
         {
           "model": "Range Rover Velar",
-          "count": 7
+          "count": 9
         }
       ]
     },
@@ -46,12 +46,12 @@
       "condition": "new",
       "make": "land-rover",
       "model": "Range Rover Sport",
-      "count": 12,
+      "count": 11,
       "file": "inventory/new-land-rover-range-rover-sport.json",
       "models": [
         {
           "model": "Range Rover Sport",
-          "count": 12
+          "count": 11
         }
       ]
     },
@@ -65,6 +65,19 @@
         {
           "model": "Range Rover",
           "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "land-rover",
+      "model": "Discovery Sport",
+      "count": 3,
+      "file": "inventory/new-land-rover-discovery-sport.json",
+      "models": [
+        {
+          "model": "Discovery Sport",
+          "count": 3
         }
       ]
     }
