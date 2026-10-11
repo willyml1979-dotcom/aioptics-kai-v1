@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-10T23:43:55+00:00",
-  "snapshot": "2026-10-10T23:43:55+00:00",
+  "generated_at": "2026-10-11T05:43:55+00:00",
+  "snapshot": "2026-10-11T05:43:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 28,
+  "count": 29,
   "vehicles": [
     {
       "pub_id": "lougheed-hyundai-kmhlm4dg2su037543",
@@ -331,6 +331,34 @@
       "city": "Prince George",
       "province": "BC",
       "dealer_name": "Northland Nissan"
+    },
+    {
+      "pub_id": "northland-hyundai-kmhd84lf0ku832785",
+      "year": 2019,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "body_type": "sedan",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 153294,
+      "price_cad": 12797.0,
+      "price_note": null,
+      "color": "Red",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/bd4d9609-4306-4b68-a75b-f8d61407c18d_8ad24971-bfd7-4874-b302-837eb8140d88.jpg",
+      "dealer_id": "northland-hyundai",
+      "vin": "KMHD84LF0KU832785",
+      "stock": "26SF178",
+      "listing_url": "https://www.northland-hyundai.ca/vehicles/2019/hyundai/elantra/prince-george/bc/ad13156126/?sale_class=used",
+      "dealer_url": "https://www.northland-hyundai.ca/vehicles/2019/hyundai/elantra/prince-george/bc/ad13156126/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-10T21:02:25",
+      "snapshot": "2026-10-10T21:05:27",
+      "go_url": "https://carwhisper.ca/go/northland-hyundai-kmhd84lf0ku832785",
+      "region": "Norte/Cariboo",
+      "city": "Prince George",
+      "province": "BC",
+      "dealer_name": "Northland Hyundai"
     },
     {
       "pub_id": "honda-fort-st-john-bwb-motors-ltd-kmhlm4dg5su870494",

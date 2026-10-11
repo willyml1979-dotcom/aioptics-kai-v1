@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-10T23:43:55+00:00",
-  "snapshot": "2026-10-10T23:43:55+00:00",
+  "generated_at": "2026-10-11T05:43:55+00:00",
+  "snapshot": "2026-10-11T05:43:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 28,
+  "count": 29,
   "vehicles": [
     {
       "pub_id": "champion-chevrolet-2hgfc2f57lh025172",
@@ -769,6 +769,34 @@
       "city": "Port Coquitlam",
       "province": "BC",
       "dealer_name": "Tricity Mitsubishi"
+    },
+    {
+      "pub_id": "richmond-hyundai-2hgfc2f56mh009157",
+      "year": 2021,
+      "make": "Honda",
+      "model": "Civic",
+      "body_type": "sedan",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 111279,
+      "price_cad": 20588.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/01e2d1ab-6922-4a11-aa38-83f6dde7eb7d_cd6b0fe8-0a99-48a6-ad6a-485d6fde3db0.jpg",
+      "dealer_id": "richmond-hyundai",
+      "vin": "2HGFC2F56MH009157",
+      "stock": "RUEBA00",
+      "listing_url": "https://www.richmondhyundai.ca/vehicles/2021/honda/civic-sedan/richmond/bc/71229537/?sale_class=used",
+      "dealer_url": "https://www.richmondhyundai.ca/vehicles/2021/honda/civic-sedan/richmond/bc/71229537/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T02:16:39",
+      "snapshot": "2026-09-26T02:36:15",
+      "go_url": "https://carwhisper.ca/go/richmond-hyundai-2hgfc2f56mh009157",
+      "region": "Lower Mainland",
+      "city": "Richmond",
+      "province": "BC",
+      "dealer_name": "Richmond Hyundai"
     }
   ]
 }

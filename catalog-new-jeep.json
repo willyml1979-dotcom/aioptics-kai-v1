@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T23:43:55+00:00",
+  "generated_at": "2026-10-11T05:43:55+00:00",
   "condition": "new",
   "make": "jeep",
   "files": [
@@ -320,12 +320,12 @@
       "make": "jeep",
       "model": "Cherokee",
       "shard": "part10",
-      "count": 26,
+      "count": 28,
       "file": "inventory/new-jeep-cherokee-part10.json",
       "models": [
         {
           "model": "Cherokee",
-          "count": 26
+          "count": 28
         }
       ]
     },
@@ -347,63 +347,13 @@
       "make": "jeep",
       "model": "Wrangler",
       "shard": "part1",
-      "count": 30,
+      "count": 31,
       "file": "inventory/new-jeep-wrangler-part1.json",
       "models": [
         {
           "model": "WRANGLER",
           "count": 1
         },
-        {
-          "model": "Wrangler",
-          "count": 29
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "jeep",
-      "model": "Wrangler",
-      "shard": "part2",
-      "count": 30,
-      "file": "inventory/new-jeep-wrangler-part2.json",
-      "models": [
-        {
-          "model": "WRANGLER",
-          "count": 3
-        },
-        {
-          "model": "Wrangler",
-          "count": 27
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "jeep",
-      "model": "Wrangler",
-      "shard": "part3",
-      "count": 30,
-      "file": "inventory/new-jeep-wrangler-part3.json",
-      "models": [
-        {
-          "model": "WRANGLER",
-          "count": 1
-        },
-        {
-          "model": "Wrangler",
-          "count": 29
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "jeep",
-      "model": "Wrangler",
-      "shard": "part4",
-      "count": 30,
-      "file": "inventory/new-jeep-wrangler-part4.json",
-      "models": [
         {
           "model": "Wrangler",
           "count": 30
@@ -414,8 +364,58 @@
       "condition": "new",
       "make": "jeep",
       "model": "Wrangler",
+      "shard": "part2",
+      "count": 31,
+      "file": "inventory/new-jeep-wrangler-part2.json",
+      "models": [
+        {
+          "model": "WRANGLER",
+          "count": 3
+        },
+        {
+          "model": "Wrangler",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Wrangler",
+      "shard": "part3",
+      "count": 31,
+      "file": "inventory/new-jeep-wrangler-part3.json",
+      "models": [
+        {
+          "model": "WRANGLER",
+          "count": 1
+        },
+        {
+          "model": "Wrangler",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Wrangler",
+      "shard": "part4",
+      "count": 31,
+      "file": "inventory/new-jeep-wrangler-part4.json",
+      "models": [
+        {
+          "model": "Wrangler",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Wrangler",
       "shard": "part5",
-      "count": 30,
+      "count": 27,
       "file": "inventory/new-jeep-wrangler-part5.json",
       "models": [
         {
@@ -424,7 +424,7 @@
         },
         {
           "model": "Wrangler",
-          "count": 28
+          "count": 25
         }
       ]
     },

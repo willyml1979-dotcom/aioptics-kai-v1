@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T23:43:55+00:00",
-  "snapshot": "2026-10-10T23:43:55+00:00",
+  "generated_at": "2026-10-11T05:43:55+00:00",
+  "snapshot": "2026-10-11T05:43:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 34,
   "vehicles": [
@@ -31,6 +31,34 @@
       "city": "Chilliwack",
       "province": "BC",
       "dealer_name": "Chilliwack Ford"
+    },
+    {
+      "pub_id": "metro-motors-ltd-ford-1fmwk8jc6vga35888",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Explorer",
+      "body_type": "suv",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "odometer_km": 16,
+      "price_cad": 75844.0,
+      "price_note": null,
+      "color": "Carbonized Grey Metallic",
+      "photo_url": "https://vehicleimages.leadboxhq.com/v1/metromotors/1933777/a92ec1a0-b57f-4086-be26-421ef66907a3-600.jpg",
+      "dealer_id": "metro-motors-ltd-ford",
+      "vin": "1FMWK8JC6VGA35888",
+      "stock": "27EX5888",
+      "listing_url": "https://metromotors.com/view/new-2027-ford-explorer-1933777/",
+      "dealer_url": "https://metromotors.com/view/new-2027-ford-explorer-1933777/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-10T19:50:34",
+      "snapshot": "2026-10-10T19:52:39",
+      "go_url": "https://carwhisper.ca/go/metro-motors-ltd-ford-1fmwk8jc6vga35888",
+      "region": "Lower Mainland",
+      "city": "Port Coquitlam",
+      "province": "BC",
+      "dealer_name": "Metro Motors Ltd. (Ford)"
     },
     {
       "pub_id": "river-valley-ford-1fmwk8gcxvga07003",
@@ -900,34 +928,6 @@
       "city": "Dawson Creek",
       "province": "BC",
       "dealer_name": "Bannister Ford Ltd"
-    },
-    {
-      "pub_id": "prince-george-ford-1fmuk8kh8tgc09135",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Explorer",
-      "drivetrain": "4WD",
-      "propulsion": "gas",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
-      "condition": "new",
-      "odometer_km": 3,
-      "price_cad": 61709.0,
-      "price_note": null,
-      "color": "Grey",
-      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/2db7ef11-7a89-414d-b63d-103f2e86035c_c35e6df2-9744-4fbe-b27f-52818966f842.jpg",
-      "dealer_id": "prince-george-ford",
-      "vin": "1FMUK8KH8TGC09135",
-      "stock": "GC09135",
-      "listing_url": "https://www.pgford.ca/vehicles/2026/ford/explorer/prince-george/bc/70009341/?sale_class=new",
-      "dealer_url": "https://www.pgford.ca/vehicles/2026/ford/explorer/prince-george/bc/70009341/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T23:43:34",
-      "snapshot": "2026-09-27T00:32:01",
-      "go_url": "https://carwhisper.ca/go/prince-george-ford-1fmuk8kh8tgc09135",
-      "region": "Norte/Cariboo",
-      "city": "Prince George",
-      "province": "BC",
-      "dealer_name": "Prince George Ford"
     }
   ]
 }

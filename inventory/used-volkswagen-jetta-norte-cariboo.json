@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-10T23:43:55+00:00",
-  "snapshot": "2026-10-10T23:43:55+00:00",
+  "generated_at": "2026-10-11T05:43:55+00:00",
+  "snapshot": "2026-10-11T05:43:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 4,
   "vehicles": [
     {
       "pub_id": "fort-city-chrysler-3vw2k7aj1dm293054",
@@ -82,6 +82,29 @@
       "city": "Prince George",
       "province": "BC",
       "dealer_name": "Hub City Volkswagen"
+    },
+    {
+      "pub_id": "northland-chrysler-jeep-dodge-3vwsm7bu0pm061598",
+      "year": 2023,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "northland-chrysler-jeep-dodge",
+      "vin": "3VWSM7BU0PM061598",
+      "stock": 14508658,
+      "listing_url": "https://www.northlanddodge.ca/used/2023-Volkswagen-Jetta.html",
+      "dealer_url": "https://www.northlanddodge.ca/used/2023-Volkswagen-Jetta.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-10T21:35:10",
+      "snapshot": "2026-10-10T21:40:40",
+      "go_url": "https://carwhisper.ca/go/northland-chrysler-jeep-dodge-3vwsm7bu0pm061598",
+      "region": "Norte/Cariboo",
+      "city": "Prince George",
+      "province": "BC",
+      "dealer_name": "Northland Chrysler Jeep Dodge"
     }
   ]
 }

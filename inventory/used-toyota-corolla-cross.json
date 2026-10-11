@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-10T23:43:55+00:00",
-  "snapshot": "2026-10-10T23:43:55+00:00",
+  "generated_at": "2026-10-11T05:43:55+00:00",
+  "snapshot": "2026-10-11T05:43:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 14,
+  "count": 15,
   "vehicles": [
     {
       "pub_id": "destination-toyota-burnaby-7mufbabg9rv018873",
@@ -202,6 +202,31 @@
       "dealer_name": "Destination Toyota Burnaby"
     },
     {
+      "pub_id": "marv-jones-honda-7mufbabgxrv047105",
+      "year": 2024,
+      "make": "Toyota",
+      "model": "Corolla Cross",
+      "propulsion": "hybrid",
+      "propulsion_source": "description",
+      "propulsion_confidence": "medium",
+      "condition": "used",
+      "price_cad": 40500.0,
+      "price_note": null,
+      "color": "{$COLOREX}",
+      "dealer_id": "marv-jones-honda",
+      "vin": "7MUFBABGXRV047105",
+      "stock": 14408787,
+      "listing_url": "https://www.marvjoneshonda.com/used/2024-Toyota-Corolla_Cross.html",
+      "dealer_url": "https://www.marvjoneshonda.com/used/2024-Toyota-Corolla_Cross.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:40:13",
+      "snapshot": "2026-10-10T18:57:53",
+      "go_url": "https://carwhisper.ca/go/marv-jones-honda-7mufbabgxrv047105",
+      "region": "Lower Mainland",
+      "city": "Maple Ridge",
+      "province": "BC",
+      "dealer_name": "Marv Jones Honda"
+    },
+    {
       "pub_id": "smithers-toyota-7mucaabg0sv126357",
       "year": 2025,
       "make": "Toyota",
@@ -357,7 +382,7 @@
       "listing_url": "https://www.chnissan.com/vehicles/2026/toyota/corolla-cross/calgary/ab/71396504/?sale_class=used",
       "dealer_url": "https://www.chnissan.com/vehicles/2026/toyota/corolla-cross/calgary/ab/71396504/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T22:26:16",
-      "snapshot": "2026-10-09T16:11:57",
+      "snapshot": "2026-10-10T16:53:50",
       "go_url": "https://carwhisper.ca/go/country-hills-nissan-7mucaabg2tv173018",
       "city": null,
       "province": "AB",

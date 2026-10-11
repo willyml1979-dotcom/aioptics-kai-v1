@@ -1,17 +1,70 @@
 {
-  "generated_at": "2026-10-10T23:43:55+00:00",
+  "generated_at": "2026-10-11T05:43:55+00:00",
   "condition": "new",
   "make": "sin-marca",
   "files": [
     {
       "condition": "new",
       "make": "sin-marca",
-      "count": 14,
-      "file": "inventory/new-sin-marca.json",
+      "shard": "part1",
+      "count": 28,
+      "file": "inventory/new-sin-marca-part1.json",
       "models": [
         {
           "model": "sin-modelo",
-          "count": 14
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "sin-marca",
+      "shard": "part2",
+      "count": 28,
+      "file": "inventory/new-sin-marca-part2.json",
+      "models": [
+        {
+          "model": "sin-modelo",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "sin-marca",
+      "shard": "part3",
+      "count": 28,
+      "file": "inventory/new-sin-marca-part3.json",
+      "models": [
+        {
+          "model": "sin-modelo",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "sin-marca",
+      "shard": "part4",
+      "count": 28,
+      "file": "inventory/new-sin-marca-part4.json",
+      "models": [
+        {
+          "model": "sin-modelo",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "sin-marca",
+      "shard": "part5",
+      "count": 24,
+      "file": "inventory/new-sin-marca-part5.json",
+      "models": [
+        {
+          "model": "sin-modelo",
+          "count": 24
         }
       ]
     }

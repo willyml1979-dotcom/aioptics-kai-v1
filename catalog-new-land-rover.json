@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T23:43:55+00:00",
+  "generated_at": "2026-10-11T05:43:55+00:00",
   "condition": "new",
   "make": "land-rover",
   "files": [
@@ -7,50 +7,11 @@
       "condition": "new",
       "make": "land-rover",
       "model": "Range Rover Evoque",
-      "count": 10,
+      "count": 11,
       "file": "inventory/new-land-rover-range-rover-evoque.json",
       "models": [
         {
           "model": "Range Rover Evoque",
-          "count": 10
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "land-rover",
-      "model": "Range Rover Velar",
-      "count": 9,
-      "file": "inventory/new-land-rover-range-rover-velar.json",
-      "models": [
-        {
-          "model": "Range Rover Velar",
-          "count": 9
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "land-rover",
-      "model": "Defender",
-      "count": 7,
-      "file": "inventory/new-land-rover-defender.json",
-      "models": [
-        {
-          "model": "Defender",
-          "count": 7
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "land-rover",
-      "model": "Range Rover Sport",
-      "count": 11,
-      "file": "inventory/new-land-rover-range-rover-sport.json",
-      "models": [
-        {
-          "model": "Range Rover Sport",
           "count": 11
         }
       ]
@@ -58,13 +19,134 @@
     {
       "condition": "new",
       "make": "land-rover",
+      "model": "Range Rover Velar",
+      "count": 13,
+      "file": "inventory/new-land-rover-range-rover-velar.json",
+      "models": [
+        {
+          "model": "Range Rover Velar",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "land-rover",
+      "model": "Defender",
+      "shard": "part1",
+      "count": 17,
+      "file": "inventory/new-land-rover-defender-part1.json",
+      "models": [
+        {
+          "model": "Defender",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "land-rover",
+      "model": "Defender",
+      "shard": "part2",
+      "count": 17,
+      "file": "inventory/new-land-rover-defender-part2.json",
+      "models": [
+        {
+          "model": "Defender",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "land-rover",
+      "model": "Range Rover Sport",
+      "count": 13,
+      "file": "inventory/new-land-rover-range-rover-sport.json",
+      "models": [
+        {
+          "model": "Range Rover Sport",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "land-rover",
+      "model": "Range Rover Sport Mild Hybrid",
+      "shard": "part1",
+      "count": 15,
+      "file": "inventory/new-land-rover-range-rover-sport-mild-hybrid-part1.json",
+      "models": [
+        {
+          "model": "Range Rover Sport Mild Hybrid",
+          "count": 15
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "land-rover",
+      "model": "Range Rover Sport Mild Hybrid",
+      "shard": "part2",
+      "count": 14,
+      "file": "inventory/new-land-rover-range-rover-sport-mild-hybrid-part2.json",
+      "models": [
+        {
+          "model": "Range Rover Sport Mild Hybrid",
+          "count": 14
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "land-rover",
       "model": "Range Rover",
-      "count": 5,
+      "count": 6,
       "file": "inventory/new-land-rover-range-rover.json",
       "models": [
         {
           "model": "Range Rover",
-          "count": 5
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "land-rover",
+      "model": "Range Rover Mild Hybrid",
+      "count": 3,
+      "file": "inventory/new-land-rover-range-rover-mild-hybrid.json",
+      "models": [
+        {
+          "model": "Range Rover Mild Hybrid",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "land-rover",
+      "model": "Discovery Sport Landmark",
+      "count": 2,
+      "file": "inventory/new-land-rover-discovery-sport-landmark.json",
+      "models": [
+        {
+          "model": "Discovery Sport Landmark",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "land-rover",
+      "model": "Discovery Dynamic SE",
+      "count": 1,
+      "file": "inventory/new-land-rover-discovery-dynamic-se.json",
+      "models": [
+        {
+          "model": "Discovery Dynamic SE",
+          "count": 1
         }
       ]
     },

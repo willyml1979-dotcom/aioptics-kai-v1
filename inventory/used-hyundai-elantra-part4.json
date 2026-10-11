@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-10T23:43:55+00:00",
-  "snapshot": "2026-10-10T23:43:55+00:00",
+  "generated_at": "2026-10-11T05:43:55+00:00",
+  "snapshot": "2026-10-11T05:43:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 28,
+  "count": 29,
   "vehicles": [
     {
       "pub_id": "kelowna-hyundai-kmhln4ag3pu515364",
@@ -748,6 +748,34 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Duncan Hyundai"
+    },
+    {
+      "pub_id": "pacific-mazda-kmhd84lf4ju452914",
+      "year": 2018,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "trim": "GL",
+      "drivetrain": "FWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 181122,
+      "price_cad": 7995.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://img.sm360.ca/images/inventory/pacific-mazda/hyundai/elantra/2018/39178910/39178910_08851_2018-hyundai-elantra_001.JPG",
+      "dealer_id": "pacific-mazda",
+      "vin": "KMHD84LF4JU452914",
+      "stock": "n/a",
+      "listing_url": "https://www.mazdavictoria.com/en/used-inventory/v/v/v-id39178910",
+      "dealer_url": "https://www.mazdavictoria.com/en/used-inventory/v/v/v-id39178910?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T19:15:46",
+      "snapshot": "2026-10-09T19:18:18",
+      "go_url": "https://carwhisper.ca/go/pacific-mazda-kmhd84lf4ju452914",
+      "region": "Vancouver Island",
+      "city": "Victoria",
+      "province": "BC",
+      "dealer_name": "Pacific Mazda"
     }
   ]
 }

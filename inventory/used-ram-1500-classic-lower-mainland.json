@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-10T23:43:55+00:00",
-  "snapshot": "2026-10-10T23:43:55+00:00",
+  "generated_at": "2026-10-11T05:43:55+00:00",
+  "snapshot": "2026-10-11T05:43:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 22,
+  "count": 23,
   "vehicles": [
     {
       "pub_id": "chilliwack-mitsubishi-3c6rr7kg0kg688619",
@@ -33,6 +33,30 @@
       "city": "Chilliwack",
       "province": "BC",
       "dealer_name": "Chilliwack Mitsubishi"
+    },
+    {
+      "pub_id": "marv-jones-honda-1c6rr7lm3ks667289",
+      "year": 2019,
+      "make": "RAM",
+      "model": "1500 Classic",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 23000.0,
+      "price_note": null,
+      "color": "{$COLOREX}",
+      "dealer_id": "marv-jones-honda",
+      "vin": "1C6RR7LM3KS667289",
+      "stock": 14427586,
+      "listing_url": "https://www.marvjoneshonda.com/used/2019-RAM-1500_Classic.html",
+      "dealer_url": "https://www.marvjoneshonda.com/used/2019-RAM-1500_Classic.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:38:27",
+      "snapshot": "2026-10-10T18:57:53",
+      "go_url": "https://carwhisper.ca/go/marv-jones-honda-1c6rr7lm3ks667289",
+      "region": "Lower Mainland",
+      "city": "Maple Ridge",
+      "province": "BC",
+      "dealer_name": "Marv Jones Honda"
     },
     {
       "pub_id": "applewood-nissan-1c6rr7fg4ks691655",
@@ -210,7 +234,7 @@
       "listing_url": "https://www.abbotsfordvw.ca/used/2021-RAM-1500_Classic.html",
       "dealer_url": "https://www.abbotsfordvw.ca/used/2021-RAM-1500_Classic.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T16:16:18",
-      "snapshot": "2026-10-09T21:19:07",
+      "snapshot": "2026-10-10T21:23:33",
       "go_url": "https://carwhisper.ca/go/abbotsford-volkswagen-1c6rr7fg5ms591616",
       "region": "Lower Mainland",
       "city": "Abbotsford",

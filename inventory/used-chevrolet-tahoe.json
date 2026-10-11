@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-10T23:43:55+00:00",
-  "snapshot": "2026-10-10T23:43:55+00:00",
+  "generated_at": "2026-10-11T05:43:55+00:00",
+  "snapshot": "2026-10-11T05:43:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 23,
+  "count": 24,
   "vehicles": [
     {
       "pub_id": "go-kia-west-1gnskskd2pr248696",
@@ -201,6 +201,32 @@
       "city": "Dawson Creek",
       "province": "BC",
       "dealer_name": "Bannister Ford Ltd"
+    },
+    {
+      "pub_id": "straightline-chevrolet-buick-gmc-ltd-1gnsktkl2rr286719",
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "trim": "High Country",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 30380,
+      "price_cad": 85995.0,
+      "price_note": null,
+      "color": "BLACK",
+      "dealer_id": "straightline-chevrolet-buick-gmc-ltd",
+      "vin": "1GNSKTKL2RR286719",
+      "stock": "TRR286719",
+      "listing_url": "https://www.straightlinegmc.ca/en/used-inventory/chevrolet/tahoe/2024-chevrolet-tahoe-id39237332",
+      "dealer_url": "https://www.straightlinegmc.ca/en/used-inventory/chevrolet/tahoe/2024-chevrolet-tahoe-id39237332?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-10T19:03:28",
+      "snapshot": "2026-10-10T19:09:08",
+      "go_url": "https://carwhisper.ca/go/straightline-chevrolet-buick-gmc-ltd-1gnsktkl2rr286719",
+      "region": "Norte/Cariboo",
+      "city": "Terrace",
+      "province": "BC",
+      "dealer_name": "Straightline Chevrolet Buick GMC Ltd."
     },
     {
       "pub_id": "bannister-chevrolet-buick-gmc-dawson-creek-ltd-1gnskskt4rr344744",
@@ -468,7 +494,7 @@
       "listing_url": "https://www.chnissan.com/vehicles/2023/chevrolet/tahoe/calgary/ab/71440447/?sale_class=used",
       "dealer_url": "https://www.chnissan.com/vehicles/2023/chevrolet/tahoe/calgary/ab/71440447/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T21:30:13",
-      "snapshot": "2026-10-09T16:11:57",
+      "snapshot": "2026-10-10T16:53:50",
       "go_url": "https://carwhisper.ca/go/country-hills-nissan-1gnsknkd5pr416316",
       "city": null,
       "province": "AB",

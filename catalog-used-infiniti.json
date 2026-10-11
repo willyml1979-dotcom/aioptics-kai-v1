@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T23:43:55+00:00",
+  "generated_at": "2026-10-11T05:43:55+00:00",
   "condition": "used",
   "make": "infiniti",
   "files": [
@@ -34,12 +34,12 @@
       "make": "infiniti",
       "model": "QX50",
       "shard": "part1",
-      "count": 31,
+      "count": 23,
       "file": "inventory/used-infiniti-qx50-part1.json",
       "models": [
         {
           "model": "QX50",
-          "count": 31
+          "count": 23
         }
       ]
     },
@@ -48,12 +48,26 @@
       "make": "infiniti",
       "model": "QX50",
       "shard": "part2",
-      "count": 31,
+      "count": 23,
       "file": "inventory/used-infiniti-qx50-part2.json",
       "models": [
         {
           "model": "QX50",
-          "count": 31
+          "count": 23
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "infiniti",
+      "model": "QX50",
+      "shard": "part3",
+      "count": 22,
+      "file": "inventory/used-infiniti-qx50-part3.json",
+      "models": [
+        {
+          "model": "QX50",
+          "count": 22
         }
       ]
     },
@@ -87,12 +101,12 @@
       "condition": "used",
       "make": "infiniti",
       "model": "QX60",
-      "count": 32,
+      "count": 33,
       "file": "inventory/used-infiniti-qx60.json",
       "models": [
         {
           "model": "QX60",
-          "count": 32
+          "count": 33
         }
       ]
     },
@@ -100,12 +114,12 @@
       "condition": "used",
       "make": "infiniti",
       "model": "QX55",
-      "count": 12,
+      "count": 13,
       "file": "inventory/used-infiniti-qx55.json",
       "models": [
         {
           "model": "QX55",
-          "count": 12
+          "count": 13
         }
       ]
     },
@@ -113,12 +127,12 @@
       "condition": "used",
       "make": "infiniti",
       "model": "QX80",
-      "count": 15,
+      "count": 17,
       "file": "inventory/used-infiniti-qx80.json",
       "models": [
         {
           "model": "QX80",
-          "count": 15
+          "count": 17
         }
       ]
     },

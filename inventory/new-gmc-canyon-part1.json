@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-10T23:43:55+00:00",
-  "snapshot": "2026-10-10T23:43:55+00:00",
+  "generated_at": "2026-10-11T05:43:55+00:00",
+  "snapshot": "2026-10-11T05:43:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 25,
+  "count": 26,
   "vehicles": [
     {
       "pub_id": "kalawsky-chevrolet-buick-gmc-1gtp2fekxt1298058",
@@ -714,6 +714,33 @@
       "city": "Langley",
       "province": "BC",
       "dealer_name": "Preston Chevrolet Buick GMC Cadillac Ltd."
+    },
+    {
+      "pub_id": "carter-gm-burnaby-1gtp2dek5t1318737",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Canyon",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 0,
+      "price_cad": 59392.0,
+      "price_note": null,
+      "color": "Red",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/347f0d92-b4b8-4a2f-9912-16044dad462f_1f2d3adb-7585-451b-a264-31064b482015.jpg",
+      "dealer_id": "carter-gm-burnaby",
+      "vin": "1GTP2DEK5T1318737",
+      "stock": "86-8737",
+      "listing_url": "https://www.cartergm.com/vehicles/2026/gmc/canyon/burnaby/bc/71221120/?sale_class=new",
+      "dealer_url": "https://www.cartergm.com/vehicles/2026/gmc/canyon/burnaby/bc/71221120/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T01:11:40",
+      "snapshot": "2026-10-09T23:30:55",
+      "go_url": "https://carwhisper.ca/go/carter-gm-burnaby-1gtp2dek5t1318737",
+      "region": "Lower Mainland",
+      "city": "Burnaby",
+      "province": "BC",
+      "dealer_name": "Carter GM Burnaby"
     }
   ]
 }

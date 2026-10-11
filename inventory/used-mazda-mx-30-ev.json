@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-10T23:43:55+00:00",
-  "snapshot": "2026-10-10T23:43:55+00:00",
+  "generated_at": "2026-10-11T05:43:55+00:00",
+  "snapshot": "2026-10-11T05:43:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "cam-clark-ford-lincoln-ltd-jm1dradb9p0200460",
@@ -32,6 +32,33 @@
       "city": "North Vancouver",
       "province": "BC",
       "dealer_name": "Cam Clark Ford Lincoln Ltd."
+    },
+    {
+      "pub_id": "morrey-mazda-of-the-northshore-jm1dradb9n0100548",
+      "year": 2022,
+      "make": "Mazda",
+      "model": "MX-30 EV",
+      "trim": "GT FWD at",
+      "drivetrain": "FWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 97234,
+      "price_cad": 18900.0,
+      "price_note": null,
+      "color": "Ceramic (Met)",
+      "photo_url": "https://img.sm360.ca/images/inventory/morrey-mazda/mazda/mx-30-ev/2022/39309410/39309410_06111_2022-mazda-mx-30-ev_002.JPG",
+      "dealer_id": "morrey-mazda-of-the-northshore",
+      "vin": "JM1DRADB9N0100548",
+      "listing_url": "https://www.morreymazda.com/en/used-inventory/v/v/v-id39309410",
+      "dealer_url": "https://www.morreymazda.com/en/used-inventory/v/v/v-id39309410?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-10T18:25:58",
+      "snapshot": "2026-10-10T18:26:22",
+      "go_url": "https://carwhisper.ca/go/morrey-mazda-of-the-northshore-jm1dradb9n0100548",
+      "region": "Lower Mainland",
+      "city": "North Vancouver",
+      "province": "BC",
+      "dealer_name": "Morrey Mazda of the NorthShore"
     }
   ]
 }

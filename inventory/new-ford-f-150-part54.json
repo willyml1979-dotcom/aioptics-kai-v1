@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-10-10T23:43:55+00:00",
-  "snapshot": "2026-10-10T23:43:55+00:00",
+  "generated_at": "2026-10-11T05:43:55+00:00",
+  "snapshot": "2026-10-11T05:43:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 30,
   "vehicles": [
+    {
+      "pub_id": "kokanee-ford-sales-ltd-1ftew3lpxtfb82273",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT 4X4 SUPERCREW CAB 5.5 FT. BOX (302A)",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": 72935.0,
+      "price_note": null,
+      "dealer_id": "kokanee-ford-sales-ltd",
+      "vin": "1FTEW3LPXTFB82273",
+      "stock": "26T041",
+      "listing_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-f-150-xlt-id15311977.htm",
+      "dealer_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-f-150-xlt-id15311977.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-10T07:27:50",
+      "snapshot": "2026-10-10T07:28:57",
+      "go_url": "https://carwhisper.ca/go/kokanee-ford-sales-ltd-1ftew3lpxtfb82273",
+      "city": "Creston",
+      "province": "BC",
+      "dealer_name": "Kokanee Ford Sales Ltd."
+    },
     {
       "pub_id": "zender-ford-74302-481883",
       "year": 2026,
@@ -761,30 +785,6 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Zender Ford"
-    },
-    {
-      "pub_id": "kokanee-ford-sales-ltd-1ftfw4l84tfb99475",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "trim": "TREMOR 4X4 SUPERCREW CAB 5.5 FT. BOX (401A)",
-      "drivetrain": "4WD",
-      "propulsion": "unknown",
-      "propulsion_source": null,
-      "condition": "new",
-      "price_cad": 84314.0,
-      "price_note": null,
-      "dealer_id": "kokanee-ford-sales-ltd",
-      "vin": "1FTFW4L84TFB99475",
-      "stock": "26T054",
-      "listing_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-f-150-tremor-id15377811.htm",
-      "dealer_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-f-150-tremor-id15377811.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T07:27:26",
-      "snapshot": "2026-10-10T07:28:57",
-      "go_url": "https://carwhisper.ca/go/kokanee-ford-sales-ltd-1ftfw4l84tfb99475",
-      "city": "Creston",
-      "province": "BC",
-      "dealer_name": "Kokanee Ford Sales Ltd."
     }
   ]
 }
