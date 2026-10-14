@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-11T05:43:55+00:00",
-  "snapshot": "2026-10-11T05:43:55+00:00",
+  "generated_at": "2026-10-14T03:30:55+00:00",
+  "snapshot": "2026-10-14T03:30:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "mercedes-benz-north-vancouver-jthc5lff4j5003420",
@@ -31,6 +31,33 @@
       "city": "North Vancouver",
       "province": "BC",
       "dealer_name": "Mercedes-Benz North Vancouver"
+    },
+    {
+      "pub_id": "pacific-honda-jthc5lff4j5003420",
+      "year": 2018,
+      "make": "Lexus",
+      "model": "LS",
+      "trim": "500 L AWD",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 79002,
+      "price_cad": 52495.0,
+      "price_note": null,
+      "color": "BLACK",
+      "photo_url": "https://img.sm360.ca/images/inventory/mercedes-benz-north-vancouver/lexus/ls/2018/39246576/39246576_00714_21260cd929453d40afa8c3f74e7a9909.jpeg",
+      "dealer_id": "pacific-honda",
+      "vin": "JTHC5LFF4J5003420",
+      "stock": "MB51100",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/lexus/ls/2018-lexus-ls-id39246576",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/lexus/ls/2018-lexus-ls-id39246576?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-13T20:04:46",
+      "snapshot": "2026-10-08T10:46:38",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-jthc5lff4j5003420",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-11T05:43:55+00:00",
-  "snapshot": "2026-10-11T05:43:55+00:00",
+  "generated_at": "2026-10-14T03:30:55+00:00",
+  "snapshot": "2026-10-14T03:30:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "brian-jessel-bmw-wbaup73599vk75635",
@@ -26,12 +26,36 @@
       "listing_url": "https://www.brianjesselbmw.com/vehicles/2009/bmw/1-series-coupe/vancouver/bc/71259593/?sale_class=used",
       "dealer_url": "https://www.brianjesselbmw.com/vehicles/2009/bmw/1-series-coupe/vancouver/bc/71259593/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T20:52:50",
-      "snapshot": "2026-10-10T15:46:45",
+      "snapshot": "2026-10-13T18:43:05",
       "go_url": "https://carwhisper.ca/go/brian-jessel-bmw-wbaup73599vk75635",
       "region": "Lower Mainland",
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Brian Jessel BMW"
+    },
+    {
+      "pub_id": "okanagan-chrysler-dodge-jeep-ram-wbaul7c50cvm83227",
+      "year": 2012,
+      "make": "BMW",
+      "model": "1 Series",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 13904.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "okanagan-chrysler-dodge-jeep-ram",
+      "vin": "WBAUL7C50CVM83227",
+      "stock": 14501749,
+      "listing_url": "https://www.okanagandodge.com/used/2012-BMW-1_Series.html",
+      "dealer_url": "https://www.okanagandodge.com/used/2012-BMW-1_Series.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-13T16:40:05",
+      "snapshot": "2026-10-13T18:04:47",
+      "go_url": "https://carwhisper.ca/go/okanagan-chrysler-dodge-jeep-ram-wbaul7c50cvm83227",
+      "region": "Okanagan",
+      "city": "Kelowna",
+      "province": "BC",
+      "dealer_name": "Okanagan Chrysler Dodge Jeep Ram"
     }
   ]
 }

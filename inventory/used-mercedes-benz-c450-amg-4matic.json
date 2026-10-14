@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-11T05:43:55+00:00",
-  "snapshot": "2026-10-11T05:43:55+00:00",
+  "generated_at": "2026-10-14T03:30:55+00:00",
+  "snapshot": "2026-10-14T03:30:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "mercedes-benz-boundary-55swf6eb2gu156783",
@@ -22,7 +22,7 @@
       "listing_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/mercedes-benz/c450-amg/2016-mercedes-benz-c450-amg-id39340899",
       "dealer_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/mercedes-benz/c450-amg/2016-mercedes-benz-c450-amg-id39340899?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T22:17:50",
-      "snapshot": "2026-09-26T16:12:05",
+      "snapshot": "2026-10-10T23:48:17",
       "go_url": "https://carwhisper.ca/go/mercedes-benz-boundary-55swf6eb2gu156783",
       "region": "Lower Mainland",
       "city": "Vancouver",
@@ -128,6 +128,30 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Mercedes Benz Vancouver"
+    },
+    {
+      "pub_id": "pacific-honda-55swf6eb2gu156783",
+      "year": 2016,
+      "make": "Mercedes-benz",
+      "model": "C450 AMG 4MATIC",
+      "body_type": "sedan",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 224058,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "pacific-honda",
+      "vin": "55SWF6EB2GU156783",
+      "stock": "2652583",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/mercedes-benz/c450-amg/2016-mercedes-benz-c450-amg-id39340899",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/mercedes-benz/c450-amg/2016-mercedes-benz-c450-amg-id39340899?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-13T20:18:08",
+      "snapshot": "2026-10-08T10:46:38",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-55swf6eb2gu156783",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

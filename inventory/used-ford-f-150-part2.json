@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-11T05:43:55+00:00",
-  "snapshot": "2026-10-11T05:43:55+00:00",
+  "generated_at": "2026-10-14T03:30:55+00:00",
+  "snapshot": "2026-10-14T03:30:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 30,
+  "count": 31,
   "vehicles": [
     {
       "pub_id": "murray-kia-abbotsford-1ftfw1ed6mfc55992",
@@ -308,7 +308,7 @@
       "listing_url": "https://www.destinationhonda.ca/vehicles/2021/ford/f-150/burnaby/bc/71400286/?sale_class=used",
       "dealer_url": "https://www.destinationhonda.ca/vehicles/2021/ford/f-150/burnaby/bc/71400286/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T00:16:08",
-      "snapshot": "2026-10-10T01:01:11",
+      "snapshot": "2026-10-11T01:54:52",
       "go_url": "https://carwhisper.ca/go/destination-burnaby-honda-happy-honda-1ftfw1e50mfb58361",
       "region": "Lower Mainland",
       "city": "Burnaby",
@@ -833,6 +833,32 @@
       "city": "Mission",
       "province": "BC",
       "dealer_name": "Pioneer Chrysler Jeep"
+    },
+    {
+      "pub_id": "coastal-ford-squamish-1ftfw1ed8mfd02889",
+      "year": 2021,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "LARIAT",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 91269,
+      "price_cad": 45900.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://img.sm360.ca/images/inventory/coastal-ford-squamish/ford/f-150/2021/39185922/39185922_00125_2021-ford-f-150_001.png",
+      "dealer_id": "coastal-ford-squamish",
+      "vin": "1FTFW1ED8MFD02889",
+      "listing_url": "https://www.coastalfordsquamish.com/en/used-inventory/v/v/v-id39185922",
+      "dealer_url": "https://www.coastalfordsquamish.com/en/used-inventory/v/v/v-id39185922?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-10T17:28:47",
+      "snapshot": "2026-10-10T17:29:53",
+      "go_url": "https://carwhisper.ca/go/coastal-ford-squamish-1ftfw1ed8mfd02889",
+      "region": "Lower Mainland",
+      "city": "Squamish",
+      "province": "BC",
+      "dealer_name": "Coastal Ford Squamish"
     }
   ]
 }

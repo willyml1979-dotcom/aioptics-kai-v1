@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-10-11T05:43:55+00:00",
-  "snapshot": "2026-10-11T05:43:55+00:00",
+  "generated_at": "2026-10-14T03:30:55+00:00",
+  "snapshot": "2026-10-14T03:30:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 4,
   "vehicles": [
+    {
+      "pub_id": "burrard-acura-wa1c4afy9m2000801",
+      "year": 2021,
+      "make": "Audi",
+      "model": "SQ5 3.0T Technik quattro 8sp Tiptronic",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 104995,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "burrard-acura",
+      "vin": "WA1C4AFY9M2000801",
+      "stock": "26B3005",
+      "listing_url": "https://www.burrardacura.ca/en/used-inventory/audi/sq5/2021-audi-sq5-id39056131",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/audi/sq5/2021-audi-sq5-id39056131?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-13T19:54:40",
+      "snapshot": "2026-10-10T20:52:27",
+      "go_url": "https://carwhisper.ca/go/burrard-acura-wa1c4afy9m2000801",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Burrard Acura"
+    },
     {
       "pub_id": "mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-wa1c4afy9m2000801",
       "year": 2021,
@@ -51,6 +75,29 @@
       "city": "Langley",
       "province": "BC",
       "dealer_name": "Mercedes Benz Langley"
+    },
+    {
+      "pub_id": "pacific-honda-wa1c4afy9m2000801",
+      "year": 2021,
+      "make": "Audi",
+      "model": "SQ5 3.0T Technik quattro 8sp Tiptronic",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 104995,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "pacific-honda",
+      "vin": "WA1C4AFY9M2000801",
+      "stock": "26B3005",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/audi/sq5/2021-audi-sq5-id39056131",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/audi/sq5/2021-audi-sq5-id39056131?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-13T19:19:09",
+      "snapshot": "2026-10-08T10:46:38",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-wa1c4afy9m2000801",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

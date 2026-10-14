@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-11T05:43:55+00:00",
-  "snapshot": "2026-10-11T05:43:55+00:00",
+  "generated_at": "2026-10-14T03:30:55+00:00",
+  "snapshot": "2026-10-14T03:30:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "north-shore-kia-wmw53gd08s2w51977",
@@ -33,6 +33,31 @@
       "city": "North Vancouver",
       "province": "BC",
       "dealer_name": "North Shore Kia"
+    },
+    {
+      "pub_id": "go-richmond-subaru-wmwxu3c51j2f51054",
+      "year": 2018,
+      "make": "MINI",
+      "model": "5 Door",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 0,
+      "price_cad": 17995.0,
+      "price_note": null,
+      "photo_url": "https://www.gorichmondsubaru.ca/wp-content/themes/convertus-achilles/achilles/assets/images/srp-placeholder/PV.jpg",
+      "dealer_id": "go-richmond-subaru",
+      "vin": "WMWXU3C51J2F51054",
+      "stock": "RF61781",
+      "listing_url": "https://www.gorichmondsubaru.ca/vehicles/2018/mini/5-door/richmond/bc/ad13216062/?sale_class=used",
+      "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2018/mini/5-door/richmond/bc/ad13216062/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-13T14:41:42",
+      "snapshot": "2026-10-13T14:44:27",
+      "go_url": "https://carwhisper.ca/go/go-richmond-subaru-wmwxu3c51j2f51054",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Richmond Subaru"
     }
   ]
 }

@@ -1,21 +1,8 @@
 {
-  "generated_at": "2026-10-11T05:43:55+00:00",
+  "generated_at": "2026-10-14T03:30:55+00:00",
   "condition": "used",
   "make": "buick",
   "files": [
-    {
-      "condition": "used",
-      "make": "buick",
-      "model": "Encore",
-      "count": 17,
-      "file": "inventory/used-buick-encore.json",
-      "models": [
-        {
-          "model": "Encore",
-          "count": 17
-        }
-      ]
-    },
     {
       "condition": "used",
       "make": "buick",
@@ -39,6 +26,19 @@
         {
           "model": "Enclave",
           "count": 19
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "buick",
+      "model": "Encore",
+      "count": 15,
+      "file": "inventory/used-buick-encore.json",
+      "models": [
+        {
+          "model": "Encore",
+          "count": 15
         }
       ]
     },
@@ -92,12 +92,12 @@
       "make": "buick",
       "model": "Encore GX",
       "shard": "Okanagan",
-      "count": 4,
+      "count": 6,
       "file": "inventory/used-buick-encore-gx-okanagan.json",
       "models": [
         {
           "model": "Encore GX",
-          "count": 4
+          "count": 6
         }
       ]
     },
@@ -147,12 +147,12 @@
       "condition": "used",
       "make": "buick",
       "model": "Envista",
-      "count": 22,
+      "count": 21,
       "file": "inventory/used-buick-envista.json",
       "models": [
         {
           "model": "Envista",
-          "count": 22
+          "count": 21
         }
       ]
     },

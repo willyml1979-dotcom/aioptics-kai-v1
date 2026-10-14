@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-11T05:43:55+00:00",
-  "snapshot": "2026-10-11T05:43:55+00:00",
+  "generated_at": "2026-10-14T03:30:55+00:00",
+  "snapshot": "2026-10-14T03:30:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "kamloops-kia-ja4atuaa5pz618344",
@@ -33,6 +33,36 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Kamloops Kia"
+    },
+    {
+      "pub_id": "bannister-chevrolet-cadillac-kamloops-ltd-ja4atvaa9sz618748",
+      "year": 2025,
+      "make": "Mitsubishi",
+      "model": "Eclipse Cross",
+      "trim": "SEL S-AWC",
+      "body_type": "suv",
+      "drivetrain": "4WD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 21211,
+      "price_cad": 28988.0,
+      "price_note": null,
+      "color": "Blue",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/trim/STE2N2RQWNF27AJAEV5L4XYD5U.webp",
+      "dealer_id": "bannister-chevrolet-cadillac-kamloops-ltd",
+      "vin": "JA4ATVAA9SZ618748",
+      "stock": "486P526",
+      "listing_url": "https://www.bannisterchevkamloops.com/inventory/2025-mitsubishi-eclipse-cross-sel-Hwt6neVaT56uVD6DZorrHwvdp",
+      "dealer_url": "https://www.bannisterchevkamloops.com/inventory/2025-mitsubishi-eclipse-cross-sel-Hwt6neVaT56uVD6DZorrHwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-13T19:25:27",
+      "snapshot": "2026-10-13T19:28:55",
+      "go_url": "https://carwhisper.ca/go/bannister-chevrolet-cadillac-kamloops-ltd-ja4atvaa9sz618748",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Bannister Chevrolet Cadillac Kamloops Ltd."
     }
   ]
 }

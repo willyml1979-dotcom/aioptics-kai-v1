@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-11T05:43:55+00:00",
-  "snapshot": "2026-10-11T05:43:55+00:00",
+  "generated_at": "2026-10-14T03:30:55+00:00",
+  "snapshot": "2026-10-14T03:30:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "metrotown-mazda-jm1gl1w59h1108721",
@@ -29,6 +29,36 @@
       "city": "Burnaby",
       "province": "BC",
       "dealer_name": "Metrotown Mazda"
+    },
+    {
+      "pub_id": "applewood-mazda-surrey-jm1gl1vm9k1505572",
+      "year": 2019,
+      "make": "Mazda",
+      "model": "Mazda6",
+      "trim": "GS-L Auto",
+      "body_type": "sedan",
+      "drivetrain": "FWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 94448,
+      "price_cad": 20893.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,op_bl,ow_100,v2/adjustment/3OCOZ3MGPBCRVGQXDTFNDEL3SI%3Binventory/UFYEFPLTEFGHJHLS3UP72JJI7Y-86082.webp",
+      "dealer_id": "applewood-mazda-surrey",
+      "vin": "JM1GL1VM9K1505572",
+      "stock": "B65572",
+      "listing_url": "https://www.applewoodmazdasurrey.ca/inventory/2019-mazda-mazda6-gs-l-jC0ffjHoT2qDV60RVh9vWwvdp",
+      "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2019-mazda-mazda6-gs-l-jC0ffjHoT2qDV60RVh9vWwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-13T18:07:21",
+      "snapshot": "2026-10-13T18:10:04",
+      "go_url": "https://carwhisper.ca/go/applewood-mazda-surrey-jm1gl1vm9k1505572",
+      "region": "Lower Mainland",
+      "city": "Surrey",
+      "province": "BC",
+      "dealer_name": "Applewood Mazda Surrey"
     },
     {
       "pub_id": "sherwood-park-chevrolet-jm1gl1wy1j1314499",

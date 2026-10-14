@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-11T05:43:55+00:00",
-  "snapshot": "2026-10-11T05:43:55+00:00",
+  "generated_at": "2026-10-14T03:30:55+00:00",
+  "snapshot": "2026-10-14T03:30:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "bannister-chevrolet-inc-vernon-kl4mmcsl3lb100661",
@@ -120,6 +120,52 @@
       "city": "Vernon",
       "province": "BC",
       "dealer_name": "Bannister Chevrolet Inc. Vernon"
+    },
+    {
+      "pub_id": "okanagan-chrysler-dodge-jeep-ram-kl4ameslorb122141",
+      "year": 2024,
+      "make": "Buick",
+      "model": "Encore GX",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 29904.0,
+      "price_note": null,
+      "dealer_id": "okanagan-chrysler-dodge-jeep-ram",
+      "vin": "KL4AMESLORB122141",
+      "stock": 14454112,
+      "listing_url": "https://www.okanagandodge.com/used/2024-Buick-Encore_GX.html",
+      "dealer_url": "https://www.okanagandodge.com/used/2024-Buick-Encore_GX.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-13T16:50:06",
+      "snapshot": "2026-10-13T18:04:47",
+      "go_url": "https://carwhisper.ca/go/okanagan-chrysler-dodge-jeep-ram-kl4ameslorb122141",
+      "region": "Okanagan",
+      "city": "Kelowna",
+      "province": "BC",
+      "dealer_name": "Okanagan Chrysler Dodge Jeep Ram"
+    },
+    {
+      "pub_id": "penticton-nissan-kl4ameslorb122141",
+      "year": 2024,
+      "make": "Buick",
+      "model": "Encore GX",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 29904.0,
+      "price_note": null,
+      "dealer_id": "penticton-nissan",
+      "vin": "KL4AMESLORB122141",
+      "stock": 14454112,
+      "listing_url": "https://www.pentictonnissan.com/used/2024-Buick-Encore_GX.html",
+      "dealer_url": "https://www.pentictonnissan.com/used/2024-Buick-Encore_GX.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-13T15:10:43",
+      "snapshot": "2026-10-13T16:22:09",
+      "go_url": "https://carwhisper.ca/go/penticton-nissan-kl4ameslorb122141",
+      "region": "Okanagan",
+      "city": "Penticton",
+      "province": "BC",
+      "dealer_name": "Penticton Nissan"
     }
   ]
 }

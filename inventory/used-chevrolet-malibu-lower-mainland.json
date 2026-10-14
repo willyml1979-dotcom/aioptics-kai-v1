@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-11T05:43:55+00:00",
-  "snapshot": "2026-10-11T05:43:55+00:00",
+  "generated_at": "2026-10-14T03:30:55+00:00",
+  "snapshot": "2026-10-14T03:30:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 14,
+  "count": 15,
   "vehicles": [
     {
       "pub_id": "preston-chevrolet-buick-gmc-cadillac-ltd-1g1ze5st8hf119705",
@@ -281,6 +281,36 @@
       "city": "Maple Ridge",
       "province": "BC",
       "dealer_name": "Maple Ridge Hyundai"
+    },
+    {
+      "pub_id": "burrard-acura-1g1zg5st8mf049739",
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "trim": "RS",
+      "body_type": "sedan",
+      "drivetrain": "FWD",
+      "propulsion": "gas",
+      "propulsion_source": "description",
+      "propulsion_confidence": "medium",
+      "condition": "used",
+      "odometer_km": 78135,
+      "price_cad": 22495.0,
+      "price_note": null,
+      "color": "Mosaic Black (MET)",
+      "photo_url": "https://img.sm360.ca/images/inventory/dilawri-vancouver-honda/chevrolet/malibu/2021/38746722/38746722_08036_c6e34c077d744233741b5bf771dbaf70.jpeg",
+      "dealer_id": "burrard-acura",
+      "vin": "1G1ZG5ST8MF049739",
+      "stock": "H216007",
+      "listing_url": "https://www.burrardacura.ca/en/used-inventory/chevrolet/malibu/2021-chevrolet-malibu-id38746722",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/chevrolet/malibu/2021-chevrolet-malibu-id38746722?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-13T20:01:00",
+      "snapshot": "2026-10-10T20:52:27",
+      "go_url": "https://carwhisper.ca/go/burrard-acura-1g1zg5st8mf049739",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Burrard Acura"
     },
     {
       "pub_id": "tricity-mitsubishi-1g1zd5st6pf221814",

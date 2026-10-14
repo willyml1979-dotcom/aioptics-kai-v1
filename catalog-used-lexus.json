@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T05:43:55+00:00",
+  "generated_at": "2026-10-14T03:30:55+00:00",
   "condition": "used",
   "make": "lexus",
   "files": [
@@ -60,12 +60,12 @@
       "make": "lexus",
       "model": "RX",
       "shard": "part1",
-      "count": 23,
+      "count": 26,
       "file": "inventory/used-lexus-rx-part1.json",
       "models": [
         {
           "model": "RX",
-          "count": 23
+          "count": 26
         }
       ]
     },
@@ -74,12 +74,12 @@
       "make": "lexus",
       "model": "RX",
       "shard": "part2",
-      "count": 23,
+      "count": 25,
       "file": "inventory/used-lexus-rx-part2.json",
       "models": [
         {
           "model": "RX",
-          "count": 23
+          "count": 25
         }
       ]
     },
@@ -180,25 +180,25 @@
     {
       "condition": "used",
       "make": "lexus",
-      "model": "UXh",
-      "count": 9,
-      "file": "inventory/used-lexus-uxh.json",
-      "models": [
-        {
-          "model": "UXh",
-          "count": 9
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "lexus",
       "model": "IS",
       "count": 10,
       "file": "inventory/used-lexus-is.json",
       "models": [
         {
           "model": "IS",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "UXh",
+      "count": 10,
+      "file": "inventory/used-lexus-uxh.json",
+      "models": [
+        {
+          "model": "UXh",
           "count": 10
         }
       ]
@@ -219,26 +219,13 @@
     {
       "condition": "used",
       "make": "lexus",
-      "model": "NX Plug-in Hybrid",
-      "count": 1,
-      "file": "inventory/used-lexus-nx-plug-in-hybrid.json",
-      "models": [
-        {
-          "model": "NX Plug-in Hybrid",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "lexus",
       "model": "RXh",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-lexus-rxh.json",
       "models": [
         {
           "model": "RXh",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -272,12 +259,12 @@
       "condition": "used",
       "make": "lexus",
       "model": "LS",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-lexus-ls.json",
       "models": [
         {
           "model": "LS",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -350,12 +337,12 @@
       "condition": "used",
       "make": "lexus",
       "model": "NX Hybrid",
-      "count": 2,
+      "count": 1,
       "file": "inventory/used-lexus-nx-hybrid.json",
       "models": [
         {
           "model": "NX Hybrid",
-          "count": 2
+          "count": 1
         }
       ]
     },
@@ -428,12 +415,12 @@
       "condition": "used",
       "make": "lexus",
       "model": "NX 300",
-      "count": 3,
+      "count": 1,
       "file": "inventory/used-lexus-nx-300.json",
       "models": [
         {
           "model": "NX 300",
-          "count": 3
+          "count": 1
         }
       ]
     },

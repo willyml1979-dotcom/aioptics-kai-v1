@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-11T05:43:55+00:00",
-  "snapshot": "2026-10-11T05:43:55+00:00",
+  "generated_at": "2026-10-14T03:30:55+00:00",
+  "snapshot": "2026-10-14T03:30:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 7,
+  "count": 8,
   "vehicles": [
     {
       "pub_id": "rivershore-chrysler-dodge-jeep-ram-3c63r3fl7fg684045",
@@ -123,6 +123,36 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Rivershore Chrysler Dodge Jeep Ram"
+    },
+    {
+      "pub_id": "bannister-chevrolet-cadillac-kamloops-ltd-3c63r3dl9rg320121",
+      "year": 2024,
+      "make": "Ram",
+      "model": "3500",
+      "trim": "Big Horn 4x4 Crew Cab 6'4\" Box",
+      "body_type": "truck",
+      "drivetrain": "4WD",
+      "propulsion": "diesel",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 25113,
+      "price_cad": 69988.0,
+      "price_note": null,
+      "color": "Green",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/trim/T2DCUDBP65DKLDQHNIPUUYQZCQ.webp",
+      "dealer_id": "bannister-chevrolet-cadillac-kamloops-ltd",
+      "vin": "3C63R3DL9RG320121",
+      "stock": "486P532",
+      "listing_url": "https://www.bannisterchevkamloops.com/inventory/2024-ram-3500-big-horn-7bqFVQZTRoCTFGH6oTbi8gvdp",
+      "dealer_url": "https://www.bannisterchevkamloops.com/inventory/2024-ram-3500-big-horn-7bqFVQZTRoCTFGH6oTbi8gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-13T19:23:49",
+      "snapshot": "2026-10-13T19:28:55",
+      "go_url": "https://carwhisper.ca/go/bannister-chevrolet-cadillac-kamloops-ltd-3c63r3dl9rg320121",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Bannister Chevrolet Cadillac Kamloops Ltd."
     },
     {
       "pub_id": "rivershore-chrysler-dodge-jeep-ram-3c63r3rl2ng341458",

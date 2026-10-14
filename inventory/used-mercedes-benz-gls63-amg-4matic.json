@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-11T05:43:55+00:00",
-  "snapshot": "2026-10-11T05:43:55+00:00",
+  "generated_at": "2026-10-14T03:30:55+00:00",
+  "snapshot": "2026-10-14T03:30:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "acura-of-langley-4jgff8ke6pa917489",
@@ -22,7 +22,7 @@
       "listing_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/gls63/2023-mercedes-benz-gls63-id39274819",
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/gls63/2023-mercedes-benz-gls63-id39274819?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T20:57:32",
-      "snapshot": "2026-10-10T17:09:14",
+      "snapshot": "2026-10-13T17:25:08",
       "go_url": "https://carwhisper.ca/go/acura-of-langley-4jgff8ke6pa917489",
       "region": "Lower Mainland",
       "city": "Langley",
@@ -53,6 +53,31 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Burrard Acura"
+    },
+    {
+      "pub_id": "mercedes-benz-boundary-4jgff8ke6pa917489",
+      "year": 2023,
+      "make": "Mercedes-benz",
+      "model": "GLS63 AMG 4MATIC+",
+      "body_type": "suv",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 27000,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "mercedes-benz-boundary",
+      "vin": "4JGFF8KE6PA917489",
+      "stock": "MB72F00",
+      "listing_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/mercedes-benz/gls63/2023-mercedes-benz-gls63-id39274819",
+      "dealer_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/mercedes-benz/gls63/2023-mercedes-benz-gls63-id39274819?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-10T22:58:01",
+      "snapshot": "2026-10-10T23:48:17",
+      "go_url": "https://carwhisper.ca/go/mercedes-benz-boundary-4jgff8ke6pa917489",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Mercedes-Benz Boundary"
     },
     {
       "pub_id": "mercedes-benz-langley-4jgff8ke6pa917489",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T05:43:55+00:00",
+  "generated_at": "2026-10-14T03:30:55+00:00",
   "condition": "used",
   "make": "tesla",
   "files": [
@@ -36,12 +36,12 @@
       "make": "tesla",
       "model": "Model Y",
       "shard": "Okanagan",
-      "count": 4,
+      "count": 6,
       "file": "inventory/used-tesla-model-y-okanagan.json",
       "models": [
         {
           "model": "Model Y",
-          "count": 4
+          "count": 6
         }
       ]
     },
@@ -64,12 +64,12 @@
       "make": "tesla",
       "model": "Model Y",
       "shard": "sin-region",
-      "count": 8,
+      "count": 7,
       "file": "inventory/used-tesla-model-y-sin-region.json",
       "models": [
         {
           "model": "Model Y",
-          "count": 8
+          "count": 7
         }
       ]
     },
@@ -78,12 +78,12 @@
       "make": "tesla",
       "model": "Model 3",
       "shard": "part1",
-      "count": 26,
+      "count": 28,
       "file": "inventory/used-tesla-model-3-part1.json",
       "models": [
         {
           "model": "Model 3",
-          "count": 26
+          "count": 28
         }
       ]
     },
@@ -92,12 +92,12 @@
       "make": "tesla",
       "model": "Model 3",
       "shard": "part2",
-      "count": 26,
+      "count": 28,
       "file": "inventory/used-tesla-model-3-part2.json",
       "models": [
         {
           "model": "Model 3",
-          "count": 26
+          "count": 28
         }
       ]
     },
@@ -106,12 +106,12 @@
       "make": "tesla",
       "model": "Model 3",
       "shard": "part3",
-      "count": 24,
+      "count": 27,
       "file": "inventory/used-tesla-model-3-part3.json",
       "models": [
         {
           "model": "Model 3",
-          "count": 24
+          "count": 27
         }
       ]
     },
@@ -119,12 +119,12 @@
       "condition": "used",
       "make": "tesla",
       "model": "Model X",
-      "count": 15,
+      "count": 18,
       "file": "inventory/used-tesla-model-x.json",
       "models": [
         {
           "model": "Model X",
-          "count": 15
+          "count": 18
         }
       ]
     },
@@ -138,6 +138,19 @@
         {
           "model": "Model S",
           "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "tesla",
+      "model": "Model 3 Standard Range Plus",
+      "count": 1,
+      "file": "inventory/used-tesla-model-3-standard-range-plus.json",
+      "models": [
+        {
+          "model": "Model 3 Standard Range Plus",
+          "count": 1
         }
       ]
     },
@@ -163,19 +176,6 @@
       "models": [
         {
           "model": "Model 3 RWD",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "tesla",
-      "model": "Model 3 Standard Range Plus",
-      "count": 1,
-      "file": "inventory/used-tesla-model-3-standard-range-plus.json",
-      "models": [
-        {
-          "model": "Model 3 Standard Range Plus",
           "count": 1
         }
       ]

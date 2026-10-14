@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-11T05:43:55+00:00",
-  "snapshot": "2026-10-11T05:43:55+00:00",
+  "generated_at": "2026-10-14T03:30:55+00:00",
+  "snapshot": "2026-10-14T03:30:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "dueck-chevrolet-buick-cadillac-gmc-ltd-1g6de5rk4l0151614",
@@ -27,7 +27,7 @@
       "listing_url": "https://www.dueckonmarine.com/inventory/2020-cadillac-ct4-luxury-jRjx0suMRHaB567Jgoiuogvdp",
       "dealer_url": "https://www.dueckonmarine.com/inventory/2020-cadillac-ct4-luxury-jRjx0suMRHaB567Jgoiuogvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T00:05:57",
-      "snapshot": "2026-10-10T00:48:56",
+      "snapshot": "2026-10-11T01:48:19",
       "go_url": "https://carwhisper.ca/go/dueck-chevrolet-buick-cadillac-gmc-ltd-1g6de5rk4l0151614",
       "region": "Lower Mainland",
       "city": "Vancouver",
@@ -63,6 +63,33 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Bannister Cadillac Buick GMC Ltd."
+    },
+    {
+      "pub_id": "country-hills-nissan-1g6dk5rk0m0127224",
+      "year": 2021,
+      "make": "Cadillac",
+      "model": "CT4",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 118824,
+      "price_cad": 28300.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/f49feb60-4289-4b83-a75b-fbed2e33e19a_6414bfcd-88ca-4eec-8343-0806753aa344.jpg",
+      "dealer_id": "country-hills-nissan",
+      "vin": "1G6DK5RK0M0127224",
+      "stock": "CGP7224",
+      "listing_url": "https://www.chnissan.com/vehicles/2021/cadillac/ct4/calgary/ab/ad13198986/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2021/cadillac/ct4/calgary/ab/ad13198986/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-13T14:55:22",
+      "snapshot": "2026-10-13T16:17:27",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-1g6dk5rk0m0127224",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

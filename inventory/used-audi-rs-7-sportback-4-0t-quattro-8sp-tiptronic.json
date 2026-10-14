@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-10-11T05:43:55+00:00",
-  "snapshot": "2026-10-11T05:43:55+00:00",
+  "generated_at": "2026-10-14T03:30:55+00:00",
+  "snapshot": "2026-10-14T03:30:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 3,
   "vehicles": [
+    {
+      "pub_id": "burrard-acura-wuapcaf27mn903407",
+      "year": 2021,
+      "make": "Audi",
+      "model": "RS 7 Sportback 4.0T quattro 8sp Tiptronic",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 76082,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "burrard-acura",
+      "vin": "WUAPCAF27MN903407",
+      "stock": "JL12B08",
+      "listing_url": "https://www.burrardacura.ca/en/used-inventory/audi/rs-7-sportback/2021-audi-rs-7-sportback-id39140521",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/audi/rs-7-sportback/2021-audi-rs-7-sportback-id39140521?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-13T19:53:41",
+      "snapshot": "2026-10-10T20:52:27",
+      "go_url": "https://carwhisper.ca/go/burrard-acura-wuapcaf27mn903407",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Burrard Acura"
+    },
     {
       "pub_id": "mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-wuapcaf27mn903407",
       "year": 2021,
@@ -27,6 +51,29 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "MCL Motor Cars 2010 / Aston Martin / Land Rover / Jaguar / Bentley Vancouver"
+    },
+    {
+      "pub_id": "pacific-honda-wuapcaf27mn903407",
+      "year": 2021,
+      "make": "Audi",
+      "model": "RS 7 Sportback 4.0T quattro 8sp Tiptronic",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 76082,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "pacific-honda",
+      "vin": "WUAPCAF27MN903407",
+      "stock": "JL12B08",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/audi/rs-7-sportback/2021-audi-rs-7-sportback-id39140521",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/audi/rs-7-sportback/2021-audi-rs-7-sportback-id39140521?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-13T19:17:26",
+      "snapshot": "2026-10-08T10:46:38",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-wuapcaf27mn903407",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

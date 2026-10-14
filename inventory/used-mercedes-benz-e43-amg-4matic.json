@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-11T05:43:55+00:00",
-  "snapshot": "2026-10-11T05:43:55+00:00",
+  "generated_at": "2026-10-14T03:30:55+00:00",
+  "snapshot": "2026-10-14T03:30:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-wddzf6eb7ja315107",
@@ -47,7 +47,7 @@
       "listing_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/mercedes-benz/e43-amg/2018-mercedes-benz-e43-amg-id39184666",
       "dealer_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/mercedes-benz/e43-amg/2018-mercedes-benz-e43-amg-id39184666?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T22:22:49",
-      "snapshot": "2026-09-26T16:12:05",
+      "snapshot": "2026-10-10T23:48:17",
       "go_url": "https://carwhisper.ca/go/mercedes-benz-boundary-wddzf6eb7ja315107",
       "region": "Lower Mainland",
       "city": "Vancouver",
@@ -153,6 +153,30 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Mercedes Benz Vancouver"
+    },
+    {
+      "pub_id": "pacific-honda-wddzf6eb7ja315107",
+      "year": 2018,
+      "make": "Mercedes-benz",
+      "model": "E43 AMG 4MATIC",
+      "body_type": "sedan",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 105934,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "pacific-honda",
+      "vin": "WDDZF6EB7JA315107",
+      "stock": "JL12B07",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/mercedes-benz/e43-amg/2018-mercedes-benz-e43-amg-id39184666",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/mercedes-benz/e43-amg/2018-mercedes-benz-e43-amg-id39184666?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-13T20:21:44",
+      "snapshot": "2026-10-08T10:46:38",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-wddzf6eb7ja315107",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

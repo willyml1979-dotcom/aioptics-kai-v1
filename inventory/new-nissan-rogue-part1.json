@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-11T05:43:55+00:00",
-  "snapshot": "2026-10-11T05:43:55+00:00",
+  "generated_at": "2026-10-14T03:30:55+00:00",
+  "snapshot": "2026-10-14T03:30:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 30,
+  "count": 31,
   "vehicles": [
     {
       "pub_id": "pioneer-chrysler-jeep-jn8bt3ab2sw428688",
@@ -68,7 +68,7 @@
       "listing_url": "https://www.abbotsfordvw.ca/used/2025-Nissan-Rogue.html",
       "dealer_url": "https://www.abbotsfordvw.ca/used/2025-Nissan-Rogue.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T21:18:32",
-      "snapshot": "2026-10-10T21:23:33",
+      "snapshot": "2026-10-13T17:44:33",
       "go_url": "https://carwhisper.ca/go/abbotsford-volkswagen-jn8bt3bb9sw160575",
       "region": "Lower Mainland",
       "city": "Abbotsford",
@@ -534,7 +534,7 @@
       "listing_url": "https://www.abbotsfordnissan.com/used/2026-Nissan-Rogue.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2026-Nissan-Rogue.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T21:49:20",
-      "snapshot": "2026-10-10T21:57:35",
+      "snapshot": "2026-10-13T18:14:25",
       "go_url": "https://carwhisper.ca/go/abbotsford-nissan-jn8bt3bbxtw381684",
       "region": "Lower Mainland",
       "city": "Abbotsford",
@@ -822,6 +822,36 @@
       "city": "Port Coquitlam",
       "province": "BC",
       "dealer_name": "Morrey Nissan of Coquitlam"
+    },
+    {
+      "pub_id": "bannister-nissan-chilliwack-jn8bt3bb0tw100962",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "AWD SV Moonroof",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 11,
+      "price_cad": 36863.0,
+      "price_note": null,
+      "color": "Blue",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/inventory/O6HHRVTI4VCCTEEF3D2FCBHF6E.webp",
+      "dealer_id": "bannister-nissan-chilliwack",
+      "vin": "JN8BT3BB0TW100962",
+      "stock": "N265-0962",
+      "listing_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-sv-moonroof-alPr2AcwREyeUMZrk0eiVwvdp",
+      "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-sv-moonroof-alPr2AcwREyeUMZrk0eiVwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T22:03:38",
+      "snapshot": "2026-10-09T22:04:29",
+      "go_url": "https://carwhisper.ca/go/bannister-nissan-chilliwack-jn8bt3bb0tw100962",
+      "region": "Lower Mainland",
+      "city": "Chilliwack",
+      "province": "BC",
+      "dealer_name": "Bannister Nissan Chilliwack"
     }
   ]
 }

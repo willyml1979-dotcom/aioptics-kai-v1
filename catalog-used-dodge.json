@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T05:43:55+00:00",
+  "generated_at": "2026-10-14T03:30:55+00:00",
   "condition": "used",
   "make": "dodge",
   "files": [
@@ -7,7 +7,7 @@
       "condition": "used",
       "make": "dodge",
       "model": "GRAND CARAVAN",
-      "count": 24,
+      "count": 26,
       "file": "inventory/used-dodge-grand-caravan.json",
       "models": [
         {
@@ -16,7 +16,7 @@
         },
         {
           "model": "Grand Caravan",
-          "count": 21
+          "count": 23
         }
       ]
     },
@@ -37,12 +37,12 @@
       "condition": "used",
       "make": "dodge",
       "model": "Journey",
-      "count": 25,
+      "count": 28,
       "file": "inventory/used-dodge-journey.json",
       "models": [
         {
           "model": "Journey",
-          "count": 25
+          "count": 28
         }
       ]
     },
@@ -143,7 +143,7 @@
       "make": "dodge",
       "model": "DURANGO",
       "shard": "sin-region",
-      "count": 25,
+      "count": 26,
       "file": "inventory/used-dodge-durango-sin-region.json",
       "models": [
         {
@@ -152,7 +152,7 @@
         },
         {
           "model": "Durango",
-          "count": 24
+          "count": 25
         }
       ]
     },
@@ -233,12 +233,12 @@
       "condition": "used",
       "make": "dodge",
       "model": "Challenger",
-      "count": 29,
+      "count": 33,
       "file": "inventory/used-dodge-challenger.json",
       "models": [
         {
           "model": "Challenger",
-          "count": 29
+          "count": 33
         }
       ]
     },
@@ -427,6 +427,19 @@
     {
       "condition": "used",
       "make": "dodge",
+      "model": "Grand Caravan Passenger Van R/T",
+      "count": 1,
+      "file": "inventory/used-dodge-grand-caravan-passenger-van-r-t.json",
+      "models": [
+        {
+          "model": "Grand Caravan Passenger Van R/T",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
       "model": "JourneyR/T 4dr All-Wheel Drive",
       "count": 1,
       "file": "inventory/used-dodge-journeyr-t-4dr-all-wheel-drive.json",
@@ -472,6 +485,19 @@
       "models": [
         {
           "model": "Hornet R/T*DEMO*BlackTop Pkg*Tech Pack*Activ Driving Asst",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
+      "model": "Journey Canada Value Pkg",
+      "count": 1,
+      "file": "inventory/used-dodge-journey-canada-value-pkg.json",
+      "models": [
+        {
+          "model": "Journey Canada Value Pkg",
           "count": 1
         }
       ]

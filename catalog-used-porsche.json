@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T05:43:55+00:00",
+  "generated_at": "2026-10-14T03:30:55+00:00",
   "condition": "used",
   "make": "porsche",
   "files": [
@@ -7,12 +7,12 @@
       "condition": "used",
       "make": "porsche",
       "model": "Cayenne",
-      "count": 26,
+      "count": 27,
       "file": "inventory/used-porsche-cayenne.json",
       "models": [
         {
           "model": "Cayenne",
-          "count": 26
+          "count": 27
         }
       ]
     },
@@ -21,12 +21,12 @@
       "make": "porsche",
       "model": "Macan",
       "shard": "Lower Mainland",
-      "count": 25,
+      "count": 27,
       "file": "inventory/used-porsche-macan-lower-mainland.json",
       "models": [
         {
           "model": "Macan",
-          "count": 25
+          "count": 27
         }
       ]
     },
@@ -53,12 +53,12 @@
       "make": "porsche",
       "model": "Macan",
       "shard": "sin-region",
-      "count": 5,
+      "count": 4,
       "file": "inventory/used-porsche-macan-sin-region.json",
       "models": [
         {
           "model": "Macan",
-          "count": 5
+          "count": 4
         }
       ]
     },
@@ -105,12 +105,12 @@
       "condition": "used",
       "make": "porsche",
       "model": "911",
-      "count": 15,
+      "count": 17,
       "file": "inventory/used-porsche-911.json",
       "models": [
         {
           "model": "911",
-          "count": 15
+          "count": 17
         }
       ]
     },
@@ -118,12 +118,12 @@
       "condition": "used",
       "make": "porsche",
       "model": "Cayenne AWD",
-      "count": 8,
+      "count": 9,
       "file": "inventory/used-porsche-cayenne-awd.json",
       "models": [
         {
           "model": "Cayenne AWD",
-          "count": 8
+          "count": 9
         }
       ]
     },
@@ -149,6 +149,19 @@
       "models": [
         {
           "model": "911GT3 with Touring Package",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "porsche",
+      "model": "911UNKNOWN",
+      "count": 1,
+      "file": "inventory/used-porsche-911unknown.json",
+      "models": [
+        {
+          "model": "911UNKNOWN",
           "count": 1
         }
       ]
