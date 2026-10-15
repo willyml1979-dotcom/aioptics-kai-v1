@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T16:03:49+00:00",
-  "snapshot": "2026-10-15T16:03:49+00:00",
+  "generated_at": "2026-10-15T22:03:50+00:00",
+  "snapshot": "2026-10-15T22:03:50+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "bannister-nissan-chilliwack-1c4sjvbp8rs113290",
@@ -63,6 +63,32 @@
       "city": "Williams Lake",
       "province": "BC",
       "dealer_name": "Cariboo Chevrolet Buick GMC Ltd."
+    },
+    {
+      "pub_id": "jaguar-victoria-land-rover-victoria-1c4sjvbp3ps510192",
+      "year": 2023,
+      "make": "Jeep",
+      "model": "WAGONEER",
+      "trim": "SERIES II",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 40911,
+      "price_cad": 52998.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://img.sm360.ca/images/inventory/land-rover-victoria/jeep/wagoneer/2023/38922596/38922596_08545_2023-jeep-wagoneer_001.JPG",
+      "dealer_id": "jaguar-victoria-land-rover-victoria",
+      "vin": "1C4SJVBP3PS510192",
+      "listing_url": "https://www.landrovervictoria.com/en/used-inventory/v/v/v-id38922596",
+      "dealer_url": "https://www.landrovervictoria.com/en/used-inventory/v/v/v-id38922596?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T09:17:54",
+      "snapshot": "2026-10-15T09:23:26",
+      "go_url": "https://carwhisper.ca/go/jaguar-victoria-land-rover-victoria-1c4sjvbp3ps510192",
+      "region": "Vancouver Island",
+      "city": "Victoria",
+      "province": "BC",
+      "dealer_name": "Jaguar Victoria/Land Rover Victoria"
     }
   ]
 }

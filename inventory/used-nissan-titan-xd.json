@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T16:03:49+00:00",
-  "snapshot": "2026-10-15T16:03:49+00:00",
+  "generated_at": "2026-10-15T22:03:50+00:00",
+  "snapshot": "2026-10-15T22:03:50+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "bannister-nissan-chilliwack-1n6ba1f30hn511409",
@@ -35,6 +35,30 @@
       "dealer_name": "Bannister Nissan Chilliwack"
     },
     {
+      "pub_id": "maple-ridge-hyundai-1n6ba1f43gn501979",
+      "year": 2016,
+      "make": "Nissan",
+      "model": "Titan XD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 21908.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "maple-ridge-hyundai",
+      "vin": "1N6BA1F43GN501979",
+      "stock": 14516714,
+      "listing_url": "https://www.mapleridgehyundai.com/used/2016-Nissan-Titan_XD.html",
+      "dealer_url": "https://www.mapleridgehyundai.com/used/2016-Nissan-Titan_XD.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T12:02:09",
+      "snapshot": "2026-10-15T12:08:32",
+      "go_url": "https://carwhisper.ca/go/maple-ridge-hyundai-1n6ba1f43gn501979",
+      "region": "Lower Mainland",
+      "city": "Maple Ridge",
+      "province": "BC",
+      "dealer_name": "Maple Ridge Hyundai"
+    },
+    {
       "pub_id": "dueck-downtown-chevrolet-buick-gmc-ltd-1n6ba1f4xkn512809",
       "year": 2019,
       "make": "Nissan",
@@ -63,6 +87,30 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Dueck Downtown Chevrolet Buick GMC Ltd."
+    },
+    {
+      "pub_id": "kelowna-hyundai-1n6ba1f43gn501979",
+      "year": 2016,
+      "make": "Nissan",
+      "model": "Titan XD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 21908.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "kelowna-hyundai",
+      "vin": "1N6BA1F43GN501979",
+      "stock": 14516714,
+      "listing_url": "https://www.kelownahyundai.com/used/2016-Nissan-Titan_XD.html",
+      "dealer_url": "https://www.kelownahyundai.com/used/2016-Nissan-Titan_XD.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T09:57:54",
+      "snapshot": "2026-10-15T10:04:03",
+      "go_url": "https://carwhisper.ca/go/kelowna-hyundai-1n6ba1f43gn501979",
+      "region": "Okanagan",
+      "city": "Kelowna",
+      "province": "BC",
+      "dealer_name": "Kelowna Hyundai"
     },
     {
       "pub_id": "duncan-hyundai-1n6ba1f43gn501979",

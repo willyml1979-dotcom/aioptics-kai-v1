@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T16:03:49+00:00",
+  "generated_at": "2026-10-15T22:03:50+00:00",
   "condition": "new",
   "make": "land-rover",
   "files": [
@@ -20,12 +20,12 @@
       "condition": "new",
       "make": "land-rover",
       "model": "Range Rover Velar",
-      "count": 13,
+      "count": 19,
       "file": "inventory/new-land-rover-range-rover-velar.json",
       "models": [
         {
           "model": "Range Rover Velar",
-          "count": 13
+          "count": 19
         }
       ]
     },
@@ -34,12 +34,12 @@
       "make": "land-rover",
       "model": "Defender",
       "shard": "part1",
-      "count": 17,
+      "count": 24,
       "file": "inventory/new-land-rover-defender-part1.json",
       "models": [
         {
           "model": "Defender",
-          "count": 17
+          "count": 24
         }
       ]
     },
@@ -48,12 +48,12 @@
       "make": "land-rover",
       "model": "Defender",
       "shard": "part2",
-      "count": 17,
+      "count": 24,
       "file": "inventory/new-land-rover-defender-part2.json",
       "models": [
         {
           "model": "Defender",
-          "count": 17
+          "count": 24
         }
       ]
     },
@@ -61,12 +61,12 @@
       "condition": "new",
       "make": "land-rover",
       "model": "Range Rover Sport",
-      "count": 13,
+      "count": 28,
       "file": "inventory/new-land-rover-range-rover-sport.json",
       "models": [
         {
           "model": "Range Rover Sport",
-          "count": 13
+          "count": 28
         }
       ]
     },
@@ -75,12 +75,12 @@
       "make": "land-rover",
       "model": "Range Rover Sport Mild Hybrid",
       "shard": "part1",
-      "count": 15,
+      "count": 20,
       "file": "inventory/new-land-rover-range-rover-sport-mild-hybrid-part1.json",
       "models": [
         {
           "model": "Range Rover Sport Mild Hybrid",
-          "count": 15
+          "count": 20
         }
       ]
     },
@@ -89,12 +89,12 @@
       "make": "land-rover",
       "model": "Range Rover Sport Mild Hybrid",
       "shard": "part2",
-      "count": 14,
+      "count": 19,
       "file": "inventory/new-land-rover-range-rover-sport-mild-hybrid-part2.json",
       "models": [
         {
           "model": "Range Rover Sport Mild Hybrid",
-          "count": 14
+          "count": 19
         }
       ]
     },
@@ -102,12 +102,12 @@
       "condition": "new",
       "make": "land-rover",
       "model": "Range Rover",
-      "count": 6,
+      "count": 9,
       "file": "inventory/new-land-rover-range-rover.json",
       "models": [
         {
           "model": "Range Rover",
-          "count": 6
+          "count": 9
         }
       ]
     },
@@ -160,6 +160,19 @@
         {
           "model": "Discovery Sport",
           "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "land-rover",
+      "model": "Discovery",
+      "count": 2,
+      "file": "inventory/new-land-rover-discovery.json",
+      "models": [
+        {
+          "model": "Discovery",
+          "count": 2
         }
       ]
     }

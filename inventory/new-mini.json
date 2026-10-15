@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T16:03:49+00:00",
-  "snapshot": "2026-10-15T16:03:49+00:00",
+  "generated_at": "2026-10-15T22:03:50+00:00",
+  "snapshot": "2026-10-15T22:03:50+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 21,
+  "count": 22,
   "vehicles": [
     {
       "pub_id": "chilliwack-volkswagen-wmz23ga05t7u51556",
@@ -26,6 +26,30 @@
       "city": "Chilliwack",
       "province": "BC",
       "dealer_name": "Chilliwack Volkswagen"
+    },
+    {
+      "pub_id": "maple-ridge-volkswagen-wmz33ga00s7s46522",
+      "year": 2025,
+      "make": "MINI",
+      "model": "Countryman",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": 40745.0,
+      "price_note": null,
+      "color": "Green",
+      "dealer_id": "maple-ridge-volkswagen",
+      "vin": "WMZ33GA00S7S46522",
+      "stock": 13356816,
+      "listing_url": "https://www.mapleridge-vw.ca/used/2025-Mini-Countryman.html",
+      "dealer_url": "https://www.mapleridge-vw.ca/used/2025-Mini-Countryman.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T08:47:06",
+      "snapshot": "2026-10-15T12:20:53",
+      "go_url": "https://carwhisper.ca/go/maple-ridge-volkswagen-wmz33ga00s7s46522",
+      "region": "Lower Mainland",
+      "city": "Maple Ridge",
+      "province": "BC",
+      "dealer_name": "Maple Ridge Volkswagen"
     },
     {
       "pub_id": "bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-wmw13gd00t2y89242",

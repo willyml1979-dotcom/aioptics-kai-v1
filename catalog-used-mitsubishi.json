@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-10-15T16:03:49+00:00",
+  "generated_at": "2026-10-15T22:03:50+00:00",
   "condition": "used",
   "make": "mitsubishi",
   "files": [
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "Lancer",
+      "count": 2,
+      "file": "inventory/used-mitsubishi-lancer.json",
+      "models": [
+        {
+          "model": "Lancer",
+          "count": 2
+        }
+      ]
+    },
     {
       "condition": "used",
       "make": "mitsubishi",
@@ -36,25 +49,12 @@
       "make": "mitsubishi",
       "model": "RVR",
       "shard": "part3",
-      "count": 21,
+      "count": 23,
       "file": "inventory/used-mitsubishi-rvr-part3.json",
       "models": [
         {
           "model": "RVR",
-          "count": 21
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mitsubishi",
-      "model": "Lancer",
-      "count": 2,
-      "file": "inventory/used-mitsubishi-lancer.json",
-      "models": [
-        {
-          "model": "Lancer",
-          "count": 2
+          "count": 23
         }
       ]
     },
@@ -62,12 +62,12 @@
       "condition": "used",
       "make": "mitsubishi",
       "model": "Mirage",
-      "count": 23,
+      "count": 24,
       "file": "inventory/used-mitsubishi-mirage.json",
       "models": [
         {
           "model": "Mirage",
-          "count": 23
+          "count": 24
         }
       ]
     },
@@ -109,11 +109,11 @@
       "models": [
         {
           "model": "OUTLANDER",
-          "count": 3
+          "count": 2
         },
         {
           "model": "Outlander",
-          "count": 24
+          "count": 25
         }
       ]
     },
@@ -122,12 +122,12 @@
       "make": "mitsubishi",
       "model": "Outlander",
       "shard": "part4",
-      "count": 25,
+      "count": 26,
       "file": "inventory/used-mitsubishi-outlander-part4.json",
       "models": [
         {
           "model": "OUTLANDER",
-          "count": 7
+          "count": 8
         },
         {
           "model": "Outlander",
@@ -309,12 +309,12 @@
       "condition": "used",
       "make": "mitsubishi",
       "model": "Outlander ES S-AWC",
-      "count": 3,
+      "count": 4,
       "file": "inventory/used-mitsubishi-outlander-es-s-awc.json",
       "models": [
         {
           "model": "Outlander ES S-AWC",
-          "count": 3
+          "count": 4
         }
       ]
     },

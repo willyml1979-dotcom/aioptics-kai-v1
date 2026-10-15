@@ -1,54 +1,26 @@
 {
-  "generated_at": "2026-10-15T16:03:49+00:00",
+  "generated_at": "2026-10-15T22:03:50+00:00",
   "condition": "new",
   "make": "genesis",
   "files": [
     {
       "condition": "new",
       "make": "genesis",
-      "model": "G70",
-      "count": 13,
-      "file": "inventory/new-genesis-g70.json",
+      "count": 44,
+      "file": "inventory/new-genesis.json",
       "models": [
         {
           "model": "G70",
-          "count": 13
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "genesis",
-      "model": "GV70",
-      "count": 15,
-      "file": "inventory/new-genesis-gv70.json",
-      "models": [
-        {
-          "model": "GV70",
-          "count": 15
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "genesis",
-      "model": "G80",
-      "count": 6,
-      "file": "inventory/new-genesis-g80.json",
-      "models": [
+          "count": 11
+        },
         {
           "model": "G80",
           "count": 6
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "genesis",
-      "model": "GV80",
-      "count": 12,
-      "file": "inventory/new-genesis-gv80.json",
-      "models": [
+        },
+        {
+          "model": "GV70",
+          "count": 15
+        },
         {
           "model": "GV80",
           "count": 12

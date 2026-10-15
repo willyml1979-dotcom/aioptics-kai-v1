@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T16:03:49+00:00",
-  "snapshot": "2026-10-15T16:03:49+00:00",
+  "generated_at": "2026-10-15T22:03:50+00:00",
+  "snapshot": "2026-10-15T22:03:50+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 31,
+  "count": 32,
   "vehicles": [
     {
       "pub_id": "acura-of-langley-3hdsa2h57sm102654",
@@ -881,6 +881,34 @@
       "city": "Langley",
       "province": "BC",
       "dealer_name": "Acura of Langley"
+    },
+    {
+      "pub_id": "burrard-acura-3hdsa2h52tm100585",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX",
+      "trim": "A-SPEC",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "odometer_km": 50,
+      "price_cad": 49676.0,
+      "price_note": null,
+      "color": "Urban Grey Pearl",
+      "photo_url": "https://img.sm360.ca/images/inventory/northshore-acua/acura/adx/2026/38318727/38318727_08750_26673bea62d9a5479444716db5ce3069.jpeg",
+      "dealer_id": "burrard-acura",
+      "vin": "3HDSA2H52TM100585",
+      "stock": "A262052",
+      "listing_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38318727",
+      "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38318727?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T22:18:29",
+      "snapshot": "2026-10-15T01:39:37",
+      "go_url": "https://carwhisper.ca/go/burrard-acura-3hdsa2h52tm100585",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Burrard Acura"
     }
   ]
 }

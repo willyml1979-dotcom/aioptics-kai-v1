@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T16:03:49+00:00",
-  "snapshot": "2026-10-15T16:03:49+00:00",
+  "generated_at": "2026-10-15T22:03:50+00:00",
+  "snapshot": "2026-10-15T22:03:50+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 32,
+  "count": 33,
   "vehicles": [
     {
       "pub_id": "penticton-nissan-km8he3a68ru015016",
@@ -246,7 +246,7 @@
       "listing_url": "https://www.kamloopsford.ca/used/vehicle/2022-hyundai-kona-id15387484.htm",
       "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2022-hyundai-kona-id15387484.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T07:27:15",
-      "snapshot": "2026-10-10T09:14:46",
+      "snapshot": "2026-10-15T10:33:11",
       "go_url": "https://carwhisper.ca/go/kamloops-ford-lincoln-ltd-km8k2cab4nu802633",
       "region": "Thompson-Okanagan",
       "city": "Kamloops",
@@ -765,7 +765,7 @@
       "listing_url": "https://www.lairdwheaton.com/vehicles/2025/hyundai/kona/nanaimo/bc/70927776/?sale_class=used",
       "dealer_url": "https://www.lairdwheaton.com/vehicles/2025/hyundai/kona/nanaimo/bc/70927776/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T11:08:36",
-      "snapshot": "2026-10-10T11:38:34",
+      "snapshot": "2026-10-15T11:57:31",
       "go_url": "https://carwhisper.ca/go/laird-wheaton-gm-km8hb3ab0su324720",
       "region": "Vancouver Island",
       "city": "Nanaimo",
@@ -845,6 +845,34 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Victoria Hyundai"
+    },
+    {
+      "pub_id": "duncan-hyundai-km8hccab6su289257",
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Kona",
+      "trim": "PREFERRED W/TREND PACKAGE! LEATHER! SUNROOF!",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 31600,
+      "price_cad": 28922.0,
+      "price_note": null,
+      "color": "Red",
+      "dealer_id": "duncan-hyundai",
+      "vin": "KM8HCCAB6SU289257",
+      "stock": "14002826",
+      "listing_url": "https://www.duncanhyundai.net/used/2025-Hyundai-Kona-id14002826.html",
+      "dealer_url": "https://www.duncanhyundai.net/used/2025-Hyundai-Kona-id14002826.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T23:49:32",
+      "snapshot": "2026-10-15T05:11:09",
+      "go_url": "https://carwhisper.ca/go/duncan-hyundai-km8hccab6su289257",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Hyundai"
     }
   ]
 }

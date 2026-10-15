@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T16:03:49+00:00",
-  "snapshot": "2026-10-15T16:03:49+00:00",
+  "generated_at": "2026-10-15T22:03:50+00:00",
+  "snapshot": "2026-10-15T22:03:50+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 32,
+  "count": 33,
   "vehicles": [
     {
       "pub_id": "harris-kia-kndebcd35v5017358",
@@ -874,6 +874,32 @@
       "city": null,
       "province": "BC",
       "dealer_name": "Go Downtown Kia"
+    },
+    {
+      "pub_id": "go-richmond-kia-kndeb3d35v7028624",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Seltos",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 16,
+      "price_cad": 30980.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/f3e25402-9ad4-4cfa-807f-cdc9b0e60c8f_8756856b-efe0-4a7a-acae-46e8069bd85d.jpg",
+      "dealer_id": "go-richmond-kia",
+      "vin": "KNDEB3D35V7028624",
+      "stock": "7028624",
+      "listing_url": "https://www.gorichmondkia.ca/vehicles/2027/kia/seltos/richmond/bc/71219638/?sale_class=new",
+      "dealer_url": "https://www.gorichmondkia.ca/vehicles/2027/kia/seltos/richmond/bc/71219638/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T16:47:58",
+      "snapshot": "2026-10-13T14:50:05",
+      "go_url": "https://carwhisper.ca/go/go-richmond-kia-kndeb3d35v7028624",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Richmond Kia"
     }
   ]
 }

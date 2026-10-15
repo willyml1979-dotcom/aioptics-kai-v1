@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T16:03:49+00:00",
-  "snapshot": "2026-10-15T16:03:49+00:00",
+  "generated_at": "2026-10-15T22:03:50+00:00",
+  "snapshot": "2026-10-15T22:03:50+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "hilltop-subaru-1hgcs1a84ba800851",
@@ -32,6 +32,30 @@
       "city": "Vernon",
       "province": "BC",
       "dealer_name": "Hilltop Subaru"
+    },
+    {
+      "pub_id": "kelowna-chrysler-dodge-ltd-1hgcv1f51ka805379",
+      "year": 2019,
+      "make": "Honda",
+      "model": "Accord",
+      "body_type": "sedan",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 17995.0,
+      "price_note": null,
+      "dealer_id": "kelowna-chrysler-dodge-ltd",
+      "vin": "1HGCV1F51KA805379",
+      "stock": 14501493,
+      "listing_url": "https://www.kelownachrysler.com/used/2019-Honda-Accord_Sedan.html",
+      "dealer_url": "https://www.kelownachrysler.com/used/2019-Honda-Accord_Sedan.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T10:16:10",
+      "snapshot": "2026-10-15T10:19:48",
+      "go_url": "https://carwhisper.ca/go/kelowna-chrysler-dodge-ltd-1hgcv1f51ka805379",
+      "region": "Okanagan",
+      "city": "Kelowna",
+      "province": "BC",
+      "dealer_name": "Kelowna Chrysler Dodge Ltd."
     },
     {
       "pub_id": "harmony-acura-1hgcv1f16ka804693",
@@ -100,7 +124,7 @@
       "listing_url": "https://www.kelownahyundai.com/used/2022-Honda-Accord_Sedan.html",
       "dealer_url": "https://www.kelownahyundai.com/used/2022-Honda-Accord_Sedan.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T13:18:56",
-      "snapshot": "2026-10-10T07:05:09",
+      "snapshot": "2026-10-15T10:04:03",
       "go_url": "https://carwhisper.ca/go/kelowna-hyundai-1hgcv1f99na801281",
       "region": "Okanagan",
       "city": "Kelowna",

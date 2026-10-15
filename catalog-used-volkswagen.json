@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T16:03:49+00:00",
+  "generated_at": "2026-10-15T22:03:50+00:00",
   "condition": "used",
   "make": "volkswagen",
   "files": [
@@ -134,12 +134,12 @@
       "make": "volkswagen",
       "model": "Taos",
       "shard": "part4",
-      "count": 24,
+      "count": 25,
       "file": "inventory/used-volkswagen-taos-part4.json",
       "models": [
         {
           "model": "Taos",
-          "count": 24
+          "count": 25
         }
       ]
     },
@@ -176,12 +176,12 @@
       "make": "volkswagen",
       "model": "Jetta",
       "shard": "part3",
-      "count": 24,
+      "count": 23,
       "file": "inventory/used-volkswagen-jetta-part3.json",
       "models": [
         {
           "model": "Jetta",
-          "count": 24
+          "count": 23
         }
       ]
     },
@@ -202,12 +202,12 @@
       "condition": "used",
       "make": "volkswagen",
       "model": "Golf",
-      "count": 28,
+      "count": 31,
       "file": "inventory/used-volkswagen-golf.json",
       "models": [
         {
           "model": "Golf",
-          "count": 28
+          "count": 31
         }
       ]
     },
@@ -229,12 +229,12 @@
       "make": "volkswagen",
       "model": "Atlas",
       "shard": "Lower Mainland",
-      "count": 19,
+      "count": 20,
       "file": "inventory/used-volkswagen-atlas-lower-mainland.json",
       "models": [
         {
           "model": "Atlas",
-          "count": 19
+          "count": 20
         }
       ]
     },
@@ -257,12 +257,12 @@
       "make": "volkswagen",
       "model": "Atlas",
       "shard": "Okanagan",
-      "count": 16,
+      "count": 17,
       "file": "inventory/used-volkswagen-atlas-okanagan.json",
       "models": [
         {
           "model": "Atlas",
-          "count": 16
+          "count": 17
         }
       ]
     },
@@ -324,6 +324,19 @@
     {
       "condition": "used",
       "make": "volkswagen",
+      "model": "Golf R",
+      "count": 27,
+      "file": "inventory/used-volkswagen-golf-r.json",
+      "models": [
+        {
+          "model": "Golf R",
+          "count": 27
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volkswagen",
       "model": "ID.4",
       "count": 13,
       "file": "inventory/used-volkswagen-id-4.json",
@@ -337,27 +350,14 @@
     {
       "condition": "used",
       "make": "volkswagen",
-      "model": "Golf R",
-      "count": 25,
-      "file": "inventory/used-volkswagen-golf-r.json",
-      "models": [
-        {
-          "model": "Golf R",
-          "count": 25
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
       "model": "Atlas Cross Sport",
       "shard": "Lower Mainland",
-      "count": 19,
+      "count": 20,
       "file": "inventory/used-volkswagen-atlas-cross-sport-lower-mainland.json",
       "models": [
         {
           "model": "Atlas Cross Sport",
-          "count": 19
+          "count": 20
         }
       ]
     },

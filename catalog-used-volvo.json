@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T16:03:49+00:00",
+  "generated_at": "2026-10-15T22:03:50+00:00",
   "condition": "used",
   "make": "volvo",
   "files": [
@@ -19,6 +19,19 @@
     {
       "condition": "used",
       "make": "volvo",
+      "model": "XC60",
+      "count": 25,
+      "file": "inventory/used-volvo-xc60.json",
+      "models": [
+        {
+          "model": "XC60",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volvo",
       "model": "S60",
       "count": 4,
       "file": "inventory/used-volvo-s60.json",
@@ -26,19 +39,6 @@
         {
           "model": "S60",
           "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volvo",
-      "model": "XC60",
-      "count": 23,
-      "file": "inventory/used-volvo-xc60.json",
-      "models": [
-        {
-          "model": "XC60",
-          "count": 23
         }
       ]
     },
@@ -59,12 +59,12 @@
       "condition": "used",
       "make": "volvo",
       "model": "XC40",
-      "count": 14,
+      "count": 18,
       "file": "inventory/used-volvo-xc40.json",
       "models": [
         {
           "model": "XC40",
-          "count": 14
+          "count": 18
         }
       ]
     },
@@ -219,9 +219,13 @@
       "condition": "used",
       "make": "volvo",
       "model": "XC90 Plug-in Hybrid",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-volvo-xc90-plug-in-hybrid.json",
       "models": [
+        {
+          "model": "XC90 PLUG-IN HYBRID",
+          "count": 1
+        },
         {
           "model": "XC90 Plug-in Hybrid",
           "count": 1
@@ -232,12 +236,12 @@
       "condition": "used",
       "make": "volvo",
       "model": "XC90 T6 AWD Momentum (6-Seat)",
-      "count": 4,
+      "count": 5,
       "file": "inventory/used-volvo-xc90-t6-awd-momentum-6-seat.json",
       "models": [
         {
           "model": "XC90 T6 AWD Momentum (6-Seat)",
-          "count": 4
+          "count": 5
         }
       ]
     },

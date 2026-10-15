@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T16:03:49+00:00",
-  "snapshot": "2026-10-15T16:03:49+00:00",
+  "generated_at": "2026-10-15T22:03:50+00:00",
+  "snapshot": "2026-10-15T22:03:50+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "regency-lexus-2t2ggcez4sc068406",
@@ -111,6 +111,34 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Regency Toyota"
+    },
+    {
+      "pub_id": "lexus-of-kelowna-2t2ggcez2sc063009",
+      "year": 2025,
+      "make": "Lexus",
+      "model": "NX 350",
+      "trim": "Luxury",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 36846,
+      "price_cad": 52995.0,
+      "price_note": null,
+      "color": "Grey",
+      "dealer_id": "lexus-of-kelowna",
+      "vin": "2T2GGCEZ2SC063009",
+      "stock": "14513442",
+      "listing_url": "https://www.lexusofkelowna.com/used/2025-Lexus-NX_350-id14513442.html",
+      "dealer_url": "https://www.lexusofkelowna.com/used/2025-Lexus-NX_350-id14513442.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T11:29:19",
+      "snapshot": "2026-10-15T11:31:43",
+      "go_url": "https://carwhisper.ca/go/lexus-of-kelowna-2t2ggcez2sc063009",
+      "region": "Okanagan",
+      "city": "Kelowna",
+      "province": "BC",
+      "dealer_name": "Lexus of Kelowna"
     }
   ]
 }

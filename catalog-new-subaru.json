@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T16:03:49+00:00",
+  "generated_at": "2026-10-15T22:03:50+00:00",
   "condition": "new",
   "make": "subaru",
   "files": [
@@ -120,12 +120,12 @@
       "make": "subaru",
       "model": "Crosstrek",
       "shard": "part9",
-      "count": 25,
+      "count": 26,
       "file": "inventory/new-subaru-crosstrek-part9.json",
       "models": [
         {
           "model": "Crosstrek",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -428,12 +428,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "part22",
-      "count": 13,
+      "count": 15,
       "file": "inventory/new-subaru-forester-part22.json",
       "models": [
         {
           "model": "Forester",
-          "count": 13
+          "count": 15
         }
       ]
     },
@@ -693,7 +693,7 @@
       "make": "subaru",
       "model": "Outback",
       "shard": "part9",
-      "count": 22,
+      "count": 25,
       "file": "inventory/new-subaru-outback-part9.json",
       "models": [
         {
@@ -702,7 +702,7 @@
         },
         {
           "model": "Outback",
-          "count": 21
+          "count": 24
         }
       ]
     },
@@ -801,12 +801,25 @@
       "condition": "new",
       "make": "subaru",
       "model": "Uncharted GT AWD",
-      "count": 1,
+      "count": 2,
       "file": "inventory/new-subaru-uncharted-gt-awd.json",
       "models": [
         {
           "model": "Uncharted GT AWD",
-          "count": 1
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "subaru",
+      "model": "Outback Wilderness AWD",
+      "count": 2,
+      "file": "inventory/new-subaru-outback-wilderness-awd.json",
+      "models": [
+        {
+          "model": "Outback Wilderness AWD",
+          "count": 2
         }
       ]
     },
@@ -840,12 +853,12 @@
       "condition": "new",
       "make": "subaru",
       "model": "Outback PREMIER XT",
-      "count": 2,
+      "count": 3,
       "file": "inventory/new-subaru-outback-premier-xt.json",
       "models": [
         {
           "model": "Outback PREMIER XT",
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -1262,19 +1275,6 @@
         {
           "model": "Outback Limited XT AWD",
           "count": 7
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "subaru",
-      "model": "Outback Wilderness AWD",
-      "count": 1,
-      "file": "inventory/new-subaru-outback-wilderness-awd.json",
-      "models": [
-        {
-          "model": "Outback Wilderness AWD",
-          "count": 1
         }
       ]
     }
