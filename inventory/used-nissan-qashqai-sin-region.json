@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-14T03:30:55+00:00",
-  "snapshot": "2026-10-14T03:30:55+00:00",
+  "generated_at": "2026-10-15T04:03:47+00:00",
+  "snapshot": "2026-10-15T04:03:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 10,
+  "count": 11,
   "vehicles": [
     {
       "pub_id": "vaughan-chrysler-jn1bj1cp1kw233490",
@@ -134,6 +134,33 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Sherwood Park Hyundai"
+    },
+    {
+      "pub_id": "pacific-honda-jn1bj1bw9mw446781",
+      "year": 2021,
+      "make": "Nissan",
+      "model": "Qashqai",
+      "trim": "SV",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 40591,
+      "price_cad": 20672.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://img.sm360.ca/images/inventory/northvancouver-nissan/nissan/qashqai/2021/39049122/39049122_02416_72b466fcedcdf3bf39a709393908458f.jpeg",
+      "dealer_id": "pacific-honda",
+      "vin": "JN1BJ1BW9MW446781",
+      "stock": "26422A",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/nissan/qashqai/2021-nissan-qashqai-id39049122",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/nissan/qashqai/2021-nissan-qashqai-id39049122?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-13T20:55:41",
+      "snapshot": "2026-10-13T21:30:55",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-jn1bj1bw9mw446781",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     },
     {
       "pub_id": "sherwood-park-chevrolet-jn1bj1av0mw312038",

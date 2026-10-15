@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-14T03:30:55+00:00",
-  "snapshot": "2026-10-14T03:30:55+00:00",
+  "generated_at": "2026-10-15T04:03:47+00:00",
+  "snapshot": "2026-10-15T04:03:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 26,
+  "count": 27,
   "vehicles": [
     {
       "pub_id": "signature-mazda-jm3kkchd4s1210374",
@@ -607,6 +607,35 @@
       "city": "Nanaimo",
       "province": "BC",
       "dealer_name": "Harris Mazda"
+    },
+    {
+      "pub_id": "courtenay-mazda-jm3kkdhc8t1415386",
+      "year": 2026,
+      "make": "Mazda",
+      "model": "CX-90 MHEV",
+      "trim": "Gt-P",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "hybrid",
+      "propulsion_source": "description",
+      "propulsion_confidence": "medium",
+      "condition": "new",
+      "odometer_km": 12,
+      "price_cad": 60445.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "courtenay-mazda",
+      "vin": "JM3KKDHC8T1415386",
+      "stock": "14310428",
+      "listing_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_90_MHEV-id14310428.html",
+      "dealer_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_90_MHEV-id14310428.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-13T23:15:49",
+      "snapshot": "2026-10-13T23:23:01",
+      "go_url": "https://carwhisper.ca/go/courtenay-mazda-jm3kkdhc8t1415386",
+      "region": "Vancouver Island",
+      "city": "Courtenay",
+      "province": "BC",
+      "dealer_name": "Courtenay Mazda"
     },
     {
       "pub_id": "harris-mazda-jm3kkdhc5t1408721",

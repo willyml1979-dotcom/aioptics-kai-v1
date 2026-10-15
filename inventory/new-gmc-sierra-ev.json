@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-14T03:30:55+00:00",
-  "snapshot": "2026-10-14T03:30:55+00:00",
+  "generated_at": "2026-10-15T04:03:47+00:00",
+  "snapshot": "2026-10-15T04:03:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "preston-chevrolet-buick-gmc-cadillac-ltd-1gt1eted8tu418080",
@@ -61,6 +61,32 @@
       "city": "Richmond",
       "province": "BC",
       "dealer_name": "Dueck Richmond"
+    },
+    {
+      "pub_id": "carter-gm-northshore-1gt4eyel1tu419640",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra EV",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "odometer_km": 5,
+      "price_cad": 124897.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://www.carternorthshore.com/wp-content/themes/convertus-achilles/achilles/assets/images/srp-placeholder/PV.jpg",
+      "dealer_id": "carter-gm-northshore",
+      "vin": "1GT4EYEL1TU419640",
+      "stock": "6R96400",
+      "listing_url": "https://www.carternorthshore.com/vehicles/2026/gmc/sierra-ev/north-vancouver/bc/71547592/?sale_class=new",
+      "dealer_url": "https://www.carternorthshore.com/vehicles/2026/gmc/sierra-ev/north-vancouver/bc/71547592/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-14T01:37:26",
+      "snapshot": "2026-10-14T01:39:42",
+      "go_url": "https://carwhisper.ca/go/carter-gm-northshore-1gt4eyel1tu419640",
+      "region": "Lower Mainland",
+      "city": "North Vancouver",
+      "province": "BC",
+      "dealer_name": "Carter GM Northshore"
     }
   ]
 }

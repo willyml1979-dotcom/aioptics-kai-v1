@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-14T03:30:55+00:00",
-  "snapshot": "2026-10-14T03:30:55+00:00",
+  "generated_at": "2026-10-15T04:03:47+00:00",
+  "snapshot": "2026-10-15T04:03:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "go-richmond-subaru-wbapg7c58ba937408",
@@ -85,6 +85,34 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Country Hills Nissan"
+    },
+    {
+      "pub_id": "applewood-chevrolet-buick-gmc-wba5r7c52kaj78563",
+      "year": 2019,
+      "make": "BMW",
+      "model": "3 Series",
+      "trim": "Sedan Sedan",
+      "body_type": "sedan",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 142749,
+      "price_cad": 21000.0,
+      "price_note": null,
+      "photo_url": "https://static.edealer.ca/V4/assets/images/new_vehicles_images_coming.png",
+      "dealer_id": "applewood-chevrolet-buick-gmc",
+      "vin": "WBA5R7C52KAJ78563",
+      "stock": "GH6D7614A",
+      "listing_url": "https://www.applewoodgm.ca/inventory/2019-bmw-3-series-330i-xdrive-zw5Z4ifdQ3yFT7ZDR0AFKQvdp",
+      "dealer_url": "https://www.applewoodgm.ca/inventory/2019-bmw-3-series-330i-xdrive-zw5Z4ifdQ3yFT7ZDR0AFKQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-13T21:34:49",
+      "snapshot": "2026-10-13T21:36:33",
+      "go_url": "https://carwhisper.ca/go/applewood-chevrolet-buick-gmc-wba5r7c52kaj78563",
+      "city": "Port Hardy",
+      "province": "BC",
+      "dealer_name": "Applewood Chevrolet Buick GMC"
     },
     {
       "pub_id": "go-richmond-kia-3mw5r7j01m8b64787",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T03:30:55+00:00",
+  "generated_at": "2026-10-15T04:03:47+00:00",
   "condition": "used",
   "make": "mazda",
   "files": [
@@ -22,12 +22,12 @@
       "make": "mazda",
       "model": "Mazda3",
       "shard": "Lower Mainland",
-      "count": 20,
+      "count": 24,
       "file": "inventory/used-mazda-mazda3-lower-mainland.json",
       "models": [
         {
           "model": "Mazda3",
-          "count": 20
+          "count": 24
         }
       ]
     },
@@ -112,6 +112,19 @@
     {
       "condition": "used",
       "make": "mazda",
+      "model": "5 GT at",
+      "count": 3,
+      "file": "inventory/used-mazda-5-gt-at.json",
+      "models": [
+        {
+          "model": "5 GT at",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mazda",
       "model": "5 Touring",
       "count": 2,
       "file": "inventory/used-mazda-5-touring.json",
@@ -138,74 +151,14 @@
     {
       "condition": "used",
       "make": "mazda",
-      "model": "CX-5",
-      "shard": "part1",
-      "count": 31,
-      "file": "inventory/used-mazda-cx-5-part1.json",
-      "models": [
-        {
-          "model": "CX-5",
-          "count": 31
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mazda",
-      "model": "CX-5",
-      "shard": "part2",
-      "count": 31,
-      "file": "inventory/used-mazda-cx-5-part2.json",
-      "models": [
-        {
-          "model": "CX-5",
-          "count": 31
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mazda",
-      "model": "CX-5",
-      "shard": "part3",
-      "count": 31,
-      "file": "inventory/used-mazda-cx-5-part3.json",
-      "models": [
-        {
-          "model": "CX-5",
-          "count": 31
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mazda",
-      "model": "CX-5",
-      "shard": "part4",
-      "count": 28,
-      "file": "inventory/used-mazda-cx-5-part4.json",
-      "models": [
-        {
-          "model": "CX-5",
-          "count": 28
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mazda",
       "model": "Mazda3 Sport",
       "shard": "Lower Mainland",
-      "count": 21,
+      "count": 22,
       "file": "inventory/used-mazda-mazda3-sport-lower-mainland.json",
       "models": [
         {
-          "model": "MAZDA3 SPORT",
-          "count": 1
-        },
-        {
           "model": "Mazda3 Sport",
-          "count": 20
+          "count": 22
         }
       ]
     },
@@ -266,6 +219,62 @@
         {
           "model": "Mazda3 Sport",
           "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mazda",
+      "model": "CX-5",
+      "shard": "part1",
+      "count": 32,
+      "file": "inventory/used-mazda-cx-5-part1.json",
+      "models": [
+        {
+          "model": "CX-5",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mazda",
+      "model": "CX-5",
+      "shard": "part2",
+      "count": 32,
+      "file": "inventory/used-mazda-cx-5-part2.json",
+      "models": [
+        {
+          "model": "CX-5",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mazda",
+      "model": "CX-5",
+      "shard": "part3",
+      "count": 32,
+      "file": "inventory/used-mazda-cx-5-part3.json",
+      "models": [
+        {
+          "model": "CX-5",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mazda",
+      "model": "CX-5",
+      "shard": "part4",
+      "count": 29,
+      "file": "inventory/used-mazda-cx-5-part4.json",
+      "models": [
+        {
+          "model": "CX-5",
+          "count": 29
         }
       ]
     },
@@ -644,19 +653,6 @@
       "models": [
         {
           "model": "MAZDA2",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mazda",
-      "model": "5 GT at",
-      "count": 1,
-      "file": "inventory/used-mazda-5-gt-at.json",
-      "models": [
-        {
-          "model": "5 GT at",
           "count": 1
         }
       ]

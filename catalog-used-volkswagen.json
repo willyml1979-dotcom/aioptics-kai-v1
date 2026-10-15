@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T03:30:55+00:00",
+  "generated_at": "2026-10-15T04:03:47+00:00",
   "condition": "used",
   "make": "volkswagen",
   "files": [
@@ -78,12 +78,12 @@
       "make": "volkswagen",
       "model": "Tiguan",
       "shard": "part6",
-      "count": 25,
+      "count": 28,
       "file": "inventory/used-volkswagen-tiguan-part6.json",
       "models": [
         {
           "model": "Tiguan",
-          "count": 25
+          "count": 28
         }
       ]
     },
@@ -147,13 +147,13 @@
       "condition": "used",
       "make": "volkswagen",
       "model": "Jetta",
-      "shard": "Kootenays",
-      "count": 1,
-      "file": "inventory/used-volkswagen-jetta-kootenays.json",
+      "shard": "part1",
+      "count": 27,
+      "file": "inventory/used-volkswagen-jetta-part1.json",
       "models": [
         {
           "model": "Jetta",
-          "count": 1
+          "count": 27
         }
       ]
     },
@@ -161,13 +161,13 @@
       "condition": "used",
       "make": "volkswagen",
       "model": "Jetta",
-      "shard": "Lower Mainland",
-      "count": 31,
-      "file": "inventory/used-volkswagen-jetta-lower-mainland.json",
+      "shard": "part2",
+      "count": 27,
+      "file": "inventory/used-volkswagen-jetta-part2.json",
       "models": [
         {
           "model": "Jetta",
-          "count": 31
+          "count": 27
         }
       ]
     },
@@ -175,69 +175,13 @@
       "condition": "used",
       "make": "volkswagen",
       "model": "Jetta",
-      "shard": "Norte/Cariboo",
-      "count": 4,
-      "file": "inventory/used-volkswagen-jetta-norte-cariboo.json",
+      "shard": "part3",
+      "count": 26,
+      "file": "inventory/used-volkswagen-jetta-part3.json",
       "models": [
         {
           "model": "Jetta",
-          "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Jetta",
-      "shard": "Okanagan",
-      "count": 9,
-      "file": "inventory/used-volkswagen-jetta-okanagan.json",
-      "models": [
-        {
-          "model": "Jetta",
-          "count": 9
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Jetta",
-      "shard": "Thompson-Okanagan",
-      "count": 3,
-      "file": "inventory/used-volkswagen-jetta-thompson-okanagan.json",
-      "models": [
-        {
-          "model": "Jetta",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Jetta",
-      "shard": "Vancouver Island",
-      "count": 8,
-      "file": "inventory/used-volkswagen-jetta-vancouver-island.json",
-      "models": [
-        {
-          "model": "Jetta",
-          "count": 8
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Jetta",
-      "shard": "sin-region",
-      "count": 15,
-      "file": "inventory/used-volkswagen-jetta-sin-region.json",
-      "models": [
-        {
-          "model": "Jetta",
-          "count": 15
+          "count": 26
         }
       ]
     },
@@ -245,12 +189,12 @@
       "condition": "used",
       "make": "volkswagen",
       "model": "Golf",
-      "count": 22,
+      "count": 28,
       "file": "inventory/used-volkswagen-golf.json",
       "models": [
         {
           "model": "Golf",
-          "count": 22
+          "count": 28
         }
       ]
     },
@@ -283,27 +227,14 @@
     {
       "condition": "used",
       "make": "volkswagen",
-      "model": "Touareg",
-      "count": 4,
-      "file": "inventory/used-volkswagen-touareg.json",
-      "models": [
-        {
-          "model": "Touareg",
-          "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
       "model": "Atlas",
       "shard": "Lower Mainland",
-      "count": 21,
+      "count": 20,
       "file": "inventory/used-volkswagen-atlas-lower-mainland.json",
       "models": [
         {
           "model": "Atlas",
-          "count": 21
+          "count": 20
         }
       ]
     },
@@ -420,12 +351,69 @@
       "condition": "used",
       "make": "volkswagen",
       "model": "Atlas Cross Sport",
-      "count": 31,
-      "file": "inventory/used-volkswagen-atlas-cross-sport.json",
+      "shard": "Lower Mainland",
+      "count": 19,
+      "file": "inventory/used-volkswagen-atlas-cross-sport-lower-mainland.json",
       "models": [
         {
           "model": "Atlas Cross Sport",
-          "count": 31
+          "count": 19
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volkswagen",
+      "model": "Atlas Cross Sport",
+      "shard": "Okanagan",
+      "count": 4,
+      "file": "inventory/used-volkswagen-atlas-cross-sport-okanagan.json",
+      "models": [
+        {
+          "model": "Atlas Cross Sport",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volkswagen",
+      "model": "Atlas Cross Sport",
+      "shard": "Thompson-Okanagan",
+      "count": 3,
+      "file": "inventory/used-volkswagen-atlas-cross-sport-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "Atlas Cross Sport",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volkswagen",
+      "model": "Atlas Cross Sport",
+      "shard": "Vancouver Island",
+      "count": 1,
+      "file": "inventory/used-volkswagen-atlas-cross-sport-vancouver-island.json",
+      "models": [
+        {
+          "model": "Atlas Cross Sport",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volkswagen",
+      "model": "Atlas Cross Sport",
+      "shard": "sin-region",
+      "count": 7,
+      "file": "inventory/used-volkswagen-atlas-cross-sport-sin-region.json",
+      "models": [
+        {
+          "model": "Atlas Cross Sport",
+          "count": 7
         }
       ]
     },
@@ -491,6 +479,19 @@
         {
           "model": "T1",
           "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volkswagen",
+      "model": "Touareg",
+      "count": 3,
+      "file": "inventory/used-volkswagen-touareg.json",
+      "models": [
+        {
+          "model": "Touareg",
+          "count": 3
         }
       ]
     },

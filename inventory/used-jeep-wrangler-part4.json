@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-14T03:30:55+00:00",
-  "snapshot": "2026-10-14T03:30:55+00:00",
+  "generated_at": "2026-10-15T04:03:47+00:00",
+  "snapshot": "2026-10-15T04:03:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 28,
+  "count": 29,
   "vehicles": [
     {
       "pub_id": "penticton-nissan-1c4gjxag9kw633077",
@@ -525,7 +525,7 @@
       "listing_url": "https://www.comoxvalleytoyota.com/used/2018-Jeep-Wrangler.html",
       "dealer_url": "https://www.comoxvalleytoyota.com/used/2018-Jeep-Wrangler.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T20:53:08",
-      "snapshot": "2026-10-11T00:47:02",
+      "snapshot": "2026-10-14T01:02:25",
       "go_url": "https://carwhisper.ca/go/comox-valley-toyota-1c4hjweg2jl873001",
       "region": "Vancouver Island",
       "city": "Courtenay",
@@ -720,12 +720,40 @@
       "listing_url": "https://www.comoxvalleydodge.com/used/2016-Jeep-Wrangler.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2016-Jeep-Wrangler.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T21:04:38",
-      "snapshot": "2026-10-11T00:49:21",
+      "snapshot": "2026-10-14T01:11:16",
       "go_url": "https://carwhisper.ca/go/comox-valley-dodge-1c4bjweg3gl177097",
       "region": "Vancouver Island",
       "city": "Courtenay",
       "province": "BC",
       "dealer_name": "Comox Valley Dodge"
+    },
+    {
+      "pub_id": "campus-nissan-1c4gjxag6mw845521",
+      "year": 2021,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "drivetrain": "4WD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 63345,
+      "price_cad": 31595.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/15bdd13a-cf9e-4c56-970e-90c7661f874b_290ee751-7796-48a9-b9ab-ecd370106cf0.jpg",
+      "dealer_id": "campus-nissan",
+      "vin": "1C4GJXAG6MW845521",
+      "stock": "JA4432",
+      "listing_url": "https://www.campusnissan.com/vehicles/2021/jeep/wrangler/victoria/bc/71190536/?sale_class=used",
+      "dealer_url": "https://www.campusnissan.com/vehicles/2021/jeep/wrangler/victoria/bc/71190536/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-11T00:54:16",
+      "snapshot": "2026-10-14T01:18:32",
+      "go_url": "https://carwhisper.ca/go/campus-nissan-1c4gjxag6mw845521",
+      "region": "Vancouver Island",
+      "city": "Victoria",
+      "province": "BC",
+      "dealer_name": "Campus Nissan"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-14T03:30:55+00:00",
-  "snapshot": "2026-10-14T03:30:55+00:00",
+  "generated_at": "2026-10-15T04:03:47+00:00",
+  "snapshot": "2026-10-15T04:03:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 7,
+  "count": 8,
   "vehicles": [
     {
       "pub_id": "duncan-hyundai-kmhrc8a36nu171563",
@@ -27,6 +27,30 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Duncan Hyundai"
+    },
+    {
+      "pub_id": "comox-valley-toyota-kmhrc8a3xpu257672",
+      "year": 2023,
+      "make": "Hyundai",
+      "model": "Venue",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 17999.0,
+      "price_note": null,
+      "color": "Fiery Red",
+      "dealer_id": "comox-valley-toyota",
+      "vin": "KMHRC8A3XPU257672",
+      "stock": 14509951,
+      "listing_url": "https://www.comoxvalleytoyota.com/used/2023-Hyundai-Venue.html",
+      "dealer_url": "https://www.comoxvalleytoyota.com/used/2023-Hyundai-Venue.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-14T00:59:25",
+      "snapshot": "2026-10-14T01:02:25",
+      "go_url": "https://carwhisper.ca/go/comox-valley-toyota-kmhrc8a3xpu257672",
+      "region": "Vancouver Island",
+      "city": "Courtenay",
+      "province": "BC",
+      "dealer_name": "Comox Valley Toyota"
     },
     {
       "pub_id": "duncan-hyundai-kmhrc8a39ru301406",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T03:30:55+00:00",
+  "generated_at": "2026-10-15T04:03:47+00:00",
   "condition": "used",
   "make": "ram",
   "files": [
@@ -106,12 +106,12 @@
       "make": "ram",
       "model": "1500",
       "shard": "part8",
-      "count": 26,
+      "count": 28,
       "file": "inventory/used-ram-1500-part8.json",
       "models": [
         {
           "model": "1500",
-          "count": 26
+          "count": 28
         }
       ]
     },
@@ -593,12 +593,12 @@
       "condition": "used",
       "make": "ram",
       "model": "RAM 1500 Crew Cab 4x4",
-      "count": 1,
+      "count": 3,
       "file": "inventory/used-ram-ram-1500-crew-cab-4x4.json",
       "models": [
         {
           "model": "RAM 1500 Crew Cab 4x4",
-          "count": 1
+          "count": 3
         }
       ]
     },
@@ -632,12 +632,12 @@
       "condition": "used",
       "make": "ram",
       "model": "RAM 1500 Classic Crew Cab 4x4 (DS)",
-      "count": 2,
+      "count": 6,
       "file": "inventory/used-ram-ram-1500-classic-crew-cab-4x4-ds.json",
       "models": [
         {
           "model": "RAM 1500 Classic Crew Cab 4x4 (DS)",
-          "count": 2
+          "count": 6
         }
       ]
     },
@@ -645,12 +645,12 @@
       "condition": "used",
       "make": "ram",
       "model": "RAM 1500 Crew Cab 4x2 (DT)",
-      "count": 2,
+      "count": 4,
       "file": "inventory/used-ram-ram-1500-crew-cab-4x2-dt.json",
       "models": [
         {
           "model": "RAM 1500 Crew Cab 4x2 (DT)",
-          "count": 2
+          "count": 4
         }
       ]
     },
@@ -658,12 +658,12 @@
       "condition": "used",
       "make": "ram",
       "model": "RAM 3500 Crew Cab 4x4",
-      "count": 1,
+      "count": 3,
       "file": "inventory/used-ram-ram-3500-crew-cab-4x4.json",
       "models": [
         {
           "model": "RAM 3500 Crew Cab 4x4",
-          "count": 1
+          "count": 3
         }
       ]
     },
@@ -936,6 +936,19 @@
       "models": [
         {
           "model": "3500Tradesman",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500Limited Longhorn",
+      "count": 1,
+      "file": "inventory/used-ram-1500limited-longhorn.json",
+      "models": [
+        {
+          "model": "1500Limited Longhorn",
           "count": 1
         }
       ]

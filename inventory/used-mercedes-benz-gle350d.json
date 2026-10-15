@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-14T03:30:55+00:00",
-  "snapshot": "2026-10-14T03:30:55+00:00",
+  "generated_at": "2026-10-15T04:03:47+00:00",
+  "snapshot": "2026-10-15T04:03:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-4jgda2eb0ga793322",
@@ -177,6 +177,34 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Mercedes Benz Vancouver"
+    },
+    {
+      "pub_id": "pacific-honda-4jgda2eb0ga793322",
+      "year": 2016,
+      "make": "Mercedes-Benz",
+      "model": "GLE350d",
+      "trim": "4MATIC",
+      "drivetrain": "4WD",
+      "propulsion": "diesel",
+      "propulsion_source": "description",
+      "propulsion_confidence": "medium",
+      "condition": "used",
+      "odometer_km": 74913,
+      "price_cad": 24992.0,
+      "price_note": null,
+      "color": "designo Mystic Blue",
+      "photo_url": "https://img.sm360.ca/images/inventory/white-rock-honda/mercedes-benz/gle350d/2016/39102903/39102903_03097_207352e18edfc422521379cf851d6df9.jpeg",
+      "dealer_id": "pacific-honda",
+      "vin": "4JGDA2EB0GA793322",
+      "stock": "H316035",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/mercedes-benz/gle350d/2016-mercedes-benz-gle350d-id39102903",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/mercedes-benz/gle350d/2016-mercedes-benz-gle350d-id39102903?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-13T20:40:42",
+      "snapshot": "2026-10-13T21:30:55",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-4jgda2eb0ga793322",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

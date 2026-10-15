@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-14T03:30:55+00:00",
-  "snapshot": "2026-10-14T03:30:55+00:00",
+  "generated_at": "2026-10-15T04:03:47+00:00",
+  "snapshot": "2026-10-15T04:03:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 7,
+  "count": 8,
   "vehicles": [
     {
       "pub_id": "go-langley-subaru-5yjygdee6lf052071",
@@ -161,6 +161,35 @@
       "city": null,
       "province": "ON",
       "dealer_name": "Go Auto Brampton Chrysler"
+    },
+    {
+      "pub_id": "pacific-honda-7saygdef1nf533540",
+      "year": 2022,
+      "make": "Tesla",
+      "model": "Model Y",
+      "trim": "Performance",
+      "body_type": "suv",
+      "drivetrain": "4WD",
+      "propulsion": "electric",
+      "propulsion_source": "description",
+      "propulsion_confidence": "medium",
+      "condition": "used",
+      "odometer_km": 35710,
+      "price_cad": 48995.0,
+      "price_note": null,
+      "color": "WHITE",
+      "photo_url": "https://img.sm360.ca/images/inventory/dilawri-vancouver-honda/tesla/model-y/2022/39332704/39332704_07741_2022-tesla-model-y_001.JPG",
+      "dealer_id": "pacific-honda",
+      "vin": "7SAYGDEF1NF533540",
+      "stock": "H27086B",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/tesla/model-y/2022-tesla-model-y-id39332704",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/tesla/model-y/2022-tesla-model-y-id39332704?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-13T21:15:56",
+      "snapshot": "2026-10-13T21:30:55",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-7saygdef1nf533540",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     },
     {
       "pub_id": "go-richmond-kia-lrwygdee9pc027259",

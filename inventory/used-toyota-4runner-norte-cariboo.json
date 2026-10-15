@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-14T03:30:55+00:00",
-  "snapshot": "2026-10-14T03:30:55+00:00",
+  "generated_at": "2026-10-15T04:03:47+00:00",
+  "snapshot": "2026-10-15T04:03:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "subaru-of-prince-george-jtebu5jr3j5503075",
@@ -55,6 +55,31 @@
       "city": "Smithers",
       "province": "BC",
       "dealer_name": "Smithers Toyota"
+    },
+    {
+      "pub_id": "cariboo-chevrolet-buick-gmc-ltd-jtesu5jr4n6031419",
+      "year": 2022,
+      "make": "Toyota",
+      "model": "4Runner",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 111778,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "Black",
+      "dealer_id": "cariboo-chevrolet-buick-gmc-ltd",
+      "vin": "JTESU5JR4N6031419",
+      "stock": "PO2429",
+      "listing_url": "https://www.cariboogm.ca/inventory/2022-toyota-4runner-DxuGTTv6RdmXrwBPycXLHwvdp",
+      "dealer_url": "https://www.cariboogm.ca/inventory/2022-toyota-4runner-DxuGTTv6RdmXrwBPycXLHwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-13T21:59:24",
+      "snapshot": "2026-10-13T22:01:04",
+      "go_url": "https://carwhisper.ca/go/cariboo-chevrolet-buick-gmc-ltd-jtesu5jr4n6031419",
+      "region": "Norte/Cariboo",
+      "city": "Williams Lake",
+      "province": "BC",
+      "dealer_name": "Cariboo Chevrolet Buick GMC Ltd."
     }
   ]
 }

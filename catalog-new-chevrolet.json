@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T03:30:55+00:00",
+  "generated_at": "2026-10-15T04:03:47+00:00",
   "condition": "new",
   "make": "chevrolet",
   "files": [
@@ -246,12 +246,12 @@
       "make": "chevrolet",
       "model": "Bolt",
       "shard": "part9",
-      "count": 25,
+      "count": 22,
       "file": "inventory/new-chevrolet-bolt-part9.json",
       "models": [
         {
           "model": "Bolt",
-          "count": 25
+          "count": 22
         }
       ]
     },
@@ -328,12 +328,12 @@
       "make": "chevrolet",
       "model": "Equinox EV",
       "shard": "part4",
-      "count": 32,
+      "count": 30,
       "file": "inventory/new-chevrolet-equinox-ev-part4.json",
       "models": [
         {
           "model": "Equinox EV",
-          "count": 32
+          "count": 30
         }
       ]
     },
@@ -611,12 +611,12 @@
       "make": "chevrolet",
       "model": "Trax",
       "shard": "part1",
-      "count": 31,
+      "count": 30,
       "file": "inventory/new-chevrolet-trax-part1.json",
       "models": [
         {
           "model": "Trax",
-          "count": 31
+          "count": 30
         }
       ]
     },
@@ -625,12 +625,12 @@
       "make": "chevrolet",
       "model": "Trax",
       "shard": "part2",
-      "count": 31,
+      "count": 30,
       "file": "inventory/new-chevrolet-trax-part2.json",
       "models": [
         {
           "model": "Trax",
-          "count": 31
+          "count": 30
         }
       ]
     },
@@ -639,12 +639,12 @@
       "make": "chevrolet",
       "model": "Trax",
       "shard": "part3",
-      "count": 31,
+      "count": 30,
       "file": "inventory/new-chevrolet-trax-part3.json",
       "models": [
         {
           "model": "Trax",
-          "count": 31
+          "count": 30
         }
       ]
     },
@@ -653,12 +653,12 @@
       "make": "chevrolet",
       "model": "Trax",
       "shard": "part4",
-      "count": 31,
+      "count": 30,
       "file": "inventory/new-chevrolet-trax-part4.json",
       "models": [
         {
           "model": "Trax",
-          "count": 31
+          "count": 30
         }
       ]
     },
@@ -667,12 +667,12 @@
       "make": "chevrolet",
       "model": "Trax",
       "shard": "part5",
-      "count": 31,
+      "count": 30,
       "file": "inventory/new-chevrolet-trax-part5.json",
       "models": [
         {
           "model": "Trax",
-          "count": 31
+          "count": 30
         }
       ]
     },
@@ -681,12 +681,12 @@
       "make": "chevrolet",
       "model": "Trax",
       "shard": "part6",
-      "count": 31,
+      "count": 30,
       "file": "inventory/new-chevrolet-trax-part6.json",
       "models": [
         {
           "model": "Trax",
-          "count": 31
+          "count": 30
         }
       ]
     },
@@ -695,12 +695,12 @@
       "make": "chevrolet",
       "model": "Trax",
       "shard": "part7",
-      "count": 31,
+      "count": 30,
       "file": "inventory/new-chevrolet-trax-part7.json",
       "models": [
         {
           "model": "Trax",
-          "count": 31
+          "count": 30
         }
       ]
     },
@@ -709,12 +709,12 @@
       "make": "chevrolet",
       "model": "Trax",
       "shard": "part8",
-      "count": 24,
+      "count": 28,
       "file": "inventory/new-chevrolet-trax-part8.json",
       "models": [
         {
           "model": "Trax",
-          "count": 24
+          "count": 28
         }
       ]
     },
@@ -779,12 +779,12 @@
       "make": "chevrolet",
       "model": "Equinox",
       "shard": "part5",
-      "count": 26,
+      "count": 25,
       "file": "inventory/new-chevrolet-equinox-part5.json",
       "models": [
         {
           "model": "Equinox",
-          "count": 26
+          "count": 25
         }
       ]
     },
@@ -1115,12 +1115,12 @@
       "make": "chevrolet",
       "model": "Silverado 1500",
       "shard": "part19",
-      "count": 23,
+      "count": 24,
       "file": "inventory/new-chevrolet-silverado-1500-part19.json",
       "models": [
         {
           "model": "Silverado 1500",
-          "count": 23
+          "count": 24
         }
       ]
     },
@@ -1237,12 +1237,12 @@
       "make": "chevrolet",
       "model": "Silverado 3500",
       "shard": "part5",
-      "count": 26,
+      "count": 28,
       "file": "inventory/new-chevrolet-silverado-3500-part5.json",
       "models": [
         {
           "model": "Silverado 3500",
-          "count": 26
+          "count": 28
         }
       ]
     },
@@ -1622,19 +1622,6 @@
     {
       "condition": "new",
       "make": "chevrolet",
-      "model": "Silverado",
-      "count": 3,
-      "file": "inventory/new-chevrolet-silverado.json",
-      "models": [
-        {
-          "model": "Silverado",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "chevrolet",
       "model": "Express Cargo 2500",
       "count": 1,
       "file": "inventory/new-chevrolet-express-cargo-2500.json",
@@ -1642,6 +1629,19 @@
         {
           "model": "Express Cargo 2500",
           "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Silverado",
+      "count": 3,
+      "file": "inventory/new-chevrolet-silverado.json",
+      "models": [
+        {
+          "model": "Silverado",
+          "count": 3
         }
       ]
     },

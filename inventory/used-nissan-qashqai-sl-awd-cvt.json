@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-14T03:30:55+00:00",
-  "snapshot": "2026-10-14T03:30:55+00:00",
+  "generated_at": "2026-10-15T04:03:47+00:00",
+  "snapshot": "2026-10-15T04:03:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "acura-of-langley-jn1bj1bw0pw102616",
@@ -22,7 +22,7 @@
       "listing_url": "https://www.acuraoflangley.ca/en/used-inventory/nissan/qashqai/2023-nissan-qashqai-id39108768",
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/nissan/qashqai/2023-nissan-qashqai-id39108768?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T23:19:23",
-      "snapshot": "2026-10-13T17:25:08",
+      "snapshot": "2026-10-14T00:30:28",
       "go_url": "https://carwhisper.ca/go/acura-of-langley-jn1bj1bw0pw102616",
       "region": "Lower Mainland",
       "city": "Langley",
@@ -47,12 +47,36 @@
       "listing_url": "https://www.burrardacura.ca/en/used-inventory/nissan/qashqai/2023-nissan-qashqai-id39108768",
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/nissan/qashqai/2023-nissan-qashqai-id39108768?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T20:47:11",
-      "snapshot": "2026-10-10T20:52:27",
+      "snapshot": "2026-10-13T21:31:43",
       "go_url": "https://carwhisper.ca/go/burrard-acura-jn1bj1bw0pw102616",
       "region": "Lower Mainland",
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Burrard Acura"
+    },
+    {
+      "pub_id": "pacific-honda-jn1bj1bw0pw102616",
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Qashqai SL AWD CVT",
+      "drivetrain": "AWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 45932,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "pacific-honda",
+      "vin": "JN1BJ1BW0PW102616",
+      "stock": "H126249",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/nissan/qashqai/2023-nissan-qashqai-id39108768",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/nissan/qashqai/2023-nissan-qashqai-id39108768?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-13T20:56:02",
+      "snapshot": "2026-10-13T21:30:55",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-jn1bj1bw0pw102616",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

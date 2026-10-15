@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T03:30:55+00:00",
+  "generated_at": "2026-10-15T04:03:47+00:00",
   "condition": "used",
   "make": "lexus",
   "files": [
@@ -60,12 +60,12 @@
       "make": "lexus",
       "model": "RX",
       "shard": "part1",
-      "count": 26,
+      "count": 29,
       "file": "inventory/used-lexus-rx-part1.json",
       "models": [
         {
           "model": "RX",
-          "count": 26
+          "count": 29
         }
       ]
     },
@@ -74,12 +74,12 @@
       "make": "lexus",
       "model": "RX",
       "shard": "part2",
-      "count": 25,
+      "count": 29,
       "file": "inventory/used-lexus-rx-part2.json",
       "models": [
         {
           "model": "RX",
-          "count": 25
+          "count": 29
         }
       ]
     },
@@ -154,6 +154,19 @@
     {
       "condition": "used",
       "make": "lexus",
+      "model": "UXh",
+      "count": 12,
+      "file": "inventory/used-lexus-uxh.json",
+      "models": [
+        {
+          "model": "UXh",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
       "model": "RX 350 F-SPORT 2",
       "count": 2,
       "file": "inventory/used-lexus-rx-350-f-sport-2.json",
@@ -193,19 +206,6 @@
     {
       "condition": "used",
       "make": "lexus",
-      "model": "UXh",
-      "count": 10,
-      "file": "inventory/used-lexus-uxh.json",
-      "models": [
-        {
-          "model": "UXh",
-          "count": 10
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "lexus",
       "model": "UX 250h AWD",
       "count": 2,
       "file": "inventory/used-lexus-ux-250h-awd.json",
@@ -220,12 +220,12 @@
       "condition": "used",
       "make": "lexus",
       "model": "RXh",
-      "count": 2,
+      "count": 4,
       "file": "inventory/used-lexus-rxh.json",
       "models": [
         {
           "model": "RXh",
-          "count": 2
+          "count": 4
         }
       ]
     },
@@ -259,12 +259,12 @@
       "condition": "used",
       "make": "lexus",
       "model": "LS",
-      "count": 2,
+      "count": 4,
       "file": "inventory/used-lexus-ls.json",
       "models": [
         {
           "model": "LS",
-          "count": 2
+          "count": 4
         }
       ]
     },

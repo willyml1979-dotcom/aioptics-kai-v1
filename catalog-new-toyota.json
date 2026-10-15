@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T03:30:55+00:00",
+  "generated_at": "2026-10-15T04:03:47+00:00",
   "condition": "new",
   "make": "toyota",
   "files": [
@@ -316,12 +316,12 @@
       "make": "toyota",
       "model": "Tacoma",
       "shard": "part6",
-      "count": 31,
+      "count": 32,
       "file": "inventory/new-toyota-tacoma-part6.json",
       "models": [
         {
           "model": "Tacoma",
-          "count": 31
+          "count": 32
         }
       ]
     },
@@ -399,25 +399,83 @@
       "condition": "new",
       "make": "toyota",
       "model": "C-HR",
-      "count": 34,
-      "file": "inventory/new-toyota-c-hr.json",
+      "shard": "Kootenays",
+      "count": 4,
+      "file": "inventory/new-toyota-c-hr-kootenays.json",
       "models": [
         {
           "model": "C-HR",
-          "count": 34
+          "count": 4
         }
       ]
     },
     {
       "condition": "new",
       "make": "toyota",
-      "model": "Highlander",
-      "count": 28,
-      "file": "inventory/new-toyota-highlander.json",
+      "model": "C-HR",
+      "shard": "Lower Mainland",
+      "count": 20,
+      "file": "inventory/new-toyota-c-hr-lower-mainland.json",
       "models": [
         {
-          "model": "Highlander",
-          "count": 28
+          "model": "C-HR",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "toyota",
+      "model": "C-HR",
+      "shard": "Norte/Cariboo",
+      "count": 2,
+      "file": "inventory/new-toyota-c-hr-norte-cariboo.json",
+      "models": [
+        {
+          "model": "C-HR",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "toyota",
+      "model": "C-HR",
+      "shard": "Okanagan",
+      "count": 3,
+      "file": "inventory/new-toyota-c-hr-okanagan.json",
+      "models": [
+        {
+          "model": "C-HR",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "toyota",
+      "model": "C-HR",
+      "shard": "Thompson-Okanagan",
+      "count": 2,
+      "file": "inventory/new-toyota-c-hr-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "C-HR",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "toyota",
+      "model": "C-HR",
+      "shard": "Vancouver Island",
+      "count": 4,
+      "file": "inventory/new-toyota-c-hr-vancouver-island.json",
+      "models": [
+        {
+          "model": "C-HR",
+          "count": 4
         }
       ]
     },
@@ -502,6 +560,19 @@
         {
           "model": "Sienna",
           "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "toyota",
+      "model": "Highlander",
+      "count": 27,
+      "file": "inventory/new-toyota-highlander.json",
+      "models": [
+        {
+          "model": "Highlander",
+          "count": 27
         }
       ]
     },
@@ -594,12 +665,12 @@
       "make": "toyota",
       "model": "4Runner",
       "shard": "Kootenays",
-      "count": 2,
+      "count": 3,
       "file": "inventory/new-toyota-4runner-kootenays.json",
       "models": [
         {
           "model": "4Runner",
-          "count": 2
+          "count": 3
         }
       ]
     },
