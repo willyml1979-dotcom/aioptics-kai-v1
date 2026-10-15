@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T04:03:47+00:00",
-  "snapshot": "2026-10-15T04:03:47+00:00",
+  "generated_at": "2026-10-15T10:03:48+00:00",
+  "snapshot": "2026-10-15T10:03:48+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 27,
+  "count": 26,
   "vehicles": [
     {
       "pub_id": "mercedes-benz-richmond-3vwsx7bu8sm089987",
@@ -309,35 +309,6 @@
       "city": "Surrey",
       "province": "BC",
       "dealer_name": "Langley Chrysler"
-    },
-    {
-      "pub_id": "chilliwack-volkswagen-3vw2b7ajxhm297853",
-      "year": 2017,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "trim": "Trendline+",
-      "body_type": "sedan",
-      "drivetrain": "FWD",
-      "propulsion": "gas",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
-      "condition": "used",
-      "odometer_km": 317236,
-      "price_cad": null,
-      "price_note": "precio no publicado en la fuente",
-      "color": "Grey",
-      "dealer_id": "chilliwack-volkswagen",
-      "vin": "3VW2B7AJXHM297853",
-      "stock": "14513355",
-      "listing_url": "https://www.chilliwackvw.ca/used/2017-Volkswagen-Jetta-id14513355.html",
-      "dealer_url": "https://www.chilliwackvw.ca/used/2017-Volkswagen-Jetta-id14513355.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T22:44:07",
-      "snapshot": "2026-10-13T22:47:32",
-      "go_url": "https://carwhisper.ca/go/chilliwack-volkswagen-3vw2b7ajxhm297853",
-      "region": "Lower Mainland",
-      "city": "Chilliwack",
-      "province": "BC",
-      "dealer_name": "Chilliwack Volkswagen"
     },
     {
       "pub_id": "fort-city-chrysler-3vw2k7aj1dm293054",

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T04:03:47+00:00",
-  "snapshot": "2026-10-15T04:03:47+00:00",
+  "generated_at": "2026-10-15T10:03:48+00:00",
+  "snapshot": "2026-10-15T10:03:48+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "duncan-hyundai-ja4j24a58jz617802",
@@ -28,6 +28,30 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Duncan Hyundai"
+    },
+    {
+      "pub_id": "comox-valley-toyota-ja4j24a59jz613046",
+      "year": 2018,
+      "make": "Mitsubishi",
+      "model": "Outlander PHEV",
+      "propulsion": "plug-in hybrid",
+      "propulsion_source": "model_trim_name",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "price_cad": 20504.0,
+      "price_note": null,
+      "dealer_id": "comox-valley-toyota",
+      "vin": "JA4J24A59JZ613046",
+      "stock": 14516393,
+      "listing_url": "https://www.comoxvalleytoyota.com/used/2018-Mitsubishi-Outlander_PHEV.html",
+      "dealer_url": "https://www.comoxvalleytoyota.com/used/2018-Mitsubishi-Outlander_PHEV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T02:27:48",
+      "snapshot": "2026-10-15T02:31:56",
+      "go_url": "https://carwhisper.ca/go/comox-valley-toyota-ja4j24a59jz613046",
+      "region": "Vancouver Island",
+      "city": "Courtenay",
+      "province": "BC",
+      "dealer_name": "Comox Valley Toyota"
     },
     {
       "pub_id": "victoria-hyundai-ja4j24a58jz617802",

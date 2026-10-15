@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T04:03:47+00:00",
-  "snapshot": "2026-10-15T04:03:47+00:00",
+  "generated_at": "2026-10-15T10:03:48+00:00",
+  "snapshot": "2026-10-15T10:03:48+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 31,
+  "count": 32,
   "vehicles": [
     {
       "pub_id": "integrity-subaru-5xyzudlb1hg462301",
@@ -78,8 +78,8 @@
       "stock": "48800",
       "listing_url": "https://www.castlegarhyundai.com/inventory/Used-2023-Hyundai-Santa-Fe/1589303",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/Used-2023-Hyundai-Santa-Fe/1589303?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-14T01:16:31",
-      "snapshot": "2026-10-14T01:16:51",
+      "last_verified": "2026-10-15T02:50:25",
+      "snapshot": "2026-10-15T02:50:45",
       "go_url": "https://carwhisper.ca/go/castlegar-hyundai-5nms3daj5ph579561",
       "region": "Kootenays",
       "city": "Castlegar",
@@ -107,8 +107,8 @@
       "stock": "53181",
       "listing_url": "https://www.castlegarhyundai.com/inventory/Used-2025-Hyundai-Santa-Fe-Hybrid/1589322",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/Used-2025-Hyundai-Santa-Fe-Hybrid/1589322?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-14T01:16:45",
-      "snapshot": "2026-10-14T01:16:51",
+      "last_verified": "2026-10-15T02:50:41",
+      "snapshot": "2026-10-15T02:50:45",
       "go_url": "https://carwhisper.ca/go/castlegar-hyundai-km8p3dg17su093179",
       "region": "Kootenays",
       "city": "Castlegar",
@@ -644,7 +644,7 @@
       "listing_url": "https://www.kiawest.com/vehicles/2021/hyundai/santa-fe/coquitlam/bc/70261892/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2021/hyundai/santa-fe/coquitlam/bc/70261892/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T22:30:27",
-      "snapshot": "2026-10-14T00:34:13",
+      "snapshot": "2026-10-14T21:07:52",
       "go_url": "https://carwhisper.ca/go/go-kia-west-5nms3dajxmh342642",
       "region": "Lower Mainland",
       "city": "Coquitlam",
@@ -877,6 +877,30 @@
       "city": "Mission",
       "province": "BC",
       "dealer_name": "Pioneer Chrysler Jeep"
+    },
+    {
+      "pub_id": "maple-ridge-hyundai-5nms3daj3mh308154",
+      "year": 2021,
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 21906.0,
+      "price_note": null,
+      "color": "Grey",
+      "dealer_id": "maple-ridge-hyundai",
+      "vin": "5NMS3DAJ3MH308154",
+      "stock": 14115768,
+      "listing_url": "https://www.mapleridgehyundai.com/used/2021-Hyundai-Santa_Fe.html",
+      "dealer_url": "https://www.mapleridgehyundai.com/used/2021-Hyundai-Santa_Fe.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T06:28:31",
+      "snapshot": "2026-10-10T11:54:41",
+      "go_url": "https://carwhisper.ca/go/maple-ridge-hyundai-5nms3daj3mh308154",
+      "region": "Lower Mainland",
+      "city": "Maple Ridge",
+      "province": "BC",
+      "dealer_name": "Maple Ridge Hyundai"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T04:03:47+00:00",
+  "generated_at": "2026-10-15T10:03:48+00:00",
   "condition": "used",
   "make": "land-rover",
   "files": [
@@ -139,12 +139,12 @@
       "make": "land-rover",
       "model": "Range Rover Sport",
       "shard": "part7",
-      "count": 22,
+      "count": 20,
       "file": "inventory/used-land-rover-range-rover-sport-part7.json",
       "models": [
         {
           "model": "Range Rover Sport",
-          "count": 22
+          "count": 20
         }
       ]
     },
@@ -168,44 +168,14 @@
     {
       "condition": "used",
       "make": "land-rover",
-      "model": "Range Rover V8 Autobiography (2)",
-      "count": 3,
-      "file": "inventory/used-land-rover-range-rover-v8-autobiography-2.json",
-      "models": [
-        {
-          "model": "Range Rover V8 Autobiography (2)",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "land-rover",
-      "model": "Range Rover",
-      "count": 23,
-      "file": "inventory/used-land-rover-range-rover.json",
-      "models": [
-        {
-          "model": "RANGE ROVER",
-          "count": 1
-        },
-        {
-          "model": "Range Rover",
-          "count": 22
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "land-rover",
       "model": "Range Rover Velar",
       "shard": "Lower Mainland",
-      "count": 25,
+      "count": 23,
       "file": "inventory/used-land-rover-range-rover-velar-lower-mainland.json",
       "models": [
         {
           "model": "Range Rover Velar",
-          "count": 25
+          "count": 23
         }
       ]
     },
@@ -248,6 +218,36 @@
         {
           "model": "Range Rover Velar",
           "count": 9
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "land-rover",
+      "model": "Range Rover V8 Autobiography (2)",
+      "count": 3,
+      "file": "inventory/used-land-rover-range-rover-v8-autobiography-2.json",
+      "models": [
+        {
+          "model": "Range Rover V8 Autobiography (2)",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "land-rover",
+      "model": "Range Rover",
+      "count": 23,
+      "file": "inventory/used-land-rover-range-rover.json",
+      "models": [
+        {
+          "model": "RANGE ROVER",
+          "count": 1
+        },
+        {
+          "model": "Range Rover",
+          "count": 22
         }
       ]
     },
@@ -298,7 +298,7 @@
       "make": "land-rover",
       "model": "Defender",
       "shard": "part4",
-      "count": 25,
+      "count": 24,
       "file": "inventory/used-land-rover-defender-part4.json",
       "models": [
         {
@@ -307,7 +307,7 @@
         },
         {
           "model": "Defender",
-          "count": 23
+          "count": 22
         }
       ]
     },
@@ -341,12 +341,12 @@
       "condition": "used",
       "make": "land-rover",
       "model": "Defender 110 P300 S",
-      "count": 19,
+      "count": 20,
       "file": "inventory/used-land-rover-defender-110-p300-s.json",
       "models": [
         {
           "model": "Defender 110 P300 S",
-          "count": 19
+          "count": 20
         }
       ]
     },
@@ -470,19 +470,6 @@
     {
       "condition": "used",
       "make": "land-rover",
-      "model": "Range Rover Sport P400 Dynamic SE",
-      "count": 9,
-      "file": "inventory/used-land-rover-range-rover-sport-p400-dynamic-se.json",
-      "models": [
-        {
-          "model": "Range Rover Sport P400 Dynamic SE",
-          "count": 9
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "land-rover",
       "model": "Range Rover Velar P250 Dynamic SE",
       "count": 24,
       "file": "inventory/used-land-rover-range-rover-velar-p250-dynamic-se.json",
@@ -588,12 +575,12 @@
       "condition": "used",
       "make": "land-rover",
       "model": "Range Rover V8 Autobiography Supercharged LWB",
-      "count": 5,
+      "count": 4,
       "file": "inventory/used-land-rover-range-rover-v8-autobiography-supercharged-lwb.json",
       "models": [
         {
           "model": "Range Rover V8 Autobiography Supercharged LWB",
-          "count": 5
+          "count": 4
         }
       ]
     },
@@ -633,6 +620,19 @@
         {
           "model": "Range Rover 5.0L V8 Supercharged P525 Westminster SWB",
           "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "land-rover",
+      "model": "Range Rover Sport P400 Dynamic SE",
+      "count": 5,
+      "file": "inventory/used-land-rover-range-rover-sport-p400-dynamic-se.json",
+      "models": [
+        {
+          "model": "Range Rover Sport P400 Dynamic SE",
+          "count": 5
         }
       ]
     },
@@ -711,19 +711,6 @@
         {
           "model": "Range Rover SportDIESEL Td6 HSE 4dr 4x4",
           "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "land-rover",
-      "model": "Defender 110 S - Executive Demo",
-      "count": 2,
-      "file": "inventory/used-land-rover-defender-110-s-executive-demo.json",
-      "models": [
-        {
-          "model": "Defender 110 S - Executive Demo",
-          "count": 2
         }
       ]
     }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T04:03:47+00:00",
-  "snapshot": "2026-10-15T04:03:47+00:00",
+  "generated_at": "2026-10-15T10:03:48+00:00",
+  "snapshot": "2026-10-15T10:03:48+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "kootenay-chrysler-dodge-jeep-ram-ltd-jf1vbaa65p9819767",
@@ -29,6 +29,29 @@
       "city": "Trail",
       "province": "BC",
       "dealer_name": "Kootenay Chrysler Dodge Jeep Ram Ltd."
+    },
+    {
+      "pub_id": "a-m-ford-sales-limited-jf1vbaw6xr9813166",
+      "year": 2024,
+      "make": "Subaru",
+      "model": "WRX",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 38988.0,
+      "price_note": null,
+      "dealer_id": "a-m-ford-sales-limited",
+      "vin": "JF1VBAW6XR9813166",
+      "stock": 14218702,
+      "listing_url": "https://www.amford.com/used/2024-Subaru-WRX.html",
+      "dealer_url": "https://www.amford.com/used/2024-Subaru-WRX.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-10T20:52:48",
+      "snapshot": "2026-10-14T23:29:49",
+      "go_url": "https://carwhisper.ca/go/a-m-ford-sales-limited-jf1vbaw6xr9813166",
+      "region": "Kootenays",
+      "city": "Trail",
+      "province": "BC",
+      "dealer_name": "A.M. Ford Sales Limited"
     },
     {
       "pub_id": "integrity-subaru-jf1vbaz69s9800393",

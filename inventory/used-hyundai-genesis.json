@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T04:03:47+00:00",
-  "snapshot": "2026-10-15T04:03:47+00:00",
+  "generated_at": "2026-10-15T10:03:48+00:00",
+  "snapshot": "2026-10-15T10:03:48+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "brown-bros-ford-lincoln-kmhhu6kj0fu125982",
@@ -26,12 +26,40 @@
       "listing_url": "https://www.brownbrosford.com/inventory/2015-hyundai-genesis-coupe-gt-1NVWGDB5RtyXvkcBXIyRJgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2015-hyundai-genesis-coupe-gt-1NVWGDB5RtyXvkcBXIyRJgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:37:51",
-      "snapshot": "2026-10-10T22:12:04",
+      "snapshot": "2026-10-15T00:34:16",
       "go_url": "https://carwhisper.ca/go/brown-bros-ford-lincoln-kmhhu6kj0fu125982",
       "region": "Lower Mainland",
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Brown Bros Ford Lincoln"
+    },
+    {
+      "pub_id": "brian-jessel-bmw-kmhgn4je2gu121211",
+      "year": 2016,
+      "make": "Hyundai",
+      "model": "Genesis",
+      "body_type": "sedan",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 110000,
+      "price_cad": 18888.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/b290bbe8-b059-4daa-bb93-aebc762ecb77_24ce7468-2e2e-4204-89fb-6ad0c5dd5ef5.jpg?promo=9e584cfe-2897-4a08-b166-a6186c7c566a_1&overlay-type=tadv",
+      "dealer_id": "brian-jessel-bmw",
+      "vin": "KMHGN4JE2GU121211",
+      "stock": "B1152A",
+      "listing_url": "https://www.brianjesselbmw.com/vehicles/2016/hyundai/genesis-sedan/vancouver/bc/ad13255582/?sale_class=used",
+      "dealer_url": "https://www.brianjesselbmw.com/vehicles/2016/hyundai/genesis-sedan/vancouver/bc/ad13255582/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T00:53:19",
+      "snapshot": "2026-10-15T00:57:07",
+      "go_url": "https://carwhisper.ca/go/brian-jessel-bmw-kmhgn4je2gu121211",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Brian Jessel BMW"
     }
   ]
 }

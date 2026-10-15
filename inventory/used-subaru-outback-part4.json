@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T04:03:47+00:00",
-  "snapshot": "2026-10-15T04:03:47+00:00",
+  "generated_at": "2026-10-15T10:03:48+00:00",
+  "snapshot": "2026-10-15T10:03:48+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 28,
   "vehicles": [
@@ -336,6 +336,36 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Kelowna Subaru"
+    },
+    {
+      "pub_id": "bannister-kia-penticton-4s4btdec2n3105313",
+      "year": 2022,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": "Touring CVT",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 106697,
+      "price_cad": 26995.0,
+      "price_note": null,
+      "color": "Gray",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/trim/PEXJ7LUYCFCFZGLHCFFL7R4AOU.webp",
+      "dealer_id": "bannister-kia-penticton",
+      "vin": "4S4BTDEC2N3105313",
+      "stock": "5926PK213",
+      "listing_url": "https://www.bannisterkiapenticton.com/inventory/2022-subaru-outback-touring-DjlFur99QtmqptIFL5OL7wvdp",
+      "dealer_url": "https://www.bannisterkiapenticton.com/inventory/2022-subaru-outback-touring-DjlFur99QtmqptIFL5OL7wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:14:45",
+      "snapshot": "2026-10-15T01:18:26",
+      "go_url": "https://carwhisper.ca/go/bannister-kia-penticton-4s4btdec2n3105313",
+      "region": "Okanagan",
+      "city": "Penticton",
+      "province": "BC",
+      "dealer_name": "Bannister Kia Penticton"
     },
     {
       "pub_id": "kelowna-subaru-4s4bthpd5m3134185",
@@ -699,32 +729,6 @@
       "city": "Vernon",
       "province": "BC",
       "dealer_name": "Hilltop Subaru"
-    },
-    {
-      "pub_id": "kelowna-subaru-4s4bthtd2s3105679",
-      "year": 2025,
-      "make": "Subaru",
-      "model": "Outback",
-      "propulsion": "gas",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
-      "condition": "used",
-      "odometer_km": 45094,
-      "price_cad": 42998.0,
-      "price_note": null,
-      "photo_url": "https://www.kelownasubaru.com/wp-content/themes/convertus-achilles/achilles/assets/images/srp-placeholder/PV.jpg",
-      "dealer_id": "kelowna-subaru",
-      "vin": "4S4BTHTD2S3105679",
-      "stock": "KN26490",
-      "listing_url": "https://www.kelownasubaru.com/vehicles/2025/subaru/outback/kelowna/bc/71426320/?sale_class=used",
-      "dealer_url": "https://www.kelownasubaru.com/vehicles/2025/subaru/outback/kelowna/bc/71426320/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T07:41:18",
-      "snapshot": "2026-10-10T09:18:55",
-      "go_url": "https://carwhisper.ca/go/kelowna-subaru-4s4bthtd2s3105679",
-      "region": "Okanagan",
-      "city": "Kelowna",
-      "province": "BC",
-      "dealer_name": "Kelowna Subaru"
     }
   ]
 }

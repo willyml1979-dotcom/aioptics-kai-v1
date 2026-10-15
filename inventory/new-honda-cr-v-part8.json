@@ -1,9 +1,34 @@
 {
-  "generated_at": "2026-10-15T04:03:47+00:00",
-  "snapshot": "2026-10-15T04:03:47+00:00",
+  "generated_at": "2026-10-15T10:03:48+00:00",
+  "snapshot": "2026-10-15T10:03:48+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 31,
   "vehicles": [
+    {
+      "pub_id": "north-shore-honda-2hkrs6h76vh200381",
+      "year": 2027,
+      "make": "Honda",
+      "model": "CR-V",
+      "trim": "EX-L HYBRID",
+      "propulsion": "hybrid",
+      "propulsion_source": "model_trim_name",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "north-shore-honda",
+      "vin": "2HKRS6H76VH200381",
+      "stock": "H127103",
+      "listing_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39191893?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39191893?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:11:04",
+      "snapshot": "2026-09-26T20:16:29",
+      "go_url": "https://carwhisper.ca/go/north-shore-honda-2hkrs6h76vh200381",
+      "region": "Lower Mainland",
+      "city": "North Vancouver",
+      "province": "BC",
+      "dealer_name": "North Shore Honda"
+    },
     {
       "pub_id": "north-shore-honda-2hkrs6h76vh200378",
       "year": 2027,
@@ -811,30 +836,6 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Harmony Honda"
-    },
-    {
-      "pub_id": "harmony-acura-2hkrs6h67th219378",
-      "year": 2026,
-      "make": "Honda",
-      "model": "CR-V",
-      "propulsion": "hybrid",
-      "propulsion_source": "model_trim_name",
-      "propulsion_confidence": "high",
-      "condition": "new",
-      "price_cad": 46990.0,
-      "price_note": null,
-      "dealer_id": "harmony-acura",
-      "vin": "2HKRS6H67TH219378",
-      "stock": 14393901,
-      "listing_url": "https://www.harmonyacura.com/used/2026-Honda-CR_V_Hybrid.html",
-      "dealer_url": "https://www.harmonyacura.com/used/2026-Honda-CR_V_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T08:25:44",
-      "snapshot": "2026-10-10T05:01:16",
-      "go_url": "https://carwhisper.ca/go/harmony-acura-2hkrs6h67th219378",
-      "region": "Okanagan",
-      "city": "Kelowna",
-      "province": "BC",
-      "dealer_name": "Harmony Acura"
     }
   ]
 }

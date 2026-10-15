@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T04:03:47+00:00",
+  "generated_at": "2026-10-15T10:03:48+00:00",
   "condition": "used",
   "make": "jeep",
   "files": [
@@ -26,12 +26,12 @@
       "make": "jeep",
       "model": "GRAND CHEROKEE",
       "shard": "Lower Mainland",
-      "count": 26,
+      "count": 25,
       "file": "inventory/used-jeep-grand-cherokee-lower-mainland.json",
       "models": [
         {
           "model": "Grand Cherokee",
-          "count": 26
+          "count": 25
         }
       ]
     },
@@ -90,12 +90,12 @@
       "make": "jeep",
       "model": "GRAND CHEROKEE",
       "shard": "Vancouver Island",
-      "count": 20,
+      "count": 19,
       "file": "inventory/used-jeep-grand-cherokee-vancouver-island.json",
       "models": [
         {
           "model": "Grand Cherokee",
-          "count": 20
+          "count": 19
         }
       ]
     },
@@ -104,7 +104,7 @@
       "make": "jeep",
       "model": "GRAND CHEROKEE",
       "shard": "sin-region",
-      "count": 29,
+      "count": 27,
       "file": "inventory/used-jeep-grand-cherokee-sin-region.json",
       "models": [
         {
@@ -113,7 +113,7 @@
         },
         {
           "model": "Grand Cherokee",
-          "count": 28
+          "count": 26
         }
       ]
     },
@@ -144,12 +144,8 @@
       "file": "inventory/used-jeep-wrangler-part2.json",
       "models": [
         {
-          "model": "WRANGLER",
-          "count": 1
-        },
-        {
           "model": "Wrangler",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -163,11 +159,11 @@
       "models": [
         {
           "model": "WRANGLER",
-          "count": 1
+          "count": 2
         },
         {
           "model": "Wrangler",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -208,7 +204,7 @@
       "make": "jeep",
       "model": "Wrangler",
       "shard": "part6",
-      "count": 24,
+      "count": 25,
       "file": "inventory/used-jeep-wrangler-part6.json",
       "models": [
         {
@@ -217,7 +213,7 @@
         },
         {
           "model": "Wrangler",
-          "count": 23
+          "count": 24
         }
       ]
     },
@@ -225,12 +221,12 @@
       "condition": "used",
       "make": "jeep",
       "model": "Wrangler Unlimited",
-      "count": 7,
+      "count": 6,
       "file": "inventory/used-jeep-wrangler-unlimited.json",
       "models": [
         {
           "model": "Wrangler Unlimited",
-          "count": 7
+          "count": 6
         }
       ]
     },
@@ -359,12 +355,12 @@
       "make": "jeep",
       "model": "COMPASS",
       "shard": "Thompson-Okanagan",
-      "count": 4,
+      "count": 5,
       "file": "inventory/used-jeep-compass-thompson-okanagan.json",
       "models": [
         {
           "model": "Compass",
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -387,12 +383,25 @@
       "make": "jeep",
       "model": "COMPASS",
       "shard": "sin-region",
-      "count": 25,
+      "count": 24,
       "file": "inventory/used-jeep-compass-sin-region.json",
       "models": [
         {
           "model": "Compass",
-          "count": 25
+          "count": 24
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Grand Cherokee L",
+      "count": 32,
+      "file": "inventory/used-jeep-grand-cherokee-l.json",
+      "models": [
+        {
+          "model": "Grand Cherokee L",
+          "count": 32
         }
       ]
     },
@@ -502,12 +511,12 @@
       "condition": "used",
       "make": "jeep",
       "model": "Grand Cherokee 4xe",
-      "count": 23,
+      "count": 26,
       "file": "inventory/used-jeep-grand-cherokee-4xe.json",
       "models": [
         {
           "model": "Grand Cherokee 4xe",
-          "count": 23
+          "count": 26
         }
       ]
     },
@@ -530,12 +539,12 @@
       "make": "jeep",
       "model": "CHEROKEE",
       "shard": "Lower Mainland",
-      "count": 20,
+      "count": 21,
       "file": "inventory/used-jeep-cherokee-lower-mainland.json",
       "models": [
         {
           "model": "Cherokee",
-          "count": 20
+          "count": 21
         }
       ]
     },
@@ -562,7 +571,7 @@
       "make": "jeep",
       "model": "CHEROKEE",
       "shard": "Okanagan",
-      "count": 16,
+      "count": 17,
       "file": "inventory/used-jeep-cherokee-okanagan.json",
       "models": [
         {
@@ -571,7 +580,7 @@
         },
         {
           "model": "Cherokee",
-          "count": 13
+          "count": 14
         }
       ]
     },
@@ -778,19 +787,6 @@
         {
           "model": "Wrangler 2 Door",
           "count": 6
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "jeep",
-      "model": "Grand Cherokee L",
-      "count": 31,
-      "file": "inventory/used-jeep-grand-cherokee-l.json",
-      "models": [
-        {
-          "model": "Grand Cherokee L",
-          "count": 31
         }
       ]
     },
@@ -1032,6 +1028,19 @@
         },
         {
           "model": "Wrangler JK",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Grand CherokeeLimited",
+      "count": 1,
+      "file": "inventory/used-jeep-grand-cherokeelimited.json",
+      "models": [
+        {
+          "model": "Grand CherokeeLimited",
           "count": 1
         }
       ]

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T04:03:47+00:00",
-  "snapshot": "2026-10-15T04:03:47+00:00",
+  "generated_at": "2026-10-15T10:03:48+00:00",
+  "snapshot": "2026-10-15T10:03:48+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 8,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "applewood-kia-langley-knagn4a75b5232633",
@@ -33,34 +33,6 @@
       "city": "Langley",
       "province": "BC",
       "dealer_name": "Applewood Kia - Langley"
-    },
-    {
-      "pub_id": "burrard-acura-knagn4a79f5611107",
-      "year": 2015,
-      "make": "Kia",
-      "model": "Optima",
-      "trim": "EX",
-      "drivetrain": "FWD",
-      "propulsion": "unknown",
-      "propulsion_source": null,
-      "condition": "used",
-      "odometer_km": 64859,
-      "price_cad": 12115.0,
-      "price_note": null,
-      "color": "black",
-      "photo_url": "https://img.sm360.ca/images/inventory/mercedes-benz-boundary/kia/optima/2015/38804546/38804546_08251_0a8aceae874ebad7717c1fd19e36d64e.jpeg",
-      "dealer_id": "burrard-acura",
-      "vin": "KNAGN4A79F5611107",
-      "stock": "6T3835A",
-      "listing_url": "https://www.burrardacura.ca/en/used-inventory/kia/optima/2015-kia-optima-id38804546",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/kia/optima/2015-kia-optima-id38804546?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T20:23:15",
-      "snapshot": "2026-10-13T21:31:43",
-      "go_url": "https://carwhisper.ca/go/burrard-acura-knagn4a79f5611107",
-      "region": "Lower Mainland",
-      "city": "Vancouver",
-      "province": "BC",
-      "dealer_name": "Burrard Acura"
     },
     {
       "pub_id": "mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-knagn4a79f5611107",
@@ -194,33 +166,6 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Duncan Hyundai"
-    },
-    {
-      "pub_id": "pacific-honda-knagn4a79f5611107",
-      "year": 2015,
-      "make": "Kia",
-      "model": "Optima",
-      "trim": "EX",
-      "drivetrain": "FWD",
-      "propulsion": "unknown",
-      "propulsion_source": null,
-      "condition": "used",
-      "odometer_km": 64859,
-      "price_cad": 12115.0,
-      "price_note": null,
-      "color": "black",
-      "photo_url": "https://img.sm360.ca/images/inventory/mercedes-benz-boundary/kia/optima/2015/38804546/38804546_08251_0a8aceae874ebad7717c1fd19e36d64e.jpeg",
-      "dealer_id": "pacific-honda",
-      "vin": "KNAGN4A79F5611107",
-      "stock": "6T3835A",
-      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/kia/optima/2015-kia-optima-id38804546",
-      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/kia/optima/2015-kia-optima-id38804546?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T19:50:22",
-      "snapshot": "2026-10-13T21:30:55",
-      "go_url": "https://carwhisper.ca/go/pacific-honda-knagn4a79f5611107",
-      "city": null,
-      "province": "BC",
-      "dealer_name": "Pacific Honda"
     }
   ]
 }

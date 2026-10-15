@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T04:03:47+00:00",
+  "generated_at": "2026-10-15T10:03:48+00:00",
   "condition": "new",
   "make": "toyota",
   "files": [
@@ -663,14 +663,27 @@
     {
       "condition": "new",
       "make": "toyota",
+      "model": "Grand Highlander",
+      "count": 20,
+      "file": "inventory/new-toyota-grand-highlander.json",
+      "models": [
+        {
+          "model": "Grand Highlander",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "toyota",
       "model": "4Runner",
       "shard": "Kootenays",
-      "count": 3,
+      "count": 2,
       "file": "inventory/new-toyota-4runner-kootenays.json",
       "models": [
         {
           "model": "4Runner",
-          "count": 3
+          "count": 2
         }
       ]
     },
@@ -741,19 +754,6 @@
         {
           "model": "4Runner",
           "count": 11
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "toyota",
-      "model": "Grand Highlander",
-      "count": 20,
-      "file": "inventory/new-toyota-grand-highlander.json",
-      "models": [
-        {
-          "model": "Grand Highlander",
-          "count": 20
         }
       ]
     },

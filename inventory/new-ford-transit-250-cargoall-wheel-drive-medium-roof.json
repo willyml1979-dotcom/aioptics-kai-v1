@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T04:03:47+00:00",
-  "snapshot": "2026-10-15T04:03:47+00:00",
+  "generated_at": "2026-10-15T10:03:48+00:00",
+  "snapshot": "2026-10-15T10:03:48+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "cam-clark-ford-richmond-ltd-1ftbr2c85tka30423",
@@ -28,6 +28,31 @@
       "city": "Richmond",
       "province": "BC",
       "dealer_name": "Cam Clark Ford Richmond Ltd."
+    },
+    {
+      "pub_id": "dearborn-motors-ltd-1ftbr2c85tka30423",
+      "year": 2026,
+      "make": "Ford",
+      "model": "TRANSIT-250 CARGOALL-WHEEL DRIVE MEDIUM ROOF",
+      "body_type": "van",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": 78375.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "dearborn-motors-ltd",
+      "vin": "1FTBR2C85TKA30423",
+      "stock": "26T0423",
+      "listing_url": "https://www.dearbornford.com/new/vehicle/2026-ford-transit-250-cargo-base-id14869208.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-transit-250-cargo-base-id14869208.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-14T21:36:16",
+      "snapshot": "2026-10-14T23:07:48",
+      "go_url": "https://carwhisper.ca/go/dearborn-motors-ltd-1ftbr2c85tka30423",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Dearborn Motors Ltd."
     },
     {
       "pub_id": "kamloops-ford-lincoln-ltd-1ftbr2c85tka30423",
