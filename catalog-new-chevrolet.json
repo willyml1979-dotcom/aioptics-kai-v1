@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T10:03:48+00:00",
+  "generated_at": "2026-10-15T16:03:49+00:00",
   "condition": "new",
   "make": "chevrolet",
   "files": [
@@ -103,11 +103,11 @@
       "models": [
         {
           "model": "TrailBlazer",
-          "count": 4
+          "count": 3
         },
         {
           "model": "Trailblazer",
-          "count": 12
+          "count": 13
         }
       ]
     },
@@ -246,12 +246,12 @@
       "make": "chevrolet",
       "model": "Bolt",
       "shard": "part9",
-      "count": 24,
+      "count": 22,
       "file": "inventory/new-chevrolet-bolt-part9.json",
       "models": [
         {
           "model": "Bolt",
-          "count": 24
+          "count": 22
         }
       ]
     },
@@ -328,12 +328,12 @@
       "make": "chevrolet",
       "model": "Equinox EV",
       "shard": "part4",
-      "count": 31,
+      "count": 30,
       "file": "inventory/new-chevrolet-equinox-ev-part4.json",
       "models": [
         {
           "model": "Equinox EV",
-          "count": 31
+          "count": 30
         }
       ]
     },
@@ -465,12 +465,12 @@
       "make": "chevrolet",
       "model": "Traverse",
       "shard": "part1",
-      "count": 31,
+      "count": 24,
       "file": "inventory/new-chevrolet-traverse-part1.json",
       "models": [
         {
           "model": "Traverse",
-          "count": 31
+          "count": 24
         }
       ]
     },
@@ -479,12 +479,12 @@
       "make": "chevrolet",
       "model": "Traverse",
       "shard": "part2",
-      "count": 31,
+      "count": 24,
       "file": "inventory/new-chevrolet-traverse-part2.json",
       "models": [
         {
           "model": "Traverse",
-          "count": 31
+          "count": 24
         }
       ]
     },
@@ -493,12 +493,26 @@
       "make": "chevrolet",
       "model": "Traverse",
       "shard": "part3",
-      "count": 31,
+      "count": 24,
       "file": "inventory/new-chevrolet-traverse-part3.json",
       "models": [
         {
           "model": "Traverse",
-          "count": 31
+          "count": 24
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Traverse",
+      "shard": "part4",
+      "count": 23,
+      "file": "inventory/new-chevrolet-traverse-part4.json",
+      "models": [
+        {
+          "model": "Traverse",
+          "count": 23
         }
       ]
     },
@@ -709,12 +723,12 @@
       "make": "chevrolet",
       "model": "Trax",
       "shard": "part8",
-      "count": 28,
+      "count": 26,
       "file": "inventory/new-chevrolet-trax-part8.json",
       "models": [
         {
           "model": "Trax",
-          "count": 28
+          "count": 26
         }
       ]
     },
@@ -1115,12 +1129,12 @@
       "make": "chevrolet",
       "model": "Silverado 1500",
       "shard": "part19",
-      "count": 27,
+      "count": 29,
       "file": "inventory/new-chevrolet-silverado-1500-part19.json",
       "models": [
         {
           "model": "Silverado 1500",
-          "count": 27
+          "count": 29
         }
       ]
     },
@@ -1181,12 +1195,12 @@
       "make": "chevrolet",
       "model": "Silverado 3500",
       "shard": "part1",
-      "count": 30,
+      "count": 31,
       "file": "inventory/new-chevrolet-silverado-3500-part1.json",
       "models": [
         {
           "model": "Silverado 3500",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -1195,12 +1209,12 @@
       "make": "chevrolet",
       "model": "Silverado 3500",
       "shard": "part2",
-      "count": 30,
+      "count": 31,
       "file": "inventory/new-chevrolet-silverado-3500-part2.json",
       "models": [
         {
           "model": "Silverado 3500",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -1209,12 +1223,12 @@
       "make": "chevrolet",
       "model": "Silverado 3500",
       "shard": "part3",
-      "count": 30,
+      "count": 31,
       "file": "inventory/new-chevrolet-silverado-3500-part3.json",
       "models": [
         {
           "model": "Silverado 3500",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -1223,12 +1237,12 @@
       "make": "chevrolet",
       "model": "Silverado 3500",
       "shard": "part4",
-      "count": 30,
+      "count": 31,
       "file": "inventory/new-chevrolet-silverado-3500-part4.json",
       "models": [
         {
           "model": "Silverado 3500",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -1237,12 +1251,12 @@
       "make": "chevrolet",
       "model": "Silverado 3500",
       "shard": "part5",
-      "count": 30,
+      "count": 28,
       "file": "inventory/new-chevrolet-silverado-3500-part5.json",
       "models": [
         {
           "model": "Silverado 3500",
-          "count": 30
+          "count": 28
         }
       ]
     },
@@ -1250,12 +1264,12 @@
       "condition": "new",
       "make": "chevrolet",
       "model": "Silverado EV",
-      "count": 6,
+      "count": 7,
       "file": "inventory/new-chevrolet-silverado-ev.json",
       "models": [
         {
           "model": "Silverado EV",
-          "count": 6
+          "count": 7
         }
       ]
     },
@@ -1960,19 +1974,6 @@
     {
       "condition": "new",
       "make": "chevrolet",
-      "model": "SILVERADO 2500HDWORK TRUCK 4X4 CREW CAB 8 FT. BOX (1WT)",
-      "count": 1,
-      "file": "inventory/new-chevrolet-silverado-2500hdwork-truck-4x4-crew-cab-8-ft-box-1wt.json",
-      "models": [
-        {
-          "model": "SILVERADO 2500HDWORK TRUCK 4X4 CREW CAB 8 FT. BOX (1WT)",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "chevrolet",
       "model": "SILVERADO 3500HDWORK TRUCK 4X4 CREW CAB 8 FT. BOX SRW (1WT)",
       "count": 1,
       "file": "inventory/new-chevrolet-silverado-3500hdwork-truck-4x4-crew-cab-8-ft-box-srw-1wt.json",
@@ -2038,13 +2039,26 @@
     {
       "condition": "new",
       "make": "chevrolet",
+      "model": "TAHOEZ71 4DR 4X4 (2Z7)",
+      "count": 1,
+      "file": "inventory/new-chevrolet-tahoez71-4dr-4x4-2z7.json",
+      "models": [
+        {
+          "model": "TAHOEZ71 4DR 4X4 (2Z7)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
       "model": "SILVERADO 3500HDLT 4X4 CREW CAB 6.75 FT. BOX SRW (1LT)",
-      "count": 2,
+      "count": 1,
       "file": "inventory/new-chevrolet-silverado-3500hdlt-4x4-crew-cab-6-75-ft-box-srw-1lt.json",
       "models": [
         {
           "model": "SILVERADO 3500HDLT 4X4 CREW CAB 6.75 FT. BOX SRW (1LT)",
-          "count": 2
+          "count": 1
         }
       ]
     },
@@ -2065,12 +2079,12 @@
       "condition": "new",
       "make": "chevrolet",
       "model": "SILVERADO 3500HDLTZ 4X4 CREW CAB 6.75 FT. BOX SRW (1LZ)",
-      "count": 2,
+      "count": 1,
       "file": "inventory/new-chevrolet-silverado-3500hdltz-4x4-crew-cab-6-75-ft-box-srw-1lz.json",
       "models": [
         {
           "model": "SILVERADO 3500HDLTZ 4X4 CREW CAB 6.75 FT. BOX SRW (1LZ)",
-          "count": 2
+          "count": 1
         }
       ]
     },

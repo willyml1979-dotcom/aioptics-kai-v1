@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T10:03:48+00:00",
-  "snapshot": "2026-10-15T10:03:48+00:00",
+  "generated_at": "2026-10-15T16:03:49+00:00",
+  "snapshot": "2026-10-15T16:03:49+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 1,
   "vehicles": [
     {
       "pub_id": "carter-gm-northshore-1gcwgaf70s1219635",
@@ -31,35 +31,6 @@
       "city": "North Vancouver",
       "province": "BC",
       "dealer_name": "Carter GM Northshore"
-    },
-    {
-      "pub_id": "island-ford-1gcgg25v651157110",
-      "year": 2005,
-      "make": "Chevrolet",
-      "model": "Express 2500",
-      "body_type": "van",
-      "drivetrain": "RWD",
-      "propulsion": "gas",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
-      "condition": "used",
-      "odometer_km": 339000,
-      "price_cad": 999.0,
-      "price_note": null,
-      "color": "White",
-      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/1abcc26c-fb3f-46f8-af66-4561f522d261_05853709-772c-44da-935b-a20b336127c5.jpg",
-      "dealer_id": "island-ford",
-      "vin": "1GCGG25V651157110",
-      "stock": "26039BV",
-      "listing_url": "https://www.islandford.ca/vehicles/2005/chevrolet/express-2500/duncan/bc/70576666/?sale_class=used",
-      "dealer_url": "https://www.islandford.ca/vehicles/2005/chevrolet/express-2500/duncan/bc/70576666/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T09:41:44",
-      "snapshot": "2026-10-10T05:42:20",
-      "go_url": "https://carwhisper.ca/go/island-ford-1gcgg25v651157110",
-      "region": "Vancouver Island",
-      "city": "Duncan",
-      "province": "BC",
-      "dealer_name": "Island Ford"
     }
   ]
 }

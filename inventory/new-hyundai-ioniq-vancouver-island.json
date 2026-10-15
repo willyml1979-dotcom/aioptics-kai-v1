@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T10:03:48+00:00",
-  "snapshot": "2026-10-15T10:03:48+00:00",
+  "generated_at": "2026-10-15T16:03:49+00:00",
+  "snapshot": "2026-10-15T16:03:49+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "victoria-hyundai-km8mwfs38ta009212",
@@ -72,7 +72,7 @@
       "listing_url": "https://www.duncanhyundai.net/used/2026-Hyundai-IONIQ_9.html",
       "dealer_url": "https://www.duncanhyundai.net/used/2026-Hyundai-IONIQ_9.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T23:56:31",
-      "snapshot": "2026-10-11T01:16:59",
+      "snapshot": "2026-10-15T05:11:09",
       "go_url": "https://carwhisper.ca/go/duncan-hyundai-km8myfs57ta001923",
       "region": "Vancouver Island",
       "city": "Duncan",
@@ -103,6 +103,34 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Victoria Hyundai"
+    },
+    {
+      "pub_id": "campbell-river-hyundai-km8myfs57va030955",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Ioniq",
+      "trim": "9",
+      "propulsion": "electric",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 15,
+      "price_cad": 86348.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://www.campbellriverhyundai.com/wp-content/themes/convertus-achilles/achilles/assets/images/srp-placeholder/PV.jpg",
+      "dealer_id": "campbell-river-hyundai",
+      "vin": "KM8MYFS57VA030955",
+      "stock": "N26150",
+      "listing_url": "https://www.campbellriverhyundai.com/vehicles/2027/hyundai/ioniq-9/campbell-river/bc/ad13254847/?sale_class=new",
+      "dealer_url": "https://www.campbellriverhyundai.com/vehicles/2027/hyundai/ioniq-9/campbell-river/bc/ad13254847/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T04:57:24",
+      "snapshot": "2026-10-15T04:59:51",
+      "go_url": "https://carwhisper.ca/go/campbell-river-hyundai-km8myfs57va030955",
+      "region": "Vancouver Island",
+      "city": "Campbell River",
+      "province": "BC",
+      "dealer_name": "Campbell River Hyundai"
     }
   ]
 }

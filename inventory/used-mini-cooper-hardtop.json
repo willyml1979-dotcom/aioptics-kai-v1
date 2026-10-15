@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T10:03:48+00:00",
-  "snapshot": "2026-10-15T10:03:48+00:00",
+  "generated_at": "2026-10-15T16:03:49+00:00",
+  "snapshot": "2026-10-15T16:03:49+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "auto-west-bmw-wmwsu9c54dt379420",
@@ -51,30 +51,6 @@
       "city": "Surrey",
       "province": "BC",
       "dealer_name": "OpenRoad Mercedes Benz Surrey"
-    },
-    {
-      "pub_id": "duncan-hyundai-wmwmf3c52atz64623",
-      "year": 2010,
-      "make": "MINI",
-      "model": "Cooper Hardtop",
-      "propulsion": "unknown",
-      "propulsion_source": null,
-      "condition": "used",
-      "price_cad": 3888.0,
-      "price_note": null,
-      "color": "White",
-      "dealer_id": "duncan-hyundai",
-      "vin": "WMWMF3C52ATZ64623",
-      "stock": 14012083,
-      "listing_url": "https://www.duncanhyundai.net/used/2010-MINI-Cooper_Hardtop.html",
-      "dealer_url": "https://www.duncanhyundai.net/used/2010-MINI-Cooper_Hardtop.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T22:38:50",
-      "snapshot": "2026-10-11T01:16:59",
-      "go_url": "https://carwhisper.ca/go/duncan-hyundai-wmwmf3c52atz64623",
-      "region": "Vancouver Island",
-      "city": "Duncan",
-      "province": "BC",
-      "dealer_name": "Duncan Hyundai"
     }
   ]
 }

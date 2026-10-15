@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T10:03:48+00:00",
-  "snapshot": "2026-10-15T10:03:48+00:00",
+  "generated_at": "2026-10-15T16:03:49+00:00",
+  "snapshot": "2026-10-15T16:03:49+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "sullivan-motor-products-nelson-ltd-zaspatdwxr3036077",
@@ -115,6 +115,34 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Alfa Romeo of Vancouver / FIAT of Vancouver"
+    },
+    {
+      "pub_id": "duncan-chrysler-dodge-jeep-ram-ltd-zarfaecn9h7561902",
+      "year": 2017,
+      "make": "Alfa Romeo",
+      "model": "Giulia",
+      "body_type": "sedan",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 87164,
+      "price_cad": 23500.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/abe14cbd-760f-4404-87e8-ea8b48fd7715_7c8e7096-5705-424b-ae39-ed53ab4b5e33.jpg",
+      "dealer_id": "duncan-chrysler-dodge-jeep-ram-ltd",
+      "vin": "ZARFAECN9H7561902",
+      "stock": "FP93960",
+      "listing_url": "https://www.duncandodge.ca/vehicles/2017/alfa-romeo/giulia/duncan/bc/ad13274505/?sale_class=used",
+      "dealer_url": "https://www.duncandodge.ca/vehicles/2017/alfa-romeo/giulia/duncan/bc/ad13274505/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T05:49:48",
+      "snapshot": "2026-10-15T05:50:01",
+      "go_url": "https://carwhisper.ca/go/duncan-chrysler-dodge-jeep-ram-ltd-zarfaecn9h7561902",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Chrysler Dodge Jeep Ram Ltd."
     },
     {
       "pub_id": "tacoma-dodge-chrysler-jeep-ram-zarfaeav2h7530347",

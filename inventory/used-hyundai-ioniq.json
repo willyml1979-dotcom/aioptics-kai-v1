@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T10:03:48+00:00",
-  "snapshot": "2026-10-15T10:03:48+00:00",
+  "generated_at": "2026-10-15T16:03:49+00:00",
+  "snapshot": "2026-10-15T16:03:49+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 11,
+  "count": 12,
   "vehicles": [
     {
       "pub_id": "richmond-hyundai-kmhc85lh1ku034511",
@@ -167,6 +167,32 @@
       "dealer_name": "Penticton Nissan"
     },
     {
+      "pub_id": "duncan-hyundai-kmhc05lj9lu062343",
+      "year": 2020,
+      "make": "Hyundai",
+      "model": "Ioniq",
+      "trim": "Electric",
+      "propulsion": "electric",
+      "propulsion_source": "model_trim_name",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "price_cad": 15995.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "duncan-hyundai",
+      "vin": "KMHC05LJ9LU062343",
+      "stock": 14516719,
+      "listing_url": "https://www.duncanhyundai.net/used/2020-Hyundai-IONIQ_Electric.html",
+      "dealer_url": "https://www.duncanhyundai.net/used/2020-Hyundai-IONIQ_Electric.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T05:06:49",
+      "snapshot": "2026-10-15T05:11:09",
+      "go_url": "https://carwhisper.ca/go/duncan-hyundai-kmhc05lj9lu062343",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Hyundai"
+    },
+    {
       "pub_id": "duncan-hyundai-kmhc75lc5lu202921",
       "year": 2020,
       "make": "Hyundai",
@@ -185,7 +211,7 @@
       "listing_url": "https://www.duncanhyundai.net/used/2020-Hyundai-IONIQ_Hybrid.html",
       "dealer_url": "https://www.duncanhyundai.net/used/2020-Hyundai-IONIQ_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T23:11:55",
-      "snapshot": "2026-10-11T01:16:59",
+      "snapshot": "2026-10-15T05:11:09",
       "go_url": "https://carwhisper.ca/go/duncan-hyundai-kmhc75lc5lu202921",
       "region": "Vancouver Island",
       "city": "Duncan",

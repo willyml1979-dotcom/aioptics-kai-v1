@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T10:03:48+00:00",
-  "snapshot": "2026-10-15T10:03:48+00:00",
+  "generated_at": "2026-10-15T16:03:49+00:00",
+  "snapshot": "2026-10-15T16:03:49+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "okanagan-chrysler-dodge-jeep-ram-kmhlm4dg3su024719",
@@ -27,6 +27,30 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Okanagan Chrysler Dodge Jeep Ram"
+    },
+    {
+      "pub_id": "duncan-hyundai-kmhlm4dg3su024719",
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Accent",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": 24495.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "duncan-hyundai",
+      "vin": "KMHLM4DG3SU024719",
+      "stock": 14485042,
+      "listing_url": "https://www.duncanhyundai.net/used/2025-Hyundai-Accent.html",
+      "dealer_url": "https://www.duncanhyundai.net/used/2025-Hyundai-Accent.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T05:08:15",
+      "snapshot": "2026-10-15T05:11:09",
+      "go_url": "https://carwhisper.ca/go/duncan-hyundai-kmhlm4dg3su024719",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Hyundai"
     }
   ]
 }

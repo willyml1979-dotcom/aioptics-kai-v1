@@ -1,8 +1,64 @@
 {
-  "generated_at": "2026-10-15T10:03:48+00:00",
+  "generated_at": "2026-10-15T16:03:49+00:00",
   "condition": "new",
   "make": "volkswagen",
   "files": [
+    {
+      "condition": "new",
+      "make": "volkswagen",
+      "model": "Taos",
+      "shard": "part1",
+      "count": 28,
+      "file": "inventory/new-volkswagen-taos-part1.json",
+      "models": [
+        {
+          "model": "Taos",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "volkswagen",
+      "model": "Taos",
+      "shard": "part2",
+      "count": 28,
+      "file": "inventory/new-volkswagen-taos-part2.json",
+      "models": [
+        {
+          "model": "Taos",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "volkswagen",
+      "model": "Taos",
+      "shard": "part3",
+      "count": 28,
+      "file": "inventory/new-volkswagen-taos-part3.json",
+      "models": [
+        {
+          "model": "Taos",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "volkswagen",
+      "model": "Taos",
+      "shard": "part4",
+      "count": 26,
+      "file": "inventory/new-volkswagen-taos-part4.json",
+      "models": [
+        {
+          "model": "Taos",
+          "count": 26
+        }
+      ]
+    },
     {
       "condition": "new",
       "make": "volkswagen",
@@ -64,68 +120,12 @@
       "make": "volkswagen",
       "model": "Jetta",
       "shard": "part5",
-      "count": 28,
+      "count": 27,
       "file": "inventory/new-volkswagen-jetta-part5.json",
       "models": [
         {
           "model": "Jetta",
-          "count": 28
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "volkswagen",
-      "model": "Taos",
-      "shard": "part1",
-      "count": 28,
-      "file": "inventory/new-volkswagen-taos-part1.json",
-      "models": [
-        {
-          "model": "Taos",
-          "count": 28
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "volkswagen",
-      "model": "Taos",
-      "shard": "part2",
-      "count": 28,
-      "file": "inventory/new-volkswagen-taos-part2.json",
-      "models": [
-        {
-          "model": "Taos",
-          "count": 28
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "volkswagen",
-      "model": "Taos",
-      "shard": "part3",
-      "count": 28,
-      "file": "inventory/new-volkswagen-taos-part3.json",
-      "models": [
-        {
-          "model": "Taos",
-          "count": 28
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "volkswagen",
-      "model": "Taos",
-      "shard": "part4",
-      "count": 26,
-      "file": "inventory/new-volkswagen-taos-part4.json",
-      "models": [
-        {
-          "model": "Taos",
-          "count": 26
+          "count": 27
         }
       ]
     },
@@ -190,12 +190,12 @@
       "make": "volkswagen",
       "model": "Tiguan",
       "shard": "part5",
-      "count": 25,
+      "count": 27,
       "file": "inventory/new-volkswagen-tiguan-part5.json",
       "models": [
         {
           "model": "Tiguan",
-          "count": 25
+          "count": 27
         }
       ]
     },
@@ -327,12 +327,12 @@
       "make": "volkswagen",
       "model": "Atlas",
       "shard": "Lower Mainland",
-      "count": 16,
+      "count": 17,
       "file": "inventory/new-volkswagen-atlas-lower-mainland.json",
       "models": [
         {
           "model": "Atlas",
-          "count": 16
+          "count": 17
         }
       ]
     },
@@ -410,12 +410,12 @@
       "condition": "new",
       "make": "volkswagen",
       "model": "Golf R",
-      "count": 15,
+      "count": 14,
       "file": "inventory/new-volkswagen-golf-r.json",
       "models": [
         {
           "model": "Golf R",
-          "count": 15
+          "count": 14
         }
       ]
     },

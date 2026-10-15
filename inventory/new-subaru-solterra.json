@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T10:03:48+00:00",
-  "snapshot": "2026-10-15T10:03:48+00:00",
+  "generated_at": "2026-10-15T16:03:49+00:00",
+  "snapshot": "2026-10-15T16:03:49+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "jim-pattison-subaru-coquitlam-jtmadafc8va015511",
@@ -31,6 +31,30 @@
       "city": "Port Coquitlam",
       "province": "BC",
       "dealer_name": "Jim Pattison Subaru Coquitlam"
+    },
+    {
+      "pub_id": "jim-pattison-subaru-victoria-jtmadafc3va016632",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Solterra",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "White",
+      "dealer_id": "jim-pattison-subaru-victoria",
+      "vin": "JTMADAFC3VA016632",
+      "stock": "JP55040",
+      "listing_url": "https://www.jpsubaruvictoria.com/vehicles/2027/subaru/solterra/victoria/bc/71558210/?sale_class=new",
+      "dealer_url": "https://www.jpsubaruvictoria.com/vehicles/2027/subaru/solterra/victoria/bc/71558210/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T09:00:58",
+      "snapshot": "2026-10-15T09:04:05",
+      "go_url": "https://carwhisper.ca/go/jim-pattison-subaru-victoria-jtmadafc3va016632",
+      "region": "Vancouver Island",
+      "city": "Victoria",
+      "province": "BC",
+      "dealer_name": "Jim Pattison Subaru Victoria"
     },
     {
       "pub_id": "go-langley-subaru-jtmadafcxva015610",

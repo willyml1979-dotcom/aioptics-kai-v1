@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T10:03:48+00:00",
+  "generated_at": "2026-10-15T16:03:49+00:00",
   "condition": "used",
   "make": "mitsubishi",
   "files": [
@@ -62,12 +62,12 @@
       "condition": "used",
       "make": "mitsubishi",
       "model": "Mirage",
-      "count": 22,
+      "count": 23,
       "file": "inventory/used-mitsubishi-mirage.json",
       "models": [
         {
           "model": "Mirage",
-          "count": 22
+          "count": 23
         }
       ]
     },
@@ -122,12 +122,12 @@
       "make": "mitsubishi",
       "model": "Outlander",
       "shard": "part4",
-      "count": 24,
+      "count": 25,
       "file": "inventory/used-mitsubishi-outlander-part4.json",
       "models": [
         {
           "model": "OUTLANDER",
-          "count": 6
+          "count": 7
         },
         {
           "model": "Outlander",
@@ -321,25 +321,12 @@
     {
       "condition": "used",
       "make": "mitsubishi",
-      "model": "Outlander PHEVLE",
+      "model": "Outlander Plug-In HybridLE",
       "count": 1,
-      "file": "inventory/used-mitsubishi-outlander-phevle.json",
+      "file": "inventory/used-mitsubishi-outlander-plug-in-hybridle.json",
       "models": [
         {
-          "model": "Outlander PHEVLE",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mitsubishi",
-      "model": "Mirage ES CVT",
-      "count": 1,
-      "file": "inventory/used-mitsubishi-mirage-es-cvt.json",
-      "models": [
-        {
-          "model": "Mirage ES CVT",
+          "model": "Outlander Plug-In HybridLE",
           "count": 1
         }
       ]
@@ -386,6 +373,19 @@
     {
       "condition": "used",
       "make": "mitsubishi",
+      "model": "RVR ES AWC",
+      "count": 1,
+      "file": "inventory/used-mitsubishi-rvr-es-awc.json",
+      "models": [
+        {
+          "model": "RVR ES AWC",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
       "model": "OutlanderSE 4dr S-AWC",
       "count": 2,
       "file": "inventory/used-mitsubishi-outlanderse-4dr-s-awc.json",
@@ -406,6 +406,19 @@
         {
           "model": "Eclipse CrossES 4dr S-AWC",
           "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "Lancer Sedan SE",
+      "count": 1,
+      "file": "inventory/used-mitsubishi-lancer-sedan-se.json",
+      "models": [
+        {
+          "model": "Lancer Sedan SE",
+          "count": 1
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T10:03:48+00:00",
+  "generated_at": "2026-10-15T16:03:49+00:00",
   "condition": "new",
   "make": "mazda",
   "files": [
@@ -111,7 +111,11 @@
       "models": [
         {
           "model": "CX-5",
-          "count": 33
+          "count": 32
+        },
+        {
+          "model": "Cx 5",
+          "count": 1
         }
       ]
     },
@@ -134,12 +138,12 @@
       "make": "mazda",
       "model": "CX-5",
       "shard": "part10",
-      "count": 33,
+      "count": 31,
       "file": "inventory/new-mazda-cx-5-part10.json",
       "models": [
         {
           "model": "CX-5",
-          "count": 33
+          "count": 31
         }
       ]
     },
@@ -148,12 +152,12 @@
       "make": "mazda",
       "model": "Mazda3",
       "shard": "part1",
-      "count": 26,
+      "count": 28,
       "file": "inventory/new-mazda-mazda3-part1.json",
       "models": [
         {
           "model": "Mazda3",
-          "count": 26
+          "count": 28
         }
       ]
     },
@@ -162,12 +166,12 @@
       "make": "mazda",
       "model": "Mazda3",
       "shard": "part2",
-      "count": 26,
+      "count": 28,
       "file": "inventory/new-mazda-mazda3-part2.json",
       "models": [
         {
           "model": "Mazda3",
-          "count": 26
+          "count": 28
         }
       ]
     },
@@ -218,12 +222,12 @@
       "make": "mazda",
       "model": "Mazda3 Sport",
       "shard": "part3",
-      "count": 30,
+      "count": 28,
       "file": "inventory/new-mazda-mazda3-sport-part3.json",
       "models": [
         {
           "model": "Mazda3 Sport",
-          "count": 30
+          "count": 28
         }
       ]
     },
@@ -260,12 +264,12 @@
       "make": "mazda",
       "model": "CX-30",
       "shard": "part3",
-      "count": 31,
+      "count": 32,
       "file": "inventory/new-mazda-cx-30-part3.json",
       "models": [
         {
           "model": "CX-30",
-          "count": 31
+          "count": 32
         }
       ]
     },

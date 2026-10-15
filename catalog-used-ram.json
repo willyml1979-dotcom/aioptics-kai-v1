@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T10:03:48+00:00",
+  "generated_at": "2026-10-15T16:03:49+00:00",
   "condition": "used",
   "make": "ram",
   "files": [
@@ -152,7 +152,7 @@
       "make": "ram",
       "model": "1500 Classic",
       "shard": "Norte/Cariboo",
-      "count": 21,
+      "count": 22,
       "file": "inventory/used-ram-1500-classic-norte-cariboo.json",
       "models": [
         {
@@ -161,7 +161,7 @@
         },
         {
           "model": "1500 Classic",
-          "count": 16
+          "count": 17
         }
       ]
     },
@@ -202,7 +202,7 @@
       "make": "ram",
       "model": "1500 Classic",
       "shard": "Vancouver Island",
-      "count": 16,
+      "count": 18,
       "file": "inventory/used-ram-1500-classic-vancouver-island.json",
       "models": [
         {
@@ -211,7 +211,7 @@
         },
         {
           "model": "1500 Classic",
-          "count": 14
+          "count": 16
         }
       ]
     },
@@ -475,12 +475,12 @@
       "make": "ram",
       "model": "2500",
       "shard": "Vancouver Island",
-      "count": 7,
+      "count": 8,
       "file": "inventory/used-ram-2500-vancouver-island.json",
       "models": [
         {
           "model": "2500",
-          "count": 7
+          "count": 8
         }
       ]
     },
@@ -787,6 +787,19 @@
     {
       "condition": "used",
       "make": "ram",
+      "model": "2500POWER WAGON 4X4 CREW CAB 6.4L HEMI 6'4\" BOX",
+      "count": 1,
+      "file": "inventory/used-ram-2500power-wagon-4x4-crew-cab-6-4l-hemi-6-4-box.json",
+      "models": [
+        {
+          "model": "2500POWER WAGON 4X4 CREW CAB 6.4L HEMI 6'4\" BOX",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
       "model": "1500 ClassicExpress",
       "count": 2,
       "file": "inventory/used-ram-1500-classicexpress.json",
@@ -956,6 +969,19 @@
     {
       "condition": "used",
       "make": "ram",
+      "model": "1500 Express",
+      "count": 2,
+      "file": "inventory/used-ram-1500-express.json",
+      "models": [
+        {
+          "model": "1500 Express",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
       "model": "1500LARAMIE LONGHORN",
       "count": 1,
       "file": "inventory/used-ram-1500laramie-longhorn.json",
@@ -1002,19 +1028,6 @@
         {
           "model": "1500 Sport",
           "count": 8
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ram",
-      "model": "1500 Express",
-      "count": 1,
-      "file": "inventory/used-ram-1500-express.json",
-      "models": [
-        {
-          "model": "1500 Express",
-          "count": 1
         }
       ]
     },

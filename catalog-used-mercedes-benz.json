@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T10:03:48+00:00",
+  "generated_at": "2026-10-15T16:03:49+00:00",
   "condition": "used",
   "make": "mercedes-benz",
   "files": [
@@ -7,12 +7,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "C-Class",
-      "count": 21,
+      "count": 22,
       "file": "inventory/used-mercedes-benz-c-class.json",
       "models": [
         {
           "model": "C-Class",
-          "count": 21
+          "count": 22
         }
       ]
     },
@@ -128,12 +128,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLA",
-      "count": 24,
+      "count": 25,
       "file": "inventory/used-mercedes-benz-gla.json",
       "models": [
         {
           "model": "GLA",
-          "count": 24
+          "count": 25
         }
       ]
     },
@@ -1923,6 +1923,19 @@
     {
       "condition": "used",
       "make": "mercedes-benz",
+      "model": "C-Class Sedan C 300 4MATIC Sedan",
+      "count": 1,
+      "file": "inventory/used-mercedes-benz-c-class-sedan-c-300-4matic-sedan.json",
+      "models": [
+        {
+          "model": "C-Class Sedan C 300 4MATIC Sedan",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
       "model": "SLR Mclaren",
       "count": 1,
       "file": "inventory/used-mercedes-benz-slr-mclaren.json",
@@ -2124,6 +2137,19 @@
       "models": [
         {
           "model": "AMG GLE 53",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "GLC 300 4dr All-Wheel Drive",
+      "count": 1,
+      "file": "inventory/used-mercedes-benz-glc-300-4dr-all-wheel-drive.json",
+      "models": [
+        {
+          "model": "GLC 300 4dr All-Wheel Drive",
           "count": 1
         }
       ]

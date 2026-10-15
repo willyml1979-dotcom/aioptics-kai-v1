@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T10:03:48+00:00",
-  "snapshot": "2026-10-15T10:03:48+00:00",
+  "generated_at": "2026-10-15T16:03:49+00:00",
+  "snapshot": "2026-10-15T16:03:49+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 17,
+  "count": 18,
   "vehicles": [
     {
       "pub_id": "braby-motors-ltd-1c4pjmbn2kd277580",
@@ -202,6 +202,35 @@
       "city": "Penticton",
       "province": "BC",
       "dealer_name": "Penticton Nissan"
+    },
+    {
+      "pub_id": "hilltop-subaru-1c4pjmbx9ld632862",
+      "year": 2020,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "body_type": "suv",
+      "drivetrain": "4WD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 168235,
+      "price_cad": 21995.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/842beeb7-7941-466c-b41e-43abbf79c229_96ea4a48-5c3a-405a-b6ff-8b632d6647f8.jpg",
+      "dealer_id": "hilltop-subaru",
+      "vin": "1C4PJMBX9LD632862",
+      "stock": "HS57895",
+      "listing_url": "https://www.hilltopsubaru.com/vehicles/2020/jeep/cherokee/vernon/bc/ad13230632/?sale_class=used",
+      "dealer_url": "https://www.hilltopsubaru.com/vehicles/2020/jeep/cherokee/vernon/bc/ad13230632/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T07:43:04",
+      "snapshot": "2026-10-15T07:46:03",
+      "go_url": "https://carwhisper.ca/go/hilltop-subaru-1c4pjmbx9ld632862",
+      "region": "Okanagan",
+      "city": "Vernon",
+      "province": "BC",
+      "dealer_name": "Hilltop Subaru"
     },
     {
       "pub_id": "bannister-cadillac-buick-gmc-ltd-1c4pjmdn2kd449944",
