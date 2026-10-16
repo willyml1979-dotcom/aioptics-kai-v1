@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T22:03:50+00:00",
+  "generated_at": "2026-10-16T04:03:50+00:00",
   "condition": "used",
   "make": "jeep",
   "files": [
@@ -328,12 +328,12 @@
       "make": "jeep",
       "model": "GLADIATOR",
       "shard": "Lower Mainland",
-      "count": 16,
+      "count": 18,
       "file": "inventory/used-jeep-gladiator-lower-mainland.json",
       "models": [
         {
           "model": "Gladiator",
-          "count": 16
+          "count": 18
         }
       ]
     },
@@ -494,7 +494,7 @@
       "make": "jeep",
       "model": "WRANGLER",
       "shard": "part6",
-      "count": 25,
+      "count": 28,
       "file": "inventory/used-jeep-wrangler-part6.json",
       "models": [
         {
@@ -503,7 +503,7 @@
         },
         {
           "model": "Wrangler",
-          "count": 24
+          "count": 27
         }
       ]
     },
@@ -539,12 +539,12 @@
       "make": "jeep",
       "model": "CHEROKEE",
       "shard": "Lower Mainland",
-      "count": 23,
+      "count": 25,
       "file": "inventory/used-jeep-cherokee-lower-mainland.json",
       "models": [
         {
           "model": "Cherokee",
-          "count": 23
+          "count": 25
         }
       ]
     },
@@ -768,13 +768,26 @@
     {
       "condition": "used",
       "make": "jeep",
+      "model": "Wrangler Rubicon 2D Utility 4WD",
+      "count": 1,
+      "file": "inventory/used-jeep-wrangler-rubicon-2d-utility-4wd.json",
+      "models": [
+        {
+          "model": "Wrangler Rubicon 2D Utility 4WD",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
       "model": "Grand Cherokee 4X4",
-      "count": 16,
+      "count": 22,
       "file": "inventory/used-jeep-grand-cherokee-4x4.json",
       "models": [
         {
           "model": "Grand Cherokee 4X4",
-          "count": 16
+          "count": 22
         }
       ]
     },

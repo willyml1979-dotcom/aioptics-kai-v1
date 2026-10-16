@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T22:03:50+00:00",
-  "snapshot": "2026-10-15T22:03:50+00:00",
+  "generated_at": "2026-10-16T04:03:50+00:00",
+  "snapshot": "2026-10-16T04:03:50+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 30,
+  "count": 31,
   "vehicles": [
     {
       "pub_id": "kelowna-hyundai-km8jbcae8pu195497",
@@ -797,6 +797,36 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Bannister Chevrolet Cadillac Kamloops Ltd."
+    },
+    {
+      "pub_id": "bannister-hyundai-kamloops-3kmjbcde9se024567",
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "trim": "Preferred AWD",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 8121,
+      "price_cad": 32988.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/trim/UWBQSNDQMNFXNFCTSBUVW7H3FA.webp",
+      "dealer_id": "bannister-hyundai-kamloops",
+      "vin": "3KMJBCDE9SE024567",
+      "stock": "51U25342",
+      "listing_url": "https://www.bannisterhyundaikamloops.com/inventory/2025-hyundai-tucson-preferred-eYK7BezYTQucMBrYBtPbqgvdp",
+      "dealer_url": "https://www.bannisterhyundaikamloops.com/inventory/2025-hyundai-tucson-preferred-eYK7BezYTQucMBrYBtPbqgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:21:05",
+      "snapshot": "2026-10-15T01:22:43",
+      "go_url": "https://carwhisper.ca/go/bannister-hyundai-kamloops-3kmjbcde9se024567",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Bannister Hyundai Kamloops"
     }
   ]
 }

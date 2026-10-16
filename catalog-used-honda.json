@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T22:03:50+00:00",
+  "generated_at": "2026-10-16T04:03:50+00:00",
   "condition": "used",
   "make": "honda",
   "files": [
@@ -8,12 +8,12 @@
       "make": "honda",
       "model": "CR-V",
       "shard": "part1",
-      "count": 30,
+      "count": 29,
       "file": "inventory/used-honda-cr-v-part1.json",
       "models": [
         {
           "model": "CR-V",
-          "count": 30
+          "count": 29
         }
       ]
     },
@@ -22,12 +22,12 @@
       "make": "honda",
       "model": "CR-V",
       "shard": "part2",
-      "count": 30,
+      "count": 29,
       "file": "inventory/used-honda-cr-v-part2.json",
       "models": [
         {
           "model": "CR-V",
-          "count": 30
+          "count": 29
         }
       ]
     },
@@ -36,12 +36,12 @@
       "make": "honda",
       "model": "CR-V",
       "shard": "part3",
-      "count": 30,
+      "count": 29,
       "file": "inventory/used-honda-cr-v-part3.json",
       "models": [
         {
           "model": "CR-V",
-          "count": 30
+          "count": 29
         }
       ]
     },
@@ -50,12 +50,12 @@
       "make": "honda",
       "model": "CR-V",
       "shard": "part4",
-      "count": 30,
+      "count": 29,
       "file": "inventory/used-honda-cr-v-part4.json",
       "models": [
         {
           "model": "CR-V",
-          "count": 30
+          "count": 29
         }
       ]
     },
@@ -64,12 +64,12 @@
       "make": "honda",
       "model": "CR-V",
       "shard": "part5",
-      "count": 30,
+      "count": 29,
       "file": "inventory/used-honda-cr-v-part5.json",
       "models": [
         {
           "model": "CR-V",
-          "count": 30
+          "count": 29
         }
       ]
     },
@@ -78,12 +78,12 @@
       "make": "honda",
       "model": "CR-V",
       "shard": "part6",
-      "count": 30,
+      "count": 29,
       "file": "inventory/used-honda-cr-v-part6.json",
       "models": [
         {
           "model": "CR-V",
-          "count": 30
+          "count": 29
         }
       ]
     },
@@ -92,12 +92,12 @@
       "make": "honda",
       "model": "CR-V",
       "shard": "part7",
-      "count": 30,
+      "count": 29,
       "file": "inventory/used-honda-cr-v-part7.json",
       "models": [
         {
           "model": "CR-V",
-          "count": 30
+          "count": 29
         }
       ]
     },
@@ -106,12 +106,12 @@
       "make": "honda",
       "model": "CR-V",
       "shard": "part8",
-      "count": 30,
+      "count": 29,
       "file": "inventory/used-honda-cr-v-part8.json",
       "models": [
         {
           "model": "CR-V",
-          "count": 30
+          "count": 29
         }
       ]
     },
@@ -120,12 +120,12 @@
       "make": "honda",
       "model": "CR-V",
       "shard": "part9",
-      "count": 30,
+      "count": 29,
       "file": "inventory/used-honda-cr-v-part9.json",
       "models": [
         {
           "model": "CR-V",
-          "count": 30
+          "count": 29
         }
       ]
     },
@@ -134,12 +134,26 @@
       "make": "honda",
       "model": "CR-V",
       "shard": "part10",
-      "count": 26,
+      "count": 29,
       "file": "inventory/used-honda-cr-v-part10.json",
       "models": [
         {
           "model": "CR-V",
-          "count": 26
+          "count": 29
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
+      "model": "CR-V",
+      "shard": "part11",
+      "count": 27,
+      "file": "inventory/used-honda-cr-v-part11.json",
+      "models": [
+        {
+          "model": "CR-V",
+          "count": 27
         }
       ]
     },
@@ -330,8 +344,22 @@
       "make": "honda",
       "model": "Civic",
       "shard": "part14",
-      "count": 19,
+      "count": 29,
       "file": "inventory/used-honda-civic-part14.json",
+      "models": [
+        {
+          "model": "Civic",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
+      "model": "Civic",
+      "shard": "part15",
+      "count": 19,
+      "file": "inventory/used-honda-civic-part15.json",
       "models": [
         {
           "model": "Civic",
@@ -356,13 +384,13 @@
       "condition": "used",
       "make": "honda",
       "model": "Accord",
-      "shard": "Lower Mainland",
-      "count": 30,
-      "file": "inventory/used-honda-accord-lower-mainland.json",
+      "shard": "part1",
+      "count": 28,
+      "file": "inventory/used-honda-accord-part1.json",
       "models": [
         {
           "model": "Accord",
-          "count": 30
+          "count": 28
         }
       ]
     },
@@ -370,55 +398,13 @@
       "condition": "used",
       "make": "honda",
       "model": "Accord",
-      "shard": "Okanagan",
-      "count": 7,
-      "file": "inventory/used-honda-accord-okanagan.json",
+      "shard": "part2",
+      "count": 27,
+      "file": "inventory/used-honda-accord-part2.json",
       "models": [
         {
           "model": "Accord",
-          "count": 7
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "honda",
-      "model": "Accord",
-      "shard": "Thompson-Okanagan",
-      "count": 1,
-      "file": "inventory/used-honda-accord-thompson-okanagan.json",
-      "models": [
-        {
-          "model": "Accord",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "honda",
-      "model": "Accord",
-      "shard": "Vancouver Island",
-      "count": 6,
-      "file": "inventory/used-honda-accord-vancouver-island.json",
-      "models": [
-        {
-          "model": "Accord",
-          "count": 6
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "honda",
-      "model": "Accord",
-      "shard": "sin-region",
-      "count": 7,
-      "file": "inventory/used-honda-accord-sin-region.json",
-      "models": [
-        {
-          "model": "Accord",
-          "count": 7
+          "count": 27
         }
       ]
     },
@@ -427,12 +413,12 @@
       "make": "honda",
       "model": "Odyssey",
       "shard": "part1",
-      "count": 30,
+      "count": 31,
       "file": "inventory/used-honda-odyssey-part1.json",
       "models": [
         {
           "model": "Odyssey",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -441,12 +427,12 @@
       "make": "honda",
       "model": "Odyssey",
       "shard": "part2",
-      "count": 30,
+      "count": 31,
       "file": "inventory/used-honda-odyssey-part2.json",
       "models": [
         {
           "model": "Odyssey",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -455,12 +441,12 @@
       "make": "honda",
       "model": "Odyssey",
       "shard": "part3",
-      "count": 30,
+      "count": 31,
       "file": "inventory/used-honda-odyssey-part3.json",
       "models": [
         {
           "model": "Odyssey",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -469,12 +455,12 @@
       "make": "honda",
       "model": "Odyssey",
       "shard": "part4",
-      "count": 30,
+      "count": 31,
       "file": "inventory/used-honda-odyssey-part4.json",
       "models": [
         {
           "model": "Odyssey",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -483,12 +469,12 @@
       "make": "honda",
       "model": "HR-V",
       "shard": "part1",
-      "count": 25,
+      "count": 27,
       "file": "inventory/used-honda-hr-v-part1.json",
       "models": [
         {
           "model": "HR-V",
-          "count": 25
+          "count": 27
         }
       ]
     },
@@ -497,12 +483,12 @@
       "make": "honda",
       "model": "HR-V",
       "shard": "part2",
-      "count": 25,
+      "count": 27,
       "file": "inventory/used-honda-hr-v-part2.json",
       "models": [
         {
           "model": "HR-V",
-          "count": 25
+          "count": 27
         }
       ]
     },
@@ -511,12 +497,12 @@
       "make": "honda",
       "model": "HR-V",
       "shard": "part3",
-      "count": 25,
+      "count": 27,
       "file": "inventory/used-honda-hr-v-part3.json",
       "models": [
         {
           "model": "HR-V",
-          "count": 25
+          "count": 27
         }
       ]
     },
@@ -525,12 +511,12 @@
       "make": "honda",
       "model": "HR-V",
       "shard": "part4",
-      "count": 25,
+      "count": 27,
       "file": "inventory/used-honda-hr-v-part4.json",
       "models": [
         {
           "model": "HR-V",
-          "count": 25
+          "count": 27
         }
       ]
     },
@@ -539,12 +525,12 @@
       "make": "honda",
       "model": "HR-V",
       "shard": "part5",
-      "count": 23,
+      "count": 25,
       "file": "inventory/used-honda-hr-v-part5.json",
       "models": [
         {
           "model": "HR-V",
-          "count": 23
+          "count": 25
         }
       ]
     },
@@ -566,12 +552,12 @@
       "make": "honda",
       "model": "Pilot",
       "shard": "part1",
-      "count": 28,
+      "count": 23,
       "file": "inventory/used-honda-pilot-part1.json",
       "models": [
         {
           "model": "Pilot",
-          "count": 28
+          "count": 23
         }
       ]
     },
@@ -580,12 +566,12 @@
       "make": "honda",
       "model": "Pilot",
       "shard": "part2",
-      "count": 28,
+      "count": 23,
       "file": "inventory/used-honda-pilot-part2.json",
       "models": [
         {
           "model": "Pilot",
-          "count": 28
+          "count": 23
         }
       ]
     },
@@ -594,12 +580,26 @@
       "make": "honda",
       "model": "Pilot",
       "shard": "part3",
-      "count": 26,
+      "count": 23,
       "file": "inventory/used-honda-pilot-part3.json",
       "models": [
         {
           "model": "Pilot",
-          "count": 26
+          "count": 23
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
+      "model": "Pilot",
+      "shard": "part4",
+      "count": 23,
+      "file": "inventory/used-honda-pilot-part4.json",
+      "models": [
+        {
+          "model": "Pilot",
+          "count": 23
         }
       ]
     },
@@ -621,12 +621,12 @@
       "make": "honda",
       "model": "Ridgeline",
       "shard": "part1",
-      "count": 32,
+      "count": 24,
       "file": "inventory/used-honda-ridgeline-part1.json",
       "models": [
         {
           "model": "Ridgeline",
-          "count": 32
+          "count": 24
         }
       ]
     },
@@ -635,12 +635,26 @@
       "make": "honda",
       "model": "Ridgeline",
       "shard": "part2",
-      "count": 32,
+      "count": 24,
       "file": "inventory/used-honda-ridgeline-part2.json",
       "models": [
         {
           "model": "Ridgeline",
-          "count": 32
+          "count": 24
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
+      "model": "Ridgeline",
+      "shard": "part3",
+      "count": 22,
+      "file": "inventory/used-honda-ridgeline-part3.json",
+      "models": [
+        {
+          "model": "Ridgeline",
+          "count": 22
         }
       ]
     },
@@ -649,12 +663,12 @@
       "make": "honda",
       "model": "Passport",
       "shard": "part1",
-      "count": 25,
+      "count": 29,
       "file": "inventory/used-honda-passport-part1.json",
       "models": [
         {
           "model": "Passport",
-          "count": 25
+          "count": 29
         }
       ]
     },
@@ -663,12 +677,12 @@
       "make": "honda",
       "model": "Passport",
       "shard": "part2",
-      "count": 25,
+      "count": 29,
       "file": "inventory/used-honda-passport-part2.json",
       "models": [
         {
           "model": "Passport",
-          "count": 25
+          "count": 29
         }
       ]
     },
@@ -689,12 +703,12 @@
       "condition": "used",
       "make": "honda",
       "model": "Prologue",
-      "count": 16,
+      "count": 18,
       "file": "inventory/used-honda-prologue.json",
       "models": [
         {
           "model": "Prologue",
-          "count": 16
+          "count": 18
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T22:03:50+00:00",
+  "generated_at": "2026-10-16T04:03:50+00:00",
   "condition": "used",
   "make": "gmc",
   "files": [
@@ -247,12 +247,12 @@
       "make": "gmc",
       "model": "Sierra 1500",
       "shard": "part12",
-      "count": 23,
+      "count": 26,
       "file": "inventory/used-gmc-sierra-1500-part12.json",
       "models": [
         {
           "model": "Sierra 1500",
-          "count": 23
+          "count": 26
         }
       ]
     },
@@ -274,12 +274,12 @@
       "make": "gmc",
       "model": "Yukon",
       "shard": "Lower Mainland",
-      "count": 13,
+      "count": 15,
       "file": "inventory/used-gmc-yukon-lower-mainland.json",
       "models": [
         {
           "model": "Yukon",
-          "count": 13
+          "count": 15
         }
       ]
     },
@@ -361,12 +361,69 @@
       "condition": "used",
       "make": "gmc",
       "model": "Acadia",
-      "count": 32,
-      "file": "inventory/used-gmc-acadia.json",
+      "shard": "Lower Mainland",
+      "count": 16,
+      "file": "inventory/used-gmc-acadia-lower-mainland.json",
       "models": [
         {
           "model": "Acadia",
-          "count": 32
+          "count": 16
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "gmc",
+      "model": "Acadia",
+      "shard": "Norte/Cariboo",
+      "count": 1,
+      "file": "inventory/used-gmc-acadia-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Acadia",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "gmc",
+      "model": "Acadia",
+      "shard": "Okanagan",
+      "count": 1,
+      "file": "inventory/used-gmc-acadia-okanagan.json",
+      "models": [
+        {
+          "model": "Acadia",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "gmc",
+      "model": "Acadia",
+      "shard": "Vancouver Island",
+      "count": 2,
+      "file": "inventory/used-gmc-acadia-vancouver-island.json",
+      "models": [
+        {
+          "model": "Acadia",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "gmc",
+      "model": "Acadia",
+      "shard": "sin-region",
+      "count": 16,
+      "file": "inventory/used-gmc-acadia-sin-region.json",
+      "models": [
+        {
+          "model": "Acadia",
+          "count": 16
         }
       ]
     },
@@ -476,12 +533,12 @@
       "condition": "used",
       "make": "gmc",
       "model": "New Sierra 1500 Crew Cab 4x4",
-      "count": 10,
+      "count": 14,
       "file": "inventory/used-gmc-new-sierra-1500-crew-cab-4x4.json",
       "models": [
         {
           "model": "New Sierra 1500 Crew Cab 4x4",
-          "count": 10
+          "count": 14
         }
       ]
     },
@@ -528,12 +585,12 @@
       "condition": "used",
       "make": "gmc",
       "model": "Yukon XL 4x4 At4",
-      "count": 5,
+      "count": 7,
       "file": "inventory/used-gmc-yukon-xl-4x4-at4.json",
       "models": [
         {
           "model": "Yukon XL 4x4 At4",
-          "count": 5
+          "count": 7
         }
       ]
     },

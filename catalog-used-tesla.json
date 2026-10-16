@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T22:03:50+00:00",
+  "generated_at": "2026-10-16T04:03:50+00:00",
   "condition": "used",
   "make": "tesla",
   "files": [
@@ -22,12 +22,12 @@
       "make": "tesla",
       "model": "Model Y",
       "shard": "Lower Mainland",
-      "count": 29,
+      "count": 31,
       "file": "inventory/used-tesla-model-y-lower-mainland.json",
       "models": [
         {
           "model": "Model Y",
-          "count": 29
+          "count": 31
         }
       ]
     },
@@ -77,12 +77,12 @@
       "condition": "used",
       "make": "tesla",
       "model": "Model X",
-      "count": 28,
+      "count": 34,
       "file": "inventory/used-tesla-model-x.json",
       "models": [
         {
           "model": "Model X",
-          "count": 28
+          "count": 34
         }
       ]
     },
@@ -91,12 +91,12 @@
       "make": "tesla",
       "model": "Model 3",
       "shard": "part1",
-      "count": 32,
+      "count": 26,
       "file": "inventory/used-tesla-model-3-part1.json",
       "models": [
         {
           "model": "Model 3",
-          "count": 32
+          "count": 26
         }
       ]
     },
@@ -105,12 +105,12 @@
       "make": "tesla",
       "model": "Model 3",
       "shard": "part2",
-      "count": 32,
+      "count": 26,
       "file": "inventory/used-tesla-model-3-part2.json",
       "models": [
         {
           "model": "Model 3",
-          "count": 32
+          "count": 26
         }
       ]
     },
@@ -119,12 +119,26 @@
       "make": "tesla",
       "model": "Model 3",
       "shard": "part3",
-      "count": 31,
+      "count": 26,
       "file": "inventory/used-tesla-model-3-part3.json",
       "models": [
         {
           "model": "Model 3",
-          "count": 31
+          "count": 26
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "tesla",
+      "model": "Model 3",
+      "shard": "part4",
+      "count": 24,
+      "file": "inventory/used-tesla-model-3-part4.json",
+      "models": [
+        {
+          "model": "Model 3",
+          "count": 24
         }
       ]
     },
