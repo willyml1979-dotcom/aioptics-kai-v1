@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T10:03:51+00:00",
-  "snapshot": "2026-10-16T10:03:51+00:00",
+  "generated_at": "2026-10-16T21:07:50+00:00",
+  "snapshot": "2026-10-16T21:07:50+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "auto-west-bmw-wmwsu9c54dt379420",
@@ -51,6 +51,34 @@
       "city": "Surrey",
       "province": "BC",
       "dealer_name": "OpenRoad Mercedes Benz Surrey"
+    },
+    {
+      "pub_id": "bmw-victoria-mini-victoria-1791388-ontario-limited-wmw53dh00p2s83004",
+      "year": 2023,
+      "make": "MINI",
+      "model": "Cooper Hardtop",
+      "trim": "3 Door",
+      "drivetrain": "FWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 20674,
+      "price_cad": 30100.0,
+      "price_note": null,
+      "color": "Green",
+      "dealer_id": "bmw-victoria-mini-victoria-1791388-ontario-limited",
+      "vin": "WMW53DH00P2S83004",
+      "stock": "14445689",
+      "listing_url": "https://www.bmwvictoria.ca/used/2023-MINI-Cooper_Hardtop-id14445689.html",
+      "dealer_url": "https://www.bmwvictoria.ca/used/2023-MINI-Cooper_Hardtop-id14445689.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T15:08:13",
+      "snapshot": "2026-10-16T03:33:14",
+      "go_url": "https://carwhisper.ca/go/bmw-victoria-mini-victoria-1791388-ontario-limited-wmw53dh00p2s83004",
+      "region": "Vancouver Island",
+      "city": "Victoria",
+      "province": "BC",
+      "dealer_name": "BMW Victoria/MINI Victoria (1791388 Ontario Limited)"
     }
   ]
 }

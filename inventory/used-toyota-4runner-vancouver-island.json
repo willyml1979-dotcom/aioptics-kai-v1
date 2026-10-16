@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T10:03:51+00:00",
-  "snapshot": "2026-10-16T10:03:51+00:00",
+  "generated_at": "2026-10-16T21:07:50+00:00",
+  "snapshot": "2026-10-16T21:07:50+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 12,
+  "count": 13,
   "vehicles": [
     {
       "pub_id": "island-chevrolet-buick-gmc-jtebu5jr4g5340025",
@@ -32,6 +32,32 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Island Chevrolet Buick GMC"
+    },
+    {
+      "pub_id": "duncan-chrysler-dodge-jeep-ram-ltd-jtebu5jr5h5447439",
+      "year": 2017,
+      "make": "Toyota",
+      "model": "4Runner",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 167975,
+      "price_cad": 37899.0,
+      "price_note": null,
+      "photo_url": "https://www.duncandodge.ca/wp-content/themes/convertus-achilles/achilles/assets/images/srp-placeholder/PV.jpg",
+      "dealer_id": "duncan-chrysler-dodge-jeep-ram-ltd",
+      "vin": "JTEBU5JR5H5447439",
+      "stock": "F26RA79",
+      "listing_url": "https://www.duncandodge.ca/vehicles/2017/toyota/4runner/duncan/bc/ad13274504/?sale_class=used",
+      "dealer_url": "https://www.duncandodge.ca/vehicles/2017/toyota/4runner/duncan/bc/ad13274504/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-16T06:37:59",
+      "snapshot": "2026-10-16T06:41:25",
+      "go_url": "https://carwhisper.ca/go/duncan-chrysler-dodge-jeep-ram-ltd-jtebu5jr5h5447439",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Chrysler Dodge Jeep Ram Ltd."
     },
     {
       "pub_id": "jim-pattison-toyota-victoria-jtenu5jr8n6055915",
@@ -216,7 +242,7 @@
       "listing_url": "https://www.campusnissan.com/vehicles/2020/toyota/4runner/victoria/bc/71368433/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2020/toyota/4runner/victoria/bc/71368433/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-11T00:53:46",
-      "snapshot": "2026-10-15T02:48:48",
+      "snapshot": "2026-10-16T05:53:31",
       "go_url": "https://carwhisper.ca/go/campus-nissan-jtebu5jr6l5747516",
       "region": "Vancouver Island",
       "city": "Victoria",

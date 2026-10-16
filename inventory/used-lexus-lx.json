@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T10:03:51+00:00",
-  "snapshot": "2026-10-16T10:03:51+00:00",
+  "generated_at": "2026-10-16T21:07:50+00:00",
+  "snapshot": "2026-10-16T21:07:50+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 4,
   "vehicles": [
     {
       "pub_id": "acura-of-langley-jtjab7cx6r4039842",
@@ -33,6 +33,34 @@
       "dealer_name": "Acura of Langley"
     },
     {
+      "pub_id": "burrard-acura-jtjab7cx6r4039842",
+      "year": 2024,
+      "make": "Lexus",
+      "model": "LX",
+      "trim": "600",
+      "drivetrain": "AWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 39736,
+      "price_cad": 131188.0,
+      "price_note": null,
+      "color": "Eminent White Pearl",
+      "photo_url": "https://img.sm360.ca/images/inventory/",
+      "dealer_id": "burrard-acura",
+      "vin": "JTJAB7CX6R4039842",
+      "stock": "MB62A00",
+      "listing_url": "https://www.burrardacura.ca/en/used-inventory/lexus/lx/2024-lexus-lx-id39368058",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/lexus/lx/2024-lexus-lx-id39368058?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-16T03:13:29",
+      "snapshot": "2026-10-16T03:24:25",
+      "go_url": "https://carwhisper.ca/go/burrard-acura-jtjab7cx6r4039842",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Burrard Acura"
+    },
+    {
       "pub_id": "mercedes-benz-north-vancouver-jtjab7cx6r4039842",
       "year": 2024,
       "make": "Lexus",
@@ -59,6 +87,33 @@
       "city": "North Vancouver",
       "province": "BC",
       "dealer_name": "Mercedes-Benz North Vancouver"
+    },
+    {
+      "pub_id": "pacific-honda-jtjab7cx6r4039842",
+      "year": 2024,
+      "make": "Lexus",
+      "model": "LX",
+      "trim": "600",
+      "drivetrain": "AWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 39736,
+      "price_cad": 131188.0,
+      "price_note": null,
+      "color": "Eminent White Pearl",
+      "photo_url": "https://img.sm360.ca/images/inventory/",
+      "dealer_id": "pacific-honda",
+      "vin": "JTJAB7CX6R4039842",
+      "stock": "MB62A00",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/lexus/lx/2024-lexus-lx-id39368058",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/lexus/lx/2024-lexus-lx-id39368058?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-16T04:01:48",
+      "snapshot": "2026-10-16T04:14:14",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-jtjab7cx6r4039842",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T10:03:51+00:00",
-  "snapshot": "2026-10-16T10:03:51+00:00",
+  "generated_at": "2026-10-16T21:07:50+00:00",
+  "snapshot": "2026-10-16T21:07:50+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 1,
   "vehicles": [
     {
       "pub_id": "pioneer-chrysler-jeep-wdctg4gb5fj068492",
@@ -32,35 +32,6 @@
       "city": "Mission",
       "province": "BC",
       "dealer_name": "Pioneer Chrysler Jeep"
-    },
-    {
-      "pub_id": "chilliwack-volkswagen-wddtg5cb9fj045773",
-      "year": 2015,
-      "make": "Mercedes-Benz",
-      "model": "GLA-Class",
-      "trim": "GLA 45 AMG",
-      "body_type": "suv",
-      "drivetrain": "AWD",
-      "propulsion": "gas",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
-      "condition": "used",
-      "odometer_km": 189720,
-      "price_cad": 18995.0,
-      "price_note": null,
-      "color": "White",
-      "dealer_id": "chilliwack-volkswagen",
-      "vin": "WDDTG5CB9FJ045773",
-      "stock": "14211658",
-      "listing_url": "https://www.chilliwackvw.ca/used/2015-Mercedes_Benz-GLA_Class-id14211658.html",
-      "dealer_url": "https://www.chilliwackvw.ca/used/2015-Mercedes_Benz-GLA_Class-id14211658.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-11T00:02:00",
-      "snapshot": "2026-10-15T01:53:42",
-      "go_url": "https://carwhisper.ca/go/chilliwack-volkswagen-wddtg5cb9fj045773",
-      "region": "Lower Mainland",
-      "city": "Chilliwack",
-      "province": "BC",
-      "dealer_name": "Chilliwack Volkswagen"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T10:03:51+00:00",
-  "snapshot": "2026-10-16T10:03:51+00:00",
+  "generated_at": "2026-10-16T21:07:50+00:00",
+  "snapshot": "2026-10-16T21:07:50+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 15,
+  "count": 16,
   "vehicles": [
     {
       "pub_id": "brian-jessel-bmw-wby43aw00pfr24661",
@@ -414,6 +414,34 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Brian Jessel BMW"
+    },
+    {
+      "pub_id": "bmw-victoria-mini-victoria-1791388-ontario-limited-wby33hd0xsft69167",
+      "year": 2025,
+      "make": "BMW",
+      "model": "i4",
+      "trim": "M50 Xdrive Gran",
+      "drivetrain": "FWD",
+      "propulsion": "electric",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 9233,
+      "price_cad": 83105.0,
+      "price_note": null,
+      "color": "Blue",
+      "dealer_id": "bmw-victoria-mini-victoria-1791388-ontario-limited",
+      "vin": "WBY33HD0XSFT69167",
+      "stock": "14526033",
+      "listing_url": "https://www.bmwvictoria.ca/used/2025-BMW-i4-id14526033.html",
+      "dealer_url": "https://www.bmwvictoria.ca/used/2025-BMW-i4-id14526033.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-16T03:31:01",
+      "snapshot": "2026-10-16T03:33:14",
+      "go_url": "https://carwhisper.ca/go/bmw-victoria-mini-victoria-1791388-ontario-limited-wby33hd0xsft69167",
+      "region": "Vancouver Island",
+      "city": "Victoria",
+      "province": "BC",
+      "dealer_name": "BMW Victoria/MINI Victoria (1791388 Ontario Limited)"
     }
   ]
 }

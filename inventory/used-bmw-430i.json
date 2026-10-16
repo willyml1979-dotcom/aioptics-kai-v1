@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T10:03:51+00:00",
-  "snapshot": "2026-10-16T10:03:51+00:00",
+  "generated_at": "2026-10-16T21:07:50+00:00",
+  "snapshot": "2026-10-16T21:07:50+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-wba73ap09mcf10661",
@@ -32,6 +32,34 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "MCL Motor Cars 2010 / Aston Martin / Land Rover / Jaguar / Bentley Vancouver"
+    },
+    {
+      "pub_id": "bmw-victoria-mini-victoria-1791388-ontario-limited-wba4j3c53kbl05309",
+      "year": 2019,
+      "make": "BMW",
+      "model": "430i",
+      "trim": "Xdrive Gran",
+      "body_type": "coupe",
+      "drivetrain": "FWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 98701,
+      "price_cad": 25900.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "bmw-victoria-mini-victoria-1791388-ontario-limited",
+      "vin": "WBA4J3C53KBL05309",
+      "stock": "14331381",
+      "listing_url": "https://www.bmwvictoria.ca/used/2019-BMW-430i-id14331381.html",
+      "dealer_url": "https://www.bmwvictoria.ca/used/2019-BMW-430i-id14331381.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T21:11:13",
+      "snapshot": "2026-10-16T03:33:14",
+      "go_url": "https://carwhisper.ca/go/bmw-victoria-mini-victoria-1791388-ontario-limited-wba4j3c53kbl05309",
+      "region": "Vancouver Island",
+      "city": "Victoria",
+      "province": "BC",
+      "dealer_name": "BMW Victoria/MINI Victoria (1791388 Ontario Limited)"
     }
   ]
 }

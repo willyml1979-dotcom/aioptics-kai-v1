@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T10:03:51+00:00",
+  "generated_at": "2026-10-16T21:07:50+00:00",
   "condition": "used",
   "make": "bmw",
   "files": [
@@ -21,12 +21,12 @@
       "make": "bmw",
       "model": "3 Series",
       "shard": "Lower Mainland",
-      "count": 26,
+      "count": 27,
       "file": "inventory/used-bmw-3-series-lower-mainland.json",
       "models": [
         {
           "model": "3 Series",
-          "count": 26
+          "count": 27
         }
       ]
     },
@@ -55,62 +55,6 @@
         {
           "model": "3 Series",
           "count": 6
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "bmw",
-      "model": "X3",
-      "shard": "part1",
-      "count": 25,
-      "file": "inventory/used-bmw-x3-part1.json",
-      "models": [
-        {
-          "model": "X3",
-          "count": 25
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "bmw",
-      "model": "X3",
-      "shard": "part2",
-      "count": 25,
-      "file": "inventory/used-bmw-x3-part2.json",
-      "models": [
-        {
-          "model": "X3",
-          "count": 25
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "bmw",
-      "model": "X3",
-      "shard": "part3",
-      "count": 25,
-      "file": "inventory/used-bmw-x3-part3.json",
-      "models": [
-        {
-          "model": "X3",
-          "count": 25
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "bmw",
-      "model": "X3",
-      "shard": "part4",
-      "count": 25,
-      "file": "inventory/used-bmw-x3-part4.json",
-      "models": [
-        {
-          "model": "X3",
-          "count": 25
         }
       ]
     },
@@ -166,6 +110,62 @@
         {
           "model": "X1",
           "count": 27
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "bmw",
+      "model": "X3",
+      "shard": "part1",
+      "count": 25,
+      "file": "inventory/used-bmw-x3-part1.json",
+      "models": [
+        {
+          "model": "X3",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "bmw",
+      "model": "X3",
+      "shard": "part2",
+      "count": 25,
+      "file": "inventory/used-bmw-x3-part2.json",
+      "models": [
+        {
+          "model": "X3",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "bmw",
+      "model": "X3",
+      "shard": "part3",
+      "count": 25,
+      "file": "inventory/used-bmw-x3-part3.json",
+      "models": [
+        {
+          "model": "X3",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "bmw",
+      "model": "X3",
+      "shard": "part4",
+      "count": 24,
+      "file": "inventory/used-bmw-x3-part4.json",
+      "models": [
+        {
+          "model": "X3",
+          "count": 24
         }
       ]
     },
@@ -397,12 +397,12 @@
       "condition": "used",
       "make": "bmw",
       "model": "430i",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-bmw-430i.json",
       "models": [
         {
           "model": "430i",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -475,12 +475,12 @@
       "condition": "used",
       "make": "bmw",
       "model": "i4",
-      "count": 15,
+      "count": 16,
       "file": "inventory/used-bmw-i4.json",
       "models": [
         {
           "model": "i4",
-          "count": 15
+          "count": 16
         }
       ]
     },
@@ -501,12 +501,12 @@
       "condition": "used",
       "make": "bmw",
       "model": "iX",
-      "count": 25,
+      "count": 27,
       "file": "inventory/used-bmw-ix.json",
       "models": [
         {
           "model": "iX",
-          "count": 25
+          "count": 27
         }
       ]
     },
@@ -605,12 +605,12 @@
       "condition": "used",
       "make": "bmw",
       "model": "M2",
-      "count": 31,
+      "count": 33,
       "file": "inventory/used-bmw-m2.json",
       "models": [
         {
           "model": "M2",
-          "count": 31
+          "count": 33
         }
       ]
     },
@@ -857,19 +857,6 @@
       "models": [
         {
           "model": "X5 M",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "bmw",
-      "model": "M340i",
-      "count": 1,
-      "file": "inventory/used-bmw-m340i.json",
-      "models": [
-        {
-          "model": "M340i",
           "count": 1
         }
       ]

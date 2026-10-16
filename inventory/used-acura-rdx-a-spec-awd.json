@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T10:03:51+00:00",
-  "snapshot": "2026-10-16T10:03:51+00:00",
+  "generated_at": "2026-10-16T21:07:50+00:00",
+  "snapshot": "2026-10-16T21:07:50+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "mercedes-benz-langley-5j8tc2h64rl805697",
@@ -51,6 +51,29 @@
       "city": "North Vancouver",
       "province": "BC",
       "dealer_name": "Mercedes-Benz North Vancouver"
+    },
+    {
+      "pub_id": "pacific-honda-5j8tc2h64rl805697",
+      "year": 2024,
+      "make": "Acura",
+      "model": "RDX A-Spec AWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 62000,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "pacific-honda",
+      "vin": "5J8TC2H64RL805697",
+      "stock": "A316059",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39354444",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39354444?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-16T04:10:09",
+      "snapshot": "2026-10-16T04:14:14",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-5j8tc2h64rl805697",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

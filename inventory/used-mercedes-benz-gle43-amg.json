@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T10:03:51+00:00",
-  "snapshot": "2026-10-16T10:03:51+00:00",
+  "generated_at": "2026-10-16T21:07:50+00:00",
+  "snapshot": "2026-10-16T21:07:50+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 8,
+  "count": 10,
   "vehicles": [
     {
       "pub_id": "mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-4jgda6eb3jb115480",
@@ -208,6 +208,35 @@
       "dealer_name": "Acura of Langley"
     },
     {
+      "pub_id": "burrard-acura-4jgda6eb9jb042499",
+      "year": 2018,
+      "make": "Mercedes-Benz",
+      "model": "GLE43 AMG",
+      "trim": "4MATIC",
+      "body_type": "suv",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 81500,
+      "price_cad": 33995.0,
+      "price_note": null,
+      "color": "Iridium Silver Met",
+      "photo_url": "https://img.sm360.ca/images/inventory/",
+      "dealer_id": "burrard-acura",
+      "vin": "4JGDA6EB9JB042499",
+      "stock": "2651959",
+      "listing_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/gle43-amg/2018-mercedes-benz-gle43-amg-id39368015",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/gle43-amg/2018-mercedes-benz-gle43-amg-id39368015?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-16T03:16:26",
+      "snapshot": "2026-10-16T03:24:25",
+      "go_url": "https://carwhisper.ca/go/burrard-acura-4jgda6eb9jb042499",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Burrard Acura"
+    },
+    {
       "pub_id": "mercedes-benz-north-vancouver-4jgda6eb9jb042499",
       "year": 2018,
       "make": "Mercedes-Benz",
@@ -235,6 +264,34 @@
       "city": "North Vancouver",
       "province": "BC",
       "dealer_name": "Mercedes-Benz North Vancouver"
+    },
+    {
+      "pub_id": "pacific-honda-4jgda6eb9jb042499",
+      "year": 2018,
+      "make": "Mercedes-Benz",
+      "model": "GLE43 AMG",
+      "trim": "4MATIC",
+      "body_type": "suv",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 81500,
+      "price_cad": 33995.0,
+      "price_note": null,
+      "color": "Iridium Silver Met",
+      "photo_url": "https://img.sm360.ca/images/inventory/",
+      "dealer_id": "pacific-honda",
+      "vin": "4JGDA6EB9JB042499",
+      "stock": "2651959",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/mercedes-benz/gle43-amg/2018-mercedes-benz-gle43-amg-id39368015",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/mercedes-benz/gle43-amg/2018-mercedes-benz-gle43-amg-id39368015?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-16T04:05:01",
+      "snapshot": "2026-10-16T04:14:14",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-4jgda6eb9jb042499",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

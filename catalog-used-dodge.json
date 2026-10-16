@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T10:03:51+00:00",
+  "generated_at": "2026-10-16T21:07:50+00:00",
   "condition": "used",
   "make": "dodge",
   "files": [
@@ -129,12 +129,12 @@
       "make": "dodge",
       "model": "DURANGO",
       "shard": "Vancouver Island",
-      "count": 8,
+      "count": 9,
       "file": "inventory/used-dodge-durango-vancouver-island.json",
       "models": [
         {
           "model": "Durango",
-          "count": 8
+          "count": 9
         }
       ]
     },
@@ -160,7 +160,7 @@
       "condition": "used",
       "make": "dodge",
       "model": "HORNET",
-      "count": 21,
+      "count": 22,
       "file": "inventory/used-dodge-hornet.json",
       "models": [
         {
@@ -169,7 +169,7 @@
         },
         {
           "model": "Hornet",
-          "count": 17
+          "count": 18
         }
       ]
     },
@@ -440,6 +440,19 @@
         {
           "model": "Dart",
           "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
+      "model": "Magnum",
+      "count": 1,
+      "file": "inventory/used-dodge-magnum.json",
+      "models": [
+        {
+          "model": "Magnum",
+          "count": 1
         }
       ]
     },

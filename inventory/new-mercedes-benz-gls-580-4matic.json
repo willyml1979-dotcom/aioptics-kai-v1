@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T10:03:51+00:00",
-  "snapshot": "2026-10-16T10:03:51+00:00",
+  "generated_at": "2026-10-16T21:07:50+00:00",
+  "snapshot": "2026-10-16T21:07:50+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 4,
   "vehicles": [
     {
       "pub_id": "mercedes-benz-langley-4jgff8fe7tb588493",
@@ -28,6 +28,31 @@
       "city": "Langley",
       "province": "BC",
       "dealer_name": "Mercedes Benz Langley"
+    },
+    {
+      "pub_id": "mercedes-benz-north-vancouver-4jgff8fe7tb588493",
+      "year": 2026,
+      "make": "Mercedes-benz",
+      "model": "GLS 580 4MATIC",
+      "body_type": "suv",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "odometer_km": 3896,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "mercedes-benz-north-vancouver",
+      "vin": "4JGFF8FE7TB588493",
+      "stock": "6T8493",
+      "listing_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/gls/2026-mercedes-benz-gls-id38691512",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/gls/2026-mercedes-benz-gls-id38691512?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-16T03:38:52",
+      "snapshot": "2026-10-16T04:46:54",
+      "go_url": "https://carwhisper.ca/go/mercedes-benz-north-vancouver-4jgff8fe7tb588493",
+      "region": "Lower Mainland",
+      "city": "North Vancouver",
+      "province": "BC",
+      "dealer_name": "Mercedes-Benz North Vancouver"
     },
     {
       "pub_id": "mercedes-benz-richmond-4jgff8fe7tb588493",

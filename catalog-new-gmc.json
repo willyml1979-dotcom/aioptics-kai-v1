@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T10:03:51+00:00",
+  "generated_at": "2026-10-16T21:07:50+00:00",
   "condition": "new",
   "make": "gmc",
   "files": [
@@ -63,12 +63,12 @@
       "make": "gmc",
       "model": "Terrain",
       "shard": "part4",
-      "count": 24,
+      "count": 25,
       "file": "inventory/new-gmc-terrain-part4.json",
       "models": [
         {
           "model": "Terrain",
-          "count": 24
+          "count": 25
         }
       ]
     },
@@ -806,6 +806,19 @@
     {
       "condition": "new",
       "make": "gmc",
+      "model": "SIERRA 1500PRO 4X4 CREW CAB 6.6 FT. BOX (1SA)",
+      "count": 2,
+      "file": "inventory/new-gmc-sierra-1500pro-4x4-crew-cab-6-6-ft-box-1sa.json",
+      "models": [
+        {
+          "model": "SIERRA 1500PRO 4X4 CREW CAB 6.6 FT. BOX (1SA)",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
       "model": "Sierra 3500HD 2WD Regular Cab Long Box Pro",
       "count": 1,
       "file": "inventory/new-gmc-sierra-3500hd-2wd-regular-cab-long-box-pro.json",
@@ -838,19 +851,6 @@
       "models": [
         {
           "model": "SIERRA 1500PRO 4X4 CREW CAB 5.75 FT. BOX (1SA)",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "gmc",
-      "model": "SIERRA 1500PRO 4X4 CREW CAB 6.6 FT. BOX (1SA)",
-      "count": 1,
-      "file": "inventory/new-gmc-sierra-1500pro-4x4-crew-cab-6-6-ft-box-1sa.json",
-      "models": [
-        {
-          "model": "SIERRA 1500PRO 4X4 CREW CAB 6.6 FT. BOX (1SA)",
           "count": 1
         }
       ]

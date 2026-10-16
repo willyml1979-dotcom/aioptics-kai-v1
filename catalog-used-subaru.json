@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T10:03:51+00:00",
+  "generated_at": "2026-10-16T21:07:50+00:00",
   "condition": "used",
   "make": "subaru",
   "files": [
@@ -804,13 +804,13 @@
       "condition": "used",
       "make": "subaru",
       "model": "Ascent",
-      "shard": "Lower Mainland",
-      "count": 31,
-      "file": "inventory/used-subaru-ascent-lower-mainland.json",
+      "shard": "part1",
+      "count": 27,
+      "file": "inventory/used-subaru-ascent-part1.json",
       "models": [
         {
           "model": "Ascent",
-          "count": 31
+          "count": 27
         }
       ]
     },
@@ -818,55 +818,13 @@
       "condition": "used",
       "make": "subaru",
       "model": "Ascent",
-      "shard": "Norte/Cariboo",
-      "count": 3,
-      "file": "inventory/used-subaru-ascent-norte-cariboo.json",
+      "shard": "part2",
+      "count": 27,
+      "file": "inventory/used-subaru-ascent-part2.json",
       "models": [
         {
           "model": "Ascent",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "subaru",
-      "model": "Ascent",
-      "shard": "Okanagan",
-      "count": 6,
-      "file": "inventory/used-subaru-ascent-okanagan.json",
-      "models": [
-        {
-          "model": "Ascent",
-          "count": 6
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "subaru",
-      "model": "Ascent",
-      "shard": "Vancouver Island",
-      "count": 4,
-      "file": "inventory/used-subaru-ascent-vancouver-island.json",
-      "models": [
-        {
-          "model": "Ascent",
-          "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "subaru",
-      "model": "Ascent",
-      "shard": "sin-region",
-      "count": 8,
-      "file": "inventory/used-subaru-ascent-sin-region.json",
-      "models": [
-        {
-          "model": "Ascent",
-          "count": 8
+          "count": 27
         }
       ]
     },
@@ -874,12 +832,12 @@
       "condition": "used",
       "make": "subaru",
       "model": "BRZ",
-      "count": 11,
+      "count": 13,
       "file": "inventory/used-subaru-brz.json",
       "models": [
         {
           "model": "BRZ",
-          "count": 11
+          "count": 13
         }
       ]
     },
@@ -939,12 +897,12 @@
       "condition": "used",
       "make": "subaru",
       "model": "Crosstrek Touring Pkg CVT",
-      "count": 2,
+      "count": 3,
       "file": "inventory/used-subaru-crosstrek-touring-pkg-cvt.json",
       "models": [
         {
           "model": "Crosstrek Touring Pkg CVT",
-          "count": 2
+          "count": 3
         }
       ]
     },

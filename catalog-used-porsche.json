@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T10:03:51+00:00",
+  "generated_at": "2026-10-16T21:07:50+00:00",
   "condition": "used",
   "make": "porsche",
   "files": [
@@ -40,12 +40,12 @@
       "make": "porsche",
       "model": "Macan",
       "shard": "part1",
-      "count": 31,
+      "count": 22,
       "file": "inventory/used-porsche-macan-part1.json",
       "models": [
         {
           "model": "Macan",
-          "count": 31
+          "count": 22
         }
       ]
     },
@@ -54,8 +54,22 @@
       "make": "porsche",
       "model": "Macan",
       "shard": "part2",
-      "count": 31,
+      "count": 22,
       "file": "inventory/used-porsche-macan-part2.json",
+      "models": [
+        {
+          "model": "Macan",
+          "count": 22
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "porsche",
+      "model": "Macan",
+      "shard": "part3",
+      "count": 20,
+      "file": "inventory/used-porsche-macan-part3.json",
       "models": [
         {
           "model": "MACAN",
@@ -63,7 +77,7 @@
         },
         {
           "model": "Macan",
-          "count": 30
+          "count": 19
         }
       ]
     },
@@ -110,12 +124,12 @@
       "condition": "used",
       "make": "porsche",
       "model": "911",
-      "count": 24,
+      "count": 26,
       "file": "inventory/used-porsche-911.json",
       "models": [
         {
           "model": "911",
-          "count": 24
+          "count": 26
         }
       ]
     },

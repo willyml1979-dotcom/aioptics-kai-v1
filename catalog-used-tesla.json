@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T10:03:51+00:00",
+  "generated_at": "2026-10-16T21:07:50+00:00",
   "condition": "used",
   "make": "tesla",
   "files": [
@@ -7,13 +7,13 @@
       "condition": "used",
       "make": "tesla",
       "model": "Model Y",
-      "shard": "Kootenays",
-      "count": 1,
-      "file": "inventory/used-tesla-model-y-kootenays.json",
+      "shard": "part1",
+      "count": 27,
+      "file": "inventory/used-tesla-model-y-part1.json",
       "models": [
         {
           "model": "Model Y",
-          "count": 1
+          "count": 27
         }
       ]
     },
@@ -21,55 +21,13 @@
       "condition": "used",
       "make": "tesla",
       "model": "Model Y",
-      "shard": "Lower Mainland",
-      "count": 34,
-      "file": "inventory/used-tesla-model-y-lower-mainland.json",
+      "shard": "part2",
+      "count": 27,
+      "file": "inventory/used-tesla-model-y-part2.json",
       "models": [
         {
           "model": "Model Y",
-          "count": 34
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "tesla",
-      "model": "Model Y",
-      "shard": "Okanagan",
-      "count": 6,
-      "file": "inventory/used-tesla-model-y-okanagan.json",
-      "models": [
-        {
-          "model": "Model Y",
-          "count": 6
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "tesla",
-      "model": "Model Y",
-      "shard": "Vancouver Island",
-      "count": 3,
-      "file": "inventory/used-tesla-model-y-vancouver-island.json",
-      "models": [
-        {
-          "model": "Model Y",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "tesla",
-      "model": "Model Y",
-      "shard": "sin-region",
-      "count": 8,
-      "file": "inventory/used-tesla-model-y-sin-region.json",
-      "models": [
-        {
-          "model": "Model Y",
-          "count": 8
+          "count": 27
         }
       ]
     },
@@ -106,12 +64,12 @@
       "make": "tesla",
       "model": "Model 3",
       "shard": "part1",
-      "count": 27,
+      "count": 28,
       "file": "inventory/used-tesla-model-3-part1.json",
       "models": [
         {
           "model": "Model 3",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -120,12 +78,12 @@
       "make": "tesla",
       "model": "Model 3",
       "shard": "part2",
-      "count": 27,
+      "count": 28,
       "file": "inventory/used-tesla-model-3-part2.json",
       "models": [
         {
           "model": "Model 3",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -134,12 +92,12 @@
       "make": "tesla",
       "model": "Model 3",
       "shard": "part3",
-      "count": 27,
+      "count": 28,
       "file": "inventory/used-tesla-model-3-part3.json",
       "models": [
         {
           "model": "Model 3",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -148,12 +106,12 @@
       "make": "tesla",
       "model": "Model 3",
       "shard": "part4",
-      "count": 26,
+      "count": 25,
       "file": "inventory/used-tesla-model-3-part4.json",
       "models": [
         {
           "model": "Model 3",
-          "count": 26
+          "count": 25
         }
       ]
     },
