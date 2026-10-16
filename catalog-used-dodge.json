@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T04:03:50+00:00",
+  "generated_at": "2026-10-16T10:03:51+00:00",
   "condition": "used",
   "make": "dodge",
   "files": [
@@ -37,12 +37,12 @@
       "condition": "used",
       "make": "dodge",
       "model": "Journey",
-      "count": 33,
+      "count": 34,
       "file": "inventory/used-dodge-journey.json",
       "models": [
         {
           "model": "Journey",
-          "count": 33
+          "count": 34
         }
       ]
     },
@@ -143,7 +143,7 @@
       "make": "dodge",
       "model": "DURANGO",
       "shard": "sin-region",
-      "count": 25,
+      "count": 23,
       "file": "inventory/used-dodge-durango-sin-region.json",
       "models": [
         {
@@ -152,7 +152,7 @@
         },
         {
           "model": "Durango",
-          "count": 24
+          "count": 22
         }
       ]
     },
@@ -233,12 +233,83 @@
       "condition": "used",
       "make": "dodge",
       "model": "Challenger",
-      "count": 35,
-      "file": "inventory/used-dodge-challenger.json",
+      "shard": "Lower Mainland",
+      "count": 17,
+      "file": "inventory/used-dodge-challenger-lower-mainland.json",
       "models": [
         {
           "model": "Challenger",
-          "count": 35
+          "count": 17
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
+      "model": "Challenger",
+      "shard": "Norte/Cariboo",
+      "count": 1,
+      "file": "inventory/used-dodge-challenger-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Challenger",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
+      "model": "Challenger",
+      "shard": "Okanagan",
+      "count": 6,
+      "file": "inventory/used-dodge-challenger-okanagan.json",
+      "models": [
+        {
+          "model": "Challenger",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
+      "model": "Challenger",
+      "shard": "Thompson-Okanagan",
+      "count": 1,
+      "file": "inventory/used-dodge-challenger-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "Challenger",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
+      "model": "Challenger",
+      "shard": "Vancouver Island",
+      "count": 5,
+      "file": "inventory/used-dodge-challenger-vancouver-island.json",
+      "models": [
+        {
+          "model": "Challenger",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
+      "model": "Challenger",
+      "shard": "sin-region",
+      "count": 6,
+      "file": "inventory/used-dodge-challenger-sin-region.json",
+      "models": [
+        {
+          "model": "Challenger",
+          "count": 6
         }
       ]
     },

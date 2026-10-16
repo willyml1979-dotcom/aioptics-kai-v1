@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T04:03:50+00:00",
-  "snapshot": "2026-10-16T04:03:50+00:00",
+  "generated_at": "2026-10-16T10:03:51+00:00",
+  "snapshot": "2026-10-16T10:03:51+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "mercedes-benz-langley-1c4gjwbg9cl180042",
@@ -27,6 +27,30 @@
       "city": "Langley",
       "province": "BC",
       "dealer_name": "Mercedes Benz Langley"
+    },
+    {
+      "pub_id": "mercedes-benz-north-vancouver-1c4gjwbg9cl180042",
+      "year": 2012,
+      "make": "Jeep",
+      "model": "Wrangler Rubicon 2D Utility 4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 153000,
+      "price_cad": 15887.0,
+      "price_note": null,
+      "dealer_id": "mercedes-benz-north-vancouver",
+      "vin": "1C4GJWBG9CL180042",
+      "stock": "A316058",
+      "listing_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/jeep/wrangler/2012-jeep-wrangler-id39290046",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/jeep/wrangler/2012-jeep-wrangler-id39290046?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T22:25:36",
+      "snapshot": "2026-10-15T23:31:06",
+      "go_url": "https://carwhisper.ca/go/mercedes-benz-north-vancouver-1c4gjwbg9cl180042",
+      "region": "Lower Mainland",
+      "city": "North Vancouver",
+      "province": "BC",
+      "dealer_name": "Mercedes-Benz North Vancouver"
     }
   ]
 }

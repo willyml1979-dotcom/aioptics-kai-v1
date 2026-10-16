@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T04:03:50+00:00",
-  "snapshot": "2026-10-16T04:03:50+00:00",
+  "generated_at": "2026-10-16T10:03:51+00:00",
+  "snapshot": "2026-10-16T10:03:51+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "acura-of-langley-salag2v64ga813346",
@@ -21,7 +21,7 @@
       "listing_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/lr4/2016-land-rover-lr4-id39237561",
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/lr4/2016-land-rover-lr4-id39237561?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-13T23:51:32",
-      "snapshot": "2026-10-15T18:50:51",
+      "snapshot": "2026-10-16T01:45:51",
       "go_url": "https://carwhisper.ca/go/acura-of-langley-salag2v64ga813346",
       "region": "Lower Mainland",
       "city": "Langley",
@@ -75,6 +75,30 @@
       "city": "Langley",
       "province": "BC",
       "dealer_name": "Mercedes Benz Langley"
+    },
+    {
+      "pub_id": "mercedes-benz-north-vancouver-salag2v64ga813346",
+      "year": 2016,
+      "make": "Land Rover",
+      "model": "LR4 HSE",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 109564,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "mercedes-benz-north-vancouver",
+      "vin": "SALAG2V64GA813346",
+      "stock": "L25580A",
+      "listing_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/land-rover/lr4/2016-land-rover-lr4-id39237561",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/land-rover/lr4/2016-land-rover-lr4-id39237561?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T22:31:35",
+      "snapshot": "2026-10-15T23:31:06",
+      "go_url": "https://carwhisper.ca/go/mercedes-benz-north-vancouver-salag2v64ga813346",
+      "region": "Lower Mainland",
+      "city": "North Vancouver",
+      "province": "BC",
+      "dealer_name": "Mercedes-Benz North Vancouver"
     },
     {
       "pub_id": "mercedes-benz-richmond-salag2v64ga813346",

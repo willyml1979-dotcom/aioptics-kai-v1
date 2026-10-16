@@ -1,35 +1,9 @@
 {
-  "generated_at": "2026-10-16T04:03:50+00:00",
-  "snapshot": "2026-10-16T04:03:50+00:00",
+  "generated_at": "2026-10-16T10:03:51+00:00",
+  "snapshot": "2026-10-16T10:03:51+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 33,
   "vehicles": [
-    {
-      "pub_id": "kamloops-ford-lincoln-ltd-1fmwk8gcxtgb34945",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Explorer",
-      "trim": "ST 4DR 4X4 (400A)",
-      "drivetrain": "4WD",
-      "propulsion": "unknown",
-      "propulsion_source": null,
-      "condition": "new",
-      "price_cad": null,
-      "price_note": "precio no publicado en la fuente",
-      "color": "White",
-      "dealer_id": "kamloops-ford-lincoln-ltd",
-      "vin": "1FMWK8GCXTGB34945",
-      "stock": "2026",
-      "listing_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-explorer-st-id15101102.htm",
-      "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-explorer-st-id15101102.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T08:17:22",
-      "snapshot": "2026-10-15T11:06:32",
-      "go_url": "https://carwhisper.ca/go/kamloops-ford-lincoln-ltd-1fmwk8gcxtgb34945",
-      "region": "Thompson-Okanagan",
-      "city": "Kamloops",
-      "province": "BC",
-      "dealer_name": "Kamloops Ford Lincoln Ltd."
-    },
     {
       "pub_id": "kamloops-ford-lincoln-ltd-1fmuk8khxtgb84660",
       "year": 2026,
@@ -882,6 +856,30 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Island Ford"
+    },
+    {
+      "pub_id": "steve-marshall-motors-1996-ltd-78108-487047",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "Active w/200A Pkg 4WD",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": 55195.0,
+      "price_note": null,
+      "dealer_id": "steve-marshall-motors-1996-ltd",
+      "stock": "78108-487047",
+      "listing_url": "https://www.stevemarshallfordcampbellriver.com/new/2027-Ford-Explorer.html",
+      "dealer_url": "https://www.stevemarshallfordcampbellriver.com/new/2027-Ford-Explorer.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-27T01:44:01",
+      "snapshot": "2026-09-27T01:44:54",
+      "go_url": "https://carwhisper.ca/go/steve-marshall-motors-1996-ltd-78108-487047",
+      "region": "Vancouver Island",
+      "city": "Campbell River",
+      "province": "BC",
+      "dealer_name": "Steve Marshall Motors (1996) Ltd."
     }
   ]
 }

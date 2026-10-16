@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T04:03:50+00:00",
-  "snapshot": "2026-10-16T04:03:50+00:00",
+  "generated_at": "2026-10-16T10:03:51+00:00",
+  "snapshot": "2026-10-16T10:03:51+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 8,
+  "count": 9,
   "vehicles": [
     {
       "pub_id": "acura-of-langley-1c6srfgt3rn178347",
@@ -22,7 +22,7 @@
       "listing_url": "https://www.acuraoflangley.ca/en/used-inventory/ram/1500/2024-ram-1500-id38860952",
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ram/1500/2024-ram-1500-id38860952?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T21:07:15",
-      "snapshot": "2026-10-15T18:50:51",
+      "snapshot": "2026-10-16T01:45:51",
       "go_url": "https://carwhisper.ca/go/acura-of-langley-1c6srfgt3rn178347",
       "region": "Lower Mainland",
       "city": "Langley",
@@ -103,6 +103,31 @@
       "city": "Langley",
       "province": "BC",
       "dealer_name": "Mercedes Benz Langley"
+    },
+    {
+      "pub_id": "mercedes-benz-north-vancouver-1c6srfgt3rn178347",
+      "year": 2024,
+      "make": "Ram",
+      "model": "1500 Tradesman 4x4 Crew Cab 5'7 Box",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 48266,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "mercedes-benz-north-vancouver",
+      "vin": "1C6SRFGT3RN178347",
+      "stock": "A316058",
+      "listing_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/ram/1500/2024-ram-1500-id38860952",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/ram/1500/2024-ram-1500-id38860952?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T23:06:30",
+      "snapshot": "2026-10-15T23:31:06",
+      "go_url": "https://carwhisper.ca/go/mercedes-benz-north-vancouver-1c6srfgt3rn178347",
+      "region": "Lower Mainland",
+      "city": "North Vancouver",
+      "province": "BC",
+      "dealer_name": "Mercedes-Benz North Vancouver"
     },
     {
       "pub_id": "mercedes-benz-richmond-1c6srfgt3rn178347",

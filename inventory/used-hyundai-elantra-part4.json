@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T04:03:50+00:00",
-  "snapshot": "2026-10-16T04:03:50+00:00",
+  "generated_at": "2026-10-16T10:03:51+00:00",
+  "snapshot": "2026-10-16T10:03:51+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 27,
+  "count": 28,
   "vehicles": [
     {
       "pub_id": "richmond-hyundai-kmhlw4dk6tu040526",
@@ -701,6 +701,29 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Kelowna Chevrolet"
+    },
+    {
+      "pub_id": "kelowna-hyundai-kmhln4ag3pu515364",
+      "year": 2023,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 21904.0,
+      "price_note": null,
+      "dealer_id": "kelowna-hyundai",
+      "vin": "KMHLN4AG3PU515364",
+      "stock": 14365103,
+      "listing_url": "https://www.kelownahyundai.com/used/2023-Hyundai-Elantra.html",
+      "dealer_url": "https://www.kelownahyundai.com/used/2023-Hyundai-Elantra.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T13:27:13",
+      "snapshot": "2026-10-15T10:04:03",
+      "go_url": "https://carwhisper.ca/go/kelowna-hyundai-kmhln4ag3pu515364",
+      "region": "Okanagan",
+      "city": "Kelowna",
+      "province": "BC",
+      "dealer_name": "Kelowna Hyundai"
     }
   ]
 }

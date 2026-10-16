@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T04:03:50+00:00",
+  "generated_at": "2026-10-16T10:03:51+00:00",
   "condition": "new",
   "make": "bmw",
   "files": [
@@ -48,12 +48,27 @@
       "condition": "new",
       "make": "bmw",
       "model": "3 Series",
-      "count": 29,
-      "file": "inventory/new-bmw-3-series.json",
+      "shard": "part1",
+      "count": 18,
+      "file": "inventory/new-bmw-3-series-part1.json",
       "models": [
         {
           "model": "3 Series",
-          "count": 29
+          "count": 18
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "bmw",
+      "model": "3 Series",
+      "shard": "part2",
+      "count": 18,
+      "file": "inventory/new-bmw-3-series-part2.json",
+      "models": [
+        {
+          "model": "3 Series",
+          "count": 18
         }
       ]
     },
