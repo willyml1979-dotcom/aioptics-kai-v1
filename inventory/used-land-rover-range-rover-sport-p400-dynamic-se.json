@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T03:08:13+00:00",
-  "snapshot": "2026-10-17T03:08:13+00:00",
+  "generated_at": "2026-10-17T09:08:14+00:00",
+  "snapshot": "2026-10-17T09:08:14+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "mercedes-benz-boundary-sal1l9fu5sa449299",
@@ -123,6 +123,54 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Mercedes Benz Vancouver"
+    },
+    {
+      "pub_id": "north-shore-acura-sal1l9fu5ra194308",
+      "year": 2024,
+      "make": "Land Rover",
+      "model": "Range Rover Sport P400 Dynamic SE",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 27557,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "north-shore-acura",
+      "vin": "SAL1L9FU5RA194308",
+      "stock": "LR26204",
+      "listing_url": "https://www.northshoreacura.ca/en/used-inventory/land-rover/range-rover-sport/2024-land-rover-range-rover-sport-id39071011",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/land-rover/range-rover-sport/2024-land-rover-range-rover-sport-id39071011?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-16T23:14:48",
+      "snapshot": "2026-10-17T01:37:02",
+      "go_url": "https://carwhisper.ca/go/north-shore-acura-sal1l9fu5ra194308",
+      "region": "Lower Mainland",
+      "city": "North Vancouver",
+      "province": "BC",
+      "dealer_name": "North Shore Acura"
+    },
+    {
+      "pub_id": "vancouver-honda-sal1l9fu5ra194308",
+      "year": 2024,
+      "make": "Land Rover",
+      "model": "Range Rover Sport P400 Dynamic SE",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 27557,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "vancouver-honda",
+      "vin": "SAL1L9FU5RA194308",
+      "stock": "LR26204",
+      "listing_url": "https://www.vancouverhonda.com/en/used-inventory/land-rover/range-rover-sport/2024-land-rover-range-rover-sport-id39071011",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/land-rover/range-rover-sport/2024-land-rover-range-rover-sport-id39071011?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-16T21:17:55",
+      "snapshot": "2026-10-16T23:41:31",
+      "go_url": "https://carwhisper.ca/go/vancouver-honda-sal1l9fu5ra194308",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Vancouver Honda"
     }
   ]
 }

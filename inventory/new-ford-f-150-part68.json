@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T03:08:13+00:00",
-  "snapshot": "2026-10-17T03:08:13+00:00",
+  "generated_at": "2026-10-17T09:08:14+00:00",
+  "snapshot": "2026-10-17T09:08:14+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 31,
   "vehicles": [
@@ -360,6 +360,30 @@
       "city": "Campbell River",
       "province": "BC",
       "dealer_name": "Steve Marshall Motors (1996) Ltd."
+    },
+    {
+      "pub_id": "nanaimo-toyota-1ftew2lpxske46513",
+      "year": 2025,
+      "make": "Ford",
+      "model": "F-150",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": 52995.0,
+      "price_note": null,
+      "color": "Oxford White",
+      "dealer_id": "nanaimo-toyota",
+      "vin": "1FTEW2LPXSKE46513",
+      "stock": 14232327,
+      "listing_url": "https://www.nanaimotoyota.com/used/2025-Ford-F_150.html",
+      "dealer_url": "https://www.nanaimotoyota.com/used/2025-Ford-F_150.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T19:02:51",
+      "snapshot": "2026-10-17T01:45:46",
+      "go_url": "https://carwhisper.ca/go/nanaimo-toyota-1ftew2lpxske46513",
+      "region": "Vancouver Island",
+      "city": "Nanaimo",
+      "province": "BC",
+      "dealer_name": "Nanaimo Toyota"
     },
     {
       "pub_id": "steve-marshall-motors-1996-ltd-1ftew2lp9tke96465",
@@ -798,34 +822,6 @@
       "city": "Nanaimo",
       "province": "BC",
       "dealer_name": "Sunshine Mountain Ford Lincoln Ltd."
-    },
-    {
-      "pub_id": "island-ford-1ftew2lp4tke69061",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "body_type": "truck",
-      "drivetrain": "4WD",
-      "propulsion": "gas",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
-      "condition": "new",
-      "price_cad": 62367.0,
-      "price_note": null,
-      "color": "Grey",
-      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/4db07dbc-1214-4238-ba48-d156848933af_60d0ff48-0dfd-4a60-a0e5-6faf49e3c7ab.jpg",
-      "dealer_id": "island-ford",
-      "vin": "1FTEW2LP4TKE69061",
-      "stock": "26757VI",
-      "listing_url": "https://www.islandford.ca/vehicles/2026/ford/f-150/duncan/bc/70294553/?sale_class=new",
-      "dealer_url": "https://www.islandford.ca/vehicles/2026/ford/f-150/duncan/bc/70294553/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T04:08:46",
-      "snapshot": "2026-10-15T08:27:41",
-      "go_url": "https://carwhisper.ca/go/island-ford-1ftew2lp4tke69061",
-      "region": "Vancouver Island",
-      "city": "Duncan",
-      "province": "BC",
-      "dealer_name": "Island Ford"
     }
   ]
 }

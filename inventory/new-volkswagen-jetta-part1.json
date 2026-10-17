@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T03:08:13+00:00",
-  "snapshot": "2026-10-17T03:08:13+00:00",
+  "generated_at": "2026-10-17T09:08:14+00:00",
+  "snapshot": "2026-10-17T09:08:14+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 31,
+  "count": 30,
   "vehicles": [
     {
       "pub_id": "maple-ridge-hyundai-3vwsx7bu7sm108366",
@@ -852,34 +852,6 @@
       "city": "Chilliwack",
       "province": "BC",
       "dealer_name": "Chilliwack Volkswagen"
-    },
-    {
-      "pub_id": "gold-key-langley-volkswagen-3vwew7bu1tm001038",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "trim": "Comfortline Auto",
-      "drivetrain": "FWD",
-      "propulsion": "gas",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
-      "condition": "new",
-      "odometer_km": 10,
-      "price_cad": 32172.0,
-      "price_note": null,
-      "color": "Silver",
-      "dealer_id": "gold-key-langley-volkswagen",
-      "vin": "3VWEW7BU1TM001038",
-      "stock": "12852592",
-      "listing_url": "https://www.goldkeyvw.ca/new/inventory/2026-Volkswagen-Jetta-id12852592.html",
-      "dealer_url": "https://www.goldkeyvw.ca/new/inventory/2026-Volkswagen-Jetta-id12852592.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T07:37:03",
-      "snapshot": "2026-10-16T07:38:21",
-      "go_url": "https://carwhisper.ca/go/gold-key-langley-volkswagen-3vwew7bu1tm001038",
-      "region": "Lower Mainland",
-      "city": "Langley",
-      "province": "BC",
-      "dealer_name": "Gold Key Langley Volkswagen"
     }
   ]
 }

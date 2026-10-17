@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T03:08:13+00:00",
+  "generated_at": "2026-10-17T09:08:14+00:00",
   "condition": "used",
   "make": "acura",
   "files": [
@@ -8,12 +8,12 @@
       "make": "acura",
       "model": "MDX",
       "shard": "part1",
-      "count": 32,
+      "count": 31,
       "file": "inventory/used-acura-mdx-part1.json",
       "models": [
         {
           "model": "MDX",
-          "count": 32
+          "count": 31
         }
       ]
     },
@@ -22,12 +22,12 @@
       "make": "acura",
       "model": "MDX",
       "shard": "part2",
-      "count": 32,
+      "count": 31,
       "file": "inventory/used-acura-mdx-part2.json",
       "models": [
         {
           "model": "MDX",
-          "count": 32
+          "count": 31
         }
       ]
     },
@@ -36,12 +36,12 @@
       "make": "acura",
       "model": "MDX",
       "shard": "part3",
-      "count": 32,
+      "count": 31,
       "file": "inventory/used-acura-mdx-part3.json",
       "models": [
         {
           "model": "MDX",
-          "count": 32
+          "count": 31
         }
       ]
     },
@@ -50,25 +50,26 @@
       "make": "acura",
       "model": "MDX",
       "shard": "part4",
-      "count": 32,
+      "count": 31,
       "file": "inventory/used-acura-mdx-part4.json",
       "models": [
         {
           "model": "MDX",
-          "count": 32
+          "count": 31
         }
       ]
     },
     {
       "condition": "used",
       "make": "acura",
-      "model": "RDX Tech at",
-      "count": 1,
-      "file": "inventory/used-acura-rdx-tech-at.json",
+      "model": "MDX",
+      "shard": "part5",
+      "count": 28,
+      "file": "inventory/used-acura-mdx-part5.json",
       "models": [
         {
-          "model": "RDX Tech at",
-          "count": 1
+          "model": "MDX",
+          "count": 28
         }
       ]
     },
@@ -76,12 +77,12 @@
       "condition": "used",
       "make": "acura",
       "model": "TSX",
-      "count": 10,
+      "count": 12,
       "file": "inventory/used-acura-tsx.json",
       "models": [
         {
           "model": "TSX",
-          "count": 10
+          "count": 12
         }
       ]
     },
@@ -89,12 +90,12 @@
       "condition": "used",
       "make": "acura",
       "model": "ILX",
-      "count": 22,
+      "count": 26,
       "file": "inventory/used-acura-ilx.json",
       "models": [
         {
           "model": "ILX",
-          "count": 22
+          "count": 26
         }
       ]
     },
@@ -103,12 +104,12 @@
       "make": "acura",
       "model": "RDX",
       "shard": "part1",
-      "count": 31,
+      "count": 28,
       "file": "inventory/used-acura-rdx-part1.json",
       "models": [
         {
           "model": "RDX",
-          "count": 31
+          "count": 28
         }
       ]
     },
@@ -117,12 +118,12 @@
       "make": "acura",
       "model": "RDX",
       "shard": "part2",
-      "count": 31,
+      "count": 28,
       "file": "inventory/used-acura-rdx-part2.json",
       "models": [
         {
           "model": "RDX",
-          "count": 31
+          "count": 28
         }
       ]
     },
@@ -131,12 +132,12 @@
       "make": "acura",
       "model": "RDX",
       "shard": "part3",
-      "count": 31,
+      "count": 28,
       "file": "inventory/used-acura-rdx-part3.json",
       "models": [
         {
           "model": "RDX",
-          "count": 31
+          "count": 28
         }
       ]
     },
@@ -151,6 +152,20 @@
         {
           "model": "RDX",
           "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "acura",
+      "model": "RDX",
+      "shard": "part5",
+      "count": 24,
+      "file": "inventory/used-acura-rdx-part5.json",
+      "models": [
+        {
+          "model": "RDX",
+          "count": 24
         }
       ]
     },
@@ -184,12 +199,12 @@
       "condition": "used",
       "make": "acura",
       "model": "TLX",
-      "count": 16,
+      "count": 18,
       "file": "inventory/used-acura-tlx.json",
       "models": [
         {
           "model": "TLX",
-          "count": 16
+          "count": 18
         }
       ]
     },
@@ -198,12 +213,12 @@
       "make": "acura",
       "model": "Integra",
       "shard": "part1",
-      "count": 24,
+      "count": 28,
       "file": "inventory/used-acura-integra-part1.json",
       "models": [
         {
           "model": "Integra",
-          "count": 24
+          "count": 28
         }
       ]
     },
@@ -212,12 +227,12 @@
       "make": "acura",
       "model": "Integra",
       "shard": "part2",
-      "count": 24,
+      "count": 28,
       "file": "inventory/used-acura-integra-part2.json",
       "models": [
         {
           "model": "Integra",
-          "count": 24
+          "count": 28
         }
       ]
     },
@@ -226,12 +241,12 @@
       "make": "acura",
       "model": "Integra",
       "shard": "part3",
-      "count": 23,
+      "count": 27,
       "file": "inventory/used-acura-integra-part3.json",
       "models": [
         {
           "model": "Integra",
-          "count": 23
+          "count": 27
         }
       ]
     },
@@ -239,12 +254,12 @@
       "condition": "used",
       "make": "acura",
       "model": "ADX",
-      "count": 27,
+      "count": 31,
       "file": "inventory/used-acura-adx.json",
       "models": [
         {
           "model": "ADX",
-          "count": 27
+          "count": 31
         }
       ]
     },
@@ -278,12 +293,12 @@
       "condition": "used",
       "make": "acura",
       "model": "TLX SH-AWD A-Spec",
-      "count": 9,
+      "count": 11,
       "file": "inventory/used-acura-tlx-sh-awd-a-spec.json",
       "models": [
         {
           "model": "TLX SH-AWD A-Spec",
-          "count": 9
+          "count": 11
         }
       ]
     },
@@ -291,12 +306,12 @@
       "condition": "used",
       "make": "acura",
       "model": "RDX A-Spec AWD",
-      "count": 5,
+      "count": 9,
       "file": "inventory/used-acura-rdx-a-spec-awd.json",
       "models": [
         {
           "model": "RDX A-Spec AWD",
-          "count": 5
+          "count": 9
         }
       ]
     },

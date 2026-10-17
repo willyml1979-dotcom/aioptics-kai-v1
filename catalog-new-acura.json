@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T03:08:13+00:00",
+  "generated_at": "2026-10-17T09:08:14+00:00",
   "condition": "new",
   "make": "acura",
   "files": [
@@ -92,12 +92,40 @@
       "make": "acura",
       "model": "ADX",
       "shard": "part7",
-      "count": 27,
+      "count": 32,
       "file": "inventory/new-acura-adx-part7.json",
       "models": [
         {
           "model": "ADX",
-          "count": 27
+          "count": 32
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "acura",
+      "model": "ADX",
+      "shard": "part8",
+      "count": 32,
+      "file": "inventory/new-acura-adx-part8.json",
+      "models": [
+        {
+          "model": "ADX",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "acura",
+      "model": "ADX",
+      "shard": "part9",
+      "count": 32,
+      "file": "inventory/new-acura-adx-part9.json",
+      "models": [
+        {
+          "model": "ADX",
+          "count": 32
         }
       ]
     },
@@ -105,12 +133,12 @@
       "condition": "new",
       "make": "acura",
       "model": "Integra",
-      "count": 17,
+      "count": 22,
       "file": "inventory/new-acura-integra.json",
       "models": [
         {
           "model": "Integra",
-          "count": 17
+          "count": 22
         }
       ]
     },
@@ -145,12 +173,12 @@
       "make": "acura",
       "model": "MDX",
       "shard": "part1",
-      "count": 27,
+      "count": 26,
       "file": "inventory/new-acura-mdx-part1.json",
       "models": [
         {
           "model": "MDX",
-          "count": 27
+          "count": 26
         }
       ]
     },
@@ -172,12 +200,12 @@
       "condition": "new",
       "make": "acura",
       "model": "Integra Elite A-Spec CVT",
-      "count": 10,
+      "count": 14,
       "file": "inventory/new-acura-integra-elite-a-spec-cvt.json",
       "models": [
         {
           "model": "Integra Elite A-Spec CVT",
-          "count": 10
+          "count": 14
         }
       ]
     },
@@ -185,12 +213,12 @@
       "condition": "new",
       "make": "acura",
       "model": "Integra Elite A-Spec MT",
-      "count": 4,
+      "count": 6,
       "file": "inventory/new-acura-integra-elite-a-spec-mt.json",
       "models": [
         {
           "model": "Integra Elite A-Spec MT",
-          "count": 4
+          "count": 6
         }
       ]
     },

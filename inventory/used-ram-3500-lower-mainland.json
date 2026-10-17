@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T03:08:13+00:00",
-  "snapshot": "2026-10-17T03:08:13+00:00",
+  "generated_at": "2026-10-17T09:08:14+00:00",
+  "snapshot": "2026-10-17T09:08:14+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 23,
+  "count": 24,
   "vehicles": [
     {
       "pub_id": "maple-ridge-hyundai-3c63r3el4jg143819",
@@ -128,6 +128,30 @@
       "city": "Mission",
       "province": "BC",
       "dealer_name": "Pioneer Chrysler Jeep"
+    },
+    {
+      "pub_id": "the-honda-way-abbotsford-3c63r3el1lg134661",
+      "year": 2020,
+      "make": "RAM",
+      "model": "3500",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 61980.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "the-honda-way-abbotsford",
+      "vin": "3C63R3EL1LG134661",
+      "stock": 14364747,
+      "listing_url": "https://www.hondaway.com/used/2020-RAM-3500.html",
+      "dealer_url": "https://www.hondaway.com/used/2020-RAM-3500.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-16T20:21:56",
+      "snapshot": "2026-10-16T20:28:09",
+      "go_url": "https://carwhisper.ca/go/the-honda-way-abbotsford-3c63r3el1lg134661",
+      "region": "Lower Mainland",
+      "city": "Abbotsford",
+      "province": "BC",
+      "dealer_name": "The Honda Way - Abbotsford"
     },
     {
       "pub_id": "maple-ridge-chrysler-jeep-dodge-3c63r3sl5lg232905",

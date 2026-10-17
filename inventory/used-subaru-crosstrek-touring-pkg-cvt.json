@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T03:08:13+00:00",
-  "snapshot": "2026-10-17T03:08:13+00:00",
+  "generated_at": "2026-10-17T09:08:14+00:00",
+  "snapshot": "2026-10-17T09:08:14+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "acura-of-langley-jf2gpabc4hh261458",
@@ -75,6 +75,54 @@
       "city": "North Vancouver",
       "province": "BC",
       "dealer_name": "Mercedes-Benz North Vancouver"
+    },
+    {
+      "pub_id": "north-shore-acura-jf2gpabc4hh261458",
+      "year": 2017,
+      "make": "Subaru",
+      "model": "Crosstrek Touring Pkg CVT",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 163800,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "north-shore-acura",
+      "vin": "JF2GPABC4HH261458",
+      "stock": "H126193",
+      "listing_url": "https://www.northshoreacura.ca/en/used-inventory/subaru/crosstrek/2017-subaru-crosstrek-id39140076",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/subaru/crosstrek/2017-subaru-crosstrek-id39140076?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T00:51:02",
+      "snapshot": "2026-10-17T01:37:02",
+      "go_url": "https://carwhisper.ca/go/north-shore-acura-jf2gpabc4hh261458",
+      "region": "Lower Mainland",
+      "city": "North Vancouver",
+      "province": "BC",
+      "dealer_name": "North Shore Acura"
+    },
+    {
+      "pub_id": "vancouver-honda-jf2gpabc4hh261458",
+      "year": 2017,
+      "make": "Subaru",
+      "model": "Crosstrek Touring Pkg CVT",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 163800,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "vancouver-honda",
+      "vin": "JF2GPABC4HH261458",
+      "stock": "H126193",
+      "listing_url": "https://www.vancouverhonda.com/en/used-inventory/subaru/crosstrek/2017-subaru-crosstrek-id39140076",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/subaru/crosstrek/2017-subaru-crosstrek-id39140076?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-16T22:54:39",
+      "snapshot": "2026-10-16T23:41:31",
+      "go_url": "https://carwhisper.ca/go/vancouver-honda-jf2gpabc4hh261458",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Vancouver Honda"
     }
   ]
 }

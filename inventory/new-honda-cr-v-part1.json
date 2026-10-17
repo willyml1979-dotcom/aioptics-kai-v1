@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T03:08:13+00:00",
-  "snapshot": "2026-10-17T03:08:13+00:00",
+  "generated_at": "2026-10-17T09:08:14+00:00",
+  "snapshot": "2026-10-17T09:08:14+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 31,
+  "count": 30,
   "vehicles": [
     {
       "pub_id": "glacier-honda-80223-490898",
@@ -845,30 +845,6 @@
       "city": "Burnaby",
       "province": "BC",
       "dealer_name": "Destination Burnaby Honda (Happy Honda)"
-    },
-    {
-      "pub_id": "marv-jones-honda-80223-490898",
-      "year": 2027,
-      "make": "Honda",
-      "model": "CR-V",
-      "trim": "LX 2WD",
-      "propulsion": "unknown",
-      "propulsion_source": null,
-      "condition": "new",
-      "price_cad": 39710.0,
-      "price_note": null,
-      "color": "{$COLOREX}",
-      "dealer_id": "marv-jones-honda",
-      "stock": "80223-490898",
-      "listing_url": "https://www.marvjoneshonda.com/new/2027-Honda-CR_V.html",
-      "dealer_url": "https://www.marvjoneshonda.com/new/2027-Honda-CR_V.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T18:56:05",
-      "snapshot": "2026-10-10T18:57:53",
-      "go_url": "https://carwhisper.ca/go/marv-jones-honda-80223-490898",
-      "region": "Lower Mainland",
-      "city": "Maple Ridge",
-      "province": "BC",
-      "dealer_name": "Marv Jones Honda"
     }
   ]
 }

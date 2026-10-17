@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T03:08:13+00:00",
-  "snapshot": "2026-10-17T03:08:13+00:00",
+  "generated_at": "2026-10-17T09:08:14+00:00",
+  "snapshot": "2026-10-17T09:08:14+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "comox-valley-toyota-jtmababd9vj036064",
@@ -116,6 +116,35 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Jim Pattison Toyota Duncan"
+    },
+    {
+      "pub_id": "nanaimo-toyota-jtmababd7vj031946",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "C-HR",
+      "trim": "4dr Fwd Se",
+      "body_type": "suv",
+      "drivetrain": "FWD",
+      "propulsion": "electric",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 0,
+      "price_cad": 47958.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "nanaimo-toyota",
+      "vin": "JTMABABD7VJ031946",
+      "stock": "14485575",
+      "listing_url": "https://www.nanaimotoyota.com/new/inventory/2027-Toyota-C_HR-id14485575.html",
+      "dealer_url": "https://www.nanaimotoyota.com/new/inventory/2027-Toyota-C_HR-id14485575.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T01:39:17",
+      "snapshot": "2026-10-17T01:45:46",
+      "go_url": "https://carwhisper.ca/go/nanaimo-toyota-jtmababd7vj031946",
+      "region": "Vancouver Island",
+      "city": "Nanaimo",
+      "province": "BC",
+      "dealer_name": "Nanaimo Toyota"
     }
   ]
 }

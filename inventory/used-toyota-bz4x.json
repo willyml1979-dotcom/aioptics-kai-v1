@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T03:08:13+00:00",
-  "snapshot": "2026-10-17T03:08:13+00:00",
+  "generated_at": "2026-10-17T09:08:14+00:00",
+  "snapshot": "2026-10-17T09:08:14+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 13,
+  "count": 14,
   "vehicles": [
     {
       "pub_id": "jim-pattison-toyota-surrey-jtmaaaaa8sa058403",
@@ -256,6 +256,30 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Kelowna Toyota Ltd."
+    },
+    {
+      "pub_id": "nanaimo-toyota-jtmabaca5ra046732",
+      "year": 2024,
+      "make": "Toyota",
+      "model": "bZ4X",
+      "propulsion": "electric",
+      "propulsion_source": "model_variant",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "price_cad": 36995.0,
+      "price_note": null,
+      "dealer_id": "nanaimo-toyota",
+      "vin": "JTMABACA5RA046732",
+      "stock": 14394135,
+      "listing_url": "https://www.nanaimotoyota.com/used/2024-Toyota-BZ4X.html",
+      "dealer_url": "https://www.nanaimotoyota.com/used/2024-Toyota-BZ4X.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T19:02:05",
+      "snapshot": "2026-10-17T01:45:46",
+      "go_url": "https://carwhisper.ca/go/nanaimo-toyota-jtmabaca5ra046732",
+      "region": "Vancouver Island",
+      "city": "Nanaimo",
+      "province": "BC",
+      "dealer_name": "Nanaimo Toyota"
     },
     {
       "pub_id": "kia-victoria-jtmabaca7ra051320",
