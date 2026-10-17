@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T15:08:15+00:00",
-  "snapshot": "2026-10-17T15:08:15+00:00",
+  "generated_at": "2026-10-17T21:08:55+00:00",
+  "snapshot": "2026-10-17T21:08:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 11,
+  "count": 13,
   "vehicles": [
     {
       "pub_id": "acura-of-langley-salws2ru7ma756729",
@@ -51,6 +51,30 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Burrard Acura"
+    },
+    {
+      "pub_id": "mercedes-benz-boundary-salws2ru7ma756729",
+      "year": 2021,
+      "make": "Land Rover",
+      "model": "Range Rover Sport P400 HST",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 43401,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "mercedes-benz-boundary",
+      "vin": "SALWS2RU7MA756729",
+      "stock": "L26533A",
+      "listing_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/land-rover/range-rover-sport/2021-land-rover-range-rover-sport-id39171065",
+      "dealer_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/land-rover/range-rover-sport/2021-land-rover-range-rover-sport-id39171065?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T12:18:39",
+      "snapshot": "2026-10-17T13:16:09",
+      "go_url": "https://carwhisper.ca/go/mercedes-benz-boundary-salws2ru7ma756729",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Mercedes-Benz Boundary"
     },
     {
       "pub_id": "mercedes-benz-langley-salws2ru7ma756729",
@@ -219,6 +243,30 @@
       "city": "North Vancouver",
       "province": "BC",
       "dealer_name": "North Vancouver Nissan / Infiniti North Vancouver"
+    },
+    {
+      "pub_id": "southside-nissan-ltd-salws2ru7ma756729",
+      "year": 2021,
+      "make": "Land Rover",
+      "model": "Range Rover Sport P400 HST",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 43401,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "southside-nissan-ltd",
+      "vin": "SALWS2RU7MA756729",
+      "stock": "L26533A",
+      "listing_url": "https://www.southsidenissan.ca/en/used-inventory/land-rover/range-rover-sport/2021-land-rover-range-rover-sport-id39171065",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/land-rover/range-rover-sport/2021-land-rover-range-rover-sport-id39171065?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T09:21:30",
+      "snapshot": "2026-10-17T12:39:57",
+      "go_url": "https://carwhisper.ca/go/southside-nissan-ltd-salws2ru7ma756729",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Southside Nissan Ltd."
     },
     {
       "pub_id": "vancouver-honda-salws2ru7ma756729",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T15:08:15+00:00",
+  "generated_at": "2026-10-17T21:08:55+00:00",
   "condition": "used",
   "make": "volvo",
   "files": [
@@ -47,12 +47,12 @@
       "make": "volvo",
       "model": "XC90",
       "shard": "Lower Mainland",
-      "count": 27,
+      "count": 28,
       "file": "inventory/used-volvo-xc90-lower-mainland.json",
       "models": [
         {
           "model": "XC90",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -61,12 +61,12 @@
       "make": "volvo",
       "model": "XC90",
       "shard": "Okanagan",
-      "count": 3,
+      "count": 4,
       "file": "inventory/used-volvo-xc90-okanagan.json",
       "models": [
         {
           "model": "XC90",
-          "count": 3
+          "count": 4
         }
       ]
     },
@@ -102,12 +102,12 @@
       "condition": "used",
       "make": "volvo",
       "model": "XC40",
-      "count": 25,
+      "count": 27,
       "file": "inventory/used-volvo-xc40.json",
       "models": [
         {
           "model": "XC40",
-          "count": 25
+          "count": 27
         }
       ]
     },
@@ -157,19 +157,6 @@
     {
       "condition": "used",
       "make": "volvo",
-      "model": "XC60 Recharge",
-      "count": 5,
-      "file": "inventory/used-volvo-xc60-recharge.json",
-      "models": [
-        {
-          "model": "XC60 Recharge",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volvo",
       "model": "Xc90 T8 Recharge R-Design",
       "count": 2,
       "file": "inventory/used-volvo-xc90-t8-recharge-r-design.json",
@@ -203,6 +190,19 @@
         {
           "model": "C40 Recharge Pure Electric",
           "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volvo",
+      "model": "XC60 Recharge",
+      "count": 5,
+      "file": "inventory/used-volvo-xc60-recharge.json",
+      "models": [
+        {
+          "model": "XC60 Recharge",
+          "count": 5
         }
       ]
     },
@@ -249,12 +249,12 @@
       "condition": "used",
       "make": "volvo",
       "model": "EX40",
-      "count": 14,
+      "count": 15,
       "file": "inventory/used-volvo-ex40.json",
       "models": [
         {
           "model": "EX40",
-          "count": 14
+          "count": 15
         }
       ]
     },
@@ -278,13 +278,26 @@
     {
       "condition": "used",
       "make": "volvo",
+      "model": "XC60 Plug-in Hybrid",
+      "count": 1,
+      "file": "inventory/used-volvo-xc60-plug-in-hybrid.json",
+      "models": [
+        {
+          "model": "XC60 Plug-in Hybrid",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volvo",
       "model": "XC90 T6 AWD Momentum (6-Seat)",
-      "count": 12,
+      "count": 14,
       "file": "inventory/used-volvo-xc90-t6-awd-momentum-6-seat.json",
       "models": [
         {
           "model": "XC90 T6 AWD Momentum (6-Seat)",
-          "count": 12
+          "count": 14
         }
       ]
     },

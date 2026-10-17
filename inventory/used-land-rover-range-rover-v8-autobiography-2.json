@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T15:08:15+00:00",
-  "snapshot": "2026-10-17T15:08:15+00:00",
+  "generated_at": "2026-10-17T21:08:55+00:00",
+  "snapshot": "2026-10-17T21:08:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 10,
+  "count": 12,
   "vehicles": [
     {
       "pub_id": "acura-of-langley-salgv2tf1ea173368",
@@ -51,6 +51,30 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Burrard Acura"
+    },
+    {
+      "pub_id": "mercedes-benz-boundary-salgv2tf1ea173368",
+      "year": 2014,
+      "make": "Land Rover",
+      "model": "Range Rover V8 Autobiography (2)",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 122000,
+      "price_cad": 25188.0,
+      "price_note": null,
+      "dealer_id": "mercedes-benz-boundary",
+      "vin": "SALGV2TF1EA173368",
+      "stock": "2665175",
+      "listing_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/land-rover/range-rover/2014-land-rover-range-rover-id39340929",
+      "dealer_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/land-rover/range-rover/2014-land-rover-range-rover-id39340929?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T12:20:10",
+      "snapshot": "2026-10-17T13:16:09",
+      "go_url": "https://carwhisper.ca/go/mercedes-benz-boundary-salgv2tf1ea173368",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Mercedes-Benz Boundary"
     },
     {
       "pub_id": "mercedes-benz-langley-salgv2tf1ea173368",
@@ -195,6 +219,30 @@
       "city": "North Vancouver",
       "province": "BC",
       "dealer_name": "North Vancouver Nissan / Infiniti North Vancouver"
+    },
+    {
+      "pub_id": "southside-nissan-ltd-salgv2tf1ea173368",
+      "year": 2014,
+      "make": "Land Rover",
+      "model": "Range Rover V8 Autobiography (2)",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 122000,
+      "price_cad": 25188.0,
+      "price_note": null,
+      "dealer_id": "southside-nissan-ltd",
+      "vin": "SALGV2TF1EA173368",
+      "stock": "2665175",
+      "listing_url": "https://www.southsidenissan.ca/en/used-inventory/land-rover/range-rover/2014-land-rover-range-rover-id39340929",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/land-rover/range-rover/2014-land-rover-range-rover-id39340929?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T09:29:00",
+      "snapshot": "2026-10-17T12:39:57",
+      "go_url": "https://carwhisper.ca/go/southside-nissan-ltd-salgv2tf1ea173368",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Southside Nissan Ltd."
     },
     {
       "pub_id": "vancouver-honda-salgv2tf1ea173368",

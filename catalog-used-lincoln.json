@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T15:08:15+00:00",
+  "generated_at": "2026-10-17T21:08:55+00:00",
   "condition": "used",
   "make": "lincoln",
   "files": [
@@ -7,7 +7,7 @@
       "condition": "used",
       "make": "lincoln",
       "model": "Nautilus",
-      "count": 28,
+      "count": 30,
       "file": "inventory/used-lincoln-nautilus.json",
       "models": [
         {
@@ -16,7 +16,7 @@
         },
         {
           "model": "Nautilus",
-          "count": 27
+          "count": 29
         }
       ]
     },
@@ -161,13 +161,26 @@
     {
       "condition": "used",
       "make": "lincoln",
+      "model": "CorsairStandard 4dr All-Wheel Drive",
+      "count": 1,
+      "file": "inventory/used-lincoln-corsairstandard-4dr-all-wheel-drive.json",
+      "models": [
+        {
+          "model": "CorsairStandard 4dr All-Wheel Drive",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lincoln",
       "model": "MKZ HybridReserve 4dr Front-Wheel Drive",
-      "count": 2,
+      "count": 1,
       "file": "inventory/used-lincoln-mkz-hybridreserve-4dr-front-wheel-drive.json",
       "models": [
         {
           "model": "MKZ HybridReserve 4dr Front-Wheel Drive",
-          "count": 2
+          "count": 1
         }
       ]
     },

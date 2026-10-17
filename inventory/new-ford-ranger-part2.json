@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T15:08:15+00:00",
-  "snapshot": "2026-10-17T15:08:15+00:00",
+  "generated_at": "2026-10-17T21:08:55+00:00",
+  "snapshot": "2026-10-17T21:08:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 31,
   "vehicles": [
@@ -465,33 +465,6 @@
       "dealer_name": "Coastal Ford Vancouver"
     },
     {
-      "pub_id": "metro-motors-ltd-ford-1fter4hhxtle13401",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Ranger",
-      "drivetrain": "4WD",
-      "propulsion": "unknown",
-      "propulsion_source": null,
-      "condition": "new",
-      "odometer_km": 13,
-      "price_cad": 51236.26,
-      "price_note": null,
-      "color": "Avalanche",
-      "photo_url": "https://vehicleimages.leadboxhq.com/v1/metromotors/1754387/123ff443-83d3-45a6-894b-15f95a89b538-600.jpg",
-      "dealer_id": "metro-motors-ltd-ford",
-      "vin": "1FTER4HHXTLE13401",
-      "stock": "26RA3401",
-      "listing_url": "https://metromotors.com/view/new-2026-ford-ranger-1754387/",
-      "dealer_url": "https://metromotors.com/view/new-2026-ford-ranger-1754387/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T19:52:01",
-      "snapshot": "2026-10-10T19:52:39",
-      "go_url": "https://carwhisper.ca/go/metro-motors-ltd-ford-1fter4hhxtle13401",
-      "region": "Lower Mainland",
-      "city": "Port Coquitlam",
-      "province": "BC",
-      "dealer_name": "Metro Motors Ltd. (Ford)"
-    },
-    {
       "pub_id": "coastal-ford-burnaby-1fter4hh7tle13307",
       "year": 2026,
       "make": "Ford",
@@ -898,6 +871,34 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Brown Bros Ford Lincoln"
+    },
+    {
+      "pub_id": "coastal-ford-burnaby-1fter4hh6tle63101",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Ranger",
+      "trim": "XLT",
+      "drivetrain": "AWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "odometer_km": 5,
+      "price_cad": 53600.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://img.sm360.ca/images/inventory/coastal-ford-vancouver/ford/ranger/2026/39334216/39334216_06923_a8c3fd5f7fcf51db596f71dac58091d9.png",
+      "dealer_id": "coastal-ford-burnaby",
+      "vin": "1FTER4HH6TLE63101",
+      "stock": "R4HZ573",
+      "listing_url": "https://www.coastalfordburnaby.com/en/new-inventory/v/v/v-id39334216",
+      "dealer_url": "https://www.coastalfordburnaby.com/en/new-inventory/v/v/v-id39334216?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T04:41:43",
+      "snapshot": "2026-10-16T17:17:28",
+      "go_url": "https://carwhisper.ca/go/coastal-ford-burnaby-1fter4hh6tle63101",
+      "region": "Lower Mainland",
+      "city": "Burnaby",
+      "province": "BC",
+      "dealer_name": "Coastal Ford Burnaby"
     }
   ]
 }

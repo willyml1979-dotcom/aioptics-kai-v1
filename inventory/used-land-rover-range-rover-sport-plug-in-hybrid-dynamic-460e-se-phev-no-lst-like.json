@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T15:08:15+00:00",
-  "snapshot": "2026-10-17T15:08:15+00:00",
+  "generated_at": "2026-10-17T21:08:55+00:00",
+  "snapshot": "2026-10-17T21:08:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 12,
+  "count": 13,
   "vehicles": [
     {
       "pub_id": "acura-of-langley-sal1l9e45sa482255",
@@ -72,7 +72,7 @@
       "listing_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/land-rover/range-rover-sport-plug-in-hybrid/2025-land-rover-range-rover-sport-plug-in-hybrid-id38907688",
       "dealer_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/land-rover/range-rover-sport-plug-in-hybrid/2025-land-rover-range-rover-sport-plug-in-hybrid-id38907688?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T21:58:44",
-      "snapshot": "2026-10-10T23:48:17",
+      "snapshot": "2026-10-17T13:16:09",
       "go_url": "https://carwhisper.ca/go/mercedes-benz-boundary-sal1l9e45sa482255",
       "region": "Lower Mainland",
       "city": "Vancouver",
@@ -253,6 +253,31 @@
       "city": "North Vancouver",
       "province": "BC",
       "dealer_name": "North Vancouver Nissan / Infiniti North Vancouver"
+    },
+    {
+      "pub_id": "southside-nissan-ltd-sal1l9e45sa482255",
+      "year": 2025,
+      "make": "Land Rover",
+      "model": "RANGE ROVER SPORT Plug-in Hybrid Dynamic 460e SE PHEV - No LST - Like",
+      "propulsion": "plug-in hybrid",
+      "propulsion_source": "model_trim_name",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 1000,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "southside-nissan-ltd",
+      "vin": "SAL1L9E45SA482255",
+      "stock": "LR25172",
+      "listing_url": "https://www.southsidenissan.ca/en/used-inventory/land-rover/range-rover-sport-plug-in-hybrid/2025-land-rover-range-rover-sport-plug-in-hybrid-id38907688",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/land-rover/range-rover-sport-plug-in-hybrid/2025-land-rover-range-rover-sport-plug-in-hybrid-id38907688?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T09:19:28",
+      "snapshot": "2026-10-17T12:39:57",
+      "go_url": "https://carwhisper.ca/go/southside-nissan-ltd-sal1l9e45sa482255",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Southside Nissan Ltd."
     },
     {
       "pub_id": "vancouver-honda-sal1l9e45sa482255",

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T15:08:15+00:00",
-  "snapshot": "2026-10-17T15:08:15+00:00",
+  "generated_at": "2026-10-17T21:08:55+00:00",
+  "snapshot": "2026-10-17T21:08:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "north-shore-acura-kmuhcesc2su268135",
@@ -78,6 +78,31 @@
       "city": "North Vancouver",
       "province": "BC",
       "dealer_name": "North Vancouver Nissan / Infiniti North Vancouver"
+    },
+    {
+      "pub_id": "southside-nissan-ltd-kmuhcesc2su268135",
+      "year": 2025,
+      "make": "Genesis",
+      "model": "GV80 3.5T Prestige AWD 7P",
+      "drivetrain": "AWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 37369,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "southside-nissan-ltd",
+      "vin": "KMUHCESC2SU268135",
+      "stock": "JL12B08",
+      "listing_url": "https://www.southsidenissan.ca/en/used-inventory/genesis/gv80/2025-genesis-gv80-id39325598",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/genesis/gv80/2025-genesis-gv80-id39325598?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T08:25:36",
+      "snapshot": "2026-10-17T12:39:57",
+      "go_url": "https://carwhisper.ca/go/southside-nissan-ltd-kmuhcesc2su268135",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Southside Nissan Ltd."
     },
     {
       "pub_id": "vancouver-honda-kmuhcesc2su268135",

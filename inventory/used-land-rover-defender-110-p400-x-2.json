@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T15:08:15+00:00",
-  "snapshot": "2026-10-17T15:08:15+00:00",
+  "generated_at": "2026-10-17T21:08:55+00:00",
+  "snapshot": "2026-10-17T21:08:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 11,
+  "count": 13,
   "vehicles": [
     {
       "pub_id": "acura-of-langley-salex7euxp2133796",
@@ -51,6 +51,30 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Burrard Acura"
+    },
+    {
+      "pub_id": "mercedes-benz-boundary-salex7euxp2133796",
+      "year": 2023,
+      "make": "Land Rover",
+      "model": "Defender 110 P400 X (2)",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 50500,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "mercedes-benz-boundary",
+      "vin": "SALEX7EUXP2133796",
+      "stock": "JL12B08",
+      "listing_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/land-rover/defender/2023-land-rover-defender-id39089120",
+      "dealer_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/land-rover/defender/2023-land-rover-defender-id39089120?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T12:13:48",
+      "snapshot": "2026-10-17T13:16:09",
+      "go_url": "https://carwhisper.ca/go/mercedes-benz-boundary-salex7euxp2133796",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Mercedes-Benz Boundary"
     },
     {
       "pub_id": "mercedes-benz-langley-salex7euxp2133796",
@@ -219,6 +243,30 @@
       "city": "North Vancouver",
       "province": "BC",
       "dealer_name": "North Vancouver Nissan / Infiniti North Vancouver"
+    },
+    {
+      "pub_id": "southside-nissan-ltd-salex7euxp2133796",
+      "year": 2023,
+      "make": "Land Rover",
+      "model": "Defender 110 P400 X (2)",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 50500,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "southside-nissan-ltd",
+      "vin": "SALEX7EUXP2133796",
+      "stock": "JL12B08",
+      "listing_url": "https://www.southsidenissan.ca/en/used-inventory/land-rover/defender/2023-land-rover-defender-id39089120",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/land-rover/defender/2023-land-rover-defender-id39089120?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T09:11:38",
+      "snapshot": "2026-10-17T12:39:57",
+      "go_url": "https://carwhisper.ca/go/southside-nissan-ltd-salex7euxp2133796",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Southside Nissan Ltd."
     },
     {
       "pub_id": "vancouver-honda-salex7euxp2133796",

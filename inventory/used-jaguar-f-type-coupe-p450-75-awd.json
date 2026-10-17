@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T15:08:15+00:00",
-  "snapshot": "2026-10-17T15:08:15+00:00",
+  "generated_at": "2026-10-17T21:08:55+00:00",
+  "snapshot": "2026-10-17T21:08:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 13,
+  "count": 14,
   "vehicles": [
     {
       "pub_id": "acura-of-langley-sajdv1ee9rck84514",
@@ -97,7 +97,7 @@
       "listing_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/jaguar/f-type/2024-jaguar-f-type-id39018372",
       "dealer_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/jaguar/f-type/2024-jaguar-f-type-id39018372?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T21:50:37",
-      "snapshot": "2026-10-10T23:48:17",
+      "snapshot": "2026-10-17T13:16:09",
       "go_url": "https://carwhisper.ca/go/mercedes-benz-boundary-sajdv1ee9rck84514",
       "region": "Lower Mainland",
       "city": "Vancouver",
@@ -278,6 +278,31 @@
       "city": "North Vancouver",
       "province": "BC",
       "dealer_name": "North Vancouver Nissan / Infiniti North Vancouver"
+    },
+    {
+      "pub_id": "southside-nissan-ltd-sajdv1ee9rck84514",
+      "year": 2024,
+      "make": "Jaguar",
+      "model": "F-Type Coupe P450 75 AWD",
+      "body_type": "coupe",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 9365,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "southside-nissan-ltd",
+      "vin": "SAJDV1EE9RCK84514",
+      "stock": "JL12B08",
+      "listing_url": "https://www.southsidenissan.ca/en/used-inventory/jaguar/f-type/2024-jaguar-f-type-id39018372",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/jaguar/f-type/2024-jaguar-f-type-id39018372?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T09:03:07",
+      "snapshot": "2026-10-17T12:39:57",
+      "go_url": "https://carwhisper.ca/go/southside-nissan-ltd-sajdv1ee9rck84514",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Southside Nissan Ltd."
     },
     {
       "pub_id": "vancouver-honda-sajdv1ee9rck84514",

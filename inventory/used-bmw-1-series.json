@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T15:08:15+00:00",
-  "snapshot": "2026-10-17T15:08:15+00:00",
+  "generated_at": "2026-10-17T21:08:55+00:00",
+  "snapshot": "2026-10-17T21:08:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "maple-ridge-hyundai-wbaul7c50cvm83227",
@@ -97,8 +97,8 @@
       "stock": 14501749,
       "listing_url": "https://www.okanagandodge.com/used/2012-BMW-1_Series.html",
       "dealer_url": "https://www.okanagandodge.com/used/2012-BMW-1_Series.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T16:40:05",
-      "snapshot": "2026-10-13T18:04:47",
+      "last_verified": "2026-10-17T11:46:11",
+      "snapshot": "2026-10-17T11:48:39",
       "go_url": "https://carwhisper.ca/go/okanagan-chrysler-dodge-jeep-ram-wbaul7c50cvm83227",
       "region": "Okanagan",
       "city": "Kelowna",
@@ -128,6 +128,30 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Duncan Hyundai"
+    },
+    {
+      "pub_id": "victoria-hyundai-wbaul7c50cvm83227",
+      "year": 2012,
+      "make": "BMW",
+      "model": "1 Series",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 13904.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "victoria-hyundai",
+      "vin": "WBAUL7C50CVM83227",
+      "stock": 14501749,
+      "listing_url": "https://www.victoriahyundai.com/used/2012-BMW-1_Series.html",
+      "dealer_url": "https://www.victoriahyundai.com/used/2012-BMW-1_Series.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T09:24:51",
+      "snapshot": "2026-10-17T09:33:42",
+      "go_url": "https://carwhisper.ca/go/victoria-hyundai-wbaul7c50cvm83227",
+      "region": "Vancouver Island",
+      "city": "Victoria",
+      "province": "BC",
+      "dealer_name": "Victoria Hyundai"
     }
   ]
 }

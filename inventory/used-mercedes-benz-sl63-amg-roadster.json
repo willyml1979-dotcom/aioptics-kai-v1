@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T15:08:15+00:00",
-  "snapshot": "2026-10-17T15:08:15+00:00",
+  "generated_at": "2026-10-17T21:08:55+00:00",
+  "snapshot": "2026-10-17T21:08:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 13,
+  "count": 14,
   "vehicles": [
     {
       "pub_id": "acura-of-langley-w1kvk8bb3nf003174",
@@ -93,7 +93,7 @@
       "listing_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/mercedes-benz/sl63-amg/2022-mercedes-benz-sl63-amg-id39192165",
       "dealer_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/mercedes-benz/sl63-amg/2022-mercedes-benz-sl63-amg-id39192165?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T22:59:51",
-      "snapshot": "2026-10-10T23:48:17",
+      "snapshot": "2026-10-17T13:16:09",
       "go_url": "https://carwhisper.ca/go/mercedes-benz-boundary-w1kvk8bb3nf003174",
       "region": "Lower Mainland",
       "city": "Vancouver",
@@ -267,6 +267,30 @@
       "city": "North Vancouver",
       "province": "BC",
       "dealer_name": "North Vancouver Nissan / Infiniti North Vancouver"
+    },
+    {
+      "pub_id": "southside-nissan-ltd-w1kvk8bb3nf003174",
+      "year": 2022,
+      "make": "Mercedes-benz",
+      "model": "SL63 AMG Roadster",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 20000,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "southside-nissan-ltd",
+      "vin": "W1KVK8BB3NF003174",
+      "stock": "MB72E00",
+      "listing_url": "https://www.southsidenissan.ca/en/used-inventory/mercedes-benz/sl63-amg/2022-mercedes-benz-sl63-amg-id39192165",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/mercedes-benz/sl63-amg/2022-mercedes-benz-sl63-amg-id39192165?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T11:25:34",
+      "snapshot": "2026-10-17T12:39:57",
+      "go_url": "https://carwhisper.ca/go/southside-nissan-ltd-w1kvk8bb3nf003174",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Southside Nissan Ltd."
     },
     {
       "pub_id": "vancouver-honda-w1kvk8bb3nf003174",

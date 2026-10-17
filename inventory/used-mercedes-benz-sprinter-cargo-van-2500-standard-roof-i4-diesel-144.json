@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T15:08:15+00:00",
-  "snapshot": "2026-10-17T15:08:15+00:00",
+  "generated_at": "2026-10-17T21:08:55+00:00",
+  "snapshot": "2026-10-17T21:08:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 14,
+  "count": 15,
   "vehicles": [
     {
       "pub_id": "burrard-acura-w1y4kbhy4rp673603",
@@ -367,6 +367,32 @@
       "city": "North Vancouver",
       "province": "BC",
       "dealer_name": "North Vancouver Nissan / Infiniti North Vancouver"
+    },
+    {
+      "pub_id": "southside-nissan-ltd-w1y4kbhy4rp673603",
+      "year": 2024,
+      "make": "Mercedes-benz",
+      "model": "Sprinter Cargo Van 2500 Standard Roof I4 Diesel 144",
+      "body_type": "van",
+      "propulsion": "diesel",
+      "propulsion_source": "model_trim_name",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 54775,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "southside-nissan-ltd",
+      "vin": "W1Y4KBHY4RP673603",
+      "stock": "2665900",
+      "listing_url": "https://www.southsidenissan.ca/en/used-inventory/mercedes-benz/sprinter-cargo-van/2024-mercedes-benz-sprinter-cargo-van-id39274932",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/mercedes-benz/sprinter-cargo-van/2024-mercedes-benz-sprinter-cargo-van-id39274932?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T11:26:05",
+      "snapshot": "2026-10-17T12:39:57",
+      "go_url": "https://carwhisper.ca/go/southside-nissan-ltd-w1y4kbhy4rp673603",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Southside Nissan Ltd."
     }
   ]
 }

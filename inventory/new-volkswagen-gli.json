@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T15:08:15+00:00",
-  "snapshot": "2026-10-17T15:08:15+00:00",
+  "generated_at": "2026-10-17T21:08:55+00:00",
+  "snapshot": "2026-10-17T21:08:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "abbotsford-volkswagen-79431-489455",
@@ -80,6 +80,34 @@
       "city": "Abbotsford",
       "province": "BC",
       "dealer_name": "Abbotsford Volkswagen"
+    },
+    {
+      "pub_id": "journey-vw-of-coquitlam-3vw2m7bu0vm012155",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "GLI",
+      "body_type": "sedan",
+      "drivetrain": "FWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 25,
+      "price_cad": 39776.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "journey-vw-of-coquitlam",
+      "vin": "3VW2M7BU0VM012155",
+      "stock": "14423567",
+      "listing_url": "https://www.vwofcoquitlam.com/new/inventory/2027-Volkswagen-GLI-id14423567.html",
+      "dealer_url": "https://www.vwofcoquitlam.com/new/inventory/2027-Volkswagen-GLI-id14423567.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T13:52:05",
+      "snapshot": "2026-10-17T13:55:53",
+      "go_url": "https://carwhisper.ca/go/journey-vw-of-coquitlam-3vw2m7bu0vm012155",
+      "region": "Lower Mainland",
+      "city": "Coquitlam",
+      "province": "BC",
+      "dealer_name": "Journey VW of Coquitlam"
     },
     {
       "pub_id": "norden-volkswagen-3vw2m7bu6vm011348",

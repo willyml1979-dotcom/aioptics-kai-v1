@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T15:08:15+00:00",
-  "snapshot": "2026-10-17T15:08:15+00:00",
+  "generated_at": "2026-10-17T21:08:55+00:00",
+  "snapshot": "2026-10-17T21:08:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 14,
+  "count": 15,
   "vehicles": [
     {
       "pub_id": "coastal-ford-vancouver-3fttw8e34nra56057",
@@ -203,6 +203,34 @@
       "city": "North Vancouver",
       "province": "BC",
       "dealer_name": "North Shore Kia"
+    },
+    {
+      "pub_id": "metro-motors-ltd-ford-3fttw8f93pra87631",
+      "year": 2023,
+      "make": "Ford",
+      "model": "Maverick",
+      "body_type": "truck",
+      "drivetrain": "AWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 27956,
+      "price_cad": 36934.0,
+      "price_note": null,
+      "color": "Shadow Black",
+      "photo_url": "https://vehicleimages.leadboxhq.com/v1/metromotors/1950464/63160d1d-c8d8-4be5-97a2-bc25c1d3529d-600.jpg",
+      "dealer_id": "metro-motors-ltd-ford",
+      "vin": "3FTTW8F93PRA87631",
+      "stock": "PFT2295",
+      "listing_url": "https://metromotors.com/view/used-2023-ford-maverick-1950464/",
+      "dealer_url": "https://metromotors.com/view/used-2023-ford-maverick-1950464/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T10:42:51",
+      "snapshot": "2026-10-17T10:43:09",
+      "go_url": "https://carwhisper.ca/go/metro-motors-ltd-ford-3fttw8f93pra87631",
+      "region": "Lower Mainland",
+      "city": "Port Coquitlam",
+      "province": "BC",
+      "dealer_name": "Metro Motors Ltd. (Ford)"
     },
     {
       "pub_id": "chilliwack-ford-3fttw8s96rrb22400",

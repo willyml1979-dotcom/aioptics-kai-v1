@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T15:08:15+00:00",
-  "snapshot": "2026-10-17T15:08:15+00:00",
+  "generated_at": "2026-10-17T21:08:55+00:00",
+  "snapshot": "2026-10-17T21:08:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 32,
   "vehicles": [
@@ -566,6 +566,29 @@
       "dealer_name": "Denham Ford (BC) Ltd."
     },
     {
+      "pub_id": "maple-ridge-chrysler-jeep-dodge-1ftfw3l86skd37517",
+      "year": 2025,
+      "make": "Ford",
+      "model": "F-150",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": 47395.0,
+      "price_note": null,
+      "dealer_id": "maple-ridge-chrysler-jeep-dodge",
+      "vin": "1FTFW3L86SKD37517",
+      "stock": 14513477,
+      "listing_url": "https://www.mapleridgechrysler.com/used/2025-Ford-F_150.html",
+      "dealer_url": "https://www.mapleridgechrysler.com/used/2025-Ford-F_150.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T09:39:53",
+      "snapshot": "2026-10-17T09:43:51",
+      "go_url": "https://carwhisper.ca/go/maple-ridge-chrysler-jeep-dodge-1ftfw3l86skd37517",
+      "region": "Lower Mainland",
+      "city": "Maple Ridge",
+      "province": "BC",
+      "dealer_name": "Maple Ridge Chrysler Jeep Dodge"
+    },
+    {
       "pub_id": "openroad-mercedes-benz-surrey-1ftfw3l8xske49222",
       "year": 2025,
       "make": "Ford",
@@ -856,34 +879,6 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Coastal Ford Vancouver"
-    },
-    {
-      "pub_id": "coastal-ford-burnaby-1ftew2lp0tke12212",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "trim": "STX",
-      "drivetrain": "AWD",
-      "propulsion": "unknown",
-      "propulsion_source": null,
-      "condition": "new",
-      "odometer_km": 28,
-      "price_cad": 59065.0,
-      "price_note": null,
-      "color": "Black",
-      "photo_url": "https://img.sm360.ca/images/inventory/coastal-ford-vancouver/ford/f-150/2026/38563182/38563182_01944_75b21491ae10204636f4c22e0c3f353a.png",
-      "dealer_id": "coastal-ford-burnaby",
-      "vin": "1FTEW2LP0TKE12212",
-      "stock": "132138R",
-      "listing_url": "https://www.coastalfordburnaby.com/en/new-inventory/v/v/v-id38563182",
-      "dealer_url": "https://www.coastalfordburnaby.com/en/new-inventory/v/v/v-id38563182?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-14T01:52:59",
-      "snapshot": "2026-10-16T17:17:28",
-      "go_url": "https://carwhisper.ca/go/coastal-ford-burnaby-1ftew2lp0tke12212",
-      "region": "Lower Mainland",
-      "city": "Burnaby",
-      "province": "BC",
-      "dealer_name": "Coastal Ford Burnaby"
     }
   ]
 }

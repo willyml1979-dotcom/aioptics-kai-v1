@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T15:08:15+00:00",
-  "snapshot": "2026-10-17T15:08:15+00:00",
+  "generated_at": "2026-10-17T21:08:55+00:00",
+  "snapshot": "2026-10-17T21:08:55+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 4,
   "vehicles": [
     {
       "pub_id": "applewood-mazda-surrey-zaccjbct9gpe25040",
@@ -63,6 +63,32 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Kamloops Chrysler Dodge Jeep Ram Inc."
+    },
+    {
+      "pub_id": "victoria-mitsubishi-zaccjbbt0gpc73358",
+      "year": 2016,
+      "make": "Jeep",
+      "model": "RENEGADE",
+      "trim": "NORTH",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 100499,
+      "price_cad": 13498.0,
+      "price_note": null,
+      "color": "Orange",
+      "photo_url": "https://img.sm360.ca/images/inventory/victoria-mitsubishi/jeep/renegade/2016/39223788/39223788_07204_2016-jeep-renegade_001.JPG",
+      "dealer_id": "victoria-mitsubishi",
+      "vin": "ZACCJBBT0GPC73358",
+      "listing_url": "https://www.victoriamitsubishi.ca/en/used-inventory/v/v/v-id39223788",
+      "dealer_url": "https://www.victoriamitsubishi.ca/en/used-inventory/v/v/v-id39223788?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T08:51:04",
+      "snapshot": "2026-10-17T08:53:59",
+      "go_url": "https://carwhisper.ca/go/victoria-mitsubishi-zaccjbbt0gpc73358",
+      "region": "Vancouver Island",
+      "city": "Victoria",
+      "province": "BC",
+      "dealer_name": "Victoria Mitsubishi"
     },
     {
       "pub_id": "tacoma-dodge-chrysler-jeep-ram-zacnjbab9kpj92334",

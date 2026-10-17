@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T15:08:15+00:00",
+  "generated_at": "2026-10-17T21:08:55+00:00",
   "condition": "new",
   "make": "lexus",
   "files": [
@@ -8,12 +8,12 @@
       "make": "lexus",
       "model": "UX Hybrid",
       "shard": "part1",
-      "count": 24,
+      "count": 23,
       "file": "inventory/new-lexus-ux-hybrid-part1.json",
       "models": [
         {
           "model": "UX Hybrid",
-          "count": 24
+          "count": 23
         }
       ]
     },
@@ -22,12 +22,12 @@
       "make": "lexus",
       "model": "UX Hybrid",
       "shard": "part2",
-      "count": 24,
+      "count": 23,
       "file": "inventory/new-lexus-ux-hybrid-part2.json",
       "models": [
         {
           "model": "UX Hybrid",
-          "count": 24
+          "count": 23
         }
       ]
     },
@@ -36,12 +36,12 @@
       "make": "lexus",
       "model": "UX Hybrid",
       "shard": "part3",
-      "count": 24,
+      "count": 23,
       "file": "inventory/new-lexus-ux-hybrid-part3.json",
       "models": [
         {
           "model": "UX Hybrid",
-          "count": 24
+          "count": 23
         }
       ]
     },
@@ -90,12 +90,12 @@
       "condition": "new",
       "make": "lexus",
       "model": "RZ",
-      "count": 12,
+      "count": 11,
       "file": "inventory/new-lexus-rz.json",
       "models": [
         {
           "model": "RZ",
-          "count": 12
+          "count": 11
         }
       ]
     },
@@ -103,12 +103,12 @@
       "condition": "new",
       "make": "lexus",
       "model": "NX",
-      "count": 31,
+      "count": 29,
       "file": "inventory/new-lexus-nx.json",
       "models": [
         {
           "model": "NX",
-          "count": 31
+          "count": 29
         }
       ]
     },
@@ -117,12 +117,12 @@
       "make": "lexus",
       "model": "NX Hybrid",
       "shard": "part1",
-      "count": 21,
+      "count": 20,
       "file": "inventory/new-lexus-nx-hybrid-part1.json",
       "models": [
         {
           "model": "NX Hybrid",
-          "count": 21
+          "count": 20
         }
       ]
     },
@@ -157,35 +157,16 @@
       "condition": "new",
       "make": "lexus",
       "model": "NX Plug-in Hybrid",
-      "shard": "part1",
-      "count": 17,
-      "file": "inventory/new-lexus-nx-plug-in-hybrid-part1.json",
+      "count": 31,
+      "file": "inventory/new-lexus-nx-plug-in-hybrid.json",
       "models": [
         {
           "model": "NX Plug-In Hybrid",
-          "count": 14
+          "count": 24
         },
         {
           "model": "NX Plug-in Hybrid",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "lexus",
-      "model": "NX Plug-in Hybrid",
-      "shard": "part2",
-      "count": 16,
-      "file": "inventory/new-lexus-nx-plug-in-hybrid-part2.json",
-      "models": [
-        {
-          "model": "NX Plug-In Hybrid",
-          "count": 12
-        },
-        {
-          "model": "NX Plug-in Hybrid",
-          "count": 4
+          "count": 7
         }
       ]
     },
@@ -206,27 +187,12 @@
       "condition": "new",
       "make": "lexus",
       "model": "RX Hybrid",
-      "shard": "part1",
-      "count": 18,
-      "file": "inventory/new-lexus-rx-hybrid-part1.json",
+      "count": 27,
+      "file": "inventory/new-lexus-rx-hybrid.json",
       "models": [
         {
           "model": "RX Hybrid",
-          "count": 18
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "lexus",
-      "model": "RX Hybrid",
-      "shard": "part2",
-      "count": 17,
-      "file": "inventory/new-lexus-rx-hybrid-part2.json",
-      "models": [
-        {
-          "model": "RX Hybrid",
-          "count": 17
+          "count": 27
         }
       ]
     },
