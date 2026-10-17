@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T21:07:50+00:00",
+  "generated_at": "2026-10-17T03:08:13+00:00",
   "condition": "used",
   "make": "chevrolet",
   "files": [
@@ -148,12 +148,12 @@
       "make": "chevrolet",
       "model": "Traverse",
       "shard": "sin-region",
-      "count": 25,
+      "count": 26,
       "file": "inventory/used-chevrolet-traverse-sin-region.json",
       "models": [
         {
           "model": "Traverse",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -180,7 +180,7 @@
       "make": "chevrolet",
       "model": "Trailblazer",
       "shard": "Lower Mainland",
-      "count": 18,
+      "count": 19,
       "file": "inventory/used-chevrolet-trailblazer-lower-mainland.json",
       "models": [
         {
@@ -189,7 +189,7 @@
         },
         {
           "model": "Trailblazer",
-          "count": 13
+          "count": 14
         }
       ]
     },
@@ -270,7 +270,7 @@
       "make": "chevrolet",
       "model": "Trailblazer",
       "shard": "sin-region",
-      "count": 17,
+      "count": 16,
       "file": "inventory/used-chevrolet-trailblazer-sin-region.json",
       "models": [
         {
@@ -279,7 +279,7 @@
         },
         {
           "model": "Trailblazer",
-          "count": 16
+          "count": 15
         }
       ]
     },
@@ -302,7 +302,7 @@
       "make": "chevrolet",
       "model": "Trax",
       "shard": "Lower Mainland",
-      "count": 23,
+      "count": 24,
       "file": "inventory/used-chevrolet-trax-lower-mainland.json",
       "models": [
         {
@@ -311,7 +311,7 @@
         },
         {
           "model": "Trax",
-          "count": 22
+          "count": 23
         }
       ]
     },
@@ -362,12 +362,12 @@
       "make": "chevrolet",
       "model": "Trax",
       "shard": "Vancouver Island",
-      "count": 8,
+      "count": 9,
       "file": "inventory/used-chevrolet-trax-vancouver-island.json",
       "models": [
         {
           "model": "Trax",
-          "count": 8
+          "count": 9
         }
       ]
     },
@@ -389,13 +389,13 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Colorado",
-      "shard": "Kootenays",
-      "count": 1,
-      "file": "inventory/used-chevrolet-colorado-kootenays.json",
+      "shard": "part1",
+      "count": 27,
+      "file": "inventory/used-chevrolet-colorado-part1.json",
       "models": [
         {
           "model": "Colorado",
-          "count": 1
+          "count": 27
         }
       ]
     },
@@ -403,13 +403,13 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Colorado",
-      "shard": "Lower Mainland",
-      "count": 28,
-      "file": "inventory/used-chevrolet-colorado-lower-mainland.json",
+      "shard": "part2",
+      "count": 27,
+      "file": "inventory/used-chevrolet-colorado-part2.json",
       "models": [
         {
           "model": "Colorado",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -417,69 +417,13 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Colorado",
-      "shard": "Norte/Cariboo",
-      "count": 5,
-      "file": "inventory/used-chevrolet-colorado-norte-cariboo.json",
+      "shard": "part3",
+      "count": 25,
+      "file": "inventory/used-chevrolet-colorado-part3.json",
       "models": [
         {
           "model": "Colorado",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chevrolet",
-      "model": "Colorado",
-      "shard": "Okanagan",
-      "count": 5,
-      "file": "inventory/used-chevrolet-colorado-okanagan.json",
-      "models": [
-        {
-          "model": "Colorado",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chevrolet",
-      "model": "Colorado",
-      "shard": "Thompson-Okanagan",
-      "count": 7,
-      "file": "inventory/used-chevrolet-colorado-thompson-okanagan.json",
-      "models": [
-        {
-          "model": "Colorado",
-          "count": 7
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chevrolet",
-      "model": "Colorado",
-      "shard": "Vancouver Island",
-      "count": 10,
-      "file": "inventory/used-chevrolet-colorado-vancouver-island.json",
-      "models": [
-        {
-          "model": "Colorado",
-          "count": 10
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chevrolet",
-      "model": "Colorado",
-      "shard": "sin-region",
-      "count": 21,
-      "file": "inventory/used-chevrolet-colorado-sin-region.json",
-      "models": [
-        {
-          "model": "Colorado",
-          "count": 21
+          "count": 25
         }
       ]
     },
@@ -501,12 +445,12 @@
       "make": "chevrolet",
       "model": "Silverado 1500",
       "shard": "part1",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-chevrolet-silverado-1500-part1.json",
       "models": [
         {
           "model": "Silverado 1500",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -515,12 +459,12 @@
       "make": "chevrolet",
       "model": "Silverado 1500",
       "shard": "part2",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-chevrolet-silverado-1500-part2.json",
       "models": [
         {
           "model": "Silverado 1500",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -529,12 +473,12 @@
       "make": "chevrolet",
       "model": "Silverado 1500",
       "shard": "part3",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-chevrolet-silverado-1500-part3.json",
       "models": [
         {
           "model": "Silverado 1500",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -543,12 +487,12 @@
       "make": "chevrolet",
       "model": "Silverado 1500",
       "shard": "part4",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-chevrolet-silverado-1500-part4.json",
       "models": [
         {
           "model": "Silverado 1500",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -557,12 +501,12 @@
       "make": "chevrolet",
       "model": "Silverado 1500",
       "shard": "part5",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-chevrolet-silverado-1500-part5.json",
       "models": [
         {
           "model": "Silverado 1500",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -571,12 +515,12 @@
       "make": "chevrolet",
       "model": "Silverado 1500",
       "shard": "part6",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-chevrolet-silverado-1500-part6.json",
       "models": [
         {
           "model": "Silverado 1500",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -585,12 +529,12 @@
       "make": "chevrolet",
       "model": "Silverado 1500",
       "shard": "part7",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-chevrolet-silverado-1500-part7.json",
       "models": [
         {
           "model": "Silverado 1500",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -599,12 +543,12 @@
       "make": "chevrolet",
       "model": "Silverado 1500",
       "shard": "part8",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-chevrolet-silverado-1500-part8.json",
       "models": [
         {
           "model": "Silverado 1500",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -613,12 +557,12 @@
       "make": "chevrolet",
       "model": "Silverado 1500",
       "shard": "part9",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-chevrolet-silverado-1500-part9.json",
       "models": [
         {
           "model": "Silverado 1500",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -627,12 +571,12 @@
       "make": "chevrolet",
       "model": "Silverado 1500",
       "shard": "part10",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-chevrolet-silverado-1500-part10.json",
       "models": [
         {
           "model": "Silverado 1500",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -641,12 +585,12 @@
       "make": "chevrolet",
       "model": "Silverado 1500",
       "shard": "part11",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-chevrolet-silverado-1500-part11.json",
       "models": [
         {
           "model": "Silverado 1500",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -655,12 +599,12 @@
       "make": "chevrolet",
       "model": "Silverado 1500",
       "shard": "part12",
-      "count": 21,
+      "count": 24,
       "file": "inventory/used-chevrolet-silverado-1500-part12.json",
       "models": [
         {
           "model": "Silverado 1500",
-          "count": 21
+          "count": 24
         }
       ]
     },
@@ -668,12 +612,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Sonic",
-      "count": 9,
+      "count": 10,
       "file": "inventory/used-chevrolet-sonic.json",
       "models": [
         {
           "model": "Sonic",
-          "count": 9
+          "count": 10
         }
       ]
     },
@@ -681,12 +625,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Spark",
-      "count": 30,
+      "count": 31,
       "file": "inventory/used-chevrolet-spark.json",
       "models": [
         {
           "model": "Spark",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -721,12 +665,12 @@
       "make": "chevrolet",
       "model": "Malibu",
       "shard": "Lower Mainland",
-      "count": 21,
+      "count": 23,
       "file": "inventory/used-chevrolet-malibu-lower-mainland.json",
       "models": [
         {
           "model": "Malibu",
-          "count": 21
+          "count": 23
         }
       ]
     },
@@ -791,12 +735,12 @@
       "make": "chevrolet",
       "model": "Malibu",
       "shard": "sin-region",
-      "count": 13,
+      "count": 12,
       "file": "inventory/used-chevrolet-malibu-sin-region.json",
       "models": [
         {
           "model": "Malibu",
-          "count": 13
+          "count": 12
         }
       ]
     },
@@ -818,12 +762,12 @@
       "make": "chevrolet",
       "model": "Camaro",
       "shard": "Lower Mainland",
-      "count": 12,
+      "count": 14,
       "file": "inventory/used-chevrolet-camaro-lower-mainland.json",
       "models": [
         {
           "model": "Camaro",
-          "count": 12
+          "count": 14
         }
       ]
     },
@@ -901,12 +845,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Bolt",
-      "count": 21,
+      "count": 22,
       "file": "inventory/used-chevrolet-bolt.json",
       "models": [
         {
           "model": "Bolt",
-          "count": 21
+          "count": 22
         }
       ]
     },
@@ -941,12 +885,12 @@
       "make": "chevrolet",
       "model": "Corvette",
       "shard": "Lower Mainland",
-      "count": 25,
+      "count": 26,
       "file": "inventory/used-chevrolet-corvette-lower-mainland.json",
       "models": [
         {
           "model": "Corvette",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -1023,12 +967,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Express Cargo",
-      "count": 5,
+      "count": 4,
       "file": "inventory/used-chevrolet-express-cargo.json",
       "models": [
         {
           "model": "Express Cargo",
-          "count": 5
+          "count": 4
         }
       ]
     },
@@ -1036,12 +980,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Blazer EV",
-      "count": 10,
+      "count": 11,
       "file": "inventory/used-chevrolet-blazer-ev.json",
       "models": [
         {
           "model": "Blazer EV",
-          "count": 10
+          "count": 11
         }
       ]
     },
@@ -1055,19 +999,6 @@
         {
           "model": "Express 2500",
           "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chevrolet",
-      "model": "Silverado 1500 Crew Cab",
-      "count": 3,
-      "file": "inventory/used-chevrolet-silverado-1500-crew-cab.json",
-      "models": [
-        {
-          "model": "Silverado 1500 Crew Cab",
-          "count": 3
         }
       ]
     },
@@ -1101,12 +1032,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Suburban",
-      "count": 15,
+      "count": 14,
       "file": "inventory/used-chevrolet-suburban.json",
       "models": [
         {
           "model": "Suburban",
-          "count": 15
+          "count": 14
         }
       ]
     },
@@ -1114,12 +1045,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Corvette Z06 Coupe 3LZ",
-      "count": 9,
+      "count": 10,
       "file": "inventory/used-chevrolet-corvette-z06-coupe-3lz.json",
       "models": [
         {
           "model": "Corvette Z06 Coupe 3LZ",
-          "count": 9
+          "count": 10
         }
       ]
     },
@@ -1230,6 +1161,19 @@
     {
       "condition": "used",
       "make": "chevrolet",
+      "model": "Equinox AWD LT",
+      "count": 2,
+      "file": "inventory/used-chevrolet-equinox-awd-lt.json",
+      "models": [
+        {
+          "model": "Equinox AWD LT",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
       "model": "Silverado 1500 LTD",
       "count": 11,
       "file": "inventory/used-chevrolet-silverado-1500-ltd.json",
@@ -1254,6 +1198,19 @@
         {
           "model": "Silverado 2500HD",
           "count": 9
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Silverado 1500 Crew Cab",
+      "count": 1,
+      "file": "inventory/used-chevrolet-silverado-1500-crew-cab.json",
+      "models": [
+        {
+          "model": "Silverado 1500 Crew Cab",
+          "count": 1
         }
       ]
     },
@@ -1825,6 +1782,19 @@
     {
       "condition": "used",
       "make": "chevrolet",
+      "model": "Chevy",
+      "count": 1,
+      "file": "inventory/used-chevrolet-chevy.json",
+      "models": [
+        {
+          "model": "Chevy",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
       "model": "TraverseLT Cloth",
       "count": 1,
       "file": "inventory/used-chevrolet-traverselt-cloth.json",
@@ -1844,6 +1814,19 @@
       "models": [
         {
           "model": "MalibuLT",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Tahoe LT",
+      "count": 1,
+      "file": "inventory/used-chevrolet-tahoe-lt.json",
+      "models": [
+        {
+          "model": "Tahoe LT",
           "count": 1
         }
       ]
@@ -2371,19 +2354,6 @@
     {
       "condition": "used",
       "make": "chevrolet",
-      "model": "Silverado 1500 LT",
-      "count": 1,
-      "file": "inventory/used-chevrolet-silverado-1500-lt.json",
-      "models": [
-        {
-          "model": "Silverado 1500 LT",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chevrolet",
       "model": "Cruze2LT 4dr",
       "count": 1,
       "file": "inventory/used-chevrolet-cruze2lt-4dr.json",
@@ -2417,19 +2387,6 @@
         {
           "model": "TraxLS Front-Wheel Drive",
           "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chevrolet",
-      "model": "Equinox AWD LT",
-      "count": 1,
-      "file": "inventory/used-chevrolet-equinox-awd-lt.json",
-      "models": [
-        {
-          "model": "Equinox AWD LT",
-          "count": 1
         }
       ]
     },

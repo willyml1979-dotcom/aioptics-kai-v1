@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T21:07:50+00:00",
-  "snapshot": "2026-10-16T21:07:50+00:00",
+  "generated_at": "2026-10-17T03:08:13+00:00",
+  "snapshot": "2026-10-17T03:08:13+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 10,
+  "count": 11,
   "vehicles": [
     {
       "pub_id": "carter-gm-northshore-3gnkdbrj3rs178700",
@@ -256,6 +256,32 @@
       "city": "Nanaimo",
       "province": "BC",
       "dealer_name": "Laird Wheaton GM"
+    },
+    {
+      "pub_id": "country-hills-nissan-3gnkdcrj1rs212087",
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Blazer EV",
+      "propulsion": "electric",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 87277,
+      "price_cad": 39400.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/4054fe3d-fc08-42af-9596-da1c14a069f0_d8841559-55e8-4c1d-bf13-06bcc0ebcf62.jpg",
+      "dealer_id": "country-hills-nissan",
+      "vin": "3GNKDCRJ1RS212087",
+      "stock": "CG19531",
+      "listing_url": "https://www.chnissan.com/vehicles/2024/chevrolet/blazer-ev/calgary/ab/ad13279045/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2024/chevrolet/blazer-ev/calgary/ab/ad13279045/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-16T15:39:20",
+      "snapshot": "2026-10-16T15:44:11",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-3gnkdcrj1rs212087",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Country Hills Nissan"
     },
     {
       "pub_id": "maple-ridge-chevrolet-buick-gmc-3gnkderlxts118598",

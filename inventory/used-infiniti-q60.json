@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T21:07:50+00:00",
-  "snapshot": "2026-10-16T21:07:50+00:00",
+  "generated_at": "2026-10-17T03:08:13+00:00",
+  "snapshot": "2026-10-17T03:08:13+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "kamloops-kia-jn1fv7el5hm700241",
@@ -61,6 +61,33 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Sherwood Park Chevrolet"
+    },
+    {
+      "pub_id": "go-richmond-subaru-jn1fv7ll9mm560708",
+      "year": 2021,
+      "make": "Infiniti",
+      "model": "Q60",
+      "body_type": "coupe",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 44558,
+      "price_cad": 39995.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/1ddbfa30-25f1-4fea-8374-42a9de7fd95f_cef149bc-d838-4830-9a1a-22e32ee42e34.jpg",
+      "dealer_id": "go-richmond-subaru",
+      "vin": "JN1FV7LL9MM560708",
+      "stock": "NH60708",
+      "listing_url": "https://www.gorichmondsubaru.ca/vehicles/2021/infiniti/q60-coupe/richmond/bc/70956845/?sale_class=used",
+      "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2021/infiniti/q60-coupe/richmond/bc/70956845/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-16T14:44:23",
+      "snapshot": "2026-10-16T14:45:56",
+      "go_url": "https://carwhisper.ca/go/go-richmond-subaru-jn1fv7ll9mm560708",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Richmond Subaru"
     }
   ]
 }

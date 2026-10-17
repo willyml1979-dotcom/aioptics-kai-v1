@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T21:07:50+00:00",
-  "snapshot": "2026-10-16T21:07:50+00:00",
+  "generated_at": "2026-10-17T03:08:13+00:00",
+  "snapshot": "2026-10-17T03:08:13+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 4,
   "vehicles": [
     {
       "pub_id": "mercedes-benz-langley-waucnaf40hn028598",
@@ -53,6 +53,30 @@
       "dealer_name": "Mercedes-Benz North Vancouver"
     },
     {
+      "pub_id": "vancouver-honda-waucnaf40hn028598",
+      "year": 2017,
+      "make": "Audi",
+      "model": "A4 2.0T Technik quattro 7sp S tronic",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 194470,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "vancouver-honda",
+      "vin": "WAUCNAF40HN028598",
+      "stock": "A252143",
+      "listing_url": "https://www.vancouverhonda.com/en/used-inventory/audi/a4/2017-audi-a4-id39354445",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/audi/a4/2017-audi-a4-id39354445?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-16T19:40:10",
+      "snapshot": "2026-09-26T06:51:14",
+      "go_url": "https://carwhisper.ca/go/vancouver-honda-waucnaf40hn028598",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Vancouver Honda"
+    },
+    {
       "pub_id": "pacific-honda-waucnaf40hn028598",
       "year": 2017,
       "make": "Audi",
@@ -69,7 +93,7 @@
       "listing_url": "https://www.northshorehonda.ca/en/used-inventory/audi/a4/2017-audi-a4-id39354445",
       "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/audi/a4/2017-audi-a4-id39354445?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T04:10:49",
-      "snapshot": "2026-10-16T04:14:14",
+      "snapshot": "2026-10-16T15:51:59",
       "go_url": "https://carwhisper.ca/go/pacific-honda-waucnaf40hn028598",
       "city": null,
       "province": "BC",

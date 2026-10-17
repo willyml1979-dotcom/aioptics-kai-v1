@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T21:07:50+00:00",
-  "snapshot": "2026-10-16T21:07:50+00:00",
+  "generated_at": "2026-10-17T03:08:13+00:00",
+  "snapshot": "2026-10-17T03:08:13+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "brian-jessel-bmw-wby13hg04sct61103",
@@ -29,6 +29,35 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Brian Jessel BMW"
+    },
+    {
+      "pub_id": "bmw-victoria-mini-victoria-1791388-ontario-limited-wby43fk07scv87340",
+      "year": 2025,
+      "make": "BMW",
+      "model": "i5",
+      "trim": "M60 Xdrive",
+      "body_type": "sedan",
+      "drivetrain": "FWD",
+      "propulsion": "electric",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 5558,
+      "price_cad": 84900.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "bmw-victoria-mini-victoria-1791388-ontario-limited",
+      "vin": "WBY43FK07SCV87340",
+      "stock": "14382582",
+      "listing_url": "https://www.bmwvictoria.ca/used/2025-BMW-i5-id14382582.html",
+      "dealer_url": "https://www.bmwvictoria.ca/used/2025-BMW-i5-id14382582.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T21:17:14",
+      "snapshot": "2026-10-16T16:22:46",
+      "go_url": "https://carwhisper.ca/go/bmw-victoria-mini-victoria-1791388-ontario-limited-wby43fk07scv87340",
+      "region": "Vancouver Island",
+      "city": "Victoria",
+      "province": "BC",
+      "dealer_name": "BMW Victoria/MINI Victoria (1791388 Ontario Limited)"
     }
   ]
 }

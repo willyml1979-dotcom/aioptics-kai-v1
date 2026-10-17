@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T21:07:50+00:00",
-  "snapshot": "2026-10-16T21:07:50+00:00",
+  "generated_at": "2026-10-17T03:08:13+00:00",
+  "snapshot": "2026-10-17T03:08:13+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "mercedes-benz-langley-1c4gjwbg9cl180042",
@@ -51,6 +51,29 @@
       "city": "North Vancouver",
       "province": "BC",
       "dealer_name": "Mercedes-Benz North Vancouver"
+    },
+    {
+      "pub_id": "pacific-honda-1c4gjwbg9cl180042",
+      "year": 2012,
+      "make": "Jeep",
+      "model": "Wrangler Rubicon 2D Utility 4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 153000,
+      "price_cad": 15887.0,
+      "price_note": null,
+      "dealer_id": "pacific-honda",
+      "vin": "1C4GJWBG9CL180042",
+      "stock": "A316058",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/jeep/wrangler/2012-jeep-wrangler-id39290046",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/jeep/wrangler/2012-jeep-wrangler-id39290046?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-16T15:49:15",
+      "snapshot": "2026-10-16T15:51:59",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-1c4gjwbg9cl180042",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T21:07:50+00:00",
-  "snapshot": "2026-10-16T21:07:50+00:00",
+  "generated_at": "2026-10-17T03:08:13+00:00",
+  "snapshot": "2026-10-17T03:08:13+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 24,
+  "count": 25,
   "vehicles": [
     {
       "pub_id": "nelson-toyota-7muaaabg8tv202223",
@@ -657,6 +657,34 @@
       "city": "Burnaby",
       "province": "BC",
       "dealer_name": "Destination Toyota Burnaby"
+    },
+    {
+      "pub_id": "jim-pattison-toyota-surrey-7mucaaagxtv225139",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Corolla Cross",
+      "drivetrain": "FWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 15,
+      "price_cad": 33903.0,
+      "price_note": null,
+      "color": "Wind Chill Pearl",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/57edf1f2-2c43-48bf-8563-7c0d11dcc36e_a2ff6c3c-eae7-4aab-a815-c978c4099b14.jpg",
+      "dealer_id": "jim-pattison-toyota-surrey",
+      "vin": "7MUCAAAGXTV225139",
+      "stock": "N225139",
+      "listing_url": "https://www.jptoyota-surrey.com/vehicles/2026/toyota/corolla-cross/surrey/bc/71517193/?sale_class=new",
+      "dealer_url": "https://www.jptoyota-surrey.com/vehicles/2026/toyota/corolla-cross/surrey/bc/71517193/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T09:10:11",
+      "snapshot": "2026-10-15T09:16:13",
+      "go_url": "https://carwhisper.ca/go/jim-pattison-toyota-surrey-7mucaaagxtv225139",
+      "region": "Lower Mainland",
+      "city": "Surrey",
+      "province": "BC",
+      "dealer_name": "Jim Pattison Toyota - Surrey"
     }
   ]
 }

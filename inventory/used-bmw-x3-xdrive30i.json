@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T21:07:50+00:00",
-  "snapshot": "2026-10-16T21:07:50+00:00",
+  "generated_at": "2026-10-17T03:08:13+00:00",
+  "snapshot": "2026-10-17T03:08:13+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "mercedes-benz-boundary-5ux53dp00r9w84100",
@@ -147,6 +147,30 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Mercedes Benz Vancouver"
+    },
+    {
+      "pub_id": "vancouver-honda-5ux53dp00r9u68392",
+      "year": 2024,
+      "make": "BMW",
+      "model": "X3 xDrive30i",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 44201,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "vancouver-honda",
+      "vin": "5UX53DP00R9U68392",
+      "stock": "A316058",
+      "listing_url": "https://www.vancouverhonda.com/en/used-inventory/bmw/x3/2024-bmw-x3-id39340942",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/bmw/x3/2024-bmw-x3-id39340942?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-16T19:56:21",
+      "snapshot": "2026-09-26T06:51:14",
+      "go_url": "https://carwhisper.ca/go/vancouver-honda-5ux53dp00r9u68392",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Vancouver Honda"
     }
   ]
 }

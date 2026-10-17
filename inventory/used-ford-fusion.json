@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T21:07:50+00:00",
-  "snapshot": "2026-10-16T21:07:50+00:00",
+  "generated_at": "2026-10-17T03:08:13+00:00",
+  "snapshot": "2026-10-17T03:08:13+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "chilliwack-mitsubishi-3fa6p0t90hr371287",
@@ -107,8 +107,8 @@
       "stock": "Y22479",
       "listing_url": "https://www.fortmotors.ca/inventory/2014-ford-fusion/14420370",
       "dealer_url": "https://www.fortmotors.ca/inventory/2014-ford-fusion/14420370?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T01:12:55",
-      "snapshot": "2026-10-16T07:12:09",
+      "last_verified": "2026-10-16T17:31:31",
+      "snapshot": "2026-10-16T17:34:21",
       "go_url": "https://carwhisper.ca/go/fort-motors-ltd-3fa6p0t95er222479",
       "region": "Norte/Cariboo",
       "city": "Fort St. John",
@@ -141,6 +141,35 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Orchard Ford Sales Ltd."
+    },
+    {
+      "pub_id": "drayton-valley-ford-3fa6p0h78hr135395",
+      "year": 2017,
+      "make": "Ford",
+      "model": "Fusion",
+      "trim": "4dr Sdn SE FWD",
+      "body_type": "sedan",
+      "drivetrain": "FWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 119000,
+      "price_cad": 13777.0,
+      "price_note": null,
+      "color": "Blue",
+      "photo_url": "https://ddztmb1ahc6o7.cloudfront.net/draytonvalleyford/wp-content/uploads/2026/05/13160506/DraytonValleyFord-DesignPlaceholderCreation-D1-V1.jpg",
+      "dealer_id": "drayton-valley-ford",
+      "vin": "3FA6P0H78HR135395",
+      "stock": "RM041",
+      "listing_url": "https://www.draytonvalleyford.com/inventory/2017-ford-fusion-se-tH4HWiUmT2OlHGNo3yJZlwvdp",
+      "dealer_url": "https://www.draytonvalleyford.com/inventory/2017-ford-fusion-se-tH4HWiUmT2OlHGNo3yJZlwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-16T14:47:57",
+      "snapshot": "2026-10-16T14:50:15",
+      "go_url": "https://carwhisper.ca/go/drayton-valley-ford-3fa6p0h78hr135395",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Drayton Valley Ford"
     }
   ]
 }

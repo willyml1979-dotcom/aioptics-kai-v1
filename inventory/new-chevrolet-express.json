@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T21:07:50+00:00",
-  "snapshot": "2026-10-16T21:07:50+00:00",
+  "generated_at": "2026-10-17T03:08:13+00:00",
+  "snapshot": "2026-10-17T03:08:13+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "harris-oceanside-chevrolet-buick-gmc-ltd-1gcwgbfp5t1241329",
@@ -30,6 +30,33 @@
       "city": "Parksville",
       "province": "BC",
       "dealer_name": "Harris Oceanside Chevrolet Buick GMC Ltd."
+    },
+    {
+      "pub_id": "sherwood-park-chevrolet-1gcwgafp0s1263229",
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Express",
+      "body_type": "van",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 16,
+      "price_cad": 48988.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/63b98a97-6a95-4c85-b930-89e068f133ec_3e74fde2-cb6e-4dcf-b8fd-3b826b884eea.jpg",
+      "dealer_id": "sherwood-park-chevrolet",
+      "vin": "1GCWGAFP0S1263229",
+      "stock": "25EX322",
+      "listing_url": "https://www.sherwoodparkchev.com/vehicles/2025/chevrolet/express/sherwood-park/ab/ad13293531/?sale_class=new",
+      "dealer_url": "https://www.sherwoodparkchev.com/vehicles/2025/chevrolet/express/sherwood-park/ab/ad13293531/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-16T15:13:03",
+      "snapshot": "2026-10-16T15:15:27",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-1gcwgafp0s1263229",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Chevrolet"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T21:07:50+00:00",
-  "snapshot": "2026-10-16T21:07:50+00:00",
+  "generated_at": "2026-10-17T03:08:13+00:00",
+  "snapshot": "2026-10-17T03:08:13+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "applewood-nissan-w1k3g4fb2mj311928",
@@ -33,6 +33,35 @@
       "city": "Surrey",
       "province": "BC",
       "dealer_name": "Applewood Nissan"
+    },
+    {
+      "pub_id": "subaru-of-prince-george-wdd3g4fb7kw010149",
+      "year": 2019,
+      "make": "Mercedes-Benz",
+      "model": "A-Class",
+      "body_type": "sedan",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 67041,
+      "price_cad": 24895.0,
+      "price_note": null,
+      "color": "Silver",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/0b922e74-d821-4f1a-93b6-084fab1c693e_a2cd6868-5b26-4cd3-ab11-3d7491347b97.jpg",
+      "dealer_id": "subaru-of-prince-george",
+      "vin": "WDD3G4FB7KW010149",
+      "stock": "P0503VI",
+      "listing_url": "https://www.subaruofprincegeorge.com/vehicles/2019/mercedes-benz/a-class-sedan/prince-george/bc/71403248/?sale_class=used",
+      "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2019/mercedes-benz/a-class-sedan/prince-george/bc/71403248/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-16T18:03:19",
+      "snapshot": "2026-10-16T18:03:57",
+      "go_url": "https://carwhisper.ca/go/subaru-of-prince-george-wdd3g4fb7kw010149",
+      "region": "Norte/Cariboo",
+      "city": "Prince George",
+      "province": "BC",
+      "dealer_name": "Subaru of Prince George"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T21:07:50+00:00",
-  "snapshot": "2026-10-16T21:07:50+00:00",
+  "generated_at": "2026-10-17T03:08:13+00:00",
+  "snapshot": "2026-10-17T03:08:13+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "jim-pattison-volvo-cars-surrey-u4130-c",
@@ -27,6 +27,34 @@
       "city": "Surrey",
       "province": "BC",
       "dealer_name": "Jim Pattison Volvo Cars Surrey"
+    },
+    {
+      "pub_id": "volvo-cars-victoria-yv4el3yjxt2631078",
+      "year": 2026,
+      "make": "Volvo",
+      "model": "EX30",
+      "drivetrain": "RWD",
+      "propulsion": "electric",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 1141,
+      "price_cad": 48457.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/58acac1c-afff-4346-a611-3dc3caacc581_dd5d5a5e-450e-4688-9fb1-54568140b95a.jpg",
+      "dealer_id": "volvo-cars-victoria",
+      "vin": "YV4EL3YJXT2631078",
+      "stock": "210780",
+      "listing_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/ex30/victoria/bc/70255432/?sale_class=new",
+      "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/ex30/victoria/bc/70255432/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-16T20:04:43",
+      "snapshot": "2026-09-26T08:26:55",
+      "go_url": "https://carwhisper.ca/go/volvo-cars-victoria-yv4el3yjxt2631078",
+      "region": "Vancouver Island",
+      "city": "Victoria",
+      "province": "BC",
+      "dealer_name": "Volvo Cars Victoria"
     }
   ]
 }

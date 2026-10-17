@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T21:07:50+00:00",
+  "generated_at": "2026-10-17T03:08:13+00:00",
   "condition": "used",
   "make": "mitsubishi",
   "files": [
@@ -49,12 +49,12 @@
       "make": "mitsubishi",
       "model": "RVR",
       "shard": "part3",
-      "count": 22,
+      "count": 23,
       "file": "inventory/used-mitsubishi-rvr-part3.json",
       "models": [
         {
           "model": "RVR",
-          "count": 22
+          "count": 23
         }
       ]
     },
@@ -109,11 +109,11 @@
       "models": [
         {
           "model": "OUTLANDER",
-          "count": 3
+          "count": 2
         },
         {
           "model": "Outlander",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -122,12 +122,12 @@
       "make": "mitsubishi",
       "model": "Outlander",
       "shard": "part4",
-      "count": 25,
+      "count": 26,
       "file": "inventory/used-mitsubishi-outlander-part4.json",
       "models": [
         {
           "model": "OUTLANDER",
-          "count": 7
+          "count": 8
         },
         {
           "model": "Outlander",
@@ -196,12 +196,12 @@
       "make": "mitsubishi",
       "model": "Eclipse Cross",
       "shard": "sin-region",
-      "count": 5,
+      "count": 4,
       "file": "inventory/used-mitsubishi-eclipse-cross-sin-region.json",
       "models": [
         {
           "model": "Eclipse Cross",
-          "count": 5
+          "count": 4
         }
       ]
     },
@@ -210,12 +210,12 @@
       "make": "mitsubishi",
       "model": "Outlander PHEV",
       "shard": "Lower Mainland",
-      "count": 23,
+      "count": 24,
       "file": "inventory/used-mitsubishi-outlander-phev-lower-mainland.json",
       "models": [
         {
           "model": "Outlander PHEV",
-          "count": 23
+          "count": 24
         }
       ]
     },
@@ -224,9 +224,13 @@
       "make": "mitsubishi",
       "model": "Outlander PHEV",
       "shard": "Okanagan",
-      "count": 12,
+      "count": 13,
       "file": "inventory/used-mitsubishi-outlander-phev-okanagan.json",
       "models": [
+        {
+          "model": "OUTLANDER PHEV",
+          "count": 1
+        },
         {
           "model": "Outlander PHEV",
           "count": 12
@@ -386,6 +390,19 @@
     {
       "condition": "used",
       "make": "mitsubishi",
+      "model": "Outlander PHEV LE S-AWC",
+      "count": 1,
+      "file": "inventory/used-mitsubishi-outlander-phev-le-s-awc.json",
+      "models": [
+        {
+          "model": "Outlander PHEV LE S-AWC",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
       "model": "OutlanderSE 4dr S-AWC",
       "count": 2,
       "file": "inventory/used-mitsubishi-outlanderse-4dr-s-awc.json",
@@ -471,19 +488,6 @@
         {
           "model": "Outlander ES",
           "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mitsubishi",
-      "model": "Endeavor SE",
-      "count": 1,
-      "file": "inventory/used-mitsubishi-endeavor-se.json",
-      "models": [
-        {
-          "model": "Endeavor SE",
-          "count": 1
         }
       ]
     },

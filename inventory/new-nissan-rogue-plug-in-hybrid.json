@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T21:07:50+00:00",
-  "snapshot": "2026-10-16T21:07:50+00:00",
+  "generated_at": "2026-10-17T03:08:13+00:00",
+  "snapshot": "2026-10-17T03:08:13+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "morrey-nissan-of-coquitlam-ja4t0ma98tz612541",
@@ -90,6 +90,35 @@
       "city": "Port Coquitlam",
       "province": "BC",
       "dealer_name": "Morrey Nissan of Coquitlam"
+    },
+    {
+      "pub_id": "southside-nissan-ltd-ja4t0ma99tz622883",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue Plug-in Hybrid",
+      "trim": "Platinum",
+      "drivetrain": "4WD",
+      "propulsion": "plug-in hybrid",
+      "propulsion_source": "model_trim_name",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 25,
+      "price_cad": 51435.0,
+      "price_note": null,
+      "color": "Royal Red Pearl",
+      "photo_url": "https://img.sm360.ca/images/inventory/northvancouver-nissan/nissan/rogue-plug-in-hybrid/2026/39274899/39274899_03289_44c6debd95bb22cffb2c6290e0b8b288.jpeg",
+      "dealer_id": "southside-nissan-ltd",
+      "vin": "JA4T0MA99TZ622883",
+      "stock": "26452",
+      "listing_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/rogue-plug-in-hybrid/2026-nissan-rogue-plug-in-hybrid-id39274899",
+      "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/rogue-plug-in-hybrid/2026-nissan-rogue-plug-in-hybrid-id39274899?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-16T18:57:35",
+      "snapshot": "2026-10-16T19:48:18",
+      "go_url": "https://carwhisper.ca/go/southside-nissan-ltd-ja4t0ma99tz622883",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Southside Nissan Ltd."
     },
     {
       "pub_id": "campus-nissan-ja4t0ma94tz612990",

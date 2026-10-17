@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T21:07:50+00:00",
-  "snapshot": "2026-10-16T21:07:50+00:00",
+  "generated_at": "2026-10-17T03:08:13+00:00",
+  "snapshot": "2026-10-17T03:08:13+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "nelson-ford-sales-1fmcu9gn9tua27942",
@@ -32,6 +32,29 @@
       "city": "Nelson",
       "province": "BC",
       "dealer_name": "Nelson Ford Sales"
+    },
+    {
+      "pub_id": "a-m-ford-sales-limited-1fmcu9g9xhub54953",
+      "year": 2017,
+      "make": "Ford",
+      "model": "Escape",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "a-m-ford-sales-limited",
+      "vin": "1FMCU9G9XHUB54953",
+      "stock": 14354595,
+      "listing_url": "https://www.amford.com/used/2017-Ford-Escape.html",
+      "dealer_url": "https://www.amford.com/used/2017-Ford-Escape.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-10T15:29:02",
+      "snapshot": "2026-10-16T15:58:55",
+      "go_url": "https://carwhisper.ca/go/a-m-ford-sales-limited-1fmcu9g9xhub54953",
+      "region": "Kootenays",
+      "city": "Trail",
+      "province": "BC",
+      "dealer_name": "A.M. Ford Sales Limited"
     }
   ]
 }

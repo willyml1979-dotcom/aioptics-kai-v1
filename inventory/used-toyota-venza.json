@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T21:07:50+00:00",
-  "snapshot": "2026-10-16T21:07:50+00:00",
+  "generated_at": "2026-10-17T03:08:13+00:00",
+  "snapshot": "2026-10-17T03:08:13+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 10,
+  "count": 11,
   "vehicles": [
     {
       "pub_id": "jim-pattison-toyota-downtown-jteaaaah9rj153930",
@@ -215,7 +215,7 @@
       "listing_url": "https://www.gorichmondsubaru.ca/vehicles/2021/toyota/venza/richmond/bc/71297702/?sale_class=used",
       "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2021/toyota/venza/richmond/bc/71297702/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T16:11:55",
-      "snapshot": "2026-10-13T14:44:27",
+      "snapshot": "2026-10-16T14:45:56",
       "go_url": "https://carwhisper.ca/go/go-richmond-subaru-jteaaaah8mj000822",
       "city": null,
       "province": "BC",
@@ -268,11 +268,37 @@
       "listing_url": "https://www.gorichmondsubaru.ca/vehicles/2022/toyota/venza/richmond/bc/71122307/?sale_class=used",
       "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2022/toyota/venza/richmond/bc/71122307/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T16:20:44",
-      "snapshot": "2026-10-13T14:44:27",
+      "snapshot": "2026-10-16T14:45:56",
       "go_url": "https://carwhisper.ca/go/go-richmond-subaru-jteaaaah7nj093236",
       "city": null,
       "province": "BC",
       "dealer_name": "Go Richmond Subaru"
+    },
+    {
+      "pub_id": "go-langley-subaru-jteaaaah4mj067885",
+      "year": 2021,
+      "make": "Toyota",
+      "model": "Venza",
+      "trim": "XLE AWD",
+      "drivetrain": "AWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 62430,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "White",
+      "dealer_id": "go-langley-subaru",
+      "vin": "JTEAAAAH4MJ067885",
+      "stock": "27UN840",
+      "listing_url": "https://www.langleysubaru.com/vehicles/2021/toyota/venza/surrey/bc/71566138/?sale_class=used",
+      "dealer_url": "https://www.langleysubaru.com/vehicles/2021/toyota/venza/surrey/bc/71566138/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-16T15:02:48",
+      "snapshot": "2026-10-16T15:05:53",
+      "go_url": "https://carwhisper.ca/go/go-langley-subaru-jteaaaah4mj067885",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Langley Subaru"
     }
   ]
 }
