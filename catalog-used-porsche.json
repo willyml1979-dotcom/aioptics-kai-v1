@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T09:08:14+00:00",
+  "generated_at": "2026-10-17T15:08:15+00:00",
   "condition": "used",
   "make": "porsche",
   "files": [
@@ -8,12 +8,12 @@
       "make": "porsche",
       "model": "Cayenne",
       "shard": "part1",
-      "count": 29,
+      "count": 22,
       "file": "inventory/used-porsche-cayenne-part1.json",
       "models": [
         {
           "model": "Cayenne",
-          "count": 29
+          "count": 22
         }
       ]
     },
@@ -22,8 +22,22 @@
       "make": "porsche",
       "model": "Cayenne",
       "shard": "part2",
-      "count": 29,
+      "count": 22,
       "file": "inventory/used-porsche-cayenne-part2.json",
+      "models": [
+        {
+          "model": "Cayenne",
+          "count": 22
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "porsche",
+      "model": "Cayenne",
+      "shard": "part3",
+      "count": 22,
+      "file": "inventory/used-porsche-cayenne-part3.json",
       "models": [
         {
           "model": "CAYENNE",
@@ -31,7 +45,7 @@
         },
         {
           "model": "Cayenne",
-          "count": 28
+          "count": 21
         }
       ]
     },
@@ -40,12 +54,12 @@
       "make": "porsche",
       "model": "Macan",
       "shard": "part1",
-      "count": 26,
+      "count": 31,
       "file": "inventory/used-porsche-macan-part1.json",
       "models": [
         {
           "model": "Macan",
-          "count": 26
+          "count": 31
         }
       ]
     },
@@ -54,12 +68,12 @@
       "make": "porsche",
       "model": "Macan",
       "shard": "part2",
-      "count": 26,
+      "count": 31,
       "file": "inventory/used-porsche-macan-part2.json",
       "models": [
         {
           "model": "Macan",
-          "count": 26
+          "count": 31
         }
       ]
     },
@@ -68,7 +82,7 @@
       "make": "porsche",
       "model": "Macan",
       "shard": "part3",
-      "count": 26,
+      "count": 30,
       "file": "inventory/used-porsche-macan-part3.json",
       "models": [
         {
@@ -77,7 +91,7 @@
         },
         {
           "model": "Macan",
-          "count": 25
+          "count": 29
         }
       ]
     },
@@ -98,12 +112,12 @@
       "condition": "used",
       "make": "porsche",
       "model": "Panamera",
-      "count": 13,
+      "count": 14,
       "file": "inventory/used-porsche-panamera.json",
       "models": [
         {
           "model": "Panamera",
-          "count": 13
+          "count": 14
         }
       ]
     },
@@ -111,12 +125,12 @@
       "condition": "used",
       "make": "porsche",
       "model": "Taycan",
-      "count": 12,
+      "count": 13,
       "file": "inventory/used-porsche-taycan.json",
       "models": [
         {
           "model": "Taycan",
-          "count": 12
+          "count": 13
         }
       ]
     },
@@ -124,12 +138,27 @@
       "condition": "used",
       "make": "porsche",
       "model": "911",
-      "count": 32,
-      "file": "inventory/used-porsche-911.json",
+      "shard": "part1",
+      "count": 19,
+      "file": "inventory/used-porsche-911-part1.json",
       "models": [
         {
           "model": "911",
-          "count": 32
+          "count": 19
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "porsche",
+      "model": "911",
+      "shard": "part2",
+      "count": 19,
+      "file": "inventory/used-porsche-911-part2.json",
+      "models": [
+        {
+          "model": "911",
+          "count": 19
         }
       ]
     },
@@ -137,12 +166,12 @@
       "condition": "used",
       "make": "porsche",
       "model": "Cayenne AWD",
-      "count": 11,
+      "count": 13,
       "file": "inventory/used-porsche-cayenne-awd.json",
       "models": [
         {
           "model": "Cayenne AWD",
-          "count": 11
+          "count": 13
         }
       ]
     },
@@ -150,12 +179,12 @@
       "condition": "used",
       "make": "porsche",
       "model": "Panamera 4 e-Hybrid",
-      "count": 20,
+      "count": 24,
       "file": "inventory/used-porsche-panamera-4-e-hybrid.json",
       "models": [
         {
           "model": "Panamera 4 e-Hybrid",
-          "count": 20
+          "count": 24
         }
       ]
     },
@@ -163,12 +192,12 @@
       "condition": "used",
       "make": "porsche",
       "model": "Cayenne Turbo",
-      "count": 9,
+      "count": 11,
       "file": "inventory/used-porsche-cayenne-turbo.json",
       "models": [
         {
           "model": "Cayenne Turbo",
-          "count": 9
+          "count": 11
         }
       ]
     },

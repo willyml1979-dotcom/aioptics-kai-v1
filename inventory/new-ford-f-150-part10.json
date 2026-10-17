@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T09:08:14+00:00",
-  "snapshot": "2026-10-17T09:08:14+00:00",
+  "generated_at": "2026-10-17T15:08:15+00:00",
+  "snapshot": "2026-10-17T15:08:15+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 31,
+  "count": 32,
   "vehicles": [
     {
       "pub_id": "coastal-ford-vancouver-1ftfw5l8xtfb55664",
@@ -881,6 +881,34 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Brown Bros Ford Lincoln"
+    },
+    {
+      "pub_id": "coastal-ford-burnaby-1ftfw3ld2tfb54185",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT",
+      "drivetrain": "AWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "odometer_km": 35,
+      "price_cad": 75100.0,
+      "price_note": null,
+      "color": "Blue",
+      "photo_url": "https://img.sm360.ca/images/inventory/coastal-ford-squamish/ford/f-150/2026/38869463/38869463_05170_680f5768ec040fb3abb8f30aee6ea5fb.png",
+      "dealer_id": "coastal-ford-burnaby",
+      "vin": "1FTFW3LD2TFB54185",
+      "stock": "142211R",
+      "listing_url": "https://www.coastalfordburnaby.com/en/new-inventory/v/v/v-id38869463",
+      "dealer_url": "https://www.coastalfordburnaby.com/en/new-inventory/v/v/v-id38869463?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T03:17:30",
+      "snapshot": "2026-10-16T17:17:28",
+      "go_url": "https://carwhisper.ca/go/coastal-ford-burnaby-1ftfw3ld2tfb54185",
+      "region": "Lower Mainland",
+      "city": "Burnaby",
+      "province": "BC",
+      "dealer_name": "Coastal Ford Burnaby"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T09:08:14+00:00",
-  "snapshot": "2026-10-17T09:08:14+00:00",
+  "generated_at": "2026-10-17T15:08:15+00:00",
+  "snapshot": "2026-10-17T15:08:15+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 9,
+  "count": 10,
   "vehicles": [
     {
       "pub_id": "cranbrook-dodge-jn8ay2db6p9837446",
@@ -78,6 +78,34 @@
       "city": "Chilliwack",
       "province": "BC",
       "dealer_name": "Chilliwack Mitsubishi"
+    },
+    {
+      "pub_id": "prince-george-ford-jn8ay2nc2j9556372",
+      "year": 2018,
+      "make": "Nissan",
+      "model": "Armada",
+      "drivetrain": "4WD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 136522,
+      "price_cad": 22797.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/11d96c25-d7ec-4153-8252-3f5730764ef4_123778c3-b337-4f9c-88ab-83144dc9a81d.jpg",
+      "dealer_id": "prince-george-ford",
+      "vin": "JN8AY2NC2J9556372",
+      "stock": "B8276AE",
+      "listing_url": "https://www.pgford.ca/vehicles/2018/nissan/armada/prince-george/bc/71495813/?sale_class=used",
+      "dealer_url": "https://www.pgford.ca/vehicles/2018/nissan/armada/prince-george/bc/71495813/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T04:31:14",
+      "snapshot": "2026-10-17T04:45:03",
+      "go_url": "https://carwhisper.ca/go/prince-george-ford-jn8ay2nc2j9556372",
+      "region": "Norte/Cariboo",
+      "city": "Prince George",
+      "province": "BC",
+      "dealer_name": "Prince George Ford"
     },
     {
       "pub_id": "harmony-acura-jn8ay2bbxn9813523",

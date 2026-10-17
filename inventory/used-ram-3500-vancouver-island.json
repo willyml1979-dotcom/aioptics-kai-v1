@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T09:08:14+00:00",
-  "snapshot": "2026-10-17T09:08:14+00:00",
+  "generated_at": "2026-10-17T15:08:15+00:00",
+  "snapshot": "2026-10-17T15:08:15+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 11,
+  "count": 12,
   "vehicles": [
     {
       "pub_id": "duncan-hyundai-3c63r3el4jg143819",
@@ -171,6 +171,29 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Victoria Hyundai"
+    },
+    {
+      "pub_id": "steve-marshall-motors-1996-ltd-3c63r3hl3pg602228",
+      "year": 2023,
+      "make": "RAM",
+      "model": "3500",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 60880.0,
+      "price_note": null,
+      "dealer_id": "steve-marshall-motors-1996-ltd",
+      "vin": "3C63R3HL3PG602228",
+      "stock": 14426733,
+      "listing_url": "https://www.stevemarshallfordcampbellriver.com/used/2023-RAM-3500.html",
+      "dealer_url": "https://www.stevemarshallfordcampbellriver.com/used/2023-RAM-3500.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T07:16:41",
+      "snapshot": "2026-10-17T07:19:41",
+      "go_url": "https://carwhisper.ca/go/steve-marshall-motors-1996-ltd-3c63r3hl3pg602228",
+      "region": "Vancouver Island",
+      "city": "Campbell River",
+      "province": "BC",
+      "dealer_name": "Steve Marshall Motors (1996) Ltd."
     },
     {
       "pub_id": "duncan-hyundai-3c63r3el8pg532116",

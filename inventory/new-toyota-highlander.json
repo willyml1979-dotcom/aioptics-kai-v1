@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T09:08:14+00:00",
-  "snapshot": "2026-10-17T09:08:14+00:00",
+  "generated_at": "2026-10-17T15:08:15+00:00",
+  "snapshot": "2026-10-17T15:08:15+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 28,
+  "count": 29,
   "vehicles": [
     {
       "pub_id": "castlegar-toyota-5tdebrch0ts000000",
@@ -113,6 +113,31 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Regency Toyota"
+    },
+    {
+      "pub_id": "pioneer-chrysler-jeep-5tdkbrchxss665920",
+      "year": 2025,
+      "make": "Toyota",
+      "model": "Highlander",
+      "propulsion": "hybrid",
+      "propulsion_source": "description",
+      "propulsion_confidence": "medium",
+      "condition": "new",
+      "price_cad": 58888.0,
+      "price_note": null,
+      "color": "Grey",
+      "dealer_id": "pioneer-chrysler-jeep",
+      "vin": "5TDKBRCHXSS665920",
+      "stock": 14477555,
+      "listing_url": "https://www.pioneerchryslerjeep.com/used/2025-Toyota-Highlander.html",
+      "dealer_url": "https://www.pioneerchryslerjeep.com/used/2025-Toyota-Highlander.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T06:00:33",
+      "snapshot": "2026-10-17T06:03:19",
+      "go_url": "https://carwhisper.ca/go/pioneer-chrysler-jeep-5tdkbrchxss665920",
+      "region": "Lower Mainland",
+      "city": "Mission",
+      "province": "BC",
+      "dealer_name": "Pioneer Chrysler Jeep"
     },
     {
       "pub_id": "jim-pattison-toyota-surrey-5tdkdrbh2ts618894",

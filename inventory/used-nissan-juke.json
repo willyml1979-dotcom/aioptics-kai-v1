@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T09:08:14+00:00",
-  "snapshot": "2026-10-17T09:08:14+00:00",
+  "generated_at": "2026-10-17T15:08:15+00:00",
+  "snapshot": "2026-10-17T15:08:15+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "maple-ridge-hyundai-jn8af5mv7ft562396",
@@ -27,6 +27,33 @@
       "city": "Maple Ridge",
       "province": "BC",
       "dealer_name": "Maple Ridge Hyundai"
+    },
+    {
+      "pub_id": "northland-nissan-jn8af5mvxgt650022",
+      "year": 2016,
+      "make": "Nissan",
+      "model": "Juke",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 87077,
+      "price_cad": 15114.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/13116853-a70b-4615-a31a-c930540f018b_7dcc51d3-7aad-4a05-9e24-75819b7afa80.jpg",
+      "dealer_id": "northland-nissan",
+      "vin": "JN8AF5MVXGT650022",
+      "stock": "26KI520",
+      "listing_url": "https://www.northlandnissan.com/vehicles/2016/nissan/juke/prince-george/bc/ad13190945/?sale_class=used",
+      "dealer_url": "https://www.northlandnissan.com/vehicles/2016/nissan/juke/prince-george/bc/ad13190945/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T02:21:13",
+      "snapshot": "2026-10-17T02:27:19",
+      "go_url": "https://carwhisper.ca/go/northland-nissan-jn8af5mvxgt650022",
+      "region": "Norte/Cariboo",
+      "city": "Prince George",
+      "province": "BC",
+      "dealer_name": "Northland Nissan"
     },
     {
       "pub_id": "hilltop-subaru-jn8af5mv9ft555630",

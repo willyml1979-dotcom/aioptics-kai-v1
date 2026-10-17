@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T09:08:14+00:00",
-  "snapshot": "2026-10-17T09:08:14+00:00",
+  "generated_at": "2026-10-17T15:08:15+00:00",
+  "snapshot": "2026-10-17T15:08:15+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 14,
+  "count": 15,
   "vehicles": [
     {
       "pub_id": "jim-pattison-toyota-surrey-jtmaaaaa8sa058403",
@@ -89,6 +89,31 @@
       "city": "North Vancouver",
       "province": "BC",
       "dealer_name": "Carter GM Northshore"
+    },
+    {
+      "pub_id": "openroad-mercedes-benz-surrey-jtmabaca2ra052617",
+      "year": 2024,
+      "make": "Toyota",
+      "model": "bZ4X",
+      "propulsion": "electric",
+      "propulsion_source": "model_variant",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "price_cad": 38990.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "openroad-mercedes-benz-surrey",
+      "vin": "JTMABACA2RA052617",
+      "stock": 14526107,
+      "listing_url": "https://www.mercedes-benz-surrey.ca/used/2024-Toyota-BZ4X.html",
+      "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2024-Toyota-BZ4X.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T04:06:59",
+      "snapshot": "2026-10-17T04:10:27",
+      "go_url": "https://carwhisper.ca/go/openroad-mercedes-benz-surrey-jtmabaca2ra052617",
+      "region": "Lower Mainland",
+      "city": "Surrey",
+      "province": "BC",
+      "dealer_name": "OpenRoad Mercedes Benz Surrey"
     },
     {
       "pub_id": "go-langley-mitsubishi-jtmabaca7sa102353",

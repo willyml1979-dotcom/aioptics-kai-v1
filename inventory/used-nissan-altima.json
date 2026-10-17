@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T09:08:14+00:00",
-  "snapshot": "2026-10-17T09:08:14+00:00",
+  "generated_at": "2026-10-17T15:08:15+00:00",
+  "snapshot": "2026-10-17T15:08:15+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 21,
+  "count": 22,
   "vehicles": [
     {
       "pub_id": "destination-burnaby-honda-happy-honda-1n4al3ap6dn507380",
@@ -169,6 +169,33 @@
       "city": "Prince George",
       "province": "BC",
       "dealer_name": "Subaru of Prince George"
+    },
+    {
+      "pub_id": "northland-nissan-1n4bl4cw4rn385897",
+      "year": 2024,
+      "make": "Nissan",
+      "model": "Altima",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 1722,
+      "price_cad": 36064.0,
+      "price_note": null,
+      "color": "Blue",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/73621185-1c16-498b-966d-efae5882a7f7_f454201e-0266-457d-8449-0d94b1725f12.jpg",
+      "dealer_id": "northland-nissan",
+      "vin": "1N4BL4CW4RN385897",
+      "stock": "AV38589",
+      "listing_url": "https://www.northlandnissan.com/vehicles/2024/nissan/altima/prince-george/bc/ad13290486/?sale_class=used",
+      "dealer_url": "https://www.northlandnissan.com/vehicles/2024/nissan/altima/prince-george/bc/ad13290486/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T02:22:01",
+      "snapshot": "2026-10-17T02:27:19",
+      "go_url": "https://carwhisper.ca/go/northland-nissan-1n4bl4cw4rn385897",
+      "region": "Norte/Cariboo",
+      "city": "Prince George",
+      "province": "BC",
+      "dealer_name": "Northland Nissan"
     },
     {
       "pub_id": "kelowna-toyota-ltd-1n4al21e99c197561",

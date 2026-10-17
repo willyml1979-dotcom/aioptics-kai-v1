@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T09:08:14+00:00",
-  "snapshot": "2026-10-17T09:08:14+00:00",
+  "generated_at": "2026-10-17T15:08:15+00:00",
+  "snapshot": "2026-10-17T15:08:15+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 32,
+  "count": 33,
   "vehicles": [
     {
       "pub_id": "coastal-ford-vancouver-1fmuk8kh6tgc36558",
@@ -872,6 +872,33 @@
       "city": "Squamish",
       "province": "BC",
       "dealer_name": "Coastal Ford Squamish"
+    },
+    {
+      "pub_id": "coastal-ford-vancouver-1fmuk8kh9vga06676",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": "ST-Line",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "odometer_km": 10,
+      "price_cad": 66345.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://img.sm360.ca/images/inventory/suburban-motors/ford/explorer/2027/39013774/39013774_07137_869b271905121d66d785b11ee4fbbb4d.png",
+      "dealer_id": "coastal-ford-vancouver",
+      "vin": "1FMUK8KH9VGA06676",
+      "stock": "104853R",
+      "listing_url": "https://www.coastalfordvancouver.com/en/new-inventory/v/v/v-id39013774",
+      "dealer_url": "https://www.coastalfordvancouver.com/en/new-inventory/v/v/v-id39013774?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T04:39:58",
+      "snapshot": "2026-10-16T17:20:44",
+      "go_url": "https://carwhisper.ca/go/coastal-ford-vancouver-1fmuk8kh9vga06676",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Coastal Ford Vancouver"
     }
   ]
 }

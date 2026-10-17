@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T09:08:14+00:00",
-  "snapshot": "2026-10-17T09:08:14+00:00",
+  "generated_at": "2026-10-17T15:08:15+00:00",
+  "snapshot": "2026-10-17T15:08:15+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 10,
+  "count": 11,
   "vehicles": [
     {
       "pub_id": "destination-burnaby-honda-happy-honda-nmtkhmbx2jr001344",
@@ -32,6 +32,35 @@
       "city": "Burnaby",
       "province": "BC",
       "dealer_name": "Destination Burnaby Honda (Happy Honda)"
+    },
+    {
+      "pub_id": "preston-chevrolet-buick-gmc-cadillac-ltd-nmtkhmbx1kr075811",
+      "year": 2019,
+      "make": "Toyota",
+      "model": "C-HR",
+      "trim": "4-door Compact Passenger Car",
+      "body_type": "suv",
+      "drivetrain": "FWD",
+      "propulsion": "gas",
+      "propulsion_source": "model_trim_name",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 83698,
+      "price_cad": 22694.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "preston-chevrolet-buick-gmc-cadillac-ltd",
+      "vin": "NMTKHMBX1KR075811",
+      "stock": "6200781",
+      "listing_url": "https://www.prestongm.com/inventory/Used-2019-Toyota-C--HR-BASE-NMTKHMBX1KR075811/",
+      "dealer_url": "https://www.prestongm.com/inventory/Used-2019-Toyota-C--HR-BASE-NMTKHMBX1KR075811/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T07:13:05",
+      "snapshot": "2026-10-17T07:19:28",
+      "go_url": "https://carwhisper.ca/go/preston-chevrolet-buick-gmc-cadillac-ltd-nmtkhmbx1kr075811",
+      "region": "Lower Mainland",
+      "city": "Langley",
+      "province": "BC",
+      "dealer_name": "Preston Chevrolet Buick GMC Cadillac Ltd."
     },
     {
       "pub_id": "auto-west-bmw-jtnkhmbx8l1077096",

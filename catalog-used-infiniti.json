@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T09:08:14+00:00",
+  "generated_at": "2026-10-17T15:08:15+00:00",
   "condition": "used",
   "make": "infiniti",
   "files": [
@@ -7,12 +7,12 @@
       "condition": "used",
       "make": "infiniti",
       "model": "FX35",
-      "count": 10,
+      "count": 12,
       "file": "inventory/used-infiniti-fx35.json",
       "models": [
         {
           "model": "FX35",
-          "count": 10
+          "count": 12
         }
       ]
     },
@@ -33,12 +33,12 @@
       "condition": "used",
       "make": "infiniti",
       "model": "Q50",
-      "count": 27,
+      "count": 31,
       "file": "inventory/used-infiniti-q50.json",
       "models": [
         {
           "model": "Q50",
-          "count": 27
+          "count": 31
         }
       ]
     },
@@ -47,12 +47,12 @@
       "make": "infiniti",
       "model": "QX50",
       "shard": "part1",
-      "count": 30,
+      "count": 26,
       "file": "inventory/used-infiniti-qx50-part1.json",
       "models": [
         {
           "model": "QX50",
-          "count": 30
+          "count": 26
         }
       ]
     },
@@ -61,12 +61,12 @@
       "make": "infiniti",
       "model": "QX50",
       "shard": "part2",
-      "count": 30,
+      "count": 26,
       "file": "inventory/used-infiniti-qx50-part2.json",
       "models": [
         {
           "model": "QX50",
-          "count": 30
+          "count": 26
         }
       ]
     },
@@ -75,12 +75,26 @@
       "make": "infiniti",
       "model": "QX50",
       "shard": "part3",
-      "count": 29,
+      "count": 26,
       "file": "inventory/used-infiniti-qx50-part3.json",
       "models": [
         {
           "model": "QX50",
-          "count": 29
+          "count": 26
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "infiniti",
+      "model": "QX50",
+      "shard": "part4",
+      "count": 25,
+      "file": "inventory/used-infiniti-qx50-part4.json",
+      "models": [
+        {
+          "model": "QX50",
+          "count": 25
         }
       ]
     },
@@ -101,12 +115,12 @@
       "condition": "used",
       "make": "infiniti",
       "model": "QX80",
-      "count": 20,
+      "count": 22,
       "file": "inventory/used-infiniti-qx80.json",
       "models": [
         {
           "model": "QX80",
-          "count": 20
+          "count": 22
         }
       ]
     },
@@ -127,13 +141,13 @@
       "condition": "used",
       "make": "infiniti",
       "model": "QX60",
-      "shard": "Lower Mainland",
-      "count": 31,
-      "file": "inventory/used-infiniti-qx60-lower-mainland.json",
+      "shard": "part1",
+      "count": 28,
+      "file": "inventory/used-infiniti-qx60-part1.json",
       "models": [
         {
           "model": "QX60",
-          "count": 31
+          "count": 28
         }
       ]
     },
@@ -141,55 +155,13 @@
       "condition": "used",
       "make": "infiniti",
       "model": "QX60",
-      "shard": "Norte/Cariboo",
-      "count": 1,
-      "file": "inventory/used-infiniti-qx60-norte-cariboo.json",
+      "shard": "part2",
+      "count": 27,
+      "file": "inventory/used-infiniti-qx60-part2.json",
       "models": [
         {
           "model": "QX60",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "infiniti",
-      "model": "QX60",
-      "shard": "Okanagan",
-      "count": 4,
-      "file": "inventory/used-infiniti-qx60-okanagan.json",
-      "models": [
-        {
-          "model": "QX60",
-          "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "infiniti",
-      "model": "QX60",
-      "shard": "Vancouver Island",
-      "count": 6,
-      "file": "inventory/used-infiniti-qx60-vancouver-island.json",
-      "models": [
-        {
-          "model": "QX60",
-          "count": 6
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "infiniti",
-      "model": "QX60",
-      "shard": "sin-region",
-      "count": 7,
-      "file": "inventory/used-infiniti-qx60-sin-region.json",
-      "models": [
-        {
-          "model": "QX60",
-          "count": 7
+          "count": 27
         }
       ]
     },
@@ -197,12 +169,12 @@
       "condition": "used",
       "make": "infiniti",
       "model": "QX55",
-      "count": 13,
+      "count": 15,
       "file": "inventory/used-infiniti-qx55.json",
       "models": [
         {
           "model": "QX55",
-          "count": 13
+          "count": 15
         }
       ]
     },

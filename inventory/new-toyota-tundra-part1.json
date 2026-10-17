@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T09:08:14+00:00",
-  "snapshot": "2026-10-17T09:08:14+00:00",
+  "generated_at": "2026-10-17T15:08:15+00:00",
+  "snapshot": "2026-10-17T15:08:15+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 30,
+  "count": 31,
   "vehicles": [
     {
       "pub_id": "castlegar-toyota-5tfla5db0tx000000",
@@ -823,6 +823,33 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Jim Pattison Toyota - Downtown"
+    },
+    {
+      "pub_id": "jim-pattison-toyota-northshore-5tfmc5db4tx130943",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tundra",
+      "propulsion": "hybrid",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 90,
+      "price_cad": 91159.0,
+      "price_note": null,
+      "color": "Wind Chill Pearl",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/aaccc0c4-3d17-4ee9-9231-1f9665590bfe_43666a2a-eef5-4b9e-a7a8-35caec63a3cb.jpg",
+      "dealer_id": "jim-pattison-toyota-northshore",
+      "vin": "5TFMC5DB4TX130943",
+      "stock": "26TUH09",
+      "listing_url": "https://www.jptoyota-northshore.com/vehicles/2026/toyota/tundra/north-vancouver/bc/70354354/?sale_class=new",
+      "dealer_url": "https://www.jptoyota-northshore.com/vehicles/2026/toyota/tundra/north-vancouver/bc/70354354/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T09:49:39",
+      "snapshot": "2026-10-15T09:51:44",
+      "go_url": "https://carwhisper.ca/go/jim-pattison-toyota-northshore-5tfmc5db4tx130943",
+      "region": "Lower Mainland",
+      "city": "North Vancouver",
+      "province": "BC",
+      "dealer_name": "Jim Pattison Toyota - Northshore"
     }
   ]
 }

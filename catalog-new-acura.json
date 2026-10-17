@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T09:08:14+00:00",
+  "generated_at": "2026-10-17T15:08:15+00:00",
   "condition": "new",
   "make": "acura",
   "files": [
@@ -133,12 +133,12 @@
       "condition": "new",
       "make": "acura",
       "model": "Integra",
-      "count": 22,
+      "count": 23,
       "file": "inventory/new-acura-integra.json",
       "models": [
         {
           "model": "Integra",
-          "count": 22
+          "count": 23
         }
       ]
     },
@@ -146,12 +146,12 @@
       "condition": "new",
       "make": "acura",
       "model": "RDX",
-      "count": 19,
+      "count": 24,
       "file": "inventory/new-acura-rdx.json",
       "models": [
         {
           "model": "RDX",
-          "count": 19
+          "count": 24
         }
       ]
     },
@@ -159,12 +159,12 @@
       "condition": "new",
       "make": "acura",
       "model": "ZDX",
-      "count": 2,
+      "count": 3,
       "file": "inventory/new-acura-zdx.json",
       "models": [
         {
           "model": "ZDX",
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -173,12 +173,12 @@
       "make": "acura",
       "model": "MDX",
       "shard": "part1",
-      "count": 26,
+      "count": 25,
       "file": "inventory/new-acura-mdx-part1.json",
       "models": [
         {
           "model": "MDX",
-          "count": 26
+          "count": 25
         }
       ]
     },
@@ -187,12 +187,26 @@
       "make": "acura",
       "model": "MDX",
       "shard": "part2",
-      "count": 26,
+      "count": 25,
       "file": "inventory/new-acura-mdx-part2.json",
       "models": [
         {
           "model": "MDX",
-          "count": 26
+          "count": 25
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "acura",
+      "model": "MDX",
+      "shard": "part3",
+      "count": 24,
+      "file": "inventory/new-acura-mdx-part3.json",
+      "models": [
+        {
+          "model": "MDX",
+          "count": 24
         }
       ]
     },
@@ -200,12 +214,12 @@
       "condition": "new",
       "make": "acura",
       "model": "Integra Elite A-Spec CVT",
-      "count": 14,
+      "count": 15,
       "file": "inventory/new-acura-integra-elite-a-spec-cvt.json",
       "models": [
         {
           "model": "Integra Elite A-Spec CVT",
-          "count": 14
+          "count": 15
         }
       ]
     },
@@ -226,12 +240,12 @@
       "condition": "new",
       "make": "acura",
       "model": "MDX Platinum Elite",
-      "count": 17,
+      "count": 24,
       "file": "inventory/new-acura-mdx-platinum-elite.json",
       "models": [
         {
           "model": "MDX Platinum Elite",
-          "count": 17
+          "count": 24
         }
       ]
     }

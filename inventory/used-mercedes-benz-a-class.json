@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T09:08:14+00:00",
-  "snapshot": "2026-10-17T09:08:14+00:00",
+  "generated_at": "2026-10-17T15:08:15+00:00",
+  "snapshot": "2026-10-17T15:08:15+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "applewood-nissan-w1k3g4fb2mj311928",
@@ -33,6 +33,35 @@
       "city": "Surrey",
       "province": "BC",
       "dealer_name": "Applewood Nissan"
+    },
+    {
+      "pub_id": "preston-chevrolet-buick-gmc-cadillac-ltd-w1k3g4fb6nj346974",
+      "year": 2022,
+      "make": "Mercedes-Benz",
+      "model": "A-Class",
+      "trim": "4-door Sub-Compact Passenger Car",
+      "body_type": "sedan",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "model_trim_name",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 21800,
+      "price_cad": 30694.0,
+      "price_note": null,
+      "color": "Gray",
+      "dealer_id": "preston-chevrolet-buick-gmc-cadillac-ltd",
+      "vin": "W1K3G4FB6NJ346974",
+      "stock": "P7201841",
+      "listing_url": "https://www.prestongm.com/inventory/Used-2022-Mercedes--Benz-A--Class-A_220-W1K3G4FB6NJ346974/",
+      "dealer_url": "https://www.prestongm.com/inventory/Used-2022-Mercedes--Benz-A--Class-A_220-W1K3G4FB6NJ346974/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T07:14:30",
+      "snapshot": "2026-10-17T07:19:28",
+      "go_url": "https://carwhisper.ca/go/preston-chevrolet-buick-gmc-cadillac-ltd-w1k3g4fb6nj346974",
+      "region": "Lower Mainland",
+      "city": "Langley",
+      "province": "BC",
+      "dealer_name": "Preston Chevrolet Buick GMC Cadillac Ltd."
     },
     {
       "pub_id": "subaru-of-prince-george-wdd3g4fb7kw010149",

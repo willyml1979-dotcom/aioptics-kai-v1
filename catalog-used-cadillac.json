@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T09:08:14+00:00",
+  "generated_at": "2026-10-17T15:08:15+00:00",
   "condition": "used",
   "make": "cadillac",
   "files": [
@@ -7,12 +7,12 @@
       "condition": "used",
       "make": "cadillac",
       "model": "CTS",
-      "count": 12,
+      "count": 14,
       "file": "inventory/used-cadillac-cts.json",
       "models": [
         {
           "model": "CTS",
-          "count": 12
+          "count": 14
         }
       ]
     },
@@ -20,7 +20,7 @@
       "condition": "used",
       "make": "cadillac",
       "model": "Ats",
-      "count": 9,
+      "count": 8,
       "file": "inventory/used-cadillac-ats.json",
       "models": [
         {
@@ -29,7 +29,7 @@
         },
         {
           "model": "Ats",
-          "count": 7
+          "count": 6
         }
       ]
     },
@@ -37,12 +37,12 @@
       "condition": "used",
       "make": "cadillac",
       "model": "XT4",
-      "count": 10,
+      "count": 11,
       "file": "inventory/used-cadillac-xt4.json",
       "models": [
         {
           "model": "XT4",
-          "count": 10
+          "count": 11
         }
       ]
     },
@@ -50,12 +50,83 @@
       "condition": "used",
       "make": "cadillac",
       "model": "XT5",
-      "count": 29,
-      "file": "inventory/used-cadillac-xt5.json",
+      "shard": "Lower Mainland",
+      "count": 17,
+      "file": "inventory/used-cadillac-xt5-lower-mainland.json",
       "models": [
         {
           "model": "XT5",
-          "count": 29
+          "count": 17
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "cadillac",
+      "model": "XT5",
+      "shard": "Norte/Cariboo",
+      "count": 1,
+      "file": "inventory/used-cadillac-xt5-norte-cariboo.json",
+      "models": [
+        {
+          "model": "XT5",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "cadillac",
+      "model": "XT5",
+      "shard": "Okanagan",
+      "count": 6,
+      "file": "inventory/used-cadillac-xt5-okanagan.json",
+      "models": [
+        {
+          "model": "XT5",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "cadillac",
+      "model": "XT5",
+      "shard": "Thompson-Okanagan",
+      "count": 3,
+      "file": "inventory/used-cadillac-xt5-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "XT5",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "cadillac",
+      "model": "XT5",
+      "shard": "Vancouver Island",
+      "count": 1,
+      "file": "inventory/used-cadillac-xt5-vancouver-island.json",
+      "models": [
+        {
+          "model": "XT5",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "cadillac",
+      "model": "XT5",
+      "shard": "sin-region",
+      "count": 4,
+      "file": "inventory/used-cadillac-xt5-sin-region.json",
+      "models": [
+        {
+          "model": "XT5",
+          "count": 4
         }
       ]
     },
@@ -69,34 +140,6 @@
         {
           "model": "CT4",
           "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "cadillac",
-      "model": "Escalade",
-      "shard": "part1",
-      "count": 27,
-      "file": "inventory/used-cadillac-escalade-part1.json",
-      "models": [
-        {
-          "model": "Escalade",
-          "count": 27
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "cadillac",
-      "model": "Escalade",
-      "shard": "part2",
-      "count": 27,
-      "file": "inventory/used-cadillac-escalade-part2.json",
-      "models": [
-        {
-          "model": "Escalade",
-          "count": 27
         }
       ]
     },
@@ -130,16 +173,44 @@
       "condition": "used",
       "make": "cadillac",
       "model": "LYRIQ",
-      "count": 20,
+      "count": 16,
       "file": "inventory/used-cadillac-lyriq.json",
       "models": [
         {
           "model": "LYRIQ",
-          "count": 13
+          "count": 9
         },
         {
           "model": "Lyriq",
           "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "cadillac",
+      "model": "Escalade",
+      "shard": "part1",
+      "count": 29,
+      "file": "inventory/used-cadillac-escalade-part1.json",
+      "models": [
+        {
+          "model": "Escalade",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "cadillac",
+      "model": "Escalade",
+      "shard": "part2",
+      "count": 29,
+      "file": "inventory/used-cadillac-escalade-part2.json",
+      "models": [
+        {
+          "model": "Escalade",
+          "count": 29
         }
       ]
     },
@@ -164,12 +235,12 @@
       "condition": "used",
       "make": "cadillac",
       "model": "CT4-V",
-      "count": 13,
+      "count": 15,
       "file": "inventory/used-cadillac-ct4-v.json",
       "models": [
         {
           "model": "CT4-V",
-          "count": 13
+          "count": 15
         }
       ]
     },
@@ -177,12 +248,12 @@
       "condition": "used",
       "make": "cadillac",
       "model": "Escalade ESV",
-      "count": 8,
+      "count": 9,
       "file": "inventory/used-cadillac-escalade-esv.json",
       "models": [
         {
           "model": "Escalade ESV",
-          "count": 8
+          "count": 9
         }
       ]
     },
@@ -203,12 +274,12 @@
       "condition": "used",
       "make": "cadillac",
       "model": "Escalade IQ",
-      "count": 4,
+      "count": 3,
       "file": "inventory/used-cadillac-escalade-iq.json",
       "models": [
         {
           "model": "Escalade IQ",
-          "count": 4
+          "count": 3
         }
       ]
     },

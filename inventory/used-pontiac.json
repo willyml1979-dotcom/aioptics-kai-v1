@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T09:08:14+00:00",
-  "snapshot": "2026-10-17T09:08:14+00:00",
+  "generated_at": "2026-10-17T15:08:15+00:00",
+  "snapshot": "2026-10-17T15:08:15+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "carter-gm-burnaby-6g2vx12g44l315011",
@@ -31,6 +31,33 @@
       "city": "Burnaby",
       "province": "BC",
       "dealer_name": "Carter GM Burnaby"
+    },
+    {
+      "pub_id": "northland-nissan-1g2zg558064285495",
+      "year": 2006,
+      "make": "Pontiac",
+      "model": "G6",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 188625,
+      "price_cad": 3998.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/c8a80c3c-9234-4d17-a01f-5708c46dd8c6_eea18ab8-0410-41ef-8822-4bb6ae089c25.jpg",
+      "dealer_id": "northland-nissan",
+      "vin": "1G2ZG558064285495",
+      "stock": "26RO298",
+      "listing_url": "https://www.northlandnissan.com/vehicles/2006/pontiac/g6/prince-george/bc/71432659/?sale_class=used",
+      "dealer_url": "https://www.northlandnissan.com/vehicles/2006/pontiac/g6/prince-george/bc/71432659/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T02:20:53",
+      "snapshot": "2026-10-17T02:27:19",
+      "go_url": "https://carwhisper.ca/go/northland-nissan-1g2zg558064285495",
+      "region": "Norte/Cariboo",
+      "city": "Prince George",
+      "province": "BC",
+      "dealer_name": "Northland Nissan"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T09:08:14+00:00",
-  "snapshot": "2026-10-17T09:08:14+00:00",
+  "generated_at": "2026-10-17T15:08:15+00:00",
+  "snapshot": "2026-10-17T15:08:15+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 30,
+  "count": 31,
   "vehicles": [
     {
       "pub_id": "terrace-chrysler-dodge-jeep-ram-ltd-3c4pjmb27tt257374",
@@ -841,6 +841,33 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Okanagan Chrysler Dodge Jeep Ram"
+    },
+    {
+      "pub_id": "braby-motors-ltd-3c4pjmb2xtt262519",
+      "year": 2026,
+      "make": "JEEP",
+      "model": "CHEROKEE",
+      "propulsion": "hybrid",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 31,
+      "price_cad": 58375.0,
+      "price_note": null,
+      "color": "Diamond Black Crystal Pearl",
+      "photo_url": "https://portal.omni.auto/Media/InventoryMedia/3C4PJMB2XTT262519/Optimized/540992f979bb94714cd973cf6f709333.webp",
+      "dealer_id": "braby-motors-ltd",
+      "vin": "3C4PJMB2XTT262519",
+      "stock": "26-293",
+      "listing_url": "https://brabymotors.com/Inventory/2026-JEEP-CHEROKEE-85thAnniversaryEdition-3C4PJMB2XTT262519",
+      "dealer_url": "https://brabymotors.com/Inventory/2026-JEEP-CHEROKEE-85thAnniversaryEdition-3C4PJMB2XTT262519?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-16T02:16:08",
+      "snapshot": "2026-10-16T16:18:20",
+      "go_url": "https://carwhisper.ca/go/braby-motors-ltd-3c4pjmb2xtt262519",
+      "region": "Okanagan",
+      "city": "Salmon Arm",
+      "province": "BC",
+      "dealer_name": "Braby Motors Ltd."
     }
   ]
 }

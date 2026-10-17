@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T09:08:14+00:00",
+  "generated_at": "2026-10-17T15:08:15+00:00",
   "condition": "used",
   "make": "ford",
   "files": [
@@ -22,12 +22,12 @@
       "make": "ford",
       "model": "Bronco Sport",
       "shard": "Lower Mainland",
-      "count": 29,
+      "count": 32,
       "file": "inventory/used-ford-bronco-sport-lower-mainland.json",
       "models": [
         {
           "model": "Bronco Sport",
-          "count": 29
+          "count": 32
         }
       ]
     },
@@ -36,12 +36,12 @@
       "make": "ford",
       "model": "Bronco Sport",
       "shard": "Norte/Cariboo",
-      "count": 15,
+      "count": 14,
       "file": "inventory/used-ford-bronco-sport-norte-cariboo.json",
       "models": [
         {
           "model": "Bronco Sport",
-          "count": 15
+          "count": 14
         }
       ]
     },
@@ -106,12 +106,12 @@
       "make": "ford",
       "model": "Escape",
       "shard": "part1",
-      "count": 31,
+      "count": 32,
       "file": "inventory/used-ford-escape-part1.json",
       "models": [
         {
           "model": "Escape",
-          "count": 31
+          "count": 32
         }
       ]
     },
@@ -120,12 +120,12 @@
       "make": "ford",
       "model": "Escape",
       "shard": "part2",
-      "count": 31,
+      "count": 32,
       "file": "inventory/used-ford-escape-part2.json",
       "models": [
         {
           "model": "Escape",
-          "count": 31
+          "count": 32
         }
       ]
     },
@@ -134,12 +134,12 @@
       "make": "ford",
       "model": "Escape",
       "shard": "part3",
-      "count": 31,
+      "count": 32,
       "file": "inventory/used-ford-escape-part3.json",
       "models": [
         {
           "model": "Escape",
-          "count": 31
+          "count": 32
         }
       ]
     },
@@ -148,12 +148,12 @@
       "make": "ford",
       "model": "Escape",
       "shard": "part4",
-      "count": 31,
+      "count": 32,
       "file": "inventory/used-ford-escape-part4.json",
       "models": [
         {
           "model": "Escape",
-          "count": 31
+          "count": 32
         }
       ]
     },
@@ -162,12 +162,12 @@
       "make": "ford",
       "model": "Escape",
       "shard": "part5",
-      "count": 31,
+      "count": 32,
       "file": "inventory/used-ford-escape-part5.json",
       "models": [
         {
           "model": "Escape",
-          "count": 31
+          "count": 32
         }
       ]
     },
@@ -176,12 +176,12 @@
       "make": "ford",
       "model": "Escape",
       "shard": "part6",
-      "count": 31,
+      "count": 32,
       "file": "inventory/used-ford-escape-part6.json",
       "models": [
         {
           "model": "Escape",
-          "count": 31
+          "count": 32
         }
       ]
     },
@@ -190,12 +190,12 @@
       "make": "ford",
       "model": "Escape",
       "shard": "part7",
-      "count": 31,
+      "count": 32,
       "file": "inventory/used-ford-escape-part7.json",
       "models": [
         {
           "model": "Escape",
-          "count": 31
+          "count": 32
         }
       ]
     },
@@ -204,12 +204,12 @@
       "make": "ford",
       "model": "Escape",
       "shard": "part8",
-      "count": 30,
+      "count": 29,
       "file": "inventory/used-ford-escape-part8.json",
       "models": [
         {
           "model": "Escape",
-          "count": 30
+          "count": 29
         }
       ]
     },
@@ -505,12 +505,8 @@
       "file": "inventory/used-ford-f-150-part20.json",
       "models": [
         {
-          "model": "F 150",
-          "count": 2
-        },
-        {
           "model": "F-150",
-          "count": 29
+          "count": 31
         }
       ]
     },
@@ -523,8 +519,12 @@
       "file": "inventory/used-ford-f-150-part21.json",
       "models": [
         {
+          "model": "F 150",
+          "count": 2
+        },
+        {
           "model": "F-150",
-          "count": 31
+          "count": 29
         }
       ]
     },
@@ -559,13 +559,14 @@
     {
       "condition": "used",
       "make": "ford",
-      "model": "Maverick",
-      "count": 33,
-      "file": "inventory/used-ford-maverick.json",
+      "model": "F-150",
+      "shard": "part24",
+      "count": 12,
+      "file": "inventory/used-ford-f-150-part24.json",
       "models": [
         {
-          "model": "Maverick",
-          "count": 33
+          "model": "F-150",
+          "count": 12
         }
       ]
     },
@@ -574,12 +575,12 @@
       "make": "ford",
       "model": "Mustang",
       "shard": "part1",
-      "count": 23,
+      "count": 25,
       "file": "inventory/used-ford-mustang-part1.json",
       "models": [
         {
           "model": "Mustang",
-          "count": 23
+          "count": 25
         }
       ]
     },
@@ -588,12 +589,12 @@
       "make": "ford",
       "model": "Mustang",
       "shard": "part2",
-      "count": 23,
+      "count": 25,
       "file": "inventory/used-ford-mustang-part2.json",
       "models": [
         {
           "model": "Mustang",
-          "count": 23
+          "count": 25
         }
       ]
     },
@@ -602,12 +603,12 @@
       "make": "ford",
       "model": "Mustang",
       "shard": "part3",
-      "count": 22,
+      "count": 23,
       "file": "inventory/used-ford-mustang-part3.json",
       "models": [
         {
           "model": "Mustang",
-          "count": 22
+          "count": 23
         }
       ]
     },
@@ -616,12 +617,12 @@
       "make": "ford",
       "model": "Edge",
       "shard": "part1",
-      "count": 31,
+      "count": 32,
       "file": "inventory/used-ford-edge-part1.json",
       "models": [
         {
           "model": "Edge",
-          "count": 31
+          "count": 32
         }
       ]
     },
@@ -630,12 +631,12 @@
       "make": "ford",
       "model": "Edge",
       "shard": "part2",
-      "count": 31,
+      "count": 32,
       "file": "inventory/used-ford-edge-part2.json",
       "models": [
         {
           "model": "Edge",
-          "count": 31
+          "count": 32
         }
       ]
     },
@@ -656,14 +657,112 @@
     {
       "condition": "used",
       "make": "ford",
+      "model": "Maverick",
+      "shard": "Kootenays",
+      "count": 1,
+      "file": "inventory/used-ford-maverick-kootenays.json",
+      "models": [
+        {
+          "model": "Maverick",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Maverick",
+      "shard": "Lower Mainland",
+      "count": 14,
+      "file": "inventory/used-ford-maverick-lower-mainland.json",
+      "models": [
+        {
+          "model": "Maverick",
+          "count": 14
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Maverick",
+      "shard": "Norte/Cariboo",
+      "count": 4,
+      "file": "inventory/used-ford-maverick-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Maverick",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Maverick",
+      "shard": "Okanagan",
+      "count": 2,
+      "file": "inventory/used-ford-maverick-okanagan.json",
+      "models": [
+        {
+          "model": "Maverick",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Maverick",
+      "shard": "Thompson-Okanagan",
+      "count": 4,
+      "file": "inventory/used-ford-maverick-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "Maverick",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Maverick",
+      "shard": "Vancouver Island",
+      "count": 3,
+      "file": "inventory/used-ford-maverick-vancouver-island.json",
+      "models": [
+        {
+          "model": "Maverick",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "Maverick",
+      "shard": "sin-region",
+      "count": 6,
+      "file": "inventory/used-ford-maverick-sin-region.json",
+      "models": [
+        {
+          "model": "Maverick",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
       "model": "Explorer",
       "shard": "part1",
-      "count": 30,
+      "count": 31,
       "file": "inventory/used-ford-explorer-part1.json",
       "models": [
         {
           "model": "Explorer",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -672,12 +771,12 @@
       "make": "ford",
       "model": "Explorer",
       "shard": "part2",
-      "count": 30,
+      "count": 31,
       "file": "inventory/used-ford-explorer-part2.json",
       "models": [
         {
           "model": "Explorer",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -686,12 +785,12 @@
       "make": "ford",
       "model": "Explorer",
       "shard": "part3",
-      "count": 30,
+      "count": 31,
       "file": "inventory/used-ford-explorer-part3.json",
       "models": [
         {
           "model": "Explorer",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -700,12 +799,12 @@
       "make": "ford",
       "model": "Explorer",
       "shard": "part4",
-      "count": 29,
+      "count": 28,
       "file": "inventory/used-ford-explorer-part4.json",
       "models": [
         {
           "model": "Explorer",
-          "count": 29
+          "count": 28
         }
       ]
     },
@@ -714,12 +813,12 @@
       "make": "ford",
       "model": "Bronco",
       "shard": "part1",
-      "count": 30,
+      "count": 31,
       "file": "inventory/used-ford-bronco-part1.json",
       "models": [
         {
           "model": "Bronco",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -728,12 +827,12 @@
       "make": "ford",
       "model": "Bronco",
       "shard": "part2",
-      "count": 30,
+      "count": 31,
       "file": "inventory/used-ford-bronco-part2.json",
       "models": [
         {
           "model": "Bronco",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -742,12 +841,12 @@
       "make": "ford",
       "model": "Bronco",
       "shard": "part3",
-      "count": 30,
+      "count": 31,
       "file": "inventory/used-ford-bronco-part3.json",
       "models": [
         {
           "model": "Bronco",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -756,12 +855,12 @@
       "make": "ford",
       "model": "Bronco",
       "shard": "part4",
-      "count": 30,
+      "count": 31,
       "file": "inventory/used-ford-bronco-part4.json",
       "models": [
         {
           "model": "Bronco",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -770,12 +869,12 @@
       "make": "ford",
       "model": "Bronco",
       "shard": "part5",
-      "count": 30,
+      "count": 31,
       "file": "inventory/used-ford-bronco-part5.json",
       "models": [
         {
           "model": "Bronco",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -784,12 +883,12 @@
       "make": "ford",
       "model": "Bronco",
       "shard": "part6",
-      "count": 27,
+      "count": 30,
       "file": "inventory/used-ford-bronco-part6.json",
       "models": [
         {
           "model": "Bronco",
-          "count": 27
+          "count": 30
         }
       ]
     },
@@ -811,12 +910,12 @@
       "make": "ford",
       "model": "Expedition",
       "shard": "part1",
-      "count": 23,
+      "count": 24,
       "file": "inventory/used-ford-expedition-part1.json",
       "models": [
         {
           "model": "Expedition",
-          "count": 23
+          "count": 24
         }
       ]
     },
@@ -825,12 +924,12 @@
       "make": "ford",
       "model": "Expedition",
       "shard": "part2",
-      "count": 23,
+      "count": 24,
       "file": "inventory/used-ford-expedition-part2.json",
       "models": [
         {
           "model": "Expedition",
-          "count": 23
+          "count": 24
         }
       ]
     },
@@ -839,12 +938,12 @@
       "make": "ford",
       "model": "Expedition",
       "shard": "part3",
-      "count": 21,
+      "count": 22,
       "file": "inventory/used-ford-expedition-part3.json",
       "models": [
         {
           "model": "Expedition",
-          "count": 21
+          "count": 22
         }
       ]
     },
@@ -903,7 +1002,7 @@
       "make": "ford",
       "model": "Super Duty F-350 SRW",
       "shard": "Okanagan",
-      "count": 12,
+      "count": 11,
       "file": "inventory/used-ford-super-duty-f-350-srw-okanagan.json",
       "models": [
         {
@@ -912,7 +1011,7 @@
         },
         {
           "model": "Super Duty F-350 SRW",
-          "count": 11
+          "count": 10
         }
       ]
     },
@@ -935,12 +1034,12 @@
       "make": "ford",
       "model": "Super Duty F-350 SRW",
       "shard": "Vancouver Island",
-      "count": 7,
+      "count": 8,
       "file": "inventory/used-ford-super-duty-f-350-srw-vancouver-island.json",
       "models": [
         {
           "model": "Super Duty F-350 SRW",
-          "count": 7
+          "count": 8
         }
       ]
     },
@@ -975,12 +1074,12 @@
       "condition": "used",
       "make": "ford",
       "model": "Focus",
-      "count": 30,
+      "count": 31,
       "file": "inventory/used-ford-focus.json",
       "models": [
         {
           "model": "Focus",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -1027,12 +1126,12 @@
       "condition": "used",
       "make": "ford",
       "model": "EcoSport",
-      "count": 25,
+      "count": 24,
       "file": "inventory/used-ford-ecosport.json",
       "models": [
         {
           "model": "EcoSport",
-          "count": 25
+          "count": 24
         }
       ]
     },
@@ -1082,98 +1181,6 @@
     {
       "condition": "used",
       "make": "ford",
-      "model": "Ranger",
-      "shard": "Lower Mainland",
-      "count": 17,
-      "file": "inventory/used-ford-ranger-lower-mainland.json",
-      "models": [
-        {
-          "model": "RANGER",
-          "count": 1
-        },
-        {
-          "model": "Ranger",
-          "count": 16
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Ranger",
-      "shard": "Norte/Cariboo",
-      "count": 5,
-      "file": "inventory/used-ford-ranger-norte-cariboo.json",
-      "models": [
-        {
-          "model": "Ranger",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Ranger",
-      "shard": "Okanagan",
-      "count": 5,
-      "file": "inventory/used-ford-ranger-okanagan.json",
-      "models": [
-        {
-          "model": "Ranger",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Ranger",
-      "shard": "Thompson-Okanagan",
-      "count": 1,
-      "file": "inventory/used-ford-ranger-thompson-okanagan.json",
-      "models": [
-        {
-          "model": "Ranger",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Ranger",
-      "shard": "Vancouver Island",
-      "count": 4,
-      "file": "inventory/used-ford-ranger-vancouver-island.json",
-      "models": [
-        {
-          "model": "RANGER",
-          "count": 1
-        },
-        {
-          "model": "Ranger",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "Ranger",
-      "shard": "sin-region",
-      "count": 6,
-      "file": "inventory/used-ford-ranger-sin-region.json",
-      "models": [
-        {
-          "model": "Ranger",
-          "count": 6
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
       "model": "Mustang Mach-E",
       "count": 32,
       "file": "inventory/used-ford-mustang-mach-e.json",
@@ -1194,6 +1201,98 @@
         {
           "model": "F-350",
           "count": 11
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "RANGER",
+      "shard": "Lower Mainland",
+      "count": 17,
+      "file": "inventory/used-ford-ranger-lower-mainland.json",
+      "models": [
+        {
+          "model": "RANGER",
+          "count": 1
+        },
+        {
+          "model": "Ranger",
+          "count": 16
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "RANGER",
+      "shard": "Norte/Cariboo",
+      "count": 4,
+      "file": "inventory/used-ford-ranger-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Ranger",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "RANGER",
+      "shard": "Okanagan",
+      "count": 5,
+      "file": "inventory/used-ford-ranger-okanagan.json",
+      "models": [
+        {
+          "model": "Ranger",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "RANGER",
+      "shard": "Thompson-Okanagan",
+      "count": 1,
+      "file": "inventory/used-ford-ranger-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "Ranger",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "RANGER",
+      "shard": "Vancouver Island",
+      "count": 4,
+      "file": "inventory/used-ford-ranger-vancouver-island.json",
+      "models": [
+        {
+          "model": "RANGER",
+          "count": 1
+        },
+        {
+          "model": "Ranger",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "RANGER",
+      "shard": "sin-region",
+      "count": 6,
+      "file": "inventory/used-ford-ranger-sin-region.json",
+      "models": [
+        {
+          "model": "Ranger",
+          "count": 6
         }
       ]
     },
@@ -1313,12 +1412,12 @@
       "condition": "used",
       "make": "ford",
       "model": "F-350 Super Duty",
-      "count": 24,
+      "count": 26,
       "file": "inventory/used-ford-f-350-super-duty.json",
       "models": [
         {
           "model": "F-350 Super Duty",
-          "count": 24
+          "count": 26
         }
       ]
     },
@@ -1378,12 +1477,12 @@
       "condition": "used",
       "make": "ford",
       "model": "Super Duty F-350 DRW XLT 4WD Crew Cab 179 WB 60 CA",
-      "count": 12,
+      "count": 13,
       "file": "inventory/used-ford-super-duty-f-350-drw-xlt-4wd-crew-cab-179-wb-60-ca.json",
       "models": [
         {
           "model": "Super Duty F-350 DRW XLT 4WD Crew Cab 179 WB 60 CA",
-          "count": 12
+          "count": 13
         }
       ]
     },
@@ -1391,12 +1490,12 @@
       "condition": "used",
       "make": "ford",
       "model": "F350 4x4 - Chassis Crew SRW XL 179 WB",
-      "count": 11,
+      "count": 12,
       "file": "inventory/used-ford-f350-4x4-chassis-crew-srw-xl-179-wb.json",
       "models": [
         {
           "model": "F350 4x4 - Chassis Crew SRW XL 179 WB",
-          "count": 11
+          "count": 12
         }
       ]
     },
@@ -1404,12 +1503,12 @@
       "condition": "used",
       "make": "ford",
       "model": "F350 4x4 - Crew Cab SRW Lariat - 160 WB",
-      "count": 11,
+      "count": 12,
       "file": "inventory/used-ford-f350-4x4-crew-cab-srw-lariat-160-wb.json",
       "models": [
         {
           "model": "F350 4x4 - Crew Cab SRW Lariat - 160 WB",
-          "count": 11
+          "count": 12
         }
       ]
     },
@@ -1466,19 +1565,6 @@
         {
           "model": "Super Duty F-250 SRW",
           "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ford",
-      "model": "F-250 Super Duty",
-      "count": 2,
-      "file": "inventory/used-ford-f-250-super-duty.json",
-      "models": [
-        {
-          "model": "F-250 Super Duty",
-          "count": 2
         }
       ]
     },
@@ -1660,6 +1746,19 @@
       "models": [
         {
           "model": "ECONOLINE COMMERCIAL CHASSIS",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ford",
+      "model": "F-250 Super Duty",
+      "count": 1,
+      "file": "inventory/used-ford-f-250-super-duty.json",
+      "models": [
+        {
+          "model": "F-250 Super Duty",
           "count": 1
         }
       ]

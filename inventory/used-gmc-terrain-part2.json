@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T09:08:14+00:00",
-  "snapshot": "2026-10-17T09:08:14+00:00",
+  "generated_at": "2026-10-17T15:08:15+00:00",
+  "snapshot": "2026-10-17T15:08:15+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 31,
+  "count": 30,
   "vehicles": [
     {
       "pub_id": "inland-auto-centre-ltd-3gkalteg3rl336684",
@@ -804,36 +804,6 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Kamloops Kia"
-    },
-    {
-      "pub_id": "kamloops-chrysler-dodge-jeep-ram-inc-3gkalweuxjl242653",
-      "year": 2018,
-      "make": "GMC",
-      "model": "Terrain",
-      "trim": "AWD SLT Diesel",
-      "body_type": "suv",
-      "drivetrain": "AWD",
-      "propulsion": "diesel",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
-      "condition": "used",
-      "odometer_km": 101941,
-      "price_cad": 25298.0,
-      "price_note": null,
-      "color": "Black",
-      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/inventory/4UDSFLRG5RFAJNWYBVPHAJMYK4.webp",
-      "dealer_id": "kamloops-chrysler-dodge-jeep-ram-inc",
-      "vin": "3GKALWEUXJL242653",
-      "stock": "1329A",
-      "listing_url": "https://www.kamloopsram.com/inventory/2018-gmc-terrain-slt-diesel-yTqgOAtpSzaGafIyF0hQ8Qvdp",
-      "dealer_url": "https://www.kamloopsram.com/inventory/2018-gmc-terrain-slt-diesel-yTqgOAtpSzaGafIyF0hQ8Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T07:10:44",
-      "snapshot": "2026-10-10T07:12:42",
-      "go_url": "https://carwhisper.ca/go/kamloops-chrysler-dodge-jeep-ram-inc-3gkalweuxjl242653",
-      "region": "Thompson-Okanagan",
-      "city": "Kamloops",
-      "province": "BC",
-      "dealer_name": "Kamloops Chrysler Dodge Jeep Ram Inc."
     }
   ]
 }

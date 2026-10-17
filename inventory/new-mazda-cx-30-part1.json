@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T09:08:14+00:00",
-  "snapshot": "2026-10-17T09:08:14+00:00",
+  "generated_at": "2026-10-17T15:08:15+00:00",
+  "snapshot": "2026-10-17T15:08:15+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 26,
+  "count": 27,
   "vehicles": [
     {
       "pub_id": "morrey-mazda-of-the-northshore-3mvdmbbl9tm120047",
@@ -738,6 +738,30 @@
       "city": "Surrey",
       "province": "BC",
       "dealer_name": "Applewood Mazda Surrey"
+    },
+    {
+      "pub_id": "signature-mazda-3mvdmbdm3sm783585",
+      "year": 2025,
+      "make": "Mazda",
+      "model": "CX-30",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": 33990.0,
+      "price_note": null,
+      "color": "{$COLOREX}",
+      "dealer_id": "signature-mazda",
+      "vin": "3MVDMBDM3SM783585",
+      "stock": 14064533,
+      "listing_url": "https://www.signaturemazda.com/used/2025-Mazda-CX_30.html",
+      "dealer_url": "https://www.signaturemazda.com/used/2025-Mazda-CX_30.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T03:17:07",
+      "snapshot": "2026-10-16T18:20:14",
+      "go_url": "https://carwhisper.ca/go/signature-mazda-3mvdmbdm3sm783585",
+      "region": "Lower Mainland",
+      "city": "Richmond",
+      "province": "BC",
+      "dealer_name": "Signature Mazda"
     }
   ]
 }

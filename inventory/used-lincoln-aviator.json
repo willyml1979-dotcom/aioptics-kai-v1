@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T09:08:14+00:00",
-  "snapshot": "2026-10-17T09:08:14+00:00",
+  "generated_at": "2026-10-17T15:08:15+00:00",
+  "snapshot": "2026-10-17T15:08:15+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 7,
+  "count": 8,
   "vehicles": [
     {
       "pub_id": "harmony-acura-5lm5j7xc1lgl07693",
@@ -133,6 +133,29 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Duncan Chrysler Dodge Jeep Ram Ltd."
+    },
+    {
+      "pub_id": "steve-marshall-motors-1996-ltd-5lm5j7xc1pgl05433",
+      "year": 2023,
+      "make": "Lincoln",
+      "model": "Aviator",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 53933.0,
+      "price_note": null,
+      "dealer_id": "steve-marshall-motors-1996-ltd",
+      "vin": "5LM5J7XC1PGL05433",
+      "stock": 14478558,
+      "listing_url": "https://www.stevemarshallfordcampbellriver.com/used/2023-Lincoln-Aviator.html",
+      "dealer_url": "https://www.stevemarshallfordcampbellriver.com/used/2023-Lincoln-Aviator.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T07:16:32",
+      "snapshot": "2026-10-17T07:19:41",
+      "go_url": "https://carwhisper.ca/go/steve-marshall-motors-1996-ltd-5lm5j7xc1pgl05433",
+      "region": "Vancouver Island",
+      "city": "Campbell River",
+      "province": "BC",
+      "dealer_name": "Steve Marshall Motors (1996) Ltd."
     },
     {
       "pub_id": "laird-wheaton-gm-5lm5j7xc5rgl10654",

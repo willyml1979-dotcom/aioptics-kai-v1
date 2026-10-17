@@ -1,16 +1,20 @@
 {
-  "generated_at": "2026-10-17T09:08:14+00:00",
+  "generated_at": "2026-10-17T15:08:15+00:00",
   "condition": "new",
   "make": "cadillac",
   "files": [
     {
       "condition": "new",
       "make": "cadillac",
-      "count": 1,
+      "count": 2,
       "file": "inventory/new-cadillac.json",
       "models": [
         {
           "model": "CT5",
+          "count": 1
+        },
+        {
+          "model": "OPTIQ",
           "count": 1
         }
       ]

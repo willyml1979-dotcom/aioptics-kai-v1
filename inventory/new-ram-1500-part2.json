@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T09:08:14+00:00",
-  "snapshot": "2026-10-17T09:08:14+00:00",
+  "generated_at": "2026-10-17T15:08:15+00:00",
+  "snapshot": "2026-10-17T15:08:15+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 31,
   "vehicles": [
@@ -197,6 +197,30 @@
       "city": "Trail",
       "province": "BC",
       "dealer_name": "Kootenay Chrysler Dodge Jeep Ram Ltd."
+    },
+    {
+      "pub_id": "pioneer-chrysler-jeep-1c6rrfcg1tn381607",
+      "year": 2026,
+      "make": "RAM",
+      "model": "1500",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": 59140.0,
+      "price_note": null,
+      "color": "Grey",
+      "dealer_id": "pioneer-chrysler-jeep",
+      "vin": "1C6RRFCG1TN381607",
+      "stock": 14043259,
+      "listing_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-RAM-1500.html",
+      "dealer_url": "https://www.pioneerchryslerjeep.com/new/inventory/2026-RAM-1500.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T23:48:36",
+      "snapshot": "2026-10-17T06:25:02",
+      "go_url": "https://carwhisper.ca/go/pioneer-chrysler-jeep-1c6rrfcg1tn381607",
+      "region": "Lower Mainland",
+      "city": "Mission",
+      "province": "BC",
+      "dealer_name": "Pioneer Chrysler Jeep"
     },
     {
       "pub_id": "marine-chrysler-dodge-jeep-ltd-3c6rrfgg0t4168930",
@@ -575,7 +599,7 @@
       "listing_url": "https://www.pioneerchryslerjeep.com/used/2025-RAM-1500.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2025-RAM-1500.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T22:25:35",
-      "snapshot": "2026-09-26T22:36:01",
+      "snapshot": "2026-10-17T06:03:19",
       "go_url": "https://carwhisper.ca/go/pioneer-chrysler-jeep-1c6srfvpxsn602862",
       "region": "Lower Mainland",
       "city": "Mission",
@@ -781,30 +805,6 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Marine Chrysler Dodge Jeep Ltd."
-    },
-    {
-      "pub_id": "pioneer-chrysler-jeep-1c6srfvp8tn363605",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "propulsion": "unknown",
-      "propulsion_source": null,
-      "condition": "new",
-      "price_cad": 72888.0,
-      "price_note": null,
-      "color": "Blue",
-      "dealer_id": "pioneer-chrysler-jeep",
-      "vin": "1C6SRFVP8TN363605",
-      "stock": 14391018,
-      "listing_url": "https://www.pioneerchryslerjeep.com/used/2026-RAM-1500.html",
-      "dealer_url": "https://www.pioneerchryslerjeep.com/used/2026-RAM-1500.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T22:29:12",
-      "snapshot": "2026-09-26T22:36:01",
-      "go_url": "https://carwhisper.ca/go/pioneer-chrysler-jeep-1c6srfvp8tn363605",
-      "region": "Lower Mainland",
-      "city": "Mission",
-      "province": "BC",
-      "dealer_name": "Pioneer Chrysler Jeep"
     }
   ]
 }

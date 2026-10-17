@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T09:08:14+00:00",
-  "snapshot": "2026-10-17T09:08:14+00:00",
+  "generated_at": "2026-10-17T15:08:15+00:00",
+  "snapshot": "2026-10-17T15:08:15+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 4,
   "vehicles": [
     {
       "pub_id": "north-shore-acura-kmuhcesc2su268135",
@@ -30,6 +30,31 @@
       "dealer_name": "North Shore Acura"
     },
     {
+      "pub_id": "north-shore-honda-kmuhcesc2su268135",
+      "year": 2025,
+      "make": "Genesis",
+      "model": "GV80 3.5T Prestige AWD 7P",
+      "drivetrain": "AWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 37369,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "north-shore-honda",
+      "vin": "KMUHCESC2SU268135",
+      "stock": "JL12B08",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/genesis/gv80/2025-genesis-gv80-id39325598",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/genesis/gv80/2025-genesis-gv80-id39325598?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T03:54:15",
+      "snapshot": "2026-10-17T08:08:02",
+      "go_url": "https://carwhisper.ca/go/north-shore-honda-kmuhcesc2su268135",
+      "region": "Lower Mainland",
+      "city": "North Vancouver",
+      "province": "BC",
+      "dealer_name": "North Shore Honda"
+    },
+    {
       "pub_id": "north-vancouver-nissan-infiniti-north-vancouver-kmuhcesc2su268135",
       "year": 2025,
       "make": "Genesis",
@@ -47,7 +72,7 @@
       "listing_url": "https://www.northvancouvernissan.ca/en/used-inventory/genesis/gv80/2025-genesis-gv80-id39325598",
       "dealer_url": "https://www.northvancouvernissan.ca/en/used-inventory/genesis/gv80/2025-genesis-gv80-id39325598?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T01:57:30",
-      "snapshot": "2026-09-26T19:00:46",
+      "snapshot": "2026-10-17T05:15:00",
       "go_url": "https://carwhisper.ca/go/north-vancouver-nissan-infiniti-north-vancouver-kmuhcesc2su268135",
       "region": "Lower Mainland",
       "city": "North Vancouver",
