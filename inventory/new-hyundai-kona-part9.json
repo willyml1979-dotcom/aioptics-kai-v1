@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T03:09:09+00:00",
-  "snapshot": "2026-10-18T03:09:09+00:00",
+  "generated_at": "2026-10-18T21:57:12+00:00",
+  "snapshot": "2026-10-18T21:57:12+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 31,
   "vehicles": [
@@ -705,6 +705,33 @@
       "dealer_name": "Kelowna Hyundai"
     },
     {
+      "pub_id": "penticton-hyundai-km8ha3ab2vu536512",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 11,
+      "price_cad": 30099.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/2cd64756-ef83-4de0-b5f4-1f311e542287_fe0dfced-e588-4961-ac91-2903f830eae4.jpg",
+      "dealer_id": "penticton-hyundai",
+      "vin": "KM8HA3AB2VU536512",
+      "stock": "EY27015",
+      "listing_url": "https://www.pentictonhyundai.com/vehicles/2027/hyundai/kona/penticton/bc/71440853/?sale_class=new",
+      "dealer_url": "https://www.pentictonhyundai.com/vehicles/2027/hyundai/kona/penticton/bc/71440853/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:40:42",
+      "snapshot": "2026-10-18T01:43:16",
+      "go_url": "https://carwhisper.ca/go/penticton-hyundai-km8ha3ab2vu536512",
+      "region": "Okanagan",
+      "city": "Penticton",
+      "province": "BC",
+      "dealer_name": "Penticton Hyundai"
+    },
+    {
       "pub_id": "okanagan-chrysler-dodge-jeep-ram-km8hbcab8tu368188",
       "year": 2026,
       "make": "Hyundai",
@@ -802,35 +829,6 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Kelowna Hyundai"
-    },
-    {
-      "pub_id": "penticton-hyundai-km8hacab7tu376298",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Kona",
-      "body_type": "suv",
-      "drivetrain": "AWD",
-      "propulsion": "gas",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
-      "condition": "new",
-      "odometer_km": 262,
-      "price_cad": 31149.0,
-      "price_note": null,
-      "color": "Black",
-      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/64ff3ee3-8c6f-4a7f-ac33-1706c9b7ef87_4e5390b2-47d1-477f-b8ba-5f4451fa046b.jpg",
-      "dealer_id": "penticton-hyundai",
-      "vin": "KM8HACAB7TU376298",
-      "stock": "EY26029",
-      "listing_url": "https://www.pentictonhyundai.com/vehicles/2026/hyundai/kona/penticton/bc/67787108/?sale_class=new",
-      "dealer_url": "https://www.pentictonhyundai.com/vehicles/2026/hyundai/kona/penticton/bc/67787108/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T00:37:04",
-      "snapshot": "2026-10-17T07:08:04",
-      "go_url": "https://carwhisper.ca/go/penticton-hyundai-km8hacab7tu376298",
-      "region": "Okanagan",
-      "city": "Penticton",
-      "province": "BC",
-      "dealer_name": "Penticton Hyundai"
     }
   ]
 }

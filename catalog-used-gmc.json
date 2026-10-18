@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T03:09:09+00:00",
+  "generated_at": "2026-10-18T21:57:12+00:00",
   "condition": "used",
   "make": "gmc",
   "files": [
@@ -58,12 +58,12 @@
       "make": "gmc",
       "model": "TERRAIN",
       "shard": "part4",
-      "count": 28,
+      "count": 27,
       "file": "inventory/used-gmc-terrain-part4.json",
       "models": [
         {
           "model": "Terrain",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -257,12 +257,25 @@
       "make": "gmc",
       "model": "Sierra 1500",
       "shard": "part13",
-      "count": 24,
+      "count": 23,
       "file": "inventory/used-gmc-sierra-1500-part13.json",
       "models": [
         {
           "model": "Sierra 1500",
-          "count": 24
+          "count": 23
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "gmc",
+      "model": "Yukon XL",
+      "count": 25,
+      "file": "inventory/used-gmc-yukon-xl.json",
+      "models": [
+        {
+          "model": "Yukon XL",
+          "count": 25
         }
       ]
     },
@@ -345,12 +358,12 @@
       "make": "gmc",
       "model": "Yukon",
       "shard": "sin-region",
-      "count": 13,
+      "count": 14,
       "file": "inventory/used-gmc-yukon-sin-region.json",
       "models": [
         {
           "model": "Yukon",
-          "count": 13
+          "count": 14
         }
       ]
     },
@@ -415,12 +428,12 @@
       "make": "gmc",
       "model": "Acadia",
       "shard": "sin-region",
-      "count": 16,
+      "count": 17,
       "file": "inventory/used-gmc-acadia-sin-region.json",
       "models": [
         {
           "model": "Acadia",
-          "count": 16
+          "count": 17
         }
       ]
     },
@@ -520,12 +533,12 @@
       "make": "gmc",
       "model": "Sierra 3500HD",
       "shard": "sin-region",
-      "count": 23,
+      "count": 22,
       "file": "inventory/used-gmc-sierra-3500hd-sin-region.json",
       "models": [
         {
           "model": "Sierra 3500HD",
-          "count": 23
+          "count": 22
         }
       ]
     },
@@ -578,19 +591,6 @@
         {
           "model": "New Sierra 1500 Crew Cab 4x4",
           "count": 28
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "gmc",
-      "model": "Yukon XL",
-      "count": 24,
-      "file": "inventory/used-gmc-yukon-xl.json",
-      "models": [
-        {
-          "model": "Yukon XL",
-          "count": 24
         }
       ]
     },

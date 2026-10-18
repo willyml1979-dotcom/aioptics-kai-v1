@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T03:09:09+00:00",
+  "generated_at": "2026-10-18T21:57:12+00:00",
   "condition": "used",
   "make": "ram",
   "files": [
@@ -8,12 +8,12 @@
       "make": "ram",
       "model": "1500",
       "shard": "part1",
-      "count": 32,
+      "count": 30,
       "file": "inventory/used-ram-1500-part1.json",
       "models": [
         {
           "model": "1500",
-          "count": 32
+          "count": 30
         }
       ]
     },
@@ -22,12 +22,12 @@
       "make": "ram",
       "model": "1500",
       "shard": "part2",
-      "count": 32,
+      "count": 30,
       "file": "inventory/used-ram-1500-part2.json",
       "models": [
         {
           "model": "1500",
-          "count": 32
+          "count": 30
         }
       ]
     },
@@ -36,12 +36,12 @@
       "make": "ram",
       "model": "1500",
       "shard": "part3",
-      "count": 32,
+      "count": 30,
       "file": "inventory/used-ram-1500-part3.json",
       "models": [
         {
           "model": "1500",
-          "count": 32
+          "count": 30
         }
       ]
     },
@@ -50,12 +50,12 @@
       "make": "ram",
       "model": "1500",
       "shard": "part4",
-      "count": 32,
+      "count": 30,
       "file": "inventory/used-ram-1500-part4.json",
       "models": [
         {
           "model": "1500",
-          "count": 32
+          "count": 30
         }
       ]
     },
@@ -64,12 +64,12 @@
       "make": "ram",
       "model": "1500",
       "shard": "part5",
-      "count": 32,
+      "count": 30,
       "file": "inventory/used-ram-1500-part5.json",
       "models": [
         {
           "model": "1500",
-          "count": 32
+          "count": 30
         }
       ]
     },
@@ -78,12 +78,12 @@
       "make": "ram",
       "model": "1500",
       "shard": "part6",
-      "count": 32,
+      "count": 30,
       "file": "inventory/used-ram-1500-part6.json",
       "models": [
         {
           "model": "1500",
-          "count": 32
+          "count": 30
         }
       ]
     },
@@ -92,12 +92,12 @@
       "make": "ram",
       "model": "1500",
       "shard": "part7",
-      "count": 32,
+      "count": 30,
       "file": "inventory/used-ram-1500-part7.json",
       "models": [
         {
           "model": "1500",
-          "count": 32
+          "count": 30
         }
       ]
     },
@@ -106,12 +106,12 @@
       "make": "ram",
       "model": "1500",
       "shard": "part8",
-      "count": 32,
+      "count": 30,
       "file": "inventory/used-ram-1500-part8.json",
       "models": [
         {
           "model": "1500",
-          "count": 32
+          "count": 30
         }
       ]
     },
@@ -126,6 +126,20 @@
         {
           "model": "1500",
           "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500",
+      "shard": "part10",
+      "count": 23,
+      "file": "inventory/used-ram-1500-part10.json",
+      "models": [
+        {
+          "model": "1500",
+          "count": 23
         }
       ]
     },
@@ -255,7 +269,7 @@
       "make": "ram",
       "model": "1500 Classic",
       "shard": "Vancouver Island",
-      "count": 18,
+      "count": 19,
       "file": "inventory/used-ram-1500-classic-vancouver-island.json",
       "models": [
         {
@@ -264,7 +278,7 @@
         },
         {
           "model": "1500 Classic",
-          "count": 16
+          "count": 17
         }
       ]
     },
@@ -392,12 +406,12 @@
       "make": "ram",
       "model": "3500",
       "shard": "sin-region",
-      "count": 14,
+      "count": 15,
       "file": "inventory/used-ram-3500-sin-region.json",
       "models": [
         {
           "model": "3500",
-          "count": 14
+          "count": 15
         }
       ]
     },
@@ -434,12 +448,12 @@
       "make": "ram",
       "model": "2500",
       "shard": "Norte/Cariboo",
-      "count": 3,
+      "count": 4,
       "file": "inventory/used-ram-2500-norte-cariboo.json",
       "models": [
         {
           "model": "2500",
-          "count": 3
+          "count": 4
         }
       ]
     },
@@ -490,25 +504,12 @@
       "make": "ram",
       "model": "2500",
       "shard": "sin-region",
-      "count": 11,
+      "count": 12,
       "file": "inventory/used-ram-2500-sin-region.json",
       "models": [
         {
           "model": "2500",
-          "count": 11
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ram",
-      "model": "3500Tradesman 4x4 Reg Cab 8' Box",
-      "count": 1,
-      "file": "inventory/used-ram-3500tradesman-4x4-reg-cab-8-box.json",
-      "models": [
-        {
-          "model": "3500Tradesman 4x4 Reg Cab 8' Box",
-          "count": 1
+          "count": 12
         }
       ]
     },
@@ -534,6 +535,19 @@
       "models": [
         {
           "model": "3500Big Horn 4x4 Crew Cab 8' Box",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "3500Tradesman 4x4 Reg Cab 8' Box",
+      "count": 1,
+      "file": "inventory/used-ram-3500tradesman-4x4-reg-cab-8-box.json",
+      "models": [
+        {
+          "model": "3500Tradesman 4x4 Reg Cab 8' Box",
           "count": 1
         }
       ]
@@ -594,12 +608,12 @@
       "condition": "used",
       "make": "ram",
       "model": "ProMaster Cargo",
-      "count": 14,
+      "count": 13,
       "file": "inventory/used-ram-promaster-cargo.json",
       "models": [
         {
           "model": "ProMaster Cargo",
-          "count": 14
+          "count": 13
         }
       ]
     },
@@ -607,12 +621,12 @@
       "condition": "used",
       "make": "ram",
       "model": "RAM 1500 Classic Crew Cab 4x4 (DS)",
-      "count": 26,
+      "count": 27,
       "file": "inventory/used-ram-ram-1500-classic-crew-cab-4x4-ds.json",
       "models": [
         {
           "model": "RAM 1500 Classic Crew Cab 4x4 (DS)",
-          "count": 26
+          "count": 27
         }
       ]
     },
@@ -659,12 +673,12 @@
       "condition": "used",
       "make": "ram",
       "model": "1500 Tradesman 4x4 Crew Cab 5'7 Box",
-      "count": 14,
+      "count": 10,
       "file": "inventory/used-ram-1500-tradesman-4x4-crew-cab-5-7-box.json",
       "models": [
         {
           "model": "1500 Tradesman 4x4 Crew Cab 5'7 Box",
-          "count": 14
+          "count": 10
         }
       ]
     },
@@ -762,32 +776,6 @@
     {
       "condition": "used",
       "make": "ram",
-      "model": "2500POWER WAGON 4X4 CREW CAB 6.4L HEMI 6'4\" BOX",
-      "count": 1,
-      "file": "inventory/used-ram-2500power-wagon-4x4-crew-cab-6-4l-hemi-6-4-box.json",
-      "models": [
-        {
-          "model": "2500POWER WAGON 4X4 CREW CAB 6.4L HEMI 6'4\" BOX",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ram",
-      "model": "1500 Quad Cab",
-      "count": 1,
-      "file": "inventory/used-ram-1500-quad-cab.json",
-      "models": [
-        {
-          "model": "1500 Quad Cab",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ram",
       "model": "1500 ClassicExpress",
       "count": 2,
       "file": "inventory/used-ram-1500-classicexpress.json",
@@ -820,19 +808,6 @@
       "models": [
         {
           "model": "1500 Laramie  - Leather Seats -  Cooled Seats",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ram",
-      "model": "1500 TRX  - Launch Control -  Leather Seats",
-      "count": 1,
-      "file": "inventory/used-ram-1500-trx-launch-control-leather-seats.json",
-      "models": [
-        {
-          "model": "1500 TRX  - Launch Control -  Leather Seats",
           "count": 1
         }
       ]
@@ -950,6 +925,19 @@
       "models": [
         {
           "model": "1500Limited Longhorn",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500 Harvest",
+      "count": 1,
+      "file": "inventory/used-ram-1500-harvest.json",
+      "models": [
+        {
+          "model": "1500 Harvest",
           "count": 1
         }
       ]

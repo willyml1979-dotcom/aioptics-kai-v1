@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-18T03:09:09+00:00",
-  "snapshot": "2026-10-18T03:09:09+00:00",
+  "generated_at": "2026-10-18T21:57:12+00:00",
+  "snapshot": "2026-10-18T21:57:12+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 11,
+  "count": 12,
   "vehicles": [
     {
       "pub_id": "kelowna-ford-lincoln-sales-ltd-3fmcr9bn0sre32764",
@@ -119,6 +119,32 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Kelowna Ford Lincoln Sales Ltd."
+    },
+    {
+      "pub_id": "turner-volkswagen-3fmcr9bn0sre33042",
+      "year": 2025,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "trim": "Big Bend",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 36062,
+      "price_cad": 30744.0,
+      "price_note": null,
+      "photo_url": "https://img.sm360.ca/ir/w800h600/images/inventory/turner-volkswagen/ford/bronco-sport/2025/39240989/39240989_06465_2025-ford-bronco-sport_001.jpg",
+      "dealer_id": "turner-volkswagen",
+      "vin": "3FMCR9BN0SRE33042",
+      "stock": "26TS14LA",
+      "listing_url": "https://www.turnervw.ca/en/used-inventory/ford/bronco-sport/2025-ford-bronco-sport-id39240989",
+      "dealer_url": "https://www.turnervw.ca/en/used-inventory/ford/bronco-sport/2025-ford-bronco-sport-id39240989?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T00:01:40",
+      "snapshot": "2026-10-18T00:13:32",
+      "go_url": "https://carwhisper.ca/go/turner-volkswagen-3fmcr9bn0sre33042",
+      "region": "Okanagan",
+      "city": "Kelowna",
+      "province": "BC",
+      "dealer_name": "Turner Volkswagen"
     },
     {
       "pub_id": "kelowna-chevrolet-3fmcr9bn9sre16014",

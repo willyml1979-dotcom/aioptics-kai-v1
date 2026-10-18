@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-18T03:09:09+00:00",
-  "snapshot": "2026-10-18T03:09:09+00:00",
+  "generated_at": "2026-10-18T21:57:12+00:00",
+  "snapshot": "2026-10-18T21:57:12+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "winnipeg-hyundai-ja4t5va99pz610763",
@@ -24,7 +24,7 @@
       "listing_url": "https://www.winnipeghyundai.com/vehicles/2023/mitsubishi/outlander-phev/winnipeg/mb/71403762/?sale_class=used",
       "dealer_url": "https://www.winnipeghyundai.com/vehicles/2023/mitsubishi/outlander-phev/winnipeg/mb/71403762/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T15:30:18",
-      "snapshot": "2026-10-16T15:32:22",
+      "snapshot": "2026-10-17T20:31:23",
       "go_url": "https://carwhisper.ca/go/winnipeg-hyundai-ja4t5va99pz610763",
       "city": null,
       "province": "MB",
@@ -51,8 +51,8 @@
       "stock": "TH26178",
       "listing_url": "https://www.reddeermitsubishi.ca/en/used-inventory/mitsubishi/outlander-phev/2024-mitsubishi-outlander-phev-id39051628",
       "dealer_url": "https://www.reddeermitsubishi.ca/en/used-inventory/mitsubishi/outlander-phev/2024-mitsubishi-outlander-phev-id39051628?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T16:15:53",
-      "snapshot": "2026-10-16T15:21:50",
+      "last_verified": "2026-10-17T20:25:48",
+      "snapshot": "2026-10-17T20:28:46",
       "go_url": "https://carwhisper.ca/go/red-deer-mitsubishi-ja4t5va90rz617040",
       "city": null,
       "province": "AB",
@@ -163,6 +163,32 @@
       "city": null,
       "province": "BC",
       "dealer_name": "Go Richmond Kia"
+    },
+    {
+      "pub_id": "country-hills-nissan-ja4t5wa99sz627965",
+      "year": 2025,
+      "make": "Mitsubishi",
+      "model": "Outlander PHEV",
+      "propulsion": "plug-in hybrid",
+      "propulsion_source": "model_trim_name",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 13666,
+      "price_cad": 47888.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/a6b7f8ed-5501-41af-a77c-563d2b46cffc_7e507d39-6757-492d-a1e4-531ec61fb494.jpg",
+      "dealer_id": "country-hills-nissan",
+      "vin": "JA4T5WA99SZ627965",
+      "stock": "CHP6279",
+      "listing_url": "https://www.chnissan.com/vehicles/2025/mitsubishi/outlander-phev/calgary/ab/ad13300152/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2025/mitsubishi/outlander-phev/calgary/ab/ad13300152/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T21:04:04",
+      "snapshot": "2026-10-17T21:08:13",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-ja4t5wa99sz627965",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

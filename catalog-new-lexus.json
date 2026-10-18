@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T03:09:09+00:00",
+  "generated_at": "2026-10-18T21:57:12+00:00",
   "condition": "new",
   "make": "lexus",
   "files": [
@@ -8,12 +8,12 @@
       "make": "lexus",
       "model": "UX Hybrid",
       "shard": "part1",
-      "count": 23,
+      "count": 34,
       "file": "inventory/new-lexus-ux-hybrid-part1.json",
       "models": [
         {
           "model": "UX Hybrid",
-          "count": 23
+          "count": 34
         }
       ]
     },
@@ -22,26 +22,25 @@
       "make": "lexus",
       "model": "UX Hybrid",
       "shard": "part2",
-      "count": 23,
+      "count": 33,
       "file": "inventory/new-lexus-ux-hybrid-part2.json",
       "models": [
         {
           "model": "UX Hybrid",
-          "count": 23
+          "count": 33
         }
       ]
     },
     {
       "condition": "new",
       "make": "lexus",
-      "model": "UX Hybrid",
-      "shard": "part3",
-      "count": 23,
-      "file": "inventory/new-lexus-ux-hybrid-part3.json",
+      "model": "IS",
+      "count": 12,
+      "file": "inventory/new-lexus-is.json",
       "models": [
         {
-          "model": "UX Hybrid",
-          "count": 23
+          "model": "IS",
+          "count": 12
         }
       ]
     },
@@ -76,19 +75,6 @@
     {
       "condition": "new",
       "make": "lexus",
-      "model": "IS",
-      "count": 12,
-      "file": "inventory/new-lexus-is.json",
-      "models": [
-        {
-          "model": "IS",
-          "count": 12
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "lexus",
       "model": "RZ",
       "count": 12,
       "file": "inventory/new-lexus-rz.json",
@@ -103,12 +89,12 @@
       "condition": "new",
       "make": "lexus",
       "model": "NX",
-      "count": 31,
+      "count": 30,
       "file": "inventory/new-lexus-nx.json",
       "models": [
         {
           "model": "NX",
-          "count": 31
+          "count": 30
         }
       ]
     },
@@ -131,12 +117,12 @@
       "make": "lexus",
       "model": "NX Hybrid",
       "shard": "part2",
-      "count": 20,
+      "count": 19,
       "file": "inventory/new-lexus-nx-hybrid-part2.json",
       "models": [
         {
           "model": "NX Hybrid",
-          "count": 20
+          "count": 19
         }
       ]
     },

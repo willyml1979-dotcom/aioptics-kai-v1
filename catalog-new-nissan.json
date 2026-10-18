@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T03:09:09+00:00",
+  "generated_at": "2026-10-18T21:57:12+00:00",
   "condition": "new",
   "make": "nissan",
   "files": [
@@ -34,12 +34,12 @@
       "make": "nissan",
       "model": "Sentra",
       "shard": "part1",
-      "count": 25,
+      "count": 24,
       "file": "inventory/new-nissan-sentra-part1.json",
       "models": [
         {
           "model": "Sentra",
-          "count": 25
+          "count": 24
         }
       ]
     },
@@ -48,12 +48,12 @@
       "make": "nissan",
       "model": "Sentra",
       "shard": "part2",
-      "count": 25,
+      "count": 24,
       "file": "inventory/new-nissan-sentra-part2.json",
       "models": [
         {
           "model": "Sentra",
-          "count": 25
+          "count": 24
         }
       ]
     },
@@ -62,12 +62,12 @@
       "make": "nissan",
       "model": "Sentra",
       "shard": "part3",
-      "count": 25,
+      "count": 24,
       "file": "inventory/new-nissan-sentra-part3.json",
       "models": [
         {
           "model": "Sentra",
-          "count": 25
+          "count": 24
         }
       ]
     },
@@ -300,12 +300,12 @@
       "make": "nissan",
       "model": "Kicks",
       "shard": "part16",
-      "count": 18,
+      "count": 19,
       "file": "inventory/new-nissan-kicks-part16.json",
       "models": [
         {
           "model": "Kicks",
-          "count": 18
+          "count": 19
         }
       ]
     },
@@ -677,12 +677,12 @@
       "make": "nissan",
       "model": "Rogue",
       "shard": "part26",
-      "count": 10,
+      "count": 6,
       "file": "inventory/new-nissan-rogue-part26.json",
       "models": [
         {
           "model": "Rogue",
-          "count": 10
+          "count": 6
         }
       ]
     },
@@ -690,12 +690,12 @@
       "condition": "new",
       "make": "nissan",
       "model": "Kicks S FWD",
-      "count": 13,
+      "count": 14,
       "file": "inventory/new-nissan-kicks-s-fwd.json",
       "models": [
         {
           "model": "Kicks S FWD",
-          "count": 13
+          "count": 14
         }
       ]
     },
@@ -721,12 +721,12 @@
       "make": "nissan",
       "model": "LEAF",
       "shard": "part1",
-      "count": 29,
+      "count": 28,
       "file": "inventory/new-nissan-leaf-part1.json",
       "models": [
         {
           "model": "LEAF",
-          "count": 29
+          "count": 28
         }
       ]
     },
@@ -735,12 +735,12 @@
       "make": "nissan",
       "model": "LEAF",
       "shard": "part2",
-      "count": 29,
+      "count": 28,
       "file": "inventory/new-nissan-leaf-part2.json",
       "models": [
         {
           "model": "LEAF",
-          "count": 29
+          "count": 28
         }
       ]
     },
@@ -836,19 +836,6 @@
     {
       "condition": "new",
       "make": "nissan",
-      "model": "ARIYA SV FWD",
-      "count": 10,
-      "file": "inventory/new-nissan-ariya-sv-fwd.json",
-      "models": [
-        {
-          "model": "ARIYA SV FWD",
-          "count": 10
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
       "model": "Z Sport Manual",
       "count": 8,
       "file": "inventory/new-nissan-z-sport-manual.json",
@@ -876,12 +863,25 @@
       "condition": "new",
       "make": "nissan",
       "model": "Frontier",
-      "count": 16,
+      "count": 14,
       "file": "inventory/new-nissan-frontier.json",
       "models": [
         {
           "model": "Frontier",
-          "count": 16
+          "count": 14
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "ARIYA SV FWD",
+      "count": 9,
+      "file": "inventory/new-nissan-ariya-sv-fwd.json",
+      "models": [
+        {
+          "model": "ARIYA SV FWD",
+          "count": 9
         }
       ]
     },
@@ -954,12 +954,12 @@
       "condition": "new",
       "make": "nissan",
       "model": "Z",
-      "count": 6,
+      "count": 5,
       "file": "inventory/new-nissan-z.json",
       "models": [
         {
           "model": "Z",
-          "count": 6
+          "count": 5
         }
       ]
     },
@@ -1106,7 +1106,7 @@
       "condition": "new",
       "make": "nissan",
       "model": "Armada Pro-4X",
-      "count": 6,
+      "count": 7,
       "file": "inventory/new-nissan-armada-pro-4x.json",
       "models": [
         {
@@ -1115,7 +1115,7 @@
         },
         {
           "model": "Armada Pro-4X",
-          "count": 5
+          "count": 6
         }
       ]
     },
@@ -1162,12 +1162,12 @@
       "condition": "new",
       "make": "nissan",
       "model": "Kicks Rock Creek AWD",
-      "count": 20,
+      "count": 19,
       "file": "inventory/new-nissan-kicks-rock-creek-awd.json",
       "models": [
         {
           "model": "Kicks Rock Creek AWD",
-          "count": 20
+          "count": 19
         }
       ]
     },
@@ -1180,19 +1180,6 @@
       "models": [
         {
           "model": "LEAF S Plus",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "LEAF SV Plus",
-      "count": 2,
-      "file": "inventory/new-nissan-leaf-sv-plus.json",
-      "models": [
-        {
-          "model": "LEAF SV Plus",
           "count": 2
         }
       ]

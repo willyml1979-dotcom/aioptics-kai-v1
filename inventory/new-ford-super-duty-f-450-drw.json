@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-18T03:09:09+00:00",
-  "snapshot": "2026-10-18T03:09:09+00:00",
+  "generated_at": "2026-10-18T21:57:12+00:00",
+  "snapshot": "2026-10-18T21:57:12+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "cam-clark-ford-lincoln-ltd-1ft8w4dm1vec31067",
@@ -33,6 +33,30 @@
       "city": "North Vancouver",
       "province": "BC",
       "dealer_name": "Cam Clark Ford Lincoln Ltd."
+    },
+    {
+      "pub_id": "fort-motors-ltd-1ft8w4dm4vec61972",
+      "year": 2027,
+      "make": "Ford",
+      "model": "SUPER DUTY F-450 DRW",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": 137019.0,
+      "price_note": null,
+      "color": "Agate Black Metallic",
+      "dealer_id": "fort-motors-ltd",
+      "vin": "1FT8W4DM4VEC61972",
+      "stock": "61972Z",
+      "listing_url": "https://www.fortmotors.ca/inventory/2027-ford-super-duty-f-450-drw/14983334",
+      "dealer_url": "https://www.fortmotors.ca/inventory/2027-ford-super-duty-f-450-drw/14983334?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T23:01:58",
+      "snapshot": "2026-10-17T23:04:50",
+      "go_url": "https://carwhisper.ca/go/fort-motors-ltd-1ft8w4dm4vec61972",
+      "region": "Norte/Cariboo",
+      "city": "Fort St. John",
+      "province": "BC",
+      "dealer_name": "Fort Motors Ltd."
     }
   ]
 }
