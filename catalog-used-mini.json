@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T21:08:55+00:00",
+  "generated_at": "2026-10-18T03:09:09+00:00",
   "condition": "used",
   "make": "mini",
   "files": [
@@ -102,12 +102,12 @@
       "condition": "used",
       "make": "mini",
       "model": "Countryman",
-      "count": 20,
+      "count": 14,
       "file": "inventory/used-mini-countryman.json",
       "models": [
         {
           "model": "Countryman",
-          "count": 20
+          "count": 14
         }
       ]
     },
@@ -134,6 +134,19 @@
         {
           "model": "John Cooper Works",
           "count": 15
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mini",
+      "model": "Cooper CountrymanS",
+      "count": 1,
+      "file": "inventory/used-mini-cooper-countrymans.json",
+      "models": [
+        {
+          "model": "Cooper CountrymanS",
+          "count": 1
         }
       ]
     },

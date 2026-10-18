@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T21:08:55+00:00",
+  "generated_at": "2026-10-18T03:09:09+00:00",
   "condition": "new",
   "make": "land-rover",
   "files": [
@@ -33,9 +33,9 @@
       "condition": "new",
       "make": "land-rover",
       "model": "Defender",
-      "shard": "part1",
+      "shard": "Lower Mainland",
       "count": 24,
-      "file": "inventory/new-land-rover-defender-part1.json",
+      "file": "inventory/new-land-rover-defender-lower-mainland.json",
       "models": [
         {
           "model": "Defender",
@@ -47,13 +47,27 @@
       "condition": "new",
       "make": "land-rover",
       "model": "Defender",
-      "shard": "part2",
-      "count": 24,
-      "file": "inventory/new-land-rover-defender-part2.json",
+      "shard": "Okanagan",
+      "count": 7,
+      "file": "inventory/new-land-rover-defender-okanagan.json",
       "models": [
         {
           "model": "Defender",
-          "count": 24
+          "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "land-rover",
+      "model": "Defender",
+      "shard": "Vancouver Island",
+      "count": 14,
+      "file": "inventory/new-land-rover-defender-vancouver-island.json",
+      "models": [
+        {
+          "model": "Defender",
+          "count": 14
         }
       ]
     },
@@ -101,6 +115,19 @@
     {
       "condition": "new",
       "make": "land-rover",
+      "model": "Range Rover Mild Hybrid",
+      "count": 11,
+      "file": "inventory/new-land-rover-range-rover-mild-hybrid.json",
+      "models": [
+        {
+          "model": "Range Rover Mild Hybrid",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "land-rover",
       "model": "Range Rover",
       "count": 9,
       "file": "inventory/new-land-rover-range-rover.json",
@@ -108,19 +135,6 @@
         {
           "model": "Range Rover",
           "count": 9
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "land-rover",
-      "model": "Range Rover Mild Hybrid",
-      "count": 3,
-      "file": "inventory/new-land-rover-range-rover-mild-hybrid.json",
-      "models": [
-        {
-          "model": "Range Rover Mild Hybrid",
-          "count": 3
         }
       ]
     },

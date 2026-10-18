@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T21:08:55+00:00",
-  "snapshot": "2026-10-17T21:08:55+00:00",
+  "generated_at": "2026-10-18T03:09:09+00:00",
+  "snapshot": "2026-10-18T03:09:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "abbotsford-nissan-jn1az2ca3vm401507",
@@ -72,7 +72,7 @@
       "listing_url": "https://www.kelownanissan.com/new/2027-Nissan-LEAF.html",
       "dealer_url": "https://www.kelownanissan.com/new/2027-Nissan-LEAF.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T10:32:27",
-      "snapshot": "2026-10-15T10:32:41",
+      "snapshot": "2026-10-17T14:57:07",
       "go_url": "https://carwhisper.ca/go/kelowna-infiniti-nissan-jn1az2caxvm401780",
       "region": "Okanagan",
       "city": "Kelowna",
@@ -101,6 +101,31 @@
       "city": "Penticton",
       "province": "BC",
       "dealer_name": "Penticton Nissan"
+    },
+    {
+      "pub_id": "kelowna-infiniti-nissan-jn1az2ba4tm309157",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "LEAF S+ FWD",
+      "drivetrain": "FWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": 47298.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "kelowna-infiniti-nissan",
+      "vin": "JN1AZ2BA4TM309157",
+      "stock": "59011-477573",
+      "listing_url": "https://www.kelownanissan.com/new/2026-Nissan-LEAF.html",
+      "dealer_url": "https://www.kelownanissan.com/new/2026-Nissan-LEAF.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T10:30:42",
+      "snapshot": "2026-10-17T14:57:07",
+      "go_url": "https://carwhisper.ca/go/kelowna-infiniti-nissan-jn1az2ba4tm309157",
+      "region": "Okanagan",
+      "city": "Kelowna",
+      "province": "BC",
+      "dealer_name": "Kelowna Infiniti Nissan"
     },
     {
       "pub_id": "penticton-nissan-59011-477573",

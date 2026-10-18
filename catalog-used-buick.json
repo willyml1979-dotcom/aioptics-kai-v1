@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T21:08:55+00:00",
+  "generated_at": "2026-10-18T03:09:09+00:00",
   "condition": "used",
   "make": "buick",
   "files": [
@@ -46,12 +46,12 @@
       "condition": "used",
       "make": "buick",
       "model": "Envision",
-      "count": 32,
+      "count": 30,
       "file": "inventory/used-buick-envision.json",
       "models": [
         {
           "model": "Envision",
-          "count": 32
+          "count": 30
         }
       ]
     },
@@ -92,12 +92,12 @@
       "make": "buick",
       "model": "Encore GX",
       "shard": "Okanagan",
-      "count": 6,
+      "count": 7,
       "file": "inventory/used-buick-encore-gx-okanagan.json",
       "models": [
         {
           "model": "Encore GX",
-          "count": 6
+          "count": 7
         }
       ]
     },
@@ -159,6 +159,19 @@
     {
       "condition": "used",
       "make": "buick",
+      "model": "EnvisionPreferred",
+      "count": 1,
+      "file": "inventory/used-buick-envisionpreferred.json",
+      "models": [
+        {
+          "model": "EnvisionPreferred",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "buick",
       "model": "Regal",
       "count": 2,
       "file": "inventory/used-buick-regal.json",
@@ -178,19 +191,6 @@
       "models": [
         {
           "model": "Encore GXPreferred",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "buick",
-      "model": "Verano",
-      "count": 1,
-      "file": "inventory/used-buick-verano.json",
-      "models": [
-        {
-          "model": "Verano",
           "count": 1
         }
       ]

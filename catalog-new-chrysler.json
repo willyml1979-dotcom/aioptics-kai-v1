@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T21:08:55+00:00",
+  "generated_at": "2026-10-18T03:09:09+00:00",
   "condition": "new",
   "make": "chrysler",
   "files": [
@@ -38,12 +38,30 @@
       "make": "chrysler",
       "model": "Pacifica",
       "shard": "part1",
-      "count": 22,
+      "count": 23,
       "file": "inventory/new-chrysler-pacifica-part1.json",
       "models": [
         {
           "model": "PACIFICA",
           "count": 2
+        },
+        {
+          "model": "Pacifica",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chrysler",
+      "model": "Pacifica",
+      "shard": "part2",
+      "count": 23,
+      "file": "inventory/new-chrysler-pacifica-part2.json",
+      "models": [
+        {
+          "model": "PACIFICA",
+          "count": 3
         },
         {
           "model": "Pacifica",
@@ -55,26 +73,8 @@
       "condition": "new",
       "make": "chrysler",
       "model": "Pacifica",
-      "shard": "part2",
-      "count": 22,
-      "file": "inventory/new-chrysler-pacifica-part2.json",
-      "models": [
-        {
-          "model": "PACIFICA",
-          "count": 3
-        },
-        {
-          "model": "Pacifica",
-          "count": 19
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "chrysler",
-      "model": "Pacifica",
       "shard": "part3",
-      "count": 22,
+      "count": 21,
       "file": "inventory/new-chrysler-pacifica-part3.json",
       "models": [
         {
@@ -83,7 +83,7 @@
         },
         {
           "model": "Pacifica",
-          "count": 21
+          "count": 20
         }
       ]
     },

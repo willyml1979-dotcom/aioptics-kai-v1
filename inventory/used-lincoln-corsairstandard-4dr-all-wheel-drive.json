@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T21:08:55+00:00",
-  "snapshot": "2026-10-17T21:08:55+00:00",
+  "generated_at": "2026-10-18T03:09:09+00:00",
+  "snapshot": "2026-10-18T03:09:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "dearborn-motors-ltd-5lmcj1d95mul25050",
@@ -28,6 +28,31 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Dearborn Motors Ltd."
+    },
+    {
+      "pub_id": "kamloops-ford-lincoln-ltd-5lmcj1d95mul25050",
+      "year": 2021,
+      "make": "Lincoln",
+      "model": "CorsairStandard 4dr All-Wheel Drive",
+      "drivetrain": "AWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 148394,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "kamloops-ford-lincoln-ltd",
+      "vin": "5LMCJ1D95MUL25050",
+      "stock": "26P155",
+      "listing_url": "https://www.kamloopsford.ca/used/vehicle/2021-lincoln-corsair-standard-id15452070.htm",
+      "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2021-lincoln-corsair-standard-id15452070.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T14:57:38",
+      "snapshot": "2026-10-17T15:01:59",
+      "go_url": "https://carwhisper.ca/go/kamloops-ford-lincoln-ltd-5lmcj1d95mul25050",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Kamloops Ford Lincoln Ltd."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T21:08:55+00:00",
-  "snapshot": "2026-10-17T21:08:55+00:00",
+  "generated_at": "2026-10-18T03:09:09+00:00",
+  "snapshot": "2026-10-18T03:09:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "chilliwack-mitsubishi-ja3au16u39u609340",
@@ -54,11 +54,37 @@
       "listing_url": "https://www.reddeernissan.com/vehicles/2017/mitsubishi/lancer-sedan/red-deer/ab/71348785/?sale_class=used",
       "dealer_url": "https://www.reddeernissan.com/vehicles/2017/mitsubishi/lancer-sedan/red-deer/ab/71348785/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-13T16:41:56",
-      "snapshot": "2026-10-15T23:41:26",
+      "snapshot": "2026-10-17T17:48:44",
       "go_url": "https://carwhisper.ca/go/red-deer-nissan-ja32u2fu1hu600466",
       "city": null,
       "province": "AB",
       "dealer_name": "Red Deer Nissan"
+    },
+    {
+      "pub_id": "go-downtown-kia-ja32u2fu7hu608118",
+      "year": 2017,
+      "make": "Mitsubishi",
+      "model": "Lancer",
+      "body_type": "sedan",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 77576,
+      "price_cad": 13995.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://www.godowntownkia.ca/wp-content/themes/convertus-achilles/achilles/assets/images/srp-placeholder/PV.jpg",
+      "dealer_id": "go-downtown-kia",
+      "vin": "JA32U2FU7HU608118",
+      "stock": "SP6322A",
+      "listing_url": "https://www.godowntownkia.ca/vehicles/2017/mitsubishi/lancer-sedan/vancouver/bc/71566175/?sale_class=used",
+      "dealer_url": "https://www.godowntownkia.ca/vehicles/2017/mitsubishi/lancer-sedan/vancouver/bc/71566175/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T17:13:01",
+      "snapshot": "2026-10-17T17:18:11",
+      "go_url": "https://carwhisper.ca/go/go-downtown-kia-ja32u2fu7hu608118",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Downtown Kia"
     }
   ]
 }

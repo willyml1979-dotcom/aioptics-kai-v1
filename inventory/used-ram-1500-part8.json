@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T21:08:55+00:00",
-  "snapshot": "2026-10-17T21:08:55+00:00",
+  "generated_at": "2026-10-18T03:09:09+00:00",
+  "snapshot": "2026-10-18T03:09:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 31,
+  "count": 32,
   "vehicles": [
     {
       "pub_id": "duncan-chrysler-dodge-jeep-ram-ltd-1c6srflp3tn182298",
@@ -117,6 +117,31 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Duncan Chrysler Dodge Jeep Ram Ltd."
+    },
+    {
+      "pub_id": "laird-wheaton-gm-1c6srfu90nn392991",
+      "year": 2022,
+      "make": "RAM",
+      "model": "1500",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 50248,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "Black",
+      "dealer_id": "laird-wheaton-gm",
+      "vin": "1C6SRFU90NN392991",
+      "stock": "131997",
+      "listing_url": "https://www.lairdwheaton.com/vehicles/2022/ram/1500/nanaimo/bc/ad13296045/?sale_class=used",
+      "dealer_url": "https://www.lairdwheaton.com/vehicles/2022/ram/1500/nanaimo/bc/ad13296045/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T15:43:14",
+      "snapshot": "2026-10-17T15:45:50",
+      "go_url": "https://carwhisper.ca/go/laird-wheaton-gm-1c6srfu90nn392991",
+      "region": "Vancouver Island",
+      "city": "Nanaimo",
+      "province": "BC",
+      "dealer_name": "Laird Wheaton GM"
     },
     {
       "pub_id": "tacoma-dodge-chrysler-jeep-ram-1c6rr7yt7hs789565",
@@ -302,7 +327,7 @@
       "listing_url": "https://www.applewoodford.ca/inventory/2018-ram-1500-sport-1besP8vtTAGkgYDR9Q9EqQvdp",
       "dealer_url": "https://www.applewoodford.ca/inventory/2018-ram-1500-sport-1besP8vtTAGkgYDR9Q9EqQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T18:30:54",
-      "snapshot": "2026-10-13T18:07:31",
+      "snapshot": "2026-10-17T18:12:42",
       "go_url": "https://carwhisper.ca/go/applewood-ford-1c6rr7ut8js189343",
       "city": "Port Hardy",
       "province": "BC",

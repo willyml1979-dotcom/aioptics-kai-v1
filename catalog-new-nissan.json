@@ -1,18 +1,87 @@
 {
-  "generated_at": "2026-10-17T21:08:55+00:00",
+  "generated_at": "2026-10-18T03:09:09+00:00",
   "condition": "new",
   "make": "nissan",
   "files": [
     {
       "condition": "new",
       "make": "nissan",
+      "model": "Versa",
+      "count": 5,
+      "file": "inventory/new-nissan-versa.json",
+      "models": [
+        {
+          "model": "Versa",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
       "model": "Kicks Play",
-      "count": 9,
+      "count": 8,
       "file": "inventory/new-nissan-kicks-play.json",
       "models": [
         {
           "model": "Kicks Play",
-          "count": 9
+          "count": 8
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Sentra",
+      "shard": "part1",
+      "count": 25,
+      "file": "inventory/new-nissan-sentra-part1.json",
+      "models": [
+        {
+          "model": "Sentra",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Sentra",
+      "shard": "part2",
+      "count": 25,
+      "file": "inventory/new-nissan-sentra-part2.json",
+      "models": [
+        {
+          "model": "Sentra",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Sentra",
+      "shard": "part3",
+      "count": 25,
+      "file": "inventory/new-nissan-sentra-part3.json",
+      "models": [
+        {
+          "model": "Sentra",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Sentra",
+      "shard": "part4",
+      "count": 24,
+      "file": "inventory/new-nissan-sentra-part4.json",
+      "models": [
+        {
+          "model": "Sentra",
+          "count": 24
         }
       ]
     },
@@ -231,81 +300,12 @@
       "make": "nissan",
       "model": "Kicks",
       "shard": "part16",
-      "count": 19,
+      "count": 18,
       "file": "inventory/new-nissan-kicks-part16.json",
       "models": [
         {
           "model": "Kicks",
-          "count": 19
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Sentra",
-      "shard": "part1",
-      "count": 25,
-      "file": "inventory/new-nissan-sentra-part1.json",
-      "models": [
-        {
-          "model": "Sentra",
-          "count": 25
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Sentra",
-      "shard": "part2",
-      "count": 25,
-      "file": "inventory/new-nissan-sentra-part2.json",
-      "models": [
-        {
-          "model": "Sentra",
-          "count": 25
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Sentra",
-      "shard": "part3",
-      "count": 25,
-      "file": "inventory/new-nissan-sentra-part3.json",
-      "models": [
-        {
-          "model": "Sentra",
-          "count": 25
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Sentra",
-      "shard": "part4",
-      "count": 24,
-      "file": "inventory/new-nissan-sentra-part4.json",
-      "models": [
-        {
-          "model": "Sentra",
-          "count": 24
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Versa",
-      "count": 4,
-      "file": "inventory/new-nissan-versa.json",
-      "models": [
-        {
-          "model": "Versa",
-          "count": 4
+          "count": 18
         }
       ]
     },
@@ -677,12 +677,12 @@
       "make": "nissan",
       "model": "Rogue",
       "shard": "part26",
-      "count": 11,
+      "count": 10,
       "file": "inventory/new-nissan-rogue-part26.json",
       "models": [
         {
           "model": "Rogue",
-          "count": 11
+          "count": 10
         }
       ]
     },
@@ -703,7 +703,7 @@
       "condition": "new",
       "make": "nissan",
       "model": "LEAF S FWD",
-      "count": 5,
+      "count": 6,
       "file": "inventory/new-nissan-leaf-s-fwd.json",
       "models": [
         {
@@ -712,7 +712,7 @@
         },
         {
           "model": "LEAF S+ FWD",
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -995,6 +995,20 @@
       "condition": "new",
       "make": "nissan",
       "model": "Armada",
+      "shard": "Okanagan",
+      "count": 1,
+      "file": "inventory/new-nissan-armada-okanagan.json",
+      "models": [
+        {
+          "model": "Armada",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Armada",
       "shard": "Vancouver Island",
       "count": 1,
       "file": "inventory/new-nissan-armada-vancouver-island.json",
@@ -1036,12 +1050,12 @@
       "condition": "new",
       "make": "nissan",
       "model": "Armada SL 4x4",
-      "count": 2,
+      "count": 3,
       "file": "inventory/new-nissan-armada-sl-4x4.json",
       "models": [
         {
           "model": "Armada SL 4x4",
-          "count": 2
+          "count": 3
         }
       ]
     },

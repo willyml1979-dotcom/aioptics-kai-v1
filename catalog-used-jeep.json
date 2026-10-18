@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T21:08:55+00:00",
+  "generated_at": "2026-10-18T03:09:09+00:00",
   "condition": "used",
   "make": "jeep",
   "files": [
@@ -7,12 +7,12 @@
       "condition": "used",
       "make": "jeep",
       "model": "Wrangler Unlimited",
-      "count": 18,
+      "count": 22,
       "file": "inventory/used-jeep-wrangler-unlimited.json",
       "models": [
         {
           "model": "Wrangler Unlimited",
-          "count": 18
+          "count": 22
         }
       ]
     },
@@ -60,7 +60,7 @@
       "make": "jeep",
       "model": "COMPASS",
       "shard": "Kootenays",
-      "count": 3,
+      "count": 4,
       "file": "inventory/used-jeep-compass-kootenays.json",
       "models": [
         {
@@ -69,7 +69,7 @@
         },
         {
           "model": "Compass",
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -128,12 +128,12 @@
       "make": "jeep",
       "model": "COMPASS",
       "shard": "Thompson-Okanagan",
-      "count": 5,
+      "count": 4,
       "file": "inventory/used-jeep-compass-thompson-okanagan.json",
       "models": [
         {
           "model": "Compass",
-          "count": 5
+          "count": 4
         }
       ]
     },
@@ -214,12 +214,12 @@
       "make": "jeep",
       "model": "Grand Cherokee",
       "shard": "Lower Mainland",
-      "count": 25,
+      "count": 24,
       "file": "inventory/used-jeep-grand-cherokee-lower-mainland.json",
       "models": [
         {
           "model": "Grand Cherokee",
-          "count": 25
+          "count": 24
         }
       ]
     },
@@ -507,7 +507,7 @@
       "make": "jeep",
       "model": "WRANGLER",
       "shard": "part6",
-      "count": 28,
+      "count": 30,
       "file": "inventory/used-jeep-wrangler-part6.json",
       "models": [
         {
@@ -516,7 +516,7 @@
         },
         {
           "model": "Wrangler",
-          "count": 27
+          "count": 29
         }
       ]
     },
@@ -668,14 +668,84 @@
     {
       "condition": "used",
       "make": "jeep",
-      "model": "Wrangler 4xe",
-      "shard": "Kootenays",
+      "model": "Commander",
       "count": 1,
-      "file": "inventory/used-jeep-wrangler-4xe-kootenays.json",
+      "file": "inventory/used-jeep-commander.json",
       "models": [
         {
-          "model": "Wrangler 4xe",
+          "model": "Commander",
           "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Patriot",
+      "count": 10,
+      "file": "inventory/used-jeep-patriot.json",
+      "models": [
+        {
+          "model": "Patriot",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Renegade",
+      "count": 5,
+      "file": "inventory/used-jeep-renegade.json",
+      "models": [
+        {
+          "model": "RENEGADE",
+          "count": 1
+        },
+        {
+          "model": "Renegade",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Wrangler Rubicon 2D Utility 4WD",
+      "count": 9,
+      "file": "inventory/used-jeep-wrangler-rubicon-2d-utility-4wd.json",
+      "models": [
+        {
+          "model": "Wrangler Rubicon 2D Utility 4WD",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Grand Cherokee 4X4",
+      "shard": "part1",
+      "count": 28,
+      "file": "inventory/used-jeep-grand-cherokee-4x4-part1.json",
+      "models": [
+        {
+          "model": "Grand Cherokee 4X4",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Grand Cherokee 4X4",
+      "shard": "part2",
+      "count": 27,
+      "file": "inventory/used-jeep-grand-cherokee-4x4-part2.json",
+      "models": [
+        {
+          "model": "Grand Cherokee 4X4",
+          "count": 27
         }
       ]
     },
@@ -711,6 +781,20 @@
       "condition": "used",
       "make": "jeep",
       "model": "Wrangler 4xe",
+      "shard": "Thompson-Okanagan",
+      "count": 1,
+      "file": "inventory/used-jeep-wrangler-4xe-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "Wrangler 4xe",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Wrangler 4xe",
       "shard": "Vancouver Island",
       "count": 5,
       "file": "inventory/used-jeep-wrangler-4xe-vancouver-island.json",
@@ -736,90 +820,6 @@
         {
           "model": "Wrangler 4xe",
           "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "jeep",
-      "model": "Commander",
-      "count": 1,
-      "file": "inventory/used-jeep-commander.json",
-      "models": [
-        {
-          "model": "Commander",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "jeep",
-      "model": "Patriot",
-      "count": 10,
-      "file": "inventory/used-jeep-patriot.json",
-      "models": [
-        {
-          "model": "Patriot",
-          "count": 10
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "jeep",
-      "model": "Renegade",
-      "count": 4,
-      "file": "inventory/used-jeep-renegade.json",
-      "models": [
-        {
-          "model": "RENEGADE",
-          "count": 1
-        },
-        {
-          "model": "Renegade",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "jeep",
-      "model": "Wrangler Rubicon 2D Utility 4WD",
-      "count": 9,
-      "file": "inventory/used-jeep-wrangler-rubicon-2d-utility-4wd.json",
-      "models": [
-        {
-          "model": "Wrangler Rubicon 2D Utility 4WD",
-          "count": 9
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "jeep",
-      "model": "Grand Cherokee 4X4",
-      "shard": "part1",
-      "count": 24,
-      "file": "inventory/used-jeep-grand-cherokee-4x4-part1.json",
-      "models": [
-        {
-          "model": "Grand Cherokee 4X4",
-          "count": 24
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "jeep",
-      "model": "Grand Cherokee 4X4",
-      "shard": "part2",
-      "count": 24,
-      "file": "inventory/used-jeep-grand-cherokee-4x4-part2.json",
-      "models": [
-        {
-          "model": "Grand Cherokee 4X4",
-          "count": 24
         }
       ]
     },
@@ -977,19 +977,6 @@
     {
       "condition": "used",
       "make": "jeep",
-      "model": "CherokeeLimited",
-      "count": 1,
-      "file": "inventory/used-jeep-cherokeelimited.json",
-      "models": [
-        {
-          "model": "CherokeeLimited",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "jeep",
       "model": "Compass Sport 4x4",
       "count": 1,
       "file": "inventory/used-jeep-compass-sport-4x4.json",
@@ -1023,19 +1010,6 @@
         {
           "model": "CHEROKEENORTH 4X4",
           "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "jeep",
-      "model": "Grand Cherokee WK",
-      "count": 2,
-      "file": "inventory/used-jeep-grand-cherokee-wk.json",
-      "models": [
-        {
-          "model": "Grand Cherokee WK",
-          "count": 2
         }
       ]
     },
@@ -1208,6 +1182,19 @@
       "models": [
         {
           "model": "GladiatorNightHawk",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Grand Cherokee WK",
+      "count": 1,
+      "file": "inventory/used-jeep-grand-cherokee-wk.json",
+      "models": [
+        {
+          "model": "Grand Cherokee WK",
           "count": 1
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T21:08:55+00:00",
+  "generated_at": "2026-10-18T03:09:09+00:00",
   "condition": "new",
   "make": "honda",
   "files": [
@@ -288,12 +288,12 @@
       "make": "honda",
       "model": "Civic",
       "shard": "part13",
-      "count": 17,
+      "count": 22,
       "file": "inventory/new-honda-civic-part13.json",
       "models": [
         {
           "model": "Civic",
-          "count": 17
+          "count": 22
         }
       ]
     },
@@ -517,11 +517,7 @@
       "models": [
         {
           "model": "CR-V",
-          "count": 29
-        },
-        {
-          "model": "Cr V",
-          "count": 1
+          "count": 30
         }
       ]
     },
@@ -698,12 +694,26 @@
       "make": "honda",
       "model": "CR-V",
       "shard": "part29",
-      "count": 24,
+      "count": 30,
       "file": "inventory/new-honda-cr-v-part29.json",
       "models": [
         {
           "model": "CR-V",
-          "count": 24
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "honda",
+      "model": "CR-V",
+      "shard": "part30",
+      "count": 10,
+      "file": "inventory/new-honda-cr-v-part30.json",
+      "models": [
+        {
+          "model": "CR-V",
+          "count": 10
         }
       ]
     },
@@ -768,12 +778,12 @@
       "make": "honda",
       "model": "Accord",
       "shard": "part5",
-      "count": 25,
+      "count": 27,
       "file": "inventory/new-honda-accord-part5.json",
       "models": [
         {
           "model": "Accord",
-          "count": 25
+          "count": 27
         }
       ]
     },
@@ -837,12 +847,12 @@
       "make": "honda",
       "model": "Odyssey",
       "shard": "part4",
-      "count": 26,
+      "count": 25,
       "file": "inventory/new-honda-odyssey-part4.json",
       "models": [
         {
           "model": "Odyssey",
-          "count": 26
+          "count": 25
         }
       ]
     },
@@ -851,12 +861,12 @@
       "make": "honda",
       "model": "Pilot",
       "shard": "part1",
-      "count": 25,
+      "count": 26,
       "file": "inventory/new-honda-pilot-part1.json",
       "models": [
         {
           "model": "Pilot",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -865,12 +875,12 @@
       "make": "honda",
       "model": "Pilot",
       "shard": "part2",
-      "count": 25,
+      "count": 26,
       "file": "inventory/new-honda-pilot-part2.json",
       "models": [
         {
           "model": "Pilot",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -879,12 +889,12 @@
       "make": "honda",
       "model": "Pilot",
       "shard": "part3",
-      "count": 25,
+      "count": 26,
       "file": "inventory/new-honda-pilot-part3.json",
       "models": [
         {
           "model": "Pilot",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -892,12 +902,12 @@
       "condition": "new",
       "make": "honda",
       "model": "Passport",
-      "count": 30,
+      "count": 31,
       "file": "inventory/new-honda-passport.json",
       "models": [
         {
           "model": "Passport",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -905,12 +915,12 @@
       "condition": "new",
       "make": "honda",
       "model": "Ridgeline",
-      "count": 24,
+      "count": 25,
       "file": "inventory/new-honda-ridgeline.json",
       "models": [
         {
           "model": "Ridgeline",
-          "count": 24
+          "count": 25
         }
       ]
     },

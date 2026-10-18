@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T21:08:55+00:00",
-  "snapshot": "2026-10-17T21:08:55+00:00",
+  "generated_at": "2026-10-18T03:09:09+00:00",
+  "snapshot": "2026-10-18T03:09:09+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 11,
+  "count": 12,
   "vehicles": [
     {
       "pub_id": "abbotsford-nissan-jtjaaaab0sa029175",
@@ -228,14 +228,14 @@
       "price_cad": 76684.0,
       "price_note": null,
       "color": "Grey",
-      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/e3f21ac2-3219-4fa7-a056-e3bf9f668c07_5cff61e2-2b29-4377-ac91-f21aa5c49980.jpg",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/e3f21ac2-3219-4fa7-a056-e3bf9f668c07_0e140058-4016-472b-8d74-445e65b3f39a.jpg?promo=f4cadb97-337b-497b-bead-d9f3afb01111_1&overlay-type=tadv",
       "dealer_id": "jim-pattison-lexus-northshore",
       "vin": "JTJBCACB6TA008263",
       "stock": "NL26552",
       "listing_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rz/north-vancouver/bc/70770935/?sale_class=new",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rz/north-vancouver/bc/70770935/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T12:33:13",
-      "snapshot": "2026-10-15T09:55:07",
+      "last_verified": "2026-10-17T14:24:36",
+      "snapshot": "2026-10-17T14:26:35",
       "go_url": "https://carwhisper.ca/go/jim-pattison-lexus-northshore-jtjbcacb6ta008263",
       "region": "Lower Mainland",
       "city": "North Vancouver",
@@ -296,6 +296,33 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Regency Lexus"
+    },
+    {
+      "pub_id": "jim-pattison-lexus-northshore-jtjbcacb3ta010195",
+      "year": 2026,
+      "make": "Lexus",
+      "model": "RZ",
+      "propulsion": "electric",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 10,
+      "price_cad": 86653.0,
+      "price_note": null,
+      "color": "Silver",
+      "photo_url": "https://www.jimpattisonlexus.com/wp-content/themes/convertus-achilles/achilles/assets/images/srp-placeholder/PV.jpg",
+      "dealer_id": "jim-pattison-lexus-northshore",
+      "vin": "JTJBCACB3TA010195",
+      "stock": "NL26709",
+      "listing_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rz/north-vancouver/bc/ad13295596/?sale_class=new",
+      "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2026/lexus/rz/north-vancouver/bc/ad13295596/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T14:24:08",
+      "snapshot": "2026-10-17T14:26:35",
+      "go_url": "https://carwhisper.ca/go/jim-pattison-lexus-northshore-jtjbcacb3ta010195",
+      "region": "Lower Mainland",
+      "city": "North Vancouver",
+      "province": "BC",
+      "dealer_name": "Jim Pattison Lexus - Northshore"
     }
   ]
 }

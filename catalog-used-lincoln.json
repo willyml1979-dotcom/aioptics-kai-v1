@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T21:08:55+00:00",
+  "generated_at": "2026-10-18T03:09:09+00:00",
   "condition": "used",
   "make": "lincoln",
   "files": [
@@ -7,7 +7,7 @@
       "condition": "used",
       "make": "lincoln",
       "model": "Nautilus",
-      "count": 30,
+      "count": 31,
       "file": "inventory/used-lincoln-nautilus.json",
       "models": [
         {
@@ -16,7 +16,7 @@
         },
         {
           "model": "Nautilus",
-          "count": 29
+          "count": 30
         }
       ]
     },
@@ -24,7 +24,7 @@
       "condition": "used",
       "make": "lincoln",
       "model": "Corsair",
-      "count": 15,
+      "count": 16,
       "file": "inventory/used-lincoln-corsair.json",
       "models": [
         {
@@ -33,7 +33,7 @@
         },
         {
           "model": "Corsair",
-          "count": 14
+          "count": 15
         }
       ]
     },
@@ -51,6 +51,19 @@
         {
           "model": "Navigator",
           "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lincoln",
+      "model": "Aviator",
+      "count": 9,
+      "file": "inventory/used-lincoln-aviator.json",
+      "models": [
+        {
+          "model": "Aviator",
+          "count": 9
         }
       ]
     },
@@ -122,19 +135,6 @@
     {
       "condition": "used",
       "make": "lincoln",
-      "model": "Aviator",
-      "count": 8,
-      "file": "inventory/used-lincoln-aviator.json",
-      "models": [
-        {
-          "model": "Aviator",
-          "count": 8
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "lincoln",
       "model": "MKZ",
       "count": 3,
       "file": "inventory/used-lincoln-mkz.json",
@@ -162,25 +162,12 @@
       "condition": "used",
       "make": "lincoln",
       "model": "CorsairStandard 4dr All-Wheel Drive",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-lincoln-corsairstandard-4dr-all-wheel-drive.json",
       "models": [
         {
           "model": "CorsairStandard 4dr All-Wheel Drive",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "lincoln",
-      "model": "MKZ HybridReserve 4dr Front-Wheel Drive",
-      "count": 1,
-      "file": "inventory/used-lincoln-mkz-hybridreserve-4dr-front-wheel-drive.json",
-      "models": [
-        {
-          "model": "MKZ HybridReserve 4dr Front-Wheel Drive",
-          "count": 1
+          "count": 2
         }
       ]
     },
