@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T21:57:12+00:00",
+  "generated_at": "2026-10-19T03:57:47+00:00",
   "condition": "used",
   "make": "lexus",
   "files": [
@@ -63,12 +63,12 @@
       "make": "lexus",
       "model": "RX",
       "shard": "part4",
-      "count": 26,
+      "count": 25,
       "file": "inventory/used-lexus-rx-part4.json",
       "models": [
         {
           "model": "RX",
-          "count": 26
+          "count": 25
         }
       ]
     },
@@ -237,12 +237,12 @@
       "condition": "used",
       "make": "lexus",
       "model": "RXh",
-      "count": 6,
+      "count": 10,
       "file": "inventory/used-lexus-rxh.json",
       "models": [
         {
           "model": "RXh",
-          "count": 6
+          "count": 10
         }
       ]
     },
@@ -476,19 +476,6 @@
       "models": [
         {
           "model": "RX RX 350",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "lexus",
-      "model": "NX NX 200T",
-      "count": 1,
-      "file": "inventory/used-lexus-nx-nx-200t.json",
-      "models": [
-        {
-          "model": "NX NX 200T",
           "count": 1
         }
       ]

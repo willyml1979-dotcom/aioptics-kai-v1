@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T21:57:12+00:00",
+  "generated_at": "2026-10-19T03:57:47+00:00",
   "condition": "used",
   "make": "dodge",
   "files": [
@@ -22,12 +22,12 @@
       "make": "dodge",
       "model": "GRAND CARAVAN",
       "shard": "Lower Mainland",
-      "count": 20,
+      "count": 25,
       "file": "inventory/used-dodge-grand-caravan-lower-mainland.json",
       "models": [
         {
           "model": "Grand Caravan",
-          "count": 20
+          "count": 25
         }
       ]
     },
@@ -114,12 +114,12 @@
       "make": "dodge",
       "model": "Charger",
       "shard": "Lower Mainland",
-      "count": 22,
+      "count": 25,
       "file": "inventory/used-dodge-charger-lower-mainland.json",
       "models": [
         {
           "model": "Charger",
-          "count": 22
+          "count": 25
         }
       ]
     },
@@ -148,20 +148,6 @@
         {
           "model": "Charger",
           "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "Charger",
-      "shard": "Thompson-Okanagan",
-      "count": 1,
-      "file": "inventory/used-dodge-charger-thompson-okanagan.json",
-      "models": [
-        {
-          "model": "Charger",
-          "count": 1
         }
       ]
     },
@@ -240,12 +226,12 @@
       "make": "dodge",
       "model": "Journey",
       "shard": "Okanagan",
-      "count": 7,
+      "count": 8,
       "file": "inventory/used-dodge-journey-okanagan.json",
       "models": [
         {
           "model": "Journey",
-          "count": 7
+          "count": 8
         }
       ]
     },
@@ -346,12 +332,12 @@
       "make": "dodge",
       "model": "DURANGO",
       "shard": "Okanagan",
-      "count": 10,
+      "count": 8,
       "file": "inventory/used-dodge-durango-okanagan.json",
       "models": [
         {
           "model": "Durango",
-          "count": 10
+          "count": 8
         }
       ]
     },
@@ -465,12 +451,12 @@
       "condition": "used",
       "make": "dodge",
       "model": "RAM 1500",
-      "count": 10,
+      "count": 9,
       "file": "inventory/used-dodge-ram-1500.json",
       "models": [
         {
           "model": "RAM 1500",
-          "count": 10
+          "count": 9
         }
       ]
     },
@@ -478,13 +464,13 @@
       "condition": "used",
       "make": "dodge",
       "model": "Challenger",
-      "shard": "Lower Mainland",
-      "count": 29,
-      "file": "inventory/used-dodge-challenger-lower-mainland.json",
+      "shard": "part1",
+      "count": 27,
+      "file": "inventory/used-dodge-challenger-part1.json",
       "models": [
         {
           "model": "Challenger",
-          "count": 29
+          "count": 27
         }
       ]
     },
@@ -492,69 +478,13 @@
       "condition": "used",
       "make": "dodge",
       "model": "Challenger",
-      "shard": "Norte/Cariboo",
-      "count": 1,
-      "file": "inventory/used-dodge-challenger-norte-cariboo.json",
+      "shard": "part2",
+      "count": 27,
+      "file": "inventory/used-dodge-challenger-part2.json",
       "models": [
         {
           "model": "Challenger",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "Challenger",
-      "shard": "Okanagan",
-      "count": 6,
-      "file": "inventory/used-dodge-challenger-okanagan.json",
-      "models": [
-        {
-          "model": "Challenger",
-          "count": 6
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "Challenger",
-      "shard": "Thompson-Okanagan",
-      "count": 1,
-      "file": "inventory/used-dodge-challenger-thompson-okanagan.json",
-      "models": [
-        {
-          "model": "Challenger",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "Challenger",
-      "shard": "Vancouver Island",
-      "count": 5,
-      "file": "inventory/used-dodge-challenger-vancouver-island.json",
-      "models": [
-        {
-          "model": "Challenger",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "Challenger",
-      "shard": "sin-region",
-      "count": 8,
-      "file": "inventory/used-dodge-challenger-sin-region.json",
-      "models": [
-        {
-          "model": "Challenger",
-          "count": 8
+          "count": 27
         }
       ]
     },
@@ -606,19 +536,6 @@
       "models": [
         {
           "model": "Journey CVP/SE Plus",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "Grand Caravan Passenger Van SE",
-      "count": 1,
-      "file": "inventory/used-dodge-grand-caravan-passenger-van-se.json",
-      "models": [
-        {
-          "model": "Grand Caravan Passenger Van SE",
           "count": 1
         }
       ]

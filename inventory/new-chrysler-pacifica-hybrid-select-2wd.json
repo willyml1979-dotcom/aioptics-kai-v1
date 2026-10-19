@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-18T21:57:12+00:00",
-  "snapshot": "2026-10-18T21:57:12+00:00",
+  "generated_at": "2026-10-19T03:57:47+00:00",
+  "snapshot": "2026-10-19T03:57:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "cranbrook-dodge-70709-475049",
@@ -27,6 +27,31 @@
       "city": "Cranbrook",
       "province": "BC",
       "dealer_name": "Cranbrook Dodge"
+    },
+    {
+      "pub_id": "maple-ridge-chrysler-jeep-dodge-2c4rc1s78tr214646",
+      "year": 2026,
+      "make": "Chrysler",
+      "model": "Pacifica Hybrid Select 2WD",
+      "propulsion": "hybrid",
+      "propulsion_source": "model_trim_name",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "price_cad": 62290.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "maple-ridge-chrysler-jeep-dodge",
+      "vin": "2C4RC1S78TR214646",
+      "stock": "70709-475049",
+      "listing_url": "https://www.mapleridgechrysler.com/new/2026-Chrysler-Pacifica_Hybrid.html",
+      "dealer_url": "https://www.mapleridgechrysler.com/new/2026-Chrysler-Pacifica_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T13:55:08",
+      "snapshot": "2026-10-18T15:42:09",
+      "go_url": "https://carwhisper.ca/go/maple-ridge-chrysler-jeep-dodge-2c4rc1s78tr214646",
+      "region": "Lower Mainland",
+      "city": "Maple Ridge",
+      "province": "BC",
+      "dealer_name": "Maple Ridge Chrysler Jeep Dodge"
     },
     {
       "pub_id": "pioneer-chrysler-jeep-70709-475049",
@@ -113,7 +138,7 @@
       "listing_url": "https://www.okanagandodge.com/new/2026-Chrysler-Pacifica_Hybrid.html",
       "dealer_url": "https://www.okanagandodge.com/new/2026-Chrysler-Pacifica_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-14T21:27:44",
-      "snapshot": "2026-10-17T11:53:25",
+      "snapshot": "2026-10-18T16:43:57",
       "go_url": "https://carwhisper.ca/go/okanagan-chrysler-dodge-jeep-ram-70709-475049",
       "region": "Okanagan",
       "city": "Kelowna",

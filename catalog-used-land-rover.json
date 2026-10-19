@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T21:57:12+00:00",
+  "generated_at": "2026-10-19T03:57:47+00:00",
   "condition": "used",
   "make": "land-rover",
   "files": [
@@ -8,12 +8,12 @@
       "make": "land-rover",
       "model": "Discovery",
       "shard": "part1",
-      "count": 23,
+      "count": 21,
       "file": "inventory/used-land-rover-discovery-part1.json",
       "models": [
         {
           "model": "Discovery",
-          "count": 23
+          "count": 21
         }
       ]
     },
@@ -22,12 +22,12 @@
       "make": "land-rover",
       "model": "Discovery",
       "shard": "part2",
-      "count": 23,
+      "count": 21,
       "file": "inventory/used-land-rover-discovery-part2.json",
       "models": [
         {
           "model": "Discovery",
-          "count": 23
+          "count": 21
         }
       ]
     },
@@ -65,12 +65,12 @@
       "condition": "used",
       "make": "land-rover",
       "model": "Discovery Sport",
-      "count": 6,
+      "count": 5,
       "file": "inventory/used-land-rover-discovery-sport.json",
       "models": [
         {
           "model": "DISCOVERY SPORT",
-          "count": 2
+          "count": 1
         },
         {
           "model": "Discovery Sport",
@@ -227,12 +227,12 @@
       "make": "land-rover",
       "model": "Range Rover Sport",
       "shard": "part11",
-      "count": 21,
+      "count": 23,
       "file": "inventory/used-land-rover-range-rover-sport-part11.json",
       "models": [
         {
           "model": "Range Rover Sport",
-          "count": 21
+          "count": 23
         }
       ]
     },
@@ -241,12 +241,12 @@
       "make": "land-rover",
       "model": "Range Rover Velar",
       "shard": "part1",
-      "count": 29,
+      "count": 20,
       "file": "inventory/used-land-rover-range-rover-velar-part1.json",
       "models": [
         {
           "model": "Range Rover Velar",
-          "count": 29
+          "count": 20
         }
       ]
     },
@@ -255,16 +255,30 @@
       "make": "land-rover",
       "model": "Range Rover Velar",
       "shard": "part2",
-      "count": 29,
+      "count": 20,
       "file": "inventory/used-land-rover-range-rover-velar-part2.json",
       "models": [
         {
+          "model": "Range Rover Velar",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "land-rover",
+      "model": "Range Rover Velar",
+      "shard": "part3",
+      "count": 19,
+      "file": "inventory/used-land-rover-range-rover-velar-part3.json",
+      "models": [
+        {
           "model": "RANGE ROVER VELAR",
-          "count": 5
+          "count": 6
         },
         {
           "model": "Range Rover Velar",
-          "count": 24
+          "count": 13
         }
       ]
     },
@@ -272,12 +286,12 @@
       "condition": "used",
       "make": "land-rover",
       "model": "Range Rover V8 Autobiography (2)",
-      "count": 12,
+      "count": 11,
       "file": "inventory/used-land-rover-range-rover-v8-autobiography-2.json",
       "models": [
         {
           "model": "Range Rover V8 Autobiography (2)",
-          "count": 12
+          "count": 11
         }
       ]
     },
@@ -416,7 +430,7 @@
       "make": "land-rover",
       "model": "Defender",
       "shard": "part7",
-      "count": 22,
+      "count": 24,
       "file": "inventory/used-land-rover-defender-part7.json",
       "models": [
         {
@@ -425,7 +439,7 @@
         },
         {
           "model": "Defender",
-          "count": 20
+          "count": 22
         }
       ]
     },
