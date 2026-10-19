@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:57:48+00:00",
+  "generated_at": "2026-10-19T21:57:49+00:00",
   "condition": "used",
   "make": "audi",
   "files": [
@@ -78,12 +78,12 @@
       "make": "audi",
       "model": "Q3",
       "shard": "part3",
-      "count": 28,
+      "count": 26,
       "file": "inventory/used-audi-q3-part3.json",
       "models": [
         {
           "model": "Q3",
-          "count": 28
+          "count": 26
         }
       ]
     },
@@ -261,19 +261,6 @@
     {
       "condition": "used",
       "make": "audi",
-      "model": "S5",
-      "count": 1,
-      "file": "inventory/used-audi-s5.json",
-      "models": [
-        {
-          "model": "S5",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "audi",
       "model": "S5 Cabriolet",
       "count": 1,
       "file": "inventory/used-audi-s5-cabriolet.json",
@@ -340,12 +327,12 @@
       "condition": "used",
       "make": "audi",
       "model": "S6",
-      "count": 15,
+      "count": 17,
       "file": "inventory/used-audi-s6.json",
       "models": [
         {
           "model": "S6",
-          "count": 15
+          "count": 17
         }
       ]
     },

@@ -1,35 +1,9 @@
 {
-  "generated_at": "2026-10-19T15:57:48+00:00",
-  "snapshot": "2026-10-19T15:57:48+00:00",
+  "generated_at": "2026-10-19T21:57:49+00:00",
+  "snapshot": "2026-10-19T21:57:49+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 31,
   "vehicles": [
-    {
-      "pub_id": "cam-clark-ford-richmond-ltd-1ftfw3ld4tfb76432",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "trim": "XLT 4X4 SUPERCREW CAB 5.5 FT. BOX",
-      "drivetrain": "4WD",
-      "propulsion": "unknown",
-      "propulsion_source": null,
-      "condition": "new",
-      "price_cad": null,
-      "price_note": "precio no publicado en la fuente",
-      "color": "Red",
-      "dealer_id": "cam-clark-ford-richmond-ltd",
-      "vin": "1FTFW3LD4TFB76432",
-      "stock": "26F7643",
-      "listing_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-f-150-xlt-id15339413.htm",
-      "dealer_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-f-150-xlt-id15339413.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T03:01:15",
-      "snapshot": "2026-10-11T00:38:19",
-      "go_url": "https://carwhisper.ca/go/cam-clark-ford-richmond-ltd-1ftfw3ld4tfb76432",
-      "region": "Lower Mainland",
-      "city": "Richmond",
-      "province": "BC",
-      "dealer_name": "Cam Clark Ford Richmond Ltd."
-    },
     {
       "pub_id": "cam-clark-ford-richmond-ltd-1ftfw3ld4tfb77127",
       "year": 2026,
@@ -808,6 +782,28 @@
       "city": "Surrey",
       "province": "BC",
       "dealer_name": "Mainland Ford Ltd."
+    },
+    {
+      "pub_id": "msa-ford-sales-1ftfw3l83tke27452",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "msa-ford-sales",
+      "vin": "1FTFW3L83TKE27452",
+      "listing_url": "https://msaford.com/new/2026-ford-f-150/",
+      "dealer_url": "https://msaford.com/new/2026-ford-f-150/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T19:51:09",
+      "snapshot": "2026-10-18T19:52:03",
+      "go_url": "https://carwhisper.ca/go/msa-ford-sales-1ftfw3l83tke27452",
+      "region": "Lower Mainland",
+      "city": "Abbotsford",
+      "province": "BC",
+      "dealer_name": "MSA Ford Sales"
     }
   ]
 }

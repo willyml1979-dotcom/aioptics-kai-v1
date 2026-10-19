@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:57:48+00:00",
+  "generated_at": "2026-10-19T21:57:49+00:00",
   "condition": "used",
   "make": "mazda",
   "files": [
@@ -8,12 +8,12 @@
       "make": "mazda",
       "model": "Mazda3",
       "shard": "part1",
-      "count": 28,
+      "count": 27,
       "file": "inventory/used-mazda-mazda3-part1.json",
       "models": [
         {
           "model": "Mazda3",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -22,12 +22,12 @@
       "make": "mazda",
       "model": "Mazda3",
       "shard": "part2",
-      "count": 28,
+      "count": 27,
       "file": "inventory/used-mazda-mazda3-part2.json",
       "models": [
         {
           "model": "Mazda3",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -95,7 +95,7 @@
       "make": "mazda",
       "model": "Mazda3 Sport",
       "shard": "part3",
-      "count": 24,
+      "count": 25,
       "file": "inventory/used-mazda-mazda3-sport-part3.json",
       "models": [
         {
@@ -104,7 +104,7 @@
         },
         {
           "model": "Mazda3 Sport",
-          "count": 22
+          "count": 23
         }
       ]
     },
@@ -152,12 +152,12 @@
       "make": "mazda",
       "model": "CX-5",
       "shard": "part1",
-      "count": 27,
+      "count": 28,
       "file": "inventory/used-mazda-cx-5-part1.json",
       "models": [
         {
           "model": "CX-5",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -166,12 +166,12 @@
       "make": "mazda",
       "model": "CX-5",
       "shard": "part2",
-      "count": 27,
+      "count": 28,
       "file": "inventory/used-mazda-cx-5-part2.json",
       "models": [
         {
           "model": "CX-5",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -180,12 +180,12 @@
       "make": "mazda",
       "model": "CX-5",
       "shard": "part3",
-      "count": 27,
+      "count": 28,
       "file": "inventory/used-mazda-cx-5-part3.json",
       "models": [
         {
           "model": "CX-5",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -194,12 +194,12 @@
       "make": "mazda",
       "model": "CX-5",
       "shard": "part4",
-      "count": 27,
+      "count": 28,
       "file": "inventory/used-mazda-cx-5-part4.json",
       "models": [
         {
           "model": "CX-5",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -214,19 +214,6 @@
         {
           "model": "CX-5",
           "count": 27
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mazda",
-      "model": "CX-9",
-      "count": 16,
-      "file": "inventory/used-mazda-cx-9.json",
-      "models": [
-        {
-          "model": "CX-9",
-          "count": 16
         }
       ]
     },
@@ -289,12 +276,12 @@
       "make": "mazda",
       "model": "CX-30",
       "shard": "part3",
-      "count": 23,
+      "count": 24,
       "file": "inventory/used-mazda-cx-30-part3.json",
       "models": [
         {
           "model": "CX-30",
-          "count": 23
+          "count": 24
         }
       ]
     },
@@ -334,6 +321,19 @@
         {
           "model": "CX-30 2.5 Turbo",
           "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mazda",
+      "model": "CX-9",
+      "count": 14,
+      "file": "inventory/used-mazda-cx-9.json",
+      "models": [
+        {
+          "model": "CX-9",
+          "count": 14
         }
       ]
     },

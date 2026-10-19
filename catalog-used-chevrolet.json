@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:57:48+00:00",
+  "generated_at": "2026-10-19T21:57:49+00:00",
   "condition": "used",
   "make": "chevrolet",
   "files": [
@@ -320,12 +320,12 @@
       "make": "chevrolet",
       "model": "Trax",
       "shard": "part3",
-      "count": 26,
+      "count": 28,
       "file": "inventory/used-chevrolet-trax-part3.json",
       "models": [
         {
           "model": "Trax",
-          "count": 26
+          "count": 28
         }
       ]
     },
@@ -627,12 +627,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Silverado 3500HD",
-      "count": 30,
+      "count": 29,
       "file": "inventory/used-chevrolet-silverado-3500hd.json",
       "models": [
         {
           "model": "Silverado 3500HD",
-          "count": 30
+          "count": 29
         }
       ]
     },
@@ -679,12 +679,25 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Cruze",
-      "count": 19,
+      "count": 17,
       "file": "inventory/used-chevrolet-cruze.json",
       "models": [
         {
           "model": "Cruze",
-          "count": 19
+          "count": 17
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Volt",
+      "count": 1,
+      "file": "inventory/used-chevrolet-volt.json",
+      "models": [
+        {
+          "model": "Volt",
+          "count": 1
         }
       ]
     },
@@ -693,12 +706,12 @@
       "make": "chevrolet",
       "model": "Malibu",
       "shard": "Lower Mainland",
-      "count": 29,
+      "count": 28,
       "file": "inventory/used-chevrolet-malibu-lower-mainland.json",
       "models": [
         {
           "model": "Malibu",
-          "count": 29
+          "count": 28
         }
       ]
     },
@@ -763,25 +776,12 @@
       "make": "chevrolet",
       "model": "Malibu",
       "shard": "sin-region",
-      "count": 14,
+      "count": 13,
       "file": "inventory/used-chevrolet-malibu-sin-region.json",
       "models": [
         {
           "model": "Malibu",
-          "count": 14
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chevrolet",
-      "model": "Volt",
-      "count": 1,
-      "file": "inventory/used-chevrolet-volt.json",
-      "models": [
-        {
-          "model": "Volt",
-          "count": 1
+          "count": 13
         }
       ]
     },
@@ -846,12 +846,12 @@
       "make": "chevrolet",
       "model": "Camaro",
       "shard": "Vancouver Island",
-      "count": 6,
+      "count": 5,
       "file": "inventory/used-chevrolet-camaro-vancouver-island.json",
       "models": [
         {
           "model": "Camaro",
-          "count": 6
+          "count": 5
         }
       ]
     },
@@ -1594,19 +1594,6 @@
       "models": [
         {
           "model": "Silverado 3500HD Built After Aug 14",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chevrolet",
-      "model": "Malibu Maxx",
-      "count": 1,
-      "file": "inventory/used-chevrolet-malibu-maxx.json",
-      "models": [
-        {
-          "model": "Malibu Maxx",
           "count": 1
         }
       ]

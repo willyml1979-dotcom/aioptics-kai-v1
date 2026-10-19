@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-10-19T15:57:48+00:00",
+  "generated_at": "2026-10-19T21:57:49+00:00",
   "condition": "used",
   "make": "land-rover",
   "files": [
+    {
+      "condition": "used",
+      "make": "land-rover",
+      "model": "Land Rover Discovery Sport",
+      "count": 2,
+      "file": "inventory/used-land-rover-land-rover-discovery-sport.json",
+      "models": [
+        {
+          "model": "Land Rover Discovery Sport",
+          "count": 2
+        }
+      ]
+    },
     {
       "condition": "used",
       "make": "land-rover",
@@ -28,19 +41,6 @@
         {
           "model": "Discovery",
           "count": 7
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "land-rover",
-      "model": "Land Rover Discovery Sport",
-      "count": 2,
-      "file": "inventory/used-land-rover-land-rover-discovery-sport.json",
-      "models": [
-        {
-          "model": "Land Rover Discovery Sport",
-          "count": 2
         }
       ]
     },
@@ -269,7 +269,7 @@
       "make": "land-rover",
       "model": "Range Rover Velar",
       "shard": "part3",
-      "count": 19,
+      "count": 20,
       "file": "inventory/used-land-rover-range-rover-velar-part3.json",
       "models": [
         {
@@ -278,7 +278,7 @@
         },
         {
           "model": "Range Rover Velar",
-          "count": 13
+          "count": 14
         }
       ]
     },

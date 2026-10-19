@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:57:48+00:00",
+  "generated_at": "2026-10-19T21:57:49+00:00",
   "condition": "used",
   "make": "gmc",
   "files": [
@@ -58,12 +58,12 @@
       "make": "gmc",
       "model": "TERRAIN",
       "shard": "part4",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-gmc-terrain-part4.json",
       "models": [
         {
           "model": "Terrain",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -344,12 +344,12 @@
       "make": "gmc",
       "model": "Yukon",
       "shard": "sin-region",
-      "count": 14,
+      "count": 13,
       "file": "inventory/used-gmc-yukon-sin-region.json",
       "models": [
         {
           "model": "Yukon",
-          "count": 14
+          "count": 13
         }
       ]
     },
@@ -414,12 +414,12 @@
       "make": "gmc",
       "model": "Acadia",
       "shard": "sin-region",
-      "count": 17,
+      "count": 16,
       "file": "inventory/used-gmc-acadia-sin-region.json",
       "models": [
         {
           "model": "Acadia",
-          "count": 17
+          "count": 16
         }
       ]
     },
@@ -427,7 +427,7 @@
       "condition": "used",
       "make": "gmc",
       "model": "Canyon",
-      "count": 25,
+      "count": 26,
       "file": "inventory/used-gmc-canyon.json",
       "models": [
         {
@@ -436,7 +436,7 @@
         },
         {
           "model": "Canyon",
-          "count": 23
+          "count": 24
         }
       ]
     },
@@ -545,12 +545,12 @@
       "condition": "used",
       "make": "gmc",
       "model": "Sierra 1500 Limited",
-      "count": 5,
+      "count": 4,
       "file": "inventory/used-gmc-sierra-1500-limited.json",
       "models": [
         {
           "model": "Sierra 1500 Limited",
-          "count": 5
+          "count": 4
         }
       ]
     },
@@ -590,6 +590,19 @@
         {
           "model": "Savana Cargo",
           "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "gmc",
+      "model": "Sierra 3500",
+      "count": 5,
+      "file": "inventory/used-gmc-sierra-3500.json",
+      "models": [
+        {
+          "model": "Sierra 3500",
+          "count": 5
         }
       ]
     },
@@ -772,19 +785,6 @@
         {
           "model": "4 Sierra 3500hd Cars For Sale at Murray Chevy Abbotsford",
           "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "gmc",
-      "model": "Sierra 3500",
-      "count": 5,
-      "file": "inventory/used-gmc-sierra-3500.json",
-      "models": [
-        {
-          "model": "Sierra 3500",
-          "count": 5
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:57:48+00:00",
+  "generated_at": "2026-10-19T21:57:49+00:00",
   "condition": "used",
   "make": "chrysler",
   "files": [
@@ -66,12 +66,12 @@
       "make": "chrysler",
       "model": "PACIFICA",
       "shard": "part3",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-chrysler-pacifica-part3.json",
       "models": [
         {
           "model": "Pacifica",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -94,12 +94,12 @@
       "make": "chrysler",
       "model": "Grand Caravan",
       "shard": "Norte/Cariboo",
-      "count": 2,
+      "count": 3,
       "file": "inventory/used-chrysler-grand-caravan-norte-cariboo.json",
       "models": [
         {
           "model": "Grand Caravan",
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -185,19 +185,6 @@
       "models": [
         {
           "model": "Sebring",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chrysler",
-      "model": "Grand Caravan SXT 2WD",
-      "count": 1,
-      "file": "inventory/used-chrysler-grand-caravan-sxt-2wd.json",
-      "models": [
-        {
-          "model": "Grand Caravan SXT 2WD",
           "count": 1
         }
       ]

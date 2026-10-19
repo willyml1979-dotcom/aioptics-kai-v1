@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:57:48+00:00",
+  "generated_at": "2026-10-19T21:57:49+00:00",
   "condition": "new",
   "make": "ford",
   "files": [
@@ -1058,12 +1058,12 @@
       "make": "ford",
       "model": "F-150",
       "shard": "part76",
-      "count": 8,
+      "count": 5,
       "file": "inventory/new-ford-f-150-part76.json",
       "models": [
         {
           "model": "F-150",
-          "count": 8
+          "count": 5
         }
       ]
     },
@@ -1618,125 +1618,9 @@
       "make": "ford",
       "model": "Ranger",
       "shard": "part1",
-      "count": 31,
+      "count": 30,
       "file": "inventory/new-ford-ranger-part1.json",
       "models": [
-        {
-          "model": "Ranger",
-          "count": 31
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "ford",
-      "model": "Ranger",
-      "shard": "part2",
-      "count": 31,
-      "file": "inventory/new-ford-ranger-part2.json",
-      "models": [
-        {
-          "model": "Ranger",
-          "count": 31
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "ford",
-      "model": "Ranger",
-      "shard": "part3",
-      "count": 31,
-      "file": "inventory/new-ford-ranger-part3.json",
-      "models": [
-        {
-          "model": "Ranger",
-          "count": 31
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "ford",
-      "model": "Ranger",
-      "shard": "part4",
-      "count": 31,
-      "file": "inventory/new-ford-ranger-part4.json",
-      "models": [
-        {
-          "model": "Ranger",
-          "count": 31
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "ford",
-      "model": "Ranger",
-      "shard": "part5",
-      "count": 31,
-      "file": "inventory/new-ford-ranger-part5.json",
-      "models": [
-        {
-          "model": "Ranger",
-          "count": 31
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "ford",
-      "model": "Ranger",
-      "shard": "part6",
-      "count": 31,
-      "file": "inventory/new-ford-ranger-part6.json",
-      "models": [
-        {
-          "model": "Ranger",
-          "count": 31
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "ford",
-      "model": "Ranger",
-      "shard": "part7",
-      "count": 31,
-      "file": "inventory/new-ford-ranger-part7.json",
-      "models": [
-        {
-          "model": "Ranger",
-          "count": 31
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "ford",
-      "model": "Ranger",
-      "shard": "part8",
-      "count": 31,
-      "file": "inventory/new-ford-ranger-part8.json",
-      "models": [
-        {
-          "model": "Ranger",
-          "count": 31
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "ford",
-      "model": "Ranger",
-      "shard": "part9",
-      "count": 31,
-      "file": "inventory/new-ford-ranger-part9.json",
-      "models": [
-        {
-          "model": "RANGER",
-          "count": 1
-        },
         {
           "model": "Ranger",
           "count": 30
@@ -1747,8 +1631,124 @@
       "condition": "new",
       "make": "ford",
       "model": "Ranger",
+      "shard": "part2",
+      "count": 30,
+      "file": "inventory/new-ford-ranger-part2.json",
+      "models": [
+        {
+          "model": "Ranger",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "Ranger",
+      "shard": "part3",
+      "count": 30,
+      "file": "inventory/new-ford-ranger-part3.json",
+      "models": [
+        {
+          "model": "Ranger",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "Ranger",
+      "shard": "part4",
+      "count": 30,
+      "file": "inventory/new-ford-ranger-part4.json",
+      "models": [
+        {
+          "model": "Ranger",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "Ranger",
+      "shard": "part5",
+      "count": 30,
+      "file": "inventory/new-ford-ranger-part5.json",
+      "models": [
+        {
+          "model": "Ranger",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "Ranger",
+      "shard": "part6",
+      "count": 30,
+      "file": "inventory/new-ford-ranger-part6.json",
+      "models": [
+        {
+          "model": "Ranger",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "Ranger",
+      "shard": "part7",
+      "count": 30,
+      "file": "inventory/new-ford-ranger-part7.json",
+      "models": [
+        {
+          "model": "Ranger",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "Ranger",
+      "shard": "part8",
+      "count": 30,
+      "file": "inventory/new-ford-ranger-part8.json",
+      "models": [
+        {
+          "model": "Ranger",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "Ranger",
+      "shard": "part9",
+      "count": 30,
+      "file": "inventory/new-ford-ranger-part9.json",
+      "models": [
+        {
+          "model": "RANGER",
+          "count": 1
+        },
+        {
+          "model": "Ranger",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "Ranger",
       "shard": "part10",
-      "count": 31,
+      "count": 30,
       "file": "inventory/new-ford-ranger-part10.json",
       "models": [
         {
@@ -1757,7 +1757,7 @@
         },
         {
           "model": "Ranger",
-          "count": 25
+          "count": 24
         }
       ]
     },
@@ -1766,12 +1766,12 @@
       "make": "ford",
       "model": "Ranger",
       "shard": "part11",
-      "count": 22,
+      "count": 28,
       "file": "inventory/new-ford-ranger-part11.json",
       "models": [
         {
           "model": "Ranger",
-          "count": 22
+          "count": 28
         }
       ]
     },
@@ -2074,12 +2074,12 @@
       "make": "ford",
       "model": "Mustang Mach-E",
       "shard": "part22",
-      "count": 22,
+      "count": 23,
       "file": "inventory/new-ford-mustang-mach-e-part22.json",
       "models": [
         {
           "model": "Mustang Mach-E",
-          "count": 22
+          "count": 23
         }
       ]
     },
@@ -2214,12 +2214,12 @@
       "make": "ford",
       "model": "Explorer",
       "shard": "part10",
-      "count": 33,
+      "count": 32,
       "file": "inventory/new-ford-explorer-part10.json",
       "models": [
         {
           "model": "Explorer",
-          "count": 33
+          "count": 32
         }
       ]
     },
@@ -2368,12 +2368,12 @@
       "make": "ford",
       "model": "Bronco",
       "shard": "part11",
-      "count": 29,
+      "count": 27,
       "file": "inventory/new-ford-bronco-part11.json",
       "models": [
         {
           "model": "Bronco",
-          "count": 29
+          "count": 27
         }
       ]
     },
@@ -2589,12 +2589,12 @@
       "make": "ford",
       "model": "Transit",
       "shard": "part5",
-      "count": 31,
+      "count": 29,
       "file": "inventory/new-ford-transit-part5.json",
       "models": [
         {
           "model": "Transit",
-          "count": 31
+          "count": 29
         }
       ]
     },
