@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T03:57:47+00:00",
+  "generated_at": "2026-10-19T09:57:47+00:00",
   "condition": "used",
   "make": "volkswagen",
   "files": [
@@ -92,12 +92,12 @@
       "make": "volkswagen",
       "model": "Tiguan",
       "shard": "part7",
-      "count": 27,
+      "count": 29,
       "file": "inventory/used-volkswagen-tiguan-part7.json",
       "models": [
         {
           "model": "Tiguan",
-          "count": 27
+          "count": 29
         }
       ]
     },
@@ -120,12 +120,12 @@
       "make": "volkswagen",
       "model": "Golf",
       "shard": "Lower Mainland",
-      "count": 29,
+      "count": 25,
       "file": "inventory/used-volkswagen-golf-lower-mainland.json",
       "models": [
         {
           "model": "Golf",
-          "count": 29
+          "count": 25
         }
       ]
     },
@@ -162,12 +162,12 @@
       "make": "volkswagen",
       "model": "Golf",
       "shard": "sin-region",
-      "count": 4,
+      "count": 3,
       "file": "inventory/used-volkswagen-golf-sin-region.json",
       "models": [
         {
           "model": "Golf",
-          "count": 4
+          "count": 3
         }
       ]
     },
@@ -272,19 +272,6 @@
     {
       "condition": "used",
       "make": "volkswagen",
-      "model": "Beetle",
-      "count": 10,
-      "file": "inventory/used-volkswagen-beetle.json",
-      "models": [
-        {
-          "model": "Beetle",
-          "count": 10
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
       "model": "Passat",
       "count": 3,
       "file": "inventory/used-volkswagen-passat.json",
@@ -311,13 +298,26 @@
     {
       "condition": "used",
       "make": "volkswagen",
+      "model": "Beetle",
+      "count": 9,
+      "file": "inventory/used-volkswagen-beetle.json",
+      "models": [
+        {
+          "model": "Beetle",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volkswagen",
       "model": "Golf GTI",
-      "count": 24,
+      "count": 23,
       "file": "inventory/used-volkswagen-golf-gti.json",
       "models": [
         {
           "model": "Golf GTI",
-          "count": 24
+          "count": 23
         }
       ]
     },
@@ -452,12 +452,12 @@
       "make": "volkswagen",
       "model": "Atlas",
       "shard": "sin-region",
-      "count": 13,
+      "count": 12,
       "file": "inventory/used-volkswagen-atlas-sin-region.json",
       "models": [
         {
           "model": "Atlas",
-          "count": 13
+          "count": 12
         }
       ]
     },

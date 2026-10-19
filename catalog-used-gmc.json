@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T03:57:47+00:00",
+  "generated_at": "2026-10-19T09:57:47+00:00",
   "condition": "used",
   "make": "gmc",
   "files": [
@@ -145,8 +145,12 @@
       "file": "inventory/used-gmc-sierra-1500-part5.json",
       "models": [
         {
+          "model": "SIERRA 1500",
+          "count": 1
+        },
+        {
           "model": "Sierra 1500",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -159,12 +163,8 @@
       "file": "inventory/used-gmc-sierra-1500-part6.json",
       "models": [
         {
-          "model": "SIERRA 1500",
-          "count": 1
-        },
-        {
           "model": "Sierra 1500",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -257,12 +257,12 @@
       "make": "gmc",
       "model": "Sierra 1500",
       "shard": "part13",
-      "count": 22,
+      "count": 16,
       "file": "inventory/used-gmc-sierra-1500-part13.json",
       "models": [
         {
           "model": "Sierra 1500",
-          "count": 22
+          "count": 16
         }
       ]
     },
@@ -753,6 +753,19 @@
     {
       "condition": "used",
       "make": "gmc",
+      "model": "CanyonDenali",
+      "count": 1,
+      "file": "inventory/used-gmc-canyondenali.json",
+      "models": [
+        {
+          "model": "CanyonDenali",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "gmc",
       "model": "4 Sierra 3500hd Cars For Sale at Murray Chevy Abbotsford",
       "count": 1,
       "file": "inventory/used-gmc-4-sierra-3500hd-cars-for-sale-at-murray-chevy-abbotsford.json",
@@ -811,6 +824,19 @@
       "models": [
         {
           "model": "Sierra 2500HDSLT",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "gmc",
+      "model": "YukonDenali",
+      "count": 1,
+      "file": "inventory/used-gmc-yukondenali.json",
+      "models": [
+        {
+          "model": "YukonDenali",
           "count": 1
         }
       ]

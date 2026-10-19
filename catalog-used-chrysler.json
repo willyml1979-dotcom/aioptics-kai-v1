@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T03:57:47+00:00",
+  "generated_at": "2026-10-19T09:57:47+00:00",
   "condition": "used",
   "make": "chrysler",
   "files": [
@@ -34,13 +34,27 @@
       "make": "chrysler",
       "model": "PACIFICA",
       "shard": "part1",
-      "count": 30,
+      "count": 29,
       "file": "inventory/used-chrysler-pacifica-part1.json",
       "models": [
         {
           "model": "PACIFICA",
           "count": 1
         },
+        {
+          "model": "Pacifica",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chrysler",
+      "model": "PACIFICA",
+      "shard": "part2",
+      "count": 29,
+      "file": "inventory/used-chrysler-pacifica-part2.json",
+      "models": [
         {
           "model": "Pacifica",
           "count": 29
@@ -51,27 +65,13 @@
       "condition": "used",
       "make": "chrysler",
       "model": "PACIFICA",
-      "shard": "part2",
-      "count": 30,
-      "file": "inventory/used-chrysler-pacifica-part2.json",
-      "models": [
-        {
-          "model": "Pacifica",
-          "count": 30
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chrysler",
-      "model": "PACIFICA",
       "shard": "part3",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-chrysler-pacifica-part3.json",
       "models": [
         {
           "model": "Pacifica",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -167,12 +167,12 @@
       "condition": "used",
       "make": "chrysler",
       "model": "Pacifica Hybrid",
-      "count": 3,
+      "count": 2,
       "file": "inventory/used-chrysler-pacifica-hybrid.json",
       "models": [
         {
           "model": "Pacifica Hybrid",
-          "count": 3
+          "count": 2
         }
       ]
     },

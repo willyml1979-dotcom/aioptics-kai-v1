@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T03:57:47+00:00",
+  "generated_at": "2026-10-19T09:57:47+00:00",
   "condition": "used",
   "make": "dodge",
   "files": [
@@ -22,12 +22,12 @@
       "make": "dodge",
       "model": "GRAND CARAVAN",
       "shard": "Lower Mainland",
-      "count": 25,
+      "count": 27,
       "file": "inventory/used-dodge-grand-caravan-lower-mainland.json",
       "models": [
         {
           "model": "Grand Caravan",
-          "count": 25
+          "count": 27
         }
       ]
     },
@@ -82,7 +82,7 @@
       "make": "dodge",
       "model": "GRAND CARAVAN",
       "shard": "sin-region",
-      "count": 3,
+      "count": 4,
       "file": "inventory/used-dodge-grand-caravan-sin-region.json",
       "models": [
         {
@@ -91,91 +91,7 @@
         },
         {
           "model": "Grand Caravan",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "Charger",
-      "shard": "Kootenays",
-      "count": 1,
-      "file": "inventory/used-dodge-charger-kootenays.json",
-      "models": [
-        {
-          "model": "Charger",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "Charger",
-      "shard": "Lower Mainland",
-      "count": 25,
-      "file": "inventory/used-dodge-charger-lower-mainland.json",
-      "models": [
-        {
-          "model": "Charger",
-          "count": 25
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "Charger",
-      "shard": "Norte/Cariboo",
-      "count": 1,
-      "file": "inventory/used-dodge-charger-norte-cariboo.json",
-      "models": [
-        {
-          "model": "Charger",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "Charger",
-      "shard": "Okanagan",
-      "count": 5,
-      "file": "inventory/used-dodge-charger-okanagan.json",
-      "models": [
-        {
-          "model": "Charger",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "Charger",
-      "shard": "Vancouver Island",
-      "count": 6,
-      "file": "inventory/used-dodge-charger-vancouver-island.json",
-      "models": [
-        {
-          "model": "Charger",
-          "count": 6
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "Charger",
-      "shard": "sin-region",
-      "count": 6,
-      "file": "inventory/used-dodge-charger-sin-region.json",
-      "models": [
-        {
-          "model": "Charger",
-          "count": 6
+          "count": 3
         }
       ]
     },
@@ -268,12 +184,12 @@
       "make": "dodge",
       "model": "Journey",
       "shard": "sin-region",
-      "count": 3,
+      "count": 4,
       "file": "inventory/used-dodge-journey-sin-region.json",
       "models": [
         {
           "model": "Journey",
-          "count": 3
+          "count": 4
         }
       ]
     },
@@ -360,12 +276,12 @@
       "make": "dodge",
       "model": "DURANGO",
       "shard": "Vancouver Island",
-      "count": 9,
+      "count": 8,
       "file": "inventory/used-dodge-durango-vancouver-island.json",
       "models": [
         {
           "model": "Durango",
-          "count": 9
+          "count": 8
         }
       ]
     },
@@ -374,7 +290,7 @@
       "make": "dodge",
       "model": "DURANGO",
       "shard": "sin-region",
-      "count": 23,
+      "count": 22,
       "file": "inventory/used-dodge-durango-sin-region.json",
       "models": [
         {
@@ -383,7 +299,7 @@
         },
         {
           "model": "Durango",
-          "count": 22
+          "count": 21
         }
       ]
     },
@@ -391,7 +307,7 @@
       "condition": "used",
       "make": "dodge",
       "model": "HORNET",
-      "count": 22,
+      "count": 21,
       "file": "inventory/used-dodge-hornet.json",
       "models": [
         {
@@ -400,7 +316,7 @@
         },
         {
           "model": "Hornet",
-          "count": 18
+          "count": 17
         }
       ]
     },
@@ -463,14 +379,70 @@
     {
       "condition": "used",
       "make": "dodge",
-      "model": "Challenger",
-      "shard": "part1",
-      "count": 27,
-      "file": "inventory/used-dodge-challenger-part1.json",
+      "model": "Charger",
+      "shard": "Lower Mainland",
+      "count": 23,
+      "file": "inventory/used-dodge-charger-lower-mainland.json",
       "models": [
         {
-          "model": "Challenger",
-          "count": 27
+          "model": "Charger",
+          "count": 23
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
+      "model": "Charger",
+      "shard": "Norte/Cariboo",
+      "count": 1,
+      "file": "inventory/used-dodge-charger-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Charger",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
+      "model": "Charger",
+      "shard": "Okanagan",
+      "count": 5,
+      "file": "inventory/used-dodge-charger-okanagan.json",
+      "models": [
+        {
+          "model": "Charger",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
+      "model": "Charger",
+      "shard": "Vancouver Island",
+      "count": 6,
+      "file": "inventory/used-dodge-charger-vancouver-island.json",
+      "models": [
+        {
+          "model": "Charger",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
+      "model": "Charger",
+      "shard": "sin-region",
+      "count": 5,
+      "file": "inventory/used-dodge-charger-sin-region.json",
+      "models": [
+        {
+          "model": "Charger",
+          "count": 5
         }
       ]
     },
@@ -478,13 +450,83 @@
       "condition": "used",
       "make": "dodge",
       "model": "Challenger",
-      "shard": "part2",
-      "count": 27,
-      "file": "inventory/used-dodge-challenger-part2.json",
+      "shard": "Lower Mainland",
+      "count": 30,
+      "file": "inventory/used-dodge-challenger-lower-mainland.json",
       "models": [
         {
           "model": "Challenger",
-          "count": 27
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
+      "model": "Challenger",
+      "shard": "Norte/Cariboo",
+      "count": 1,
+      "file": "inventory/used-dodge-challenger-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Challenger",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
+      "model": "Challenger",
+      "shard": "Okanagan",
+      "count": 6,
+      "file": "inventory/used-dodge-challenger-okanagan.json",
+      "models": [
+        {
+          "model": "Challenger",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
+      "model": "Challenger",
+      "shard": "Thompson-Okanagan",
+      "count": 1,
+      "file": "inventory/used-dodge-challenger-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "Challenger",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
+      "model": "Challenger",
+      "shard": "Vancouver Island",
+      "count": 5,
+      "file": "inventory/used-dodge-challenger-vancouver-island.json",
+      "models": [
+        {
+          "model": "Challenger",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
+      "model": "Challenger",
+      "shard": "sin-region",
+      "count": 7,
+      "file": "inventory/used-dodge-challenger-sin-region.json",
+      "models": [
+        {
+          "model": "Challenger",
+          "count": 7
         }
       ]
     },
@@ -614,6 +656,19 @@
       "models": [
         {
           "model": "Hornet R/T PHEV",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
+      "model": "Grand Caravan Passenger Van SE",
+      "count": 1,
+      "file": "inventory/used-dodge-grand-caravan-passenger-van-se.json",
+      "models": [
+        {
+          "model": "Grand Caravan Passenger Van SE",
           "count": 1
         }
       ]

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-19T03:57:47+00:00",
-  "snapshot": "2026-10-19T03:57:47+00:00",
+  "generated_at": "2026-10-19T09:57:47+00:00",
+  "snapshot": "2026-10-19T09:57:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 13,
+  "count": 14,
   "vehicles": [
     {
       "pub_id": "brian-jessel-bmw-wba23gg01t7v16150",
@@ -356,12 +356,35 @@
       "listing_url": "https://www.parkshorebmw.com/new/2026-BMW-2_Series-id478263.html",
       "dealer_url": "https://www.parkshorebmw.com/new/2026-BMW-2_Series-id478263.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T22:39:34",
-      "snapshot": "2026-10-18T01:24:46",
+      "snapshot": "2026-10-19T02:48:15",
       "go_url": "https://carwhisper.ca/go/park-shore-bmw-72316-478263",
       "region": "Lower Mainland",
       "city": "North Vancouver",
       "province": "BC",
       "dealer_name": "Park Shore BMW"
+    },
+    {
+      "pub_id": "auto-west-bmw-78331-487524",
+      "year": 2027,
+      "make": "BMW",
+      "model": "2 Series Gran",
+      "body_type": "coupe",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": 57664.0,
+      "price_note": null,
+      "dealer_id": "auto-west-bmw",
+      "stock": "78331-487524",
+      "listing_url": "https://www.autowestbmw.com/new/2027-BMW-2_Series-id487524.html",
+      "dealer_url": "https://www.autowestbmw.com/new/2027-BMW-2_Series-id487524.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-16T00:10:09",
+      "snapshot": "2026-10-18T23:14:32",
+      "go_url": "https://carwhisper.ca/go/auto-west-bmw-78331-487524",
+      "region": "Lower Mainland",
+      "city": "Richmond",
+      "province": "BC",
+      "dealer_name": "Auto West BMW"
     }
   ]
 }

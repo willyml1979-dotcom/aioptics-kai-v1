@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T03:57:47+00:00",
+  "generated_at": "2026-10-19T09:57:47+00:00",
   "condition": "new",
   "make": "toyota",
   "files": [
@@ -8,12 +8,12 @@
       "make": "toyota",
       "model": "Corolla",
       "shard": "part1",
-      "count": 33,
+      "count": 32,
       "file": "inventory/new-toyota-corolla-part1.json",
       "models": [
         {
           "model": "Corolla",
-          "count": 33
+          "count": 32
         }
       ]
     },
@@ -22,12 +22,12 @@
       "make": "toyota",
       "model": "Corolla",
       "shard": "part2",
-      "count": 33,
+      "count": 32,
       "file": "inventory/new-toyota-corolla-part2.json",
       "models": [
         {
           "model": "Corolla",
-          "count": 33
+          "count": 32
         }
       ]
     },
@@ -36,12 +36,12 @@
       "make": "toyota",
       "model": "Corolla",
       "shard": "part3",
-      "count": 33,
+      "count": 32,
       "file": "inventory/new-toyota-corolla-part3.json",
       "models": [
         {
           "model": "Corolla",
-          "count": 33
+          "count": 32
         }
       ]
     },
@@ -50,12 +50,12 @@
       "make": "toyota",
       "model": "Corolla",
       "shard": "part4",
-      "count": 33,
+      "count": 32,
       "file": "inventory/new-toyota-corolla-part4.json",
       "models": [
         {
           "model": "Corolla",
-          "count": 33
+          "count": 32
         }
       ]
     },
@@ -77,13 +77,13 @@
       "condition": "new",
       "make": "toyota",
       "model": "Corolla Cross",
-      "shard": "part1",
-      "count": 25,
-      "file": "inventory/new-toyota-corolla-cross-part1.json",
+      "shard": "Kootenays",
+      "count": 4,
+      "file": "inventory/new-toyota-corolla-cross-kootenays.json",
       "models": [
         {
           "model": "Corolla Cross",
-          "count": 25
+          "count": 4
         }
       ]
     },
@@ -91,13 +91,13 @@
       "condition": "new",
       "make": "toyota",
       "model": "Corolla Cross",
-      "shard": "part2",
-      "count": 25,
-      "file": "inventory/new-toyota-corolla-cross-part2.json",
+      "shard": "Lower Mainland",
+      "count": 31,
+      "file": "inventory/new-toyota-corolla-cross-lower-mainland.json",
       "models": [
         {
           "model": "Corolla Cross",
-          "count": 25
+          "count": 31
         }
       ]
     },
@@ -105,13 +105,55 @@
       "condition": "new",
       "make": "toyota",
       "model": "Corolla Cross",
-      "shard": "part3",
-      "count": 25,
-      "file": "inventory/new-toyota-corolla-cross-part3.json",
+      "shard": "Norte/Cariboo",
+      "count": 6,
+      "file": "inventory/new-toyota-corolla-cross-norte-cariboo.json",
       "models": [
         {
           "model": "Corolla Cross",
-          "count": 25
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "toyota",
+      "model": "Corolla Cross",
+      "shard": "Okanagan",
+      "count": 10,
+      "file": "inventory/new-toyota-corolla-cross-okanagan.json",
+      "models": [
+        {
+          "model": "Corolla Cross",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "toyota",
+      "model": "Corolla Cross",
+      "shard": "Thompson-Okanagan",
+      "count": 3,
+      "file": "inventory/new-toyota-corolla-cross-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "Corolla Cross",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "toyota",
+      "model": "Corolla Cross",
+      "shard": "Vancouver Island",
+      "count": 15,
+      "file": "inventory/new-toyota-corolla-cross-vancouver-island.json",
+      "models": [
+        {
+          "model": "Corolla Cross",
+          "count": 15
         }
       ]
     },
@@ -176,12 +218,12 @@
       "make": "toyota",
       "model": "RAV4",
       "shard": "part5",
-      "count": 25,
+      "count": 27,
       "file": "inventory/new-toyota-rav4-part5.json",
       "models": [
         {
           "model": "RAV4",
-          "count": 25
+          "count": 27
         }
       ]
     },
@@ -260,12 +302,12 @@
       "make": "toyota",
       "model": "Prius Prime",
       "shard": "part6",
-      "count": 26,
+      "count": 25,
       "file": "inventory/new-toyota-prius-prime-part6.json",
       "models": [
         {
           "model": "Prius Prime",
-          "count": 26
+          "count": 25
         }
       ]
     },
@@ -274,12 +316,12 @@
       "make": "toyota",
       "model": "Tacoma",
       "shard": "part1",
-      "count": 32,
+      "count": 30,
       "file": "inventory/new-toyota-tacoma-part1.json",
       "models": [
         {
           "model": "Tacoma",
-          "count": 32
+          "count": 30
         }
       ]
     },
@@ -288,12 +330,12 @@
       "make": "toyota",
       "model": "Tacoma",
       "shard": "part2",
-      "count": 32,
+      "count": 30,
       "file": "inventory/new-toyota-tacoma-part2.json",
       "models": [
         {
           "model": "Tacoma",
-          "count": 32
+          "count": 30
         }
       ]
     },
@@ -302,12 +344,12 @@
       "make": "toyota",
       "model": "Tacoma",
       "shard": "part3",
-      "count": 32,
+      "count": 30,
       "file": "inventory/new-toyota-tacoma-part3.json",
       "models": [
         {
           "model": "Tacoma",
-          "count": 32
+          "count": 30
         }
       ]
     },
@@ -316,12 +358,12 @@
       "make": "toyota",
       "model": "Tacoma",
       "shard": "part4",
-      "count": 32,
+      "count": 30,
       "file": "inventory/new-toyota-tacoma-part4.json",
       "models": [
         {
           "model": "Tacoma",
-          "count": 32
+          "count": 30
         }
       ]
     },
@@ -330,12 +372,12 @@
       "make": "toyota",
       "model": "Tacoma",
       "shard": "part5",
-      "count": 32,
+      "count": 30,
       "file": "inventory/new-toyota-tacoma-part5.json",
       "models": [
         {
           "model": "Tacoma",
-          "count": 32
+          "count": 30
         }
       ]
     },
@@ -344,12 +386,12 @@
       "make": "toyota",
       "model": "Tacoma",
       "shard": "part6",
-      "count": 27,
+      "count": 30,
       "file": "inventory/new-toyota-tacoma-part6.json",
       "models": [
         {
           "model": "Tacoma",
-          "count": 27
+          "count": 30
         }
       ]
     },
@@ -386,12 +428,12 @@
       "make": "toyota",
       "model": "C-HR",
       "shard": "Norte/Cariboo",
-      "count": 4,
+      "count": 3,
       "file": "inventory/new-toyota-c-hr-norte-cariboo.json",
       "models": [
         {
           "model": "C-HR",
-          "count": 4
+          "count": 3
         }
       ]
     },
@@ -428,12 +470,12 @@
       "make": "toyota",
       "model": "C-HR",
       "shard": "Vancouver Island",
-      "count": 7,
+      "count": 6,
       "file": "inventory/new-toyota-c-hr-vancouver-island.json",
       "models": [
         {
           "model": "C-HR",
-          "count": 7
+          "count": 6
         }
       ]
     },
@@ -442,12 +484,12 @@
       "make": "toyota",
       "model": "bZ",
       "shard": "part1",
-      "count": 30,
+      "count": 28,
       "file": "inventory/new-toyota-bz-part1.json",
       "models": [
         {
           "model": "bZ",
-          "count": 30
+          "count": 28
         }
       ]
     },
@@ -456,12 +498,12 @@
       "make": "toyota",
       "model": "bZ",
       "shard": "part2",
-      "count": 30,
+      "count": 28,
       "file": "inventory/new-toyota-bz-part2.json",
       "models": [
         {
           "model": "bZ",
-          "count": 30
+          "count": 28
         }
       ]
     },
@@ -470,12 +512,12 @@
       "make": "toyota",
       "model": "bZ",
       "shard": "part3",
-      "count": 30,
+      "count": 28,
       "file": "inventory/new-toyota-bz-part3.json",
       "models": [
         {
           "model": "bZ",
-          "count": 30
+          "count": 28
         }
       ]
     },
@@ -484,12 +526,12 @@
       "make": "toyota",
       "model": "bZ",
       "shard": "part4",
-      "count": 30,
+      "count": 28,
       "file": "inventory/new-toyota-bz-part4.json",
       "models": [
         {
           "model": "bZ",
-          "count": 30
+          "count": 28
         }
       ]
     },
@@ -512,12 +554,12 @@
       "make": "toyota",
       "model": "Sienna",
       "shard": "part1",
-      "count": 25,
+      "count": 26,
       "file": "inventory/new-toyota-sienna-part1.json",
       "models": [
         {
           "model": "Sienna",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -526,12 +568,12 @@
       "make": "toyota",
       "model": "Sienna",
       "shard": "part2",
-      "count": 25,
+      "count": 26,
       "file": "inventory/new-toyota-sienna-part2.json",
       "models": [
         {
           "model": "Sienna",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -540,12 +582,12 @@
       "make": "toyota",
       "model": "Sienna",
       "shard": "part3",
-      "count": 25,
+      "count": 24,
       "file": "inventory/new-toyota-sienna-part3.json",
       "models": [
         {
           "model": "Sienna",
-          "count": 25
+          "count": 24
         }
       ]
     },
@@ -553,12 +595,12 @@
       "condition": "new",
       "make": "toyota",
       "model": "Highlander",
-      "count": 30,
+      "count": 31,
       "file": "inventory/new-toyota-highlander.json",
       "models": [
         {
           "model": "Highlander",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -637,12 +679,12 @@
       "make": "toyota",
       "model": "Tundra",
       "shard": "part6",
-      "count": 26,
+      "count": 27,
       "file": "inventory/new-toyota-tundra-part6.json",
       "models": [
         {
           "model": "Tundra",
-          "count": 26
+          "count": 27
         }
       ]
     },
@@ -734,12 +776,12 @@
       "condition": "new",
       "make": "toyota",
       "model": "Grand Highlander",
-      "count": 20,
+      "count": 19,
       "file": "inventory/new-toyota-grand-highlander.json",
       "models": [
         {
           "model": "Grand Highlander",
-          "count": 20
+          "count": 19
         }
       ]
     },
@@ -773,25 +815,12 @@
       "condition": "new",
       "make": "toyota",
       "model": "Camry",
-      "count": 32,
+      "count": 31,
       "file": "inventory/new-toyota-camry.json",
       "models": [
         {
           "model": "Camry",
-          "count": 32
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "toyota",
-      "model": "GR86",
-      "count": 13,
-      "file": "inventory/new-toyota-gr86.json",
-      "models": [
-        {
-          "model": "GR86",
-          "count": 13
+          "count": 31
         }
       ]
     },
@@ -799,12 +828,12 @@
       "condition": "new",
       "make": "toyota",
       "model": "Prius",
-      "count": 22,
+      "count": 21,
       "file": "inventory/new-toyota-prius.json",
       "models": [
         {
           "model": "Prius",
-          "count": 22
+          "count": 21
         }
       ]
     },
@@ -812,12 +841,25 @@
       "condition": "new",
       "make": "toyota",
       "model": "Crown",
-      "count": 34,
+      "count": 33,
       "file": "inventory/new-toyota-crown.json",
       "models": [
         {
           "model": "Crown",
-          "count": 34
+          "count": 33
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "toyota",
+      "model": "GR86",
+      "count": 12,
+      "file": "inventory/new-toyota-gr86.json",
+      "models": [
+        {
+          "model": "GR86",
+          "count": 12
         }
       ]
     },

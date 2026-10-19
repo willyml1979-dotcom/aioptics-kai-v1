@@ -1,35 +1,9 @@
 {
-  "generated_at": "2026-10-19T03:57:47+00:00",
-  "snapshot": "2026-10-19T03:57:47+00:00",
+  "generated_at": "2026-10-19T09:57:47+00:00",
+  "snapshot": "2026-10-19T09:57:47+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 31,
   "vehicles": [
-    {
-      "pub_id": "lougheed-hyundai-kmhrc8a38tu503290",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Venue",
-      "propulsion": "gas",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
-      "condition": "new",
-      "price_cad": 27198.0,
-      "price_note": null,
-      "color": "White",
-      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/361a309c-7d3f-41e5-beb5-53e0f001c33d_a35c1dba-17c6-4653-b5ea-840336199223.jpg",
-      "dealer_id": "lougheed-hyundai",
-      "vin": "KMHRC8A38TU503290",
-      "stock": "H261093",
-      "listing_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/venue/coquitlam/bc/71541979/?sale_class=new",
-      "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/venue/coquitlam/bc/71541979/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T11:37:06",
-      "snapshot": "2026-10-18T19:29:31",
-      "go_url": "https://carwhisper.ca/go/lougheed-hyundai-kmhrc8a38tu503290",
-      "region": "Lower Mainland",
-      "city": "Coquitlam",
-      "province": "BC",
-      "dealer_name": "Lougheed Hyundai"
-    },
     {
       "pub_id": "langley-hyundai-kmhrc8a30tu498618",
       "year": 2026,
@@ -843,6 +817,30 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Okanagan Chrysler Dodge Jeep Ram"
+    },
+    {
+      "pub_id": "penticton-nissan-kmhrc8a38su369492",
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Venue",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": 21904.0,
+      "price_note": null,
+      "color": "Grey",
+      "dealer_id": "penticton-nissan",
+      "vin": "KMHRC8A38SU369492",
+      "stock": 14398590,
+      "listing_url": "https://www.pentictonnissan.com/used/2025-Hyundai-Venue.html",
+      "dealer_url": "https://www.pentictonnissan.com/used/2025-Hyundai-Venue.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-13T16:12:46",
+      "snapshot": "2026-10-18T16:35:58",
+      "go_url": "https://carwhisper.ca/go/penticton-nissan-kmhrc8a38su369492",
+      "region": "Okanagan",
+      "city": "Penticton",
+      "province": "BC",
+      "dealer_name": "Penticton Nissan"
     }
   ]
 }
