@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T09:57:47+00:00",
+  "generated_at": "2026-10-19T15:57:48+00:00",
   "condition": "used",
   "make": "dodge",
   "files": [
@@ -22,12 +22,12 @@
       "make": "dodge",
       "model": "GRAND CARAVAN",
       "shard": "Lower Mainland",
-      "count": 27,
+      "count": 31,
       "file": "inventory/used-dodge-grand-caravan-lower-mainland.json",
       "models": [
         {
           "model": "Grand Caravan",
-          "count": 27
+          "count": 31
         }
       ]
     },
@@ -354,12 +354,12 @@
       "condition": "used",
       "make": "dodge",
       "model": "Grand Caravan Passenger",
-      "count": 18,
+      "count": 19,
       "file": "inventory/used-dodge-grand-caravan-passenger.json",
       "models": [
         {
           "model": "Grand Caravan Passenger",
-          "count": 18
+          "count": 19
         }
       ]
     },
@@ -380,69 +380,12 @@
       "condition": "used",
       "make": "dodge",
       "model": "Charger",
-      "shard": "Lower Mainland",
-      "count": 23,
-      "file": "inventory/used-dodge-charger-lower-mainland.json",
+      "count": 36,
+      "file": "inventory/used-dodge-charger.json",
       "models": [
         {
           "model": "Charger",
-          "count": 23
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "Charger",
-      "shard": "Norte/Cariboo",
-      "count": 1,
-      "file": "inventory/used-dodge-charger-norte-cariboo.json",
-      "models": [
-        {
-          "model": "Charger",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "Charger",
-      "shard": "Okanagan",
-      "count": 5,
-      "file": "inventory/used-dodge-charger-okanagan.json",
-      "models": [
-        {
-          "model": "Charger",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "Charger",
-      "shard": "Vancouver Island",
-      "count": 6,
-      "file": "inventory/used-dodge-charger-vancouver-island.json",
-      "models": [
-        {
-          "model": "Charger",
-          "count": 6
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "Charger",
-      "shard": "sin-region",
-      "count": 5,
-      "file": "inventory/used-dodge-charger-sin-region.json",
-      "models": [
-        {
-          "model": "Charger",
-          "count": 5
+          "count": 36
         }
       ]
     },
@@ -451,12 +394,12 @@
       "make": "dodge",
       "model": "Challenger",
       "shard": "Lower Mainland",
-      "count": 30,
+      "count": 25,
       "file": "inventory/used-dodge-challenger-lower-mainland.json",
       "models": [
         {
           "model": "Challenger",
-          "count": 30
+          "count": 25
         }
       ]
     },
@@ -534,9 +477,13 @@
       "condition": "used",
       "make": "dodge",
       "model": "Ram 3500",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-dodge-ram-3500.json",
       "models": [
+        {
+          "model": "RAM 3500",
+          "count": 1
+        },
         {
           "model": "Ram 3500",
           "count": 1
@@ -578,19 +525,6 @@
       "models": [
         {
           "model": "Journey CVP/SE Plus",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "Grand Caravan Passenger Van Canada Value Package",
-      "count": 1,
-      "file": "inventory/used-dodge-grand-caravan-passenger-van-canada-value-package.json",
-      "models": [
-        {
-          "model": "Grand Caravan Passenger Van Canada Value Package",
           "count": 1
         }
       ]

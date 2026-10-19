@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T09:57:47+00:00",
+  "generated_at": "2026-10-19T15:57:48+00:00",
   "condition": "used",
   "make": "kia",
   "files": [
@@ -146,13 +146,13 @@
       "condition": "used",
       "make": "kia",
       "model": "Soul",
-      "shard": "part1",
-      "count": 27,
-      "file": "inventory/used-kia-soul-part1.json",
+      "shard": "Lower Mainland",
+      "count": 31,
+      "file": "inventory/used-kia-soul-lower-mainland.json",
       "models": [
         {
           "model": "Soul",
-          "count": 27
+          "count": 31
         }
       ]
     },
@@ -160,13 +160,13 @@
       "condition": "used",
       "make": "kia",
       "model": "Soul",
-      "shard": "part2",
-      "count": 27,
-      "file": "inventory/used-kia-soul-part2.json",
+      "shard": "Norte/Cariboo",
+      "count": 1,
+      "file": "inventory/used-kia-soul-norte-cariboo.json",
       "models": [
         {
           "model": "Soul",
-          "count": 27
+          "count": 1
         }
       ]
     },
@@ -174,13 +174,13 @@
       "condition": "used",
       "make": "kia",
       "model": "Soul",
-      "shard": "part3",
-      "count": 27,
-      "file": "inventory/used-kia-soul-part3.json",
+      "shard": "Okanagan",
+      "count": 13,
+      "file": "inventory/used-kia-soul-okanagan.json",
       "models": [
         {
           "model": "Soul",
-          "count": 27
+          "count": 13
         }
       ]
     },
@@ -188,13 +188,27 @@
       "condition": "used",
       "make": "kia",
       "model": "Soul",
-      "shard": "part4",
-      "count": 24,
-      "file": "inventory/used-kia-soul-part4.json",
+      "shard": "Vancouver Island",
+      "count": 11,
+      "file": "inventory/used-kia-soul-vancouver-island.json",
       "models": [
         {
           "model": "Soul",
-          "count": 24
+          "count": 11
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "kia",
+      "model": "Soul",
+      "shard": "sin-region",
+      "count": 32,
+      "file": "inventory/used-kia-soul-sin-region.json",
+      "models": [
+        {
+          "model": "Soul",
+          "count": 32
         }
       ]
     },
@@ -229,12 +243,12 @@
       "make": "kia",
       "model": "Rio",
       "shard": "part1",
-      "count": 23,
+      "count": 24,
       "file": "inventory/used-kia-rio-part1.json",
       "models": [
         {
           "model": "Rio",
-          "count": 23
+          "count": 24
         }
       ]
     },
@@ -243,12 +257,12 @@
       "make": "kia",
       "model": "Rio",
       "shard": "part2",
-      "count": 23,
+      "count": 24,
       "file": "inventory/used-kia-rio-part2.json",
       "models": [
         {
           "model": "Rio",
-          "count": 23
+          "count": 24
         }
       ]
     },
@@ -257,12 +271,12 @@
       "make": "kia",
       "model": "Rio",
       "shard": "part3",
-      "count": 23,
+      "count": 22,
       "file": "inventory/used-kia-rio-part3.json",
       "models": [
         {
           "model": "Rio",
-          "count": 23
+          "count": 22
         }
       ]
     },
@@ -615,12 +629,12 @@
       "condition": "used",
       "make": "kia",
       "model": "EV6",
-      "count": 10,
+      "count": 9,
       "file": "inventory/used-kia-ev6.json",
       "models": [
         {
           "model": "EV6",
-          "count": 10
+          "count": 9
         }
       ]
     },

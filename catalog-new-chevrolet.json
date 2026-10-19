@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T09:57:47+00:00",
+  "generated_at": "2026-10-19T15:57:48+00:00",
   "condition": "new",
   "make": "chevrolet",
   "files": [
@@ -26,6 +26,76 @@
         {
           "model": "Equinox FWD LT",
           "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Equinox",
+      "shard": "part1",
+      "count": 28,
+      "file": "inventory/new-chevrolet-equinox-part1.json",
+      "models": [
+        {
+          "model": "Equinox",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Equinox",
+      "shard": "part2",
+      "count": 28,
+      "file": "inventory/new-chevrolet-equinox-part2.json",
+      "models": [
+        {
+          "model": "Equinox",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Equinox",
+      "shard": "part3",
+      "count": 28,
+      "file": "inventory/new-chevrolet-equinox-part3.json",
+      "models": [
+        {
+          "model": "Equinox",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Equinox",
+      "shard": "part4",
+      "count": 28,
+      "file": "inventory/new-chevrolet-equinox-part4.json",
+      "models": [
+        {
+          "model": "Equinox",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Equinox",
+      "shard": "part5",
+      "count": 24,
+      "file": "inventory/new-chevrolet-equinox-part5.json",
+      "models": [
+        {
+          "model": "Equinox",
+          "count": 24
         }
       ]
     },
@@ -151,76 +221,6 @@
         {
           "model": "Blazer LT AWD",
           "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "chevrolet",
-      "model": "Equinox",
-      "shard": "part1",
-      "count": 27,
-      "file": "inventory/new-chevrolet-equinox-part1.json",
-      "models": [
-        {
-          "model": "Equinox",
-          "count": 27
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "chevrolet",
-      "model": "Equinox",
-      "shard": "part2",
-      "count": 27,
-      "file": "inventory/new-chevrolet-equinox-part2.json",
-      "models": [
-        {
-          "model": "Equinox",
-          "count": 27
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "chevrolet",
-      "model": "Equinox",
-      "shard": "part3",
-      "count": 27,
-      "file": "inventory/new-chevrolet-equinox-part3.json",
-      "models": [
-        {
-          "model": "Equinox",
-          "count": 27
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "chevrolet",
-      "model": "Equinox",
-      "shard": "part4",
-      "count": 27,
-      "file": "inventory/new-chevrolet-equinox-part4.json",
-      "models": [
-        {
-          "model": "Equinox",
-          "count": 27
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "chevrolet",
-      "model": "Equinox",
-      "shard": "part5",
-      "count": 26,
-      "file": "inventory/new-chevrolet-equinox-part5.json",
-      "models": [
-        {
-          "model": "Equinox",
-          "count": 26
         }
       ]
     },
@@ -1101,12 +1101,12 @@
       "make": "chevrolet",
       "model": "Silverado 1500",
       "shard": "part19",
-      "count": 20,
+      "count": 19,
       "file": "inventory/new-chevrolet-silverado-1500-part19.json",
       "models": [
         {
           "model": "Silverado 1500",
-          "count": 20
+          "count": 19
         }
       ]
     },

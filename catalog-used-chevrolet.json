@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T09:57:47+00:00",
+  "generated_at": "2026-10-19T15:57:48+00:00",
   "condition": "used",
   "make": "chevrolet",
   "files": [
@@ -333,13 +333,13 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Colorado",
-      "shard": "part1",
-      "count": 27,
-      "file": "inventory/used-chevrolet-colorado-part1.json",
+      "shard": "Kootenays",
+      "count": 1,
+      "file": "inventory/used-chevrolet-colorado-kootenays.json",
       "models": [
         {
           "model": "Colorado",
-          "count": 27
+          "count": 1
         }
       ]
     },
@@ -347,13 +347,13 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Colorado",
-      "shard": "part2",
-      "count": 27,
-      "file": "inventory/used-chevrolet-colorado-part2.json",
+      "shard": "Lower Mainland",
+      "count": 20,
+      "file": "inventory/used-chevrolet-colorado-lower-mainland.json",
       "models": [
         {
           "model": "Colorado",
-          "count": 27
+          "count": 20
         }
       ]
     },
@@ -361,13 +361,69 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Colorado",
-      "shard": "part3",
-      "count": 26,
-      "file": "inventory/used-chevrolet-colorado-part3.json",
+      "shard": "Norte/Cariboo",
+      "count": 5,
+      "file": "inventory/used-chevrolet-colorado-norte-cariboo.json",
       "models": [
         {
           "model": "Colorado",
-          "count": 26
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Colorado",
+      "shard": "Okanagan",
+      "count": 5,
+      "file": "inventory/used-chevrolet-colorado-okanagan.json",
+      "models": [
+        {
+          "model": "Colorado",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Colorado",
+      "shard": "Thompson-Okanagan",
+      "count": 7,
+      "file": "inventory/used-chevrolet-colorado-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "Colorado",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Colorado",
+      "shard": "Vancouver Island",
+      "count": 10,
+      "file": "inventory/used-chevrolet-colorado-vancouver-island.json",
+      "models": [
+        {
+          "model": "Colorado",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Colorado",
+      "shard": "sin-region",
+      "count": 19,
+      "file": "inventory/used-chevrolet-colorado-sin-region.json",
+      "models": [
+        {
+          "model": "Colorado",
+          "count": 19
         }
       ]
     },
@@ -558,12 +614,12 @@
       "make": "chevrolet",
       "model": "Silverado 1500",
       "shard": "part14",
-      "count": 25,
+      "count": 24,
       "file": "inventory/used-chevrolet-silverado-1500-part14.json",
       "models": [
         {
           "model": "Silverado 1500",
-          "count": 25
+          "count": 24
         }
       ]
     },
@@ -857,12 +913,12 @@
       "make": "chevrolet",
       "model": "Corvette",
       "shard": "part1",
-      "count": 22,
+      "count": 23,
       "file": "inventory/used-chevrolet-corvette-part1.json",
       "models": [
         {
           "model": "Corvette",
-          "count": 22
+          "count": 23
         }
       ]
     },
@@ -871,12 +927,12 @@
       "make": "chevrolet",
       "model": "Corvette",
       "shard": "part2",
-      "count": 22,
+      "count": 23,
       "file": "inventory/used-chevrolet-corvette-part2.json",
       "models": [
         {
           "model": "Corvette",
-          "count": 22
+          "count": 23
         }
       ]
     },
@@ -885,12 +941,12 @@
       "make": "chevrolet",
       "model": "Corvette",
       "shard": "part3",
-      "count": 20,
+      "count": 23,
       "file": "inventory/used-chevrolet-corvette-part3.json",
       "models": [
         {
           "model": "Corvette",
-          "count": 20
+          "count": 23
         }
       ]
     },

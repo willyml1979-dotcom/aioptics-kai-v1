@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-19T09:57:47+00:00",
-  "snapshot": "2026-10-19T09:57:47+00:00",
+  "generated_at": "2026-10-19T15:57:48+00:00",
+  "snapshot": "2026-10-19T15:57:48+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "bannister-ford-ltd-1fd7w2ba6tee87612",
@@ -63,6 +63,35 @@
       "city": "Dawson Creek",
       "province": "BC",
       "dealer_name": "Bannister Ford Ltd"
+    },
+    {
+      "pub_id": "kelowna-ford-lincoln-sales-ltd-1ft8w2bn5vec42668",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Super Duty F-250 SRW",
+      "trim": "Lariat",
+      "body_type": "truck",
+      "drivetrain": "FWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 0,
+      "price_cad": 108349.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "kelowna-ford-lincoln-sales-ltd",
+      "vin": "1FT8W2BN5VEC42668",
+      "stock": "14363922",
+      "listing_url": "https://www.kelownaford.com/new/inventory/2026-Ford-Super_Duty_F_250_SRW-id14363922.html",
+      "dealer_url": "https://www.kelownaford.com/new/inventory/2026-Ford-Super_Duty_F_250_SRW-id14363922.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T06:58:25",
+      "snapshot": "2026-10-19T06:30:30",
+      "go_url": "https://carwhisper.ca/go/kelowna-ford-lincoln-sales-ltd-1ft8w2bn5vec42668",
+      "region": "Okanagan",
+      "city": "Kelowna",
+      "province": "BC",
+      "dealer_name": "Kelowna Ford Lincoln Sales Ltd."
     },
     {
       "pub_id": "drayton-valley-ford-1ft7w2ba4tef59296",

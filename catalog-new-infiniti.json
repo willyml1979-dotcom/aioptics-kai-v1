@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T09:57:47+00:00",
+  "generated_at": "2026-10-19T15:57:48+00:00",
   "condition": "new",
   "make": "infiniti",
   "files": [
@@ -10,31 +10,39 @@
       "file": "inventory/new-infiniti.json",
       "models": [
         {
+          "model": "QX50",
+          "count": 1
+        },
+        {
           "model": "QX50 SPORT",
-          "count": 4
-        },
-        {
-          "model": "QX60",
-          "count": 2
-        },
-        {
-          "model": "QX60 Autograph",
-          "count": 5
-        },
-        {
-          "model": "QX60 Luxe",
           "count": 3
         },
         {
+          "model": "QX60",
+          "count": 7
+        },
+        {
+          "model": "QX60 Autograph",
+          "count": 3
+        },
+        {
+          "model": "QX60 Luxe",
+          "count": 1
+        },
+        {
           "model": "QX60 Sport",
-          "count": 4
+          "count": 3
+        },
+        {
+          "model": "QX65",
+          "count": 6
         },
         {
           "model": "QX65 Sport",
-          "count": 8
+          "count": 2
         },
         {
-          "model": "QX80 SPORT",
+          "model": "QX80",
           "count": 3
         }
       ]

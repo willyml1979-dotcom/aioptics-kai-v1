@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T09:57:47+00:00",
+  "generated_at": "2026-10-19T15:57:48+00:00",
   "condition": "used",
   "make": "volkswagen",
   "files": [
@@ -92,25 +92,25 @@
       "make": "volkswagen",
       "model": "Tiguan",
       "shard": "part7",
-      "count": 29,
+      "count": 26,
       "file": "inventory/used-volkswagen-tiguan-part7.json",
       "models": [
         {
           "model": "Tiguan",
-          "count": 29
+          "count": 26
         }
       ]
     },
     {
       "condition": "used",
       "make": "volkswagen",
-      "model": "Golf",
+      "model": "Taos",
       "shard": "Kootenays",
       "count": 1,
-      "file": "inventory/used-volkswagen-golf-kootenays.json",
+      "file": "inventory/used-volkswagen-taos-kootenays.json",
       "models": [
         {
-          "model": "Golf",
+          "model": "Taos",
           "count": 1
         }
       ]
@@ -118,98 +118,84 @@
     {
       "condition": "used",
       "make": "volkswagen",
-      "model": "Golf",
+      "model": "Taos",
       "shard": "Lower Mainland",
-      "count": 25,
-      "file": "inventory/used-volkswagen-golf-lower-mainland.json",
+      "count": 32,
+      "file": "inventory/used-volkswagen-taos-lower-mainland.json",
       "models": [
         {
-          "model": "Golf",
-          "count": 25
+          "model": "Taos",
+          "count": 32
         }
       ]
     },
     {
       "condition": "used",
       "make": "volkswagen",
-      "model": "Golf",
+      "model": "Taos",
+      "shard": "Norte/Cariboo",
+      "count": 2,
+      "file": "inventory/used-volkswagen-taos-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Taos",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volkswagen",
+      "model": "Taos",
       "shard": "Okanagan",
-      "count": 10,
-      "file": "inventory/used-volkswagen-golf-okanagan.json",
+      "count": 13,
+      "file": "inventory/used-volkswagen-taos-okanagan.json",
       "models": [
         {
-          "model": "Golf",
-          "count": 10
+          "model": "Taos",
+          "count": 13
         }
       ]
     },
     {
       "condition": "used",
       "make": "volkswagen",
-      "model": "Golf",
+      "model": "Taos",
+      "shard": "Thompson-Okanagan",
+      "count": 8,
+      "file": "inventory/used-volkswagen-taos-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "Taos",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volkswagen",
+      "model": "Taos",
       "shard": "Vancouver Island",
-      "count": 9,
-      "file": "inventory/used-volkswagen-golf-vancouver-island.json",
+      "count": 11,
+      "file": "inventory/used-volkswagen-taos-vancouver-island.json",
       "models": [
         {
-          "model": "Golf",
-          "count": 9
+          "model": "Taos",
+          "count": 11
         }
       ]
     },
     {
       "condition": "used",
       "make": "volkswagen",
-      "model": "Golf",
+      "model": "Taos",
       "shard": "sin-region",
-      "count": 3,
-      "file": "inventory/used-volkswagen-golf-sin-region.json",
-      "models": [
-        {
-          "model": "Golf",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Taos",
-      "shard": "part1",
-      "count": 32,
-      "file": "inventory/used-volkswagen-taos-part1.json",
+      "count": 28,
+      "file": "inventory/used-volkswagen-taos-sin-region.json",
       "models": [
         {
           "model": "Taos",
-          "count": 32
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Taos",
-      "shard": "part2",
-      "count": 32,
-      "file": "inventory/used-volkswagen-taos-part2.json",
-      "models": [
-        {
-          "model": "Taos",
-          "count": 32
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Taos",
-      "shard": "part3",
-      "count": 32,
-      "file": "inventory/used-volkswagen-taos-part3.json",
-      "models": [
-        {
-          "model": "Taos",
-          "count": 32
+          "count": 28
         }
       ]
     },
@@ -272,6 +258,62 @@
     {
       "condition": "used",
       "make": "volkswagen",
+      "model": "Golf",
+      "shard": "Lower Mainland",
+      "count": 17,
+      "file": "inventory/used-volkswagen-golf-lower-mainland.json",
+      "models": [
+        {
+          "model": "Golf",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volkswagen",
+      "model": "Golf",
+      "shard": "Okanagan",
+      "count": 10,
+      "file": "inventory/used-volkswagen-golf-okanagan.json",
+      "models": [
+        {
+          "model": "Golf",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volkswagen",
+      "model": "Golf",
+      "shard": "Vancouver Island",
+      "count": 9,
+      "file": "inventory/used-volkswagen-golf-vancouver-island.json",
+      "models": [
+        {
+          "model": "Golf",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volkswagen",
+      "model": "Golf",
+      "shard": "sin-region",
+      "count": 3,
+      "file": "inventory/used-volkswagen-golf-sin-region.json",
+      "models": [
+        {
+          "model": "Golf",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volkswagen",
       "model": "Passat",
       "count": 3,
       "file": "inventory/used-volkswagen-passat.json",
@@ -299,12 +341,12 @@
       "condition": "used",
       "make": "volkswagen",
       "model": "Beetle",
-      "count": 9,
+      "count": 10,
       "file": "inventory/used-volkswagen-beetle.json",
       "models": [
         {
           "model": "Beetle",
-          "count": 9
+          "count": 10
         }
       ]
     },
