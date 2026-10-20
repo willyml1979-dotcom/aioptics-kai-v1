@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T21:57:49+00:00",
+  "generated_at": "2026-10-20T20:11:38+00:00",
   "condition": "used",
   "make": "nissan",
   "files": [
@@ -236,12 +236,12 @@
       "make": "nissan",
       "model": "Rogue",
       "shard": "part17",
-      "count": 23,
+      "count": 24,
       "file": "inventory/used-nissan-rogue-part17.json",
       "models": [
         {
           "model": "Rogue",
-          "count": 23
+          "count": 24
         }
       ]
     },
@@ -255,6 +255,176 @@
         {
           "model": "Armada",
           "count": 9
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Juke",
+      "count": 9,
+      "file": "inventory/used-nissan-juke.json",
+      "models": [
+        {
+          "model": "JUKE",
+          "count": 1
+        },
+        {
+          "model": "Juke",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "LEAF",
+      "shard": "part1",
+      "count": 31,
+      "file": "inventory/used-nissan-leaf-part1.json",
+      "models": [
+        {
+          "model": "LEAF",
+          "count": 18
+        },
+        {
+          "model": "Leaf",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "LEAF",
+      "shard": "part2",
+      "count": 31,
+      "file": "inventory/used-nissan-leaf-part2.json",
+      "models": [
+        {
+          "model": "LEAF",
+          "count": 8
+        },
+        {
+          "model": "Leaf",
+          "count": 23
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "LEAF",
+      "shard": "part3",
+      "count": 30,
+      "file": "inventory/used-nissan-leaf-part3.json",
+      "models": [
+        {
+          "model": "LEAF",
+          "count": 20
+        },
+        {
+          "model": "Leaf",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Versa Note",
+      "count": 24,
+      "file": "inventory/used-nissan-versa-note.json",
+      "models": [
+        {
+          "model": "Versa Note",
+          "count": 24
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Micra",
+      "count": 21,
+      "file": "inventory/used-nissan-micra.json",
+      "models": [
+        {
+          "model": "Micra",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Altima",
+      "count": 22,
+      "file": "inventory/used-nissan-altima.json",
+      "models": [
+        {
+          "model": "ALTIMA",
+          "count": 1
+        },
+        {
+          "model": "Altima",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Sentra",
+      "shard": "part1",
+      "count": 27,
+      "file": "inventory/used-nissan-sentra-part1.json",
+      "models": [
+        {
+          "model": "Sentra",
+          "count": 27
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Sentra",
+      "shard": "part2",
+      "count": 27,
+      "file": "inventory/used-nissan-sentra-part2.json",
+      "models": [
+        {
+          "model": "Sentra",
+          "count": 27
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Sentra",
+      "shard": "part3",
+      "count": 27,
+      "file": "inventory/used-nissan-sentra-part3.json",
+      "models": [
+        {
+          "model": "Sentra",
+          "count": 27
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Sentra",
+      "shard": "part4",
+      "count": 25,
+      "file": "inventory/used-nissan-sentra-part4.json",
+      "models": [
+        {
+          "model": "Sentra",
+          "count": 25
         }
       ]
     },
@@ -347,196 +517,12 @@
       "make": "nissan",
       "model": "Pathfinder",
       "shard": "part7",
-      "count": 22,
+      "count": 21,
       "file": "inventory/used-nissan-pathfinder-part7.json",
       "models": [
         {
           "model": "Pathfinder",
-          "count": 22
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Versa",
-      "shard": "Lower Mainland",
-      "count": 26,
-      "file": "inventory/used-nissan-versa-lower-mainland.json",
-      "models": [
-        {
-          "model": "Versa",
-          "count": 26
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Versa",
-      "shard": "Norte/Cariboo",
-      "count": 2,
-      "file": "inventory/used-nissan-versa-norte-cariboo.json",
-      "models": [
-        {
-          "model": "Versa",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Versa",
-      "shard": "Okanagan",
-      "count": 3,
-      "file": "inventory/used-nissan-versa-okanagan.json",
-      "models": [
-        {
-          "model": "Versa",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Versa",
-      "shard": "Vancouver Island",
-      "count": 4,
-      "file": "inventory/used-nissan-versa-vancouver-island.json",
-      "models": [
-        {
-          "model": "Versa",
-          "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Versa",
-      "shard": "sin-region",
-      "count": 7,
-      "file": "inventory/used-nissan-versa-sin-region.json",
-      "models": [
-        {
-          "model": "Versa",
-          "count": 7
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Juke",
-      "count": 9,
-      "file": "inventory/used-nissan-juke.json",
-      "models": [
-        {
-          "model": "JUKE",
-          "count": 1
-        },
-        {
-          "model": "Juke",
-          "count": 8
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "LEAF",
-      "shard": "part1",
-      "count": 31,
-      "file": "inventory/used-nissan-leaf-part1.json",
-      "models": [
-        {
-          "model": "LEAF",
-          "count": 18
-        },
-        {
-          "model": "Leaf",
-          "count": 13
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "LEAF",
-      "shard": "part2",
-      "count": 31,
-      "file": "inventory/used-nissan-leaf-part2.json",
-      "models": [
-        {
-          "model": "LEAF",
-          "count": 8
-        },
-        {
-          "model": "Leaf",
-          "count": 23
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "LEAF",
-      "shard": "part3",
-      "count": 30,
-      "file": "inventory/used-nissan-leaf-part3.json",
-      "models": [
-        {
-          "model": "LEAF",
-          "count": 20
-        },
-        {
-          "model": "Leaf",
-          "count": 10
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Versa Note",
-      "count": 24,
-      "file": "inventory/used-nissan-versa-note.json",
-      "models": [
-        {
-          "model": "Versa Note",
-          "count": 24
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Micra",
-      "count": 22,
-      "file": "inventory/used-nissan-micra.json",
-      "models": [
-        {
-          "model": "Micra",
-          "count": 22
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Altima",
-      "count": 23,
-      "file": "inventory/used-nissan-altima.json",
-      "models": [
-        {
-          "model": "ALTIMA",
-          "count": 1
-        },
-        {
-          "model": "Altima",
-          "count": 22
+          "count": 21
         }
       ]
     },
@@ -587,54 +573,12 @@
       "make": "nissan",
       "model": "Murano",
       "shard": "part4",
-      "count": 28,
+      "count": 27,
       "file": "inventory/used-nissan-murano-part4.json",
       "models": [
         {
           "model": "Murano",
-          "count": 28
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Sentra",
-      "shard": "part1",
-      "count": 31,
-      "file": "inventory/used-nissan-sentra-part1.json",
-      "models": [
-        {
-          "model": "Sentra",
-          "count": 31
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Sentra",
-      "shard": "part2",
-      "count": 31,
-      "file": "inventory/used-nissan-sentra-part2.json",
-      "models": [
-        {
-          "model": "Sentra",
-          "count": 31
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Sentra",
-      "shard": "part3",
-      "count": 31,
-      "file": "inventory/used-nissan-sentra-part3.json",
-      "models": [
-        {
-          "model": "Sentra",
-          "count": 31
+          "count": 27
         }
       ]
     },
@@ -813,6 +757,76 @@
     {
       "condition": "used",
       "make": "nissan",
+      "model": "Versa",
+      "shard": "Lower Mainland",
+      "count": 25,
+      "file": "inventory/used-nissan-versa-lower-mainland.json",
+      "models": [
+        {
+          "model": "Versa",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Versa",
+      "shard": "Norte/Cariboo",
+      "count": 2,
+      "file": "inventory/used-nissan-versa-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Versa",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Versa",
+      "shard": "Okanagan",
+      "count": 3,
+      "file": "inventory/used-nissan-versa-okanagan.json",
+      "models": [
+        {
+          "model": "Versa",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Versa",
+      "shard": "Vancouver Island",
+      "count": 4,
+      "file": "inventory/used-nissan-versa-vancouver-island.json",
+      "models": [
+        {
+          "model": "Versa",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Versa",
+      "shard": "sin-region",
+      "count": 7,
+      "file": "inventory/used-nissan-versa-sin-region.json",
+      "models": [
+        {
+          "model": "Versa",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
       "model": "Sentra SV",
       "count": 2,
       "file": "inventory/used-nissan-sentra-sv.json",
@@ -928,12 +942,12 @@
       "make": "nissan",
       "model": "Ariya",
       "shard": "part2",
-      "count": 28,
+      "count": 27,
       "file": "inventory/used-nissan-ariya-part2.json",
       "models": [
         {
           "model": "ARIYA",
-          "count": 20
+          "count": 19
         },
         {
           "model": "Ariya",
@@ -946,12 +960,12 @@
       "make": "nissan",
       "model": "Frontier",
       "shard": "part1",
-      "count": 23,
+      "count": 24,
       "file": "inventory/used-nissan-frontier-part1.json",
       "models": [
         {
           "model": "Frontier",
-          "count": 23
+          "count": 24
         }
       ]
     },
@@ -1331,6 +1345,19 @@
       "models": [
         {
           "model": "JukeSV (CVT) 4dr Front-Wheel Drive",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Kicks SV - REMOTE START",
+      "count": 1,
+      "file": "inventory/used-nissan-kicks-sv-remote-start.json",
+      "models": [
+        {
+          "model": "Kicks SV - REMOTE START",
           "count": 1
         }
       ]

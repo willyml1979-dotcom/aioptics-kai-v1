@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T21:57:49+00:00",
+  "generated_at": "2026-10-20T20:11:38+00:00",
   "condition": "used",
   "make": "subaru",
   "files": [
@@ -7,12 +7,12 @@
       "condition": "used",
       "make": "subaru",
       "model": "Legacy",
-      "count": 6,
+      "count": 4,
       "file": "inventory/used-subaru-legacy.json",
       "models": [
         {
           "model": "Legacy",
-          "count": 6
+          "count": 4
         }
       ]
     },
@@ -481,48 +481,6 @@
     {
       "condition": "used",
       "make": "subaru",
-      "model": "WRX",
-      "shard": "part1",
-      "count": 28,
-      "file": "inventory/used-subaru-wrx-part1.json",
-      "models": [
-        {
-          "model": "WRX",
-          "count": 28
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "subaru",
-      "model": "WRX",
-      "shard": "part2",
-      "count": 28,
-      "file": "inventory/used-subaru-wrx-part2.json",
-      "models": [
-        {
-          "model": "WRX",
-          "count": 28
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "subaru",
-      "model": "WRX",
-      "shard": "part3",
-      "count": 28,
-      "file": "inventory/used-subaru-wrx-part3.json",
-      "models": [
-        {
-          "model": "WRX",
-          "count": 28
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "subaru",
       "model": "Impreza",
       "shard": "part1",
       "count": 27,
@@ -553,12 +511,12 @@
       "make": "subaru",
       "model": "Impreza",
       "shard": "part3",
-      "count": 27,
+      "count": 26,
       "file": "inventory/used-subaru-impreza-part3.json",
       "models": [
         {
           "model": "Impreza",
-          "count": 27
+          "count": 26
         }
       ]
     },
@@ -572,6 +530,48 @@
         {
           "model": "Solterra",
           "count": 21
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "WRX",
+      "shard": "part1",
+      "count": 28,
+      "file": "inventory/used-subaru-wrx-part1.json",
+      "models": [
+        {
+          "model": "WRX",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "WRX",
+      "shard": "part2",
+      "count": 28,
+      "file": "inventory/used-subaru-wrx-part2.json",
+      "models": [
+        {
+          "model": "WRX",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "WRX",
+      "shard": "part3",
+      "count": 26,
+      "file": "inventory/used-subaru-wrx-part3.json",
+      "models": [
+        {
+          "model": "WRX",
+          "count": 26
         }
       ]
     },
@@ -1028,12 +1028,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "part26",
-      "count": 17,
+      "count": 22,
       "file": "inventory/used-subaru-forester-part26.json",
       "models": [
         {
           "model": "Forester",
-          "count": 17
+          "count": 22
         }
       ]
     },
@@ -1080,12 +1080,12 @@
       "condition": "used",
       "make": "subaru",
       "model": "BRZ",
-      "count": 9,
+      "count": 7,
       "file": "inventory/used-subaru-brz.json",
       "models": [
         {
           "model": "BRZ",
-          "count": 9
+          "count": 7
         }
       ]
     },
@@ -1157,6 +1157,49 @@
     {
       "condition": "used",
       "make": "subaru",
+      "model": "Impreza TOURING",
+      "count": 1,
+      "file": "inventory/used-subaru-impreza-touring.json",
+      "models": [
+        {
+          "model": "Impreza TOURING",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Crosstrek ONYX",
+      "count": 2,
+      "file": "inventory/used-subaru-crosstrek-onyx.json",
+      "models": [
+        {
+          "model": "Crosstrek ONYX",
+          "count": 1
+        },
+        {
+          "model": "Crosstrek Onyx",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "WRX RS",
+      "count": 1,
+      "file": "inventory/used-subaru-wrx-rs.json",
+      "models": [
+        {
+          "model": "WRX RS",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
       "model": "ForesterLimited 4dr All-Wheel Drive",
       "count": 1,
       "file": "inventory/used-subaru-foresterlimited-4dr-all-wheel-drive.json",
@@ -1209,19 +1252,6 @@
     {
       "condition": "used",
       "make": "subaru",
-      "model": "Crosstrek Onyx",
-      "count": 1,
-      "file": "inventory/used-subaru-crosstrek-onyx.json",
-      "models": [
-        {
-          "model": "Crosstrek Onyx",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "subaru",
       "model": "Crosstrek Limited",
       "count": 1,
       "file": "inventory/used-subaru-crosstrek-limited.json",
@@ -1241,6 +1271,19 @@
       "models": [
         {
           "model": "WRX Sport CVT",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Outback 2.5i PZEV",
+      "count": 1,
+      "file": "inventory/used-subaru-outback-2-5i-pzev.json",
+      "models": [
+        {
+          "model": "Outback 2.5i PZEV",
           "count": 1
         }
       ]

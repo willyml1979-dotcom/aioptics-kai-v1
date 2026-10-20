@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T21:57:49+00:00",
+  "generated_at": "2026-10-20T20:11:38+00:00",
   "condition": "used",
   "make": "mercedes-benz",
   "files": [
@@ -436,12 +436,12 @@
       "make": "mercedes-benz",
       "model": "GLC300",
       "shard": "part15",
-      "count": 23,
+      "count": 24,
       "file": "inventory/used-mercedes-benz-glc300-part15.json",
       "models": [
         {
           "model": "GLC300",
-          "count": 23
+          "count": 24
         }
       ]
     },
@@ -449,12 +449,27 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "CLA",
-      "count": 30,
-      "file": "inventory/used-mercedes-benz-cla.json",
+      "shard": "Lower Mainland",
+      "count": 25,
+      "file": "inventory/used-mercedes-benz-cla-lower-mainland.json",
       "models": [
         {
           "model": "CLA",
-          "count": 30
+          "count": 25
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "CLA",
+      "shard": "sin-region",
+      "count": 6,
+      "file": "inventory/used-mercedes-benz-cla-sin-region.json",
+      "models": [
+        {
+          "model": "CLA",
+          "count": 6
         }
       ]
     },
@@ -668,12 +683,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLC",
-      "count": 21,
+      "count": 22,
       "file": "inventory/used-mercedes-benz-glc.json",
       "models": [
         {
           "model": "GLC",
-          "count": 21
+          "count": 22
         }
       ]
     },
@@ -737,12 +752,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLE",
-      "count": 15,
+      "count": 14,
       "file": "inventory/used-mercedes-benz-gle.json",
       "models": [
         {
           "model": "GLE",
-          "count": 15
+          "count": 14
         }
       ]
     },
@@ -1455,12 +1470,12 @@
       "make": "mercedes-benz",
       "model": "EQB300",
       "shard": "part3",
-      "count": 27,
+      "count": 28,
       "file": "inventory/used-mercedes-benz-eqb300-part3.json",
       "models": [
         {
           "model": "EQB300",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -1719,12 +1734,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLS63",
-      "count": 13,
+      "count": 14,
       "file": "inventory/used-mercedes-benz-gls63.json",
       "models": [
         {
           "model": "GLS63",
-          "count": 13
+          "count": 14
         }
       ]
     },
@@ -1891,12 +1906,12 @@
       "make": "mercedes-benz",
       "model": "CLA250 4MATIC",
       "shard": "part1",
-      "count": 24,
+      "count": 25,
       "file": "inventory/used-mercedes-benz-cla250-4matic-part1.json",
       "models": [
         {
           "model": "CLA250 4MATIC",
-          "count": 24
+          "count": 25
         }
       ]
     },
@@ -1918,12 +1933,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "EQB300 4MATIC",
-      "count": 28,
+      "count": 27,
       "file": "inventory/used-mercedes-benz-eqb300-4matic.json",
       "models": [
         {
           "model": "EQB300 4MATIC",
-          "count": 28
+          "count": 27
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T21:57:49+00:00",
+  "generated_at": "2026-10-20T20:11:38+00:00",
   "condition": "used",
   "make": "audi",
   "files": [
@@ -78,12 +78,12 @@
       "make": "audi",
       "model": "Q3",
       "shard": "part3",
-      "count": 26,
+      "count": 27,
       "file": "inventory/used-audi-q3-part3.json",
       "models": [
         {
           "model": "Q3",
-          "count": 26
+          "count": 27
         }
       ]
     },
@@ -248,6 +248,19 @@
     {
       "condition": "used",
       "make": "audi",
+      "model": "S6",
+      "count": 20,
+      "file": "inventory/used-audi-s6.json",
+      "models": [
+        {
+          "model": "S6",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "audi",
       "model": "Q8",
       "count": 31,
       "file": "inventory/used-audi-q8.json",
@@ -314,25 +327,12 @@
       "condition": "used",
       "make": "audi",
       "model": "e-tron",
-      "count": 3,
+      "count": 2,
       "file": "inventory/used-audi-e-tron.json",
       "models": [
         {
           "model": "e-tron",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "audi",
-      "model": "S6",
-      "count": 17,
-      "file": "inventory/used-audi-s6.json",
-      "models": [
-        {
-          "model": "S6",
-          "count": 17
+          "count": 2
         }
       ]
     },
@@ -574,12 +574,12 @@
       "condition": "used",
       "make": "audi",
       "model": "Q7 3.0T Technik quattro 8sp Tiptronic",
-      "count": 13,
+      "count": 14,
       "file": "inventory/used-audi-q7-3-0t-technik-quattro-8sp-tiptronic.json",
       "models": [
         {
           "model": "Q7 3.0T Technik quattro 8sp Tiptronic",
-          "count": 13
+          "count": 14
         }
       ]
     },

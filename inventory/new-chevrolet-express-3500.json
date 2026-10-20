@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-19T21:57:49+00:00",
-  "snapshot": "2026-10-19T21:57:49+00:00",
+  "generated_at": "2026-10-20T20:11:38+00:00",
+  "snapshot": "2026-10-20T20:11:38+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "carter-gm-burnaby-1gczggf73s1214638",
@@ -61,34 +61,6 @@
       "city": "Burnaby",
       "province": "BC",
       "dealer_name": "Carter GM Burnaby"
-    },
-    {
-      "pub_id": "kelowna-chevrolet-1gczghf74s1268200",
-      "year": 2025,
-      "make": "Chevrolet",
-      "model": "Express 3500",
-      "body_type": "van",
-      "propulsion": "gas",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
-      "condition": "new",
-      "odometer_km": 17,
-      "price_cad": 58071.0,
-      "price_note": null,
-      "color": "Black",
-      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/8f1dcc50-bf0c-400d-9682-9b30cb0a5a80_20b84f4f-9360-4e3f-b2f8-ad1e80951a27.jpg",
-      "dealer_id": "kelowna-chevrolet",
-      "vin": "1GCZGHF74S1268200",
-      "stock": "5EX8200",
-      "listing_url": "https://www.kelownachev.com/vehicles/2025/chevrolet/express-3500/kelowna/bc/67988639/?sale_class=new",
-      "dealer_url": "https://www.kelownachev.com/vehicles/2025/chevrolet/express-3500/kelowna/bc/67988639/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T06:43:20",
-      "snapshot": "2026-10-19T06:27:09",
-      "go_url": "https://carwhisper.ca/go/kelowna-chevrolet-1gczghf74s1268200",
-      "region": "Okanagan",
-      "city": "Kelowna",
-      "province": "BC",
-      "dealer_name": "Kelowna Chevrolet"
     }
   ]
 }

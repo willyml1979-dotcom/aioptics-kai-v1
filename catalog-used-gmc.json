@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T21:57:49+00:00",
+  "generated_at": "2026-10-20T20:11:38+00:00",
   "condition": "used",
   "make": "gmc",
   "files": [
@@ -473,7 +473,7 @@
       "make": "gmc",
       "model": "Sierra 3500HD",
       "shard": "Okanagan",
-      "count": 23,
+      "count": 24,
       "file": "inventory/used-gmc-sierra-3500hd-okanagan.json",
       "models": [
         {
@@ -482,7 +482,7 @@
         },
         {
           "model": "Sierra 3500HD",
-          "count": 22
+          "count": 23
         }
       ]
     },
@@ -1005,19 +1005,6 @@
       "models": [
         {
           "model": "Sonoma",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "gmc",
-      "model": "Sierra 1500 Elevation",
-      "count": 1,
-      "file": "inventory/used-gmc-sierra-1500-elevation.json",
-      "models": [
-        {
-          "model": "Sierra 1500 Elevation",
           "count": 1
         }
       ]
