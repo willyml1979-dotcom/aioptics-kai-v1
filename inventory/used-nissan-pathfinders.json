@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-20T20:11:38+00:00",
-  "snapshot": "2026-10-20T20:11:38+00:00",
+  "generated_at": "2026-10-21T02:11:39+00:00",
+  "snapshot": "2026-10-21T02:11:39+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "applewood-kia-langley-5n1ar2mm5ec607953",
@@ -27,6 +27,30 @@
       "city": "Langley",
       "province": "BC",
       "dealer_name": "Applewood Kia - Langley"
+    },
+    {
+      "pub_id": "rivershore-chrysler-dodge-jeep-ram-5n1dr3ac8rc267640",
+      "year": 2024,
+      "make": "Nissan",
+      "model": "PathfinderS",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "Black",
+      "dealer_id": "rivershore-chrysler-dodge-jeep-ram",
+      "vin": "5N1DR3AC8RC267640",
+      "stock": "AN7311",
+      "listing_url": "https://www.rivershoreram.ca/inventory/2024-nissan-pathfinder-s-AFsDdRSMQQSExgO1JPLgsAvdp",
+      "dealer_url": "https://www.rivershoreram.ca/inventory/2024-nissan-pathfinder-s-AFsDdRSMQQSExgO1JPLgsAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T15:15:32",
+      "snapshot": "2026-10-20T15:19:00",
+      "go_url": "https://carwhisper.ca/go/rivershore-chrysler-dodge-jeep-ram-5n1dr3ac8rc267640",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Rivershore Chrysler Dodge Jeep Ram"
     }
   ]
 }

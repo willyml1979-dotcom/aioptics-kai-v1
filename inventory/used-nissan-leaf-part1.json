@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-20T20:11:38+00:00",
-  "snapshot": "2026-10-20T20:11:38+00:00",
+  "generated_at": "2026-10-21T02:11:39+00:00",
+  "snapshot": "2026-10-21T02:11:39+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 31,
+  "count": 30,
   "vehicles": [
     {
       "pub_id": "morrey-nissan-infiniti-of-burnaby-1n4az0cp3fc309154",
@@ -864,36 +864,6 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Burrard Acura"
-    },
-    {
-      "pub_id": "bannister-nissan-chilliwack-1n4az1cp9kc314049",
-      "year": 2019,
-      "make": "Nissan",
-      "model": "LEAF",
-      "trim": "SV Hatchback Hatchback",
-      "body_type": "hatchback",
-      "drivetrain": "FWD",
-      "propulsion": "electric",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
-      "condition": "used",
-      "odometer_km": 84623,
-      "price_cad": 19999.0,
-      "price_note": null,
-      "color": "Black",
-      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,op_mc,ow_100,v1/adjustment/V6RE7A52INBM7FKGWXUW6T6XWE%3Btrim/BO3C67R7ABHPHKEHD5LGX6JECQ.webp",
-      "dealer_id": "bannister-nissan-chilliwack",
-      "vin": "1N4AZ1CP9KC314049",
-      "stock": "N262-6072A",
-      "listing_url": "https://www.bannisternissan.ca/inventory/2019-nissan-leaf-sv-mSchp9vgQQaMrXc8oLqvvgvdp",
-      "dealer_url": "https://www.bannisternissan.ca/inventory/2019-nissan-leaf-sv-mSchp9vgQQaMrXc8oLqvvgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T21:43:46",
-      "snapshot": "2026-10-13T21:55:07",
-      "go_url": "https://carwhisper.ca/go/bannister-nissan-chilliwack-1n4az1cp9kc314049",
-      "region": "Lower Mainland",
-      "city": "Chilliwack",
-      "province": "BC",
-      "dealer_name": "Bannister Nissan Chilliwack"
     }
   ]
 }

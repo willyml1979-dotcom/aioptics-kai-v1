@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T20:11:38+00:00",
+  "generated_at": "2026-10-21T02:11:39+00:00",
   "condition": "used",
   "make": "bmw",
   "files": [
@@ -21,12 +21,12 @@
       "make": "bmw",
       "model": "3 Series",
       "shard": "Lower Mainland",
-      "count": 24,
+      "count": 25,
       "file": "inventory/used-bmw-3-series-lower-mainland.json",
       "models": [
         {
           "model": "3 Series",
-          "count": 24
+          "count": 25
         }
       ]
     },
@@ -105,12 +105,12 @@
       "make": "bmw",
       "model": "X3",
       "shard": "part4",
-      "count": 24,
+      "count": 25,
       "file": "inventory/used-bmw-x3-part4.json",
       "models": [
         {
           "model": "X3",
-          "count": 24
+          "count": 25
         }
       ]
     },
@@ -118,12 +118,12 @@
       "condition": "used",
       "make": "bmw",
       "model": "1 Series",
-      "count": 5,
+      "count": 6,
       "file": "inventory/used-bmw-1-series.json",
       "models": [
         {
           "model": "1 Series",
-          "count": 5
+          "count": 6
         }
       ]
     },
@@ -252,12 +252,12 @@
       "condition": "used",
       "make": "bmw",
       "model": "X6",
-      "count": 24,
+      "count": 23,
       "file": "inventory/used-bmw-x6.json",
       "models": [
         {
           "model": "X6",
-          "count": 24
+          "count": 23
         }
       ]
     },
@@ -266,12 +266,12 @@
       "make": "bmw",
       "model": "X5",
       "shard": "part1",
-      "count": 32,
+      "count": 25,
       "file": "inventory/used-bmw-x5-part1.json",
       "models": [
         {
           "model": "X5",
-          "count": 32
+          "count": 25
         }
       ]
     },
@@ -280,12 +280,12 @@
       "make": "bmw",
       "model": "X5",
       "shard": "part2",
-      "count": 32,
+      "count": 25,
       "file": "inventory/used-bmw-x5-part2.json",
       "models": [
         {
           "model": "X5",
-          "count": 32
+          "count": 25
         }
       ]
     },
@@ -294,12 +294,26 @@
       "make": "bmw",
       "model": "X5",
       "shard": "part3",
-      "count": 32,
+      "count": 25,
       "file": "inventory/used-bmw-x5-part3.json",
       "models": [
         {
           "model": "X5",
-          "count": 32
+          "count": 25
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "bmw",
+      "model": "X5",
+      "shard": "part4",
+      "count": 23,
+      "file": "inventory/used-bmw-x5-part4.json",
+      "models": [
+        {
+          "model": "X5",
+          "count": 23
         }
       ]
     },
@@ -929,6 +943,19 @@
       "models": [
         {
           "model": "X1 xDrive28i",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "bmw",
+      "model": "650i",
+      "count": 1,
+      "file": "inventory/used-bmw-650i.json",
+      "models": [
+        {
+          "model": "650i",
           "count": 1
         }
       ]

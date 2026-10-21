@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T20:11:38+00:00",
-  "snapshot": "2026-10-20T20:11:38+00:00",
+  "generated_at": "2026-10-21T02:11:39+00:00",
+  "snapshot": "2026-10-21T02:11:39+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 31,
   "vehicles": [
@@ -55,30 +55,6 @@
       "city": "Surrey",
       "province": "BC",
       "dealer_name": "Jim Pattison Chrysler Jeep Dodge - Surrey"
-    },
-    {
-      "pub_id": "the-honda-way-abbotsford-1c6srflp7tn206909",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "propulsion": "unknown",
-      "propulsion_source": null,
-      "condition": "new",
-      "price_cad": 68992.0,
-      "price_note": null,
-      "color": "Grey",
-      "dealer_id": "the-honda-way-abbotsford",
-      "vin": "1C6SRFLP7TN206909",
-      "stock": 13904092,
-      "listing_url": "https://www.hondaway.com/used/2026-RAM-1500.html",
-      "dealer_url": "https://www.hondaway.com/used/2026-RAM-1500.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T09:41:55",
-      "snapshot": "2026-10-19T12:45:44",
-      "go_url": "https://carwhisper.ca/go/the-honda-way-abbotsford-1c6srflp7tn206909",
-      "region": "Lower Mainland",
-      "city": "Abbotsford",
-      "province": "BC",
-      "dealer_name": "The Honda Way - Abbotsford"
     },
     {
       "pub_id": "jim-pattison-chrysler-jeep-dodge-surrey-1c6srfgp6tn441523",
@@ -805,6 +781,36 @@
       "city": "Surrey",
       "province": "BC",
       "dealer_name": "Jim Pattison Chrysler Jeep Dodge - Surrey"
+    },
+    {
+      "pub_id": "langley-chrysler-1c6srftp8tn371125",
+      "year": 2026,
+      "make": "Ram",
+      "model": "1500",
+      "trim": "Sport 4x4 Crew Cab 6'4\" Box",
+      "body_type": "truck",
+      "drivetrain": "4WD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 12,
+      "price_cad": 79225.0,
+      "price_note": null,
+      "color": "Gray",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/inventory/5YTDGVLQY5BTZOEOQ5JRYWUMRM.webp",
+      "dealer_id": "langley-chrysler",
+      "vin": "1C6SRFTP8TN371125",
+      "stock": "T371125",
+      "listing_url": "https://www.langleychrysler.com/inventory/2026-ram-1500-sport-0OKC2ChVSKOwXKeQUHLuKAvdp",
+      "dealer_url": "https://www.langleychrysler.com/inventory/2026-ram-1500-sport-0OKC2ChVSKOwXKeQUHLuKAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T11:58:43",
+      "snapshot": "2026-10-15T12:00:00",
+      "go_url": "https://carwhisper.ca/go/langley-chrysler-1c6srftp8tn371125",
+      "region": "Lower Mainland",
+      "city": "Surrey",
+      "province": "BC",
+      "dealer_name": "Langley Chrysler"
     }
   ]
 }

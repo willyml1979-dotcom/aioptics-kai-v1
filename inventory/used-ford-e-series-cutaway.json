@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-20T20:11:38+00:00",
-  "snapshot": "2026-10-20T20:11:38+00:00",
+  "generated_at": "2026-10-21T02:11:39+00:00",
+  "snapshot": "2026-10-21T02:11:39+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "bannister-ford-ltd-1fdxe4fn7rdd19178",
@@ -26,7 +26,7 @@
       "listing_url": "https://www.bannisterford.com/inventory/2024-ford-e-series-cutaway-sgr5sFMeQJuU1fXjLHu6jgvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2024-ford-e-series-cutaway-sgr5sFMeQJuU1fXjLHu6jgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-13T18:21:27",
-      "snapshot": "2026-10-18T21:09:27",
+      "snapshot": "2026-10-20T13:35:41",
       "go_url": "https://carwhisper.ca/go/bannister-ford-ltd-1fdxe4fn7rdd19178",
       "region": "Norte/Cariboo",
       "city": "Dawson Creek",
@@ -60,32 +60,6 @@
       "city": "Golden",
       "province": "BC",
       "dealer_name": "Kicking Horse Ford Sales Ltd."
-    },
-    {
-      "pub_id": "country-hills-nissan-1fdxe4fn4rdd30302",
-      "year": 2024,
-      "make": "Ford",
-      "model": "E-Series Cutaway",
-      "propulsion": "gas",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
-      "condition": "used",
-      "odometer_km": 79442,
-      "price_cad": 49695.0,
-      "price_note": null,
-      "color": "White",
-      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/177b6fa7-91bd-4ab5-b159-0d77926cd922_3ea91761-68ff-4b99-822c-51a553471bb2.jpg",
-      "dealer_id": "country-hills-nissan",
-      "vin": "1FDXE4FN4RDD30302",
-      "stock": "SGE0302",
-      "listing_url": "https://www.chnissan.com/vehicles/2024/ford/e-series-cutaway/calgary/ab/71239319/?sale_class=used",
-      "dealer_url": "https://www.chnissan.com/vehicles/2024/ford/e-series-cutaway/calgary/ab/71239319/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T15:16:06",
-      "snapshot": "2026-10-19T10:13:39",
-      "go_url": "https://carwhisper.ca/go/country-hills-nissan-1fdxe4fn4rdd30302",
-      "city": null,
-      "province": "AB",
-      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

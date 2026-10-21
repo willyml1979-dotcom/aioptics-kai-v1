@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-20T20:11:38+00:00",
-  "snapshot": "2026-10-20T20:11:38+00:00",
+  "generated_at": "2026-10-21T02:11:39+00:00",
+  "snapshot": "2026-10-21T02:11:39+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 7,
+  "count": 8,
   "vehicles": [
     {
       "pub_id": "eagle-ridge-chevrolet-buick-gmc-ltd-3mydlbyv0gy100752",
@@ -26,7 +26,7 @@
       "listing_url": "https://www.eagleridgegm.com/inventory/2016-toyota-yaris-4dr-sdn-man-z2soEInhToKs21ki68mIEAvdp",
       "dealer_url": "https://www.eagleridgegm.com/inventory/2016-toyota-yaris-4dr-sdn-man-z2soEInhToKs21ki68mIEAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T19:25:07",
-      "snapshot": "2026-10-18T21:41:44",
+      "snapshot": "2026-10-20T14:26:42",
       "go_url": "https://carwhisper.ca/go/eagle-ridge-chevrolet-buick-gmc-ltd-3mydlbyv0gy100752",
       "region": "Lower Mainland",
       "city": "Coquitlam",
@@ -159,7 +159,7 @@
       "listing_url": "https://www.duncanhyundai.net/used/2008-Toyota-Yaris.html",
       "dealer_url": "https://www.duncanhyundai.net/used/2008-Toyota-Yaris.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-11T01:16:37",
-      "snapshot": "2026-10-19T11:07:12",
+      "snapshot": "2026-10-20T17:06:41",
       "go_url": "https://carwhisper.ca/go/duncan-hyundai-jtdbt923081200636",
       "region": "Vancouver Island",
       "city": "Duncan",
@@ -193,6 +193,29 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Pacific Mazda"
+    },
+    {
+      "pub_id": "three-point-motors-vnkktud39fa035254",
+      "year": 2015,
+      "make": "Toyota",
+      "model": "Yaris",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 15900.0,
+      "price_note": null,
+      "dealer_id": "three-point-motors",
+      "vin": "VNKKTUD39FA035254",
+      "stock": 14540838,
+      "listing_url": "https://www.mercedes-benz-threepointmotors.ca/used/2015-Toyota-Yaris.html",
+      "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/used/2015-Toyota-Yaris.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T18:15:45",
+      "snapshot": "2026-10-20T18:18:35",
+      "go_url": "https://carwhisper.ca/go/three-point-motors-vnkktud39fa035254",
+      "region": "Vancouver Island",
+      "city": "Victoria",
+      "province": "BC",
+      "dealer_name": "Three Point Motors"
     }
   ]
 }

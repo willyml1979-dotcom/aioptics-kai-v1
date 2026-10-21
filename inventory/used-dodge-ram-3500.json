@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-20T20:11:38+00:00",
-  "snapshot": "2026-10-20T20:11:38+00:00",
+  "generated_at": "2026-10-21T02:11:39+00:00",
+  "snapshot": "2026-10-21T02:11:39+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "chilliwack-mitsubishi-3d73y3cl5ag145261",
@@ -56,6 +56,36 @@
       "city": "Surrey",
       "province": "BC",
       "dealer_name": "Langley Hyundai"
+    },
+    {
+      "pub_id": "rivershore-chrysler-dodge-jeep-ram-3d7mx38c87g726892",
+      "year": 2007,
+      "make": "Dodge",
+      "model": "Ram 3500",
+      "trim": "4WD Quad Cab 6.3 Ft Box SRW SLT",
+      "body_type": "truck",
+      "drivetrain": "4WD",
+      "propulsion": "diesel",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 306273,
+      "price_cad": 21995.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://ddztmb1ahc6o7.cloudfront.net/rivershoreram/wp-content/uploads/2026/04/27183148/1-15.jpg",
+      "dealer_id": "rivershore-chrysler-dodge-jeep-ram",
+      "vin": "3D7MX38C87G726892",
+      "stock": "TR37055B",
+      "listing_url": "https://www.rivershoreram.ca/inventory/2007-dodge-ram-3500-slt-b9VyHhcAQvmmaYGlnGe9mQvdp",
+      "dealer_url": "https://www.rivershoreram.ca/inventory/2007-dodge-ram-3500-slt-b9VyHhcAQvmmaYGlnGe9mQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T15:11:38",
+      "snapshot": "2026-10-20T15:19:00",
+      "go_url": "https://carwhisper.ca/go/rivershore-chrysler-dodge-jeep-ram-3d7mx38c87g726892",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Rivershore Chrysler Dodge Jeep Ram"
     }
   ]
 }

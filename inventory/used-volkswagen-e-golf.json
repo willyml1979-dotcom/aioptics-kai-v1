@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-20T20:11:38+00:00",
-  "snapshot": "2026-10-20T20:11:38+00:00",
+  "generated_at": "2026-10-21T02:11:39+00:00",
+  "snapshot": "2026-10-21T02:11:39+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "preston-chevrolet-buick-gmc-cadillac-ltd-wvwpr7au0kw911038",
@@ -32,6 +32,30 @@
       "city": "Langley",
       "province": "BC",
       "dealer_name": "Preston Chevrolet Buick GMC Cadillac Ltd."
+    },
+    {
+      "pub_id": "duncan-hyundai-wvwpp7au4gw913971",
+      "year": 2016,
+      "make": "Volkswagen",
+      "model": "e-Golf",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 16800.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "duncan-hyundai",
+      "vin": "WVWPP7AU4GW913971",
+      "stock": 14543727,
+      "listing_url": "https://www.duncanhyundai.net/used/2016-Volkswagen-E_Golf.html",
+      "dealer_url": "https://www.duncanhyundai.net/used/2016-Volkswagen-E_Golf.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T17:02:04",
+      "snapshot": "2026-10-20T17:06:41",
+      "go_url": "https://carwhisper.ca/go/duncan-hyundai-wvwpp7au4gw913971",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Hyundai"
     }
   ]
 }

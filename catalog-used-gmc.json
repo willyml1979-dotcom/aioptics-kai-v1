@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T20:11:38+00:00",
+  "generated_at": "2026-10-21T02:11:39+00:00",
   "condition": "used",
   "make": "gmc",
   "files": [
@@ -58,12 +58,12 @@
       "make": "gmc",
       "model": "TERRAIN",
       "shard": "part4",
-      "count": 29,
+      "count": 27,
       "file": "inventory/used-gmc-terrain-part4.json",
       "models": [
         {
           "model": "Terrain",
-          "count": 29
+          "count": 27
         }
       ]
     },
@@ -243,12 +243,12 @@
       "make": "gmc",
       "model": "Sierra 1500",
       "shard": "part12",
-      "count": 23,
+      "count": 25,
       "file": "inventory/used-gmc-sierra-1500-part12.json",
       "models": [
         {
           "model": "Sierra 1500",
-          "count": 23
+          "count": 25
         }
       ]
     },
@@ -270,12 +270,12 @@
       "make": "gmc",
       "model": "Yukon",
       "shard": "Lower Mainland",
-      "count": 22,
+      "count": 23,
       "file": "inventory/used-gmc-yukon-lower-mainland.json",
       "models": [
         {
           "model": "Yukon",
-          "count": 22
+          "count": 23
         }
       ]
     },
@@ -445,12 +445,12 @@
       "make": "gmc",
       "model": "Sierra 3500HD",
       "shard": "Lower Mainland",
-      "count": 29,
+      "count": 30,
       "file": "inventory/used-gmc-sierra-3500hd-lower-mainland.json",
       "models": [
         {
           "model": "Sierra 3500HD",
-          "count": 29
+          "count": 30
         }
       ]
     },
@@ -491,12 +491,12 @@
       "make": "gmc",
       "model": "Sierra 3500HD",
       "shard": "Thompson-Okanagan",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-gmc-sierra-3500hd-thompson-okanagan.json",
       "models": [
         {
           "model": "Sierra 3500HD",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -610,12 +610,12 @@
       "condition": "used",
       "make": "gmc",
       "model": "Sierra 2500HD",
-      "count": 18,
+      "count": 15,
       "file": "inventory/used-gmc-sierra-2500hd.json",
       "models": [
         {
           "model": "Sierra 2500HD",
-          "count": 18
+          "count": 15
         }
       ]
     },
@@ -753,12 +753,12 @@
       "condition": "used",
       "make": "gmc",
       "model": "Sierra 1500Denali",
-      "count": 5,
+      "count": 4,
       "file": "inventory/used-gmc-sierra-1500denali.json",
       "models": [
         {
           "model": "Sierra 1500Denali",
-          "count": 5
+          "count": 4
         }
       ]
     },
@@ -804,26 +804,13 @@
     {
       "condition": "used",
       "make": "gmc",
-      "model": "Sierra 2500HDSLT",
-      "count": 1,
-      "file": "inventory/used-gmc-sierra-2500hdslt.json",
-      "models": [
-        {
-          "model": "Sierra 2500HDSLT",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "gmc",
       "model": "YukonDenali",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-gmc-yukondenali.json",
       "models": [
         {
           "model": "YukonDenali",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -1057,19 +1044,6 @@
       "models": [
         {
           "model": "Sierra 1500Elevation",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "gmc",
-      "model": "Savana 3500",
-      "count": 1,
-      "file": "inventory/used-gmc-savana-3500.json",
-      "models": [
-        {
-          "model": "Savana 3500",
           "count": 1
         }
       ]
@@ -1486,6 +1460,19 @@
       "models": [
         {
           "model": "Sierra 3500HDSLE 4x4 Crew Cab 6.75 ft. box SRW",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "gmc",
+      "model": "Sierra 3500HDSLE 4x4 Double Cab 8 ft. box SRW",
+      "count": 1,
+      "file": "inventory/used-gmc-sierra-3500hdsle-4x4-double-cab-8-ft-box-srw.json",
+      "models": [
+        {
+          "model": "Sierra 3500HDSLE 4x4 Double Cab 8 ft. box SRW",
           "count": 1
         }
       ]

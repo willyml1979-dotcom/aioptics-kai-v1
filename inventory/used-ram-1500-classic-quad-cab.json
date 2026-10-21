@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-20T20:11:38+00:00",
-  "snapshot": "2026-10-20T20:11:38+00:00",
+  "generated_at": "2026-10-21T02:11:39+00:00",
+  "snapshot": "2026-10-21T02:11:39+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 8,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "marine-chrysler-dodge-jeep-ltd-1c6rr7fgxms527507",
@@ -197,35 +197,6 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Kelowna Chevrolet"
-    },
-    {
-      "pub_id": "campus-nissan-1c6rr7ft7ns244836",
-      "year": 2022,
-      "make": "RAM",
-      "model": "1500 Classic Quad Cab",
-      "body_type": "truck",
-      "drivetrain": "4WD",
-      "propulsion": "gas",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
-      "condition": "used",
-      "odometer_km": 30613,
-      "price_cad": 32893.0,
-      "price_note": null,
-      "color": "Black",
-      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/a674bef8-aa55-4ed0-9ae0-1653c0b2a3a5_47953d70-f8d8-4193-a876-ae0f3bc18549.jpg",
-      "dealer_id": "campus-nissan",
-      "vin": "1C6RR7FT7NS244836",
-      "stock": "6-K225A",
-      "listing_url": "https://www.campusnissan.com/vehicles/2022/ram/1500-classic-quad-cab/victoria/bc/70664778/?sale_class=used",
-      "dealer_url": "https://www.campusnissan.com/vehicles/2022/ram/1500-classic-quad-cab/victoria/bc/70664778/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T10:53:25",
-      "snapshot": "2026-10-19T10:56:01",
-      "go_url": "https://carwhisper.ca/go/campus-nissan-1c6rr7ft7ns244836",
-      "region": "Vancouver Island",
-      "city": "Victoria",
-      "province": "BC",
-      "dealer_name": "Campus Nissan"
     }
   ]
 }

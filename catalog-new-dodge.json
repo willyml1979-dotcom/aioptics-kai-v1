@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-10-20T20:11:38+00:00",
+  "generated_at": "2026-10-21T02:11:39+00:00",
   "condition": "new",
   "make": "dodge",
   "files": [
     {
       "condition": "new",
       "make": "dodge",
-      "model": "Durango",
+      "model": "DURANGO",
       "shard": "part1",
       "count": 28,
       "file": "inventory/new-dodge-durango-part1.json",
       "models": [
         {
           "model": "DURANGO",
-          "count": 3
+          "count": 4
         },
         {
           "model": "Durango",
-          "count": 25
+          "count": 24
         }
       ]
     },
     {
       "condition": "new",
       "make": "dodge",
-      "model": "Durango",
+      "model": "DURANGO",
       "shard": "part2",
       "count": 28,
       "file": "inventory/new-dodge-durango-part2.json",
@@ -42,7 +42,7 @@
     {
       "condition": "new",
       "make": "dodge",
-      "model": "Durango",
+      "model": "DURANGO",
       "shard": "part3",
       "count": 28,
       "file": "inventory/new-dodge-durango-part3.json",
@@ -56,7 +56,7 @@
     {
       "condition": "new",
       "make": "dodge",
-      "model": "Durango",
+      "model": "DURANGO",
       "shard": "part4",
       "count": 28,
       "file": "inventory/new-dodge-durango-part4.json",
@@ -70,7 +70,7 @@
     {
       "condition": "new",
       "make": "dodge",
-      "model": "Durango",
+      "model": "DURANGO",
       "shard": "part5",
       "count": 28,
       "file": "inventory/new-dodge-durango-part5.json",
@@ -84,14 +84,14 @@
     {
       "condition": "new",
       "make": "dodge",
-      "model": "Durango",
+      "model": "DURANGO",
       "shard": "part6",
-      "count": 24,
+      "count": 25,
       "file": "inventory/new-dodge-durango-part6.json",
       "models": [
         {
           "model": "Durango",
-          "count": 24
+          "count": 25
         }
       ]
     },

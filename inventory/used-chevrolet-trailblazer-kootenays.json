@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-20T20:11:38+00:00",
-  "snapshot": "2026-10-20T20:11:38+00:00",
+  "generated_at": "2026-10-21T02:11:39+00:00",
+  "snapshot": "2026-10-21T02:11:39+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "integrity-subaru-kl79mrsl1tb008198",
@@ -31,6 +31,34 @@
       "city": "Trail",
       "province": "BC",
       "dealer_name": "Integrity Subaru"
+    },
+    {
+      "pub_id": "denham-ford-bc-ltd-kl79mrsl6tb122326",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Trailblazer",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 20505,
+      "price_cad": 31995.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "denham-ford-bc-ltd",
+      "vin": "KL79MRSL6TB122326",
+      "stock": "P3223",
+      "listing_url": "https://www.denhamfordbc.com/inventory/Used-2026-Chevrolet-Trailblazer/1630010",
+      "dealer_url": "https://www.denhamfordbc.com/inventory/Used-2026-Chevrolet-Trailblazer/1630010?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T14:17:33",
+      "snapshot": "2026-10-20T14:19:35",
+      "go_url": "https://carwhisper.ca/go/denham-ford-bc-ltd-kl79mrsl6tb122326",
+      "region": "Kootenays",
+      "city": "Cranbrook",
+      "province": "BC",
+      "dealer_name": "Denham Ford (BC) Ltd."
     },
     {
       "pub_id": "champion-chevrolet-kl79mrsl5tb122463",

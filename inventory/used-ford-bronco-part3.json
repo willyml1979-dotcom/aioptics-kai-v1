@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T20:11:38+00:00",
-  "snapshot": "2026-10-20T20:11:38+00:00",
+  "generated_at": "2026-10-21T02:11:39+00:00",
+  "snapshot": "2026-10-21T02:11:39+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 32,
   "vehicles": [
@@ -806,30 +806,6 @@
       "dealer_name": "Burrard Acura"
     },
     {
-      "pub_id": "chilliwack-volkswagen-1fmee5dp2plb41359",
-      "year": 2023,
-      "make": "Ford",
-      "model": "Bronco",
-      "propulsion": "unknown",
-      "propulsion_source": null,
-      "condition": "used",
-      "price_cad": null,
-      "price_note": "precio no publicado en la fuente",
-      "color": "Black",
-      "dealer_id": "chilliwack-volkswagen",
-      "vin": "1FMEE5DP2PLB41359",
-      "stock": 14524231,
-      "listing_url": "https://www.chilliwackvw.ca/used/2023-Ford-Bronco.html",
-      "dealer_url": "https://www.chilliwackvw.ca/used/2023-Ford-Bronco.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T04:52:35",
-      "snapshot": "2026-10-19T10:25:52",
-      "go_url": "https://carwhisper.ca/go/chilliwack-volkswagen-1fmee5dp2plb41359",
-      "region": "Lower Mainland",
-      "city": "Chilliwack",
-      "province": "BC",
-      "dealer_name": "Chilliwack Volkswagen"
-    },
-    {
       "pub_id": "mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-1fmee0rrxslb04341",
       "year": 2025,
       "make": "Ford",
@@ -879,6 +855,31 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "MCL Motor Cars 2010 / Aston Martin / Land Rover / Jaguar / Bentley Vancouver"
+    },
+    {
+      "pub_id": "mercedes-benz-boundary-1fmde1bh1rla60937",
+      "year": 2024,
+      "make": "Ford",
+      "model": "Bronco",
+      "trim": "Black Diamond",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 60097,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "mercedes-benz-boundary",
+      "vin": "1FMDE1BH1RLA60937",
+      "stock": "G116006",
+      "listing_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/ford/bronco/2024-ford-bronco-id38713400",
+      "dealer_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/ford/bronco/2024-ford-bronco-id38713400?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-10T21:26:50",
+      "snapshot": "2026-10-19T16:52:19",
+      "go_url": "https://carwhisper.ca/go/mercedes-benz-boundary-1fmde1bh1rla60937",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Mercedes-Benz Boundary"
     }
   ]
 }

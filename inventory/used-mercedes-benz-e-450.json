@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-20T20:11:38+00:00",
-  "snapshot": "2026-10-20T20:11:38+00:00",
+  "generated_at": "2026-10-21T02:11:39+00:00",
+  "snapshot": "2026-10-21T02:11:39+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "openroad-mercedes-benz-surrey-w1k1k5kb4pf203688",
@@ -31,6 +31,34 @@
       "city": "Surrey",
       "province": "BC",
       "dealer_name": "OpenRoad Mercedes Benz Surrey"
+    },
+    {
+      "pub_id": "three-point-motors-w1kzf5kb0nb018775",
+      "year": 2022,
+      "make": "Mercedes-Benz",
+      "model": "E 450",
+      "trim": "4matic Sedan |one",
+      "body_type": "sedan",
+      "drivetrain": "FWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 69558,
+      "price_cad": 47900.0,
+      "price_note": null,
+      "color": "Blue",
+      "dealer_id": "three-point-motors",
+      "vin": "W1KZF5KB0NB018775",
+      "stock": "14540841",
+      "listing_url": "https://www.mercedes-benz-threepointmotors.ca/used/2022-Mercedes_Benz-E_450-id14540841.html",
+      "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/used/2022-Mercedes_Benz-E_450-id14540841.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T18:16:05",
+      "snapshot": "2026-10-20T18:18:35",
+      "go_url": "https://carwhisper.ca/go/three-point-motors-w1kzf5kb0nb018775",
+      "region": "Vancouver Island",
+      "city": "Victoria",
+      "province": "BC",
+      "dealer_name": "Three Point Motors"
     }
   ]
 }

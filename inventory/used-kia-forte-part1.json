@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-20T20:11:38+00:00",
-  "snapshot": "2026-10-20T20:11:38+00:00",
+  "generated_at": "2026-10-21T02:11:39+00:00",
+  "snapshot": "2026-10-21T02:11:39+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 28,
+  "count": 29,
   "vehicles": [
     {
       "pub_id": "applewood-kia-langley-knafx4a67e5119977",
@@ -55,7 +55,7 @@
       "listing_url": "https://www.richmondhyundai.ca/vehicles/2019/kia/forte-sedan/richmond/bc/71198246/?sale_class=used",
       "dealer_url": "https://www.richmondhyundai.ca/vehicles/2019/kia/forte-sedan/richmond/bc/71198246/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T23:19:49",
-      "snapshot": "2026-10-19T11:50:23",
+      "snapshot": "2026-10-20T17:49:17",
       "go_url": "https://carwhisper.ca/go/richmond-hyundai-3kpf54ad1ke024578",
       "region": "Lower Mainland",
       "city": "Richmond",
@@ -85,7 +85,7 @@
       "listing_url": "https://www.applewoodmazdasurrey.ca/inventory/2018-kia-forte-ex-yluIlbYoTjWC5Gc1I6LUOgvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2018-kia-forte-ex-yluIlbYoTjWC5Gc1I6LUOgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T20:30:38",
-      "snapshot": "2026-10-13T18:10:04",
+      "snapshot": "2026-10-20T18:20:04",
       "go_url": "https://carwhisper.ca/go/applewood-mazda-surrey-3kpfl4a82je245811",
       "region": "Lower Mainland",
       "city": "Surrey",
@@ -774,6 +774,31 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Vancouver Honda"
+    },
+    {
+      "pub_id": "pioneer-chrysler-jeep-knaf55ac7l5052862",
+      "year": 2020,
+      "make": "Kia",
+      "model": "Forte",
+      "trim": "5",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 17555.0,
+      "price_note": null,
+      "color": "Grey",
+      "dealer_id": "pioneer-chrysler-jeep",
+      "vin": "KNAF55AC7L5052862",
+      "stock": 13613006,
+      "listing_url": "https://www.pioneerchryslerjeep.com/used/2020-Kia-Forte5.html",
+      "dealer_url": "https://www.pioneerchryslerjeep.com/used/2020-Kia-Forte5.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-19T13:04:38",
+      "snapshot": "2026-10-19T13:06:47",
+      "go_url": "https://carwhisper.ca/go/pioneer-chrysler-jeep-knaf55ac7l5052862",
+      "region": "Lower Mainland",
+      "city": "Mission",
+      "province": "BC",
+      "dealer_name": "Pioneer Chrysler Jeep"
     }
   ]
 }

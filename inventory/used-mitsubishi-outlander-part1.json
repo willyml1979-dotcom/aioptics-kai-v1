@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-20T20:11:38+00:00",
-  "snapshot": "2026-10-20T20:11:38+00:00",
+  "generated_at": "2026-10-21T02:11:39+00:00",
+  "snapshot": "2026-10-21T02:11:39+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 25,
+  "count": 26,
   "vehicles": [
     {
       "pub_id": "go-langley-mitsubishi-ja4az2a37jz614940",
@@ -50,8 +50,8 @@
       "stock": "264826A",
       "listing_url": "https://www.tricitymits.com/vehicles/2019/mitsubishi/outlander/port-coquitlam/bc/71509398/?sale_class=used",
       "dealer_url": "https://www.tricitymits.com/vehicles/2019/mitsubishi/outlander/port-coquitlam/bc/71509398/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T18:30:03",
-      "snapshot": "2026-10-19T12:11:13",
+      "last_verified": "2026-10-20T18:00:13",
+      "snapshot": "2026-10-20T18:00:46",
       "go_url": "https://carwhisper.ca/go/tricity-mitsubishi-ja4az2a37kz609416",
       "region": "Lower Mainland",
       "city": "Port Coquitlam",
@@ -108,7 +108,7 @@
       "listing_url": "https://www.tricitymits.com/vehicles/2024/mitsubishi/outlander/port-coquitlam/bc/70449300/?sale_class=used",
       "dealer_url": "https://www.tricitymits.com/vehicles/2024/mitsubishi/outlander/port-coquitlam/bc/70449300/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-19T01:36:24",
-      "snapshot": "2026-10-19T12:11:13",
+      "snapshot": "2026-10-20T18:00:46",
       "go_url": "https://carwhisper.ca/go/tricity-mitsubishi-ja4j4va85rz604107",
       "region": "Lower Mainland",
       "city": "Port Coquitlam",
@@ -717,6 +717,33 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Vancouver Honda"
+    },
+    {
+      "pub_id": "go-langley-mitsubishi-ja4j4va8xrz616849",
+      "year": 2024,
+      "make": "Mitsubishi",
+      "model": "Outlander",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 66258,
+      "price_cad": 28897.0,
+      "price_note": null,
+      "color": "Silver",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/f2569e27-2bf6-4a95-b4fd-cb625ed4e22f_b32a5e30-45a8-4076-8fbe-a81966cb2c4a.jpg",
+      "dealer_id": "go-langley-mitsubishi",
+      "vin": "JA4J4VA8XRZ616849",
+      "stock": "26OU793",
+      "listing_url": "https://www.langleymitsubishi.com/vehicles/2024/mitsubishi/outlander/surrey/bc/71489286/?sale_class=used",
+      "dealer_url": "https://www.langleymitsubishi.com/vehicles/2024/mitsubishi/outlander/surrey/bc/71489286/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-19T08:44:09",
+      "snapshot": "2026-10-19T20:02:37",
+      "go_url": "https://carwhisper.ca/go/go-langley-mitsubishi-ja4j4va8xrz616849",
+      "region": "Lower Mainland",
+      "city": "Surrey",
+      "province": "BC",
+      "dealer_name": "Go Langley Mitsubishi"
     }
   ]
 }

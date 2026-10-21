@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-20T20:11:38+00:00",
-  "snapshot": "2026-10-20T20:11:38+00:00",
+  "generated_at": "2026-10-21T02:11:39+00:00",
+  "snapshot": "2026-10-21T02:11:39+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "mercedes-benz-langley-w1y4ncvy6tp931550",
@@ -26,6 +26,52 @@
       "city": "Langley",
       "province": "BC",
       "dealer_name": "Mercedes Benz Langley"
+    },
+    {
+      "pub_id": "mercedes-benz-north-vancouver-w1y4ncvy0tp933522",
+      "year": 2026,
+      "make": "Mercedes-benz",
+      "model": "Sprinter 2500 170 Wheelbase High Roof AWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "mercedes-benz-north-vancouver",
+      "vin": "W1Y4NCVY0TP933522",
+      "stock": "2665994",
+      "listing_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id38713805",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id38713805?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T15:21:21",
+      "snapshot": "2026-10-20T15:25:37",
+      "go_url": "https://carwhisper.ca/go/mercedes-benz-north-vancouver-w1y4ncvy0tp933522",
+      "region": "Lower Mainland",
+      "city": "North Vancouver",
+      "province": "BC",
+      "dealer_name": "Mercedes-Benz North Vancouver"
+    },
+    {
+      "pub_id": "mercedes-benz-vancouver-w1y4ncvy0tp933522",
+      "year": 2026,
+      "make": "Mercedes-benz",
+      "model": "Sprinter 2500 170 Wheelbase High Roof AWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "mercedes-benz-vancouver",
+      "vin": "W1Y4NCVY0TP933522",
+      "stock": "2665994",
+      "listing_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id38713805",
+      "dealer_url": "https://www.mercedes-benz-vancouver.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id38713805?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T13:47:22",
+      "snapshot": "2026-10-20T13:51:56",
+      "go_url": "https://carwhisper.ca/go/mercedes-benz-vancouver-w1y4ncvy0tp933522",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Mercedes Benz Vancouver"
     }
   ]
 }

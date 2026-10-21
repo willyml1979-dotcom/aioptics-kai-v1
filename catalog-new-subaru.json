@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T20:11:38+00:00",
+  "generated_at": "2026-10-21T02:11:39+00:00",
   "condition": "new",
   "make": "subaru",
   "files": [
@@ -414,12 +414,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "part22",
-      "count": 21,
+      "count": 18,
       "file": "inventory/new-subaru-forester-part22.json",
       "models": [
         {
           "model": "Forester",
-          "count": 21
+          "count": 18
         }
       ]
     },
@@ -511,12 +511,12 @@
       "condition": "new",
       "make": "subaru",
       "model": "Uncharted",
-      "count": 20,
+      "count": 21,
       "file": "inventory/new-subaru-uncharted.json",
       "models": [
         {
           "model": "Uncharted",
-          "count": 20
+          "count": 21
         }
       ]
     },
@@ -525,12 +525,12 @@
       "make": "subaru",
       "model": "Crosstrek Hybrid",
       "shard": "part1",
-      "count": 31,
+      "count": 30,
       "file": "inventory/new-subaru-crosstrek-hybrid-part1.json",
       "models": [
         {
           "model": "Crosstrek Hybrid",
-          "count": 31
+          "count": 30
         }
       ]
     },
@@ -539,12 +539,12 @@
       "make": "subaru",
       "model": "Crosstrek Hybrid",
       "shard": "part2",
-      "count": 30,
+      "count": 29,
       "file": "inventory/new-subaru-crosstrek-hybrid-part2.json",
       "models": [
         {
           "model": "Crosstrek Hybrid",
-          "count": 30
+          "count": 29
         }
       ]
     },
@@ -686,12 +686,12 @@
       "condition": "new",
       "make": "subaru",
       "model": "Impreza",
-      "count": 6,
+      "count": 5,
       "file": "inventory/new-subaru-impreza.json",
       "models": [
         {
           "model": "Impreza",
-          "count": 6
+          "count": 5
         }
       ]
     },
@@ -738,12 +738,12 @@
       "condition": "new",
       "make": "subaru",
       "model": "Uncharted GT AWD",
-      "count": 2,
+      "count": 1,
       "file": "inventory/new-subaru-uncharted-gt-awd.json",
       "models": [
         {
           "model": "Uncharted GT AWD",
-          "count": 2
+          "count": 1
         }
       ]
     },
@@ -815,13 +815,39 @@
     {
       "condition": "new",
       "make": "subaru",
-      "model": "Forester Forester Hybrid",
+      "model": "Impreza 5-Door",
       "count": 1,
-      "file": "inventory/new-subaru-forester-forester-hybrid.json",
+      "file": "inventory/new-subaru-impreza-5-door.json",
       "models": [
         {
-          "model": "Forester Forester Hybrid",
+          "model": "Impreza 5-Door",
           "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "subaru",
+      "model": "Crosstrek e-BOXER Hybrid",
+      "count": 1,
+      "file": "inventory/new-subaru-crosstrek-e-boxer-hybrid.json",
+      "models": [
+        {
+          "model": "Crosstrek e-BOXER Hybrid",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "subaru",
+      "model": "Forester e-BOXER Hybrid",
+      "count": 3,
+      "file": "inventory/new-subaru-forester-e-boxer-hybrid.json",
+      "models": [
+        {
+          "model": "Forester e-BOXER Hybrid",
+          "count": 3
         }
       ]
     },
@@ -899,19 +925,6 @@
       "models": [
         {
           "model": "Uncharted GT",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "subaru",
-      "model": "Forester PREMIER",
-      "count": 1,
-      "file": "inventory/new-subaru-forester-premier.json",
-      "models": [
-        {
-          "model": "Forester PREMIER",
           "count": 1
         }
       ]

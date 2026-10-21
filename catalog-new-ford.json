@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T20:11:38+00:00",
+  "generated_at": "2026-10-21T02:11:39+00:00",
   "condition": "new",
   "make": "ford",
   "files": [
@@ -1058,12 +1058,12 @@
       "make": "ford",
       "model": "F-150",
       "shard": "part76",
-      "count": 5,
+      "count": 10,
       "file": "inventory/new-ford-f-150-part76.json",
       "models": [
         {
           "model": "F-150",
-          "count": 5
+          "count": 10
         }
       ]
     },
@@ -1766,12 +1766,12 @@
       "make": "ford",
       "model": "Ranger",
       "shard": "part11",
-      "count": 27,
+      "count": 26,
       "file": "inventory/new-ford-ranger-part11.json",
       "models": [
         {
           "model": "Ranger",
-          "count": 27
+          "count": 26
         }
       ]
     },
@@ -2060,12 +2060,12 @@
       "make": "ford",
       "model": "Mustang Mach-E",
       "shard": "part21",
-      "count": 31,
+      "count": 30,
       "file": "inventory/new-ford-mustang-mach-e-part21.json",
       "models": [
         {
           "model": "Mustang Mach-E",
-          "count": 31
+          "count": 30
         }
       ]
     },
@@ -2200,12 +2200,12 @@
       "make": "ford",
       "model": "Explorer",
       "shard": "part10",
-      "count": 28,
+      "count": 29,
       "file": "inventory/new-ford-explorer-part10.json",
       "models": [
         {
           "model": "Explorer",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -2380,12 +2380,12 @@
       "condition": "new",
       "make": "ford",
       "model": "Expedition",
-      "count": 20,
+      "count": 19,
       "file": "inventory/new-ford-expedition.json",
       "models": [
         {
           "model": "Expedition",
-          "count": 20
+          "count": 19
         }
       ]
     },
@@ -2394,12 +2394,12 @@
       "make": "ford",
       "model": "Mustang",
       "shard": "part1",
-      "count": 30,
+      "count": 31,
       "file": "inventory/new-ford-mustang-part1.json",
       "models": [
         {
           "model": "Mustang",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -2408,12 +2408,12 @@
       "make": "ford",
       "model": "Mustang",
       "shard": "part2",
-      "count": 30,
+      "count": 31,
       "file": "inventory/new-ford-mustang-part2.json",
       "models": [
         {
           "model": "Mustang",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -2422,12 +2422,12 @@
       "make": "ford",
       "model": "Mustang",
       "shard": "part3",
-      "count": 30,
+      "count": 31,
       "file": "inventory/new-ford-mustang-part3.json",
       "models": [
         {
           "model": "Mustang",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -2436,12 +2436,12 @@
       "make": "ford",
       "model": "Mustang",
       "shard": "part4",
-      "count": 30,
+      "count": 31,
       "file": "inventory/new-ford-mustang-part4.json",
       "models": [
         {
           "model": "Mustang",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -2450,12 +2450,12 @@
       "make": "ford",
       "model": "Mustang",
       "shard": "part5",
-      "count": 30,
+      "count": 31,
       "file": "inventory/new-ford-mustang-part5.json",
       "models": [
         {
           "model": "Mustang",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -2464,11 +2464,25 @@
       "make": "ford",
       "model": "Mustang",
       "shard": "part6",
-      "count": 30,
+      "count": 26,
       "file": "inventory/new-ford-mustang-part6.json",
       "models": [
         {
           "model": "Mustang",
+          "count": 26
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "Transit Cargo",
+      "shard": "Lower Mainland",
+      "count": 30,
+      "file": "inventory/new-ford-transit-cargo-lower-mainland.json",
+      "models": [
+        {
+          "model": "Transit Cargo",
           "count": 30
         }
       ]
@@ -2477,13 +2491,13 @@
       "condition": "new",
       "make": "ford",
       "model": "Transit Cargo",
-      "shard": "part1",
-      "count": 28,
-      "file": "inventory/new-ford-transit-cargo-part1.json",
+      "shard": "Norte/Cariboo",
+      "count": 6,
+      "file": "inventory/new-ford-transit-cargo-norte-cariboo.json",
       "models": [
         {
           "model": "Transit Cargo",
-          "count": 28
+          "count": 6
         }
       ]
     },
@@ -2491,13 +2505,27 @@
       "condition": "new",
       "make": "ford",
       "model": "Transit Cargo",
-      "shard": "part2",
-      "count": 28,
-      "file": "inventory/new-ford-transit-cargo-part2.json",
+      "shard": "Vancouver Island",
+      "count": 11,
+      "file": "inventory/new-ford-transit-cargo-vancouver-island.json",
       "models": [
         {
           "model": "Transit Cargo",
-          "count": 28
+          "count": 11
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ford",
+      "model": "Transit Cargo",
+      "shard": "sin-region",
+      "count": 6,
+      "file": "inventory/new-ford-transit-cargo-sin-region.json",
+      "models": [
+        {
+          "model": "Transit Cargo",
+          "count": 6
         }
       ]
     },
@@ -2519,12 +2547,12 @@
       "make": "ford",
       "model": "Transit",
       "shard": "part1",
-      "count": 32,
+      "count": 31,
       "file": "inventory/new-ford-transit-part1.json",
       "models": [
         {
           "model": "Transit",
-          "count": 32
+          "count": 31
         }
       ]
     },
@@ -2533,12 +2561,12 @@
       "make": "ford",
       "model": "Transit",
       "shard": "part2",
-      "count": 32,
+      "count": 31,
       "file": "inventory/new-ford-transit-part2.json",
       "models": [
         {
           "model": "Transit",
-          "count": 32
+          "count": 31
         }
       ]
     },
@@ -2547,12 +2575,12 @@
       "make": "ford",
       "model": "Transit",
       "shard": "part3",
-      "count": 32,
+      "count": 31,
       "file": "inventory/new-ford-transit-part3.json",
       "models": [
         {
           "model": "Transit",
-          "count": 32
+          "count": 31
         }
       ]
     },
@@ -2561,12 +2589,12 @@
       "make": "ford",
       "model": "Transit",
       "shard": "part4",
-      "count": 32,
+      "count": 31,
       "file": "inventory/new-ford-transit-part4.json",
       "models": [
         {
           "model": "Transit",
-          "count": 32
+          "count": 31
         }
       ]
     },
@@ -2575,12 +2603,12 @@
       "make": "ford",
       "model": "Transit",
       "shard": "part5",
-      "count": 29,
+      "count": 31,
       "file": "inventory/new-ford-transit-part5.json",
       "models": [
         {
           "model": "Transit",
-          "count": 29
+          "count": 31
         }
       ]
     },
@@ -2642,7 +2670,7 @@
       "make": "ford",
       "model": "Super Duty F-350 SRW",
       "shard": "Norte/Cariboo",
-      "count": 20,
+      "count": 21,
       "file": "inventory/new-ford-super-duty-f-350-srw-norte-cariboo.json",
       "models": [
         {
@@ -2651,7 +2679,7 @@
         },
         {
           "model": "Super Duty F-350 SRW",
-          "count": 7
+          "count": 8
         }
       ]
     },
@@ -2810,7 +2838,7 @@
       "condition": "new",
       "make": "ford",
       "model": "Super Duty F-550 DRW",
-      "count": 13,
+      "count": 12,
       "file": "inventory/new-ford-super-duty-f-550-drw.json",
       "models": [
         {
@@ -2819,7 +2847,7 @@
         },
         {
           "model": "Super Duty F-550 DRW",
-          "count": 8
+          "count": 7
         }
       ]
     },
@@ -2879,7 +2907,7 @@
       "condition": "new",
       "make": "ford",
       "model": "Super Duty F-350 DRW",
-      "count": 6,
+      "count": 5,
       "file": "inventory/new-ford-super-duty-f-350-drw.json",
       "models": [
         {
@@ -2888,7 +2916,7 @@
         },
         {
           "model": "Super Duty F-350 DRW",
-          "count": 3
+          "count": 2
         }
       ]
     },
@@ -3043,12 +3071,12 @@
       "condition": "new",
       "make": "ford",
       "model": "RANGERRAPTOR 4X4 SUPERCREW 5 FT. BOX (800A)",
-      "count": 31,
+      "count": 32,
       "file": "inventory/new-ford-rangerraptor-4x4-supercrew-5-ft-box-800a.json",
       "models": [
         {
           "model": "RANGERRAPTOR 4X4 SUPERCREW 5 FT. BOX (800A)",
-          "count": 31
+          "count": 32
         }
       ]
     },
@@ -3069,12 +3097,12 @@
       "condition": "new",
       "make": "ford",
       "model": "RANGERXLT 4X4 SUPERCREW 5 FT. BOX",
-      "count": 32,
+      "count": 30,
       "file": "inventory/new-ford-rangerxlt-4x4-supercrew-5-ft-box.json",
       "models": [
         {
           "model": "RANGERXLT 4X4 SUPERCREW 5 FT. BOX",
-          "count": 32
+          "count": 30
         }
       ]
     },
@@ -3173,12 +3201,12 @@
       "condition": "new",
       "make": "ford",
       "model": "F-350PLATINUM 4X4 SD CREW CAB 8 FT. BOX SRW",
-      "count": 3,
+      "count": 2,
       "file": "inventory/new-ford-f-350platinum-4x4-sd-crew-cab-8-ft-box-srw.json",
       "models": [
         {
           "model": "F-350PLATINUM 4X4 SD CREW CAB 8 FT. BOX SRW",
-          "count": 3
+          "count": 2
         }
       ]
     },
@@ -3212,12 +3240,12 @@
       "condition": "new",
       "make": "ford",
       "model": "TRANSIT-250 CARGOREAR-WHEEL DRIVE MEDIUM ROOF",
-      "count": 3,
+      "count": 1,
       "file": "inventory/new-ford-transit-250-cargorear-wheel-drive-medium-roof.json",
       "models": [
         {
           "model": "TRANSIT-250 CARGOREAR-WHEEL DRIVE MEDIUM ROOF",
-          "count": 3
+          "count": 1
         }
       ]
     },
@@ -3433,12 +3461,16 @@
       "condition": "new",
       "make": "ford",
       "model": "Super Duty F-250 SRW",
-      "count": 5,
+      "count": 7,
       "file": "inventory/new-ford-super-duty-f-250-srw.json",
       "models": [
         {
+          "model": "SUPER DUTY F-250 SRW",
+          "count": 1
+        },
+        {
           "model": "Super Duty F-250 SRW",
-          "count": 5
+          "count": 6
         }
       ]
     },
@@ -3563,12 +3595,12 @@
       "condition": "new",
       "make": "ford",
       "model": "F-350XL 4X4 SD CREW CAB 6.75 FT. BOX SRW (610A)",
-      "count": 8,
+      "count": 7,
       "file": "inventory/new-ford-f-350xl-4x4-sd-crew-cab-6-75-ft-box-srw-610a.json",
       "models": [
         {
           "model": "F-350XL 4X4 SD CREW CAB 6.75 FT. BOX SRW (610A)",
-          "count": 8
+          "count": 7
         }
       ]
     },
@@ -3669,12 +3701,12 @@
       "condition": "new",
       "make": "ford",
       "model": "F-350LARIAT 4X4 SD CREW CAB 6.75 FT. BOX SRW (618A)",
-      "count": 15,
+      "count": 16,
       "file": "inventory/new-ford-f-350lariat-4x4-sd-crew-cab-6-75-ft-box-srw-618a.json",
       "models": [
         {
           "model": "F-350LARIAT 4X4 SD CREW CAB 6.75 FT. BOX SRW (618A)",
-          "count": 15
+          "count": 16
         }
       ]
     },

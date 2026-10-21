@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T20:11:38+00:00",
+  "generated_at": "2026-10-21T02:11:39+00:00",
   "condition": "used",
   "make": "nissan",
   "files": [
@@ -236,12 +236,12 @@
       "make": "nissan",
       "model": "Rogue",
       "shard": "part17",
-      "count": 24,
+      "count": 25,
       "file": "inventory/used-nissan-rogue-part17.json",
       "models": [
         {
           "model": "Rogue",
-          "count": 24
+          "count": 25
         }
       ]
     },
@@ -280,12 +280,12 @@
       "make": "nissan",
       "model": "LEAF",
       "shard": "part1",
-      "count": 31,
+      "count": 30,
       "file": "inventory/used-nissan-leaf-part1.json",
       "models": [
         {
           "model": "LEAF",
-          "count": 18
+          "count": 17
         },
         {
           "model": "Leaf",
@@ -298,16 +298,16 @@
       "make": "nissan",
       "model": "LEAF",
       "shard": "part2",
-      "count": 31,
+      "count": 30,
       "file": "inventory/used-nissan-leaf-part2.json",
       "models": [
         {
           "model": "LEAF",
-          "count": 8
+          "count": 9
         },
         {
           "model": "Leaf",
-          "count": 23
+          "count": 21
         }
       ]
     },
@@ -321,11 +321,11 @@
       "models": [
         {
           "model": "LEAF",
-          "count": 20
+          "count": 18
         },
         {
           "model": "Leaf",
-          "count": 10
+          "count": 12
         }
       ]
     },
@@ -346,12 +346,12 @@
       "condition": "used",
       "make": "nissan",
       "model": "Micra",
-      "count": 21,
+      "count": 22,
       "file": "inventory/used-nissan-micra.json",
       "models": [
         {
           "model": "Micra",
-          "count": 21
+          "count": 22
         }
       ]
     },
@@ -377,12 +377,12 @@
       "make": "nissan",
       "model": "Sentra",
       "shard": "part1",
-      "count": 27,
+      "count": 26,
       "file": "inventory/used-nissan-sentra-part1.json",
       "models": [
         {
           "model": "Sentra",
-          "count": 27
+          "count": 26
         }
       ]
     },
@@ -391,12 +391,12 @@
       "make": "nissan",
       "model": "Sentra",
       "shard": "part2",
-      "count": 27,
+      "count": 26,
       "file": "inventory/used-nissan-sentra-part2.json",
       "models": [
         {
           "model": "Sentra",
-          "count": 27
+          "count": 26
         }
       ]
     },
@@ -405,12 +405,12 @@
       "make": "nissan",
       "model": "Sentra",
       "shard": "part3",
-      "count": 27,
+      "count": 26,
       "file": "inventory/used-nissan-sentra-part3.json",
       "models": [
         {
           "model": "Sentra",
-          "count": 27
+          "count": 26
         }
       ]
     },
@@ -419,12 +419,12 @@
       "make": "nissan",
       "model": "Sentra",
       "shard": "part4",
-      "count": 25,
+      "count": 26,
       "file": "inventory/used-nissan-sentra-part4.json",
       "models": [
         {
           "model": "Sentra",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -517,12 +517,12 @@
       "make": "nissan",
       "model": "Pathfinder",
       "shard": "part7",
-      "count": 21,
+      "count": 23,
       "file": "inventory/used-nissan-pathfinder-part7.json",
       "models": [
         {
           "model": "Pathfinder",
-          "count": 21
+          "count": 23
         }
       ]
     },
@@ -573,12 +573,12 @@
       "make": "nissan",
       "model": "Murano",
       "shard": "part4",
-      "count": 27,
+      "count": 29,
       "file": "inventory/used-nissan-murano-part4.json",
       "models": [
         {
           "model": "Murano",
-          "count": 27
+          "count": 29
         }
       ]
     },
@@ -619,8 +619,12 @@
       "file": "inventory/used-nissan-kicks-part3.json",
       "models": [
         {
+          "model": "KICKS",
+          "count": 1
+        },
+        {
           "model": "Kicks",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -634,11 +638,11 @@
       "models": [
         {
           "model": "KICKS",
-          "count": 2
+          "count": 1
         },
         {
           "model": "Kicks",
-          "count": 26
+          "count": 27
         }
       ]
     },
@@ -661,12 +665,12 @@
       "make": "nissan",
       "model": "Kicks",
       "shard": "part6",
-      "count": 26,
+      "count": 25,
       "file": "inventory/used-nissan-kicks-part6.json",
       "models": [
         {
           "model": "Kicks",
-          "count": 26
+          "count": 25
         }
       ]
     },
@@ -893,7 +897,7 @@
       "condition": "used",
       "make": "nissan",
       "model": "Kicks Play",
-      "count": 31,
+      "count": 32,
       "file": "inventory/used-nissan-kicks-play.json",
       "models": [
         {
@@ -902,7 +906,7 @@
         },
         {
           "model": "Kicks Play",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -942,16 +946,16 @@
       "make": "nissan",
       "model": "Ariya",
       "shard": "part2",
-      "count": 27,
+      "count": 28,
       "file": "inventory/used-nissan-ariya-part2.json",
       "models": [
         {
           "model": "ARIYA",
-          "count": 19
+          "count": 21
         },
         {
           "model": "Ariya",
-          "count": 8
+          "count": 7
         }
       ]
     },
@@ -1093,12 +1097,12 @@
       "condition": "used",
       "make": "nissan",
       "model": "PathfinderS",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-nissan-pathfinders.json",
       "models": [
         {
           "model": "PathfinderS",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -1391,12 +1395,12 @@
     {
       "condition": "used",
       "make": "nissan",
-      "model": "Titan Crew Cab",
+      "model": "Titan",
       "count": 1,
-      "file": "inventory/used-nissan-titan-crew-cab.json",
+      "file": "inventory/used-nissan-titan.json",
       "models": [
         {
-          "model": "Titan Crew Cab",
+          "model": "Titan",
           "count": 1
         }
       ]
@@ -1404,12 +1408,25 @@
     {
       "condition": "used",
       "make": "nissan",
-      "model": "Frontier King Cab",
+      "model": "Xterra",
       "count": 1,
-      "file": "inventory/used-nissan-frontier-king-cab.json",
+      "file": "inventory/used-nissan-xterra.json",
       "models": [
         {
-          "model": "Frontier King Cab",
+          "model": "Xterra",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Titan Crew Cab",
+      "count": 1,
+      "file": "inventory/used-nissan-titan-crew-cab.json",
+      "models": [
+        {
+          "model": "Titan Crew Cab",
           "count": 1
         }
       ]
@@ -1436,6 +1453,19 @@
       "models": [
         {
           "model": "PathfinderS 4dr 4x4",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "MuranoSV 4dr All-Wheel Drive",
+      "count": 1,
+      "file": "inventory/used-nissan-muranosv-4dr-all-wheel-drive.json",
+      "models": [
+        {
+          "model": "MuranoSV 4dr All-Wheel Drive",
           "count": 1
         }
       ]

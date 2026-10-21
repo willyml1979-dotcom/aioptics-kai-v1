@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T20:11:38+00:00",
+  "generated_at": "2026-10-21T02:11:39+00:00",
   "condition": "used",
   "make": "audi",
   "files": [
@@ -36,12 +36,12 @@
       "make": "audi",
       "model": "Q5",
       "shard": "part3",
-      "count": 26,
+      "count": 25,
       "file": "inventory/used-audi-q5-part3.json",
       "models": [
         {
           "model": "Q5",
-          "count": 26
+          "count": 25
         }
       ]
     },
@@ -105,12 +105,12 @@
       "make": "audi",
       "model": "Q7",
       "shard": "part1",
-      "count": 23,
+      "count": 22,
       "file": "inventory/used-audi-q7-part1.json",
       "models": [
         {
           "model": "Q7",
-          "count": 23
+          "count": 22
         }
       ]
     },
@@ -119,12 +119,12 @@
       "make": "audi",
       "model": "Q7",
       "shard": "part2",
-      "count": 23,
+      "count": 22,
       "file": "inventory/used-audi-q7-part2.json",
       "models": [
         {
           "model": "Q7",
-          "count": 23
+          "count": 22
         }
       ]
     },
@@ -255,6 +255,19 @@
         {
           "model": "S6",
           "count": 20
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "audi",
+      "model": "S7",
+      "count": 2,
+      "file": "inventory/used-audi-s7.json",
+      "models": [
+        {
+          "model": "S7",
+          "count": 2
         }
       ]
     },
@@ -470,12 +483,12 @@
       "condition": "used",
       "make": "audi",
       "model": "RS 3",
-      "count": 16,
+      "count": 15,
       "file": "inventory/used-audi-rs-3.json",
       "models": [
         {
           "model": "RS 3",
-          "count": 16
+          "count": 15
         }
       ]
     },
@@ -678,12 +691,12 @@
       "condition": "used",
       "make": "audi",
       "model": "A7",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-audi-a7.json",
       "models": [
         {
           "model": "A7",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -696,19 +709,6 @@
       "models": [
         {
           "model": "TT",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "audi",
-      "model": "S7",
-      "count": 1,
-      "file": "inventory/used-audi-s7.json",
-      "models": [
-        {
-          "model": "S7",
           "count": 1
         }
       ]
