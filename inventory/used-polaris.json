@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-21T02:11:39+00:00",
-  "snapshot": "2026-10-21T02:11:39+00:00",
+  "generated_at": "2026-10-21T20:22:01+00:00",
+  "snapshot": "2026-10-21T20:22:01+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 1,
   "vehicles": [
     {
       "pub_id": "kootenay-chrysler-dodge-jeep-ram-ltd-3nsvaa875jh461565",
@@ -29,33 +29,6 @@
       "city": "Trail",
       "province": "BC",
       "dealer_name": "Kootenay Chrysler Dodge Jeep Ram Ltd."
-    },
-    {
-      "pub_id": "drayton-valley-ford-3nsrad925lg818841",
-      "year": 2020,
-      "make": "Polaris",
-      "model": "RZR Pro XP",
-      "trim": " ",
-      "propulsion": "gas",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
-      "condition": "used",
-      "odometer_km": 0,
-      "price_cad": 24777.0,
-      "price_note": null,
-      "color": "Blue",
-      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v2/inventory/L7HQUVYAZFHXXLBFCJU7JS22PE-48370.webp",
-      "dealer_id": "drayton-valley-ford",
-      "vin": "3NSRAD925LG818841",
-      "stock": "36395",
-      "listing_url": "https://www.draytonvalleyford.com/inventory/2020-polaris-rzr-base-rnIOFCzBS2aDBvOJtPhQRAvdp",
-      "dealer_url": "https://www.draytonvalleyford.com/inventory/2020-polaris-rzr-base-rnIOFCzBS2aDBvOJtPhQRAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T22:15:35",
-      "snapshot": "2026-10-18T22:17:15",
-      "go_url": "https://carwhisper.ca/go/drayton-valley-ford-3nsrad925lg818841",
-      "city": null,
-      "province": "AB",
-      "dealer_name": "Drayton Valley Ford"
     }
   ]
 }

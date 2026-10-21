@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T02:11:39+00:00",
+  "generated_at": "2026-10-21T20:22:01+00:00",
   "condition": "used",
   "make": "land-rover",
   "files": [
@@ -48,8 +48,51 @@
       "condition": "used",
       "make": "land-rover",
       "model": "Range Rover Evoque",
-      "count": 30,
-      "file": "inventory/used-land-rover-range-rover-evoque.json",
+      "shard": "Lower Mainland",
+      "count": 18,
+      "file": "inventory/used-land-rover-range-rover-evoque-lower-mainland.json",
+      "models": [
+        {
+          "model": "Range Rover Evoque",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "land-rover",
+      "model": "Range Rover Evoque",
+      "shard": "Norte/Cariboo",
+      "count": 1,
+      "file": "inventory/used-land-rover-range-rover-evoque-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Range Rover Evoque",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "land-rover",
+      "model": "Range Rover Evoque",
+      "shard": "Okanagan",
+      "count": 2,
+      "file": "inventory/used-land-rover-range-rover-evoque-okanagan.json",
+      "models": [
+        {
+          "model": "Range Rover Evoque",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "land-rover",
+      "model": "Range Rover Evoque",
+      "shard": "Vancouver Island",
+      "count": 4,
+      "file": "inventory/used-land-rover-range-rover-evoque-vancouver-island.json",
       "models": [
         {
           "model": "RANGE ROVER EVOQUE",
@@ -57,7 +100,21 @@
         },
         {
           "model": "Range Rover Evoque",
-          "count": 28
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "land-rover",
+      "model": "Range Rover Evoque",
+      "shard": "sin-region",
+      "count": 6,
+      "file": "inventory/used-land-rover-range-rover-evoque-sin-region.json",
+      "models": [
+        {
+          "model": "Range Rover Evoque",
+          "count": 6
         }
       ]
     },
@@ -227,12 +284,12 @@
       "make": "land-rover",
       "model": "Range Rover Sport",
       "shard": "part11",
-      "count": 23,
+      "count": 19,
       "file": "inventory/used-land-rover-range-rover-sport-part11.json",
       "models": [
         {
           "model": "Range Rover Sport",
-          "count": 23
+          "count": 19
         }
       ]
     },
@@ -269,7 +326,7 @@
       "make": "land-rover",
       "model": "Range Rover Velar",
       "shard": "part3",
-      "count": 19,
+      "count": 20,
       "file": "inventory/used-land-rover-range-rover-velar-part3.json",
       "models": [
         {
@@ -278,7 +335,7 @@
         },
         {
           "model": "Range Rover Velar",
-          "count": 13
+          "count": 14
         }
       ]
     },
@@ -287,12 +344,12 @@
       "make": "land-rover",
       "model": "Range Rover",
       "shard": "part1",
-      "count": 23,
+      "count": 25,
       "file": "inventory/used-land-rover-range-rover-part1.json",
       "models": [
         {
           "model": "Range Rover",
-          "count": 23
+          "count": 25
         }
       ]
     },
@@ -301,12 +358,12 @@
       "make": "land-rover",
       "model": "Range Rover",
       "shard": "part2",
-      "count": 23,
+      "count": 25,
       "file": "inventory/used-land-rover-range-rover-part2.json",
       "models": [
         {
           "model": "Range Rover",
-          "count": 23
+          "count": 25
         }
       ]
     },
@@ -315,7 +372,7 @@
       "make": "land-rover",
       "model": "Range Rover",
       "shard": "part3",
-      "count": 21,
+      "count": 24,
       "file": "inventory/used-land-rover-range-rover-part3.json",
       "models": [
         {
@@ -324,7 +381,7 @@
         },
         {
           "model": "Range Rover",
-          "count": 17
+          "count": 20
         }
       ]
     },
@@ -417,7 +474,7 @@
       "make": "land-rover",
       "model": "Defender",
       "shard": "part7",
-      "count": 28,
+      "count": 24,
       "file": "inventory/used-land-rover-defender-part7.json",
       "models": [
         {
@@ -426,7 +483,7 @@
         },
         {
           "model": "Defender",
-          "count": 26
+          "count": 22
         }
       ]
     },

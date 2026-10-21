@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-21T02:11:39+00:00",
-  "snapshot": "2026-10-21T02:11:39+00:00",
+  "generated_at": "2026-10-21T20:22:01+00:00",
+  "snapshot": "2026-10-21T20:22:01+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "richmond-hyundai-zfbcfach9fz035677",
@@ -56,6 +56,36 @@
       "city": "Burnaby",
       "province": "BC",
       "dealer_name": "Metrotown Mazda"
+    },
+    {
+      "pub_id": "bannister-kia-penticton-3c3cffar8ct354873",
+      "year": 2012,
+      "make": "FIAT",
+      "model": "500",
+      "trim": "2dr HB Pop",
+      "body_type": "hatchback",
+      "drivetrain": "FWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 116100,
+      "price_cad": 8995.0,
+      "price_note": null,
+      "color": "Brown",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/trim/QBWFAUK3E5DJ7E7RXA4UHIVQNI.webp",
+      "dealer_id": "bannister-kia-penticton",
+      "vin": "3C3CFFAR8CT354873",
+      "stock": "5926PK216",
+      "listing_url": "https://www.bannisterkiapenticton.com/inventory/2012-fiat-500-pop-jdb6yLaNRSGLfscRG3dBtgvdp",
+      "dealer_url": "https://www.bannisterkiapenticton.com/inventory/2012-fiat-500-pop-jdb6yLaNRSGLfscRG3dBtgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T21:28:53",
+      "snapshot": "2026-10-20T21:31:54",
+      "go_url": "https://carwhisper.ca/go/bannister-kia-penticton-3c3cffar8ct354873",
+      "region": "Okanagan",
+      "city": "Penticton",
+      "province": "BC",
+      "dealer_name": "Bannister Kia Penticton"
     },
     {
       "pub_id": "bannister-chevrolet-inc-vernon-3c3cffer5ft716754",

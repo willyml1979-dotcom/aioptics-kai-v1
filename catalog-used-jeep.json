@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T02:11:39+00:00",
+  "generated_at": "2026-10-21T20:22:01+00:00",
   "condition": "used",
   "make": "jeep",
   "files": [
@@ -53,7 +53,7 @@
       "make": "jeep",
       "model": "Compass",
       "shard": "Norte/Cariboo",
-      "count": 20,
+      "count": 21,
       "file": "inventory/used-jeep-compass-norte-cariboo.json",
       "models": [
         {
@@ -62,7 +62,7 @@
         },
         {
           "model": "Compass",
-          "count": 15
+          "count": 16
         }
       ]
     },
@@ -103,12 +103,12 @@
       "make": "jeep",
       "model": "Compass",
       "shard": "Vancouver Island",
-      "count": 21,
+      "count": 23,
       "file": "inventory/used-jeep-compass-vancouver-island.json",
       "models": [
         {
           "model": "Compass",
-          "count": 21
+          "count": 23
         }
       ]
     },
@@ -250,12 +250,12 @@
       "make": "jeep",
       "model": "Grand Cherokee",
       "shard": "part4",
-      "count": 28,
+      "count": 30,
       "file": "inventory/used-jeep-grand-cherokee-part4.json",
       "models": [
         {
           "model": "Grand Cherokee",
-          "count": 28
+          "count": 30
         }
       ]
     },
@@ -380,12 +380,12 @@
       "make": "jeep",
       "model": "GLADIATOR",
       "shard": "Lower Mainland",
-      "count": 27,
+      "count": 25,
       "file": "inventory/used-jeep-gladiator-lower-mainland.json",
       "models": [
         {
           "model": "Gladiator",
-          "count": 27
+          "count": 25
         }
       ]
     },
@@ -550,7 +550,7 @@
       "make": "jeep",
       "model": "WRANGLER",
       "shard": "part6",
-      "count": 29,
+      "count": 32,
       "file": "inventory/used-jeep-wrangler-part6.json",
       "models": [
         {
@@ -559,7 +559,7 @@
         },
         {
           "model": "Wrangler",
-          "count": 28
+          "count": 31
         }
       ]
     },
@@ -659,12 +659,12 @@
       "make": "jeep",
       "model": "CHEROKEE",
       "shard": "Vancouver Island",
-      "count": 14,
+      "count": 15,
       "file": "inventory/used-jeep-cherokee-vancouver-island.json",
       "models": [
         {
           "model": "Cherokee",
-          "count": 14
+          "count": 15
         }
       ]
     },
@@ -738,7 +738,7 @@
       "condition": "used",
       "make": "jeep",
       "model": "Renegade",
-      "count": 6,
+      "count": 5,
       "file": "inventory/used-jeep-renegade.json",
       "models": [
         {
@@ -747,7 +747,7 @@
         },
         {
           "model": "Renegade",
-          "count": 5
+          "count": 4
         }
       ]
     },
@@ -797,12 +797,12 @@
       "make": "jeep",
       "model": "Wrangler 4xe",
       "shard": "Lower Mainland",
-      "count": 23,
+      "count": 24,
       "file": "inventory/used-jeep-wrangler-4xe-lower-mainland.json",
       "models": [
         {
           "model": "Wrangler 4xe",
-          "count": 23
+          "count": 24
         }
       ]
     },
@@ -895,19 +895,6 @@
     {
       "condition": "used",
       "make": "jeep",
-      "model": "Wagoneer 4WD",
-      "count": 2,
-      "file": "inventory/used-jeep-wagoneer-4wd.json",
-      "models": [
-        {
-          "model": "Wagoneer 4WD",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "jeep",
       "model": "Wagoneer",
       "count": 3,
       "file": "inventory/used-jeep-wagoneer.json",
@@ -918,6 +905,19 @@
         },
         {
           "model": "Wagoneer",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Wagoneer 4WD",
+      "count": 2,
+      "file": "inventory/used-jeep-wagoneer-4wd.json",
+      "models": [
+        {
+          "model": "Wagoneer 4WD",
           "count": 2
         }
       ]
@@ -1072,19 +1072,6 @@
     {
       "condition": "used",
       "make": "jeep",
-      "model": "Cherokee North  - Aluminum Wheels -  Fog Lamps",
-      "count": 1,
-      "file": "inventory/used-jeep-cherokee-north-aluminum-wheels-fog-lamps.json",
-      "models": [
-        {
-          "model": "Cherokee North  - Aluminum Wheels -  Fog Lamps",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "jeep",
       "model": "Wrangler 4xe Rubicon  -  Hybrid -  Fast Charging",
       "count": 1,
       "file": "inventory/used-jeep-wrangler-4xe-rubicon-hybrid-fast-charging.json",
@@ -1156,6 +1143,19 @@
       "models": [
         {
           "model": "CherokeeTrailhawk",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Grand Cherokee LLimited",
+      "count": 1,
+      "file": "inventory/used-jeep-grand-cherokee-llimited.json",
+      "models": [
+        {
+          "model": "Grand Cherokee LLimited",
           "count": 1
         }
       ]
@@ -1247,19 +1247,6 @@
       "models": [
         {
           "model": "CherokeeTrailhawk Elite",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "jeep",
-      "model": "GladiatorOverland",
-      "count": 1,
-      "file": "inventory/used-jeep-gladiatoroverland.json",
-      "models": [
-        {
-          "model": "GladiatorOverland",
           "count": 1
         }
       ]

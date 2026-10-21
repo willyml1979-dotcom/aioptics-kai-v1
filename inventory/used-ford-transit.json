@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-21T02:11:39+00:00",
-  "snapshot": "2026-10-21T02:11:39+00:00",
+  "generated_at": "2026-10-21T20:22:01+00:00",
+  "snapshot": "2026-10-21T20:22:01+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 9,
+  "count": 10,
   "vehicles": [
     {
       "pub_id": "maple-ridge-hyundai-1fbax2xv4hka79237",
@@ -150,6 +150,31 @@
       "dealer_name": "Duncan Hyundai"
     },
     {
+      "pub_id": "victoria-hyundai-1fbzx2cg5gka91261",
+      "year": 2016,
+      "make": "Ford",
+      "model": "Transit",
+      "body_type": "wagon",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 23908.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "victoria-hyundai",
+      "vin": "1FBZX2CG5GKA91261",
+      "stock": 14543478,
+      "listing_url": "https://www.victoriahyundai.com/used/2016-Ford-Transit.html",
+      "dealer_url": "https://www.victoriahyundai.com/used/2016-Ford-Transit.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:56:22",
+      "snapshot": "2026-10-20T21:01:27",
+      "go_url": "https://carwhisper.ca/go/victoria-hyundai-1fbzx2cg5gka91261",
+      "region": "Vancouver Island",
+      "city": "Victoria",
+      "province": "BC",
+      "dealer_name": "Victoria Hyundai"
+    },
+    {
       "pub_id": "duncan-hyundai-1fbax2xv4hka79237",
       "year": 2017,
       "make": "Ford",
@@ -190,7 +215,7 @@
       "listing_url": "https://www.victoriahyundai.com/used/2017-Ford-Transit.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2017-Ford-Transit.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-18T15:41:56",
-      "snapshot": "2026-10-19T14:21:17",
+      "snapshot": "2026-10-20T21:01:27",
       "go_url": "https://carwhisper.ca/go/victoria-hyundai-1fbax2xv4hka79237",
       "region": "Vancouver Island",
       "city": "Victoria",

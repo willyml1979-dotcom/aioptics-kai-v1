@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T02:11:39+00:00",
+  "generated_at": "2026-10-21T20:22:01+00:00",
   "condition": "new",
   "make": "chevrolet",
   "files": [
@@ -34,12 +34,12 @@
       "make": "chevrolet",
       "model": "Equinox",
       "shard": "part1",
-      "count": 28,
+      "count": 27,
       "file": "inventory/new-chevrolet-equinox-part1.json",
       "models": [
         {
           "model": "Equinox",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -48,12 +48,12 @@
       "make": "chevrolet",
       "model": "Equinox",
       "shard": "part2",
-      "count": 28,
+      "count": 27,
       "file": "inventory/new-chevrolet-equinox-part2.json",
       "models": [
         {
           "model": "Equinox",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -62,12 +62,12 @@
       "make": "chevrolet",
       "model": "Equinox",
       "shard": "part3",
-      "count": 28,
+      "count": 27,
       "file": "inventory/new-chevrolet-equinox-part3.json",
       "models": [
         {
           "model": "Equinox",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -76,12 +76,12 @@
       "make": "chevrolet",
       "model": "Equinox",
       "shard": "part4",
-      "count": 28,
+      "count": 27,
       "file": "inventory/new-chevrolet-equinox-part4.json",
       "models": [
         {
           "model": "Equinox",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -90,12 +90,12 @@
       "make": "chevrolet",
       "model": "Equinox",
       "shard": "part5",
-      "count": 24,
+      "count": 27,
       "file": "inventory/new-chevrolet-equinox-part5.json",
       "models": [
         {
           "model": "Equinox",
-          "count": 24
+          "count": 27
         }
       ]
     },
@@ -613,9 +613,13 @@
       "make": "chevrolet",
       "model": "TrailBlazer",
       "shard": "Norte/Cariboo",
-      "count": 3,
+      "count": 4,
       "file": "inventory/new-chevrolet-trailblazer-norte-cariboo.json",
       "models": [
+        {
+          "model": "TrailBlazer",
+          "count": 1
+        },
         {
           "model": "Trailblazer",
           "count": 3
@@ -751,12 +755,12 @@
       "make": "chevrolet",
       "model": "Colorado",
       "shard": "part6",
-      "count": 28,
+      "count": 27,
       "file": "inventory/new-chevrolet-colorado-part6.json",
       "models": [
         {
           "model": "Colorado",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -1087,12 +1091,12 @@
       "make": "chevrolet",
       "model": "Silverado 1500",
       "shard": "part19",
-      "count": 20,
+      "count": 19,
       "file": "inventory/new-chevrolet-silverado-1500-part19.json",
       "models": [
         {
           "model": "Silverado 1500",
-          "count": 20
+          "count": 19
         }
       ]
     },
@@ -1167,12 +1171,12 @@
       "make": "chevrolet",
       "model": "Silverado 3500HD",
       "shard": "Norte/Cariboo",
-      "count": 11,
+      "count": 10,
       "file": "inventory/new-chevrolet-silverado-3500hd-norte-cariboo.json",
       "models": [
         {
           "model": "Silverado 3500HD",
-          "count": 11
+          "count": 10
         }
       ]
     },
@@ -1305,12 +1309,12 @@
       "condition": "new",
       "make": "chevrolet",
       "model": "Silverado 2500HD",
-      "count": 3,
+      "count": 4,
       "file": "inventory/new-chevrolet-silverado-2500hd.json",
       "models": [
         {
           "model": "Silverado 2500HD",
-          "count": 3
+          "count": 4
         }
       ]
     },

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-21T02:11:39+00:00",
-  "snapshot": "2026-10-21T02:11:39+00:00",
+  "generated_at": "2026-10-21T20:22:01+00:00",
+  "snapshot": "2026-10-21T20:22:01+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 4,
   "vehicles": [
     {
       "pub_id": "greg-gardner-motors-ltd-2gc4kle70t1199353",
@@ -90,6 +90,35 @@
       "city": "North Vancouver",
       "province": "BC",
       "dealer_name": "Carter GM Northshore"
+    },
+    {
+      "pub_id": "murray-gmc-fort-st-john-2gc4kne76t1210478",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Silverado 2500HD",
+      "trim": "4WD Standard Pickup Trucks",
+      "body_type": "truck",
+      "drivetrain": "4WD",
+      "propulsion": "gas",
+      "propulsion_source": "model_trim_name",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 29,
+      "price_cad": 83479.0,
+      "price_note": null,
+      "color": "Summit White",
+      "dealer_id": "murray-gmc-fort-st-john",
+      "vin": "2GC4KNE76T1210478",
+      "stock": "22994",
+      "listing_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_2500HD-LT-2GC4KNE76T1210478/",
+      "dealer_url": "https://www.murraygmc.com/inventory/New-2026-Chevrolet-Silverado_2500HD-LT-2GC4KNE76T1210478/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T22:08:37",
+      "snapshot": "2026-10-20T22:11:37",
+      "go_url": "https://carwhisper.ca/go/murray-gmc-fort-st-john-2gc4kne76t1210478",
+      "region": "Norte/Cariboo",
+      "city": "Fort St. John",
+      "province": "BC",
+      "dealer_name": "Murray GMC Fort St. John"
     }
   ]
 }

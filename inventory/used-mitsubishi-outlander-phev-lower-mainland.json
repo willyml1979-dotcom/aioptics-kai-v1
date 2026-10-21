@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-21T02:11:39+00:00",
-  "snapshot": "2026-10-21T02:11:39+00:00",
+  "generated_at": "2026-10-21T20:22:01+00:00",
+  "snapshot": "2026-10-21T20:22:01+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 28,
+  "count": 29,
   "vehicles": [
     {
       "pub_id": "maple-ridge-hyundai-ja4j24a58jz617802",
@@ -760,6 +760,30 @@
       "city": "Surrey",
       "province": "BC",
       "dealer_name": "Go Langley Mitsubishi"
+    },
+    {
+      "pub_id": "maple-ridge-chrysler-jeep-dodge-ja4t5wa9xtz615308",
+      "year": 2026,
+      "make": "Mitsubishi",
+      "model": "Outlander PHEV",
+      "propulsion": "plug-in hybrid",
+      "propulsion_source": "model_trim_name",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "maple-ridge-chrysler-jeep-dodge",
+      "vin": "JA4T5WA9XTZ615308",
+      "stock": 14545461,
+      "listing_url": "https://www.mapleridgechrysler.com/used/2026-Mitsubishi-Outlander_PHEV.html",
+      "dealer_url": "https://www.mapleridgechrysler.com/used/2026-Mitsubishi-Outlander_PHEV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:47:58",
+      "snapshot": "2026-10-20T20:50:28",
+      "go_url": "https://carwhisper.ca/go/maple-ridge-chrysler-jeep-dodge-ja4t5wa9xtz615308",
+      "region": "Lower Mainland",
+      "city": "Maple Ridge",
+      "province": "BC",
+      "dealer_name": "Maple Ridge Chrysler Jeep Dodge"
     }
   ]
 }

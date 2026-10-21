@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-21T02:11:39+00:00",
-  "snapshot": "2026-10-21T02:11:39+00:00",
+  "generated_at": "2026-10-21T20:22:01+00:00",
+  "snapshot": "2026-10-21T20:22:01+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 30,
+  "count": 31,
   "vehicles": [
     {
       "pub_id": "pioneer-chrysler-jeep-3vvuc7b22sm049847",
@@ -21,7 +21,7 @@
       "listing_url": "https://www.pioneerchryslerjeep.com/used/2025-Volkswagen-Taos.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2025-Volkswagen-Taos.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T22:26:21",
-      "snapshot": "2026-10-19T13:06:47",
+      "snapshot": "2026-10-20T19:34:27",
       "go_url": "https://carwhisper.ca/go/pioneer-chrysler-jeep-3vvuc7b22sm049847",
       "region": "Lower Mainland",
       "city": "Mission",
@@ -832,6 +832,35 @@
       "city": "Chilliwack",
       "province": "BC",
       "dealer_name": "Chilliwack Volkswagen"
+    },
+    {
+      "pub_id": "abbotsford-volkswagen-3vv2d7b24vm007754",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "trim": "Comfortline Black Edition",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 90,
+      "price_cad": 39920.0,
+      "price_note": null,
+      "color": "Light gray",
+      "dealer_id": "abbotsford-volkswagen",
+      "vin": "3VV2D7B24VM007754",
+      "stock": "14306784",
+      "listing_url": "https://www.abbotsfordvw.ca/new/inventory/2027-Volkswagen-Taos-id14306784.html",
+      "dealer_url": "https://www.abbotsfordvw.ca/new/inventory/2027-Volkswagen-Taos-id14306784.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-16T16:05:01",
+      "snapshot": "2026-10-20T15:29:30",
+      "go_url": "https://carwhisper.ca/go/abbotsford-volkswagen-3vv2d7b24vm007754",
+      "region": "Lower Mainland",
+      "city": "Abbotsford",
+      "province": "BC",
+      "dealer_name": "Abbotsford Volkswagen"
     }
   ]
 }

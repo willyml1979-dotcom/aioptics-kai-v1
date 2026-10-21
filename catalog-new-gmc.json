@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T02:11:39+00:00",
+  "generated_at": "2026-10-21T20:22:01+00:00",
   "condition": "new",
   "make": "gmc",
   "files": [
@@ -20,13 +20,13 @@
       "condition": "new",
       "make": "gmc",
       "model": "Terrain",
-      "shard": "part1",
-      "count": 27,
-      "file": "inventory/new-gmc-terrain-part1.json",
+      "shard": "Kootenays",
+      "count": 4,
+      "file": "inventory/new-gmc-terrain-kootenays.json",
       "models": [
         {
           "model": "Terrain",
-          "count": 27
+          "count": 4
         }
       ]
     },
@@ -34,13 +34,13 @@
       "condition": "new",
       "make": "gmc",
       "model": "Terrain",
-      "shard": "part2",
-      "count": 27,
-      "file": "inventory/new-gmc-terrain-part2.json",
+      "shard": "Lower Mainland",
+      "count": 28,
+      "file": "inventory/new-gmc-terrain-lower-mainland.json",
       "models": [
         {
           "model": "Terrain",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -48,13 +48,13 @@
       "condition": "new",
       "make": "gmc",
       "model": "Terrain",
-      "shard": "part3",
-      "count": 27,
-      "file": "inventory/new-gmc-terrain-part3.json",
+      "shard": "Norte/Cariboo",
+      "count": 32,
+      "file": "inventory/new-gmc-terrain-norte-cariboo.json",
       "models": [
         {
           "model": "Terrain",
-          "count": 27
+          "count": 32
         }
       ]
     },
@@ -62,13 +62,41 @@
       "condition": "new",
       "make": "gmc",
       "model": "Terrain",
-      "shard": "part4",
-      "count": 27,
-      "file": "inventory/new-gmc-terrain-part4.json",
+      "shard": "Okanagan",
+      "count": 15,
+      "file": "inventory/new-gmc-terrain-okanagan.json",
       "models": [
         {
           "model": "Terrain",
-          "count": 27
+          "count": 15
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Terrain",
+      "shard": "Vancouver Island",
+      "count": 15,
+      "file": "inventory/new-gmc-terrain-vancouver-island.json",
+      "models": [
+        {
+          "model": "Terrain",
+          "count": 15
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Terrain",
+      "shard": "sin-region",
+      "count": 13,
+      "file": "inventory/new-gmc-terrain-sin-region.json",
+      "models": [
+        {
+          "model": "Terrain",
+          "count": 13
         }
       ]
     },
@@ -131,12 +159,12 @@
       "make": "gmc",
       "model": "Canyon",
       "shard": "part3",
-      "count": 25,
+      "count": 24,
       "file": "inventory/new-gmc-canyon-part3.json",
       "models": [
         {
           "model": "Canyon",
-          "count": 25
+          "count": 24
         }
       ]
     },
@@ -471,12 +499,12 @@
       "make": "gmc",
       "model": "Sierra 3500HD",
       "shard": "part1",
-      "count": 31,
+      "count": 30,
       "file": "inventory/new-gmc-sierra-3500hd-part1.json",
       "models": [
         {
           "model": "Sierra 3500HD",
-          "count": 31
+          "count": 30
         }
       ]
     },
@@ -485,12 +513,12 @@
       "make": "gmc",
       "model": "Sierra 3500HD",
       "shard": "part2",
-      "count": 31,
+      "count": 30,
       "file": "inventory/new-gmc-sierra-3500hd-part2.json",
       "models": [
         {
           "model": "Sierra 3500HD",
-          "count": 31
+          "count": 30
         }
       ]
     },
@@ -499,12 +527,12 @@
       "make": "gmc",
       "model": "Sierra 3500HD",
       "shard": "part3",
-      "count": 31,
+      "count": 30,
       "file": "inventory/new-gmc-sierra-3500hd-part3.json",
       "models": [
         {
           "model": "Sierra 3500HD",
-          "count": 31
+          "count": 30
         }
       ]
     },
@@ -513,12 +541,12 @@
       "make": "gmc",
       "model": "Sierra 3500HD",
       "shard": "part4",
-      "count": 31,
+      "count": 30,
       "file": "inventory/new-gmc-sierra-3500hd-part4.json",
       "models": [
         {
           "model": "Sierra 3500HD",
-          "count": 31
+          "count": 30
         }
       ]
     },
@@ -527,12 +555,12 @@
       "make": "gmc",
       "model": "Sierra 3500HD",
       "shard": "part5",
-      "count": 31,
+      "count": 30,
       "file": "inventory/new-gmc-sierra-3500hd-part5.json",
       "models": [
         {
           "model": "Sierra 3500HD",
-          "count": 31
+          "count": 30
         }
       ]
     },
@@ -541,12 +569,12 @@
       "make": "gmc",
       "model": "Sierra 3500HD",
       "shard": "part6",
-      "count": 26,
+      "count": 27,
       "file": "inventory/new-gmc-sierra-3500hd-part6.json",
       "models": [
         {
           "model": "Sierra 3500HD",
-          "count": 26
+          "count": 27
         }
       ]
     },
@@ -608,12 +636,12 @@
       "make": "gmc",
       "model": "Yukon",
       "shard": "Norte/Cariboo",
-      "count": 7,
+      "count": 6,
       "file": "inventory/new-gmc-yukon-norte-cariboo.json",
       "models": [
         {
           "model": "Yukon",
-          "count": 7
+          "count": 6
         }
       ]
     },

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-21T02:11:39+00:00",
-  "snapshot": "2026-10-21T02:11:39+00:00",
+  "generated_at": "2026-10-21T20:22:01+00:00",
+  "snapshot": "2026-10-21T20:22:01+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "duncan-hyundai-1ftzr45e78pb05372",
@@ -79,6 +79,33 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Three Point Motors"
+    },
+    {
+      "pub_id": "harris-mazda-1fter4kh8sle67836",
+      "year": 2025,
+      "make": "Ford",
+      "model": "Ranger",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 19080,
+      "price_cad": 56999.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/42e74c7c-14b7-4724-8497-181ad87b1b53_e5b5556c-1d4a-4403-9246-20d3a0b277a1.jpg",
+      "dealer_id": "harris-mazda",
+      "vin": "1FTER4KH8SLE67836",
+      "stock": "B26-276",
+      "listing_url": "https://www.harrismazda.ca/vehicles/2025/ford/ranger/nanaimo/bc/ad13277648/?sale_class=used",
+      "dealer_url": "https://www.harrismazda.ca/vehicles/2025/ford/ranger/nanaimo/bc/ad13277648/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T19:29:27",
+      "snapshot": "2026-10-20T19:36:17",
+      "go_url": "https://carwhisper.ca/go/harris-mazda-1fter4kh8sle67836",
+      "region": "Vancouver Island",
+      "city": "Nanaimo",
+      "province": "BC",
+      "dealer_name": "Harris Mazda"
     },
     {
       "pub_id": "sunshine-mountain-ford-lincoln-ltd-1fter4lr8rle12465",
