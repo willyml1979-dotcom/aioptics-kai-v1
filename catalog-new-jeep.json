@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T14:22:15+00:00",
+  "generated_at": "2026-10-22T20:22:16+00:00",
   "condition": "new",
   "make": "jeep",
   "files": [
@@ -71,11 +71,11 @@
       "models": [
         {
           "model": "COMPASS",
-          "count": 9
+          "count": 10
         },
         {
           "model": "Compass",
-          "count": 21
+          "count": 20
         }
       ]
     },
@@ -89,11 +89,11 @@
       "models": [
         {
           "model": "COMPASS",
-          "count": 9
+          "count": 7
         },
         {
           "model": "Compass",
-          "count": 21
+          "count": 23
         }
       ]
     },
@@ -107,11 +107,11 @@
       "models": [
         {
           "model": "COMPASS",
-          "count": 11
+          "count": 12
         },
         {
           "model": "Compass",
-          "count": 19
+          "count": 18
         }
       ]
     },
@@ -134,12 +134,12 @@
       "make": "jeep",
       "model": "Compass",
       "shard": "part7",
-      "count": 28,
+      "count": 26,
       "file": "inventory/new-jeep-compass-part7.json",
       "models": [
         {
           "model": "Compass",
-          "count": 28
+          "count": 26
         }
       ]
     },
@@ -257,11 +257,11 @@
       "models": [
         {
           "model": "CHEROKEE",
-          "count": 5
+          "count": 4
         },
         {
           "model": "Cherokee",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -275,11 +275,11 @@
       "models": [
         {
           "model": "CHEROKEE",
-          "count": 2
+          "count": 3
         },
         {
           "model": "Cherokee",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -320,7 +320,7 @@
       "make": "jeep",
       "model": "Cherokee",
       "shard": "part10",
-      "count": 25,
+      "count": 27,
       "file": "inventory/new-jeep-cherokee-part10.json",
       "models": [
         {
@@ -329,7 +329,7 @@
         },
         {
           "model": "Cherokee",
-          "count": 24
+          "count": 26
         }
       ]
     },
@@ -567,25 +567,21 @@
     {
       "condition": "new",
       "make": "jeep",
-      "model": "GRAND CHEROKEE",
+      "model": "Grand Cherokee",
       "shard": "part1",
       "count": 26,
       "file": "inventory/new-jeep-grand-cherokee-part1.json",
       "models": [
         {
-          "model": "GRAND CHEROKEE",
-          "count": 1
-        },
-        {
           "model": "Grand Cherokee",
-          "count": 25
+          "count": 26
         }
       ]
     },
     {
       "condition": "new",
       "make": "jeep",
-      "model": "GRAND CHEROKEE",
+      "model": "Grand Cherokee",
       "shard": "part2",
       "count": 26,
       "file": "inventory/new-jeep-grand-cherokee-part2.json",
@@ -603,7 +599,7 @@
     {
       "condition": "new",
       "make": "jeep",
-      "model": "GRAND CHEROKEE",
+      "model": "Grand Cherokee",
       "shard": "part3",
       "count": 26,
       "file": "inventory/new-jeep-grand-cherokee-part3.json",
@@ -621,9 +617,9 @@
     {
       "condition": "new",
       "make": "jeep",
-      "model": "GRAND CHEROKEE",
+      "model": "Grand Cherokee",
       "shard": "part4",
-      "count": 26,
+      "count": 25,
       "file": "inventory/new-jeep-grand-cherokee-part4.json",
       "models": [
         {
@@ -632,7 +628,7 @@
         },
         {
           "model": "Grand Cherokee",
-          "count": 25
+          "count": 24
         }
       ]
     },

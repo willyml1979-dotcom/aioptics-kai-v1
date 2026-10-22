@@ -1,9 +1,35 @@
 {
-  "generated_at": "2026-10-22T14:22:15+00:00",
-  "snapshot": "2026-10-22T14:22:15+00:00",
+  "generated_at": "2026-10-22T20:22:16+00:00",
+  "snapshot": "2026-10-22T20:22:16+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 31,
   "vehicles": [
+    {
+      "pub_id": "cam-clark-ford-richmond-ltd-1ftew3lp8tfc04870",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": "XLT 4X4 SUPERCREW CAB 5.5 FT. BOX",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "Blue",
+      "dealer_id": "cam-clark-ford-richmond-ltd",
+      "vin": "1FTEW3LP8TFC04870",
+      "stock": "26F4870",
+      "listing_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-f-150-xlt-id15403896.htm",
+      "dealer_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-f-150-xlt-id15403896.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T03:02:36",
+      "snapshot": "2026-10-11T00:38:19",
+      "go_url": "https://carwhisper.ca/go/cam-clark-ford-richmond-ltd-1ftew3lp8tfc04870",
+      "region": "Lower Mainland",
+      "city": "Richmond",
+      "province": "BC",
+      "dealer_name": "Cam Clark Ford Richmond Ltd."
+    },
     {
       "pub_id": "cam-clark-ford-richmond-ltd-1ftfw3ld9tfc04998",
       "year": 2026,
@@ -783,30 +809,6 @@
       "city": "Prince George",
       "province": "BC",
       "dealer_name": "Prince George Ford"
-    },
-    {
-      "pub_id": "hoskins-ford-sales-ltd-79219-488946",
-      "year": 2027,
-      "make": "Ford",
-      "model": "F-150",
-      "trim": "XL 2WD Reg Cab 8' Box",
-      "propulsion": "unknown",
-      "propulsion_source": null,
-      "condition": "new",
-      "price_cad": 56485.0,
-      "price_note": null,
-      "color": "{$COLOREX}",
-      "dealer_id": "hoskins-ford-sales-ltd",
-      "stock": "79219-488946",
-      "listing_url": "https://www.hoskinsford.com/new/2027-Ford-F_150.html",
-      "dealer_url": "https://www.hoskinsford.com/new/2027-Ford-F_150.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T05:54:36",
-      "snapshot": "2026-10-22T05:56:21",
-      "go_url": "https://carwhisper.ca/go/hoskins-ford-sales-ltd-79219-488946",
-      "region": "Norte/Cariboo",
-      "city": "Smithers",
-      "province": "BC",
-      "dealer_name": "Hoskins Ford Sales Ltd"
     }
   ]
 }

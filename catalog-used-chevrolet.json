@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T14:22:15+00:00",
+  "generated_at": "2026-10-22T20:22:16+00:00",
   "condition": "used",
   "make": "chevrolet",
   "files": [
@@ -50,12 +50,12 @@
       "make": "chevrolet",
       "model": "Equinox",
       "shard": "part4",
-      "count": 27,
+      "count": 26,
       "file": "inventory/used-chevrolet-equinox-part4.json",
       "models": [
         {
           "model": "Equinox",
-          "count": 27
+          "count": 26
         }
       ]
     },
@@ -134,12 +134,12 @@
       "make": "chevrolet",
       "model": "Colorado",
       "shard": "Vancouver Island",
-      "count": 10,
+      "count": 9,
       "file": "inventory/used-chevrolet-colorado-vancouver-island.json",
       "models": [
         {
           "model": "Colorado",
-          "count": 10
+          "count": 9
         }
       ]
     },
@@ -246,12 +246,12 @@
       "make": "chevrolet",
       "model": "Traverse",
       "shard": "sin-region",
-      "count": 27,
+      "count": 28,
       "file": "inventory/used-chevrolet-traverse-sin-region.json",
       "models": [
         {
           "model": "Traverse",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -278,7 +278,7 @@
       "make": "chevrolet",
       "model": "Trailblazer",
       "shard": "Lower Mainland",
-      "count": 24,
+      "count": 25,
       "file": "inventory/used-chevrolet-trailblazer-lower-mainland.json",
       "models": [
         {
@@ -287,7 +287,7 @@
         },
         {
           "model": "Trailblazer",
-          "count": 17
+          "count": 18
         }
       ]
     },
@@ -418,12 +418,12 @@
       "make": "chevrolet",
       "model": "Trax",
       "shard": "part3",
-      "count": 25,
+      "count": 24,
       "file": "inventory/used-chevrolet-trax-part3.json",
       "models": [
         {
           "model": "Trax",
-          "count": 25
+          "count": 24
         }
       ]
     },
@@ -600,12 +600,12 @@
       "make": "chevrolet",
       "model": "Silverado 1500",
       "shard": "part13",
-      "count": 25,
+      "count": 22,
       "file": "inventory/used-chevrolet-silverado-1500-part13.json",
       "models": [
         {
           "model": "Silverado 1500",
-          "count": 25
+          "count": 22
         }
       ]
     },
@@ -645,19 +645,6 @@
         {
           "model": "Spark",
           "count": 31
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chevrolet",
-      "model": "Impala",
-      "count": 5,
-      "file": "inventory/used-chevrolet-impala.json",
-      "models": [
-        {
-          "model": "Impala",
-          "count": 5
         }
       ]
     },
@@ -885,12 +872,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Bolt EUV",
-      "count": 8,
+      "count": 9,
       "file": "inventory/used-chevrolet-bolt-euv.json",
       "models": [
         {
           "model": "Bolt EUV",
-          "count": 8
+          "count": 9
         }
       ]
     },
@@ -1076,12 +1063,12 @@
       "make": "chevrolet",
       "model": "Tahoe",
       "shard": "sin-region",
-      "count": 13,
+      "count": 12,
       "file": "inventory/used-chevrolet-tahoe-sin-region.json",
       "models": [
         {
           "model": "Tahoe",
-          "count": 13
+          "count": 12
         }
       ]
     },
@@ -1238,6 +1225,19 @@
         {
           "model": "EquinoxLT",
           "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Impala",
+      "count": 4,
+      "file": "inventory/used-chevrolet-impala.json",
+      "models": [
+        {
+          "model": "Impala",
+          "count": 4
         }
       ]
     },
@@ -1631,12 +1631,12 @@
     {
       "condition": "used",
       "make": "chevrolet",
-      "model": "Silverado 3500HD Built After Aug 14",
+      "model": "Colorado LT 4X4",
       "count": 1,
-      "file": "inventory/used-chevrolet-silverado-3500hd-built-after-aug-14.json",
+      "file": "inventory/used-chevrolet-colorado-lt-4x4.json",
       "models": [
         {
-          "model": "Silverado 3500HD Built After Aug 14",
+          "model": "Colorado LT 4X4",
           "count": 1
         }
       ]
@@ -1754,6 +1754,32 @@
       "models": [
         {
           "model": "ColoradoLT 4x4 Crew Cab 5 ft. box",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Express 3500 Commercial Cutaway",
+      "count": 1,
+      "file": "inventory/used-chevrolet-express-3500-commercial-cutaway.json",
+      "models": [
+        {
+          "model": "Express 3500 Commercial Cutaway",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Silverado 3500HD Built After Aug 14",
+      "count": 1,
+      "file": "inventory/used-chevrolet-silverado-3500hd-built-after-aug-14.json",
+      "models": [
+        {
+          "model": "Silverado 3500HD Built After Aug 14",
           "count": 1
         }
       ]
@@ -1957,12 +1983,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Silverado 3500HDHigh Country 4x4 Crew Cab 6.75 ft. box SRW",
-      "count": 3,
+      "count": 4,
       "file": "inventory/used-chevrolet-silverado-3500hdhigh-country-4x4-crew-cab-6-75-ft-box-srw.json",
       "models": [
         {
           "model": "Silverado 3500HDHigh Country 4x4 Crew Cab 6.75 ft. box SRW",
-          "count": 3
+          "count": 4
         }
       ]
     },

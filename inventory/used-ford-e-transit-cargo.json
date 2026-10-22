@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-22T14:22:15+00:00",
-  "snapshot": "2026-10-22T14:22:15+00:00",
+  "generated_at": "2026-10-22T20:22:16+00:00",
+  "snapshot": "2026-10-22T20:22:16+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "coastal-ford-burnaby-1ftbw3xm7tka33359",
@@ -24,13 +24,38 @@
       "vin": "1FTBW3XM7TKA33359",
       "listing_url": "https://www.coastalfordburnaby.com/en/used-inventory/v/v/v-id39303411",
       "dealer_url": "https://www.coastalfordburnaby.com/en/used-inventory/v/v/v-id39303411?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T16:57:10",
-      "snapshot": "2026-10-22T00:53:05",
+      "last_verified": "2026-10-22T11:34:54",
+      "snapshot": "2026-10-22T11:36:29",
       "go_url": "https://carwhisper.ca/go/coastal-ford-burnaby-1ftbw3xm7tka33359",
       "region": "Lower Mainland",
       "city": "Burnaby",
       "province": "BC",
       "dealer_name": "Coastal Ford Burnaby"
+    },
+    {
+      "pub_id": "south-coast-ford-sales-ltd-1ftbw1yk3nka81137",
+      "year": 2022,
+      "make": "Ford",
+      "model": "E-Transit Cargo",
+      "body_type": "van",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 75531,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "Oxford White",
+      "dealer_id": "south-coast-ford-sales-ltd",
+      "vin": "1FTBW1YK3NKA81137",
+      "stock": "U261740",
+      "listing_url": "https://www.southcoastford.com/inventory/2022-ford-e-transit-cargo-van/15012458",
+      "dealer_url": "https://www.southcoastford.com/inventory/2022-ford-e-transit-cargo-van/15012458?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T12:10:08",
+      "snapshot": "2026-10-22T12:13:31",
+      "go_url": "https://carwhisper.ca/go/south-coast-ford-sales-ltd-1ftbw1yk3nka81137",
+      "city": "Sechelt",
+      "province": "BC",
+      "dealer_name": "South Coast Ford Sales Ltd."
     }
   ]
 }

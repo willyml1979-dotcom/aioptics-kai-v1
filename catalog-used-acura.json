@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T14:22:15+00:00",
+  "generated_at": "2026-10-22T20:22:16+00:00",
   "condition": "used",
   "make": "acura",
   "files": [
@@ -133,12 +133,12 @@
       "make": "acura",
       "model": "RDX",
       "shard": "part6",
-      "count": 31,
+      "count": 30,
       "file": "inventory/used-acura-rdx-part6.json",
       "models": [
         {
           "model": "RDX",
-          "count": 31
+          "count": 30
         }
       ]
     },
@@ -244,12 +244,12 @@
       "condition": "used",
       "make": "acura",
       "model": "TL",
-      "count": 11,
+      "count": 14,
       "file": "inventory/used-acura-tl.json",
       "models": [
         {
           "model": "TL",
-          "count": 11
+          "count": 14
         }
       ]
     },
@@ -426,19 +426,6 @@
         {
           "model": "TLX SH-AWD A-Spec",
           "count": 14
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "acura",
-      "model": "RDX A-Spec AWD",
-      "count": 1,
-      "file": "inventory/used-acura-rdx-a-spec-awd.json",
-      "models": [
-        {
-          "model": "RDX A-Spec AWD",
-          "count": 1
         }
       ]
     },
