@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T02:22:02+00:00",
+  "generated_at": "2026-10-22T08:22:14+00:00",
   "condition": "used",
   "make": "acura",
   "files": [
@@ -7,13 +7,13 @@
       "condition": "used",
       "make": "acura",
       "model": "ILX",
-      "shard": "part1",
-      "count": 20,
-      "file": "inventory/used-acura-ilx-part1.json",
+      "shard": "Lower Mainland",
+      "count": 28,
+      "file": "inventory/used-acura-ilx-lower-mainland.json",
       "models": [
         {
           "model": "ILX",
-          "count": 20
+          "count": 28
         }
       ]
     },
@@ -21,13 +21,27 @@
       "condition": "used",
       "make": "acura",
       "model": "ILX",
-      "shard": "part2",
-      "count": 19,
-      "file": "inventory/used-acura-ilx-part2.json",
+      "shard": "Okanagan",
+      "count": 4,
+      "file": "inventory/used-acura-ilx-okanagan.json",
       "models": [
         {
           "model": "ILX",
-          "count": 19
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "acura",
+      "model": "ILX",
+      "shard": "sin-region",
+      "count": 2,
+      "file": "inventory/used-acura-ilx-sin-region.json",
+      "models": [
+        {
+          "model": "ILX",
+          "count": 2
         }
       ]
     },
@@ -49,12 +63,12 @@
       "make": "acura",
       "model": "RDX",
       "shard": "part1",
-      "count": 28,
+      "count": 31,
       "file": "inventory/used-acura-rdx-part1.json",
       "models": [
         {
           "model": "RDX",
-          "count": 28
+          "count": 31
         }
       ]
     },
@@ -63,12 +77,12 @@
       "make": "acura",
       "model": "RDX",
       "shard": "part2",
-      "count": 28,
+      "count": 31,
       "file": "inventory/used-acura-rdx-part2.json",
       "models": [
         {
           "model": "RDX",
-          "count": 28
+          "count": 31
         }
       ]
     },
@@ -77,12 +91,12 @@
       "make": "acura",
       "model": "RDX",
       "shard": "part3",
-      "count": 28,
+      "count": 31,
       "file": "inventory/used-acura-rdx-part3.json",
       "models": [
         {
           "model": "RDX",
-          "count": 28
+          "count": 31
         }
       ]
     },
@@ -91,12 +105,12 @@
       "make": "acura",
       "model": "RDX",
       "shard": "part4",
-      "count": 28,
+      "count": 31,
       "file": "inventory/used-acura-rdx-part4.json",
       "models": [
         {
           "model": "RDX",
-          "count": 28
+          "count": 31
         }
       ]
     },
@@ -105,12 +119,12 @@
       "make": "acura",
       "model": "RDX",
       "shard": "part5",
-      "count": 28,
+      "count": 31,
       "file": "inventory/used-acura-rdx-part5.json",
       "models": [
         {
           "model": "RDX",
-          "count": 28
+          "count": 31
         }
       ]
     },
@@ -119,12 +133,12 @@
       "make": "acura",
       "model": "RDX",
       "shard": "part6",
-      "count": 27,
+      "count": 31,
       "file": "inventory/used-acura-rdx-part6.json",
       "models": [
         {
           "model": "RDX",
-          "count": 27
+          "count": 31
         }
       ]
     },
@@ -133,12 +147,12 @@
       "make": "acura",
       "model": "MDX",
       "shard": "part1",
-      "count": 32,
+      "count": 28,
       "file": "inventory/used-acura-mdx-part1.json",
       "models": [
         {
           "model": "MDX",
-          "count": 32
+          "count": 28
         }
       ]
     },
@@ -147,12 +161,12 @@
       "make": "acura",
       "model": "MDX",
       "shard": "part2",
-      "count": 32,
+      "count": 28,
       "file": "inventory/used-acura-mdx-part2.json",
       "models": [
         {
           "model": "MDX",
-          "count": 32
+          "count": 28
         }
       ]
     },
@@ -161,12 +175,12 @@
       "make": "acura",
       "model": "MDX",
       "shard": "part3",
-      "count": 32,
+      "count": 28,
       "file": "inventory/used-acura-mdx-part3.json",
       "models": [
         {
           "model": "MDX",
-          "count": 32
+          "count": 28
         }
       ]
     },
@@ -175,12 +189,12 @@
       "make": "acura",
       "model": "MDX",
       "shard": "part4",
-      "count": 32,
+      "count": 28,
       "file": "inventory/used-acura-mdx-part4.json",
       "models": [
         {
           "model": "MDX",
-          "count": 32
+          "count": 28
         }
       ]
     },
@@ -189,12 +203,12 @@
       "make": "acura",
       "model": "MDX",
       "shard": "part5",
-      "count": 32,
+      "count": 28,
       "file": "inventory/used-acura-mdx-part5.json",
       "models": [
         {
           "model": "MDX",
-          "count": 32
+          "count": 28
         }
       ]
     },
@@ -203,12 +217,39 @@
       "make": "acura",
       "model": "MDX",
       "shard": "part6",
-      "count": 30,
+      "count": 28,
       "file": "inventory/used-acura-mdx-part6.json",
       "models": [
         {
           "model": "MDX",
-          "count": 30
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "acura",
+      "model": "MDX",
+      "shard": "part7",
+      "count": 28,
+      "file": "inventory/used-acura-mdx-part7.json",
+      "models": [
+        {
+          "model": "MDX",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "acura",
+      "model": "TL",
+      "count": 4,
+      "file": "inventory/used-acura-tl.json",
+      "models": [
+        {
+          "model": "TL",
+          "count": 4
         }
       ]
     },
@@ -392,12 +433,12 @@
       "condition": "used",
       "make": "acura",
       "model": "RDX A-Spec AWD",
-      "count": 9,
+      "count": 7,
       "file": "inventory/used-acura-rdx-a-spec-awd.json",
       "models": [
         {
           "model": "RDX A-Spec AWD",
-          "count": 9
+          "count": 7
         }
       ]
     },

@@ -1,33 +1,9 @@
 {
-  "generated_at": "2026-10-22T02:22:02+00:00",
-  "snapshot": "2026-10-22T02:22:02+00:00",
+  "generated_at": "2026-10-22T08:22:14+00:00",
+  "snapshot": "2026-10-22T08:22:14+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 31,
   "vehicles": [
-    {
-      "pub_id": "okanagan-chrysler-dodge-jeep-ram-1fmde5cp3mla75509",
-      "year": 2021,
-      "make": "Ford",
-      "model": "Bronco",
-      "propulsion": "unknown",
-      "propulsion_source": null,
-      "condition": "used",
-      "price_cad": 38904.0,
-      "price_note": null,
-      "color": "Blue",
-      "dealer_id": "okanagan-chrysler-dodge-jeep-ram",
-      "vin": "1FMDE5CP3MLA75509",
-      "stock": 14279448,
-      "listing_url": "https://www.okanagandodge.com/used/2021-Ford-Bronco.html",
-      "dealer_url": "https://www.okanagandodge.com/used/2021-Ford-Bronco.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T17:22:19",
-      "snapshot": "2026-10-21T15:18:56",
-      "go_url": "https://carwhisper.ca/go/okanagan-chrysler-dodge-jeep-ram-1fmde5cp3mla75509",
-      "region": "Okanagan",
-      "city": "Kelowna",
-      "province": "BC",
-      "dealer_name": "Okanagan Chrysler Dodge Jeep Ram"
-    },
     {
       "pub_id": "penticton-nissan-1fmde5cp3mla75509",
       "year": 2021,
@@ -822,6 +798,32 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Dearborn Motors Ltd."
+    },
+    {
+      "pub_id": "kamloops-ford-lincoln-ltd-1fmee0rr2tlb12399",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Bronco",
+      "trim": "Raptor 4dr 4x4",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 2565,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "kamloops-ford-lincoln-ltd",
+      "vin": "1FMEE0RR2TLB12399",
+      "stock": "U7000A",
+      "listing_url": "https://www.kamloopsford.ca/used/vehicle/2026-ford-bronco-raptor-id15380255.htm",
+      "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2026-ford-bronco-raptor-id15380255.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T07:44:00",
+      "snapshot": "2026-10-21T19:24:40",
+      "go_url": "https://carwhisper.ca/go/kamloops-ford-lincoln-ltd-1fmee0rr2tlb12399",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Kamloops Ford Lincoln Ltd."
     }
   ]
 }

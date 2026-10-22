@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T02:22:02+00:00",
+  "generated_at": "2026-10-22T08:22:14+00:00",
   "condition": "new",
   "make": "bmw",
   "files": [
@@ -35,12 +35,12 @@
       "condition": "new",
       "make": "bmw",
       "model": "2 Series",
-      "count": 23,
+      "count": 25,
       "file": "inventory/new-bmw-2-series.json",
       "models": [
         {
           "model": "2 Series",
-          "count": 23
+          "count": 25
         }
       ]
     },
@@ -91,12 +91,12 @@
       "make": "bmw",
       "model": "X1",
       "shard": "part4",
-      "count": 28,
+      "count": 30,
       "file": "inventory/new-bmw-x1-part4.json",
       "models": [
         {
           "model": "X1",
-          "count": 28
+          "count": 30
         }
       ]
     },
@@ -200,12 +200,12 @@
       "make": "bmw",
       "model": "X3",
       "shard": "part1",
-      "count": 24,
+      "count": 26,
       "file": "inventory/new-bmw-x3-part1.json",
       "models": [
         {
           "model": "X3",
-          "count": 24
+          "count": 26
         }
       ]
     },
@@ -214,12 +214,12 @@
       "make": "bmw",
       "model": "X3",
       "shard": "part2",
-      "count": 23,
+      "count": 25,
       "file": "inventory/new-bmw-x3-part2.json",
       "models": [
         {
           "model": "X3",
-          "count": 23
+          "count": 25
         }
       ]
     },
@@ -383,12 +383,12 @@
       "condition": "new",
       "make": "bmw",
       "model": "i5",
-      "count": 4,
+      "count": 5,
       "file": "inventory/new-bmw-i5.json",
       "models": [
         {
           "model": "i5",
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -448,12 +448,12 @@
       "condition": "new",
       "make": "bmw",
       "model": "iX",
-      "count": 9,
+      "count": 10,
       "file": "inventory/new-bmw-ix.json",
       "models": [
         {
           "model": "iX",
-          "count": 9
+          "count": 10
         }
       ]
     },
@@ -461,12 +461,12 @@
       "condition": "new",
       "make": "bmw",
       "model": "X5",
-      "count": 10,
+      "count": 9,
       "file": "inventory/new-bmw-x5.json",
       "models": [
         {
           "model": "X5",
-          "count": 10
+          "count": 9
         }
       ]
     },
@@ -487,12 +487,12 @@
       "condition": "new",
       "make": "bmw",
       "model": "X5 PHEV Plug-In Hybrid",
-      "count": 3,
+      "count": 2,
       "file": "inventory/new-bmw-x5-phev-plug-in-hybrid.json",
       "models": [
         {
           "model": "X5 PHEV Plug-In Hybrid",
-          "count": 3
+          "count": 2
         }
       ]
     },
@@ -526,12 +526,12 @@
       "condition": "new",
       "make": "bmw",
       "model": "X6",
-      "count": 10,
+      "count": 11,
       "file": "inventory/new-bmw-x6.json",
       "models": [
         {
           "model": "X6",
-          "count": 10
+          "count": 11
         }
       ]
     },
@@ -545,6 +545,19 @@
         {
           "model": "M4 Convertible - Cabriolet M4 Competition Cabriolet",
           "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "bmw",
+      "model": "M3",
+      "count": 1,
+      "file": "inventory/new-bmw-m3.json",
+      "models": [
+        {
+          "model": "M3",
+          "count": 1
         }
       ]
     },

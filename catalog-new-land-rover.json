@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T02:22:02+00:00",
+  "generated_at": "2026-10-22T08:22:14+00:00",
   "condition": "new",
   "make": "land-rover",
   "files": [
@@ -7,12 +7,12 @@
       "condition": "new",
       "make": "land-rover",
       "model": "Range Rover Evoque",
-      "count": 11,
+      "count": 13,
       "file": "inventory/new-land-rover-range-rover-evoque.json",
       "models": [
         {
           "model": "Range Rover Evoque",
-          "count": 11
+          "count": 13
         }
       ]
     },
@@ -20,12 +20,12 @@
       "condition": "new",
       "make": "land-rover",
       "model": "Range Rover Velar",
-      "count": 19,
+      "count": 24,
       "file": "inventory/new-land-rover-range-rover-velar.json",
       "models": [
         {
           "model": "Range Rover Velar",
-          "count": 19
+          "count": 24
         }
       ]
     },
@@ -89,12 +89,12 @@
       "make": "land-rover",
       "model": "Range Rover Sport Mild Hybrid",
       "shard": "part1",
-      "count": 20,
+      "count": 21,
       "file": "inventory/new-land-rover-range-rover-sport-mild-hybrid-part1.json",
       "models": [
         {
           "model": "Range Rover Sport Mild Hybrid",
-          "count": 20
+          "count": 21
         }
       ]
     },
@@ -103,12 +103,12 @@
       "make": "land-rover",
       "model": "Range Rover Sport Mild Hybrid",
       "shard": "part2",
-      "count": 20,
+      "count": 21,
       "file": "inventory/new-land-rover-range-rover-sport-mild-hybrid-part2.json",
       "models": [
         {
           "model": "Range Rover Sport Mild Hybrid",
-          "count": 20
+          "count": 21
         }
       ]
     },
@@ -116,12 +116,12 @@
       "condition": "new",
       "make": "land-rover",
       "model": "Range Rover Mild Hybrid",
-      "count": 11,
+      "count": 13,
       "file": "inventory/new-land-rover-range-rover-mild-hybrid.json",
       "models": [
         {
           "model": "Range Rover Mild Hybrid",
-          "count": 11
+          "count": 13
         }
       ]
     },
@@ -135,6 +135,19 @@
         {
           "model": "Range Rover",
           "count": 9
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "land-rover",
+      "model": "Range Rover Plug-in Hybrid",
+      "count": 2,
+      "file": "inventory/new-land-rover-range-rover-plug-in-hybrid.json",
+      "models": [
+        {
+          "model": "Range Rover Plug-in Hybrid",
+          "count": 2
         }
       ]
     },

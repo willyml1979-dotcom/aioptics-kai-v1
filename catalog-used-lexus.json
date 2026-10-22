@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T02:22:02+00:00",
+  "generated_at": "2026-10-22T08:22:14+00:00",
   "condition": "used",
   "make": "lexus",
   "files": [
@@ -21,12 +21,12 @@
       "make": "lexus",
       "model": "RX",
       "shard": "part1",
-      "count": 32,
+      "count": 30,
       "file": "inventory/used-lexus-rx-part1.json",
       "models": [
         {
           "model": "RX",
-          "count": 32
+          "count": 30
         }
       ]
     },
@@ -35,12 +35,12 @@
       "make": "lexus",
       "model": "RX",
       "shard": "part2",
-      "count": 32,
+      "count": 30,
       "file": "inventory/used-lexus-rx-part2.json",
       "models": [
         {
           "model": "RX",
-          "count": 32
+          "count": 30
         }
       ]
     },
@@ -49,12 +49,12 @@
       "make": "lexus",
       "model": "RX",
       "shard": "part3",
-      "count": 32,
+      "count": 30,
       "file": "inventory/used-lexus-rx-part3.json",
       "models": [
         {
           "model": "RX",
-          "count": 32
+          "count": 30
         }
       ]
     },
@@ -75,12 +75,12 @@
       "condition": "used",
       "make": "lexus",
       "model": "IS 250",
-      "count": 2,
+      "count": 1,
       "file": "inventory/used-lexus-is-250.json",
       "models": [
         {
           "model": "IS 250",
-          "count": 2
+          "count": 1
         }
       ]
     },
@@ -89,12 +89,12 @@
       "make": "lexus",
       "model": "NX",
       "shard": "part1",
-      "count": 22,
+      "count": 27,
       "file": "inventory/used-lexus-nx-part1.json",
       "models": [
         {
           "model": "NX",
-          "count": 22
+          "count": 27
         }
       ]
     },
@@ -103,26 +103,12 @@
       "make": "lexus",
       "model": "NX",
       "shard": "part2",
-      "count": 22,
+      "count": 26,
       "file": "inventory/used-lexus-nx-part2.json",
       "models": [
         {
           "model": "NX",
-          "count": 22
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "lexus",
-      "model": "NX",
-      "shard": "part3",
-      "count": 21,
-      "file": "inventory/used-lexus-nx-part3.json",
-      "models": [
-        {
-          "model": "NX",
-          "count": 21
+          "count": 26
         }
       ]
     },
@@ -183,12 +169,12 @@
       "make": "lexus",
       "model": "UXh",
       "shard": "part1",
-      "count": 21,
+      "count": 19,
       "file": "inventory/used-lexus-uxh-part1.json",
       "models": [
         {
           "model": "UXh",
-          "count": 21
+          "count": 19
         }
       ]
     },
@@ -197,12 +183,12 @@
       "make": "lexus",
       "model": "UXh",
       "shard": "part2",
-      "count": 21,
+      "count": 19,
       "file": "inventory/used-lexus-uxh-part2.json",
       "models": [
         {
           "model": "UXh",
-          "count": 21
+          "count": 19
         }
       ]
     },
@@ -236,12 +222,12 @@
       "condition": "used",
       "make": "lexus",
       "model": "RXh",
-      "count": 8,
+      "count": 2,
       "file": "inventory/used-lexus-rxh.json",
       "models": [
         {
           "model": "RXh",
-          "count": 8
+          "count": 2
         }
       ]
     },
@@ -366,12 +352,27 @@
       "condition": "used",
       "make": "lexus",
       "model": "GX",
-      "count": 31,
-      "file": "inventory/used-lexus-gx.json",
+      "shard": "part1",
+      "count": 19,
+      "file": "inventory/used-lexus-gx-part1.json",
       "models": [
         {
           "model": "GX",
-          "count": 31
+          "count": 19
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "GX",
+      "shard": "part2",
+      "count": 19,
+      "file": "inventory/used-lexus-gx-part2.json",
+      "models": [
+        {
+          "model": "GX",
+          "count": 19
         }
       ]
     },
@@ -488,6 +489,19 @@
       "models": [
         {
           "model": "RC",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "CT Premium",
+      "count": 1,
+      "file": "inventory/used-lexus-ct-premium.json",
+      "models": [
+        {
+          "model": "CT Premium",
           "count": 1
         }
       ]

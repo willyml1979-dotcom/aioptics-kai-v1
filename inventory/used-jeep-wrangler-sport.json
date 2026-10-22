@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-22T02:22:02+00:00",
-  "snapshot": "2026-10-22T02:22:02+00:00",
+  "generated_at": "2026-10-22T08:22:14+00:00",
+  "snapshot": "2026-10-22T08:22:14+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "kelowna-toyota-ltd-1c4hjxdg7jw153666",
@@ -29,6 +29,30 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Kelowna Toyota Ltd."
+    },
+    {
+      "pub_id": "duncan-chrysler-dodge-jeep-ram-ltd-1c4pjxan5sw564337",
+      "year": 2025,
+      "make": "Jeep",
+      "model": "Wrangler Sport",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "Grey",
+      "dealer_id": "duncan-chrysler-dodge-jeep-ram-ltd",
+      "vin": "1C4PJXAN5SW564337",
+      "stock": "F25WR43",
+      "listing_url": "https://www.duncandodge.ca/vehicles/2025/jeep/wrangler/duncan/bc/ad13280509/?sale_class=used",
+      "dealer_url": "https://www.duncandodge.ca/vehicles/2025/jeep/wrangler/duncan/bc/ad13280509/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T01:00:04",
+      "snapshot": "2026-10-22T01:00:45",
+      "go_url": "https://carwhisper.ca/go/duncan-chrysler-dodge-jeep-ram-ltd-1c4pjxan5sw564337",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Chrysler Dodge Jeep Ram Ltd."
     }
   ]
 }

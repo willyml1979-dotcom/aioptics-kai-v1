@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-22T02:22:02+00:00",
-  "snapshot": "2026-10-22T02:22:02+00:00",
+  "generated_at": "2026-10-22T08:22:14+00:00",
+  "snapshot": "2026-10-22T08:22:14+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 12,
+  "count": 13,
   "vehicles": [
     {
       "pub_id": "maple-ridge-hyundai-1fbzx2cg5gka91261",
@@ -227,6 +227,31 @@
       "dealer_name": "Jacobson Ford Sales Ltd."
     },
     {
+      "pub_id": "duncan-hyundai-1fbzx2cg5gka91261",
+      "year": 2016,
+      "make": "Ford",
+      "model": "F-350",
+      "body_type": "wagon",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 22999.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "duncan-hyundai",
+      "vin": "1FBZX2CG5GKA91261",
+      "stock": 14543478,
+      "listing_url": "https://www.duncanhyundai.net/used/2016-Ford-F_350.html",
+      "dealer_url": "https://www.duncanhyundai.net/used/2016-Ford-F_350.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T00:57:53",
+      "snapshot": "2026-10-22T01:01:23",
+      "go_url": "https://carwhisper.ca/go/duncan-hyundai-1fbzx2cg5gka91261",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Hyundai"
+    },
+    {
       "pub_id": "south-coast-ford-sales-ltd-1ft8w3ba7ped21300",
       "year": 2023,
       "make": "Ford",
@@ -242,7 +267,7 @@
       "stock": "U261490",
       "listing_url": "https://www.southcoastford.com/inventory/2023-ford-f-350/14656611",
       "dealer_url": "https://www.southcoastford.com/inventory/2023-ford-f-350/14656611?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T11:34:30",
+      "last_verified": "2026-10-22T01:24:47",
       "snapshot": "2026-10-20T17:38:28",
       "go_url": "https://carwhisper.ca/go/south-coast-ford-sales-ltd-1ft8w3ba7ped21300",
       "city": "Sechelt",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T02:22:02+00:00",
+  "generated_at": "2026-10-22T08:22:14+00:00",
   "condition": "used",
   "make": "porsche",
   "files": [
@@ -8,12 +8,12 @@
       "make": "porsche",
       "model": "Cayenne",
       "shard": "part1",
-      "count": 23,
+      "count": 21,
       "file": "inventory/used-porsche-cayenne-part1.json",
       "models": [
         {
           "model": "Cayenne",
-          "count": 23
+          "count": 21
         }
       ]
     },
@@ -22,12 +22,12 @@
       "make": "porsche",
       "model": "Cayenne",
       "shard": "part2",
-      "count": 23,
+      "count": 21,
       "file": "inventory/used-porsche-cayenne-part2.json",
       "models": [
         {
           "model": "Cayenne",
-          "count": 23
+          "count": 21
         }
       ]
     },
@@ -36,7 +36,7 @@
       "make": "porsche",
       "model": "Cayenne",
       "shard": "part3",
-      "count": 22,
+      "count": 21,
       "file": "inventory/used-porsche-cayenne-part3.json",
       "models": [
         {
@@ -45,7 +45,7 @@
         },
         {
           "model": "Cayenne",
-          "count": 21
+          "count": 20
         }
       ]
     },
@@ -179,19 +179,6 @@
     {
       "condition": "used",
       "make": "porsche",
-      "model": "Cayenne AWD",
-      "count": 14,
-      "file": "inventory/used-porsche-cayenne-awd.json",
-      "models": [
-        {
-          "model": "Cayenne AWD",
-          "count": 14
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "porsche",
       "model": "Panamera 4 e-Hybrid",
       "count": 28,
       "file": "inventory/used-porsche-panamera-4-e-hybrid.json",
@@ -251,6 +238,19 @@
         {
           "model": "911S",
           "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "porsche",
+      "model": "Cayenne AWD",
+      "count": 10,
+      "file": "inventory/used-porsche-cayenne-awd.json",
+      "models": [
+        {
+          "model": "Cayenne AWD",
+          "count": 10
         }
       ]
     },

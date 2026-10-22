@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T02:22:02+00:00",
+  "generated_at": "2026-10-22T08:22:14+00:00",
   "condition": "used",
   "make": "audi",
   "files": [
@@ -7,12 +7,12 @@
       "condition": "used",
       "make": "audi",
       "model": "SQ5",
-      "count": 12,
+      "count": 20,
       "file": "inventory/used-audi-sq5.json",
       "models": [
         {
           "model": "SQ5",
-          "count": 12
+          "count": 20
         }
       ]
     },
@@ -132,12 +132,12 @@
       "make": "audi",
       "model": "Q7",
       "shard": "part2",
-      "count": 21,
+      "count": 22,
       "file": "inventory/used-audi-q7-part2.json",
       "models": [
         {
           "model": "Q7",
-          "count": 21
+          "count": 22
         }
       ]
     },
@@ -483,12 +483,12 @@
       "condition": "used",
       "make": "audi",
       "model": "New SQ5",
-      "count": 14,
+      "count": 13,
       "file": "inventory/used-audi-new-sq5.json",
       "models": [
         {
           "model": "New SQ5",
-          "count": 14
+          "count": 13
         }
       ]
     },
@@ -496,12 +496,25 @@
       "condition": "used",
       "make": "audi",
       "model": "RS 3",
-      "count": 9,
+      "count": 4,
       "file": "inventory/used-audi-rs-3.json",
       "models": [
         {
           "model": "RS 3",
-          "count": 9
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "audi",
+      "model": "RS 5 Sportback",
+      "count": 18,
+      "file": "inventory/used-audi-rs-5-sportback.json",
+      "models": [
+        {
+          "model": "RS 5 Sportback",
+          "count": 18
         }
       ]
     },
@@ -534,26 +547,13 @@
     {
       "condition": "used",
       "make": "audi",
-      "model": "RS 5 Sportback",
-      "count": 14,
-      "file": "inventory/used-audi-rs-5-sportback.json",
-      "models": [
-        {
-          "model": "RS 5 Sportback",
-          "count": 14
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "audi",
       "model": "RS 6 Avant 4.0T quattro 8sp S-tronic",
-      "count": 13,
+      "count": 14,
       "file": "inventory/used-audi-rs-6-avant-4-0t-quattro-8sp-s-tronic.json",
       "models": [
         {
           "model": "RS 6 Avant 4.0T quattro 8sp S-tronic",
-          "count": 13
+          "count": 14
         }
       ]
     },

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-22T02:22:02+00:00",
-  "snapshot": "2026-10-22T02:22:02+00:00",
+  "generated_at": "2026-10-22T08:22:14+00:00",
+  "snapshot": "2026-10-22T08:22:14+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 29,
+  "count": 30,
   "vehicles": [
     {
       "pub_id": "richmond-hyundai-km8he3a68ru017297",
@@ -53,7 +53,7 @@
       "listing_url": "https://www.kiawest.com/vehicles/2024/hyundai/kona-electric/coquitlam/bc/71343736/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2024/hyundai/kona-electric/coquitlam/bc/71343736/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T22:51:06",
-      "snapshot": "2026-10-19T19:57:08",
+      "snapshot": "2026-10-21T20:38:58",
       "go_url": "https://carwhisper.ca/go/go-kia-west-km8he3a68ru006770",
       "region": "Lower Mainland",
       "city": "Coquitlam",
@@ -80,7 +80,7 @@
       "listing_url": "https://www.kiawest.com/vehicles/2026/hyundai/kona/coquitlam/bc/71406074/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2026/hyundai/kona/coquitlam/bc/71406074/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T16:47:33",
-      "snapshot": "2026-10-19T19:57:08",
+      "snapshot": "2026-10-21T20:38:58",
       "go_url": "https://carwhisper.ca/go/go-kia-west-km8heca33tu471938",
       "region": "Lower Mainland",
       "city": "Coquitlam",
@@ -773,6 +773,30 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Kelowna Hyundai"
+    },
+    {
+      "pub_id": "okanagan-chrysler-dodge-jeep-ram-km8k6cab7nu884409",
+      "year": 2022,
+      "make": "Hyundai",
+      "model": "Kona",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 25904.0,
+      "price_note": null,
+      "color": "Grey",
+      "dealer_id": "okanagan-chrysler-dodge-jeep-ram",
+      "vin": "KM8K6CAB7NU884409",
+      "stock": 14365266,
+      "listing_url": "https://www.okanagandodge.com/used/2022-Hyundai-Kona.html",
+      "dealer_url": "https://www.okanagandodge.com/used/2022-Hyundai-Kona.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-13T17:30:24",
+      "snapshot": "2026-10-21T15:18:56",
+      "go_url": "https://carwhisper.ca/go/okanagan-chrysler-dodge-jeep-ram-km8k6cab7nu884409",
+      "region": "Okanagan",
+      "city": "Kelowna",
+      "province": "BC",
+      "dealer_name": "Okanagan Chrysler Dodge Jeep Ram"
     }
   ]
 }

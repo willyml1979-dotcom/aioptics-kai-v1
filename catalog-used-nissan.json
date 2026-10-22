@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T02:22:02+00:00",
+  "generated_at": "2026-10-22T08:22:14+00:00",
   "condition": "used",
   "make": "nissan",
   "files": [
@@ -152,8 +152,12 @@
       "file": "inventory/used-nissan-rogue-part11.json",
       "models": [
         {
+          "model": "ROGUE",
+          "count": 1
+        },
+        {
           "model": "Rogue",
-          "count": 30
+          "count": 29
         }
       ]
     },
@@ -236,12 +240,12 @@
       "make": "nissan",
       "model": "Rogue",
       "shard": "part17",
-      "count": 24,
+      "count": 18,
       "file": "inventory/used-nissan-rogue-part17.json",
       "models": [
         {
           "model": "Rogue",
-          "count": 24
+          "count": 18
         }
       ]
     },
@@ -263,16 +267,16 @@
       "make": "nissan",
       "model": "ARIYA",
       "shard": "part1",
-      "count": 27,
+      "count": 26,
       "file": "inventory/used-nissan-ariya-part1.json",
       "models": [
         {
           "model": "ARIYA",
-          "count": 22
+          "count": 25
         },
         {
           "model": "Ariya",
-          "count": 5
+          "count": 1
         }
       ]
     },
@@ -281,16 +285,16 @@
       "make": "nissan",
       "model": "ARIYA",
       "shard": "part2",
-      "count": 27,
+      "count": 26,
       "file": "inventory/used-nissan-ariya-part2.json",
       "models": [
         {
           "model": "ARIYA",
-          "count": 14
+          "count": 10
         },
         {
           "model": "Ariya",
-          "count": 13
+          "count": 16
         }
       ]
     },
@@ -369,12 +373,12 @@
       "condition": "used",
       "make": "nissan",
       "model": "Versa Note",
-      "count": 20,
+      "count": 14,
       "file": "inventory/used-nissan-versa-note.json",
       "models": [
         {
           "model": "Versa Note",
-          "count": 20
+          "count": 14
         }
       ]
     },
@@ -382,7 +386,7 @@
       "condition": "used",
       "make": "nissan",
       "model": "Altima",
-      "count": 26,
+      "count": 31,
       "file": "inventory/used-nissan-altima.json",
       "models": [
         {
@@ -391,7 +395,7 @@
         },
         {
           "model": "Altima",
-          "count": 25
+          "count": 30
         }
       ]
     },
@@ -413,12 +417,12 @@
       "make": "nissan",
       "model": "Sentra",
       "shard": "part1",
-      "count": 30,
+      "count": 31,
       "file": "inventory/used-nissan-sentra-part1.json",
       "models": [
         {
           "model": "Sentra",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -427,12 +431,12 @@
       "make": "nissan",
       "model": "Sentra",
       "shard": "part2",
-      "count": 30,
+      "count": 31,
       "file": "inventory/used-nissan-sentra-part2.json",
       "models": [
         {
           "model": "Sentra",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -441,12 +445,12 @@
       "make": "nissan",
       "model": "Sentra",
       "shard": "part3",
-      "count": 30,
+      "count": 31,
       "file": "inventory/used-nissan-sentra-part3.json",
       "models": [
         {
           "model": "Sentra",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -455,12 +459,12 @@
       "make": "nissan",
       "model": "Sentra",
       "shard": "part4",
-      "count": 28,
+      "count": 30,
       "file": "inventory/used-nissan-sentra-part4.json",
       "models": [
         {
           "model": "Sentra",
-          "count": 28
+          "count": 30
         }
       ]
     },
@@ -553,12 +557,12 @@
       "make": "nissan",
       "model": "Pathfinder",
       "shard": "part7",
-      "count": 22,
+      "count": 25,
       "file": "inventory/used-nissan-pathfinder-part7.json",
       "models": [
         {
           "model": "Pathfinder",
-          "count": 22
+          "count": 25
         }
       ]
     },
@@ -567,12 +571,12 @@
       "make": "nissan",
       "model": "Murano",
       "shard": "part1",
-      "count": 31,
+      "count": 28,
       "file": "inventory/used-nissan-murano-part1.json",
       "models": [
         {
           "model": "Murano",
-          "count": 31
+          "count": 28
         }
       ]
     },
@@ -581,12 +585,12 @@
       "make": "nissan",
       "model": "Murano",
       "shard": "part2",
-      "count": 31,
+      "count": 28,
       "file": "inventory/used-nissan-murano-part2.json",
       "models": [
         {
           "model": "Murano",
-          "count": 31
+          "count": 28
         }
       ]
     },
@@ -595,12 +599,12 @@
       "make": "nissan",
       "model": "Murano",
       "shard": "part3",
-      "count": 31,
+      "count": 28,
       "file": "inventory/used-nissan-murano-part3.json",
       "models": [
         {
           "model": "Murano",
-          "count": 31
+          "count": 28
         }
       ]
     },
@@ -609,12 +613,26 @@
       "make": "nissan",
       "model": "Murano",
       "shard": "part4",
-      "count": 31,
+      "count": 28,
       "file": "inventory/used-nissan-murano-part4.json",
       "models": [
         {
           "model": "Murano",
-          "count": 31
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Murano",
+      "shard": "part5",
+      "count": 26,
+      "file": "inventory/used-nissan-murano-part5.json",
+      "models": [
+        {
+          "model": "Murano",
+          "count": 26
         }
       ]
     },
@@ -697,12 +715,12 @@
       "make": "nissan",
       "model": "Kicks",
       "shard": "part6",
-      "count": 26,
+      "count": 28,
       "file": "inventory/used-nissan-kicks-part6.json",
       "models": [
         {
           "model": "Kicks",
-          "count": 26
+          "count": 28
         }
       ]
     },
@@ -781,12 +799,38 @@
       "make": "nissan",
       "model": "Qashqai",
       "shard": "sin-region",
-      "count": 11,
+      "count": 9,
       "file": "inventory/used-nissan-qashqai-sin-region.json",
       "models": [
         {
           "model": "Qashqai",
-          "count": 11
+          "count": 9
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Sentra SV",
+      "count": 3,
+      "file": "inventory/used-nissan-sentra-sv.json",
+      "models": [
+        {
+          "model": "Sentra SV",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "MuranoPlatinum",
+      "count": 4,
+      "file": "inventory/used-nissan-muranoplatinum.json",
+      "models": [
+        {
+          "model": "MuranoPlatinum",
+          "count": 4
         }
       ]
     },
@@ -795,12 +839,12 @@
       "make": "nissan",
       "model": "Versa",
       "shard": "Lower Mainland",
-      "count": 25,
+      "count": 24,
       "file": "inventory/used-nissan-versa-lower-mainland.json",
       "models": [
         {
           "model": "Versa",
-          "count": 25
+          "count": 24
         }
       ]
     },
@@ -851,38 +895,12 @@
       "make": "nissan",
       "model": "Versa",
       "shard": "sin-region",
-      "count": 6,
+      "count": 5,
       "file": "inventory/used-nissan-versa-sin-region.json",
       "models": [
         {
           "model": "Versa",
-          "count": 6
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "Sentra SV",
-      "count": 3,
-      "file": "inventory/used-nissan-sentra-sv.json",
-      "models": [
-        {
-          "model": "Sentra SV",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
-      "model": "MuranoPlatinum",
-      "count": 4,
-      "file": "inventory/used-nissan-muranoplatinum.json",
-      "models": [
-        {
-          "model": "MuranoPlatinum",
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -1058,12 +1076,12 @@
       "make": "nissan",
       "model": "Z",
       "shard": "part1",
-      "count": 23,
+      "count": 22,
       "file": "inventory/used-nissan-z-part1.json",
       "models": [
         {
           "model": "Z",
-          "count": 23
+          "count": 22
         }
       ]
     },
@@ -1279,19 +1297,6 @@
     {
       "condition": "used",
       "make": "nissan",
-      "model": "ROGUES FWD",
-      "count": 1,
-      "file": "inventory/used-nissan-rogues-fwd.json",
-      "models": [
-        {
-          "model": "ROGUES FWD",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
       "model": "RogueSV Moonroof",
       "count": 1,
       "file": "inventory/used-nissan-roguesv-moonroof.json",
@@ -1435,19 +1440,6 @@
     {
       "condition": "used",
       "make": "nissan",
-      "model": "Qashqai S",
-      "count": 2,
-      "file": "inventory/used-nissan-qashqai-s.json",
-      "models": [
-        {
-          "model": "Qashqai S",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "nissan",
       "model": "Titan",
       "count": 1,
       "file": "inventory/used-nissan-titan.json",
@@ -1474,12 +1466,38 @@
     {
       "condition": "used",
       "make": "nissan",
+      "model": "Rogue Sport",
+      "count": 1,
+      "file": "inventory/used-nissan-rogue-sport.json",
+      "models": [
+        {
+          "model": "Rogue Sport",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
       "model": "Titan Crew Cab",
       "count": 1,
       "file": "inventory/used-nissan-titan-crew-cab.json",
       "models": [
         {
           "model": "Titan Crew Cab",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Qashqai S",
+      "count": 1,
+      "file": "inventory/used-nissan-qashqai-s.json",
+      "models": [
+        {
+          "model": "Qashqai S",
           "count": 1
         }
       ]
@@ -1506,6 +1524,19 @@
       "models": [
         {
           "model": "MuranoSV 4dr All-Wheel Drive",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "nissan",
+      "model": "Altima 2.5 S",
+      "count": 1,
+      "file": "inventory/used-nissan-altima-2-5-s.json",
+      "models": [
+        {
+          "model": "Altima 2.5 S",
           "count": 1
         }
       ]

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-22T02:22:02+00:00",
-  "snapshot": "2026-10-22T02:22:02+00:00",
+  "generated_at": "2026-10-22T08:22:14+00:00",
+  "snapshot": "2026-10-22T08:22:14+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "maple-ridge-chrysler-jeep-dodge-1v2le2ca8sc222560",
@@ -69,7 +69,7 @@
       "listing_url": "https://www.goldkeyvw.ca/new/2026-Volkswagen-Atlas_Cross_Sport.html",
       "dealer_url": "https://www.goldkeyvw.ca/new/2026-Volkswagen-Atlas_Cross_Sport.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-19T19:49:01",
-      "snapshot": "2026-10-19T19:51:04",
+      "snapshot": "2026-10-21T20:29:48",
       "go_url": "https://carwhisper.ca/go/gold-key-langley-volkswagen-1v2bc2ca7tc220866",
       "region": "Lower Mainland",
       "city": "Langley",
@@ -119,12 +119,40 @@
       "listing_url": "https://www.abbotsfordvw.ca/new/2026-Volkswagen-Atlas_Cross_Sport.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/2026-Volkswagen-Atlas_Cross_Sport.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-19T09:45:11",
-      "snapshot": "2026-10-20T15:29:30",
+      "snapshot": "2026-10-21T23:30:23",
       "go_url": "https://carwhisper.ca/go/abbotsford-volkswagen-1v2bc2ca0tc220417",
       "region": "Lower Mainland",
       "city": "Abbotsford",
       "province": "BC",
       "dealer_name": "Abbotsford Volkswagen"
+    },
+    {
+      "pub_id": "chilliwack-volkswagen-1v2fc2ca9tc222698",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Atlas Cross Sport",
+      "trim": "Execline",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 37990,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "Blue",
+      "dealer_id": "chilliwack-volkswagen",
+      "vin": "1V2FC2CA9TC222698",
+      "stock": "14545878",
+      "listing_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Atlas_Cross_Sport-id14545878.html",
+      "dealer_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Atlas_Cross_Sport-id14545878.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T00:04:18",
+      "snapshot": "2026-10-22T00:06:43",
+      "go_url": "https://carwhisper.ca/go/chilliwack-volkswagen-1v2fc2ca9tc222698",
+      "region": "Lower Mainland",
+      "city": "Chilliwack",
+      "province": "BC",
+      "dealer_name": "Chilliwack Volkswagen"
     }
   ]
 }

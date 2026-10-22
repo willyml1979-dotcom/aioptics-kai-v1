@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T02:22:02+00:00",
-  "snapshot": "2026-10-22T02:22:02+00:00",
+  "generated_at": "2026-10-22T08:22:14+00:00",
+  "snapshot": "2026-10-22T08:22:14+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 6,
   "vehicles": [
@@ -101,6 +101,30 @@
       "dealer_name": "Penticton Nissan"
     },
     {
+      "pub_id": "duncan-hyundai-1gt42yey1jf215801",
+      "year": 2018,
+      "make": "GMC",
+      "model": "Sierra 3500 HD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 38999.0,
+      "price_note": null,
+      "color": "Mineral Metallic (GJB)",
+      "dealer_id": "duncan-hyundai",
+      "vin": "1GT42YEY1JF215801",
+      "stock": 14333846,
+      "listing_url": "https://www.duncanhyundai.net/used/2018-GMC-Sierra_3500_HD.html",
+      "dealer_url": "https://www.duncanhyundai.net/used/2018-GMC-Sierra_3500_HD.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T01:00:10",
+      "snapshot": "2026-10-22T01:01:23",
+      "go_url": "https://carwhisper.ca/go/duncan-hyundai-1gt42yey1jf215801",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Hyundai"
+    },
+    {
       "pub_id": "victoria-hyundai-1gt42yey1jf215801",
       "year": 2018,
       "make": "GMC",
@@ -123,30 +147,6 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Victoria Hyundai"
-    },
-    {
-      "pub_id": "duncan-hyundai-1gt42yey1jf215801",
-      "year": 2018,
-      "make": "GMC",
-      "model": "Sierra 3500 HD",
-      "propulsion": "unknown",
-      "propulsion_source": null,
-      "condition": "used",
-      "price_cad": 43995.0,
-      "price_note": null,
-      "color": "Mineral Metallic (GJB)",
-      "dealer_id": "duncan-hyundai",
-      "vin": "1GT42YEY1JF215801",
-      "stock": 14333846,
-      "listing_url": "https://www.duncanhyundai.net/used/2018-GMC-Sierra_3500_HD.html",
-      "dealer_url": "https://www.duncanhyundai.net/used/2018-GMC-Sierra_3500_HD.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T22:59:45",
-      "snapshot": "2026-10-20T17:06:41",
-      "go_url": "https://carwhisper.ca/go/duncan-hyundai-1gt42yey1jf215801",
-      "region": "Vancouver Island",
-      "city": "Duncan",
-      "province": "BC",
-      "dealer_name": "Duncan Hyundai"
     }
   ]
 }

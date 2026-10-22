@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T02:22:02+00:00",
+  "generated_at": "2026-10-22T08:22:14+00:00",
   "condition": "used",
   "make": "jeep",
   "files": [
@@ -117,12 +117,12 @@
       "condition": "used",
       "make": "jeep",
       "model": "Wrangler Unlimited",
-      "count": 21,
+      "count": 20,
       "file": "inventory/used-jeep-wrangler-unlimited.json",
       "models": [
         {
           "model": "Wrangler Unlimited",
-          "count": 21
+          "count": 20
         }
       ]
     },
@@ -196,63 +196,13 @@
       "make": "jeep",
       "model": "Grand Cherokee",
       "shard": "part1",
-      "count": 29,
+      "count": 30,
       "file": "inventory/used-jeep-grand-cherokee-part1.json",
       "models": [
         {
           "model": "GRAND CHEROKEE",
           "count": 1
         },
-        {
-          "model": "Grand Cherokee",
-          "count": 28
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "jeep",
-      "model": "Grand Cherokee",
-      "shard": "part2",
-      "count": 29,
-      "file": "inventory/used-jeep-grand-cherokee-part2.json",
-      "models": [
-        {
-          "model": "GRAND CHEROKEE",
-          "count": 4
-        },
-        {
-          "model": "Grand Cherokee",
-          "count": 25
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "jeep",
-      "model": "Grand Cherokee",
-      "shard": "part3",
-      "count": 29,
-      "file": "inventory/used-jeep-grand-cherokee-part3.json",
-      "models": [
-        {
-          "model": "GRAND CHEROKEE",
-          "count": 1
-        },
-        {
-          "model": "Grand Cherokee",
-          "count": 28
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "jeep",
-      "model": "Grand Cherokee",
-      "shard": "part4",
-      "count": 29,
-      "file": "inventory/used-jeep-grand-cherokee-part4.json",
-      "models": [
         {
           "model": "Grand Cherokee",
           "count": 29
@@ -262,14 +212,64 @@
     {
       "condition": "used",
       "make": "jeep",
+      "model": "Grand Cherokee",
+      "shard": "part2",
+      "count": 30,
+      "file": "inventory/used-jeep-grand-cherokee-part2.json",
+      "models": [
+        {
+          "model": "GRAND CHEROKEE",
+          "count": 3
+        },
+        {
+          "model": "Grand Cherokee",
+          "count": 27
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Grand Cherokee",
+      "shard": "part3",
+      "count": 30,
+      "file": "inventory/used-jeep-grand-cherokee-part3.json",
+      "models": [
+        {
+          "model": "GRAND CHEROKEE",
+          "count": 1
+        },
+        {
+          "model": "Grand Cherokee",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Grand Cherokee",
+      "shard": "part4",
+      "count": 27,
+      "file": "inventory/used-jeep-grand-cherokee-part4.json",
+      "models": [
+        {
+          "model": "Grand Cherokee",
+          "count": 27
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
       "model": "Grand Cherokee L",
       "shard": "Kootenays",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-jeep-grand-cherokee-l-kootenays.json",
       "models": [
         {
           "model": "Grand Cherokee L",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -450,12 +450,12 @@
       "make": "jeep",
       "model": "GLADIATOR",
       "shard": "sin-region",
-      "count": 7,
+      "count": 8,
       "file": "inventory/used-jeep-gladiator-sin-region.json",
       "models": [
         {
           "model": "Gladiator",
-          "count": 7
+          "count": 8
         }
       ]
     },
@@ -501,11 +501,11 @@
       "models": [
         {
           "model": "WRANGLER",
-          "count": 2
+          "count": 3
         },
         {
           "model": "Wrangler",
-          "count": 27
+          "count": 26
         }
       ]
     },
@@ -519,11 +519,11 @@
       "models": [
         {
           "model": "WRANGLER",
-          "count": 2
+          "count": 1
         },
         {
           "model": "Wrangler",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -537,11 +537,11 @@
       "models": [
         {
           "model": "WRANGLER",
-          "count": 1
+          "count": 2
         },
         {
           "model": "Wrangler",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -564,7 +564,7 @@
       "make": "jeep",
       "model": "WRANGLER",
       "shard": "part7",
-      "count": 23,
+      "count": 27,
       "file": "inventory/used-jeep-wrangler-part7.json",
       "models": [
         {
@@ -573,7 +573,7 @@
         },
         {
           "model": "Wrangler",
-          "count": 22
+          "count": 26
         }
       ]
     },
@@ -674,12 +674,12 @@
       "make": "jeep",
       "model": "CHEROKEE",
       "shard": "sin-region",
-      "count": 10,
+      "count": 8,
       "file": "inventory/used-jeep-cherokee-sin-region.json",
       "models": [
         {
           "model": "Cherokee",
-          "count": 10
+          "count": 8
         }
       ]
     },
@@ -1060,12 +1060,12 @@
     {
       "condition": "used",
       "make": "jeep",
-      "model": "WRANGLER JK UNLIMITEDRUBICON",
+      "model": "GRAND CHEROKEE LLAREDO",
       "count": 1,
-      "file": "inventory/used-jeep-wrangler-jk-unlimitedrubicon.json",
+      "file": "inventory/used-jeep-grand-cherokee-llaredo.json",
       "models": [
         {
-          "model": "WRANGLER JK UNLIMITEDRUBICON",
+          "model": "GRAND CHEROKEE LLAREDO",
           "count": 1
         }
       ]
@@ -1178,12 +1178,12 @@
       "condition": "used",
       "make": "jeep",
       "model": "Wrangler Sport",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-jeep-wrangler-sport.json",
       "models": [
         {
           "model": "Wrangler Sport",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -1248,6 +1248,19 @@
       "models": [
         {
           "model": "Wrangler UnlimitedSahara",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Grand Cherokee Altitude",
+      "count": 1,
+      "file": "inventory/used-jeep-grand-cherokee-altitude.json",
+      "models": [
+        {
+          "model": "Grand Cherokee Altitude",
           "count": 1
         }
       ]

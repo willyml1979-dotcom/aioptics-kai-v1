@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-22T02:22:02+00:00",
-  "snapshot": "2026-10-22T02:22:02+00:00",
+  "generated_at": "2026-10-22T08:22:14+00:00",
+  "snapshot": "2026-10-22T08:22:14+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 12,
+  "count": 11,
   "vehicles": [
     {
       "pub_id": "pioneer-chrysler-jeep-3c6lrvdg1me523216",
@@ -77,7 +77,7 @@
       "listing_url": "https://www.kiawest.com/vehicles/2025/ram/promaster-cargo-van/coquitlam/bc/70690179/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2025/ram/promaster-cargo-van/coquitlam/bc/70690179/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T22:52:22",
-      "snapshot": "2026-10-19T19:57:08",
+      "snapshot": "2026-10-21T20:38:58",
       "go_url": "https://carwhisper.ca/go/go-kia-west-3c6mrvjg3se543862",
       "region": "Lower Mainland",
       "city": "Coquitlam",
@@ -215,7 +215,7 @@
       "listing_url": "https://www.comoxvalleydodge.com/used/2021-RAM-ProMaster_Cargo_Van.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2021-RAM-ProMaster_Cargo_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-19T10:51:39",
-      "snapshot": "2026-10-20T16:49:43",
+      "snapshot": "2026-10-22T00:40:35",
       "go_url": "https://carwhisper.ca/go/comox-valley-dodge-3c6lrvdg8me523245",
       "region": "Vancouver Island",
       "city": "Courtenay",
@@ -273,7 +273,7 @@
       "listing_url": "https://www.bramptonchrysler.ca/vehicles/2025/ram/promaster-cargo-van/brampton/on/71325197/?sale_class=used",
       "dealer_url": "https://www.bramptonchrysler.ca/vehicles/2025/ram/promaster-cargo-van/brampton/on/71325197/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-19T20:33:50",
-      "snapshot": "2026-10-19T20:34:43",
+      "snapshot": "2026-10-21T21:44:01",
       "go_url": "https://carwhisper.ca/go/go-auto-brampton-chrysler-3c6lrvcg8se558107",
       "city": null,
       "province": "ON",
@@ -305,33 +305,6 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Sherwood Park Chevrolet"
-    },
-    {
-      "pub_id": "go-auto-brampton-chrysler-3c6mrvjg0se502458",
-      "year": 2025,
-      "make": "RAM",
-      "model": "ProMaster Cargo",
-      "body_type": "van",
-      "propulsion": "gas",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
-      "condition": "used",
-      "odometer_km": 1000,
-      "price_cad": 57188.0,
-      "price_note": null,
-      "color": "White",
-      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/65b771a6-56c0-4a30-a8ae-85cc1370eecb_d821ae54-dd67-4e1e-8e0f-4d4fe2067a9f.jpg",
-      "dealer_id": "go-auto-brampton-chrysler",
-      "vin": "3C6MRVJG0SE502458",
-      "stock": "P27SA17",
-      "listing_url": "https://www.bramptonchrysler.ca/vehicles/2025/ram/promaster-cargo-van/brampton/on/71056038/?sale_class=used",
-      "dealer_url": "https://www.bramptonchrysler.ca/vehicles/2025/ram/promaster-cargo-van/brampton/on/71056038/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-14T23:10:53",
-      "snapshot": "2026-10-19T20:34:43",
-      "go_url": "https://carwhisper.ca/go/go-auto-brampton-chrysler-3c6mrvjg0se502458",
-      "city": null,
-      "province": "ON",
-      "dealer_name": "Go Auto Brampton Chrysler"
     }
   ]
 }

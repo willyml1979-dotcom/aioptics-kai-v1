@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-22T02:22:02+00:00",
-  "snapshot": "2026-10-22T02:22:02+00:00",
+  "generated_at": "2026-10-22T08:22:14+00:00",
+  "snapshot": "2026-10-22T08:22:14+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 11,
+  "count": 12,
   "vehicles": [
     {
       "pub_id": "chilliwack-mitsubishi-5uxxw7c30h0u26759",
@@ -256,7 +256,7 @@
       "listing_url": "https://www.duncanhyundai.net/used/2019-BMW-X4.html",
       "dealer_url": "https://www.duncanhyundai.net/used/2019-BMW-X4.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T23:04:04",
-      "snapshot": "2026-10-20T17:06:41",
+      "snapshot": "2026-10-22T01:01:23",
       "go_url": "https://carwhisper.ca/go/duncan-hyundai-5uxuj3c50klg52465",
       "region": "Vancouver Island",
       "city": "Duncan",
@@ -285,6 +285,32 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Victoria Hyundai"
+    },
+    {
+      "pub_id": "country-hills-nissan-5ux2v1c09m9h40659",
+      "year": 2021,
+      "make": "BMW",
+      "model": "X4",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 75047,
+      "price_cad": 35995.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/54307889-ce17-4977-9dd1-d0f9c7149581_1d75c8ad-1241-4b4e-9bc3-027a2ec66bf5.jpg",
+      "dealer_id": "country-hills-nissan",
+      "vin": "5UX2V1C09M9H40659",
+      "stock": "SGA7440",
+      "listing_url": "https://www.chnissan.com/vehicles/2021/bmw/x4/calgary/ab/ad13323059/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2021/bmw/x4/calgary/ab/ad13323059/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T00:15:46",
+      "snapshot": "2026-10-22T00:21:16",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-5ux2v1c09m9h40659",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

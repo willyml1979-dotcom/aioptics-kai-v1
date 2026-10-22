@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-22T02:22:02+00:00",
-  "snapshot": "2026-10-22T02:22:02+00:00",
+  "generated_at": "2026-10-22T08:22:14+00:00",
+  "snapshot": "2026-10-22T08:22:14+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "sherwood-park-chevrolet-3c6ur5nl6dg523605",
@@ -30,6 +30,33 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Sherwood Park Chevrolet"
+    },
+    {
+      "pub_id": "country-hills-nissan-3c6ur5tl5ng124088",
+      "year": 2022,
+      "make": "RAM",
+      "model": "2500 Mega Cab",
+      "body_type": "truck",
+      "propulsion": "diesel",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 59511,
+      "price_cad": 72995.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/7dd6d99c-ffc9-4778-82b3-3a0b5ba59c49_5e58ee58-8ed2-4b97-9ebb-2c8bcc5c8d21.jpg",
+      "dealer_id": "country-hills-nissan",
+      "vin": "3C6UR5TL5NG124088",
+      "stock": "AD20006",
+      "listing_url": "https://www.chnissan.com/vehicles/2022/ram/2500-mega-cab/ponoka/ab/ad13299882/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2022/ram/2500-mega-cab/ponoka/ab/ad13299882/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T00:16:22",
+      "snapshot": "2026-10-22T00:21:16",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-3c6ur5tl5ng124088",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

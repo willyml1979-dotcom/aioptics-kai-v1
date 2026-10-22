@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-22T02:22:02+00:00",
-  "snapshot": "2026-10-22T02:22:02+00:00",
+  "generated_at": "2026-10-22T08:22:14+00:00",
+  "snapshot": "2026-10-22T08:22:14+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "mercedes-benz-boundary-w1x9n33y8sn351854",
@@ -33,6 +33,36 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Mercedes-Benz Boundary"
+    },
+    {
+      "pub_id": "mercedes-benz-langley-w1x9n33y8sn351854",
+      "year": 2025,
+      "make": "Mercedes-Benz",
+      "model": "Sprinter 4500",
+      "trim": "170 Wheelbase RWD",
+      "body_type": "truck",
+      "drivetrain": "RWD",
+      "propulsion": "diesel",
+      "propulsion_source": "description",
+      "propulsion_confidence": "medium",
+      "condition": "new",
+      "odometer_km": 90,
+      "price_cad": 86023.0,
+      "price_note": null,
+      "color": "Arctic white",
+      "photo_url": "https://img.sm360.ca/images/inventory/mercedes-benz-boundary/mercedes-benz/sprinter-cab-chassis/2025/37754995/37754995_04352_8e01289da4ea6d763414a2a6a9042afe.jpeg",
+      "dealer_id": "mercedes-benz-langley",
+      "vin": "W1X9N33Y8SN351854",
+      "stock": "2550029",
+      "listing_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/sprinter-4500/2025-mercedes-benz-sprinter-4500-id37754995",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/sprinter-4500/2025-mercedes-benz-sprinter-4500-id37754995?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T20:23:49",
+      "snapshot": "2026-10-21T20:26:18",
+      "go_url": "https://carwhisper.ca/go/mercedes-benz-langley-w1x9n33y8sn351854",
+      "region": "Lower Mainland",
+      "city": "Langley",
+      "province": "BC",
+      "dealer_name": "Mercedes Benz Langley"
     }
   ]
 }

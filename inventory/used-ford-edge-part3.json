@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-22T02:22:02+00:00",
-  "snapshot": "2026-10-22T02:22:02+00:00",
+  "generated_at": "2026-10-22T08:22:14+00:00",
+  "snapshot": "2026-10-22T08:22:14+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 26,
+  "count": 27,
   "vehicles": [
     {
       "pub_id": "fort-motors-ltd-2fmpk4j91rba96435",
@@ -22,7 +22,7 @@
       "listing_url": "https://www.fortmotors.ca/inventory/2024-ford-edge/14311571",
       "dealer_url": "https://www.fortmotors.ca/inventory/2024-ford-edge/14311571?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-20T17:21:52",
-      "snapshot": "2026-10-20T17:24:09",
+      "snapshot": "2026-10-22T01:12:21",
       "go_url": "https://carwhisper.ca/go/fort-motors-ltd-2fmpk4j91rba96435",
       "region": "Norte/Cariboo",
       "city": "Fort St. John",
@@ -664,12 +664,36 @@
       "listing_url": "https://www.discoveryhonda.com/en/used-inventory/ford/edge/2009-ford-edge-id39079067",
       "dealer_url": "https://www.discoveryhonda.com/en/used-inventory/ford/edge/2009-ford-edge-id39079067?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-18T21:34:07",
-      "snapshot": "2026-10-19T19:26:59",
+      "snapshot": "2026-10-21T20:13:14",
       "go_url": "https://carwhisper.ca/go/discovery-honda-2fmdk40c29ba70944",
       "region": "Vancouver Island",
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Discovery Honda"
+    },
+    {
+      "pub_id": "duncan-hyundai-2fmpk4k8xhbb70374",
+      "year": 2017,
+      "make": "Ford",
+      "model": "Edge",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 15800.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "duncan-hyundai",
+      "vin": "2FMPK4K8XHBB70374",
+      "stock": 14365280,
+      "listing_url": "https://www.duncanhyundai.net/used/2017-Ford-Edge.html",
+      "dealer_url": "https://www.duncanhyundai.net/used/2017-Ford-Edge.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-19T11:07:06",
+      "snapshot": "2026-10-22T01:01:23",
+      "go_url": "https://carwhisper.ca/go/duncan-hyundai-2fmpk4k8xhbb70374",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Hyundai"
     }
   ]
 }

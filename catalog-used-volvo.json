@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T02:22:02+00:00",
+  "generated_at": "2026-10-22T08:22:14+00:00",
   "condition": "used",
   "make": "volvo",
   "files": [
@@ -7,12 +7,12 @@
       "condition": "used",
       "make": "volvo",
       "model": "C30",
-      "count": 3,
+      "count": 9,
       "file": "inventory/used-volvo-c30.json",
       "models": [
         {
           "model": "C30",
-          "count": 3
+          "count": 9
         }
       ]
     },
@@ -39,19 +39,6 @@
         {
           "model": "XC60",
           "count": 25
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volvo",
-      "model": "S60",
-      "count": 4,
-      "file": "inventory/used-volvo-s60.json",
-      "models": [
-        {
-          "model": "S60",
-          "count": 4
         }
       ]
     },
@@ -107,6 +94,19 @@
       "models": [
         {
           "model": "XC90",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volvo",
+      "model": "S60",
+      "count": 3,
+      "file": "inventory/used-volvo-s60.json",
+      "models": [
+        {
+          "model": "S60",
           "count": 3
         }
       ]
