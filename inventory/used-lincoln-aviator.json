@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-22T08:22:14+00:00",
-  "snapshot": "2026-10-22T08:22:14+00:00",
+  "generated_at": "2026-10-22T14:22:15+00:00",
+  "snapshot": "2026-10-22T14:22:15+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "msa-ford-sales-5lm5j7xc1pgl01169",
@@ -53,12 +53,35 @@
       "listing_url": "https://www.islandford.ca/vehicles/2022/lincoln/aviator/duncan/bc/71059686/?sale_class=used",
       "dealer_url": "https://www.islandford.ca/vehicles/2022/lincoln/aviator/duncan/bc/71059686/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-21T16:14:10",
-      "snapshot": "2026-10-21T16:15:07",
+      "snapshot": "2026-10-22T06:11:40",
       "go_url": "https://carwhisper.ca/go/island-ford-5lm5j7xc0ngl16355",
       "region": "Vancouver Island",
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Island Ford"
+    },
+    {
+      "pub_id": "steve-marshall-motors-1996-ltd-5lm5j7xc1pgl05433",
+      "year": 2023,
+      "make": "Lincoln",
+      "model": "Aviator",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 53933.0,
+      "price_note": null,
+      "dealer_id": "steve-marshall-motors-1996-ltd",
+      "vin": "5LM5J7XC1PGL05433",
+      "stock": 14478558,
+      "listing_url": "https://www.stevemarshallfordcampbellriver.com/used/2023-Lincoln-Aviator.html",
+      "dealer_url": "https://www.stevemarshallfordcampbellriver.com/used/2023-Lincoln-Aviator.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:01:54",
+      "snapshot": "2026-10-22T03:02:56",
+      "go_url": "https://carwhisper.ca/go/steve-marshall-motors-1996-ltd-5lm5j7xc1pgl05433",
+      "region": "Vancouver Island",
+      "city": "Campbell River",
+      "province": "BC",
+      "dealer_name": "Steve Marshall Motors (1996) Ltd."
     },
     {
       "pub_id": "laird-wheaton-gm-5lm5j7xc5rgl10654",

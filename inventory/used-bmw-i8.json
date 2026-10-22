@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-22T08:22:14+00:00",
-  "snapshot": "2026-10-22T08:22:14+00:00",
+  "generated_at": "2026-10-22T14:22:15+00:00",
+  "snapshot": "2026-10-22T14:22:15+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "brian-jessel-bmw-wby2z2c53fv674638",
@@ -61,34 +61,6 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Brian Jessel BMW"
-    },
-    {
-      "pub_id": "park-shore-bmw-wby2z6c50kvb83044",
-      "year": 2019,
-      "make": "BMW",
-      "model": "i8",
-      "trim": "Roadster",
-      "drivetrain": "FWD",
-      "propulsion": "hybrid",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
-      "condition": "used",
-      "odometer_km": 43489,
-      "price_cad": 97900.0,
-      "price_note": null,
-      "color": "Grey",
-      "dealer_id": "park-shore-bmw",
-      "vin": "WBY2Z6C50KVB83044",
-      "stock": "14202887",
-      "listing_url": "https://www.parkshorebmw.com/used/2019-BMW-i8-id14202887.html",
-      "dealer_url": "https://www.parkshorebmw.com/used/2019-BMW-i8-id14202887.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T22:32:45",
-      "snapshot": "2026-10-20T19:39:58",
-      "go_url": "https://carwhisper.ca/go/park-shore-bmw-wby2z6c50kvb83044",
-      "region": "Lower Mainland",
-      "city": "North Vancouver",
-      "province": "BC",
-      "dealer_name": "Park Shore BMW"
     }
   ]
 }

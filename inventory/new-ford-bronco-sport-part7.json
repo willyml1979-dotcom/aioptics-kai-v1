@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T08:22:14+00:00",
-  "snapshot": "2026-10-22T08:22:14+00:00",
+  "generated_at": "2026-10-22T14:22:15+00:00",
+  "snapshot": "2026-10-22T14:22:15+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 33,
   "vehicles": [
@@ -397,33 +397,6 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Coastal Ford Vancouver"
-    },
-    {
-      "pub_id": "metro-motors-ltd-ford-3fmcr9cn0tre50889",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "drivetrain": "4WD",
-      "propulsion": "unknown",
-      "propulsion_source": null,
-      "condition": "new",
-      "odometer_km": 9,
-      "price_cad": 42887.88,
-      "price_note": null,
-      "color": "Ruby Red Metallic Tc",
-      "photo_url": "https://vehicleimages.leadboxhq.com/v1/metromotors/1789597/d1a4275a-5ead-411e-a355-6c5055861a26-600.jpg",
-      "dealer_id": "metro-motors-ltd-ford",
-      "vin": "3FMCR9CN0TRE50889",
-      "stock": "26BS0889",
-      "listing_url": "https://metromotors.com/view/new-2026-ford-bronco-sport-1789597/",
-      "dealer_url": "https://metromotors.com/view/new-2026-ford-bronco-sport-1789597/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T14:57:51",
-      "snapshot": "2026-10-20T22:06:55",
-      "go_url": "https://carwhisper.ca/go/metro-motors-ltd-ford-3fmcr9cn0tre50889",
-      "region": "Lower Mainland",
-      "city": "Port Coquitlam",
-      "province": "BC",
-      "dealer_name": "Metro Motors Ltd. (Ford)"
     },
     {
       "pub_id": "coastal-ford-burnaby-3fmcr9bn7trf02620",
@@ -928,6 +901,34 @@
       "city": "Squamish",
       "province": "BC",
       "dealer_name": "Coastal Ford Squamish"
+    },
+    {
+      "pub_id": "coastal-ford-vancouver-3fmcr9bn1trf00295",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "trim": "Big Bend",
+      "drivetrain": "AWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "odometer_km": 10,
+      "price_cad": 43635.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://img.sm360.ca/images/inventory/coastal-ford-burnaby/ford/bronco-sport/2026/39001158/39001158_07754_03987655386ce72017ec74fcd49b9c32.png",
+      "dealer_id": "coastal-ford-vancouver",
+      "vin": "3FMCR9BN1TRF00295",
+      "stock": "124162R",
+      "listing_url": "https://www.coastalfordvancouver.com/en/new-inventory/v/v/v-id39001158",
+      "dealer_url": "https://www.coastalfordvancouver.com/en/new-inventory/v/v/v-id39001158?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T04:37:56",
+      "snapshot": "2026-10-22T01:14:32",
+      "go_url": "https://carwhisper.ca/go/coastal-ford-vancouver-3fmcr9bn1trf00295",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Coastal Ford Vancouver"
     }
   ]
 }

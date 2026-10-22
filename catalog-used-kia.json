@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T08:22:14+00:00",
+  "generated_at": "2026-10-22T14:22:15+00:00",
   "condition": "used",
   "make": "kia",
   "files": [
@@ -8,12 +8,12 @@
       "make": "kia",
       "model": "Sorento",
       "shard": "part1",
-      "count": 33,
+      "count": 28,
       "file": "inventory/used-kia-sorento-part1.json",
       "models": [
         {
           "model": "Sorento",
-          "count": 33
+          "count": 28
         }
       ]
     },
@@ -22,12 +22,12 @@
       "make": "kia",
       "model": "Sorento",
       "shard": "part2",
-      "count": 33,
+      "count": 28,
       "file": "inventory/used-kia-sorento-part2.json",
       "models": [
         {
           "model": "Sorento",
-          "count": 33
+          "count": 28
         }
       ]
     },
@@ -36,12 +36,12 @@
       "make": "kia",
       "model": "Sorento",
       "shard": "part3",
-      "count": 33,
+      "count": 28,
       "file": "inventory/used-kia-sorento-part3.json",
       "models": [
         {
           "model": "Sorento",
-          "count": 33
+          "count": 28
         }
       ]
     },
@@ -50,12 +50,26 @@
       "make": "kia",
       "model": "Sorento",
       "shard": "part4",
-      "count": 33,
+      "count": 28,
       "file": "inventory/used-kia-sorento-part4.json",
       "models": [
         {
           "model": "Sorento",
-          "count": 33
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "kia",
+      "model": "Sorento",
+      "shard": "part5",
+      "count": 24,
+      "file": "inventory/used-kia-sorento-part5.json",
+      "models": [
+        {
+          "model": "Sorento",
+          "count": 24
         }
       ]
     },
@@ -218,12 +232,12 @@
       "make": "kia",
       "model": "Sportage",
       "shard": "part6",
-      "count": 32,
+      "count": 28,
       "file": "inventory/used-kia-sportage-part6.json",
       "models": [
         {
           "model": "Sportage",
-          "count": 32
+          "count": 28
         }
       ]
     },
@@ -231,12 +245,12 @@
       "condition": "used",
       "make": "kia",
       "model": "Niro",
-      "count": 20,
+      "count": 19,
       "file": "inventory/used-kia-niro.json",
       "models": [
         {
           "model": "Niro",
-          "count": 20
+          "count": 19
         }
       ]
     },
@@ -245,12 +259,12 @@
       "make": "kia",
       "model": "Soul",
       "shard": "Lower Mainland",
-      "count": 28,
+      "count": 32,
       "file": "inventory/used-kia-soul-lower-mainland.json",
       "models": [
         {
           "model": "Soul",
-          "count": 28
+          "count": 32
         }
       ]
     },
@@ -299,6 +313,76 @@
     {
       "condition": "used",
       "make": "kia",
+      "model": "Forte",
+      "shard": "part1",
+      "count": 27,
+      "file": "inventory/used-kia-forte-part1.json",
+      "models": [
+        {
+          "model": "Forte",
+          "count": 27
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "kia",
+      "model": "Forte",
+      "shard": "part2",
+      "count": 27,
+      "file": "inventory/used-kia-forte-part2.json",
+      "models": [
+        {
+          "model": "Forte",
+          "count": 27
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "kia",
+      "model": "Forte",
+      "shard": "part3",
+      "count": 27,
+      "file": "inventory/used-kia-forte-part3.json",
+      "models": [
+        {
+          "model": "Forte",
+          "count": 27
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "kia",
+      "model": "Forte",
+      "shard": "part4",
+      "count": 27,
+      "file": "inventory/used-kia-forte-part4.json",
+      "models": [
+        {
+          "model": "Forte",
+          "count": 27
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "kia",
+      "model": "Forte",
+      "shard": "part5",
+      "count": 26,
+      "file": "inventory/used-kia-forte-part5.json",
+      "models": [
+        {
+          "model": "Forte",
+          "count": 26
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "kia",
       "model": "Optima",
       "count": 4,
       "file": "inventory/used-kia-optima.json",
@@ -327,12 +411,12 @@
       "make": "kia",
       "model": "Rio",
       "shard": "part1",
-      "count": 23,
+      "count": 22,
       "file": "inventory/used-kia-rio-part1.json",
       "models": [
         {
           "model": "Rio",
-          "count": 23
+          "count": 22
         }
       ]
     },
@@ -341,12 +425,12 @@
       "make": "kia",
       "model": "Rio",
       "shard": "part2",
-      "count": 23,
+      "count": 22,
       "file": "inventory/used-kia-rio-part2.json",
       "models": [
         {
           "model": "Rio",
-          "count": 23
+          "count": 22
         }
       ]
     },
@@ -361,62 +445,6 @@
         {
           "model": "Rio",
           "count": 21
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "kia",
-      "model": "Forte",
-      "shard": "part1",
-      "count": 33,
-      "file": "inventory/used-kia-forte-part1.json",
-      "models": [
-        {
-          "model": "Forte",
-          "count": 33
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "kia",
-      "model": "Forte",
-      "shard": "part2",
-      "count": 33,
-      "file": "inventory/used-kia-forte-part2.json",
-      "models": [
-        {
-          "model": "Forte",
-          "count": 33
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "kia",
-      "model": "Forte",
-      "shard": "part3",
-      "count": 33,
-      "file": "inventory/used-kia-forte-part3.json",
-      "models": [
-        {
-          "model": "Forte",
-          "count": 33
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "kia",
-      "model": "Forte",
-      "shard": "part4",
-      "count": 33,
-      "file": "inventory/used-kia-forte-part4.json",
-      "models": [
-        {
-          "model": "Forte",
-          "count": 33
         }
       ]
     },
@@ -674,12 +702,12 @@
       "make": "kia",
       "model": "Telluride",
       "shard": "sin-region",
-      "count": 6,
+      "count": 5,
       "file": "inventory/used-kia-telluride-sin-region.json",
       "models": [
         {
           "model": "Telluride",
-          "count": 6
+          "count": 5
         }
       ]
     },
@@ -687,12 +715,12 @@
       "condition": "used",
       "make": "kia",
       "model": "K5",
-      "count": 10,
+      "count": 11,
       "file": "inventory/used-kia-k5.json",
       "models": [
         {
           "model": "K5",
-          "count": 10
+          "count": 11
         }
       ]
     },

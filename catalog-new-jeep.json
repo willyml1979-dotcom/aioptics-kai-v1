@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T08:22:14+00:00",
+  "generated_at": "2026-10-22T14:22:15+00:00",
   "condition": "new",
   "make": "jeep",
   "files": [
@@ -71,11 +71,11 @@
       "models": [
         {
           "model": "COMPASS",
-          "count": 8
+          "count": 9
         },
         {
           "model": "Compass",
-          "count": 22
+          "count": 21
         }
       ]
     },
@@ -89,11 +89,11 @@
       "models": [
         {
           "model": "COMPASS",
-          "count": 10
+          "count": 9
         },
         {
           "model": "Compass",
-          "count": 20
+          "count": 21
         }
       ]
     },
@@ -134,12 +134,12 @@
       "make": "jeep",
       "model": "Compass",
       "shard": "part7",
-      "count": 29,
+      "count": 28,
       "file": "inventory/new-jeep-compass-part7.json",
       "models": [
         {
           "model": "Compass",
-          "count": 29
+          "count": 28
         }
       ]
     },
@@ -320,7 +320,7 @@
       "make": "jeep",
       "model": "Cherokee",
       "shard": "part10",
-      "count": 24,
+      "count": 25,
       "file": "inventory/new-jeep-cherokee-part10.json",
       "models": [
         {
@@ -329,7 +329,7 @@
         },
         {
           "model": "Cherokee",
-          "count": 23
+          "count": 24
         }
       ]
     },
@@ -420,7 +420,7 @@
       "make": "jeep",
       "model": "Wrangler",
       "shard": "part6",
-      "count": 25,
+      "count": 23,
       "file": "inventory/new-jeep-wrangler-part6.json",
       "models": [
         {
@@ -429,7 +429,7 @@
         },
         {
           "model": "Wrangler",
-          "count": 23
+          "count": 21
         }
       ]
     },
@@ -567,21 +567,25 @@
     {
       "condition": "new",
       "make": "jeep",
-      "model": "Grand Cherokee",
+      "model": "GRAND CHEROKEE",
       "shard": "part1",
       "count": 26,
       "file": "inventory/new-jeep-grand-cherokee-part1.json",
       "models": [
         {
+          "model": "GRAND CHEROKEE",
+          "count": 1
+        },
+        {
           "model": "Grand Cherokee",
-          "count": 26
+          "count": 25
         }
       ]
     },
     {
       "condition": "new",
       "make": "jeep",
-      "model": "Grand Cherokee",
+      "model": "GRAND CHEROKEE",
       "shard": "part2",
       "count": 26,
       "file": "inventory/new-jeep-grand-cherokee-part2.json",
@@ -599,7 +603,7 @@
     {
       "condition": "new",
       "make": "jeep",
-      "model": "Grand Cherokee",
+      "model": "GRAND CHEROKEE",
       "shard": "part3",
       "count": 26,
       "file": "inventory/new-jeep-grand-cherokee-part3.json",
@@ -617,7 +621,7 @@
     {
       "condition": "new",
       "make": "jeep",
-      "model": "Grand Cherokee",
+      "model": "GRAND CHEROKEE",
       "shard": "part4",
       "count": 26,
       "file": "inventory/new-jeep-grand-cherokee-part4.json",
@@ -753,6 +757,19 @@
     {
       "condition": "new",
       "make": "jeep",
+      "model": "Recon",
+      "count": 3,
+      "file": "inventory/new-jeep-recon.json",
+      "models": [
+        {
+          "model": "Recon",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
       "model": "Grand Wagoneer L",
       "count": 7,
       "file": "inventory/new-jeep-grand-wagoneer-l.json",
@@ -766,19 +783,6 @@
     {
       "condition": "new",
       "make": "jeep",
-      "model": "Wrangler 4xe",
-      "count": 3,
-      "file": "inventory/new-jeep-wrangler-4xe.json",
-      "models": [
-        {
-          "model": "Wrangler 4xe",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "jeep",
       "model": "Compass NORTH",
       "count": 9,
       "file": "inventory/new-jeep-compass-north.json",
@@ -786,19 +790,6 @@
         {
           "model": "Compass NORTH",
           "count": 9
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "jeep",
-      "model": "Recon",
-      "count": 2,
-      "file": "inventory/new-jeep-recon.json",
-      "models": [
-        {
-          "model": "Recon",
-          "count": 2
         }
       ]
     }

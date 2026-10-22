@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T08:22:14+00:00",
+  "generated_at": "2026-10-22T14:22:15+00:00",
   "condition": "used",
   "make": "tesla",
   "files": [
@@ -8,12 +8,12 @@
       "make": "tesla",
       "model": "Model Y",
       "shard": "part1",
-      "count": 24,
+      "count": 31,
       "file": "inventory/used-tesla-model-y-part1.json",
       "models": [
         {
           "model": "Model Y",
-          "count": 24
+          "count": 31
         }
       ]
     },
@@ -22,12 +22,12 @@
       "make": "tesla",
       "model": "Model Y",
       "shard": "part2",
-      "count": 24,
+      "count": 31,
       "file": "inventory/used-tesla-model-y-part2.json",
       "models": [
         {
           "model": "Model Y",
-          "count": 24
+          "count": 31
         }
       ]
     },
@@ -36,26 +36,12 @@
       "make": "tesla",
       "model": "Model Y",
       "shard": "part3",
-      "count": 24,
+      "count": 29,
       "file": "inventory/used-tesla-model-y-part3.json",
       "models": [
         {
           "model": "Model Y",
-          "count": 24
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "tesla",
-      "model": "Model Y",
-      "shard": "part4",
-      "count": 23,
-      "file": "inventory/used-tesla-model-y-part4.json",
-      "models": [
-        {
-          "model": "Model Y",
-          "count": 23
+          "count": 29
         }
       ]
     },
@@ -173,12 +159,12 @@
       "condition": "used",
       "make": "tesla",
       "model": "Model S 100D",
-      "count": 3,
+      "count": 1,
       "file": "inventory/used-tesla-model-s-100d.json",
       "models": [
         {
           "model": "Model S 100D",
-          "count": 3
+          "count": 1
         }
       ]
     },

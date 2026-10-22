@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T08:22:14+00:00",
+  "generated_at": "2026-10-22T14:22:15+00:00",
   "condition": "used",
   "make": "ram",
   "files": [
@@ -218,12 +218,12 @@
       "make": "ram",
       "model": "1500 Classic",
       "shard": "Lower Mainland",
-      "count": 24,
+      "count": 20,
       "file": "inventory/used-ram-1500-classic-lower-mainland.json",
       "models": [
         {
           "model": "1500 Classic",
-          "count": 24
+          "count": 20
         }
       ]
     },
@@ -232,7 +232,7 @@
       "make": "ram",
       "model": "1500 Classic",
       "shard": "Norte/Cariboo",
-      "count": 16,
+      "count": 15,
       "file": "inventory/used-ram-1500-classic-norte-cariboo.json",
       "models": [
         {
@@ -241,7 +241,7 @@
         },
         {
           "model": "1500 Classic",
-          "count": 11
+          "count": 10
         }
       ]
     },
@@ -250,7 +250,7 @@
       "make": "ram",
       "model": "1500 Classic",
       "shard": "Okanagan",
-      "count": 21,
+      "count": 20,
       "file": "inventory/used-ram-1500-classic-okanagan.json",
       "models": [
         {
@@ -259,7 +259,7 @@
         },
         {
           "model": "1500 Classic",
-          "count": 17
+          "count": 16
         }
       ]
     },
@@ -581,13 +581,69 @@
     {
       "condition": "used",
       "make": "ram",
+      "model": "1500 Classic Crew Cab",
+      "shard": "Lower Mainland",
+      "count": 7,
+      "file": "inventory/used-ram-1500-classic-crew-cab-lower-mainland.json",
+      "models": [
+        {
+          "model": "1500 Classic Crew Cab",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500 Classic Crew Cab",
+      "shard": "Norte/Cariboo",
+      "count": 6,
+      "file": "inventory/used-ram-1500-classic-crew-cab-norte-cariboo.json",
+      "models": [
+        {
+          "model": "1500 Classic Crew Cab",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500 Classic Crew Cab",
+      "shard": "Vancouver Island",
+      "count": 7,
+      "file": "inventory/used-ram-1500-classic-crew-cab-vancouver-island.json",
+      "models": [
+        {
+          "model": "1500 Classic Crew Cab",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500 Classic Crew Cab",
+      "shard": "sin-region",
+      "count": 12,
+      "file": "inventory/used-ram-1500-classic-crew-cab-sin-region.json",
+      "models": [
+        {
+          "model": "1500 Classic Crew Cab",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
       "model": "1500 Classic Quad Cab",
-      "count": 8,
+      "count": 9,
       "file": "inventory/used-ram-1500-classic-quad-cab.json",
       "models": [
         {
           "model": "1500 Classic Quad Cab",
-          "count": 8
+          "count": 9
         }
       ]
     },
@@ -601,19 +657,6 @@
         {
           "model": "Promaster City",
           "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ram",
-      "model": "1500 Classic Crew Cab",
-      "count": 30,
-      "file": "inventory/used-ram-1500-classic-crew-cab.json",
-      "models": [
-        {
-          "model": "1500 Classic Crew Cab",
-          "count": 30
         }
       ]
     },
@@ -802,6 +845,19 @@
     {
       "condition": "used",
       "make": "ram",
+      "model": "1500 in Abbotsford",
+      "count": 1,
+      "file": "inventory/used-ram-1500-in-abbotsford.json",
+      "models": [
+        {
+          "model": "1500 in Abbotsford",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
       "model": "1500ST 4WD Crew Cab 6'4\" BOX",
       "count": 1,
       "file": "inventory/used-ram-1500st-4wd-crew-cab-6-4-box.json",
@@ -835,6 +891,19 @@
         {
           "model": "1500 ClassicExpress",
           "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500 SLT",
+      "count": 1,
+      "file": "inventory/used-ram-1500-slt.json",
+      "models": [
+        {
+          "model": "1500 SLT",
+          "count": 1
         }
       ]
     },
@@ -1081,6 +1150,19 @@
       "models": [
         {
           "model": "1500LARAMIE LONGHORN",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500TRX",
+      "count": 1,
+      "file": "inventory/used-ram-1500trx.json",
+      "models": [
+        {
+          "model": "1500TRX",
           "count": 1
         }
       ]
