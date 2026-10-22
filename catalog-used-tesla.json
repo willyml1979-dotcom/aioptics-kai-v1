@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T20:22:01+00:00",
+  "generated_at": "2026-10-22T02:22:02+00:00",
   "condition": "used",
   "make": "tesla",
   "files": [
@@ -8,12 +8,12 @@
       "make": "tesla",
       "model": "Model Y",
       "shard": "part1",
-      "count": 23,
+      "count": 24,
       "file": "inventory/used-tesla-model-y-part1.json",
       "models": [
         {
           "model": "Model Y",
-          "count": 23
+          "count": 24
         }
       ]
     },
@@ -22,12 +22,12 @@
       "make": "tesla",
       "model": "Model Y",
       "shard": "part2",
-      "count": 23,
+      "count": 24,
       "file": "inventory/used-tesla-model-y-part2.json",
       "models": [
         {
           "model": "Model Y",
-          "count": 23
+          "count": 24
         }
       ]
     },
@@ -36,12 +36,12 @@
       "make": "tesla",
       "model": "Model Y",
       "shard": "part3",
-      "count": 23,
+      "count": 24,
       "file": "inventory/used-tesla-model-y-part3.json",
       "models": [
         {
           "model": "Model Y",
-          "count": 23
+          "count": 24
         }
       ]
     },
@@ -64,12 +64,12 @@
       "make": "tesla",
       "model": "Model 3",
       "shard": "part1",
-      "count": 27,
+      "count": 28,
       "file": "inventory/used-tesla-model-3-part1.json",
       "models": [
         {
           "model": "Model 3",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -78,12 +78,12 @@
       "make": "tesla",
       "model": "Model 3",
       "shard": "part2",
-      "count": 27,
+      "count": 28,
       "file": "inventory/used-tesla-model-3-part2.json",
       "models": [
         {
           "model": "Model 3",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -92,12 +92,12 @@
       "make": "tesla",
       "model": "Model 3",
       "shard": "part3",
-      "count": 27,
+      "count": 28,
       "file": "inventory/used-tesla-model-3-part3.json",
       "models": [
         {
           "model": "Model 3",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -106,12 +106,12 @@
       "make": "tesla",
       "model": "Model 3",
       "shard": "part4",
-      "count": 26,
+      "count": 25,
       "file": "inventory/used-tesla-model-3-part4.json",
       "models": [
         {
           "model": "Model 3",
-          "count": 26
+          "count": 25
         }
       ]
     },
@@ -160,12 +160,12 @@
       "condition": "used",
       "make": "tesla",
       "model": "Model S 100D",
-      "count": 12,
+      "count": 9,
       "file": "inventory/used-tesla-model-s-100d.json",
       "models": [
         {
           "model": "Model S 100D",
-          "count": 12
+          "count": 9
         }
       ]
     },
@@ -178,6 +178,32 @@
       "models": [
         {
           "model": "Model Y Long Range AWD",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "tesla",
+      "model": "Model Y Performance AWD",
+      "count": 1,
+      "file": "inventory/used-tesla-model-y-performance-awd.json",
+      "models": [
+        {
+          "model": "Model Y Performance AWD",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "tesla",
+      "model": "Model Y Long Range",
+      "count": 1,
+      "file": "inventory/used-tesla-model-y-long-range.json",
+      "models": [
+        {
+          "model": "Model Y Long Range",
           "count": 1
         }
       ]

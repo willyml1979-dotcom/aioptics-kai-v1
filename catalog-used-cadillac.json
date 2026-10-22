@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T20:22:01+00:00",
+  "generated_at": "2026-10-22T02:22:02+00:00",
   "condition": "used",
   "make": "cadillac",
   "files": [
@@ -7,12 +7,12 @@
       "condition": "used",
       "make": "cadillac",
       "model": "Ats",
-      "count": 8,
+      "count": 7,
       "file": "inventory/used-cadillac-ats.json",
       "models": [
         {
           "model": "ATS",
-          "count": 2
+          "count": 1
         },
         {
           "model": "Ats",
@@ -37,12 +37,12 @@
       "condition": "used",
       "make": "cadillac",
       "model": "CTS",
-      "count": 14,
+      "count": 15,
       "file": "inventory/used-cadillac-cts.json",
       "models": [
         {
           "model": "CTS",
-          "count": 14
+          "count": 15
         }
       ]
     },
@@ -65,12 +65,12 @@
       "make": "cadillac",
       "model": "XT5",
       "shard": "Norte/Cariboo",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-cadillac-xt5-norte-cariboo.json",
       "models": [
         {
           "model": "XT5",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -121,12 +121,12 @@
       "make": "cadillac",
       "model": "XT5",
       "shard": "sin-region",
-      "count": 4,
+      "count": 3,
       "file": "inventory/used-cadillac-xt5-sin-region.json",
       "models": [
         {
           "model": "XT5",
-          "count": 4
+          "count": 3
         }
       ]
     },
@@ -288,19 +288,6 @@
       "models": [
         {
           "model": "SRX Luxury Collection",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "cadillac",
-      "model": "XLR",
-      "count": 1,
-      "file": "inventory/used-cadillac-xlr.json",
-      "models": [
-        {
-          "model": "XLR",
           "count": 1
         }
       ]

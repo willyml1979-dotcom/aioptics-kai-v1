@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-21T20:22:01+00:00",
-  "snapshot": "2026-10-21T20:22:01+00:00",
+  "generated_at": "2026-10-22T02:22:02+00:00",
+  "snapshot": "2026-10-22T02:22:02+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "rivershore-chrysler-dodge-jeep-ram-3c4njddb2kt806160",
@@ -183,6 +183,36 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Bannister Chevrolet Cadillac Kamloops Ltd."
+    },
+    {
+      "pub_id": "kamloops-kia-3c4njddb9lt141842",
+      "year": 2020,
+      "make": "Jeep",
+      "model": "Compass",
+      "trim": "Trailhawk 4x4",
+      "body_type": "suv",
+      "drivetrain": "4WD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 123546,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "Blue",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/inventory/4NUYZ4MUPZDJJHYKLWYTHSRBWE.webp",
+      "dealer_id": "kamloops-kia",
+      "vin": "3C4NJDDB9LT141842",
+      "stock": "R6856B",
+      "listing_url": "https://www.kamloopskia.com/inventory/2020-jeep-compass-trailhawk-QEE0PcEZTNOD3yzYYX5cMgvdp",
+      "dealer_url": "https://www.kamloopskia.com/inventory/2020-jeep-compass-trailhawk-QEE0PcEZTNOD3yzYYX5cMgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:10:03",
+      "snapshot": "2026-10-21T19:15:27",
+      "go_url": "https://carwhisper.ca/go/kamloops-kia-3c4njddb9lt141842",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Kamloops Kia"
     }
   ]
 }

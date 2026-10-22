@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T20:22:01+00:00",
+  "generated_at": "2026-10-22T02:22:02+00:00",
   "condition": "used",
   "make": "subaru",
   "files": [
@@ -7,12 +7,12 @@
       "condition": "used",
       "make": "subaru",
       "model": "Legacy",
-      "count": 4,
+      "count": 5,
       "file": "inventory/used-subaru-legacy.json",
       "models": [
         {
           "model": "Legacy",
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -329,12 +329,12 @@
       "make": "subaru",
       "model": "Crosstrek",
       "shard": "part23",
-      "count": 23,
+      "count": 27,
       "file": "inventory/used-subaru-crosstrek-part23.json",
       "models": [
         {
           "model": "Crosstrek",
-          "count": 23
+          "count": 27
         }
       ]
     },
@@ -469,12 +469,12 @@
       "make": "subaru",
       "model": "Outback",
       "shard": "part10",
-      "count": 25,
+      "count": 21,
       "file": "inventory/used-subaru-outback-part10.json",
       "models": [
         {
           "model": "Outback",
-          "count": 25
+          "count": 21
         }
       ]
     },
@@ -511,12 +511,12 @@
       "make": "subaru",
       "model": "Impreza",
       "shard": "part3",
-      "count": 26,
+      "count": 27,
       "file": "inventory/used-subaru-impreza-part3.json",
       "models": [
         {
           "model": "Impreza",
-          "count": 26
+          "count": 27
         }
       ]
     },
@@ -524,12 +524,12 @@
       "condition": "used",
       "make": "subaru",
       "model": "Solterra",
-      "count": 21,
+      "count": 23,
       "file": "inventory/used-subaru-solterra.json",
       "models": [
         {
           "model": "Solterra",
-          "count": 21
+          "count": 23
         }
       ]
     },
@@ -538,12 +538,12 @@
       "make": "subaru",
       "model": "WRX",
       "shard": "part1",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-subaru-wrx-part1.json",
       "models": [
         {
           "model": "WRX",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -552,12 +552,12 @@
       "make": "subaru",
       "model": "WRX",
       "shard": "part2",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-subaru-wrx-part2.json",
       "models": [
         {
           "model": "WRX",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -566,12 +566,12 @@
       "make": "subaru",
       "model": "WRX",
       "shard": "part3",
-      "count": 27,
+      "count": 28,
       "file": "inventory/used-subaru-wrx-part3.json",
       "models": [
         {
           "model": "WRX",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -630,14 +630,27 @@
     {
       "condition": "used",
       "make": "subaru",
+      "model": "Forester Wilderness",
+      "count": 1,
+      "file": "inventory/used-subaru-forester-wilderness.json",
+      "models": [
+        {
+          "model": "Forester Wilderness",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
       "model": "Ascent",
       "shard": "part1",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-subaru-ascent-part1.json",
       "models": [
         {
           "model": "Ascent",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -646,12 +659,12 @@
       "make": "subaru",
       "model": "Ascent",
       "shard": "part2",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-subaru-ascent-part2.json",
       "models": [
         {
           "model": "Ascent",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -660,43 +673,11 @@
       "make": "subaru",
       "model": "Ascent",
       "shard": "part3",
-      "count": 26,
+      "count": 27,
       "file": "inventory/used-subaru-ascent-part3.json",
       "models": [
         {
           "model": "Ascent",
-          "count": 26
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "subaru",
-      "model": "Forester",
-      "shard": "part1",
-      "count": 28,
-      "file": "inventory/used-subaru-forester-part1.json",
-      "models": [
-        {
-          "model": "Forester",
-          "count": 28
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "subaru",
-      "model": "Forester",
-      "shard": "part2",
-      "count": 28,
-      "file": "inventory/used-subaru-forester-part2.json",
-      "models": [
-        {
-          "model": "FORESTER",
-          "count": 1
-        },
-        {
-          "model": "Forester",
           "count": 27
         }
       ]
@@ -705,13 +686,45 @@
       "condition": "used",
       "make": "subaru",
       "model": "Forester",
+      "shard": "part1",
+      "count": 29,
+      "file": "inventory/used-subaru-forester-part1.json",
+      "models": [
+        {
+          "model": "Forester",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Forester",
+      "shard": "part2",
+      "count": 29,
+      "file": "inventory/used-subaru-forester-part2.json",
+      "models": [
+        {
+          "model": "FORESTER",
+          "count": 1
+        },
+        {
+          "model": "Forester",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Forester",
       "shard": "part3",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-subaru-forester-part3.json",
       "models": [
         {
           "model": "Forester",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -720,12 +733,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "part4",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-subaru-forester-part4.json",
       "models": [
         {
           "model": "Forester",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -734,12 +747,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "part5",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-subaru-forester-part5.json",
       "models": [
         {
           "model": "Forester",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -748,12 +761,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "part6",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-subaru-forester-part6.json",
       "models": [
         {
           "model": "Forester",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -762,12 +775,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "part7",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-subaru-forester-part7.json",
       "models": [
         {
           "model": "Forester",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -776,12 +789,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "part8",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-subaru-forester-part8.json",
       "models": [
         {
           "model": "Forester",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -790,12 +803,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "part9",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-subaru-forester-part9.json",
       "models": [
         {
           "model": "Forester",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -804,12 +817,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "part10",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-subaru-forester-part10.json",
       "models": [
         {
           "model": "Forester",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -818,12 +831,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "part11",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-subaru-forester-part11.json",
       "models": [
         {
           "model": "Forester",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -832,12 +845,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "part12",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-subaru-forester-part12.json",
       "models": [
         {
           "model": "Forester",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -846,12 +859,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "part13",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-subaru-forester-part13.json",
       "models": [
         {
           "model": "Forester",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -860,12 +873,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "part14",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-subaru-forester-part14.json",
       "models": [
         {
           "model": "Forester",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -874,12 +887,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "part15",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-subaru-forester-part15.json",
       "models": [
         {
           "model": "Forester",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -888,12 +901,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "part16",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-subaru-forester-part16.json",
       "models": [
         {
           "model": "Forester",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -902,12 +915,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "part17",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-subaru-forester-part17.json",
       "models": [
         {
           "model": "Forester",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -916,12 +929,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "part18",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-subaru-forester-part18.json",
       "models": [
         {
           "model": "Forester",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -930,12 +943,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "part19",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-subaru-forester-part19.json",
       "models": [
         {
           "model": "Forester",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -944,12 +957,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "part20",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-subaru-forester-part20.json",
       "models": [
         {
           "model": "Forester",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -958,12 +971,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "part21",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-subaru-forester-part21.json",
       "models": [
         {
           "model": "Forester",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -972,12 +985,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "part22",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-subaru-forester-part22.json",
       "models": [
         {
           "model": "Forester",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -986,40 +999,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "part23",
-      "count": 28,
+      "count": 16,
       "file": "inventory/used-subaru-forester-part23.json",
       "models": [
         {
           "model": "Forester",
-          "count": 28
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "subaru",
-      "model": "Forester",
-      "shard": "part24",
-      "count": 28,
-      "file": "inventory/used-subaru-forester-part24.json",
-      "models": [
-        {
-          "model": "Forester",
-          "count": 28
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "subaru",
-      "model": "Forester",
-      "shard": "part25",
-      "count": 7,
-      "file": "inventory/used-subaru-forester-part25.json",
-      "models": [
-        {
-          "model": "Forester",
-          "count": 7
+          "count": 16
         }
       ]
     },
@@ -1066,12 +1051,12 @@
       "condition": "used",
       "make": "subaru",
       "model": "BRZ",
-      "count": 7,
+      "count": 6,
       "file": "inventory/used-subaru-brz.json",
       "models": [
         {
           "model": "BRZ",
-          "count": 7
+          "count": 6
         }
       ]
     },
@@ -1079,12 +1064,12 @@
       "condition": "used",
       "make": "subaru",
       "model": "WRX STI",
-      "count": 3,
+      "count": 2,
       "file": "inventory/used-subaru-wrx-sti.json",
       "models": [
         {
           "model": "WRX STI",
-          "count": 3
+          "count": 2
         }
       ]
     },
@@ -1092,12 +1077,12 @@
       "condition": "used",
       "make": "subaru",
       "model": "Crosstrek Touring Pkg CVT",
-      "count": 9,
+      "count": 6,
       "file": "inventory/used-subaru-crosstrek-touring-pkg-cvt.json",
       "models": [
         {
           "model": "Crosstrek Touring Pkg CVT",
-          "count": 9
+          "count": 6
         }
       ]
     },
@@ -1156,56 +1141,13 @@
     {
       "condition": "used",
       "make": "subaru",
-      "model": "Impreza TOURING",
-      "count": 1,
-      "file": "inventory/used-subaru-impreza-touring.json",
+      "model": "CrosstrekTouring Package (CVT) 4dr All-Wheel Drive",
+      "count": 2,
+      "file": "inventory/used-subaru-crosstrektouring-package-cvt-4dr-all-wheel-drive.json",
       "models": [
         {
-          "model": "Impreza TOURING",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "subaru",
-      "model": "Crosstrek ONYX",
-      "count": 3,
-      "file": "inventory/used-subaru-crosstrek-onyx.json",
-      "models": [
-        {
-          "model": "Crosstrek ONYX",
-          "count": 1
-        },
-        {
-          "model": "Crosstrek Onyx",
+          "model": "CrosstrekTouring Package (CVT) 4dr All-Wheel Drive",
           "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "subaru",
-      "model": "WRX RS",
-      "count": 1,
-      "file": "inventory/used-subaru-wrx-rs.json",
-      "models": [
-        {
-          "model": "WRX RS",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "subaru",
-      "model": "ForesterLimited 4dr All-Wheel Drive",
-      "count": 1,
-      "file": "inventory/used-subaru-foresterlimited-4dr-all-wheel-drive.json",
-      "models": [
-        {
-          "model": "ForesterLimited 4dr All-Wheel Drive",
-          "count": 1
         }
       ]
     },
@@ -1232,6 +1174,19 @@
         {
           "model": "Ascent Touring 7-Passenger",
           "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Crosstrek Onyx",
+      "count": 2,
+      "file": "inventory/used-subaru-crosstrek-onyx.json",
+      "models": [
+        {
+          "model": "Crosstrek Onyx",
+          "count": 2
         }
       ]
     },

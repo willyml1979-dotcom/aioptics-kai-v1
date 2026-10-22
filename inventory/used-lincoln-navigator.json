@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-21T20:22:01+00:00",
-  "snapshot": "2026-10-21T20:22:01+00:00",
+  "generated_at": "2026-10-22T02:22:02+00:00",
+  "snapshot": "2026-10-22T02:22:02+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 7,
+  "count": 8,
   "vehicles": [
     {
       "pub_id": "cam-clark-ford-lincoln-ltd-5lmjj2lt5kel25695",
@@ -114,6 +114,30 @@
       "city": "Prince George",
       "province": "BC",
       "dealer_name": "Prince George Ford"
+    },
+    {
+      "pub_id": "kelowna-infiniti-nissan-5lmjj2lt3lel01395",
+      "year": 2020,
+      "make": "Lincoln",
+      "model": "Navigator",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 52900.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "kelowna-infiniti-nissan",
+      "vin": "5LMJJ2LT3LEL01395",
+      "stock": 14545979,
+      "listing_url": "https://www.kelownanissan.com/used/2020-Lincoln-Navigator.html",
+      "dealer_url": "https://www.kelownanissan.com/used/2020-Lincoln-Navigator.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T17:49:49",
+      "snapshot": "2026-10-21T17:52:27",
+      "go_url": "https://carwhisper.ca/go/kelowna-infiniti-nissan-5lmjj2lt3lel01395",
+      "region": "Okanagan",
+      "city": "Kelowna",
+      "province": "BC",
+      "dealer_name": "Kelowna Infiniti Nissan"
     },
     {
       "pub_id": "steve-marshall-motors-1996-ltd-5lmjj2lt7mel06326",

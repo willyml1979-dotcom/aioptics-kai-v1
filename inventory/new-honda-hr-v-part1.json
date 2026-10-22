@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-21T20:22:01+00:00",
-  "snapshot": "2026-10-21T20:22:01+00:00",
+  "generated_at": "2026-10-22T02:22:02+00:00",
+  "snapshot": "2026-10-22T02:22:02+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 30,
+  "count": 31,
   "vehicles": [
     {
       "pub_id": "glacier-honda-72199-477774",
@@ -834,6 +834,34 @@
       "city": "North Vancouver",
       "province": "BC",
       "dealer_name": "North Shore Honda"
+    },
+    {
+      "pub_id": "vancouver-honda-3czrz2h33vm102026",
+      "year": 2027,
+      "make": "Honda",
+      "model": "HR-V",
+      "trim": "LX 4WD",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "odometer_km": 50,
+      "price_cad": 37845.0,
+      "price_note": null,
+      "color": "Crystal Black Pearl",
+      "photo_url": "https://img.sm360.ca/images/inventory/ca/2027/honda/hr-v/lx-4wd/suv/exteriorColors/2027_honda_hr-v_2-lx-4wd_001_nh-731p.png",
+      "dealer_id": "vancouver-honda",
+      "vin": "3CZRZ2H33VM102026",
+      "stock": "H27100",
+      "listing_url": "https://www.vancouverhonda.com/en/new-inventory/honda/hr-v/2027-honda-hr-v-id39360368",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/hr-v/2027-honda-hr-v-id39360368?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T00:38:56",
+      "snapshot": "2026-10-20T14:52:04",
+      "go_url": "https://carwhisper.ca/go/vancouver-honda-3czrz2h33vm102026",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Vancouver Honda"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-21T20:22:01+00:00",
-  "snapshot": "2026-10-21T20:22:01+00:00",
+  "generated_at": "2026-10-22T02:22:02+00:00",
+  "snapshot": "2026-10-22T02:22:02+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 29,
+  "count": 30,
   "vehicles": [
     {
       "pub_id": "victoria-hyundai-3n1cp5cv7ml497590",
@@ -778,6 +778,31 @@
       "last_verified": "2026-10-15T23:39:45",
       "snapshot": "2026-10-19T19:16:40",
       "go_url": "https://carwhisper.ca/go/red-deer-nissan-3n1cp5cv8pl549751",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Red Deer Nissan"
+    },
+    {
+      "pub_id": "red-deer-nissan-3n1cp5dv2rl536043",
+      "year": 2024,
+      "make": "Nissan",
+      "model": "Kicks",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 50166,
+      "price_cad": 23889.0,
+      "price_note": null,
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/4afc635e-e2c4-4b78-b4ab-aeb21d37a791_b7a6442e-95e8-4292-89cb-3b1702fe9050.jpg",
+      "dealer_id": "red-deer-nissan",
+      "vin": "3N1CP5DV2RL536043",
+      "stock": "RD35932",
+      "listing_url": "https://www.reddeernissan.com/vehicles/2024/nissan/kicks/red-deer/ab/69097184/?sale_class=used",
+      "dealer_url": "https://www.reddeernissan.com/vehicles/2024/nissan/kicks/red-deer/ab/69097184/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T23:41:12",
+      "snapshot": "2026-10-19T19:16:40",
+      "go_url": "https://carwhisper.ca/go/red-deer-nissan-3n1cp5dv2rl536043",
       "city": null,
       "province": "AB",
       "dealer_name": "Red Deer Nissan"

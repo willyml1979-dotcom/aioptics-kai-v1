@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-21T20:22:01+00:00",
-  "snapshot": "2026-10-21T20:22:01+00:00",
+  "generated_at": "2026-10-22T02:22:02+00:00",
+  "snapshot": "2026-10-22T02:22:02+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "fort-city-chrysler-1c4pjmcx1jd547798",
@@ -32,6 +32,33 @@
       "city": "Fort St. John",
       "province": "BC",
       "dealer_name": "Fort City Chrysler"
+    },
+    {
+      "pub_id": "inland-auto-centre-ltd-1c4pjmbn3kd443279",
+      "year": 2019,
+      "make": "JEEP",
+      "model": "CHEROKEE",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 130613,
+      "price_cad": 19999.0,
+      "price_note": null,
+      "color": "Red Pearl",
+      "photo_url": "https://portal.omni.auto/Media/InventoryMedia/1C4PJMBN3KD443279/Optimized/914714a9f4260b13183e5fcb7704a918.webp",
+      "dealer_id": "inland-auto-centre-ltd",
+      "vin": "1C4PJMBN3KD443279",
+      "stock": "PO2954A",
+      "listing_url": "https://inlandautocentre.com/Inventory/2019-JEEP-CHEROKEE-1C4PJMBN3KD443279",
+      "dealer_url": "https://inlandautocentre.com/Inventory/2019-JEEP-CHEROKEE-1C4PJMBN3KD443279?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T16:03:35",
+      "snapshot": "2026-10-21T16:06:12",
+      "go_url": "https://carwhisper.ca/go/inland-auto-centre-ltd-1c4pjmbn3kd443279",
+      "region": "Norte/Cariboo",
+      "city": "Dawson Creek",
+      "province": "BC",
+      "dealer_name": "Inland Auto Centre Ltd."
     },
     {
       "pub_id": "northland-nissan-1c4pjmax9md145812",

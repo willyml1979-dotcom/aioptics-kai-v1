@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T20:22:01+00:00",
+  "generated_at": "2026-10-22T02:22:02+00:00",
   "condition": "new",
   "make": "jeep",
   "files": [
@@ -239,11 +239,11 @@
       "models": [
         {
           "model": "CHEROKEE",
-          "count": 3
+          "count": 2
         },
         {
           "model": "Cherokee",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -320,7 +320,7 @@
       "make": "jeep",
       "model": "Cherokee",
       "shard": "part10",
-      "count": 26,
+      "count": 24,
       "file": "inventory/new-jeep-cherokee-part10.json",
       "models": [
         {
@@ -329,7 +329,7 @@
         },
         {
           "model": "Cherokee",
-          "count": 25
+          "count": 23
         }
       ]
     },
@@ -433,7 +433,7 @@
       "make": "jeep",
       "model": "Wrangler",
       "shard": "part6",
-      "count": 25,
+      "count": 24,
       "file": "inventory/new-jeep-wrangler-part6.json",
       "models": [
         {
@@ -442,7 +442,7 @@
         },
         {
           "model": "Wrangler",
-          "count": 23
+          "count": 22
         }
       ]
     },
@@ -732,19 +732,6 @@
     {
       "condition": "new",
       "make": "jeep",
-      "model": "Wrangler 4xe",
-      "count": 6,
-      "file": "inventory/new-jeep-wrangler-4xe.json",
-      "models": [
-        {
-          "model": "Wrangler 4xe",
-          "count": 6
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "jeep",
       "model": "Wrangler 4 Door",
       "count": 21,
       "file": "inventory/new-jeep-wrangler-4-door.json",
@@ -769,6 +756,19 @@
         {
           "model": "Grand Wagoneer L",
           "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Wrangler 4xe",
+      "count": 4,
+      "file": "inventory/new-jeep-wrangler-4xe.json",
+      "models": [
+        {
+          "model": "Wrangler 4xe",
+          "count": 4
         }
       ]
     },

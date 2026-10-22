@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T20:22:01+00:00",
-  "snapshot": "2026-10-21T20:22:01+00:00",
+  "generated_at": "2026-10-22T02:22:02+00:00",
+  "snapshot": "2026-10-22T02:22:02+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 32,
   "vehicles": [
@@ -706,6 +706,33 @@
       "dealer_name": "Go Kia West"
     },
     {
+      "pub_id": "murray-kia-abbotsford-kndpucdf7t7491312",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sportage",
+      "trim": "LX AWD",
+      "drivetrain": "AWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "odometer_km": 21697,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "White",
+      "dealer_id": "murray-kia-abbotsford",
+      "vin": "KNDPUCDF7T7491312",
+      "stock": "2026",
+      "listing_url": "https://www.murraykiaabbotsford.com/vehicles/2026/kia/sportage/abbotsford/bc/71590761/?sale_class=new",
+      "dealer_url": "https://www.murraykiaabbotsford.com/vehicles/2026/kia/sportage/abbotsford/bc/71590761/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T15:56:46",
+      "snapshot": "2026-10-21T15:59:24",
+      "go_url": "https://carwhisper.ca/go/murray-kia-abbotsford-kndpucdf7t7491312",
+      "region": "Lower Mainland",
+      "city": "Abbotsford",
+      "province": "BC",
+      "dealer_name": "Murray Kia Abbotsford"
+    },
+    {
       "pub_id": "north-shore-kia-kndpvcdf2t7501063",
       "year": 2026,
       "make": "Kia",
@@ -804,29 +831,6 @@
       "city": "North Vancouver",
       "province": "BC",
       "dealer_name": "North Shore Kia"
-    },
-    {
-      "pub_id": "northland-chrysler-jeep-dodge-kndpucdf9s7385894",
-      "year": 2025,
-      "make": "Kia",
-      "model": "Sportage",
-      "propulsion": "unknown",
-      "propulsion_source": null,
-      "condition": "new",
-      "price_cad": 29109.0,
-      "price_note": null,
-      "dealer_id": "northland-chrysler-jeep-dodge",
-      "vin": "KNDPUCDF9S7385894",
-      "stock": 14444552,
-      "listing_url": "https://www.northlanddodge.ca/used/2025-Kia-Sportage.html",
-      "dealer_url": "https://www.northlanddodge.ca/used/2025-Kia-Sportage.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T15:09:26",
-      "snapshot": "2026-10-20T22:22:39",
-      "go_url": "https://carwhisper.ca/go/northland-chrysler-jeep-dodge-kndpucdf9s7385894",
-      "region": "Norte/Cariboo",
-      "city": "Prince George",
-      "province": "BC",
-      "dealer_name": "Northland Chrysler Jeep Dodge"
     }
   ]
 }

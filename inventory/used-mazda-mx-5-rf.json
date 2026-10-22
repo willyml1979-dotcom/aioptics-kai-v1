@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-21T20:22:01+00:00",
-  "snapshot": "2026-10-21T20:22:01+00:00",
+  "generated_at": "2026-10-22T02:22:02+00:00",
+  "snapshot": "2026-10-22T02:22:02+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "bannister-kia-penticton-jm1ndal79h0105821",
@@ -32,6 +32,35 @@
       "city": "Penticton",
       "province": "BC",
       "dealer_name": "Bannister Kia Penticton"
+    },
+    {
+      "pub_id": "kamloops-kia-jm1ndal72m0453437",
+      "year": 2021,
+      "make": "Mazda",
+      "model": "MX-5 RF",
+      "trim": "GS-P Manual Convertible",
+      "drivetrain": "RWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 23156,
+      "price_cad": 28900.0,
+      "price_note": null,
+      "color": "Gray",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/inventory/FNVVV4NI4VENXEB4SIX63CXUDI.webp",
+      "dealer_id": "kamloops-kia",
+      "vin": "JM1NDAL72M0453437",
+      "stock": "P3956B",
+      "listing_url": "https://www.kamloopskia.com/inventory/2021-mazda-mx-5-rf-gs-p-ZBzdsnlbQl2nvQDSAavdLwvdp",
+      "dealer_url": "https://www.kamloopskia.com/inventory/2021-mazda-mx-5-rf-gs-p-ZBzdsnlbQl2nvQDSAavdLwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:10:19",
+      "snapshot": "2026-10-21T19:15:27",
+      "go_url": "https://carwhisper.ca/go/kamloops-kia-jm1ndal72m0453437",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Kamloops Kia"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T20:22:01+00:00",
+  "generated_at": "2026-10-22T02:22:02+00:00",
   "condition": "used",
   "make": "acura",
   "files": [
@@ -8,12 +8,12 @@
       "make": "acura",
       "model": "ILX",
       "shard": "part1",
-      "count": 21,
+      "count": 20,
       "file": "inventory/used-acura-ilx-part1.json",
       "models": [
         {
           "model": "ILX",
-          "count": 21
+          "count": 20
         }
       ]
     },
@@ -22,12 +22,12 @@
       "make": "acura",
       "model": "ILX",
       "shard": "part2",
-      "count": 21,
+      "count": 19,
       "file": "inventory/used-acura-ilx-part2.json",
       "models": [
         {
           "model": "ILX",
-          "count": 21
+          "count": 19
         }
       ]
     },
@@ -119,12 +119,12 @@
       "make": "acura",
       "model": "RDX",
       "shard": "part6",
-      "count": 23,
+      "count": 27,
       "file": "inventory/used-acura-rdx-part6.json",
       "models": [
         {
           "model": "RDX",
-          "count": 23
+          "count": 27
         }
       ]
     },
@@ -398,19 +398,6 @@
         {
           "model": "RDX A-Spec AWD",
           "count": 9
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "acura",
-      "model": "TSX TSX",
-      "count": 1,
-      "file": "inventory/used-acura-tsx-tsx.json",
-      "models": [
-        {
-          "model": "TSX TSX",
-          "count": 1
         }
       ]
     },

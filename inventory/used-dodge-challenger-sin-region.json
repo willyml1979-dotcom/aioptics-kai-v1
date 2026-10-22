@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T20:22:01+00:00",
-  "snapshot": "2026-10-21T20:22:01+00:00",
+  "generated_at": "2026-10-22T02:22:02+00:00",
+  "snapshot": "2026-10-22T02:22:02+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 7,
   "vehicles": [
@@ -113,32 +113,6 @@
       "dealer_name": "Go Auto Brampton Chrysler"
     },
     {
-      "pub_id": "sherwood-park-chevrolet-2c3cdzfj0jh279635",
-      "year": 2018,
-      "make": "Dodge",
-      "model": "Challenger",
-      "propulsion": "gas",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
-      "condition": "used",
-      "odometer_km": 21232,
-      "price_cad": 54900.0,
-      "price_note": null,
-      "color": "Green",
-      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/8f33466e-9886-47d0-9d32-e097734e945e_e34f7b6e-2922-4c43-8797-3babf43f9a9f.jpg",
-      "dealer_id": "sherwood-park-chevrolet",
-      "vin": "2C3CDZFJ0JH279635",
-      "stock": "DK1791E",
-      "listing_url": "https://www.sherwoodparkchev.com/vehicles/2018/dodge/challenger/sherwood-park/ab/70831524/?sale_class=used",
-      "dealer_url": "https://www.sherwoodparkchev.com/vehicles/2018/dodge/challenger/sherwood-park/ab/70831524/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T00:19:51",
-      "snapshot": "2026-10-17T11:57:13",
-      "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-2c3cdzfj0jh279635",
-      "city": null,
-      "province": "AB",
-      "dealer_name": "Sherwood Park Chevrolet"
-    },
-    {
       "pub_id": "south-coast-ford-sales-ltd-2c3cdzfj7nh192031",
       "year": 2022,
       "make": "Dodge",
@@ -185,6 +159,30 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Red Deer Nissan"
+    },
+    {
+      "pub_id": "sherwood-park-chevrolet-js23v0b1747380000",
+      "year": 1970,
+      "make": "Dodge",
+      "model": "Challenger",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 2132,
+      "price_cad": 209900.0,
+      "price_note": null,
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/7c3dd416-220c-493e-9628-6ac611f28a1f_6f5b8b87-2621-4c59-9f1a-7405e593fab7.jpg",
+      "dealer_id": "sherwood-park-chevrolet",
+      "vin": "JS23V0B1747380000",
+      "stock": "SMC1847",
+      "listing_url": "https://www.sherwoodparkchev.com/vehicles/1970/dodge/challenger/sherwood-park/ab/71145534/?sale_class=used",
+      "dealer_url": "https://www.sherwoodparkchev.com/vehicles/1970/dodge/challenger/sherwood-park/ab/71145534/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T14:59:29",
+      "snapshot": "2026-10-21T15:02:50",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-js23v0b1747380000",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Chevrolet"
     }
   ]
 }

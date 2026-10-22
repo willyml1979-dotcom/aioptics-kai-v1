@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T20:22:01+00:00",
+  "generated_at": "2026-10-22T02:22:02+00:00",
   "condition": "used",
   "make": "lincoln",
   "files": [
@@ -7,7 +7,7 @@
       "condition": "used",
       "make": "lincoln",
       "model": "Nautilus",
-      "count": 30,
+      "count": 29,
       "file": "inventory/used-lincoln-nautilus.json",
       "models": [
         {
@@ -16,7 +16,7 @@
         },
         {
           "model": "Nautilus",
-          "count": 29
+          "count": 28
         }
       ]
     },
@@ -24,7 +24,7 @@
       "condition": "used",
       "make": "lincoln",
       "model": "Corsair",
-      "count": 15,
+      "count": 14,
       "file": "inventory/used-lincoln-corsair.json",
       "models": [
         {
@@ -33,7 +33,7 @@
         },
         {
           "model": "Corsair",
-          "count": 14
+          "count": 13
         }
       ]
     },
@@ -41,7 +41,7 @@
       "condition": "used",
       "make": "lincoln",
       "model": "Navigator",
-      "count": 7,
+      "count": 8,
       "file": "inventory/used-lincoln-navigator.json",
       "models": [
         {
@@ -50,7 +50,7 @@
         },
         {
           "model": "Navigator",
-          "count": 6
+          "count": 7
         }
       ]
     },
@@ -58,12 +58,12 @@
       "condition": "used",
       "make": "lincoln",
       "model": "Aviator",
-      "count": 6,
+      "count": 5,
       "file": "inventory/used-lincoln-aviator.json",
       "models": [
         {
           "model": "Aviator",
-          "count": 6
+          "count": 5
         }
       ]
     },
@@ -122,6 +122,19 @@
     {
       "condition": "used",
       "make": "lincoln",
+      "model": "MKX",
+      "count": 1,
+      "file": "inventory/used-lincoln-mkx.json",
+      "models": [
+        {
+          "model": "MKX",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lincoln",
       "model": "MKZ",
       "count": 3,
       "file": "inventory/used-lincoln-mkz.json",
@@ -141,19 +154,6 @@
       "models": [
         {
           "model": "NautilusReserve 4dr All-Wheel Drive",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "lincoln",
-      "model": "CorsairStandard 4dr All-Wheel Drive",
-      "count": 2,
-      "file": "inventory/used-lincoln-corsairstandard-4dr-all-wheel-drive.json",
-      "models": [
-        {
-          "model": "CorsairStandard 4dr All-Wheel Drive",
           "count": 2
         }
       ]

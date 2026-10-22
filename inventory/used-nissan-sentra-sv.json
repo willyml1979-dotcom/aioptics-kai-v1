@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-21T20:22:01+00:00",
-  "snapshot": "2026-10-21T20:22:01+00:00",
+  "generated_at": "2026-10-22T02:22:02+00:00",
+  "snapshot": "2026-10-22T02:22:02+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "regency-lexus-3n1ab8cv5ly279561",
@@ -57,6 +57,31 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Regency Toyota"
+    },
+    {
+      "pub_id": "kelowna-toyota-ltd-3n1ab8cvxry340718",
+      "year": 2024,
+      "make": "Nissan",
+      "model": "Sentra SV",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 18257,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "Red",
+      "dealer_id": "kelowna-toyota-ltd",
+      "vin": "3N1AB8CVXRY340718",
+      "stock": "PKT0718",
+      "listing_url": "https://www.kelownatoyota.com/vehicles/2024/nissan/sentra/kelowna/bc/ad13314936/?sale_class=used",
+      "dealer_url": "https://www.kelownatoyota.com/vehicles/2024/nissan/sentra/kelowna/bc/ad13314936/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T18:16:18",
+      "snapshot": "2026-10-21T18:19:03",
+      "go_url": "https://carwhisper.ca/go/kelowna-toyota-ltd-3n1ab8cvxry340718",
+      "region": "Okanagan",
+      "city": "Kelowna",
+      "province": "BC",
+      "dealer_name": "Kelowna Toyota Ltd."
     }
   ]
 }

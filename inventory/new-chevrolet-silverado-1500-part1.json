@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-21T20:22:01+00:00",
-  "snapshot": "2026-10-21T20:22:01+00:00",
+  "generated_at": "2026-10-22T02:22:02+00:00",
+  "snapshot": "2026-10-22T02:22:02+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 30,
+  "count": 31,
   "vehicles": [
     {
       "pub_id": "maple-ridge-hyundai-2gcukded9s1218489",
@@ -21,7 +21,7 @@
       "listing_url": "https://www.mapleridgehyundai.com/used/2025-Chevrolet-Silverado_1500.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2025-Chevrolet-Silverado_1500.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T06:58:03",
-      "snapshot": "2026-10-19T18:18:31",
+      "snapshot": "2026-10-21T18:49:09",
       "go_url": "https://carwhisper.ca/go/maple-ridge-hyundai-2gcukded9s1218489",
       "region": "Lower Mainland",
       "city": "Maple Ridge",
@@ -407,7 +407,7 @@
       "listing_url": "https://www.mapleridgehyundai.com/used/2026-Chevrolet-Silverado_1500.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2026-Chevrolet-Silverado_1500.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T07:05:43",
-      "snapshot": "2026-10-19T18:18:31",
+      "snapshot": "2026-10-21T18:49:09",
       "go_url": "https://carwhisper.ca/go/maple-ridge-hyundai-2gcukded7t1128016",
       "region": "Lower Mainland",
       "city": "Maple Ridge",
@@ -843,6 +843,36 @@
       "city": "North Vancouver",
       "province": "BC",
       "dealer_name": "Carter GM Northshore"
+    },
+    {
+      "pub_id": "greg-gardner-motors-ltd-3gcukced5tg509106",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": "Crew Cab Short Box 4-Wheel Drive Custom Trail Boss",
+      "body_type": "truck",
+      "drivetrain": "4WD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 25,
+      "price_cad": 64223.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/inventory/FB2ADAHF7VDK5GNJ5ZHW76URKY.webp",
+      "dealer_id": "greg-gardner-motors-ltd",
+      "vin": "3GCUKCED5TG509106",
+      "stock": "N26459",
+      "listing_url": "https://www.greggardnergm.com/inventory/2026-chevrolet-silverado-1500-custom-trail-boss-e5U1cg3BR7yXAskvSLRtJQvdp",
+      "dealer_url": "https://www.greggardnergm.com/inventory/2026-chevrolet-silverado-1500-custom-trail-boss-e5U1cg3BR7yXAskvSLRtJQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T19:51:40",
+      "snapshot": "2026-10-19T19:56:01",
+      "go_url": "https://carwhisper.ca/go/greg-gardner-motors-ltd-3gcukced5tg509106",
+      "region": "Lower Mainland",
+      "city": "Squamish",
+      "province": "BC",
+      "dealer_name": "Greg Gardner Motors Ltd."
     }
   ]
 }

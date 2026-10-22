@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T20:22:01+00:00",
+  "generated_at": "2026-10-22T02:22:02+00:00",
   "condition": "used",
   "make": "buick",
   "files": [
@@ -20,12 +20,12 @@
       "condition": "used",
       "make": "buick",
       "model": "Enclave",
-      "count": 20,
+      "count": 19,
       "file": "inventory/used-buick-enclave.json",
       "models": [
         {
           "model": "Enclave",
-          "count": 20
+          "count": 19
         }
       ]
     },
@@ -46,9 +46,8 @@
       "condition": "used",
       "make": "buick",
       "model": "Encore GX",
-      "shard": "Lower Mainland",
-      "count": 11,
-      "file": "inventory/used-buick-encore-gx-lower-mainland.json",
+      "count": 31,
+      "file": "inventory/used-buick-encore-gx.json",
       "models": [
         {
           "model": "ENCORE GX",
@@ -56,77 +55,7 @@
         },
         {
           "model": "Encore GX",
-          "count": 10
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "buick",
-      "model": "Encore GX",
-      "shard": "Norte/Cariboo",
-      "count": 2,
-      "file": "inventory/used-buick-encore-gx-norte-cariboo.json",
-      "models": [
-        {
-          "model": "Encore GX",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "buick",
-      "model": "Encore GX",
-      "shard": "Okanagan",
-      "count": 7,
-      "file": "inventory/used-buick-encore-gx-okanagan.json",
-      "models": [
-        {
-          "model": "Encore GX",
-          "count": 7
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "buick",
-      "model": "Encore GX",
-      "shard": "Thompson-Okanagan",
-      "count": 2,
-      "file": "inventory/used-buick-encore-gx-thompson-okanagan.json",
-      "models": [
-        {
-          "model": "Encore GX",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "buick",
-      "model": "Encore GX",
-      "shard": "Vancouver Island",
-      "count": 2,
-      "file": "inventory/used-buick-encore-gx-vancouver-island.json",
-      "models": [
-        {
-          "model": "Encore GX",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "buick",
-      "model": "Encore GX",
-      "shard": "sin-region",
-      "count": 12,
-      "file": "inventory/used-buick-encore-gx-sin-region.json",
-      "models": [
-        {
-          "model": "Encore GX",
-          "count": 12
+          "count": 30
         }
       ]
     },
@@ -134,12 +63,12 @@
       "condition": "used",
       "make": "buick",
       "model": "Envista",
-      "count": 27,
+      "count": 26,
       "file": "inventory/used-buick-envista.json",
       "models": [
         {
           "model": "Envista",
-          "count": 27
+          "count": 26
         }
       ]
     },
@@ -147,25 +76,12 @@
       "condition": "used",
       "make": "buick",
       "model": "Envision",
-      "count": 27,
+      "count": 25,
       "file": "inventory/used-buick-envision.json",
       "models": [
         {
           "model": "Envision",
-          "count": 27
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "buick",
-      "model": "EnvisionPreferred",
-      "count": 1,
-      "file": "inventory/used-buick-envisionpreferred.json",
-      "models": [
-        {
-          "model": "EnvisionPreferred",
-          "count": 1
+          "count": 25
         }
       ]
     },
@@ -179,6 +95,19 @@
         {
           "model": "Regal",
           "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "buick",
+      "model": "EnvisionPreferred",
+      "count": 1,
+      "file": "inventory/used-buick-envisionpreferred.json",
+      "models": [
+        {
+          "model": "EnvisionPreferred",
+          "count": 1
         }
       ]
     },
@@ -211,19 +140,6 @@
     {
       "condition": "used",
       "make": "buick",
-      "model": "EnvisionPremium II All-Wheel Drive",
-      "count": 1,
-      "file": "inventory/used-buick-envisionpremium-ii-all-wheel-drive.json",
-      "models": [
-        {
-          "model": "EnvisionPremium II All-Wheel Drive",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "buick",
       "model": "EnclaveAvenir All-Wheel Drive",
       "count": 1,
       "file": "inventory/used-buick-enclaveavenir-all-wheel-drive.json",
@@ -243,19 +159,6 @@
       "models": [
         {
           "model": "Regal Sportback",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "buick",
-      "model": "Lacrosse",
-      "count": 1,
-      "file": "inventory/used-buick-lacrosse.json",
-      "models": [
-        {
-          "model": "Lacrosse",
           "count": 1
         }
       ]
