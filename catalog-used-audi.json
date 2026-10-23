@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T20:22:16+00:00",
+  "generated_at": "2026-10-23T02:22:23+00:00",
   "condition": "used",
   "make": "audi",
   "files": [
@@ -417,19 +417,6 @@
     {
       "condition": "used",
       "make": "audi",
-      "model": "e-tron GT",
-      "count": 14,
-      "file": "inventory/used-audi-e-tron-gt.json",
-      "models": [
-        {
-          "model": "e-tron GT",
-          "count": 14
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "audi",
       "model": "Q5 Technik",
       "count": 2,
       "file": "inventory/used-audi-q5-technik.json",
@@ -437,6 +424,19 @@
         {
           "model": "Q5 Technik",
           "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "audi",
+      "model": "e-tron GT",
+      "count": 14,
+      "file": "inventory/used-audi-e-tron-gt.json",
+      "models": [
+        {
+          "model": "e-tron GT",
+          "count": 14
         }
       ]
     },
@@ -521,25 +521,25 @@
     {
       "condition": "used",
       "make": "audi",
-      "model": "SQ6 e-tron",
-      "count": 14,
-      "file": "inventory/used-audi-sq6-e-tron.json",
+      "model": "RS Q8",
+      "count": 15,
+      "file": "inventory/used-audi-rs-q8.json",
       "models": [
         {
-          "model": "SQ6 e-tron",
-          "count": 14
+          "model": "RS Q8",
+          "count": 15
         }
       ]
     },
     {
       "condition": "used",
       "make": "audi",
-      "model": "RS Q8",
+      "model": "SQ6 e-tron",
       "count": 14,
-      "file": "inventory/used-audi-rs-q8.json",
+      "file": "inventory/used-audi-sq6-e-tron.json",
       "models": [
         {
-          "model": "RS Q8",
+          "model": "SQ6 e-tron",
           "count": 14
         }
       ]

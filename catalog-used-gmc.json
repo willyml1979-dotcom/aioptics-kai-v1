@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T20:22:16+00:00",
+  "generated_at": "2026-10-23T02:22:23+00:00",
   "condition": "used",
   "make": "gmc",
   "files": [
@@ -36,7 +36,7 @@
       "make": "gmc",
       "model": "TERRAIN",
       "shard": "Norte/Cariboo",
-      "count": 16,
+      "count": 15,
       "file": "inventory/used-gmc-terrain-norte-cariboo.json",
       "models": [
         {
@@ -45,7 +45,7 @@
         },
         {
           "model": "Terrain",
-          "count": 13
+          "count": 12
         }
       ]
     },
@@ -100,12 +100,12 @@
       "make": "gmc",
       "model": "TERRAIN",
       "shard": "sin-region",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-gmc-terrain-sin-region.json",
       "models": [
         {
           "model": "Terrain",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -271,12 +271,12 @@
       "make": "gmc",
       "model": "Sierra 1500",
       "shard": "part11",
-      "count": 21,
+      "count": 24,
       "file": "inventory/used-gmc-sierra-1500-part11.json",
       "models": [
         {
           "model": "Sierra 1500",
-          "count": 21
+          "count": 24
         }
       ]
     },
@@ -488,7 +488,7 @@
       "make": "gmc",
       "model": "Sierra 3500HD",
       "shard": "Okanagan",
-      "count": 24,
+      "count": 25,
       "file": "inventory/used-gmc-sierra-3500hd-okanagan.json",
       "models": [
         {
@@ -497,7 +497,7 @@
         },
         {
           "model": "Sierra 3500HD",
-          "count": 23
+          "count": 24
         }
       ]
     },
@@ -742,12 +742,12 @@
       "condition": "used",
       "make": "gmc",
       "model": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive AT4",
-      "count": 10,
+      "count": 11,
       "file": "inventory/used-gmc-sierra-1500-crew-cab-short-box-4-wheel-drive-at4.json",
       "models": [
         {
           "model": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive AT4",
-          "count": 10
+          "count": 11
         }
       ]
     },
@@ -813,32 +813,6 @@
         {
           "model": "4 Sierra 3500hd Cars For Sale at Murray Chevy Abbotsford",
           "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "gmc",
-      "model": "Sierra 1500AT4",
-      "count": 1,
-      "file": "inventory/used-gmc-sierra-1500at4.json",
-      "models": [
-        {
-          "model": "Sierra 1500AT4",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "gmc",
-      "model": "YukonDenali",
-      "count": 2,
-      "file": "inventory/used-gmc-yukondenali.json",
-      "models": [
-        {
-          "model": "YukonDenali",
-          "count": 2
         }
       ]
     },
@@ -955,6 +929,19 @@
       "models": [
         {
           "model": "Sierra 3500HDSLT",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "gmc",
+      "model": "YukonDenali",
+      "count": 1,
+      "file": "inventory/used-gmc-yukondenali.json",
+      "models": [
+        {
+          "model": "YukonDenali",
           "count": 1
         }
       ]

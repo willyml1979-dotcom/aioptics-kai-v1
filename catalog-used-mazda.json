@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T20:22:16+00:00",
+  "generated_at": "2026-10-23T02:22:23+00:00",
   "condition": "used",
   "make": "mazda",
   "files": [
@@ -125,6 +125,90 @@
     {
       "condition": "used",
       "make": "mazda",
+      "model": "CX-5",
+      "shard": "part1",
+      "count": 32,
+      "file": "inventory/used-mazda-cx-5-part1.json",
+      "models": [
+        {
+          "model": "CX-5",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mazda",
+      "model": "CX-5",
+      "shard": "part2",
+      "count": 32,
+      "file": "inventory/used-mazda-cx-5-part2.json",
+      "models": [
+        {
+          "model": "CX-5",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mazda",
+      "model": "CX-5",
+      "shard": "part3",
+      "count": 32,
+      "file": "inventory/used-mazda-cx-5-part3.json",
+      "models": [
+        {
+          "model": "CX-5",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mazda",
+      "model": "CX-5",
+      "shard": "part4",
+      "count": 32,
+      "file": "inventory/used-mazda-cx-5-part4.json",
+      "models": [
+        {
+          "model": "CX-5",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mazda",
+      "model": "CX-5",
+      "shard": "part5",
+      "count": 32,
+      "file": "inventory/used-mazda-cx-5-part5.json",
+      "models": [
+        {
+          "model": "CX-5",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mazda",
+      "model": "CX-5",
+      "shard": "part6",
+      "count": 28,
+      "file": "inventory/used-mazda-cx-5-part6.json",
+      "models": [
+        {
+          "model": "CX-5",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mazda",
       "model": "CX-9",
       "count": 31,
       "file": "inventory/used-mazda-cx-9.json",
@@ -158,90 +242,6 @@
         {
           "model": "Mazda6",
           "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mazda",
-      "model": "CX-5",
-      "shard": "part1",
-      "count": 30,
-      "file": "inventory/used-mazda-cx-5-part1.json",
-      "models": [
-        {
-          "model": "CX-5",
-          "count": 30
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mazda",
-      "model": "CX-5",
-      "shard": "part2",
-      "count": 30,
-      "file": "inventory/used-mazda-cx-5-part2.json",
-      "models": [
-        {
-          "model": "CX-5",
-          "count": 30
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mazda",
-      "model": "CX-5",
-      "shard": "part3",
-      "count": 30,
-      "file": "inventory/used-mazda-cx-5-part3.json",
-      "models": [
-        {
-          "model": "CX-5",
-          "count": 30
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mazda",
-      "model": "CX-5",
-      "shard": "part4",
-      "count": 30,
-      "file": "inventory/used-mazda-cx-5-part4.json",
-      "models": [
-        {
-          "model": "CX-5",
-          "count": 30
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mazda",
-      "model": "CX-5",
-      "shard": "part5",
-      "count": 30,
-      "file": "inventory/used-mazda-cx-5-part5.json",
-      "models": [
-        {
-          "model": "CX-5",
-          "count": 30
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mazda",
-      "model": "CX-5",
-      "shard": "part6",
-      "count": 30,
-      "file": "inventory/used-mazda-cx-5-part6.json",
-      "models": [
-        {
-          "model": "CX-5",
-          "count": 30
         }
       ]
     },
@@ -302,12 +302,12 @@
       "make": "mazda",
       "model": "CX-30",
       "shard": "part1",
-      "count": 28,
+      "count": 27,
       "file": "inventory/used-mazda-cx-30-part1.json",
       "models": [
         {
           "model": "CX-30",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -316,12 +316,12 @@
       "make": "mazda",
       "model": "CX-30",
       "shard": "part2",
-      "count": 28,
+      "count": 27,
       "file": "inventory/used-mazda-cx-30-part2.json",
       "models": [
         {
           "model": "CX-30",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -330,12 +330,12 @@
       "make": "mazda",
       "model": "CX-30",
       "shard": "part3",
-      "count": 26,
+      "count": 27,
       "file": "inventory/used-mazda-cx-30-part3.json",
       "models": [
         {
           "model": "CX-30",
-          "count": 26
+          "count": 27
         }
       ]
     },
@@ -569,6 +569,19 @@
     {
       "condition": "used",
       "make": "mazda",
+      "model": "CX-70 MHEV GS-L",
+      "count": 1,
+      "file": "inventory/used-mazda-cx-70-mhev-gs-l.json",
+      "models": [
+        {
+          "model": "CX-70 MHEV GS-L",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mazda",
       "model": "MX-5 RF",
       "count": 2,
       "file": "inventory/used-mazda-mx-5-rf.json",
@@ -601,19 +614,6 @@
       "models": [
         {
           "model": "CX-3GT (A6) 4dr i-ACTIV All-Wheel Drive Sport Utility",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mazda",
-      "model": "CX-5GT w/Turbo 4dr i-ACTIV All-Wheel Drive Sport Utility",
-      "count": 2,
-      "file": "inventory/used-mazda-cx-5gt-w-turbo-4dr-i-activ-all-wheel-drive-sport-utility.json",
-      "models": [
-        {
-          "model": "CX-5GT w/Turbo 4dr i-ACTIV All-Wheel Drive Sport Utility",
           "count": 2
         }
       ]
@@ -666,6 +666,19 @@
       "models": [
         {
           "model": "CX-9Signature 4dr i-ACTIV All-Wheel Drive Sport Utility",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mazda",
+      "model": "CX-5GT w/Turbo 4dr i-ACTIV All-Wheel Drive Sport Utility",
+      "count": 1,
+      "file": "inventory/used-mazda-cx-5gt-w-turbo-4dr-i-activ-all-wheel-drive-sport-utility.json",
+      "models": [
+        {
+          "model": "CX-5GT w/Turbo 4dr i-ACTIV All-Wheel Drive Sport Utility",
           "count": 1
         }
       ]

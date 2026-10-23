@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T20:22:16+00:00",
+  "generated_at": "2026-10-23T02:22:23+00:00",
   "condition": "new",
   "make": "subaru",
   "files": [
@@ -506,12 +506,12 @@
       "make": "subaru",
       "model": "WRX",
       "shard": "Vancouver Island",
-      "count": 4,
+      "count": 5,
       "file": "inventory/new-subaru-wrx-vancouver-island.json",
       "models": [
         {
           "model": "WRX",
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -533,12 +533,12 @@
       "condition": "new",
       "make": "subaru",
       "model": "Uncharted",
-      "count": 26,
+      "count": 27,
       "file": "inventory/new-subaru-uncharted.json",
       "models": [
         {
           "model": "Uncharted",
-          "count": 26
+          "count": 27
         }
       ]
     },
@@ -733,12 +733,12 @@
       "make": "subaru",
       "model": "Outback",
       "shard": "part9",
-      "count": 27,
+      "count": 28,
       "file": "inventory/new-subaru-outback-part9.json",
       "models": [
         {
           "model": "Outback",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -778,19 +778,6 @@
         {
           "model": "BRZ",
           "count": 10
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "subaru",
-      "model": "Uncharted FWD",
-      "count": 2,
-      "file": "inventory/new-subaru-uncharted-fwd.json",
-      "models": [
-        {
-          "model": "Uncharted FWD",
-          "count": 2
         }
       ]
     },
@@ -889,12 +876,12 @@
       "condition": "new",
       "make": "subaru",
       "model": "Forester e-BOXER Hybrid",
-      "count": 14,
+      "count": 13,
       "file": "inventory/new-subaru-forester-e-boxer-hybrid.json",
       "models": [
         {
           "model": "Forester e-BOXER Hybrid",
-          "count": 14
+          "count": 13
         }
       ]
     },
@@ -1070,19 +1057,6 @@
     {
       "condition": "new",
       "make": "subaru",
-      "model": "WRX Sport Manual",
-      "count": 2,
-      "file": "inventory/new-subaru-wrx-sport-manual.json",
-      "models": [
-        {
-          "model": "WRX Sport Manual",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "subaru",
       "model": "Solterra",
       "count": 4,
       "file": "inventory/new-subaru-solterra.json",
@@ -1096,6 +1070,19 @@
     {
       "condition": "new",
       "make": "subaru",
+      "model": "Uncharted FWD",
+      "count": 1,
+      "file": "inventory/new-subaru-uncharted-fwd.json",
+      "models": [
+        {
+          "model": "Uncharted FWD",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "subaru",
       "model": "Forester Sport AWD",
       "count": 2,
       "file": "inventory/new-subaru-forester-sport-awd.json",
@@ -1103,6 +1090,19 @@
         {
           "model": "Forester Sport AWD",
           "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "subaru",
+      "model": "WRX Sport Manual",
+      "count": 1,
+      "file": "inventory/new-subaru-wrx-sport-manual.json",
+      "models": [
+        {
+          "model": "WRX Sport Manual",
+          "count": 1
         }
       ]
     },

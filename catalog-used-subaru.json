@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T20:22:16+00:00",
+  "generated_at": "2026-10-23T02:22:23+00:00",
   "condition": "used",
   "make": "subaru",
   "files": [
@@ -343,12 +343,12 @@
       "make": "subaru",
       "model": "Crosstrek",
       "shard": "part24",
-      "count": 9,
+      "count": 10,
       "file": "inventory/used-subaru-crosstrek-part24.json",
       "models": [
         {
           "model": "Crosstrek",
-          "count": 9
+          "count": 10
         }
       ]
     },
@@ -497,12 +497,12 @@
       "make": "subaru",
       "model": "Outback",
       "shard": "part11",
-      "count": 28,
+      "count": 27,
       "file": "inventory/used-subaru-outback-part11.json",
       "models": [
         {
           "model": "Outback",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -539,25 +539,12 @@
       "make": "subaru",
       "model": "Impreza",
       "shard": "part3",
-      "count": 27,
+      "count": 26,
       "file": "inventory/used-subaru-impreza-part3.json",
       "models": [
         {
           "model": "Impreza",
-          "count": 27
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "subaru",
-      "model": "Solterra",
-      "count": 23,
-      "file": "inventory/used-subaru-solterra.json",
-      "models": [
-        {
-          "model": "Solterra",
-          "count": 23
+          "count": 26
         }
       ]
     },
@@ -612,19 +599,6 @@
       "models": [
         {
           "model": "Crosstrek Sport",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "subaru",
-      "model": "Forester Touring",
-      "count": 1,
-      "file": "inventory/used-subaru-forester-touring.json",
-      "models": [
-        {
-          "model": "Forester Touring",
           "count": 1
         }
       ]
@@ -1058,6 +1032,19 @@
         {
           "model": "CrosstrekSport",
           "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "Solterra",
+      "count": 22,
+      "file": "inventory/used-subaru-solterra.json",
+      "models": [
+        {
+          "model": "Solterra",
+          "count": 22
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T20:22:16+00:00",
+  "generated_at": "2026-10-23T02:22:23+00:00",
   "condition": "used",
   "make": "chevrolet",
   "files": [
@@ -314,12 +314,12 @@
       "make": "chevrolet",
       "model": "Trailblazer",
       "shard": "Okanagan",
-      "count": 3,
+      "count": 4,
       "file": "inventory/used-chevrolet-trailblazer-okanagan.json",
       "models": [
         {
           "model": "TrailBlazer",
-          "count": 2
+          "count": 3
         },
         {
           "model": "Trailblazer",
@@ -600,12 +600,12 @@
       "make": "chevrolet",
       "model": "Silverado 1500",
       "shard": "part13",
-      "count": 22,
+      "count": 21,
       "file": "inventory/used-chevrolet-silverado-1500-part13.json",
       "models": [
         {
           "model": "Silverado 1500",
-          "count": 22
+          "count": 21
         }
       ]
     },
@@ -626,12 +626,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Sonic",
-      "count": 15,
+      "count": 16,
       "file": "inventory/used-chevrolet-sonic.json",
       "models": [
         {
           "model": "Sonic",
-          "count": 15
+          "count": 16
         }
       ]
     },
@@ -872,12 +872,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Bolt EUV",
-      "count": 9,
+      "count": 10,
       "file": "inventory/used-chevrolet-bolt-euv.json",
       "models": [
         {
           "model": "Bolt EUV",
-          "count": 9
+          "count": 10
         }
       ]
     },
@@ -1306,6 +1306,19 @@
       "models": [
         {
           "model": "SuburbanLT",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "TahoePremier",
+      "count": 1,
+      "file": "inventory/used-chevrolet-tahoepremier.json",
+      "models": [
+        {
+          "model": "TahoePremier",
           "count": 1
         }
       ]

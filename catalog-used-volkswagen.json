@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T20:22:16+00:00",
+  "generated_at": "2026-10-23T02:22:23+00:00",
   "condition": "used",
   "make": "volkswagen",
   "files": [
@@ -146,104 +146,6 @@
     {
       "condition": "used",
       "make": "volkswagen",
-      "model": "Taos",
-      "shard": "Kootenays",
-      "count": 1,
-      "file": "inventory/used-volkswagen-taos-kootenays.json",
-      "models": [
-        {
-          "model": "Taos",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Taos",
-      "shard": "Lower Mainland",
-      "count": 32,
-      "file": "inventory/used-volkswagen-taos-lower-mainland.json",
-      "models": [
-        {
-          "model": "Taos",
-          "count": 32
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Taos",
-      "shard": "Norte/Cariboo",
-      "count": 2,
-      "file": "inventory/used-volkswagen-taos-norte-cariboo.json",
-      "models": [
-        {
-          "model": "Taos",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Taos",
-      "shard": "Okanagan",
-      "count": 14,
-      "file": "inventory/used-volkswagen-taos-okanagan.json",
-      "models": [
-        {
-          "model": "Taos",
-          "count": 14
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Taos",
-      "shard": "Thompson-Okanagan",
-      "count": 8,
-      "file": "inventory/used-volkswagen-taos-thompson-okanagan.json",
-      "models": [
-        {
-          "model": "Taos",
-          "count": 8
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Taos",
-      "shard": "Vancouver Island",
-      "count": 12,
-      "file": "inventory/used-volkswagen-taos-vancouver-island.json",
-      "models": [
-        {
-          "model": "Taos",
-          "count": 12
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Taos",
-      "shard": "sin-region",
-      "count": 28,
-      "file": "inventory/used-volkswagen-taos-sin-region.json",
-      "models": [
-        {
-          "model": "Taos",
-          "count": 28
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
       "model": "Jetta",
       "shard": "part1",
       "count": 28,
@@ -288,12 +190,12 @@
       "make": "volkswagen",
       "model": "Jetta",
       "shard": "part4",
-      "count": 25,
+      "count": 26,
       "file": "inventory/used-volkswagen-jetta-part4.json",
       "models": [
         {
           "model": "Jetta",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -380,6 +282,90 @@
     {
       "condition": "used",
       "make": "volkswagen",
+      "model": "Taos",
+      "shard": "Lower Mainland",
+      "count": 32,
+      "file": "inventory/used-volkswagen-taos-lower-mainland.json",
+      "models": [
+        {
+          "model": "Taos",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volkswagen",
+      "model": "Taos",
+      "shard": "Norte/Cariboo",
+      "count": 2,
+      "file": "inventory/used-volkswagen-taos-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Taos",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volkswagen",
+      "model": "Taos",
+      "shard": "Okanagan",
+      "count": 14,
+      "file": "inventory/used-volkswagen-taos-okanagan.json",
+      "models": [
+        {
+          "model": "Taos",
+          "count": 14
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volkswagen",
+      "model": "Taos",
+      "shard": "Thompson-Okanagan",
+      "count": 7,
+      "file": "inventory/used-volkswagen-taos-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "Taos",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volkswagen",
+      "model": "Taos",
+      "shard": "Vancouver Island",
+      "count": 12,
+      "file": "inventory/used-volkswagen-taos-vancouver-island.json",
+      "models": [
+        {
+          "model": "Taos",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volkswagen",
+      "model": "Taos",
+      "shard": "sin-region",
+      "count": 28,
+      "file": "inventory/used-volkswagen-taos-sin-region.json",
+      "models": [
+        {
+          "model": "Taos",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volkswagen",
       "model": "Golf GTI",
       "count": 25,
       "file": "inventory/used-volkswagen-golf-gti.json",
@@ -409,12 +395,12 @@
       "make": "volkswagen",
       "model": "Atlas",
       "shard": "Norte/Cariboo",
-      "count": 4,
+      "count": 3,
       "file": "inventory/used-volkswagen-atlas-norte-cariboo.json",
       "models": [
         {
           "model": "Atlas",
-          "count": 4
+          "count": 3
         }
       ]
     },
