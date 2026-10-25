@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T02:22:23+00:00",
+  "generated_at": "2026-10-25T00:45:35+00:00",
   "condition": "new",
   "make": "chevrolet",
   "files": [
@@ -202,12 +202,12 @@
       "make": "chevrolet",
       "model": "Bolt",
       "shard": "part8",
-      "count": 28,
+      "count": 26,
       "file": "inventory/new-chevrolet-bolt-part8.json",
       "models": [
         {
           "model": "Bolt",
-          "count": 28
+          "count": 26
         }
       ]
     },
@@ -229,12 +229,12 @@
       "make": "chevrolet",
       "model": "Equinox EV",
       "shard": "part1",
-      "count": 30,
+      "count": 31,
       "file": "inventory/new-chevrolet-equinox-ev-part1.json",
       "models": [
         {
           "model": "Equinox EV",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -243,12 +243,12 @@
       "make": "chevrolet",
       "model": "Equinox EV",
       "shard": "part2",
-      "count": 30,
+      "count": 31,
       "file": "inventory/new-chevrolet-equinox-ev-part2.json",
       "models": [
         {
           "model": "Equinox EV",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -257,12 +257,12 @@
       "make": "chevrolet",
       "model": "Equinox EV",
       "shard": "part3",
-      "count": 30,
+      "count": 31,
       "file": "inventory/new-chevrolet-equinox-ev-part3.json",
       "models": [
         {
           "model": "Equinox EV",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -271,12 +271,12 @@
       "make": "chevrolet",
       "model": "Equinox EV",
       "shard": "part4",
-      "count": 30,
+      "count": 29,
       "file": "inventory/new-chevrolet-equinox-ev-part4.json",
       "models": [
         {
           "model": "Equinox EV",
-          "count": 30
+          "count": 29
         }
       ]
     },
@@ -368,12 +368,12 @@
       "make": "chevrolet",
       "model": "Colorado",
       "shard": "part6",
-      "count": 29,
+      "count": 28,
       "file": "inventory/new-chevrolet-colorado-part6.json",
       "models": [
         {
           "model": "Colorado",
-          "count": 29
+          "count": 28
         }
       ]
     },
@@ -1003,12 +1003,12 @@
       "make": "chevrolet",
       "model": "Silverado 1500",
       "shard": "part18",
-      "count": 30,
+      "count": 29,
       "file": "inventory/new-chevrolet-silverado-1500-part18.json",
       "models": [
         {
           "model": "Silverado 1500",
-          "count": 30
+          "count": 29
         }
       ]
     },
@@ -1153,12 +1153,12 @@
       "make": "chevrolet",
       "model": "Silverado 3500HD",
       "shard": "Norte/Cariboo",
-      "count": 8,
+      "count": 10,
       "file": "inventory/new-chevrolet-silverado-3500hd-norte-cariboo.json",
       "models": [
         {
           "model": "Silverado 3500HD",
-          "count": 8
+          "count": 10
         }
       ]
     },
@@ -1277,19 +1277,6 @@
     {
       "condition": "new",
       "make": "chevrolet",
-      "model": "Silverado EV",
-      "count": 11,
-      "file": "inventory/new-chevrolet-silverado-ev.json",
-      "models": [
-        {
-          "model": "Silverado EV",
-          "count": 11
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "chevrolet",
       "model": "Silverado 2500HD",
       "count": 4,
       "file": "inventory/new-chevrolet-silverado-2500hd.json",
@@ -1367,6 +1354,19 @@
         {
           "model": "Corvette",
           "count": 20
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Silverado EV",
+      "count": 10,
+      "file": "inventory/new-chevrolet-silverado-ev.json",
+      "models": [
+        {
+          "model": "Silverado EV",
+          "count": 10
         }
       ]
     },
@@ -1473,12 +1473,12 @@
       "make": "chevrolet",
       "model": "Suburban",
       "shard": "Norte/Cariboo",
-      "count": 2,
+      "count": 3,
       "file": "inventory/new-chevrolet-suburban-norte-cariboo.json",
       "models": [
         {
           "model": "Suburban",
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -2055,19 +2055,6 @@
       "models": [
         {
           "model": "SUBURBANHIGH COUNTRY 4DR 4X4 (3LZ)",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "chevrolet",
-      "model": "SILVERADO 3500HDHIGH COUNTRY 4X4 CREW CAB 6.75 FT. BOX SRW (3LZ)",
-      "count": 1,
-      "file": "inventory/new-chevrolet-silverado-3500hdhigh-country-4x4-crew-cab-6-75-ft-box-srw-3lz.json",
-      "models": [
-        {
-          "model": "SILVERADO 3500HDHIGH COUNTRY 4X4 CREW CAB 6.75 FT. BOX SRW (3LZ)",
           "count": 1
         }
       ]

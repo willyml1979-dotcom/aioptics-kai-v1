@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T02:22:23+00:00",
+  "generated_at": "2026-10-25T00:45:35+00:00",
   "condition": "used",
   "make": "cadillac",
   "files": [
@@ -133,6 +133,48 @@
     {
       "condition": "used",
       "make": "cadillac",
+      "model": "Escalade",
+      "shard": "part1",
+      "count": 22,
+      "file": "inventory/used-cadillac-escalade-part1.json",
+      "models": [
+        {
+          "model": "Escalade",
+          "count": 22
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "cadillac",
+      "model": "Escalade",
+      "shard": "part2",
+      "count": 22,
+      "file": "inventory/used-cadillac-escalade-part2.json",
+      "models": [
+        {
+          "model": "Escalade",
+          "count": 22
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "cadillac",
+      "model": "Escalade",
+      "shard": "part3",
+      "count": 21,
+      "file": "inventory/used-cadillac-escalade-part3.json",
+      "models": [
+        {
+          "model": "Escalade",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "cadillac",
       "model": "CT4",
       "count": 4,
       "file": "inventory/used-cadillac-ct4.json",
@@ -183,34 +225,6 @@
         {
           "model": "Lyriq",
           "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "cadillac",
-      "model": "Escalade",
-      "shard": "part1",
-      "count": 31,
-      "file": "inventory/used-cadillac-escalade-part1.json",
-      "models": [
-        {
-          "model": "Escalade",
-          "count": 31
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "cadillac",
-      "model": "Escalade",
-      "shard": "part2",
-      "count": 30,
-      "file": "inventory/used-cadillac-escalade-part2.json",
-      "models": [
-        {
-          "model": "Escalade",
-          "count": 30
         }
       ]
     },

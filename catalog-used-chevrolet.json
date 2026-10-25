@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T02:22:23+00:00",
+  "generated_at": "2026-10-25T00:45:35+00:00",
   "condition": "used",
   "make": "chevrolet",
   "files": [
@@ -50,12 +50,12 @@
       "make": "chevrolet",
       "model": "Equinox",
       "shard": "part4",
-      "count": 26,
+      "count": 27,
       "file": "inventory/used-chevrolet-equinox-part4.json",
       "models": [
         {
           "model": "Equinox",
-          "count": 26
+          "count": 27
         }
       ]
     },
@@ -350,11 +350,15 @@
       "make": "chevrolet",
       "model": "Trailblazer",
       "shard": "Vancouver Island",
-      "count": 5,
+      "count": 6,
       "file": "inventory/used-chevrolet-trailblazer-vancouver-island.json",
       "models": [
         {
           "model": "TRAILBLAZER",
+          "count": 1
+        },
+        {
+          "model": "TrailBlazer",
           "count": 1
         },
         {
@@ -386,7 +390,7 @@
       "make": "chevrolet",
       "model": "Trax",
       "shard": "part1",
-      "count": 25,
+      "count": 24,
       "file": "inventory/used-chevrolet-trax-part1.json",
       "models": [
         {
@@ -395,7 +399,7 @@
         },
         {
           "model": "Trax",
-          "count": 24
+          "count": 23
         }
       ]
     },
@@ -404,12 +408,12 @@
       "make": "chevrolet",
       "model": "Trax",
       "shard": "part2",
-      "count": 25,
+      "count": 24,
       "file": "inventory/used-chevrolet-trax-part2.json",
       "models": [
         {
           "model": "Trax",
-          "count": 25
+          "count": 24
         }
       ]
     },
@@ -418,12 +422,12 @@
       "make": "chevrolet",
       "model": "Trax",
       "shard": "part3",
-      "count": 24,
+      "count": 23,
       "file": "inventory/used-chevrolet-trax-part3.json",
       "models": [
         {
           "model": "Trax",
-          "count": 24
+          "count": 23
         }
       ]
     },
@@ -639,12 +643,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Spark",
-      "count": 31,
+      "count": 30,
       "file": "inventory/used-chevrolet-spark.json",
       "models": [
         {
           "model": "Spark",
-          "count": 31
+          "count": 30
         }
       ]
     },
@@ -846,12 +850,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Bolt",
-      "count": 27,
+      "count": 28,
       "file": "inventory/used-chevrolet-bolt.json",
       "models": [
         {
           "model": "Bolt",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -886,12 +890,12 @@
       "make": "chevrolet",
       "model": "Corvette",
       "shard": "part1",
-      "count": 23,
+      "count": 24,
       "file": "inventory/used-chevrolet-corvette-part1.json",
       "models": [
         {
           "model": "Corvette",
-          "count": 23
+          "count": 24
         }
       ]
     },
@@ -900,12 +904,12 @@
       "make": "chevrolet",
       "model": "Corvette",
       "shard": "part2",
-      "count": 23,
+      "count": 24,
       "file": "inventory/used-chevrolet-corvette-part2.json",
       "models": [
         {
           "model": "Corvette",
-          "count": 23
+          "count": 24
         }
       ]
     },
@@ -914,12 +918,12 @@
       "make": "chevrolet",
       "model": "Corvette",
       "shard": "part3",
-      "count": 21,
+      "count": 23,
       "file": "inventory/used-chevrolet-corvette-part3.json",
       "models": [
         {
           "model": "Corvette",
-          "count": 21
+          "count": 23
         }
       ]
     },
@@ -940,12 +944,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Express Cargo",
-      "count": 5,
+      "count": 4,
       "file": "inventory/used-chevrolet-express-cargo.json",
       "models": [
         {
           "model": "Express Cargo",
-          "count": 5
+          "count": 4
         }
       ]
     },

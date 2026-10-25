@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T02:22:23+00:00",
+  "generated_at": "2026-10-25T00:45:35+00:00",
   "condition": "new",
   "make": "gmc",
   "files": [
@@ -368,12 +368,12 @@
       "make": "gmc",
       "model": "Sierra 1500",
       "shard": "part8",
-      "count": 27,
+      "count": 25,
       "file": "inventory/new-gmc-sierra-1500-part8.json",
       "models": [
         {
           "model": "Sierra 1500",
-          "count": 27
+          "count": 25
         }
       ]
     },
@@ -582,12 +582,12 @@
       "condition": "new",
       "make": "gmc",
       "model": "Sierra EV",
-      "count": 4,
+      "count": 5,
       "file": "inventory/new-gmc-sierra-ev.json",
       "models": [
         {
           "model": "Sierra EV",
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -924,13 +924,13 @@
     {
       "condition": "new",
       "make": "gmc",
-      "model": "SIERRA 1500ELEVATION 4X4 CREW CAB 5.75 FT. BOX (3SB)",
-      "count": 2,
-      "file": "inventory/new-gmc-sierra-1500elevation-4x4-crew-cab-5-75-ft-box-3sb.json",
+      "model": "SIERRA 3500HDPRO 4X4 CREW CAB 8 FT. BOX SRW (1SA)",
+      "count": 1,
+      "file": "inventory/new-gmc-sierra-3500hdpro-4x4-crew-cab-8-ft-box-srw-1sa.json",
       "models": [
         {
-          "model": "SIERRA 1500ELEVATION 4X4 CREW CAB 5.75 FT. BOX (3SB)",
-          "count": 2
+          "model": "SIERRA 3500HDPRO 4X4 CREW CAB 8 FT. BOX SRW (1SA)",
+          "count": 1
         }
       ]
     },
@@ -956,6 +956,19 @@
       "models": [
         {
           "model": "Sierra EV e4WD Crew Cab Standard Range Elevation",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "SIERRA 1500ELEVATION 4X4 CREW CAB 5.75 FT. BOX (3SB)",
+      "count": 1,
+      "file": "inventory/new-gmc-sierra-1500elevation-4x4-crew-cab-5-75-ft-box-3sb.json",
+      "models": [
+        {
+          "model": "SIERRA 1500ELEVATION 4X4 CREW CAB 5.75 FT. BOX (3SB)",
           "count": 1
         }
       ]

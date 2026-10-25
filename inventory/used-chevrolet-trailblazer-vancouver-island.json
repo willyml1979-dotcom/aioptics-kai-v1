@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-23T02:22:23+00:00",
-  "snapshot": "2026-10-23T02:22:23+00:00",
+  "generated_at": "2026-10-25T00:45:35+00:00",
+  "snapshot": "2026-10-25T00:45:35+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "campbell-river-hyundai-kl79mms20rb087799",
@@ -23,8 +23,8 @@
       "stock": "E26231",
       "listing_url": "https://www.campbellriverhyundai.com/vehicles/2024/chevrolet/trailblazer/campbell-river/bc/ad12595391/?sale_class=used",
       "dealer_url": "https://www.campbellriverhyundai.com/vehicles/2024/chevrolet/trailblazer/campbell-river/bc/ad12595391/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T00:49:58",
-      "snapshot": "2026-10-22T11:35:31",
+      "last_verified": "2026-10-22T21:43:33",
+      "snapshot": "2026-10-22T21:44:33",
       "go_url": "https://carwhisper.ca/go/campbell-river-hyundai-kl79mms20rb087799",
       "region": "Vancouver Island",
       "city": "Campbell River",
@@ -57,6 +57,29 @@
       "city": "Nanaimo",
       "province": "BC",
       "dealer_name": "Sunshine Mountain Ford Lincoln Ltd."
+    },
+    {
+      "pub_id": "duncan-hyundai-kl79mrsl1pb068228",
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "TrailBlazer",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 24995.0,
+      "price_note": null,
+      "dealer_id": "duncan-hyundai",
+      "vin": "KL79MRSL1PB068228",
+      "stock": 14535178,
+      "listing_url": "https://www.duncanhyundai.net/used/2023-Chevrolet-TrailBlazer.html",
+      "dealer_url": "https://www.duncanhyundai.net/used/2023-Chevrolet-TrailBlazer.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T21:54:31",
+      "snapshot": "2026-10-22T21:57:13",
+      "go_url": "https://carwhisper.ca/go/duncan-hyundai-kl79mrsl1pb068228",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Hyundai"
     },
     {
       "pub_id": "island-chevrolet-buick-gmc-kl79musl0pb137199",

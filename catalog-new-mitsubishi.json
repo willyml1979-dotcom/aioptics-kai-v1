@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T02:22:23+00:00",
+  "generated_at": "2026-10-25T00:45:35+00:00",
   "condition": "new",
   "make": "mitsubishi",
   "files": [
@@ -306,6 +306,32 @@
       "models": [
         {
           "model": "Outlander SE",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mitsubishi",
+      "model": "Eclipse",
+      "count": 2,
+      "file": "inventory/new-mitsubishi-eclipse.json",
+      "models": [
+        {
+          "model": "Eclipse",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mitsubishi",
+      "model": "Outlander SEL",
+      "count": 1,
+      "file": "inventory/new-mitsubishi-outlander-sel.json",
+      "models": [
+        {
+          "model": "Outlander SEL",
           "count": 1
         }
       ]

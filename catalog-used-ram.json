@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T02:22:23+00:00",
+  "generated_at": "2026-10-25T00:45:35+00:00",
   "condition": "used",
   "make": "ram",
   "files": [
@@ -218,12 +218,12 @@
       "make": "ram",
       "model": "1500 Classic",
       "shard": "Lower Mainland",
-      "count": 20,
+      "count": 30,
       "file": "inventory/used-ram-1500-classic-lower-mainland.json",
       "models": [
         {
           "model": "1500 Classic",
-          "count": 20
+          "count": 30
         }
       ]
     },
@@ -349,12 +349,12 @@
       "make": "ram",
       "model": "3500",
       "shard": "Lower Mainland",
-      "count": 22,
+      "count": 21,
       "file": "inventory/used-ram-3500-lower-mainland.json",
       "models": [
         {
           "model": "3500",
-          "count": 22
+          "count": 21
         }
       ]
     },
@@ -363,12 +363,12 @@
       "make": "ram",
       "model": "3500",
       "shard": "Norte/Cariboo",
-      "count": 18,
+      "count": 19,
       "file": "inventory/used-ram-3500-norte-cariboo.json",
       "models": [
         {
           "model": "3500",
-          "count": 18
+          "count": 19
         }
       ]
     },
@@ -603,6 +603,20 @@
         {
           "model": "1500 Classic Crew Cab",
           "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500 Classic Crew Cab",
+      "shard": "Okanagan",
+      "count": 1,
+      "file": "inventory/used-ram-1500-classic-crew-cab-okanagan.json",
+      "models": [
+        {
+          "model": "1500 Classic Crew Cab",
+          "count": 1
         }
       ]
     },
@@ -858,19 +872,6 @@
     {
       "condition": "used",
       "make": "ram",
-      "model": "1500 in Abbotsford",
-      "count": 1,
-      "file": "inventory/used-ram-1500-in-abbotsford.json",
-      "models": [
-        {
-          "model": "1500 in Abbotsford",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ram",
       "model": "1500ST 4WD Crew Cab 6'4\" BOX",
       "count": 1,
       "file": "inventory/used-ram-1500st-4wd-crew-cab-6-4-box.json",
@@ -891,6 +892,19 @@
         {
           "model": "3500 Crew Cab",
           "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500LIMITED",
+      "count": 1,
+      "file": "inventory/used-ram-1500limited.json",
+      "models": [
+        {
+          "model": "1500LIMITED",
+          "count": 1
         }
       ]
     },
@@ -1098,19 +1112,6 @@
       "models": [
         {
           "model": "1500Limited Longhorn",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ram",
-      "model": "1500 Harvest",
-      "count": 1,
-      "file": "inventory/used-ram-1500-harvest.json",
-      "models": [
-        {
-          "model": "1500 Harvest",
           "count": 1
         }
       ]

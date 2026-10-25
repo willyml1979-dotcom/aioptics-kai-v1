@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-23T02:22:23+00:00",
-  "snapshot": "2026-10-23T02:22:23+00:00",
+  "generated_at": "2026-10-25T00:45:35+00:00",
+  "snapshot": "2026-10-25T00:45:35+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "bannister-nissan-chilliwack-3g2jb12f23s141725",
@@ -54,12 +54,36 @@
       "listing_url": "https://www.northlandnissan.com/vehicles/2006/pontiac/g6/prince-george/bc/71432659/?sale_class=used",
       "dealer_url": "https://www.northlandnissan.com/vehicles/2006/pontiac/g6/prince-george/bc/71432659/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-20T22:14:09",
-      "snapshot": "2026-10-22T15:23:40",
+      "snapshot": "2026-10-23T00:58:01",
       "go_url": "https://carwhisper.ca/go/northland-nissan-1g2zg558064285495",
       "region": "Norte/Cariboo",
       "city": "Prince George",
       "province": "BC",
       "dealer_name": "Northland Nissan"
+    },
+    {
+      "pub_id": "northland-hyundai-1g2al55f887252978",
+      "year": 2008,
+      "make": "Pontiac",
+      "model": "G5 Base",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 136600,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "northland-hyundai",
+      "vin": "1G2AL55F887252978",
+      "stock": "EN39592",
+      "listing_url": "https://www.northland-hyundai.ca/vehicles/2008/pontiac/g5/prince-george/bc/ad13364374/?sale_class=used",
+      "dealer_url": "https://www.northland-hyundai.ca/vehicles/2008/pontiac/g5/prince-george/bc/ad13364374/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-23T00:51:55",
+      "snapshot": "2026-10-23T00:54:15",
+      "go_url": "https://carwhisper.ca/go/northland-hyundai-1g2al55f887252978",
+      "region": "Norte/Cariboo",
+      "city": "Prince George",
+      "province": "BC",
+      "dealer_name": "Northland Hyundai"
     }
   ]
 }
