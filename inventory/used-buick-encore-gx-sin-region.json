@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T06:45:36+00:00",
-  "snapshot": "2026-10-25T06:45:36+00:00",
+  "generated_at": "2026-10-25T18:20:41+00:00",
+  "snapshot": "2026-10-25T18:20:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 9,
+  "count": 10,
   "vehicles": [
     {
       "pub_id": "sherwood-park-chevrolet-kl4mmgsl7nb042970",
@@ -87,6 +87,33 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Country Hills Nissan"
+    },
+    {
+      "pub_id": "go-langley-subaru-kl4amesl8sb031544",
+      "year": 2025,
+      "make": "Buick",
+      "model": "Encore GX",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "price_cad": 30499.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/0687c242-a86e-42a6-8fa2-0e2ad8c845f4_756f7ca7-01a2-43df-bd17-3a2765bd017a.jpg",
+      "dealer_id": "go-langley-subaru",
+      "vin": "KL4AMESL8SB031544",
+      "stock": "26OU453",
+      "listing_url": "https://www.langleysubaru.com/vehicles/2025/buick/encore-gx/surrey/bc/ad13393754/?sale_class=used",
+      "dealer_url": "https://www.langleysubaru.com/vehicles/2025/buick/encore-gx/surrey/bc/ad13393754/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-25T01:15:52",
+      "snapshot": "2026-10-25T01:18:23",
+      "go_url": "https://carwhisper.ca/go/go-langley-subaru-kl4amesl8sb031544",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Langley Subaru"
     },
     {
       "pub_id": "applewood-chevrolet-buick-gmc-kl4amcslxrb038560",

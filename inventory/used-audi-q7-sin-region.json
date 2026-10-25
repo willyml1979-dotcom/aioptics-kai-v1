@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T06:45:36+00:00",
-  "snapshot": "2026-10-25T06:45:36+00:00",
+  "generated_at": "2026-10-25T18:20:41+00:00",
+  "snapshot": "2026-10-25T18:20:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "pacific-honda-wa1mhaf72kd020132",
@@ -51,12 +51,38 @@
       "stock": "P20016",
       "listing_url": "https://www.reddeermitsubishi.ca/en/used-inventory/audi/q7/2021-audi-q7-id39196575",
       "dealer_url": "https://www.reddeermitsubishi.ca/en/used-inventory/audi/q7/2021-audi-q7-id39196575?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T21:38:06",
-      "snapshot": "2026-10-22T19:52:53",
+      "last_verified": "2026-10-25T01:49:21",
+      "snapshot": "2026-10-25T01:49:46",
       "go_url": "https://carwhisper.ca/go/red-deer-mitsubishi-wa1mxaf74md028612",
       "city": null,
       "province": "AB",
       "dealer_name": "Red Deer Mitsubishi"
+    },
+    {
+      "pub_id": "go-auto-brampton-chrysler-wa1acbf77sd002006",
+      "year": 2025,
+      "make": "Audi",
+      "model": "Q7",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 31983,
+      "price_cad": 53888.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/55aa6f35-b61f-4984-b2d7-1d4c1d23405f_e3cc9fe7-b0b1-4967-ab40-217d96935583.jpg",
+      "dealer_id": "go-auto-brampton-chrysler",
+      "vin": "WA1ACBF77SD002006",
+      "stock": "P27SA19",
+      "listing_url": "https://www.bramptonchrysler.ca/vehicles/2025/audi/q7/brampton/on/ad13369808/?sale_class=used",
+      "dealer_url": "https://www.bramptonchrysler.ca/vehicles/2025/audi/q7/brampton/on/ad13369808/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-25T01:49:11",
+      "snapshot": "2026-10-25T01:52:33",
+      "go_url": "https://carwhisper.ca/go/go-auto-brampton-chrysler-wa1acbf77sd002006",
+      "city": null,
+      "province": "ON",
+      "dealer_name": "Go Auto Brampton Chrysler"
     }
   ]
 }

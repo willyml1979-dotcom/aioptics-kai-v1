@@ -1,37 +1,83 @@
 {
-  "generated_at": "2026-10-25T06:45:36+00:00",
+  "generated_at": "2026-10-25T18:20:41+00:00",
   "condition": "used",
   "make": "maserati",
   "files": [
     {
       "condition": "used",
       "make": "maserati",
-      "count": 36,
-      "file": "inventory/used-maserati.json",
+      "model": "Ghibli",
+      "count": 8,
+      "file": "inventory/used-maserati-ghibli.json",
       "models": [
         {
           "model": "Ghibli",
-          "count": 4
-        },
-        {
-          "model": "GranTurismo 4.7",
-          "count": 14
-        },
-        {
-          "model": "Granturismo",
-          "count": 1
-        },
+          "count": 8
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "maserati",
+      "model": "Grecale",
+      "count": 1,
+      "file": "inventory/used-maserati-grecale.json",
+      "models": [
         {
           "model": "Grecale",
           "count": 1
-        },
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "maserati",
+      "model": "Granturismo",
+      "count": 1,
+      "file": "inventory/used-maserati-granturismo.json",
+      "models": [
         {
-          "model": "Levante",
-          "count": 2
-        },
+          "model": "Granturismo",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "maserati",
+      "model": "GranTurismo 4.7",
+      "count": 14,
+      "file": "inventory/used-maserati-granturismo-4-7.json",
+      "models": [
+        {
+          "model": "GranTurismo 4.7",
+          "count": 14
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "maserati",
+      "model": "Levante GranSport",
+      "count": 14,
+      "file": "inventory/used-maserati-levante-gransport.json",
+      "models": [
         {
           "model": "Levante GranSport",
           "count": 14
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "maserati",
+      "model": "Levante",
+      "count": 2,
+      "file": "inventory/used-maserati-levante.json",
+      "models": [
+        {
+          "model": "Levante",
+          "count": 2
         }
       ]
     }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T06:45:36+00:00",
-  "snapshot": "2026-10-25T06:45:36+00:00",
+  "generated_at": "2026-10-25T18:20:41+00:00",
+  "snapshot": "2026-10-25T18:20:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "jim-pattison-volvo-cars-surrey-yv4h60rc3t1442099",
@@ -31,6 +31,35 @@
       "city": "Surrey",
       "province": "BC",
       "dealer_name": "Jim Pattison Volvo Cars Surrey"
+    },
+    {
+      "pub_id": "morrey-nissan-infiniti-of-burnaby-yv4h60rp8t1468541",
+      "year": 2026,
+      "make": "Volvo",
+      "model": "XC60 Plug-In Hybrid",
+      "trim": "Polestar Engineered | Bowers & Wilkins",
+      "drivetrain": "4WD",
+      "propulsion": "plug-in hybrid",
+      "propulsion_source": "model_trim_name",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 15901,
+      "price_cad": 76980.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://img.sm360.ca/images/inventory/",
+      "dealer_id": "morrey-nissan-infiniti-of-burnaby",
+      "vin": "YV4H60RP8T1468541",
+      "stock": "n/a",
+      "listing_url": "https://www.morreyinfiniti.com/en/used-inventory/v/v/v-id39418919",
+      "dealer_url": "https://www.morreyinfiniti.com/en/used-inventory/v/v/v-id39418919?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-25T00:26:23",
+      "snapshot": "2026-10-25T00:30:19",
+      "go_url": "https://carwhisper.ca/go/morrey-nissan-infiniti-of-burnaby-yv4h60rp8t1468541",
+      "region": "Lower Mainland",
+      "city": "Burnaby",
+      "province": "BC",
+      "dealer_name": "Morrey Nissan Infiniti of Burnaby"
     },
     {
       "pub_id": "jim-pattison-volvo-cars-surrey-yv4h60rm5t1470995",

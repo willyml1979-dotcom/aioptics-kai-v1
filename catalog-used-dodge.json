@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T06:45:36+00:00",
+  "generated_at": "2026-10-25T18:20:41+00:00",
   "condition": "used",
   "make": "dodge",
   "files": [
@@ -216,12 +216,12 @@
       "make": "dodge",
       "model": "DURANGO",
       "shard": "Lower Mainland",
-      "count": 25,
+      "count": 26,
       "file": "inventory/used-dodge-durango-lower-mainland.json",
       "models": [
         {
           "model": "Durango",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -290,12 +290,12 @@
       "make": "dodge",
       "model": "DURANGO",
       "shard": "sin-region",
-      "count": 19,
+      "count": 21,
       "file": "inventory/used-dodge-durango-sin-region.json",
       "models": [
         {
           "model": "Durango",
-          "count": 19
+          "count": 21
         }
       ]
     },
@@ -303,7 +303,7 @@
       "condition": "used",
       "make": "dodge",
       "model": "HORNET",
-      "count": 18,
+      "count": 17,
       "file": "inventory/used-dodge-hornet.json",
       "models": [
         {
@@ -312,7 +312,7 @@
         },
         {
           "model": "Hornet",
-          "count": 14
+          "count": 13
         }
       ]
     },
@@ -446,13 +446,13 @@
       "condition": "used",
       "make": "dodge",
       "model": "Challenger",
-      "shard": "Lower Mainland",
-      "count": 28,
-      "file": "inventory/used-dodge-challenger-lower-mainland.json",
+      "shard": "part1",
+      "count": 27,
+      "file": "inventory/used-dodge-challenger-part1.json",
       "models": [
         {
           "model": "Challenger",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -460,69 +460,13 @@
       "condition": "used",
       "make": "dodge",
       "model": "Challenger",
-      "shard": "Norte/Cariboo",
-      "count": 1,
-      "file": "inventory/used-dodge-challenger-norte-cariboo.json",
+      "shard": "part2",
+      "count": 26,
+      "file": "inventory/used-dodge-challenger-part2.json",
       "models": [
         {
           "model": "Challenger",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "Challenger",
-      "shard": "Okanagan",
-      "count": 6,
-      "file": "inventory/used-dodge-challenger-okanagan.json",
-      "models": [
-        {
-          "model": "Challenger",
-          "count": 6
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "Challenger",
-      "shard": "Thompson-Okanagan",
-      "count": 1,
-      "file": "inventory/used-dodge-challenger-thompson-okanagan.json",
-      "models": [
-        {
-          "model": "Challenger",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "Challenger",
-      "shard": "Vancouver Island",
-      "count": 4,
-      "file": "inventory/used-dodge-challenger-vancouver-island.json",
-      "models": [
-        {
-          "model": "Challenger",
-          "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "Challenger",
-      "shard": "sin-region",
-      "count": 7,
-      "file": "inventory/used-dodge-challenger-sin-region.json",
-      "models": [
-        {
-          "model": "Challenger",
-          "count": 7
+          "count": 26
         }
       ]
     },
@@ -560,12 +504,12 @@
       "condition": "used",
       "make": "dodge",
       "model": "Caravan",
-      "count": 2,
+      "count": 3,
       "file": "inventory/used-dodge-caravan.json",
       "models": [
         {
           "model": "Caravan",
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -747,6 +691,19 @@
       "models": [
         {
           "model": "Journey WHOLESALE UNIT- NOT FOR RETAIL SALE",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
+      "model": "Durango R/T",
+      "count": 1,
+      "file": "inventory/used-dodge-durango-r-t.json",
+      "models": [
+        {
+          "model": "Durango R/T",
           "count": 1
         }
       ]

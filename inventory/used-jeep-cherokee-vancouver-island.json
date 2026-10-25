@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T06:45:36+00:00",
-  "snapshot": "2026-10-25T06:45:36+00:00",
+  "generated_at": "2026-10-25T18:20:41+00:00",
+  "snapshot": "2026-10-25T18:20:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 17,
+  "count": 18,
   "vehicles": [
     {
       "pub_id": "duncan-hyundai-1c4pjmax8jd541743",
@@ -84,6 +84,33 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Island Ford"
+    },
+    {
+      "pub_id": "laird-wheaton-gm-1c4pjmds2gw180734",
+      "year": 2016,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 153272,
+      "price_cad": 14998.0,
+      "price_note": null,
+      "color": "Blue",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/ecbd1ee9-7135-4588-82a1-fd64b4217c21_5849f737-b006-420e-9cab-6f14fc5f19ce.jpg",
+      "dealer_id": "laird-wheaton-gm",
+      "vin": "1C4PJMDS2GW180734",
+      "stock": "132018",
+      "listing_url": "https://www.lairdwheaton.com/vehicles/2016/jeep/cherokee/nanaimo/bc/ad13382703/?sale_class=used",
+      "dealer_url": "https://www.lairdwheaton.com/vehicles/2016/jeep/cherokee/nanaimo/bc/ad13382703/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-25T00:03:57",
+      "snapshot": "2026-10-25T00:06:53",
+      "go_url": "https://carwhisper.ca/go/laird-wheaton-gm-1c4pjmds2gw180734",
+      "region": "Vancouver Island",
+      "city": "Nanaimo",
+      "province": "BC",
+      "dealer_name": "Laird Wheaton GM"
     },
     {
       "pub_id": "comox-valley-toyota-1c4pjmcs2hw654149",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25T06:45:36+00:00",
-  "snapshot": "2026-10-25T06:45:36+00:00",
+  "generated_at": "2026-10-25T18:20:41+00:00",
+  "snapshot": "2026-10-25T18:20:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 7,
   "vehicles": [
@@ -146,32 +146,6 @@
       "dealer_name": "Brian Jessel BMW"
     },
     {
-      "pub_id": "go-richmond-kia-wbafr1c5xbds36368",
-      "year": 2011,
-      "make": "BMW",
-      "model": "5 Series",
-      "body_type": "sedan",
-      "propulsion": "gas",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
-      "condition": "used",
-      "odometer_km": 74256,
-      "price_cad": 3000.0,
-      "price_note": null,
-      "photo_url": "https://www.gorichmondkia.ca/wp-content/themes/convertus-achilles/achilles/assets/images/srp-placeholder/PV.jpg",
-      "dealer_id": "go-richmond-kia",
-      "vin": "WBAFR1C5XBDS36368",
-      "stock": "E466830",
-      "listing_url": "https://www.gorichmondkia.ca/vehicles/2011/bmw/5-series-sedan/richmond/bc/ad13297010/?sale_class=used",
-      "dealer_url": "https://www.gorichmondkia.ca/vehicles/2011/bmw/5-series-sedan/richmond/bc/ad13297010/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T19:20:53",
-      "snapshot": "2026-10-22T19:22:27",
-      "go_url": "https://carwhisper.ca/go/go-richmond-kia-wbafr1c5xbds36368",
-      "city": null,
-      "province": "BC",
-      "dealer_name": "Go Richmond Kia"
-    },
-    {
       "pub_id": "tacoma-dodge-chrysler-jeep-ram-wba43fj01rcr56543",
       "year": 2024,
       "make": "BMW",
@@ -197,6 +171,29 @@
       "city": null,
       "province": "US",
       "dealer_name": "Tacoma Dodge Chrysler Jeep Ram"
+    },
+    {
+      "pub_id": "norden-volkswagen-wba73bj07nck26622",
+      "year": 2022,
+      "make": "BMW",
+      "model": "5 Series",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 46900.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "norden-volkswagen",
+      "vin": "WBA73BJ07NCK26622",
+      "stock": 14561922,
+      "listing_url": "https://www.nordenvw.ca/used/2022-BMW-5_Series.html",
+      "dealer_url": "https://www.nordenvw.ca/used/2022-BMW-5_Series.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-25T01:16:13",
+      "snapshot": "2026-10-25T01:18:42",
+      "go_url": "https://carwhisper.ca/go/norden-volkswagen-wba73bj07nck26622",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Norden Volkswagen"
     }
   ]
 }

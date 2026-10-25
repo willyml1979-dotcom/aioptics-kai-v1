@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T06:45:36+00:00",
+  "generated_at": "2026-10-25T18:20:41+00:00",
   "condition": "used",
   "make": "volvo",
   "files": [
@@ -102,12 +102,12 @@
       "condition": "used",
       "make": "volvo",
       "model": "XC40",
-      "count": 30,
+      "count": 31,
       "file": "inventory/used-volvo-xc40.json",
       "models": [
         {
           "model": "XC40",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -184,12 +184,12 @@
       "condition": "used",
       "make": "volvo",
       "model": "V60 Cross Country",
-      "count": 6,
+      "count": 10,
       "file": "inventory/used-volvo-v60-cross-country.json",
       "models": [
         {
           "model": "V60 Cross Country",
-          "count": 6
+          "count": 10
         }
       ]
     },
@@ -236,9 +236,13 @@
       "condition": "used",
       "make": "volvo",
       "model": "XC60 Plug-in Hybrid",
-      "count": 2,
+      "count": 3,
       "file": "inventory/used-volvo-xc60-plug-in-hybrid.json",
       "models": [
+        {
+          "model": "XC60 Plug-In Hybrid",
+          "count": 1
+        },
         {
           "model": "XC60 Plug-in Hybrid",
           "count": 2
@@ -248,13 +252,17 @@
     {
       "condition": "used",
       "make": "volvo",
-      "model": "XC90 Plug-in Hybrid",
-      "count": 3,
+      "model": "XC90 Plug-In Hybrid",
+      "count": 6,
       "file": "inventory/used-volvo-xc90-plug-in-hybrid.json",
       "models": [
         {
           "model": "XC90 PLUG-IN HYBRID",
           "count": 1
+        },
+        {
+          "model": "XC90 Plug-In Hybrid",
+          "count": 3
         },
         {
           "model": "XC90 Plug-in Hybrid",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T06:45:36+00:00",
+  "generated_at": "2026-10-25T18:20:41+00:00",
   "condition": "new",
   "make": "toyota",
   "files": [
@@ -64,12 +64,12 @@
       "make": "toyota",
       "model": "Corolla",
       "shard": "part5",
-      "count": 31,
+      "count": 30,
       "file": "inventory/new-toyota-corolla-part5.json",
       "models": [
         {
           "model": "Corolla",
-          "count": 31
+          "count": 30
         }
       ]
     },
@@ -77,13 +77,13 @@
       "condition": "new",
       "make": "toyota",
       "model": "Corolla Cross",
-      "shard": "Kootenays",
-      "count": 3,
-      "file": "inventory/new-toyota-corolla-cross-kootenays.json",
+      "shard": "part1",
+      "count": 23,
+      "file": "inventory/new-toyota-corolla-cross-part1.json",
       "models": [
         {
           "model": "Corolla Cross",
-          "count": 3
+          "count": 23
         }
       ]
     },
@@ -91,13 +91,13 @@
       "condition": "new",
       "make": "toyota",
       "model": "Corolla Cross",
-      "shard": "Lower Mainland",
-      "count": 31,
-      "file": "inventory/new-toyota-corolla-cross-lower-mainland.json",
+      "shard": "part2",
+      "count": 23,
+      "file": "inventory/new-toyota-corolla-cross-part2.json",
       "models": [
         {
           "model": "Corolla Cross",
-          "count": 31
+          "count": 23
         }
       ]
     },
@@ -105,55 +105,13 @@
       "condition": "new",
       "make": "toyota",
       "model": "Corolla Cross",
-      "shard": "Norte/Cariboo",
-      "count": 5,
-      "file": "inventory/new-toyota-corolla-cross-norte-cariboo.json",
+      "shard": "part3",
+      "count": 22,
+      "file": "inventory/new-toyota-corolla-cross-part3.json",
       "models": [
         {
           "model": "Corolla Cross",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "toyota",
-      "model": "Corolla Cross",
-      "shard": "Okanagan",
-      "count": 11,
-      "file": "inventory/new-toyota-corolla-cross-okanagan.json",
-      "models": [
-        {
-          "model": "Corolla Cross",
-          "count": 11
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "toyota",
-      "model": "Corolla Cross",
-      "shard": "Thompson-Okanagan",
-      "count": 3,
-      "file": "inventory/new-toyota-corolla-cross-thompson-okanagan.json",
-      "models": [
-        {
-          "model": "Corolla Cross",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "toyota",
-      "model": "Corolla Cross",
-      "shard": "Vancouver Island",
-      "count": 13,
-      "file": "inventory/new-toyota-corolla-cross-vancouver-island.json",
-      "models": [
-        {
-          "model": "Corolla Cross",
-          "count": 13
+          "count": 22
         }
       ]
     },
@@ -315,12 +273,12 @@
       "condition": "new",
       "make": "toyota",
       "model": "Camry",
-      "count": 33,
+      "count": 32,
       "file": "inventory/new-toyota-camry.json",
       "models": [
         {
           "model": "Camry",
-          "count": 33
+          "count": 32
         }
       ]
     },
@@ -329,12 +287,12 @@
       "make": "toyota",
       "model": "Tacoma",
       "shard": "part1",
-      "count": 33,
+      "count": 32,
       "file": "inventory/new-toyota-tacoma-part1.json",
       "models": [
         {
           "model": "Tacoma",
-          "count": 33
+          "count": 32
         }
       ]
     },
@@ -343,12 +301,12 @@
       "make": "toyota",
       "model": "Tacoma",
       "shard": "part2",
-      "count": 33,
+      "count": 32,
       "file": "inventory/new-toyota-tacoma-part2.json",
       "models": [
         {
           "model": "Tacoma",
-          "count": 33
+          "count": 32
         }
       ]
     },
@@ -357,12 +315,12 @@
       "make": "toyota",
       "model": "Tacoma",
       "shard": "part3",
-      "count": 33,
+      "count": 32,
       "file": "inventory/new-toyota-tacoma-part3.json",
       "models": [
         {
           "model": "Tacoma",
-          "count": 33
+          "count": 32
         }
       ]
     },
@@ -371,12 +329,12 @@
       "make": "toyota",
       "model": "Tacoma",
       "shard": "part4",
-      "count": 33,
+      "count": 32,
       "file": "inventory/new-toyota-tacoma-part4.json",
       "models": [
         {
           "model": "Tacoma",
-          "count": 33
+          "count": 32
         }
       ]
     },
@@ -385,12 +343,12 @@
       "make": "toyota",
       "model": "Tacoma",
       "shard": "part5",
-      "count": 33,
+      "count": 32,
       "file": "inventory/new-toyota-tacoma-part5.json",
       "models": [
         {
           "model": "Tacoma",
-          "count": 33
+          "count": 32
         }
       ]
     },
@@ -399,12 +357,12 @@
       "make": "toyota",
       "model": "Tacoma",
       "shard": "part6",
-      "count": 28,
+      "count": 32,
       "file": "inventory/new-toyota-tacoma-part6.json",
       "models": [
         {
           "model": "Tacoma",
-          "count": 28
+          "count": 32
         }
       ]
     },
@@ -524,12 +482,12 @@
       "make": "toyota",
       "model": "Sienna",
       "shard": "part1",
-      "count": 28,
+      "count": 27,
       "file": "inventory/new-toyota-sienna-part1.json",
       "models": [
         {
           "model": "Sienna",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -538,12 +496,12 @@
       "make": "toyota",
       "model": "Sienna",
       "shard": "part2",
-      "count": 28,
+      "count": 27,
       "file": "inventory/new-toyota-sienna-part2.json",
       "models": [
         {
           "model": "Sienna",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -552,12 +510,12 @@
       "make": "toyota",
       "model": "Sienna",
       "shard": "part3",
-      "count": 26,
+      "count": 25,
       "file": "inventory/new-toyota-sienna-part3.json",
       "models": [
         {
           "model": "Sienna",
-          "count": 26
+          "count": 25
         }
       ]
     },

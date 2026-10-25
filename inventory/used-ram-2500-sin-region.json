@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T06:45:36+00:00",
-  "snapshot": "2026-10-25T06:45:36+00:00",
+  "generated_at": "2026-10-25T18:20:41+00:00",
+  "snapshot": "2026-10-25T18:20:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 10,
+  "count": 11,
   "vehicles": [
     {
       "pub_id": "tacoma-dodge-chrysler-jeep-ram-3c6tr5ct2eg244667",
@@ -210,7 +210,7 @@
       "listing_url": "https://www.reddeernissan.com/vehicles/2023/ram/2500/red-deer/ab/69890701/?sale_class=used",
       "dealer_url": "https://www.reddeernissan.com/vehicles/2023/ram/2500/red-deer/ab/69890701/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-22T08:15:03",
-      "snapshot": "2026-10-22T18:51:11",
+      "snapshot": "2026-10-25T00:38:19",
       "go_url": "https://carwhisper.ca/go/red-deer-nissan-3c6ur5fl3pg598460",
       "city": null,
       "province": "AB",
@@ -271,6 +271,32 @@
       "city": "Port Hardy",
       "province": "BC",
       "dealer_name": "Applewood Ford"
+    },
+    {
+      "pub_id": "go-auto-brampton-chrysler-3c6ur5ej8tg335925",
+      "year": 2026,
+      "make": "RAM",
+      "model": "2500",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 155,
+      "price_cad": 86888.0,
+      "price_note": null,
+      "color": "Red",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/35584f5c-f35e-4733-a410-801363d2a2a2_3a07b158-d963-4f1e-b32a-7e96ff1ddbad.jpg",
+      "dealer_id": "go-auto-brampton-chrysler",
+      "vin": "3C6UR5EJ8TG335925",
+      "stock": "P27TA06",
+      "listing_url": "https://www.bramptonchrysler.ca/vehicles/2026/ram/2500/brampton/on/ad13369811/?sale_class=used",
+      "dealer_url": "https://www.bramptonchrysler.ca/vehicles/2026/ram/2500/brampton/on/ad13369811/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-25T01:49:48",
+      "snapshot": "2026-10-25T01:52:33",
+      "go_url": "https://carwhisper.ca/go/go-auto-brampton-chrysler-3c6ur5ej8tg335925",
+      "city": null,
+      "province": "ON",
+      "dealer_name": "Go Auto Brampton Chrysler"
     }
   ]
 }
