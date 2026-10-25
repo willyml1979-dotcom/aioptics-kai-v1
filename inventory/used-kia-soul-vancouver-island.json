@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T00:45:35+00:00",
-  "snapshot": "2026-10-25T00:45:35+00:00",
+  "generated_at": "2026-10-25T06:45:36+00:00",
+  "snapshot": "2026-10-25T06:45:36+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 8,
+  "count": 9,
   "vehicles": [
     {
       "pub_id": "duncan-hyundai-kndjn2a28h7485203",
@@ -128,6 +128,35 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Victoria Hyundai"
+    },
+    {
+      "pub_id": "harris-kia-kndj23a23n7023805",
+      "year": 2022,
+      "make": "Kia",
+      "model": "Soul",
+      "trim": "EV",
+      "body_type": "hatchback",
+      "propulsion": "electric",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 198155,
+      "price_cad": 18888.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/15eb3147-e1cc-4c51-9aef-b4f18bab705f_945a8c2f-abee-4129-a8ed-d4ab393988fd.jpg",
+      "dealer_id": "harris-kia",
+      "vin": "KNDJ23A23N7023805",
+      "stock": "KT26-43",
+      "listing_url": "https://www.harriskia.ca/vehicles/2022/kia/soul-ev/nanaimo/bc/ad13097769/?sale_class=used",
+      "dealer_url": "https://www.harriskia.ca/vehicles/2022/kia/soul-ev/nanaimo/bc/ad13097769/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-24T19:56:27",
+      "snapshot": "2026-10-24T20:07:23",
+      "go_url": "https://carwhisper.ca/go/harris-kia-kndj23a23n7023805",
+      "region": "Vancouver Island",
+      "city": "Nanaimo",
+      "province": "BC",
+      "dealer_name": "Harris Kia"
     },
     {
       "pub_id": "victoria-hyundai-kndj33au3n7806931",

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T00:45:35+00:00",
-  "snapshot": "2026-10-25T00:45:35+00:00",
+  "generated_at": "2026-10-25T06:45:36+00:00",
+  "snapshot": "2026-10-25T06:45:36+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "applewood-kia-langley-knagn4a75b5232633",
@@ -79,7 +79,7 @@
       "listing_url": "https://www.kiavancouver.com/vehicles/2020/kia/optima-sedan/vancouver/bc/71173104/?sale_class=used",
       "dealer_url": "https://www.kiavancouver.com/vehicles/2020/kia/optima-sedan/vancouver/bc/71173104/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T10:44:14",
-      "snapshot": "2026-10-22T17:59:45",
+      "snapshot": "2026-10-24T23:36:04",
       "go_url": "https://carwhisper.ca/go/kia-south-vancouver-knagv4ld8l5036660",
       "region": "Lower Mainland",
       "city": "Vancouver",
@@ -109,6 +109,34 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Duncan Hyundai"
+    },
+    {
+      "pub_id": "harris-oceanside-chevrolet-buick-gmc-ltd-5xxgv4l2xjg203594",
+      "year": 2018,
+      "make": "Kia",
+      "model": "Optima",
+      "body_type": "sedan",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 99733,
+      "price_cad": 14762.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/969e0a02-ff8e-4561-b8cf-909379033728_d421c600-3662-4de3-bcd8-c7708e3078dd.jpg",
+      "dealer_id": "harris-oceanside-chevrolet-buick-gmc-ltd",
+      "vin": "5XXGV4L2XJG203594",
+      "stock": "CC3594",
+      "listing_url": "https://www.harrisoceansidegm.com/vehicles/2018/kia/optima-sedan/parksville/bc/70971975/?sale_class=used",
+      "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2018/kia/optima-sedan/parksville/bc/70971975/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-24T18:29:54",
+      "snapshot": "2026-10-24T18:41:56",
+      "go_url": "https://carwhisper.ca/go/harris-oceanside-chevrolet-buick-gmc-ltd-5xxgv4l2xjg203594",
+      "region": "Vancouver Island",
+      "city": "Parksville",
+      "province": "BC",
+      "dealer_name": "Harris Oceanside Chevrolet Buick GMC Ltd."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T00:45:35+00:00",
+  "generated_at": "2026-10-25T06:45:36+00:00",
   "condition": "used",
   "make": "mazda",
   "files": [
@@ -215,12 +215,12 @@
       "make": "mazda",
       "model": "CX-5",
       "shard": "part7",
-      "count": 25,
+      "count": 23,
       "file": "inventory/used-mazda-cx-5-part7.json",
       "models": [
         {
           "model": "CX-5",
-          "count": 25
+          "count": 23
         }
       ]
     },
@@ -228,12 +228,12 @@
       "condition": "used",
       "make": "mazda",
       "model": "CX-9",
-      "count": 31,
+      "count": 30,
       "file": "inventory/used-mazda-cx-9.json",
       "models": [
         {
           "model": "CX-9",
-          "count": 31
+          "count": 30
         }
       ]
     },
@@ -267,12 +267,12 @@
       "condition": "used",
       "make": "mazda",
       "model": "CX-3",
-      "count": 17,
+      "count": 18,
       "file": "inventory/used-mazda-cx-3.json",
       "models": [
         {
           "model": "CX-3",
-          "count": 17
+          "count": 18
         }
       ]
     },
@@ -320,12 +320,12 @@
       "make": "mazda",
       "model": "CX-30",
       "shard": "part1",
-      "count": 27,
+      "count": 26,
       "file": "inventory/used-mazda-cx-30-part1.json",
       "models": [
         {
           "model": "CX-30",
-          "count": 27
+          "count": 26
         }
       ]
     },
@@ -334,12 +334,12 @@
       "make": "mazda",
       "model": "CX-30",
       "shard": "part2",
-      "count": 27,
+      "count": 26,
       "file": "inventory/used-mazda-cx-30-part2.json",
       "models": [
         {
           "model": "CX-30",
-          "count": 27
+          "count": 26
         }
       ]
     },
@@ -348,12 +348,12 @@
       "make": "mazda",
       "model": "CX-30",
       "shard": "part3",
-      "count": 27,
+      "count": 25,
       "file": "inventory/used-mazda-cx-30-part3.json",
       "models": [
         {
           "model": "CX-30",
-          "count": 27
+          "count": 25
         }
       ]
     },
@@ -393,6 +393,76 @@
         {
           "model": "MX-5",
           "count": 8
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mazda",
+      "model": "CX-90 MHEV",
+      "shard": "Lower Mainland",
+      "count": 23,
+      "file": "inventory/used-mazda-cx-90-mhev-lower-mainland.json",
+      "models": [
+        {
+          "model": "CX-90 MHEV",
+          "count": 23
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mazda",
+      "model": "CX-90 MHEV",
+      "shard": "Okanagan",
+      "count": 3,
+      "file": "inventory/used-mazda-cx-90-mhev-okanagan.json",
+      "models": [
+        {
+          "model": "CX-90 MHEV",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mazda",
+      "model": "CX-90 MHEV",
+      "shard": "Thompson-Okanagan",
+      "count": 3,
+      "file": "inventory/used-mazda-cx-90-mhev-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "CX-90 MHEV",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mazda",
+      "model": "CX-90 MHEV",
+      "shard": "Vancouver Island",
+      "count": 2,
+      "file": "inventory/used-mazda-cx-90-mhev-vancouver-island.json",
+      "models": [
+        {
+          "model": "CX-90 MHEV",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mazda",
+      "model": "CX-90 MHEV",
+      "shard": "sin-region",
+      "count": 2,
+      "file": "inventory/used-mazda-cx-90-mhev-sin-region.json",
+      "models": [
+        {
+          "model": "CX-90 MHEV",
+          "count": 2
         }
       ]
     },
@@ -490,19 +560,6 @@
         {
           "model": "CX-502.5 Turbo",
           "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mazda",
-      "model": "CX-90 MHEV",
-      "count": 32,
-      "file": "inventory/used-mazda-cx-90-mhev.json",
-      "models": [
-        {
-          "model": "CX-90 MHEV",
-          "count": 32
         }
       ]
     },

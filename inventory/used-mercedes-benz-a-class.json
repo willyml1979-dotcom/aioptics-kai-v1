@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T00:45:35+00:00",
-  "snapshot": "2026-10-25T00:45:35+00:00",
+  "generated_at": "2026-10-25T06:45:36+00:00",
+  "snapshot": "2026-10-25T06:45:36+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 4,
   "vehicles": [
     {
       "pub_id": "applewood-nissan-w1k3g4fb2mj311928",
@@ -91,6 +91,35 @@
       "city": "Prince George",
       "province": "BC",
       "dealer_name": "Subaru of Prince George"
+    },
+    {
+      "pub_id": "harris-kia-wdd3g4fb9kw009861",
+      "year": 2019,
+      "make": "Mercedes-Benz",
+      "model": "A-Class",
+      "body_type": "sedan",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 90562,
+      "price_cad": 24777.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/696540ef-1322-4a31-8c77-624529410da6_8b6e404f-a12c-4531-9a4c-256a00c7821f.jpg",
+      "dealer_id": "harris-kia",
+      "vin": "WDD3G4FB9KW009861",
+      "stock": "K3743A",
+      "listing_url": "https://www.harriskia.ca/vehicles/2019/mercedes-benz/a-class-sedan/nanaimo/bc/ad13179545/?sale_class=used",
+      "dealer_url": "https://www.harriskia.ca/vehicles/2019/mercedes-benz/a-class-sedan/nanaimo/bc/ad13179545/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-24T19:53:43",
+      "snapshot": "2026-10-24T20:07:23",
+      "go_url": "https://carwhisper.ca/go/harris-kia-wdd3g4fb9kw009861",
+      "region": "Vancouver Island",
+      "city": "Nanaimo",
+      "province": "BC",
+      "dealer_name": "Harris Kia"
     }
   ]
 }

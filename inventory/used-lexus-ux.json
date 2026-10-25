@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T00:45:35+00:00",
-  "snapshot": "2026-10-25T00:45:35+00:00",
+  "generated_at": "2026-10-25T06:45:36+00:00",
+  "snapshot": "2026-10-25T06:45:36+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 8,
+  "count": 9,
   "vehicles": [
     {
       "pub_id": "applewood-kia-langley-jthl9jbh3l2028944",
@@ -136,8 +136,8 @@
       "stock": "UL26593",
       "listing_url": "https://www.jimpattisonlexus.com/vehicles/2023/lexus/ux/north-vancouver/bc/71233176/?sale_class=used",
       "dealer_url": "https://www.jimpattisonlexus.com/vehicles/2023/lexus/ux/north-vancouver/bc/71233176/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T17:23:31",
-      "snapshot": "2026-10-22T17:24:51",
+      "last_verified": "2026-10-24T23:02:45",
+      "snapshot": "2026-10-24T23:04:05",
       "go_url": "https://carwhisper.ca/go/jim-pattison-lexus-northshore-jthp9jbh4p2069901",
       "region": "Lower Mainland",
       "city": "North Vancouver",
@@ -220,12 +220,39 @@
       "listing_url": "https://www.jpsubaruvictoria.com/vehicles/2021/lexus/ux/victoria/bc/71243169/?sale_class=used",
       "dealer_url": "https://www.jpsubaruvictoria.com/vehicles/2021/lexus/ux/victoria/bc/71243169/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-22T16:50:09",
-      "snapshot": "2026-10-22T16:51:38",
+      "snapshot": "2026-10-24T22:38:28",
       "go_url": "https://carwhisper.ca/go/jim-pattison-subaru-victoria-jthp9jbh6m2043344",
       "region": "Vancouver Island",
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Jim Pattison Subaru Victoria"
+    },
+    {
+      "pub_id": "harris-oceanside-chevrolet-buick-gmc-ltd-jthucjdh9s2004844",
+      "year": 2025,
+      "make": "Lexus",
+      "model": "UX",
+      "propulsion": "hybrid",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 18940,
+      "price_cad": 46990.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/dfaef232-8b22-4d60-bd98-92e42fa6ecd4_77a2f0d4-8b84-44d9-ad11-3781d1b29809.jpg",
+      "dealer_id": "harris-oceanside-chevrolet-buick-gmc-ltd",
+      "vin": "JTHUCJDH9S2004844",
+      "stock": "CC4844",
+      "listing_url": "https://www.harrisoceansidegm.com/vehicles/2025/lexus/ux/parksville/bc/ad13075894/?sale_class=used",
+      "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2025/lexus/ux/parksville/bc/ad13075894/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-24T18:39:43",
+      "snapshot": "2026-10-24T18:41:56",
+      "go_url": "https://carwhisper.ca/go/harris-oceanside-chevrolet-buick-gmc-ltd-jthucjdh9s2004844",
+      "region": "Vancouver Island",
+      "city": "Parksville",
+      "province": "BC",
+      "dealer_name": "Harris Oceanside Chevrolet Buick GMC Ltd."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T00:45:35+00:00",
-  "snapshot": "2026-10-25T00:45:35+00:00",
+  "generated_at": "2026-10-25T06:45:36+00:00",
+  "snapshot": "2026-10-25T06:45:36+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "north-shore-kia-knad24d39t6013688",
@@ -60,6 +60,34 @@
       "city": "North Vancouver",
       "province": "BC",
       "dealer_name": "North Shore Kia"
+    },
+    {
+      "pub_id": "harris-kia-knad54d39t6013262",
+      "year": 2026,
+      "make": "Kia",
+      "model": "EV4",
+      "body_type": "suv",
+      "propulsion": "electric",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 7151,
+      "price_cad": 46500.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/3e9158e8-ba5a-45fd-80a0-f4e6a2bc0f00_fb9b74ff-3f96-4cae-8410-59cb9df22379.jpg",
+      "dealer_id": "harris-kia",
+      "vin": "KNAD54D39T6013262",
+      "stock": "KT26-38",
+      "listing_url": "https://www.harriskia.ca/vehicles/2026/kia/ev4/nanaimo/bc/70792548/?sale_class=used",
+      "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/ev4/nanaimo/bc/70792548/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-24T20:04:43",
+      "snapshot": "2026-10-24T20:07:23",
+      "go_url": "https://carwhisper.ca/go/harris-kia-knad54d39t6013262",
+      "region": "Vancouver Island",
+      "city": "Nanaimo",
+      "province": "BC",
+      "dealer_name": "Harris Kia"
     },
     {
       "pub_id": "go-richmond-kia-knad24d38t6014878",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T00:45:35+00:00",
+  "generated_at": "2026-10-25T06:45:36+00:00",
   "condition": "used",
   "make": "chevrolet",
   "files": [
@@ -8,12 +8,12 @@
       "make": "chevrolet",
       "model": "Equinox",
       "shard": "part1",
-      "count": 29,
+      "count": 30,
       "file": "inventory/used-chevrolet-equinox-part1.json",
       "models": [
         {
           "model": "Equinox",
-          "count": 29
+          "count": 30
         }
       ]
     },
@@ -22,12 +22,12 @@
       "make": "chevrolet",
       "model": "Equinox",
       "shard": "part2",
-      "count": 29,
+      "count": 30,
       "file": "inventory/used-chevrolet-equinox-part2.json",
       "models": [
         {
           "model": "Equinox",
-          "count": 29
+          "count": 30
         }
       ]
     },
@@ -36,12 +36,12 @@
       "make": "chevrolet",
       "model": "Equinox",
       "shard": "part3",
-      "count": 29,
+      "count": 30,
       "file": "inventory/used-chevrolet-equinox-part3.json",
       "models": [
         {
           "model": "Equinox",
-          "count": 29
+          "count": 30
         }
       ]
     },
@@ -50,12 +50,12 @@
       "make": "chevrolet",
       "model": "Equinox",
       "shard": "part4",
-      "count": 27,
+      "count": 28,
       "file": "inventory/used-chevrolet-equinox-part4.json",
       "models": [
         {
           "model": "Equinox",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -134,12 +134,12 @@
       "make": "chevrolet",
       "model": "Colorado",
       "shard": "Vancouver Island",
-      "count": 9,
+      "count": 10,
       "file": "inventory/used-chevrolet-colorado-vancouver-island.json",
       "models": [
         {
           "model": "Colorado",
-          "count": 9
+          "count": 10
         }
       ]
     },
@@ -314,12 +314,12 @@
       "make": "chevrolet",
       "model": "Trailblazer",
       "shard": "Okanagan",
-      "count": 4,
+      "count": 6,
       "file": "inventory/used-chevrolet-trailblazer-okanagan.json",
       "models": [
         {
           "model": "TrailBlazer",
-          "count": 3
+          "count": 5
         },
         {
           "model": "Trailblazer",
@@ -350,13 +350,9 @@
       "make": "chevrolet",
       "model": "Trailblazer",
       "shard": "Vancouver Island",
-      "count": 6,
+      "count": 5,
       "file": "inventory/used-chevrolet-trailblazer-vancouver-island.json",
       "models": [
-        {
-          "model": "TRAILBLAZER",
-          "count": 1
-        },
         {
           "model": "TrailBlazer",
           "count": 1
@@ -389,9 +385,23 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Trax",
-      "shard": "part1",
-      "count": 24,
-      "file": "inventory/used-chevrolet-trax-part1.json",
+      "shard": "Kootenays",
+      "count": 1,
+      "file": "inventory/used-chevrolet-trax-kootenays.json",
+      "models": [
+        {
+          "model": "Trax",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Trax",
+      "shard": "Lower Mainland",
+      "count": 30,
+      "file": "inventory/used-chevrolet-trax-lower-mainland.json",
       "models": [
         {
           "model": "TRAX",
@@ -399,7 +409,7 @@
         },
         {
           "model": "Trax",
-          "count": 23
+          "count": 29
         }
       ]
     },
@@ -407,13 +417,13 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Trax",
-      "shard": "part2",
-      "count": 24,
-      "file": "inventory/used-chevrolet-trax-part2.json",
+      "shard": "Norte/Cariboo",
+      "count": 1,
+      "file": "inventory/used-chevrolet-trax-norte-cariboo.json",
       "models": [
         {
           "model": "Trax",
-          "count": 24
+          "count": 1
         }
       ]
     },
@@ -421,13 +431,55 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Trax",
-      "shard": "part3",
-      "count": 23,
-      "file": "inventory/used-chevrolet-trax-part3.json",
+      "shard": "Okanagan",
+      "count": 14,
+      "file": "inventory/used-chevrolet-trax-okanagan.json",
       "models": [
         {
           "model": "Trax",
-          "count": 23
+          "count": 14
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Trax",
+      "shard": "Thompson-Okanagan",
+      "count": 3,
+      "file": "inventory/used-chevrolet-trax-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "Trax",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Trax",
+      "shard": "Vancouver Island",
+      "count": 18,
+      "file": "inventory/used-chevrolet-trax-vancouver-island.json",
+      "models": [
+        {
+          "model": "Trax",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Trax",
+      "shard": "sin-region",
+      "count": 7,
+      "file": "inventory/used-chevrolet-trax-sin-region.json",
+      "models": [
+        {
+          "model": "Trax",
+          "count": 7
         }
       ]
     },
@@ -643,12 +695,83 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Spark",
-      "count": 30,
-      "file": "inventory/used-chevrolet-spark.json",
+      "shard": "Lower Mainland",
+      "count": 13,
+      "file": "inventory/used-chevrolet-spark-lower-mainland.json",
       "models": [
         {
           "model": "Spark",
-          "count": 30
+          "count": 13
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Spark",
+      "shard": "Norte/Cariboo",
+      "count": 3,
+      "file": "inventory/used-chevrolet-spark-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Spark",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Spark",
+      "shard": "Okanagan",
+      "count": 9,
+      "file": "inventory/used-chevrolet-spark-okanagan.json",
+      "models": [
+        {
+          "model": "Spark",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Spark",
+      "shard": "Thompson-Okanagan",
+      "count": 2,
+      "file": "inventory/used-chevrolet-spark-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "Spark",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Spark",
+      "shard": "Vancouver Island",
+      "count": 6,
+      "file": "inventory/used-chevrolet-spark-vancouver-island.json",
+      "models": [
+        {
+          "model": "Spark",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Spark",
+      "shard": "sin-region",
+      "count": 3,
+      "file": "inventory/used-chevrolet-spark-sin-region.json",
+      "models": [
+        {
+          "model": "Spark",
+          "count": 3
         }
       ]
     },
@@ -656,12 +779,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Cruze",
-      "count": 15,
+      "count": 19,
       "file": "inventory/used-chevrolet-cruze.json",
       "models": [
         {
           "model": "Cruze",
-          "count": 15
+          "count": 19
         }
       ]
     },
@@ -669,12 +792,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Volt",
-      "count": 2,
+      "count": 3,
       "file": "inventory/used-chevrolet-volt.json",
       "models": [
         {
           "model": "Volt",
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -683,12 +806,12 @@
       "make": "chevrolet",
       "model": "Malibu",
       "shard": "Lower Mainland",
-      "count": 16,
+      "count": 20,
       "file": "inventory/used-chevrolet-malibu-lower-mainland.json",
       "models": [
         {
           "model": "Malibu",
-          "count": 16
+          "count": 20
         }
       ]
     },
@@ -739,12 +862,12 @@
       "make": "chevrolet",
       "model": "Malibu",
       "shard": "Vancouver Island",
-      "count": 10,
+      "count": 11,
       "file": "inventory/used-chevrolet-malibu-vancouver-island.json",
       "models": [
         {
           "model": "Malibu",
-          "count": 10
+          "count": 11
         }
       ]
     },
@@ -850,12 +973,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Bolt",
-      "count": 28,
+      "count": 30,
       "file": "inventory/used-chevrolet-bolt.json",
       "models": [
         {
           "model": "Bolt",
-          "count": 28
+          "count": 30
         }
       ]
     },
@@ -890,12 +1013,12 @@
       "make": "chevrolet",
       "model": "Corvette",
       "shard": "part1",
-      "count": 24,
+      "count": 26,
       "file": "inventory/used-chevrolet-corvette-part1.json",
       "models": [
         {
           "model": "Corvette",
-          "count": 24
+          "count": 26
         }
       ]
     },
@@ -904,8 +1027,22 @@
       "make": "chevrolet",
       "model": "Corvette",
       "shard": "part2",
-      "count": 24,
+      "count": 26,
       "file": "inventory/used-chevrolet-corvette-part2.json",
+      "models": [
+        {
+          "model": "Corvette",
+          "count": 26
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Corvette",
+      "shard": "part3",
+      "count": 24,
+      "file": "inventory/used-chevrolet-corvette-part3.json",
       "models": [
         {
           "model": "Corvette",
@@ -916,27 +1053,13 @@
     {
       "condition": "used",
       "make": "chevrolet",
-      "model": "Corvette",
-      "shard": "part3",
-      "count": 23,
-      "file": "inventory/used-chevrolet-corvette-part3.json",
-      "models": [
-        {
-          "model": "Corvette",
-          "count": 23
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chevrolet",
       "model": "Equinox EV",
-      "count": 12,
+      "count": 14,
       "file": "inventory/used-chevrolet-equinox-ev.json",
       "models": [
         {
           "model": "Equinox EV",
-          "count": 12
+          "count": 14
         }
       ]
     },
@@ -957,12 +1080,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Blazer EV",
-      "count": 11,
+      "count": 13,
       "file": "inventory/used-chevrolet-blazer-ev.json",
       "models": [
         {
           "model": "Blazer EV",
-          "count": 11
+          "count": 13
         }
       ]
     },
@@ -970,12 +1093,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Suburban",
-      "count": 14,
+      "count": 15,
       "file": "inventory/used-chevrolet-suburban.json",
       "models": [
         {
           "model": "Suburban",
-          "count": 14
+          "count": 15
         }
       ]
     },
@@ -1479,12 +1602,12 @@
       "make": "chevrolet",
       "model": "Silverado 3500",
       "shard": "Vancouver Island",
-      "count": 9,
+      "count": 11,
       "file": "inventory/used-chevrolet-silverado-3500-vancouver-island.json",
       "models": [
         {
           "model": "Silverado 3500",
-          "count": 9
+          "count": 11
         }
       ]
     },
@@ -1589,6 +1712,19 @@
       "models": [
         {
           "model": "Equinox LS",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Equinox LT",
+      "count": 1,
+      "file": "inventory/used-chevrolet-equinox-lt.json",
+      "models": [
+        {
+          "model": "Equinox LT",
           "count": 1
         }
       ]
@@ -1739,19 +1875,6 @@
     {
       "condition": "used",
       "make": "chevrolet",
-      "model": "TrailBlazerACTIV 4dr All-Wheel Drive",
-      "count": 1,
-      "file": "inventory/used-chevrolet-trailblazeractiv-4dr-all-wheel-drive.json",
-      "models": [
-        {
-          "model": "TrailBlazerACTIV 4dr All-Wheel Drive",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chevrolet",
       "model": "ColoradoZR2 4x4 Crew Cab 5 ft. box",
       "count": 2,
       "file": "inventory/used-chevrolet-coloradozr2-4x4-crew-cab-5-ft-box.json",
@@ -1759,19 +1882,6 @@
         {
           "model": "ColoradoZR2 4x4 Crew Cab 5 ft. box",
           "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chevrolet",
-      "model": "ColoradoLT 4x4 Crew Cab 5 ft. box",
-      "count": 1,
-      "file": "inventory/used-chevrolet-coloradolt-4x4-crew-cab-5-ft-box.json",
-      "models": [
-        {
-          "model": "ColoradoLT 4x4 Crew Cab 5 ft. box",
-          "count": 1
         }
       ]
     },
@@ -2416,12 +2526,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Silverado 2500HDLT 4x4 Crew Cab 6.75 ft. box",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-chevrolet-silverado-2500hdlt-4x4-crew-cab-6-75-ft-box.json",
       "models": [
         {
           "model": "Silverado 2500HDLT 4x4 Crew Cab 6.75 ft. box",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -2454,19 +2564,6 @@
     {
       "condition": "used",
       "make": "chevrolet",
-      "model": "Cruze2LT 4dr",
-      "count": 1,
-      "file": "inventory/used-chevrolet-cruze2lt-4dr.json",
-      "models": [
-        {
-          "model": "Cruze2LT 4dr",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chevrolet",
       "model": "Spark1LT CVT 4dr",
       "count": 1,
       "file": "inventory/used-chevrolet-spark1lt-cvt-4dr.json",
@@ -2487,6 +2584,19 @@
         {
           "model": "TraxLS Front-Wheel Drive",
           "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Trax1LT LT All-Wheel Drive",
+      "count": 1,
+      "file": "inventory/used-chevrolet-trax1lt-lt-all-wheel-drive.json",
+      "models": [
+        {
+          "model": "Trax1LT LT All-Wheel Drive",
+          "count": 1
         }
       ]
     }

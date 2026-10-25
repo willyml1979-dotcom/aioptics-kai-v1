@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T00:45:35+00:00",
-  "snapshot": "2026-10-25T00:45:35+00:00",
+  "generated_at": "2026-10-25T06:45:36+00:00",
+  "snapshot": "2026-10-25T06:45:36+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "duncan-hyundai-1c3cdfah9dd303810",
@@ -27,6 +27,34 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Duncan Hyundai"
+    },
+    {
+      "pub_id": "harris-kia-1c3cdfdh8fd422981",
+      "year": 2015,
+      "make": "Dodge",
+      "model": "Dart",
+      "body_type": "sedan",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 96675,
+      "price_cad": 9888.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/23d5441d-a683-4013-aa83-f74169fbb033_a7cdbfa7-40c5-4301-84ea-e9a5699bd0dc.jpg",
+      "dealer_id": "harris-kia",
+      "vin": "1C3CDFDH8FD422981",
+      "stock": "K3773",
+      "listing_url": "https://www.harriskia.ca/vehicles/2015/dodge/dart/nanaimo/bc/70847926/?sale_class=used",
+      "dealer_url": "https://www.harriskia.ca/vehicles/2015/dodge/dart/nanaimo/bc/70847926/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-24T19:51:24",
+      "snapshot": "2026-10-24T20:07:23",
+      "go_url": "https://carwhisper.ca/go/harris-kia-1c3cdfdh8fd422981",
+      "region": "Vancouver Island",
+      "city": "Nanaimo",
+      "province": "BC",
+      "dealer_name": "Harris Kia"
     },
     {
       "pub_id": "sherwood-park-chevrolet-ll23h1r2633880000",

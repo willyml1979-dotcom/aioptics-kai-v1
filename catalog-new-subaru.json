@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T00:45:35+00:00",
+  "generated_at": "2026-10-25T06:45:36+00:00",
   "condition": "new",
   "make": "subaru",
   "files": [
@@ -110,12 +110,12 @@
       "make": "subaru",
       "model": "Crosstrek",
       "shard": "part8",
-      "count": 25,
+      "count": 23,
       "file": "inventory/new-subaru-crosstrek-part8.json",
       "models": [
         {
           "model": "Crosstrek",
-          "count": 25
+          "count": 23
         }
       ]
     },
@@ -436,12 +436,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "part23",
-      "count": 16,
+      "count": 26,
       "file": "inventory/new-subaru-forester-part23.json",
       "models": [
         {
           "model": "Forester",
-          "count": 16
+          "count": 26
         }
       ]
     },
@@ -492,12 +492,12 @@
       "make": "subaru",
       "model": "WRX",
       "shard": "Okanagan",
-      "count": 8,
+      "count": 11,
       "file": "inventory/new-subaru-wrx-okanagan.json",
       "models": [
         {
           "model": "WRX",
-          "count": 8
+          "count": 11
         }
       ]
     },
@@ -547,12 +547,12 @@
       "make": "subaru",
       "model": "Crosstrek Hybrid",
       "shard": "Kootenays",
-      "count": 2,
+      "count": 3,
       "file": "inventory/new-subaru-crosstrek-hybrid-kootenays.json",
       "models": [
         {
           "model": "Crosstrek Hybrid",
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -595,6 +595,20 @@
         {
           "model": "Crosstrek Hybrid",
           "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "subaru",
+      "model": "Crosstrek Hybrid",
+      "shard": "Vancouver Island",
+      "count": 2,
+      "file": "inventory/new-subaru-crosstrek-hybrid-vancouver-island.json",
+      "models": [
+        {
+          "model": "Crosstrek Hybrid",
+          "count": 2
         }
       ]
     },
@@ -733,12 +747,12 @@
       "make": "subaru",
       "model": "Outback",
       "shard": "part9",
-      "count": 27,
+      "count": 31,
       "file": "inventory/new-subaru-outback-part9.json",
       "models": [
         {
           "model": "Outback",
-          "count": 27
+          "count": 31
         }
       ]
     },
@@ -751,6 +765,19 @@
       "models": [
         {
           "model": "Outback TOURING",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "subaru",
+      "model": "BRZ TS",
+      "count": 1,
+      "file": "inventory/new-subaru-brz-ts.json",
+      "models": [
+        {
+          "model": "BRZ TS",
           "count": 1
         }
       ]
@@ -863,12 +890,12 @@
       "condition": "new",
       "make": "subaru",
       "model": "Crosstrek e-BOXER Hybrid",
-      "count": 7,
+      "count": 8,
       "file": "inventory/new-subaru-crosstrek-e-boxer-hybrid.json",
       "models": [
         {
           "model": "Crosstrek e-BOXER Hybrid",
-          "count": 7
+          "count": 8
         }
       ]
     },
@@ -876,12 +903,12 @@
       "condition": "new",
       "make": "subaru",
       "model": "Forester e-BOXER Hybrid",
-      "count": 13,
+      "count": 12,
       "file": "inventory/new-subaru-forester-e-boxer-hybrid.json",
       "models": [
         {
           "model": "Forester e-BOXER Hybrid",
-          "count": 13
+          "count": 12
         }
       ]
     },
@@ -967,12 +994,12 @@
       "condition": "new",
       "make": "subaru",
       "model": "Forester Limited AWD",
-      "count": 15,
+      "count": 14,
       "file": "inventory/new-subaru-forester-limited-awd.json",
       "models": [
         {
           "model": "Forester Limited AWD",
-          "count": 15
+          "count": 14
         }
       ]
     },

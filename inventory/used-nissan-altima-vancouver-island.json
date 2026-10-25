@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T00:45:35+00:00",
-  "snapshot": "2026-10-25T00:45:35+00:00",
+  "generated_at": "2026-10-25T06:45:36+00:00",
+  "snapshot": "2026-10-25T06:45:36+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "duncan-hyundai-1n4bl4bw1kn318679",
@@ -51,6 +51,33 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Victoria Hyundai"
+    },
+    {
+      "pub_id": "harris-oceanside-chevrolet-buick-gmc-ltd-1n4bl4bw3pn339850",
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Altima",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 74492,
+      "price_cad": 25998.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/67d04017-c52a-4b6d-b94b-cf09d06f5419_25c36fcb-3694-4a05-8995-448df957fcee.jpg",
+      "dealer_id": "harris-oceanside-chevrolet-buick-gmc-ltd",
+      "vin": "1N4BL4BW3PN339850",
+      "stock": "C116914",
+      "listing_url": "https://www.harrisoceansidegm.com/vehicles/2023/nissan/altima/parksville/bc/71025025/?sale_class=used",
+      "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2023/nissan/altima/parksville/bc/71025025/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-24T18:35:24",
+      "snapshot": "2026-10-24T18:41:56",
+      "go_url": "https://carwhisper.ca/go/harris-oceanside-chevrolet-buick-gmc-ltd-1n4bl4bw3pn339850",
+      "region": "Vancouver Island",
+      "city": "Parksville",
+      "province": "BC",
+      "dealer_name": "Harris Oceanside Chevrolet Buick GMC Ltd."
     }
   ]
 }

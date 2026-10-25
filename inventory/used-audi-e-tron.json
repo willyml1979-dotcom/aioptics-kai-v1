@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T00:45:35+00:00",
-  "snapshot": "2026-10-25T00:45:35+00:00",
+  "generated_at": "2026-10-25T06:45:36+00:00",
+  "snapshot": "2026-10-25T06:45:36+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "pioneer-chrysler-jeep-wa13aage6nb043460",
@@ -29,6 +29,29 @@
       "dealer_name": "Pioneer Chrysler Jeep"
     },
     {
+      "pub_id": "harbourview-volkswagen-wa13aagexpb003577",
+      "year": 2023,
+      "make": "Audi",
+      "model": "e-tron",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 40999.0,
+      "price_note": null,
+      "dealer_id": "harbourview-volkswagen",
+      "vin": "WA13AAGEXPB003577",
+      "stock": 14543382,
+      "listing_url": "https://www.harbourviewvw.com/used/2023-Audi-E_tron.html",
+      "dealer_url": "https://www.harbourviewvw.com/used/2023-Audi-E_tron.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-24T21:54:11",
+      "snapshot": "2026-10-24T21:54:48",
+      "go_url": "https://carwhisper.ca/go/harbourview-volkswagen-wa13aagexpb003577",
+      "region": "Vancouver Island",
+      "city": "Nanaimo",
+      "province": "BC",
+      "dealer_name": "Harbourview Volkswagen"
+    },
+    {
       "pub_id": "harbourview-volkswagen-wa13aage5nb043188",
       "year": 2022,
       "make": "Audi",
@@ -43,8 +66,8 @@
       "stock": 14543352,
       "listing_url": "https://www.harbourviewvw.com/used/2022-Audi-E_tron.html",
       "dealer_url": "https://www.harbourviewvw.com/used/2022-Audi-E_tron.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T05:53:45",
-      "snapshot": "2026-10-22T16:22:31",
+      "last_verified": "2026-10-24T21:54:02",
+      "snapshot": "2026-10-24T21:54:48",
       "go_url": "https://carwhisper.ca/go/harbourview-volkswagen-wa13aage5nb043188",
       "region": "Vancouver Island",
       "city": "Nanaimo",

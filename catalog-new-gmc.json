@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T00:45:35+00:00",
+  "generated_at": "2026-10-25T06:45:36+00:00",
   "condition": "new",
   "make": "gmc",
   "files": [
@@ -35,12 +35,12 @@
       "make": "gmc",
       "model": "Terrain",
       "shard": "Lower Mainland",
-      "count": 28,
+      "count": 29,
       "file": "inventory/new-gmc-terrain-lower-mainland.json",
       "models": [
         {
           "model": "Terrain",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -49,12 +49,12 @@
       "make": "gmc",
       "model": "Terrain",
       "shard": "Norte/Cariboo",
-      "count": 32,
+      "count": 31,
       "file": "inventory/new-gmc-terrain-norte-cariboo.json",
       "models": [
         {
           "model": "Terrain",
-          "count": 32
+          "count": 31
         }
       ]
     },
@@ -159,12 +159,12 @@
       "make": "gmc",
       "model": "Canyon",
       "shard": "part3",
-      "count": 26,
+      "count": 24,
       "file": "inventory/new-gmc-canyon-part3.json",
       "models": [
         {
           "model": "Canyon",
-          "count": 26
+          "count": 24
         }
       ]
     },
@@ -268,14 +268,27 @@
     {
       "condition": "new",
       "make": "gmc",
+      "model": "Sierra",
+      "count": 3,
+      "file": "inventory/new-gmc-sierra.json",
+      "models": [
+        {
+          "model": "Sierra",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
       "model": "Sierra 1500",
       "shard": "part1",
-      "count": 32,
+      "count": 31,
       "file": "inventory/new-gmc-sierra-1500-part1.json",
       "models": [
         {
           "model": "Sierra 1500",
-          "count": 32
+          "count": 31
         }
       ]
     },
@@ -284,12 +297,12 @@
       "make": "gmc",
       "model": "Sierra 1500",
       "shard": "part2",
-      "count": 32,
+      "count": 31,
       "file": "inventory/new-gmc-sierra-1500-part2.json",
       "models": [
         {
           "model": "Sierra 1500",
-          "count": 32
+          "count": 31
         }
       ]
     },
@@ -298,12 +311,12 @@
       "make": "gmc",
       "model": "Sierra 1500",
       "shard": "part3",
-      "count": 32,
+      "count": 31,
       "file": "inventory/new-gmc-sierra-1500-part3.json",
       "models": [
         {
           "model": "Sierra 1500",
-          "count": 32
+          "count": 31
         }
       ]
     },
@@ -312,12 +325,12 @@
       "make": "gmc",
       "model": "Sierra 1500",
       "shard": "part4",
-      "count": 32,
+      "count": 31,
       "file": "inventory/new-gmc-sierra-1500-part4.json",
       "models": [
         {
           "model": "Sierra 1500",
-          "count": 32
+          "count": 31
         }
       ]
     },
@@ -326,12 +339,12 @@
       "make": "gmc",
       "model": "Sierra 1500",
       "shard": "part5",
-      "count": 32,
+      "count": 31,
       "file": "inventory/new-gmc-sierra-1500-part5.json",
       "models": [
         {
           "model": "Sierra 1500",
-          "count": 32
+          "count": 31
         }
       ]
     },
@@ -340,12 +353,12 @@
       "make": "gmc",
       "model": "Sierra 1500",
       "shard": "part6",
-      "count": 32,
+      "count": 31,
       "file": "inventory/new-gmc-sierra-1500-part6.json",
       "models": [
         {
           "model": "Sierra 1500",
-          "count": 32
+          "count": 31
         }
       ]
     },
@@ -354,12 +367,12 @@
       "make": "gmc",
       "model": "Sierra 1500",
       "shard": "part7",
-      "count": 32,
+      "count": 31,
       "file": "inventory/new-gmc-sierra-1500-part7.json",
       "models": [
         {
           "model": "Sierra 1500",
-          "count": 32
+          "count": 31
         }
       ]
     },
@@ -368,25 +381,12 @@
       "make": "gmc",
       "model": "Sierra 1500",
       "shard": "part8",
-      "count": 25,
+      "count": 27,
       "file": "inventory/new-gmc-sierra-1500-part8.json",
       "models": [
         {
           "model": "Sierra 1500",
-          "count": 25
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "gmc",
-      "model": "Sierra",
-      "count": 3,
-      "file": "inventory/new-gmc-sierra.json",
-      "models": [
-        {
-          "model": "Sierra",
-          "count": 3
+          "count": 27
         }
       ]
     },
@@ -459,25 +459,12 @@
       "condition": "new",
       "make": "gmc",
       "model": "Savana Cargo",
-      "count": 5,
+      "count": 7,
       "file": "inventory/new-gmc-savana-cargo.json",
       "models": [
         {
           "model": "Savana Cargo",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "gmc",
-      "model": "Savana 3500",
-      "count": 3,
-      "file": "inventory/new-gmc-savana-3500.json",
-      "models": [
-        {
-          "model": "Savana 3500",
-          "count": 3
+          "count": 7
         }
       ]
     },
@@ -569,12 +556,12 @@
       "make": "gmc",
       "model": "Sierra 3500HD",
       "shard": "part6",
-      "count": 27,
+      "count": 25,
       "file": "inventory/new-gmc-sierra-3500hd-part6.json",
       "models": [
         {
           "model": "Sierra 3500HD",
-          "count": 27
+          "count": 25
         }
       ]
     },
@@ -664,12 +651,12 @@
       "make": "gmc",
       "model": "Yukon",
       "shard": "Vancouver Island",
-      "count": 9,
+      "count": 10,
       "file": "inventory/new-gmc-yukon-vancouver-island.json",
       "models": [
         {
           "model": "Yukon",
-          "count": 9
+          "count": 10
         }
       ]
     },

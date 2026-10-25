@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T00:45:35+00:00",
+  "generated_at": "2026-10-25T06:45:36+00:00",
   "condition": "used",
   "make": "land-rover",
   "files": [
@@ -13,6 +13,23 @@
         {
           "model": "Land Rover Discovery Sport",
           "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "land-rover",
+      "model": "Discovery Sport",
+      "count": 6,
+      "file": "inventory/used-land-rover-discovery-sport.json",
+      "models": [
+        {
+          "model": "DISCOVERY SPORT",
+          "count": 1
+        },
+        {
+          "model": "Discovery Sport",
+          "count": 5
         }
       ]
     },
@@ -48,7 +65,7 @@
       "condition": "used",
       "make": "land-rover",
       "model": "Range Rover Evoque",
-      "count": 30,
+      "count": 25,
       "file": "inventory/used-land-rover-range-rover-evoque.json",
       "models": [
         {
@@ -57,24 +74,7 @@
         },
         {
           "model": "Range Rover Evoque",
-          "count": 29
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "land-rover",
-      "model": "Discovery Sport",
-      "count": 5,
-      "file": "inventory/used-land-rover-discovery-sport.json",
-      "models": [
-        {
-          "model": "DISCOVERY SPORT",
-          "count": 1
-        },
-        {
-          "model": "Discovery Sport",
-          "count": 4
+          "count": 24
         }
       ]
     },
@@ -83,12 +83,12 @@
       "make": "land-rover",
       "model": "Range Rover Sport",
       "shard": "part1",
-      "count": 28,
+      "count": 27,
       "file": "inventory/used-land-rover-range-rover-sport-part1.json",
       "models": [
         {
           "model": "Range Rover Sport",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -97,12 +97,12 @@
       "make": "land-rover",
       "model": "Range Rover Sport",
       "shard": "part2",
-      "count": 28,
+      "count": 27,
       "file": "inventory/used-land-rover-range-rover-sport-part2.json",
       "models": [
         {
           "model": "Range Rover Sport",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -111,12 +111,12 @@
       "make": "land-rover",
       "model": "Range Rover Sport",
       "shard": "part3",
-      "count": 28,
+      "count": 27,
       "file": "inventory/used-land-rover-range-rover-sport-part3.json",
       "models": [
         {
           "model": "Range Rover Sport",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -125,12 +125,12 @@
       "make": "land-rover",
       "model": "Range Rover Sport",
       "shard": "part4",
-      "count": 28,
+      "count": 27,
       "file": "inventory/used-land-rover-range-rover-sport-part4.json",
       "models": [
         {
           "model": "Range Rover Sport",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -139,12 +139,12 @@
       "make": "land-rover",
       "model": "Range Rover Sport",
       "shard": "part5",
-      "count": 28,
+      "count": 27,
       "file": "inventory/used-land-rover-range-rover-sport-part5.json",
       "models": [
         {
           "model": "Range Rover Sport",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -153,12 +153,12 @@
       "make": "land-rover",
       "model": "Range Rover Sport",
       "shard": "part6",
-      "count": 28,
+      "count": 27,
       "file": "inventory/used-land-rover-range-rover-sport-part6.json",
       "models": [
         {
           "model": "Range Rover Sport",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -167,12 +167,12 @@
       "make": "land-rover",
       "model": "Range Rover Sport",
       "shard": "part7",
-      "count": 28,
+      "count": 27,
       "file": "inventory/used-land-rover-range-rover-sport-part7.json",
       "models": [
         {
           "model": "Range Rover Sport",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -181,12 +181,12 @@
       "make": "land-rover",
       "model": "Range Rover Sport",
       "shard": "part8",
-      "count": 28,
+      "count": 27,
       "file": "inventory/used-land-rover-range-rover-sport-part8.json",
       "models": [
         {
           "model": "Range Rover Sport",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -195,12 +195,12 @@
       "make": "land-rover",
       "model": "Range Rover Sport",
       "shard": "part9",
-      "count": 28,
+      "count": 27,
       "file": "inventory/used-land-rover-range-rover-sport-part9.json",
       "models": [
         {
           "model": "Range Rover Sport",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -209,13 +209,27 @@
       "make": "land-rover",
       "model": "Range Rover Sport",
       "shard": "part10",
-      "count": 28,
+      "count": 27,
       "file": "inventory/used-land-rover-range-rover-sport-part10.json",
       "models": [
         {
           "model": "RANGE ROVER SPORT",
           "count": 4
         },
+        {
+          "model": "Range Rover Sport",
+          "count": 23
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "land-rover",
+      "model": "Range Rover Sport",
+      "shard": "part11",
+      "count": 24,
+      "file": "inventory/used-land-rover-range-rover-sport-part11.json",
+      "models": [
         {
           "model": "Range Rover Sport",
           "count": 24
@@ -225,28 +239,14 @@
     {
       "condition": "used",
       "make": "land-rover",
-      "model": "Range Rover Sport",
-      "shard": "part11",
-      "count": 18,
-      "file": "inventory/used-land-rover-range-rover-sport-part11.json",
-      "models": [
-        {
-          "model": "Range Rover Sport",
-          "count": 18
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "land-rover",
       "model": "Range Rover Velar",
       "shard": "part1",
-      "count": 29,
+      "count": 23,
       "file": "inventory/used-land-rover-range-rover-velar-part1.json",
       "models": [
         {
           "model": "Range Rover Velar",
-          "count": 29
+          "count": 23
         }
       ]
     },
@@ -255,12 +255,12 @@
       "make": "land-rover",
       "model": "Range Rover Velar",
       "shard": "part2",
-      "count": 29,
+      "count": 23,
       "file": "inventory/used-land-rover-range-rover-velar-part2.json",
       "models": [
         {
           "model": "Range Rover Velar",
-          "count": 29
+          "count": 23
         }
       ]
     },
@@ -269,8 +269,22 @@
       "make": "land-rover",
       "model": "Range Rover Velar",
       "shard": "part3",
-      "count": 27,
+      "count": 23,
       "file": "inventory/used-land-rover-range-rover-velar-part3.json",
+      "models": [
+        {
+          "model": "Range Rover Velar",
+          "count": 23
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "land-rover",
+      "model": "Range Rover Velar",
+      "shard": "part4",
+      "count": 20,
+      "file": "inventory/used-land-rover-range-rover-velar-part4.json",
       "models": [
         {
           "model": "RANGE ROVER VELAR",
@@ -278,7 +292,7 @@
         },
         {
           "model": "Range Rover Velar",
-          "count": 21
+          "count": 14
         }
       ]
     },
@@ -329,7 +343,7 @@
       "make": "land-rover",
       "model": "Range Rover",
       "shard": "part4",
-      "count": 22,
+      "count": 24,
       "file": "inventory/used-land-rover-range-rover-part4.json",
       "models": [
         {
@@ -338,7 +352,7 @@
         },
         {
           "model": "Range Rover",
-          "count": 18
+          "count": 20
         }
       ]
     },
@@ -431,7 +445,7 @@
       "make": "land-rover",
       "model": "Defender",
       "shard": "part7",
-      "count": 27,
+      "count": 23,
       "file": "inventory/used-land-rover-defender-part7.json",
       "models": [
         {
@@ -440,7 +454,7 @@
         },
         {
           "model": "Defender",
-          "count": 24
+          "count": 20
         }
       ]
     },
@@ -595,12 +609,12 @@
       "condition": "used",
       "make": "land-rover",
       "model": "Range Rover Sport P400 Dynamic HSE",
-      "count": 32,
+      "count": 28,
       "file": "inventory/used-land-rover-range-rover-sport-p400-dynamic-hse.json",
       "models": [
         {
           "model": "Range Rover Sport P400 Dynamic HSE",
-          "count": 32
+          "count": 28
         }
       ]
     },
@@ -688,12 +702,12 @@
       "condition": "used",
       "make": "land-rover",
       "model": "Range Rover Sport V8 Supercharged Dynamic",
-      "count": 23,
+      "count": 19,
       "file": "inventory/used-land-rover-range-rover-sport-v8-supercharged-dynamic.json",
       "models": [
         {
           "model": "Range Rover Sport V8 Supercharged Dynamic",
-          "count": 23
+          "count": 19
         }
       ]
     },
@@ -804,13 +818,26 @@
     {
       "condition": "used",
       "make": "land-rover",
+      "model": "Discovery P360 R-Dynamic S (2)",
+      "count": 4,
+      "file": "inventory/used-land-rover-discovery-p360-r-dynamic-s-2.json",
+      "models": [
+        {
+          "model": "Discovery P360 R-Dynamic S (2)",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "land-rover",
       "model": "Range Rover Velar P250 S",
-      "count": 9,
+      "count": 8,
       "file": "inventory/used-land-rover-range-rover-velar-p250-s.json",
       "models": [
         {
           "model": "Range Rover Velar P250 S",
-          "count": 9
+          "count": 8
         }
       ]
     },
