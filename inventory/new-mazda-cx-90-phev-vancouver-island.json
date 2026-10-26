@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T18:20:41+00:00",
-  "snapshot": "2026-10-25T18:20:41+00:00",
+  "generated_at": "2026-10-26T00:20:52+00:00",
+  "snapshot": "2026-10-26T00:20:52+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 15,
+  "count": 16,
   "vehicles": [
     {
       "pub_id": "harris-mazda-jm3kkdha7t1416575",
@@ -32,6 +32,30 @@
       "city": "Nanaimo",
       "province": "BC",
       "dealer_name": "Harris Mazda"
+    },
+    {
+      "pub_id": "victoria-hyundai-jm3kkdha2s1215505",
+      "year": 2025,
+      "make": "Mazda",
+      "model": "CX-90 PHEV",
+      "propulsion": "plug-in hybrid",
+      "propulsion_source": "model_trim_name",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "price_cad": 47904.0,
+      "price_note": null,
+      "dealer_id": "victoria-hyundai",
+      "vin": "JM3KKDHA2S1215505",
+      "stock": 14569530,
+      "listing_url": "https://www.victoriahyundai.com/used/2025-Mazda-CX_90_PHEV.html",
+      "dealer_url": "https://www.victoriahyundai.com/used/2025-Mazda-CX_90_PHEV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-25T16:03:19",
+      "snapshot": "2026-10-25T16:06:14",
+      "go_url": "https://carwhisper.ca/go/victoria-hyundai-jm3kkdha2s1215505",
+      "region": "Vancouver Island",
+      "city": "Victoria",
+      "province": "BC",
+      "dealer_name": "Victoria Hyundai"
     },
     {
       "pub_id": "harris-mazda-jm3kkcha6t1410132",

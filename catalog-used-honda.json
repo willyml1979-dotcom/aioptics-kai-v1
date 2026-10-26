@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T18:20:41+00:00",
+  "generated_at": "2026-10-26T00:20:52+00:00",
   "condition": "used",
   "make": "honda",
   "files": [
@@ -148,12 +148,12 @@
       "make": "honda",
       "model": "CR-V",
       "shard": "part11",
-      "count": 28,
+      "count": 22,
       "file": "inventory/used-honda-cr-v-part11.json",
       "models": [
         {
           "model": "CR-V",
-          "count": 28
+          "count": 22
         }
       ]
     },
@@ -386,12 +386,12 @@
       "make": "honda",
       "model": "Civic",
       "shard": "part17",
-      "count": 20,
+      "count": 24,
       "file": "inventory/used-honda-civic-part17.json",
       "models": [
         {
           "model": "Civic",
-          "count": 20
+          "count": 24
         }
       ]
     },
@@ -399,7 +399,7 @@
       "condition": "used",
       "make": "honda",
       "model": "Fit",
-      "count": 29,
+      "count": 31,
       "file": "inventory/used-honda-fit.json",
       "models": [
         {
@@ -408,7 +408,7 @@
         },
         {
           "model": "Fit",
-          "count": 28
+          "count": 30
         }
       ]
     },
@@ -417,36 +417,8 @@
       "make": "honda",
       "model": "Ridgeline",
       "shard": "part1",
-      "count": 30,
-      "file": "inventory/used-honda-ridgeline-part1.json",
-      "models": [
-        {
-          "model": "Ridgeline",
-          "count": 30
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "honda",
-      "model": "Ridgeline",
-      "shard": "part2",
-      "count": 30,
-      "file": "inventory/used-honda-ridgeline-part2.json",
-      "models": [
-        {
-          "model": "Ridgeline",
-          "count": 30
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "honda",
-      "model": "Ridgeline",
-      "shard": "part3",
       "count": 29,
-      "file": "inventory/used-honda-ridgeline-part3.json",
+      "file": "inventory/used-honda-ridgeline-part1.json",
       "models": [
         {
           "model": "Ridgeline",
@@ -457,14 +429,42 @@
     {
       "condition": "used",
       "make": "honda",
+      "model": "Ridgeline",
+      "shard": "part2",
+      "count": 29,
+      "file": "inventory/used-honda-ridgeline-part2.json",
+      "models": [
+        {
+          "model": "Ridgeline",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
+      "model": "Ridgeline",
+      "shard": "part3",
+      "count": 28,
+      "file": "inventory/used-honda-ridgeline-part3.json",
+      "models": [
+        {
+          "model": "Ridgeline",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
       "model": "Accord",
       "shard": "part1",
-      "count": 30,
+      "count": 29,
       "file": "inventory/used-honda-accord-part1.json",
       "models": [
         {
           "model": "Accord",
-          "count": 30
+          "count": 29
         }
       ]
     },
@@ -473,12 +473,12 @@
       "make": "honda",
       "model": "Accord",
       "shard": "part2",
-      "count": 30,
+      "count": 29,
       "file": "inventory/used-honda-accord-part2.json",
       "models": [
         {
           "model": "Accord",
-          "count": 30
+          "count": 29
         }
       ]
     },
@@ -487,12 +487,12 @@
       "make": "honda",
       "model": "Accord",
       "shard": "part3",
-      "count": 30,
+      "count": 27,
       "file": "inventory/used-honda-accord-part3.json",
       "models": [
         {
           "model": "Accord",
-          "count": 30
+          "count": 27
         }
       ]
     },
@@ -501,12 +501,12 @@
       "make": "honda",
       "model": "Odyssey",
       "shard": "part1",
-      "count": 28,
+      "count": 27,
       "file": "inventory/used-honda-odyssey-part1.json",
       "models": [
         {
           "model": "Odyssey",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -515,12 +515,12 @@
       "make": "honda",
       "model": "Odyssey",
       "shard": "part2",
-      "count": 28,
+      "count": 27,
       "file": "inventory/used-honda-odyssey-part2.json",
       "models": [
         {
           "model": "Odyssey",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -529,12 +529,12 @@
       "make": "honda",
       "model": "Odyssey",
       "shard": "part3",
-      "count": 28,
+      "count": 27,
       "file": "inventory/used-honda-odyssey-part3.json",
       "models": [
         {
           "model": "Odyssey",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -543,12 +543,12 @@
       "make": "honda",
       "model": "Odyssey",
       "shard": "part4",
-      "count": 28,
+      "count": 27,
       "file": "inventory/used-honda-odyssey-part4.json",
       "models": [
         {
           "model": "Odyssey",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -557,12 +557,12 @@
       "make": "honda",
       "model": "Odyssey",
       "shard": "part5",
-      "count": 28,
+      "count": 27,
       "file": "inventory/used-honda-odyssey-part5.json",
       "models": [
         {
           "model": "Odyssey",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -627,12 +627,12 @@
       "make": "honda",
       "model": "HR-V",
       "shard": "part4",
-      "count": 22,
+      "count": 24,
       "file": "inventory/used-honda-hr-v-part4.json",
       "models": [
         {
           "model": "HR-V",
-          "count": 22
+          "count": 24
         }
       ]
     },
@@ -654,12 +654,12 @@
       "make": "honda",
       "model": "Pilot",
       "shard": "part1",
-      "count": 27,
+      "count": 25,
       "file": "inventory/used-honda-pilot-part1.json",
       "models": [
         {
           "model": "Pilot",
-          "count": 27
+          "count": 25
         }
       ]
     },
@@ -668,12 +668,12 @@
       "make": "honda",
       "model": "Pilot",
       "shard": "part2",
-      "count": 27,
+      "count": 25,
       "file": "inventory/used-honda-pilot-part2.json",
       "models": [
         {
           "model": "Pilot",
-          "count": 27
+          "count": 25
         }
       ]
     },
@@ -682,12 +682,12 @@
       "make": "honda",
       "model": "Pilot",
       "shard": "part3",
-      "count": 27,
+      "count": 25,
       "file": "inventory/used-honda-pilot-part3.json",
       "models": [
         {
           "model": "Pilot",
-          "count": 27
+          "count": 25
         }
       ]
     },
@@ -696,12 +696,12 @@
       "make": "honda",
       "model": "Pilot",
       "shard": "part4",
-      "count": 24,
+      "count": 25,
       "file": "inventory/used-honda-pilot-part4.json",
       "models": [
         {
           "model": "Pilot",
-          "count": 24
+          "count": 25
         }
       ]
     },
@@ -710,12 +710,12 @@
       "make": "honda",
       "model": "Passport",
       "shard": "part1",
-      "count": 25,
+      "count": 24,
       "file": "inventory/used-honda-passport-part1.json",
       "models": [
         {
           "model": "Passport",
-          "count": 25
+          "count": 24
         }
       ]
     },
@@ -724,12 +724,12 @@
       "make": "honda",
       "model": "Passport",
       "shard": "part2",
-      "count": 25,
+      "count": 24,
       "file": "inventory/used-honda-passport-part2.json",
       "models": [
         {
           "model": "Passport",
-          "count": 25
+          "count": 24
         }
       ]
     },
@@ -738,12 +738,25 @@
       "make": "honda",
       "model": "Passport",
       "shard": "part3",
-      "count": 25,
+      "count": 23,
       "file": "inventory/used-honda-passport-part3.json",
       "models": [
         {
           "model": "Passport",
-          "count": 25
+          "count": 23
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "honda",
+      "model": "S2000",
+      "count": 6,
+      "file": "inventory/used-honda-s2000.json",
+      "models": [
+        {
+          "model": "S2000",
+          "count": 6
         }
       ]
     },
@@ -757,19 +770,6 @@
         {
           "model": "Prologue",
           "count": 29
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "honda",
-      "model": "S2000",
-      "count": 5,
-      "file": "inventory/used-honda-s2000.json",
-      "models": [
-        {
-          "model": "S2000",
-          "count": 5
         }
       ]
     },

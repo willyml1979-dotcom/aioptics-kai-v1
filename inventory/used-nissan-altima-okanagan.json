@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T18:20:41+00:00",
-  "snapshot": "2026-10-25T18:20:41+00:00",
+  "generated_at": "2026-10-26T00:20:52+00:00",
+  "snapshot": "2026-10-26T00:20:52+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "okanagan-chrysler-dodge-jeep-ram-1n4bl4bw1kn318679",
@@ -75,33 +75,6 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Kelowna Hyundai"
-    },
-    {
-      "pub_id": "braby-motors-ltd-1n4bl4bw9mn370077",
-      "year": 2021,
-      "make": "NISSAN",
-      "model": "ALTIMA",
-      "propulsion": "gas",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
-      "condition": "used",
-      "odometer_km": 87188,
-      "price_cad": 19995.0,
-      "price_note": null,
-      "color": "Gray",
-      "photo_url": "https://portal.omni.auto/Media/InventoryMedia/1N4BL4BW9MN370077/Optimized/5ce6dc5e9d98fa54327b4cee03d72a98.webp",
-      "dealer_id": "braby-motors-ltd",
-      "vin": "1N4BL4BW9MN370077",
-      "stock": "U26-104A",
-      "listing_url": "https://brabymotors.com/Inventory/2021-NISSAN-ALTIMA-2.5SE-1N4BL4BW9MN370077",
-      "dealer_url": "https://brabymotors.com/Inventory/2021-NISSAN-ALTIMA-2.5SE-1N4BL4BW9MN370077?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T20:42:26",
-      "snapshot": "2026-10-22T20:43:48",
-      "go_url": "https://carwhisper.ca/go/braby-motors-ltd-1n4bl4bw9mn370077",
-      "region": "Okanagan",
-      "city": "Salmon Arm",
-      "province": "BC",
-      "dealer_name": "Braby Motors Ltd."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T18:20:41+00:00",
+  "generated_at": "2026-10-26T00:20:52+00:00",
   "condition": "used",
   "make": "dodge",
   "files": [
@@ -64,7 +64,7 @@
       "make": "dodge",
       "model": "GRAND CARAVAN",
       "shard": "Vancouver Island",
-      "count": 6,
+      "count": 8,
       "file": "inventory/used-dodge-grand-caravan-vancouver-island.json",
       "models": [
         {
@@ -73,7 +73,7 @@
         },
         {
           "model": "Grand Caravan",
-          "count": 4
+          "count": 6
         }
       ]
     },
@@ -216,12 +216,12 @@
       "make": "dodge",
       "model": "DURANGO",
       "shard": "Lower Mainland",
-      "count": 26,
+      "count": 25,
       "file": "inventory/used-dodge-durango-lower-mainland.json",
       "models": [
         {
           "model": "Durango",
-          "count": 26
+          "count": 25
         }
       ]
     },
@@ -290,12 +290,12 @@
       "make": "dodge",
       "model": "DURANGO",
       "shard": "sin-region",
-      "count": 21,
+      "count": 23,
       "file": "inventory/used-dodge-durango-sin-region.json",
       "models": [
         {
           "model": "Durango",
-          "count": 21
+          "count": 23
         }
       ]
     },
@@ -303,7 +303,7 @@
       "condition": "used",
       "make": "dodge",
       "model": "HORNET",
-      "count": 17,
+      "count": 19,
       "file": "inventory/used-dodge-hornet.json",
       "models": [
         {
@@ -312,7 +312,7 @@
         },
         {
           "model": "Hornet",
-          "count": 13
+          "count": 15
         }
       ]
     },
@@ -320,7 +320,7 @@
       "condition": "used",
       "make": "dodge",
       "model": "CHARGER DAYTONA",
-      "count": 6,
+      "count": 7,
       "file": "inventory/used-dodge-charger-daytona.json",
       "models": [
         {
@@ -329,7 +329,7 @@
         },
         {
           "model": "Charger Daytona",
-          "count": 5
+          "count": 6
         }
       ]
     },
@@ -391,12 +391,12 @@
       "make": "dodge",
       "model": "Charger",
       "shard": "Norte/Cariboo",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-dodge-charger-norte-cariboo.json",
       "models": [
         {
           "model": "Charger",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -419,12 +419,12 @@
       "make": "dodge",
       "model": "Charger",
       "shard": "Vancouver Island",
-      "count": 8,
+      "count": 7,
       "file": "inventory/used-dodge-charger-vancouver-island.json",
       "models": [
         {
           "model": "Charger",
-          "count": 8
+          "count": 7
         }
       ]
     },
@@ -447,12 +447,12 @@
       "make": "dodge",
       "model": "Challenger",
       "shard": "part1",
-      "count": 27,
+      "count": 30,
       "file": "inventory/used-dodge-challenger-part1.json",
       "models": [
         {
           "model": "Challenger",
-          "count": 27
+          "count": 30
         }
       ]
     },
@@ -461,12 +461,12 @@
       "make": "dodge",
       "model": "Challenger",
       "shard": "part2",
-      "count": 26,
+      "count": 29,
       "file": "inventory/used-dodge-challenger-part2.json",
       "models": [
         {
           "model": "Challenger",
-          "count": 26
+          "count": 29
         }
       ]
     },
@@ -542,6 +542,19 @@
     {
       "condition": "used",
       "make": "dodge",
+      "model": "Dart",
+      "count": 4,
+      "file": "inventory/used-dodge-dart.json",
+      "models": [
+        {
+          "model": "Dart",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
       "model": "Avenger",
       "count": 1,
       "file": "inventory/used-dodge-avenger.json",
@@ -549,19 +562,6 @@
         {
           "model": "Avenger",
           "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "Dart",
-      "count": 3,
-      "file": "inventory/used-dodge-dart.json",
-      "models": [
-        {
-          "model": "Dart",
-          "count": 3
         }
       ]
     },

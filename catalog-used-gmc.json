@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T18:20:41+00:00",
+  "generated_at": "2026-10-26T00:20:52+00:00",
   "condition": "used",
   "make": "gmc",
   "files": [
@@ -22,12 +22,12 @@
       "make": "gmc",
       "model": "TERRAIN",
       "shard": "Lower Mainland",
-      "count": 25,
+      "count": 29,
       "file": "inventory/used-gmc-terrain-lower-mainland.json",
       "models": [
         {
           "model": "Terrain",
-          "count": 25
+          "count": 29
         }
       ]
     },
@@ -96,12 +96,12 @@
       "make": "gmc",
       "model": "TERRAIN",
       "shard": "sin-region",
-      "count": 29,
+      "count": 30,
       "file": "inventory/used-gmc-terrain-sin-region.json",
       "models": [
         {
           "model": "Terrain",
-          "count": 29
+          "count": 30
         }
       ]
     },
@@ -184,11 +184,11 @@
       "models": [
         {
           "model": "SIERRA 1500",
-          "count": 1
+          "count": 3
         },
         {
           "model": "Sierra 1500",
-          "count": 29
+          "count": 27
         }
       ]
     },
@@ -267,12 +267,12 @@
       "make": "gmc",
       "model": "Sierra 1500",
       "shard": "part11",
-      "count": 23,
+      "count": 29,
       "file": "inventory/used-gmc-sierra-1500-part11.json",
       "models": [
         {
           "model": "Sierra 1500",
-          "count": 23
+          "count": 29
         }
       ]
     },
@@ -281,12 +281,12 @@
       "make": "gmc",
       "model": "Yukon",
       "shard": "Lower Mainland",
-      "count": 16,
+      "count": 12,
       "file": "inventory/used-gmc-yukon-lower-mainland.json",
       "models": [
         {
           "model": "Yukon",
-          "count": 16
+          "count": 12
         }
       ]
     },
@@ -355,12 +355,12 @@
       "make": "gmc",
       "model": "Yukon",
       "shard": "sin-region",
-      "count": 14,
+      "count": 13,
       "file": "inventory/used-gmc-yukon-sin-region.json",
       "models": [
         {
           "model": "Yukon",
-          "count": 14
+          "count": 13
         }
       ]
     },
@@ -383,12 +383,12 @@
       "make": "gmc",
       "model": "Acadia",
       "shard": "Norte/Cariboo",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-gmc-acadia-norte-cariboo.json",
       "models": [
         {
           "model": "Acadia",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -411,9 +411,13 @@
       "make": "gmc",
       "model": "Acadia",
       "shard": "Vancouver Island",
-      "count": 4,
+      "count": 5,
       "file": "inventory/used-gmc-acadia-vancouver-island.json",
       "models": [
+        {
+          "model": "ACADIA",
+          "count": 1
+        },
         {
           "model": "Acadia",
           "count": 4
@@ -438,7 +442,7 @@
       "condition": "used",
       "make": "gmc",
       "model": "Canyon",
-      "count": 25,
+      "count": 26,
       "file": "inventory/used-gmc-canyon.json",
       "models": [
         {
@@ -447,7 +451,7 @@
         },
         {
           "model": "Canyon",
-          "count": 24
+          "count": 25
         }
       ]
     },
@@ -484,12 +488,12 @@
       "make": "gmc",
       "model": "Sierra 3500HD",
       "shard": "Okanagan",
-      "count": 24,
+      "count": 25,
       "file": "inventory/used-gmc-sierra-3500hd-okanagan.json",
       "models": [
         {
           "model": "SIERRA 3500HD",
-          "count": 1
+          "count": 2
         },
         {
           "model": "Sierra 3500HD",
@@ -543,12 +547,12 @@
       "condition": "used",
       "make": "gmc",
       "model": "Yukon XL",
-      "count": 23,
+      "count": 25,
       "file": "inventory/used-gmc-yukon-xl.json",
       "models": [
         {
           "model": "Yukon XL",
-          "count": 23
+          "count": 25
         }
       ]
     },
@@ -647,12 +651,27 @@
       "condition": "used",
       "make": "gmc",
       "model": "HUMMER EV",
-      "count": 27,
-      "file": "inventory/used-gmc-hummer-ev.json",
+      "shard": "part1",
+      "count": 20,
+      "file": "inventory/used-gmc-hummer-ev-part1.json",
       "models": [
         {
           "model": "HUMMER EV",
-          "count": 27
+          "count": 20
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "gmc",
+      "model": "HUMMER EV",
+      "shard": "part2",
+      "count": 19,
+      "file": "inventory/used-gmc-hummer-ev-part2.json",
+      "models": [
+        {
+          "model": "HUMMER EV",
+          "count": 19
         }
       ]
     },
@@ -686,9 +705,13 @@
       "condition": "used",
       "make": "gmc",
       "model": "Sierra 1500SLE",
-      "count": 5,
+      "count": 6,
       "file": "inventory/used-gmc-sierra-1500sle.json",
       "models": [
+        {
+          "model": "SIERRA 1500SLE",
+          "count": 1
+        },
         {
           "model": "Sierra 1500SLE",
           "count": 5
@@ -1016,6 +1039,19 @@
       "models": [
         {
           "model": "Canyon4WD AT4 w/Leather",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "gmc",
+      "model": "Sierra 1500 SLE",
+      "count": 1,
+      "file": "inventory/used-gmc-sierra-1500-sle.json",
+      "models": [
+        {
+          "model": "Sierra 1500 SLE",
           "count": 1
         }
       ]

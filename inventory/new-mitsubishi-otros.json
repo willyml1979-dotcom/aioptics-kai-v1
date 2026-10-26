@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T18:20:41+00:00",
-  "snapshot": "2026-10-25T18:20:41+00:00",
+  "generated_at": "2026-10-26T00:20:52+00:00",
+  "snapshot": "2026-10-26T00:20:52+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "go-langley-mitsubishi-jn1mz2hb6vm402066",
@@ -80,6 +80,32 @@
       "dealer_name": "Go Langley Mitsubishi"
     },
     {
+      "pub_id": "tricity-mitsubishi-jn1mz2hb0vm401348",
+      "year": 2027,
+      "make": "Mitsubishi",
+      "propulsion": "electric",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 11,
+      "price_cad": 51653.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/a323bc53-a9af-40d5-a98c-9038494df82a_3334fa34-bfb3-4f7a-acab-523648dccf99.jpg",
+      "dealer_id": "tricity-mitsubishi",
+      "vin": "JN1MZ2HB0VM401348",
+      "stock": "271348E",
+      "listing_url": "https://www.tricitymits.com/vehicles/2027/mitsubishi/-/port-coquitlam/bc/71630026/?sale_class=new",
+      "dealer_url": "https://www.tricitymits.com/vehicles/2027/mitsubishi/-/port-coquitlam/bc/71630026/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-25T15:12:05",
+      "snapshot": "2026-10-25T15:14:39",
+      "go_url": "https://carwhisper.ca/go/tricity-mitsubishi-jn1mz2hb0vm401348",
+      "region": "Lower Mainland",
+      "city": "Port Coquitlam",
+      "province": "BC",
+      "dealer_name": "Tricity Mitsubishi"
+    },
+    {
       "pub_id": "go-langley-mitsubishi-jn1mz2hb2vm401397",
       "year": 2027,
       "make": "Mitsubishi",
@@ -128,6 +154,32 @@
       "city": "Surrey",
       "province": "BC",
       "dealer_name": "Go Langley Mitsubishi"
+    },
+    {
+      "pub_id": "tricity-mitsubishi-jn1mz2hb1vm401620",
+      "year": 2027,
+      "make": "Mitsubishi",
+      "propulsion": "electric",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 7,
+      "price_cad": 56753.0,
+      "price_note": null,
+      "color": "Blue",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/2dbfe3ab-42d1-4ced-a6b1-0a87a44b6826_cb1a66a7-d08a-44bb-8133-043f21929b89.jpg",
+      "dealer_id": "tricity-mitsubishi",
+      "vin": "JN1MZ2HB1VM401620",
+      "stock": "271620E",
+      "listing_url": "https://www.tricitymits.com/vehicles/2027/mitsubishi/-/port-coquitlam/bc/71630025/?sale_class=new",
+      "dealer_url": "https://www.tricitymits.com/vehicles/2027/mitsubishi/-/port-coquitlam/bc/71630025/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-25T15:11:54",
+      "snapshot": "2026-10-25T15:14:39",
+      "go_url": "https://carwhisper.ca/go/tricity-mitsubishi-jn1mz2hb1vm401620",
+      "region": "Lower Mainland",
+      "city": "Port Coquitlam",
+      "province": "BC",
+      "dealer_name": "Tricity Mitsubishi"
     }
   ]
 }

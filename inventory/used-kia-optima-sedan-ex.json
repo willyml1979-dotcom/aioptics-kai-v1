@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T18:20:41+00:00",
-  "snapshot": "2026-10-25T18:20:41+00:00",
+  "generated_at": "2026-10-26T00:20:52+00:00",
+  "snapshot": "2026-10-26T00:20:52+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "kelowna-toyota-ltd-knagn4a72b5148429",
@@ -29,6 +29,32 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Kelowna Toyota Ltd."
+    },
+    {
+      "pub_id": "harris-kia-5xxgu4l38gg097182",
+      "year": 2016,
+      "make": "Kia",
+      "model": "Optima Sedan EX",
+      "body_type": "sedan",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 219012,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "White",
+      "dealer_id": "harris-kia",
+      "vin": "5XXGU4L38GG097182",
+      "stock": "K3849",
+      "listing_url": "https://www.harriskia.ca/vehicles/2016/kia/optima-sedan/nanaimo/bc/ad13422887/?sale_class=used",
+      "dealer_url": "https://www.harriskia.ca/vehicles/2016/kia/optima-sedan/nanaimo/bc/ad13422887/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-25T17:09:10",
+      "snapshot": "2026-10-25T17:11:41",
+      "go_url": "https://carwhisper.ca/go/harris-kia-5xxgu4l38gg097182",
+      "region": "Vancouver Island",
+      "city": "Nanaimo",
+      "province": "BC",
+      "dealer_name": "Harris Kia"
     }
   ]
 }

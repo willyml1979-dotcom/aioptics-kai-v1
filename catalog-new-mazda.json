@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T18:20:41+00:00",
+  "generated_at": "2026-10-26T00:20:52+00:00",
   "condition": "new",
   "make": "mazda",
   "files": [
@@ -204,12 +204,12 @@
       "make": "mazda",
       "model": "CX-5",
       "shard": "part15",
-      "count": 28,
+      "count": 23,
       "file": "inventory/new-mazda-cx-5-part15.json",
       "models": [
         {
           "model": "CX-5",
-          "count": 28
+          "count": 23
         }
       ]
     },
@@ -260,12 +260,12 @@
       "make": "mazda",
       "model": "Mazda3",
       "shard": "part4",
-      "count": 26,
+      "count": 25,
       "file": "inventory/new-mazda-mazda3-part4.json",
       "models": [
         {
           "model": "Mazda3",
-          "count": 26
+          "count": 25
         }
       ]
     },
@@ -316,12 +316,12 @@
       "make": "mazda",
       "model": "Mazda3 Sport",
       "shard": "part4",
-      "count": 25,
+      "count": 24,
       "file": "inventory/new-mazda-mazda3-sport-part4.json",
       "models": [
         {
           "model": "Mazda3 Sport",
-          "count": 25
+          "count": 24
         }
       ]
     },
@@ -385,12 +385,12 @@
       "condition": "new",
       "make": "mazda",
       "model": "CX-70 MHEV",
-      "count": 25,
+      "count": 23,
       "file": "inventory/new-mazda-cx-70-mhev.json",
       "models": [
         {
           "model": "CX-70 MHEV",
-          "count": 25
+          "count": 23
         }
       ]
     },
@@ -478,12 +478,12 @@
       "make": "mazda",
       "model": "CX-90 PHEV",
       "shard": "Vancouver Island",
-      "count": 15,
+      "count": 16,
       "file": "inventory/new-mazda-cx-90-phev-vancouver-island.json",
       "models": [
         {
           "model": "CX-90 PHEV",
-          "count": 15
+          "count": 16
         }
       ]
     },
@@ -505,12 +505,12 @@
       "make": "mazda",
       "model": "CX-70 Plug-In Hybrid",
       "shard": "Lower Mainland",
-      "count": 28,
+      "count": 27,
       "file": "inventory/new-mazda-cx-70-plug-in-hybrid-lower-mainland.json",
       "models": [
         {
           "model": "CX-70 Plug-In Hybrid",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -519,12 +519,12 @@
       "make": "mazda",
       "model": "CX-70 Plug-In Hybrid",
       "shard": "Vancouver Island",
-      "count": 12,
+      "count": 11,
       "file": "inventory/new-mazda-cx-70-plug-in-hybrid-vancouver-island.json",
       "models": [
         {
           "model": "CX-70 Plug-In Hybrid",
-          "count": 12
+          "count": 11
         }
       ]
     },
@@ -587,12 +587,12 @@
       "make": "mazda",
       "model": "CX-90 Plug-In Hybrid",
       "shard": "part3",
-      "count": 28,
+      "count": 27,
       "file": "inventory/new-mazda-cx-90-plug-in-hybrid-part3.json",
       "models": [
         {
           "model": "CX-90 Plug-In Hybrid",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -613,27 +613,12 @@
       "condition": "new",
       "make": "mazda",
       "model": "CX-90 Mild Hybrid",
-      "shard": "Lower Mainland",
-      "count": 23,
-      "file": "inventory/new-mazda-cx-90-mild-hybrid-lower-mainland.json",
+      "count": 32,
+      "file": "inventory/new-mazda-cx-90-mild-hybrid.json",
       "models": [
         {
           "model": "CX-90 Mild Hybrid",
-          "count": 23
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mazda",
-      "model": "CX-90 Mild Hybrid",
-      "shard": "Vancouver Island",
-      "count": 11,
-      "file": "inventory/new-mazda-cx-90-mild-hybrid-vancouver-island.json",
-      "models": [
-        {
-          "model": "CX-90 Mild Hybrid",
-          "count": 11
+          "count": 32
         }
       ]
     },

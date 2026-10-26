@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T18:20:41+00:00",
-  "snapshot": "2026-10-25T18:20:41+00:00",
+  "generated_at": "2026-10-26T00:20:52+00:00",
+  "snapshot": "2026-10-26T00:20:52+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "northland-nissan-2g1wt58k569307224",
@@ -23,8 +23,8 @@
       "stock": "25RO890",
       "listing_url": "https://www.northlandnissan.com/vehicles/2006/chevrolet/impala/prince-george/bc/70980709/?sale_class=used",
       "dealer_url": "https://www.northlandnissan.com/vehicles/2006/chevrolet/impala/prince-george/bc/70980709/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T22:13:06",
-      "snapshot": "2026-10-23T00:58:01",
+      "last_verified": "2026-10-25T16:53:46",
+      "snapshot": "2026-10-25T16:55:59",
       "go_url": "https://carwhisper.ca/go/northland-nissan-2g1wt58k569307224",
       "region": "Norte/Cariboo",
       "city": "Prince George",
@@ -76,6 +76,30 @@
       "city": "Penticton",
       "province": "BC",
       "dealer_name": "Penticton Nissan"
+    },
+    {
+      "pub_id": "duncan-hyundai-2g1125s34f9164622",
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Impala",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 4499.0,
+      "price_note": null,
+      "color": "Blue",
+      "dealer_id": "duncan-hyundai",
+      "vin": "2G1125S34F9164622",
+      "stock": 14566880,
+      "listing_url": "https://www.duncanhyundai.net/used/2015-Chevrolet-Impala.html",
+      "dealer_url": "https://www.duncanhyundai.net/used/2015-Chevrolet-Impala.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-25T13:32:45",
+      "snapshot": "2026-10-22T21:57:13",
+      "go_url": "https://carwhisper.ca/go/duncan-hyundai-2g1125s34f9164622",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Hyundai"
     },
     {
       "pub_id": "duncan-hyundai-2g1105s35j9154468",

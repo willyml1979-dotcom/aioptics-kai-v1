@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T18:20:41+00:00",
-  "snapshot": "2026-10-25T18:20:41+00:00",
+  "generated_at": "2026-10-26T00:20:52+00:00",
+  "snapshot": "2026-10-26T00:20:52+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 26,
+  "count": 28,
   "vehicles": [
     {
       "pub_id": "mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-salkp9e92ta377291",
@@ -513,6 +513,25 @@
       "dealer_name": "MCL Motor Cars 2010 / Aston Martin / Land Rover / Jaguar / Bentley Vancouver"
     },
     {
+      "pub_id": "subaru-of-penticton-pn26150",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": 36427.0,
+      "price_note": null,
+      "dealer_id": "subaru-of-penticton",
+      "stock": "PN26150",
+      "listing_url": "https://www.subaruofpenticton.com/en/new-inventory/subaru/forester/2026-subaru-forester-id39079957",
+      "dealer_url": "https://www.subaruofpenticton.com/en/new-inventory/subaru/forester/2026-subaru-forester-id39079957?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-25T14:17:47",
+      "snapshot": "2026-10-25T14:18:08",
+      "go_url": "https://carwhisper.ca/go/subaru-of-penticton-pn26150",
+      "region": "Okanagan",
+      "city": "Penticton",
+      "province": "BC",
+      "dealer_name": "Subaru of Penticton"
+    },
+    {
       "pub_id": "kelowna-subaru-kn26542",
       "propulsion": "unknown",
       "propulsion_source": null,
@@ -530,6 +549,26 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Kelowna Subaru"
+    },
+    {
+      "pub_id": "sun-country-toyota-26564",
+      "propulsion": "hybrid",
+      "propulsion_source": "url",
+      "propulsion_confidence": "low",
+      "condition": "new",
+      "price_cad": 60439.0,
+      "price_note": null,
+      "dealer_id": "sun-country-toyota",
+      "stock": "26564",
+      "listing_url": "https://www.suncountrytoyota.ca/en/new-inventory/toyota/rav4-plug-in-hybrid/2026-toyota-rav4-plug-in-hybrid-id39354966",
+      "dealer_url": "https://www.suncountrytoyota.ca/en/new-inventory/toyota/rav4-plug-in-hybrid/2026-toyota-rav4-plug-in-hybrid-id39354966?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-25T15:00:33",
+      "snapshot": "2026-10-25T15:04:02",
+      "go_url": "https://carwhisper.ca/go/sun-country-toyota-26564",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Sun Country Toyota"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T18:20:41+00:00",
+  "generated_at": "2026-10-26T00:20:52+00:00",
   "condition": "used",
   "make": "volvo",
   "files": [
@@ -34,12 +34,12 @@
       "make": "volvo",
       "model": "XC90",
       "shard": "Lower Mainland",
-      "count": 28,
+      "count": 27,
       "file": "inventory/used-volvo-xc90-lower-mainland.json",
       "models": [
         {
           "model": "XC90",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -115,12 +115,12 @@
       "condition": "used",
       "make": "volvo",
       "model": "V90 Cross Country",
-      "count": 2,
+      "count": 1,
       "file": "inventory/used-volvo-v90-cross-country.json",
       "models": [
         {
           "model": "V90 Cross Country",
-          "count": 2
+          "count": 1
         }
       ]
     },
@@ -128,12 +128,12 @@
       "condition": "used",
       "make": "volvo",
       "model": "XC60",
-      "count": 25,
+      "count": 24,
       "file": "inventory/used-volvo-xc60.json",
       "models": [
         {
           "model": "XC60",
-          "count": 25
+          "count": 24
         }
       ]
     },
@@ -184,12 +184,12 @@
       "condition": "used",
       "make": "volvo",
       "model": "V60 Cross Country",
-      "count": 10,
+      "count": 15,
       "file": "inventory/used-volvo-v60-cross-country.json",
       "models": [
         {
           "model": "V60 Cross Country",
-          "count": 10
+          "count": 15
         }
       ]
     },
@@ -280,6 +280,19 @@
         {
           "model": "XC90 T6 AWD Momentum (6-Seat)",
           "count": 14
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volvo",
+      "model": "XC90 Inscription",
+      "count": 1,
+      "file": "inventory/used-volvo-xc90-inscription.json",
+      "models": [
+        {
+          "model": "XC90 Inscription",
+          "count": 1
         }
       ]
     },

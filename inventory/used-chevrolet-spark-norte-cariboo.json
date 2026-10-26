@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T18:20:41+00:00",
-  "snapshot": "2026-10-25T18:20:41+00:00",
+  "generated_at": "2026-10-26T00:20:52+00:00",
+  "snapshot": "2026-10-26T00:20:52+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 4,
   "vehicles": [
     {
       "pub_id": "prince-george-ford-kl8ca6s96ec472291",
@@ -26,7 +26,7 @@
       "listing_url": "https://www.pgford.ca/vehicles/2014/chevrolet/spark/prince-george/bc/71190874/?sale_class=used",
       "dealer_url": "https://www.pgford.ca/vehicles/2014/chevrolet/spark/prince-george/bc/71190874/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-19T13:08:03",
-      "snapshot": "2026-10-22T23:35:55",
+      "snapshot": "2026-10-25T15:26:11",
       "go_url": "https://carwhisper.ca/go/prince-george-ford-kl8ca6s96ec472291",
       "region": "Norte/Cariboo",
       "city": "Prince George",
@@ -91,6 +91,31 @@
       "city": "Williams Lake",
       "province": "BC",
       "dealer_name": "Cariboo Chevrolet Buick GMC Ltd."
+    },
+    {
+      "pub_id": "prince-george-ford-kl8cd6sa2kc707637",
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Spark",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 95725,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "Black",
+      "dealer_id": "prince-george-ford",
+      "vin": "KL8CD6SA2KC707637",
+      "stock": "RF13700",
+      "listing_url": "https://www.pgford.ca/vehicles/2019/chevrolet/spark/prince-george/bc/ad13417784/?sale_class=used",
+      "dealer_url": "https://www.pgford.ca/vehicles/2019/chevrolet/spark/prince-george/bc/ad13417784/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-25T15:21:04",
+      "snapshot": "2026-10-25T15:26:11",
+      "go_url": "https://carwhisper.ca/go/prince-george-ford-kl8cd6sa2kc707637",
+      "region": "Norte/Cariboo",
+      "city": "Prince George",
+      "province": "BC",
+      "dealer_name": "Prince George Ford"
     }
   ]
 }

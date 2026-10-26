@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T18:20:41+00:00",
+  "generated_at": "2026-10-26T00:20:52+00:00",
   "condition": "used",
   "make": "mitsubishi",
   "files": [
@@ -37,12 +37,12 @@
       "condition": "used",
       "make": "mitsubishi",
       "model": "Lancer",
-      "count": 4,
+      "count": 5,
       "file": "inventory/used-mitsubishi-lancer.json",
       "models": [
         {
           "model": "Lancer",
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -51,12 +51,12 @@
       "make": "mitsubishi",
       "model": "RVR",
       "shard": "part1",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-mitsubishi-rvr-part1.json",
       "models": [
         {
           "model": "RVR",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -65,12 +65,12 @@
       "make": "mitsubishi",
       "model": "RVR",
       "shard": "part2",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-mitsubishi-rvr-part2.json",
       "models": [
         {
           "model": "RVR",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -92,12 +92,55 @@
       "condition": "used",
       "make": "mitsubishi",
       "model": "Mirage",
-      "count": 33,
-      "file": "inventory/used-mitsubishi-mirage.json",
+      "shard": "Lower Mainland",
+      "count": 22,
+      "file": "inventory/used-mitsubishi-mirage-lower-mainland.json",
       "models": [
         {
           "model": "Mirage",
-          "count": 33
+          "count": 22
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "Mirage",
+      "shard": "Okanagan",
+      "count": 3,
+      "file": "inventory/used-mitsubishi-mirage-okanagan.json",
+      "models": [
+        {
+          "model": "Mirage",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "Mirage",
+      "shard": "Vancouver Island",
+      "count": 6,
+      "file": "inventory/used-mitsubishi-mirage-vancouver-island.json",
+      "models": [
+        {
+          "model": "Mirage",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "Mirage",
+      "shard": "sin-region",
+      "count": 3,
+      "file": "inventory/used-mitsubishi-mirage-sin-region.json",
+      "models": [
+        {
+          "model": "Mirage",
+          "count": 3
         }
       ]
     },
@@ -106,12 +149,12 @@
       "make": "mitsubishi",
       "model": "Outlander",
       "shard": "part1",
-      "count": 27,
+      "count": 28,
       "file": "inventory/used-mitsubishi-outlander-part1.json",
       "models": [
         {
           "model": "Outlander",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -120,12 +163,12 @@
       "make": "mitsubishi",
       "model": "Outlander",
       "shard": "part2",
-      "count": 27,
+      "count": 28,
       "file": "inventory/used-mitsubishi-outlander-part2.json",
       "models": [
         {
           "model": "Outlander",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -134,12 +177,12 @@
       "make": "mitsubishi",
       "model": "Outlander",
       "shard": "part3",
-      "count": 27,
+      "count": 28,
       "file": "inventory/used-mitsubishi-outlander-part3.json",
       "models": [
         {
           "model": "Outlander",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -148,16 +191,16 @@
       "make": "mitsubishi",
       "model": "Outlander",
       "shard": "part4",
-      "count": 27,
+      "count": 28,
       "file": "inventory/used-mitsubishi-outlander-part4.json",
       "models": [
         {
           "model": "OUTLANDER",
-          "count": 3
+          "count": 5
         },
         {
           "model": "Outlander",
-          "count": 24
+          "count": 23
         }
       ]
     },
@@ -166,16 +209,16 @@
       "make": "mitsubishi",
       "model": "Outlander",
       "shard": "part5",
-      "count": 26,
+      "count": 24,
       "file": "inventory/used-mitsubishi-outlander-part5.json",
       "models": [
         {
           "model": "OUTLANDER",
-          "count": 4
+          "count": 3
         },
         {
           "model": "Outlander",
-          "count": 22
+          "count": 21
         }
       ]
     },
@@ -184,12 +227,12 @@
       "make": "mitsubishi",
       "model": "Eclipse Cross",
       "shard": "Lower Mainland",
-      "count": 25,
+      "count": 24,
       "file": "inventory/used-mitsubishi-eclipse-cross-lower-mainland.json",
       "models": [
         {
           "model": "Eclipse Cross",
-          "count": 25
+          "count": 24
         }
       ]
     },
@@ -226,13 +269,9 @@
       "make": "mitsubishi",
       "model": "Eclipse Cross",
       "shard": "Vancouver Island",
-      "count": 10,
+      "count": 9,
       "file": "inventory/used-mitsubishi-eclipse-cross-vancouver-island.json",
       "models": [
-        {
-          "model": "ECLIPSE CROSS",
-          "count": 1
-        },
         {
           "model": "Eclipse Cross",
           "count": 9
@@ -258,12 +297,12 @@
       "make": "mitsubishi",
       "model": "Outlander PHEV",
       "shard": "Lower Mainland",
-      "count": 25,
+      "count": 24,
       "file": "inventory/used-mitsubishi-outlander-phev-lower-mainland.json",
       "models": [
         {
           "model": "Outlander PHEV",
-          "count": 25
+          "count": 24
         }
       ]
     },
@@ -308,8 +347,12 @@
       "file": "inventory/used-mitsubishi-outlander-phev-vancouver-island.json",
       "models": [
         {
+          "model": "OUTLANDER PHEV",
+          "count": 1
+        },
+        {
           "model": "Outlander PHEV",
-          "count": 8
+          "count": 7
         }
       ]
     },

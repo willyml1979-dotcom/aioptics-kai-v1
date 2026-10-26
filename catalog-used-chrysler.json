@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T18:20:41+00:00",
+  "generated_at": "2026-10-26T00:20:52+00:00",
   "condition": "used",
   "make": "chrysler",
   "files": [
@@ -7,12 +7,12 @@
       "condition": "used",
       "make": "chrysler",
       "model": "200",
-      "count": 6,
+      "count": 4,
       "file": "inventory/used-chrysler-200.json",
       "models": [
         {
           "model": "200",
-          "count": 6
+          "count": 4
         }
       ]
     },
@@ -21,7 +21,7 @@
       "make": "chrysler",
       "model": "Pacifica",
       "shard": "part1",
-      "count": 30,
+      "count": 31,
       "file": "inventory/used-chrysler-pacifica-part1.json",
       "models": [
         {
@@ -30,7 +30,7 @@
         },
         {
           "model": "Pacifica",
-          "count": 29
+          "count": 30
         }
       ]
     },
@@ -39,12 +39,12 @@
       "make": "chrysler",
       "model": "Pacifica",
       "shard": "part2",
-      "count": 30,
+      "count": 31,
       "file": "inventory/used-chrysler-pacifica-part2.json",
       "models": [
         {
           "model": "Pacifica",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -108,13 +108,9 @@
       "make": "chrysler",
       "model": "Grand Caravan",
       "shard": "Okanagan",
-      "count": 7,
+      "count": 6,
       "file": "inventory/used-chrysler-grand-caravan-okanagan.json",
       "models": [
-        {
-          "model": "GRAND CARAVAN",
-          "count": 1
-        },
         {
           "model": "Grand Caravan",
           "count": 6
@@ -193,12 +189,12 @@
       "condition": "used",
       "make": "chrysler",
       "model": "300",
-      "count": 3,
+      "count": 5,
       "file": "inventory/used-chrysler-300.json",
       "models": [
         {
           "model": "300",
-          "count": 3
+          "count": 5
         }
       ]
     },

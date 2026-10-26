@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T18:20:41+00:00",
-  "snapshot": "2026-10-25T18:20:41+00:00",
+  "generated_at": "2026-10-26T00:20:52+00:00",
+  "snapshot": "2026-10-26T00:20:52+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "chilliwack-mitsubishi-ja3au16u39u609340",
@@ -65,6 +65,32 @@
       "dealer_name": "Applewood Mazda Surrey"
     },
     {
+      "pub_id": "subaru-of-prince-george-ja32v2fw3eu602861",
+      "year": 2014,
+      "make": "Mitsubishi",
+      "model": "Lancer",
+      "body_type": "sedan",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 153248,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "Blue",
+      "dealer_id": "subaru-of-prince-george",
+      "vin": "JA32V2FW3EU602861",
+      "stock": "26CT117",
+      "listing_url": "https://www.subaruofprincegeorge.com/vehicles/2014/mitsubishi/lancer-sedan/prince-george/bc/ad13397948/?sale_class=used",
+      "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2014/mitsubishi/lancer-sedan/prince-george/bc/ad13397948/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-25T14:00:36",
+      "snapshot": "2026-10-25T14:03:05",
+      "go_url": "https://carwhisper.ca/go/subaru-of-prince-george-ja32v2fw3eu602861",
+      "region": "Norte/Cariboo",
+      "city": "Prince George",
+      "province": "BC",
+      "dealer_name": "Subaru of Prince George"
+    },
+    {
       "pub_id": "red-deer-nissan-ja32u2fu1hu600466",
       "year": 2017,
       "make": "Mitsubishi",
@@ -110,7 +136,7 @@
       "listing_url": "https://www.godowntownkia.ca/vehicles/2017/mitsubishi/lancer-sedan/vancouver/bc/71566175/?sale_class=used",
       "dealer_url": "https://www.godowntownkia.ca/vehicles/2017/mitsubishi/lancer-sedan/vancouver/bc/71566175/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T17:13:01",
-      "snapshot": "2026-10-23T00:47:27",
+      "snapshot": "2026-10-25T16:39:52",
       "go_url": "https://carwhisper.ca/go/go-downtown-kia-ja32u2fu7hu608118",
       "city": null,
       "province": "BC",
