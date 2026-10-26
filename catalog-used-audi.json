@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T00:20:52+00:00",
+  "generated_at": "2026-10-26T06:20:54+00:00",
   "condition": "used",
   "make": "audi",
   "files": [
@@ -63,12 +63,12 @@
       "make": "audi",
       "model": "Q5",
       "shard": "part1",
-      "count": 26,
+      "count": 24,
       "file": "inventory/used-audi-q5-part1.json",
       "models": [
         {
           "model": "Q5",
-          "count": 26
+          "count": 24
         }
       ]
     },
@@ -77,12 +77,12 @@
       "make": "audi",
       "model": "Q5",
       "shard": "part2",
-      "count": 26,
+      "count": 24,
       "file": "inventory/used-audi-q5-part2.json",
       "models": [
         {
           "model": "Q5",
-          "count": 26
+          "count": 24
         }
       ]
     },
@@ -91,12 +91,12 @@
       "make": "audi",
       "model": "Q5",
       "shard": "part3",
-      "count": 26,
+      "count": 24,
       "file": "inventory/used-audi-q5-part3.json",
       "models": [
         {
           "model": "Q5",
-          "count": 26
+          "count": 24
         }
       ]
     },
@@ -104,12 +104,12 @@
       "condition": "used",
       "make": "audi",
       "model": "A4",
-      "count": 11,
+      "count": 10,
       "file": "inventory/used-audi-a4.json",
       "models": [
         {
           "model": "A4",
-          "count": 11
+          "count": 10
         }
       ]
     },
@@ -118,12 +118,12 @@
       "make": "audi",
       "model": "Q7",
       "shard": "Lower Mainland",
-      "count": 33,
+      "count": 32,
       "file": "inventory/used-audi-q7-lower-mainland.json",
       "models": [
         {
           "model": "Q7",
-          "count": 33
+          "count": 32
         }
       ]
     },
@@ -421,12 +421,12 @@
       "condition": "used",
       "make": "audi",
       "model": "New Q5",
-      "count": 15,
+      "count": 14,
       "file": "inventory/used-audi-new-q5.json",
       "models": [
         {
           "model": "New Q5",
-          "count": 15
+          "count": 14
         }
       ]
     },
@@ -538,12 +538,12 @@
       "condition": "used",
       "make": "audi",
       "model": "New SQ5",
-      "count": 14,
+      "count": 8,
       "file": "inventory/used-audi-new-sq5.json",
       "models": [
         {
           "model": "New SQ5",
-          "count": 14
+          "count": 8
         }
       ]
     },
@@ -603,12 +603,12 @@
       "condition": "used",
       "make": "audi",
       "model": "RS e-tron GT",
-      "count": 13,
+      "count": 14,
       "file": "inventory/used-audi-rs-e-tron-gt.json",
       "models": [
         {
           "model": "RS e-tron GT",
-          "count": 13
+          "count": 14
         }
       ]
     },
@@ -719,6 +719,19 @@
     {
       "condition": "used",
       "make": "audi",
+      "model": "Q7 3.0T Technik quattro 8sp Tiptronic",
+      "count": 14,
+      "file": "inventory/used-audi-q7-3-0t-technik-quattro-8sp-tiptronic.json",
+      "models": [
+        {
+          "model": "Q7 3.0T Technik quattro 8sp Tiptronic",
+          "count": 14
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "audi",
       "model": "S5 CoupeTechnik 3.0 Tfsi quattroAWD",
       "count": 1,
       "file": "inventory/used-audi-s5-coupetechnik-3-0-tfsi-quattroawd.json",
@@ -726,19 +739,6 @@
         {
           "model": "S5 CoupeTechnik 3.0 Tfsi quattroAWD",
           "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "audi",
-      "model": "Q7 3.0T Technik quattro 8sp Tiptronic",
-      "count": 13,
-      "file": "inventory/used-audi-q7-3-0t-technik-quattro-8sp-tiptronic.json",
-      "models": [
-        {
-          "model": "Q7 3.0T Technik quattro 8sp Tiptronic",
-          "count": 13
         }
       ]
     },

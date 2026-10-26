@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-26T00:20:52+00:00",
-  "snapshot": "2026-10-26T00:20:52+00:00",
+  "generated_at": "2026-10-26T06:20:54+00:00",
+  "snapshot": "2026-10-26T06:20:54+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "tricity-mitsubishi-jn1mz2hb0vm401978",
@@ -49,6 +49,34 @@
       "city": "Port Coquitlam",
       "province": "BC",
       "dealer_name": "Tricity Mitsubishi"
+    },
+    {
+      "pub_id": "red-deer-mitsubishi-jn1mz2hb2vm401853",
+      "year": 2027,
+      "make": "Mitsubishi",
+      "model": "Eclipse",
+      "trim": "EV",
+      "drivetrain": "FWD",
+      "propulsion": "electric",
+      "propulsion_source": "description",
+      "propulsion_confidence": "medium",
+      "condition": "new",
+      "odometer_km": 5,
+      "price_cad": 0.0,
+      "price_note": null,
+      "color": "Midnight Blue",
+      "photo_url": "https://img.sm360.ca/images/inventory/",
+      "dealer_id": "red-deer-mitsubishi",
+      "vin": "JN1MZ2HB2VM401853",
+      "stock": "ES27185",
+      "listing_url": "https://www.reddeermitsubishi.ca/en/new-inventory/mitsubishi/eclipse/2027-mitsubishi-eclipse-id39421540",
+      "dealer_url": "https://www.reddeermitsubishi.ca/en/new-inventory/mitsubishi/eclipse/2027-mitsubishi-eclipse-id39421540?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-25T21:21:46",
+      "snapshot": "2026-10-25T21:27:21",
+      "go_url": "https://carwhisper.ca/go/red-deer-mitsubishi-jn1mz2hb2vm401853",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Red Deer Mitsubishi"
     }
   ]
 }

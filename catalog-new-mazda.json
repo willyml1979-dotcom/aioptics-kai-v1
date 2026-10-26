@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T00:20:52+00:00",
+  "generated_at": "2026-10-26T06:20:54+00:00",
   "condition": "new",
   "make": "mazda",
   "files": [
@@ -204,12 +204,12 @@
       "make": "mazda",
       "model": "CX-5",
       "shard": "part15",
-      "count": 23,
+      "count": 22,
       "file": "inventory/new-mazda-cx-5-part15.json",
       "models": [
         {
           "model": "CX-5",
-          "count": 23
+          "count": 22
         }
       ]
     },
@@ -464,12 +464,26 @@
       "make": "mazda",
       "model": "CX-90 PHEV",
       "shard": "Lower Mainland",
-      "count": 27,
+      "count": 28,
       "file": "inventory/new-mazda-cx-90-phev-lower-mainland.json",
       "models": [
         {
           "model": "CX-90 PHEV",
-          "count": 27
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mazda",
+      "model": "CX-90 PHEV",
+      "shard": "Okanagan",
+      "count": 3,
+      "file": "inventory/new-mazda-cx-90-phev-okanagan.json",
+      "models": [
+        {
+          "model": "CX-90 PHEV",
+          "count": 3
         }
       ]
     },
@@ -587,12 +601,12 @@
       "make": "mazda",
       "model": "CX-90 Plug-In Hybrid",
       "shard": "part3",
-      "count": 27,
+      "count": 28,
       "file": "inventory/new-mazda-cx-90-plug-in-hybrid-part3.json",
       "models": [
         {
           "model": "CX-90 Plug-In Hybrid",
-          "count": 27
+          "count": 28
         }
       ]
     },

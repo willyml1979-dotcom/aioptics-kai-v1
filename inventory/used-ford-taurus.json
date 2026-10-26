@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-26T00:20:52+00:00",
-  "snapshot": "2026-10-26T00:20:52+00:00",
+  "generated_at": "2026-10-26T06:20:54+00:00",
+  "snapshot": "2026-10-26T06:20:54+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "penticton-hyundai-1fahp2h84eg158639",
@@ -32,6 +32,33 @@
       "city": "Penticton",
       "province": "BC",
       "dealer_name": "Penticton Hyundai"
+    },
+    {
+      "pub_id": "red-deer-mitsubishi-1fahp27w09g115521",
+      "year": 2009,
+      "make": "Ford",
+      "model": "Taurus",
+      "trim": "SEL",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 173000,
+      "price_cad": 9999.0,
+      "price_note": null,
+      "color": "Brown",
+      "photo_url": "https://img.sm360.ca/images/inventory/",
+      "dealer_id": "red-deer-mitsubishi",
+      "vin": "1FAHP27W09G115521",
+      "stock": "E265542",
+      "listing_url": "https://www.reddeermitsubishi.ca/en/used-inventory/ford/taurus/2009-ford-taurus-id39421545",
+      "dealer_url": "https://www.reddeermitsubishi.ca/en/used-inventory/ford/taurus/2009-ford-taurus-id39421545?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-25T21:15:45",
+      "snapshot": "2026-10-25T21:19:41",
+      "go_url": "https://carwhisper.ca/go/red-deer-mitsubishi-1fahp27w09g115521",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Red Deer Mitsubishi"
     }
   ]
 }

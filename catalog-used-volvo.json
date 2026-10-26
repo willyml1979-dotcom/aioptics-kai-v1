@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T00:20:52+00:00",
+  "generated_at": "2026-10-26T06:20:54+00:00",
   "condition": "used",
   "make": "volvo",
   "files": [
@@ -34,12 +34,12 @@
       "make": "volvo",
       "model": "XC90",
       "shard": "Lower Mainland",
-      "count": 27,
+      "count": 28,
       "file": "inventory/used-volvo-xc90-lower-mainland.json",
       "models": [
         {
           "model": "XC90",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -88,6 +88,19 @@
     {
       "condition": "used",
       "make": "volvo",
+      "model": "XC60",
+      "count": 29,
+      "file": "inventory/used-volvo-xc60.json",
+      "models": [
+        {
+          "model": "XC60",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volvo",
       "model": "S60",
       "count": 3,
       "file": "inventory/used-volvo-s60.json",
@@ -102,12 +115,12 @@
       "condition": "used",
       "make": "volvo",
       "model": "XC40",
-      "count": 31,
+      "count": 30,
       "file": "inventory/used-volvo-xc40.json",
       "models": [
         {
           "model": "XC40",
-          "count": 31
+          "count": 30
         }
       ]
     },
@@ -121,19 +134,6 @@
         {
           "model": "V90 Cross Country",
           "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volvo",
-      "model": "XC60",
-      "count": 24,
-      "file": "inventory/used-volvo-xc60.json",
-      "models": [
-        {
-          "model": "XC60",
-          "count": 24
         }
       ]
     },
@@ -184,12 +184,12 @@
       "condition": "used",
       "make": "volvo",
       "model": "V60 Cross Country",
-      "count": 15,
+      "count": 16,
       "file": "inventory/used-volvo-v60-cross-country.json",
       "models": [
         {
           "model": "V60 Cross Country",
-          "count": 15
+          "count": 16
         }
       ]
     },
@@ -253,7 +253,7 @@
       "condition": "used",
       "make": "volvo",
       "model": "XC90 Plug-In Hybrid",
-      "count": 6,
+      "count": 5,
       "file": "inventory/used-volvo-xc90-plug-in-hybrid.json",
       "models": [
         {
@@ -266,7 +266,7 @@
         },
         {
           "model": "XC90 Plug-in Hybrid",
-          "count": 2
+          "count": 1
         }
       ]
     },

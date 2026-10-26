@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T00:20:52+00:00",
+  "generated_at": "2026-10-26T06:20:54+00:00",
   "condition": "used",
   "make": "lexus",
   "files": [
@@ -75,13 +75,13 @@
       "condition": "used",
       "make": "lexus",
       "model": "NX",
-      "shard": "part1",
-      "count": 23,
-      "file": "inventory/used-lexus-nx-part1.json",
+      "shard": "Lower Mainland",
+      "count": 33,
+      "file": "inventory/used-lexus-nx-lower-mainland.json",
       "models": [
         {
           "model": "NX",
-          "count": 23
+          "count": 33
         }
       ]
     },
@@ -89,13 +89,55 @@
       "condition": "used",
       "make": "lexus",
       "model": "NX",
-      "shard": "part2",
-      "count": 23,
-      "file": "inventory/used-lexus-nx-part2.json",
+      "shard": "Okanagan",
+      "count": 3,
+      "file": "inventory/used-lexus-nx-okanagan.json",
       "models": [
         {
           "model": "NX",
-          "count": 23
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "NX",
+      "shard": "Thompson-Okanagan",
+      "count": 2,
+      "file": "inventory/used-lexus-nx-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "NX",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "NX",
+      "shard": "Vancouver Island",
+      "count": 1,
+      "file": "inventory/used-lexus-nx-vancouver-island.json",
+      "models": [
+        {
+          "model": "NX",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "NX",
+      "shard": "sin-region",
+      "count": 4,
+      "file": "inventory/used-lexus-nx-sin-region.json",
+      "models": [
+        {
+          "model": "NX",
+          "count": 4
         }
       ]
     },
@@ -337,13 +379,13 @@
       "condition": "used",
       "make": "lexus",
       "model": "GX",
-      "shard": "part1",
-      "count": 21,
-      "file": "inventory/used-lexus-gx-part1.json",
+      "shard": "Lower Mainland",
+      "count": 33,
+      "file": "inventory/used-lexus-gx-lower-mainland.json",
       "models": [
         {
           "model": "GX",
-          "count": 21
+          "count": 33
         }
       ]
     },
@@ -351,13 +393,13 @@
       "condition": "used",
       "make": "lexus",
       "model": "GX",
-      "shard": "part2",
-      "count": 21,
-      "file": "inventory/used-lexus-gx-part2.json",
+      "shard": "sin-region",
+      "count": 3,
+      "file": "inventory/used-lexus-gx-sin-region.json",
       "models": [
         {
           "model": "GX",
-          "count": 21
+          "count": 3
         }
       ]
     },

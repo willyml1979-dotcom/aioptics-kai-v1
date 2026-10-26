@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T00:20:52+00:00",
+  "generated_at": "2026-10-26T06:20:54+00:00",
   "condition": "new",
   "make": "subaru",
   "files": [
@@ -110,12 +110,12 @@
       "make": "subaru",
       "model": "Crosstrek",
       "shard": "part8",
-      "count": 26,
+      "count": 28,
       "file": "inventory/new-subaru-crosstrek-part8.json",
       "models": [
         {
           "model": "Crosstrek",
-          "count": 26
+          "count": 28
         }
       ]
     },
@@ -436,12 +436,26 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "part23",
-      "count": 28,
+      "count": 30,
       "file": "inventory/new-subaru-forester-part23.json",
       "models": [
         {
           "model": "Forester",
-          "count": 28
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "subaru",
+      "model": "Forester",
+      "shard": "part24",
+      "count": 9,
+      "file": "inventory/new-subaru-forester-part24.json",
+      "models": [
+        {
+          "model": "Forester",
+          "count": 9
         }
       ]
     },
@@ -506,12 +520,12 @@
       "make": "subaru",
       "model": "WRX",
       "shard": "Vancouver Island",
-      "count": 5,
+      "count": 3,
       "file": "inventory/new-subaru-wrx-vancouver-island.json",
       "models": [
         {
           "model": "WRX",
-          "count": 5
+          "count": 3
         }
       ]
     },
@@ -761,12 +775,12 @@
       "make": "subaru",
       "model": "Outback",
       "shard": "part10",
-      "count": 21,
+      "count": 23,
       "file": "inventory/new-subaru-outback-part10.json",
       "models": [
         {
           "model": "Outback",
-          "count": 21
+          "count": 23
         }
       ]
     },
@@ -858,32 +872,6 @@
         {
           "model": "Trailseeker",
           "count": 32
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "subaru",
-      "model": "Crosstrek Touring AWD",
-      "count": 7,
-      "file": "inventory/new-subaru-crosstrek-touring-awd.json",
-      "models": [
-        {
-          "model": "Crosstrek Touring AWD",
-          "count": 7
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "subaru",
-      "model": "Forester Convenience AWD",
-      "count": 3,
-      "file": "inventory/new-subaru-forester-convenience-awd.json",
-      "models": [
-        {
-          "model": "Forester Convenience AWD",
-          "count": 3
         }
       ]
     },
@@ -1007,6 +995,19 @@
     {
       "condition": "new",
       "make": "subaru",
+      "model": "Crosstrek Touring AWD",
+      "count": 6,
+      "file": "inventory/new-subaru-crosstrek-touring-awd.json",
+      "models": [
+        {
+          "model": "Crosstrek Touring AWD",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "subaru",
       "model": "Forester Limited AWD",
       "count": 14,
       "file": "inventory/new-subaru-forester-limited-awd.json",
@@ -1040,6 +1041,19 @@
         {
           "model": "Forester Touring AWD",
           "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "subaru",
+      "model": "Forester Convenience AWD",
+      "count": 1,
+      "file": "inventory/new-subaru-forester-convenience-awd.json",
+      "models": [
+        {
+          "model": "Forester Convenience AWD",
+          "count": 1
         }
       ]
     },

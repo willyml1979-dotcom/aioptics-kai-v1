@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T00:20:52+00:00",
+  "generated_at": "2026-10-26T06:20:54+00:00",
   "condition": "used",
   "make": "chevrolet",
   "files": [
@@ -50,12 +50,12 @@
       "make": "chevrolet",
       "model": "Equinox",
       "shard": "part4",
-      "count": 28,
+      "count": 30,
       "file": "inventory/used-chevrolet-equinox-part4.json",
       "models": [
         {
           "model": "Equinox",
-          "count": 28
+          "count": 30
         }
       ]
     },
@@ -400,7 +400,7 @@
       "make": "chevrolet",
       "model": "Trax",
       "shard": "Lower Mainland",
-      "count": 25,
+      "count": 24,
       "file": "inventory/used-chevrolet-trax-lower-mainland.json",
       "models": [
         {
@@ -409,7 +409,7 @@
         },
         {
           "model": "Trax",
-          "count": 24
+          "count": 23
         }
       ]
     },
@@ -656,12 +656,12 @@
       "make": "chevrolet",
       "model": "Silverado 1500",
       "shard": "part13",
-      "count": 23,
+      "count": 27,
       "file": "inventory/used-chevrolet-silverado-1500-part13.json",
       "models": [
         {
           "model": "Silverado 1500",
-          "count": 23
+          "count": 27
         }
       ]
     },
@@ -973,12 +973,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Bolt",
-      "count": 31,
+      "count": 30,
       "file": "inventory/used-chevrolet-bolt.json",
       "models": [
         {
           "model": "Bolt",
-          "count": 31
+          "count": 30
         }
       ]
     },
@@ -1013,12 +1013,12 @@
       "make": "chevrolet",
       "model": "Corvette",
       "shard": "part1",
-      "count": 28,
+      "count": 26,
       "file": "inventory/used-chevrolet-corvette-part1.json",
       "models": [
         {
           "model": "Corvette",
-          "count": 28
+          "count": 26
         }
       ]
     },
@@ -1027,12 +1027,12 @@
       "make": "chevrolet",
       "model": "Corvette",
       "shard": "part2",
-      "count": 28,
+      "count": 26,
       "file": "inventory/used-chevrolet-corvette-part2.json",
       "models": [
         {
           "model": "Corvette",
-          "count": 28
+          "count": 26
         }
       ]
     },
@@ -1041,7 +1041,7 @@
       "make": "chevrolet",
       "model": "Corvette",
       "shard": "part3",
-      "count": 28,
+      "count": 26,
       "file": "inventory/used-chevrolet-corvette-part3.json",
       "models": [
         {
@@ -1050,7 +1050,7 @@
         },
         {
           "model": "Corvette",
-          "count": 27
+          "count": 25
         }
       ]
     },
@@ -1113,12 +1113,12 @@
       "make": "chevrolet",
       "model": "Tahoe",
       "shard": "Okanagan",
-      "count": 2,
+      "count": 4,
       "file": "inventory/used-chevrolet-tahoe-okanagan.json",
       "models": [
         {
           "model": "Tahoe",
-          "count": 2
+          "count": 4
         }
       ]
     },
@@ -1337,12 +1337,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Equinox AWD LT",
-      "count": 6,
+      "count": 4,
       "file": "inventory/used-chevrolet-equinox-awd-lt.json",
       "models": [
         {
           "model": "Equinox AWD LT",
-          "count": 6
+          "count": 4
         }
       ]
     },
@@ -1564,32 +1564,6 @@
     {
       "condition": "used",
       "make": "chevrolet",
-      "model": "Express",
-      "count": 1,
-      "file": "inventory/used-chevrolet-express.json",
-      "models": [
-        {
-          "model": "Express",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chevrolet",
-      "model": "K10",
-      "count": 1,
-      "file": "inventory/used-chevrolet-k10.json",
-      "models": [
-        {
-          "model": "K10",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chevrolet",
       "model": "Silverado 3500",
       "shard": "Okanagan",
       "count": 4,
@@ -1626,6 +1600,32 @@
         {
           "model": "Silverado 3500",
           "count": 21
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Express",
+      "count": 1,
+      "file": "inventory/used-chevrolet-express.json",
+      "models": [
+        {
+          "model": "Express",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "K10",
+      "count": 1,
+      "file": "inventory/used-chevrolet-k10.json",
+      "models": [
+        {
+          "model": "K10",
+          "count": 1
         }
       ]
     },
@@ -2535,19 +2535,6 @@
       "models": [
         {
           "model": "Silverado 1500LS 4x4 Crew Cab 5.75 ft. box",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chevrolet",
-      "model": "CruzePremier",
-      "count": 1,
-      "file": "inventory/used-chevrolet-cruzepremier.json",
-      "models": [
-        {
-          "model": "CruzePremier",
           "count": 1
         }
       ]

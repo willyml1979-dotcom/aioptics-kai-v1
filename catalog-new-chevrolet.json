@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T00:20:52+00:00",
+  "generated_at": "2026-10-26T06:20:54+00:00",
   "condition": "new",
   "make": "chevrolet",
   "files": [
@@ -25,6 +25,117 @@
       "models": [
         {
           "model": "Equinox FWD LT",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Bolt",
+      "shard": "part1",
+      "count": 30,
+      "file": "inventory/new-chevrolet-bolt-part1.json",
+      "models": [
+        {
+          "model": "Bolt",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Bolt",
+      "shard": "part2",
+      "count": 30,
+      "file": "inventory/new-chevrolet-bolt-part2.json",
+      "models": [
+        {
+          "model": "Bolt",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Bolt",
+      "shard": "part3",
+      "count": 30,
+      "file": "inventory/new-chevrolet-bolt-part3.json",
+      "models": [
+        {
+          "model": "Bolt",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Bolt",
+      "shard": "part4",
+      "count": 30,
+      "file": "inventory/new-chevrolet-bolt-part4.json",
+      "models": [
+        {
+          "model": "Bolt",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Bolt",
+      "shard": "part5",
+      "count": 30,
+      "file": "inventory/new-chevrolet-bolt-part5.json",
+      "models": [
+        {
+          "model": "Bolt",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Bolt",
+      "shard": "part6",
+      "count": 30,
+      "file": "inventory/new-chevrolet-bolt-part6.json",
+      "models": [
+        {
+          "model": "Bolt",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Bolt",
+      "shard": "part7",
+      "count": 30,
+      "file": "inventory/new-chevrolet-bolt-part7.json",
+      "models": [
+        {
+          "model": "Bolt",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Blazer LT AWD",
+      "count": 2,
+      "file": "inventory/new-chevrolet-blazer-lt-awd.json",
+      "models": [
+        {
+          "model": "Blazer LT AWD",
           "count": 2
         }
       ]
@@ -90,123 +201,12 @@
       "make": "chevrolet",
       "model": "Equinox",
       "shard": "part5",
-      "count": 27,
+      "count": 25,
       "file": "inventory/new-chevrolet-equinox-part5.json",
       "models": [
         {
           "model": "Equinox",
-          "count": 27
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "chevrolet",
-      "model": "Bolt",
-      "shard": "part1",
-      "count": 31,
-      "file": "inventory/new-chevrolet-bolt-part1.json",
-      "models": [
-        {
-          "model": "Bolt",
-          "count": 31
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "chevrolet",
-      "model": "Bolt",
-      "shard": "part2",
-      "count": 31,
-      "file": "inventory/new-chevrolet-bolt-part2.json",
-      "models": [
-        {
-          "model": "Bolt",
-          "count": 31
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "chevrolet",
-      "model": "Bolt",
-      "shard": "part3",
-      "count": 31,
-      "file": "inventory/new-chevrolet-bolt-part3.json",
-      "models": [
-        {
-          "model": "Bolt",
-          "count": 31
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "chevrolet",
-      "model": "Bolt",
-      "shard": "part4",
-      "count": 31,
-      "file": "inventory/new-chevrolet-bolt-part4.json",
-      "models": [
-        {
-          "model": "Bolt",
-          "count": 31
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "chevrolet",
-      "model": "Bolt",
-      "shard": "part5",
-      "count": 31,
-      "file": "inventory/new-chevrolet-bolt-part5.json",
-      "models": [
-        {
-          "model": "Bolt",
-          "count": 31
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "chevrolet",
-      "model": "Bolt",
-      "shard": "part6",
-      "count": 31,
-      "file": "inventory/new-chevrolet-bolt-part6.json",
-      "models": [
-        {
-          "model": "Bolt",
-          "count": 31
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "chevrolet",
-      "model": "Bolt",
-      "shard": "part7",
-      "count": 26,
-      "file": "inventory/new-chevrolet-bolt-part7.json",
-      "models": [
-        {
-          "model": "Bolt",
-          "count": 26
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "chevrolet",
-      "model": "Blazer LT AWD",
-      "count": 2,
-      "file": "inventory/new-chevrolet-blazer-lt-awd.json",
-      "models": [
-        {
-          "model": "Blazer LT AWD",
-          "count": 2
+          "count": 25
         }
       ]
     },
@@ -257,12 +257,12 @@
       "make": "chevrolet",
       "model": "Equinox EV",
       "shard": "part4",
-      "count": 31,
+      "count": 30,
       "file": "inventory/new-chevrolet-equinox-ev-part4.json",
       "models": [
         {
           "model": "Equinox EV",
-          "count": 31
+          "count": 30
         }
       ]
     },
@@ -341,12 +341,12 @@
       "make": "chevrolet",
       "model": "Colorado",
       "shard": "part6",
-      "count": 30,
+      "count": 31,
       "file": "inventory/new-chevrolet-colorado-part6.json",
       "models": [
         {
           "model": "Colorado",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -651,12 +651,12 @@
       "make": "chevrolet",
       "model": "Trax",
       "shard": "part8",
-      "count": 25,
+      "count": 26,
       "file": "inventory/new-chevrolet-trax-part8.json",
       "models": [
         {
           "model": "Trax",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -989,12 +989,12 @@
       "make": "chevrolet",
       "model": "Silverado 1500",
       "shard": "part18",
-      "count": 31,
+      "count": 30,
       "file": "inventory/new-chevrolet-silverado-1500-part18.json",
       "models": [
         {
           "model": "Silverado 1500",
-          "count": 31
+          "count": 30
         }
       ]
     },
@@ -1597,19 +1597,6 @@
       "models": [
         {
           "model": "Express 2500 Cargo",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "chevrolet",
-      "model": "Traverse LT",
-      "count": 1,
-      "file": "inventory/new-chevrolet-traverse-lt.json",
-      "models": [
-        {
-          "model": "Traverse LT",
           "count": 1
         }
       ]

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-26T00:20:52+00:00",
-  "snapshot": "2026-10-26T00:20:52+00:00",
+  "generated_at": "2026-10-26T06:20:54+00:00",
+  "snapshot": "2026-10-26T06:20:54+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "brian-jessel-bmw-5ymkt6c50g0r78932",
@@ -51,12 +51,40 @@
       "listing_url": "https://www.islandford.ca/vehicles/2017/bmw/x5-m/duncan/bc/70687920/?sale_class=used",
       "dealer_url": "https://www.islandford.ca/vehicles/2017/bmw/x5-m/duncan/bc/70687920/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-19T16:17:22",
-      "snapshot": "2026-10-24T22:30:20",
+      "snapshot": "2026-10-25T18:50:54",
       "go_url": "https://carwhisper.ca/go/island-ford-5ymkt6c54h0u38775",
       "region": "Vancouver Island",
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Island Ford"
+    },
+    {
+      "pub_id": "bmw-victoria-mini-victoria-1791388-ontario-limited-5ymju0c03m9f01223",
+      "year": 2021,
+      "make": "BMW",
+      "model": "X5 M",
+      "trim": "Competition",
+      "drivetrain": "FWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 81397,
+      "price_cad": 69900.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "bmw-victoria-mini-victoria-1791388-ontario-limited",
+      "vin": "5YMJU0C03M9F01223",
+      "stock": "14429761",
+      "listing_url": "https://www.bmwvictoria.ca/used/2021-BMW-X5_M-id14429761.html",
+      "dealer_url": "https://www.bmwvictoria.ca/used/2021-BMW-X5_M-id14429761.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-10T16:56:26",
+      "snapshot": "2026-10-25T22:16:48",
+      "go_url": "https://carwhisper.ca/go/bmw-victoria-mini-victoria-1791388-ontario-limited-5ymju0c03m9f01223",
+      "region": "Vancouver Island",
+      "city": "Victoria",
+      "province": "BC",
+      "dealer_name": "BMW Victoria/MINI Victoria (1791388 Ontario Limited)"
     }
   ]
 }

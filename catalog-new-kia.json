@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T00:20:52+00:00",
+  "generated_at": "2026-10-26T06:20:54+00:00",
   "condition": "new",
   "make": "kia",
   "files": [
@@ -469,12 +469,12 @@
       "make": "kia",
       "model": "Sportage",
       "shard": "part18",
-      "count": 32,
+      "count": 31,
       "file": "inventory/new-kia-sportage-part18.json",
       "models": [
         {
           "model": "Sportage",
-          "count": 32
+          "count": 31
         }
       ]
     },
@@ -647,19 +647,6 @@
     {
       "condition": "new",
       "make": "kia",
-      "model": "PV5 Basic",
-      "count": 2,
-      "file": "inventory/new-kia-pv5-basic.json",
-      "models": [
-        {
-          "model": "PV5 Basic",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "kia",
       "model": "Sorento",
       "shard": "part1",
       "count": 28,
@@ -774,12 +761,12 @@
       "make": "kia",
       "model": "EV9",
       "shard": "Kootenays",
-      "count": 2,
+      "count": 1,
       "file": "inventory/new-kia-ev9-kootenays.json",
       "models": [
         {
           "model": "EV9",
-          "count": 2
+          "count": 1
         }
       ]
     },
@@ -857,12 +844,12 @@
       "condition": "new",
       "make": "kia",
       "model": "EV5",
-      "count": 34,
+      "count": 33,
       "file": "inventory/new-kia-ev5.json",
       "models": [
         {
           "model": "EV5",
-          "count": 34
+          "count": 33
         }
       ]
     },
@@ -875,6 +862,19 @@
       "models": [
         {
           "model": "PV5 Cargo Plus",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "kia",
+      "model": "PV5 Basic",
+      "count": 1,
+      "file": "inventory/new-kia-pv5-basic.json",
+      "models": [
+        {
+          "model": "PV5 Basic",
           "count": 1
         }
       ]

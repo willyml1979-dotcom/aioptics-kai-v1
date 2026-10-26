@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T00:20:52+00:00",
+  "generated_at": "2026-10-26T06:20:54+00:00",
   "condition": "used",
   "make": "mitsubishi",
   "files": [
@@ -91,62 +91,6 @@
     {
       "condition": "used",
       "make": "mitsubishi",
-      "model": "Mirage",
-      "shard": "Lower Mainland",
-      "count": 22,
-      "file": "inventory/used-mitsubishi-mirage-lower-mainland.json",
-      "models": [
-        {
-          "model": "Mirage",
-          "count": 22
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mitsubishi",
-      "model": "Mirage",
-      "shard": "Okanagan",
-      "count": 3,
-      "file": "inventory/used-mitsubishi-mirage-okanagan.json",
-      "models": [
-        {
-          "model": "Mirage",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mitsubishi",
-      "model": "Mirage",
-      "shard": "Vancouver Island",
-      "count": 6,
-      "file": "inventory/used-mitsubishi-mirage-vancouver-island.json",
-      "models": [
-        {
-          "model": "Mirage",
-          "count": 6
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mitsubishi",
-      "model": "Mirage",
-      "shard": "sin-region",
-      "count": 3,
-      "file": "inventory/used-mitsubishi-mirage-sin-region.json",
-      "models": [
-        {
-          "model": "Mirage",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mitsubishi",
       "model": "Outlander",
       "shard": "part1",
       "count": 28,
@@ -225,14 +169,70 @@
     {
       "condition": "used",
       "make": "mitsubishi",
+      "model": "Mirage",
+      "shard": "Lower Mainland",
+      "count": 22,
+      "file": "inventory/used-mitsubishi-mirage-lower-mainland.json",
+      "models": [
+        {
+          "model": "Mirage",
+          "count": 22
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "Mirage",
+      "shard": "Okanagan",
+      "count": 3,
+      "file": "inventory/used-mitsubishi-mirage-okanagan.json",
+      "models": [
+        {
+          "model": "Mirage",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "Mirage",
+      "shard": "Vancouver Island",
+      "count": 6,
+      "file": "inventory/used-mitsubishi-mirage-vancouver-island.json",
+      "models": [
+        {
+          "model": "Mirage",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "Mirage",
+      "shard": "sin-region",
+      "count": 3,
+      "file": "inventory/used-mitsubishi-mirage-sin-region.json",
+      "models": [
+        {
+          "model": "Mirage",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
       "model": "Eclipse Cross",
       "shard": "Lower Mainland",
-      "count": 24,
+      "count": 23,
       "file": "inventory/used-mitsubishi-eclipse-cross-lower-mainland.json",
       "models": [
         {
           "model": "Eclipse Cross",
-          "count": 24
+          "count": 23
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T00:20:52+00:00",
+  "generated_at": "2026-10-26T06:20:54+00:00",
   "condition": "used",
   "make": "jaguar",
   "files": [
@@ -20,12 +20,12 @@
       "condition": "used",
       "make": "jaguar",
       "model": "F-Pace",
-      "count": 18,
+      "count": 15,
       "file": "inventory/used-jaguar-f-pace.json",
       "models": [
         {
           "model": "F-PACE",
-          "count": 16
+          "count": 13
         },
         {
           "model": "F-Pace",
@@ -80,12 +80,12 @@
       "condition": "used",
       "make": "jaguar",
       "model": "I-PACE",
-      "count": 28,
+      "count": 27,
       "file": "inventory/used-jaguar-i-pace.json",
       "models": [
         {
           "model": "I-PACE",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -131,13 +131,13 @@
     {
       "condition": "used",
       "make": "jaguar",
-      "model": "F-Type Coupe P380 R-Dynamic AWD",
-      "count": 2,
-      "file": "inventory/used-jaguar-f-type-coupe-p380-r-dynamic-awd.json",
+      "model": "F-PACE P575 SVR 575 Edition Auto",
+      "count": 3,
+      "file": "inventory/used-jaguar-f-pace-p575-svr-575-edition-auto.json",
       "models": [
         {
-          "model": "F-Type Coupe P380 R-Dynamic AWD",
-          "count": 2
+          "model": "F-PACE P575 SVR 575 Edition Auto",
+          "count": 3
         }
       ]
     },
@@ -150,6 +150,19 @@
       "models": [
         {
           "model": "F-Type Coupe P575 R75 AWD",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jaguar",
+      "model": "F-Type Coupe P380 R-Dynamic AWD",
+      "count": 1,
+      "file": "inventory/used-jaguar-f-type-coupe-p380-r-dynamic-awd.json",
+      "models": [
+        {
+          "model": "F-Type Coupe P380 R-Dynamic AWD",
           "count": 1
         }
       ]
