@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T06:20:54+00:00",
+  "generated_at": "2026-10-26T12:20:55+00:00",
   "condition": "new",
   "make": "jeep",
   "files": [
@@ -34,12 +34,48 @@
       "make": "jeep",
       "model": "Compass",
       "shard": "part1",
-      "count": 27,
+      "count": 31,
       "file": "inventory/new-jeep-compass-part1.json",
       "models": [
         {
           "model": "COMPASS",
           "count": 6
+        },
+        {
+          "model": "Compass",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Compass",
+      "shard": "part2",
+      "count": 31,
+      "file": "inventory/new-jeep-compass-part2.json",
+      "models": [
+        {
+          "model": "COMPASS",
+          "count": 1
+        },
+        {
+          "model": "Compass",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Compass",
+      "shard": "part3",
+      "count": 31,
+      "file": "inventory/new-jeep-compass-part3.json",
+      "models": [
+        {
+          "model": "COMPASS",
+          "count": 10
         },
         {
           "model": "Compass",
@@ -51,49 +87,17 @@
       "condition": "new",
       "make": "jeep",
       "model": "Compass",
-      "shard": "part2",
-      "count": 27,
-      "file": "inventory/new-jeep-compass-part2.json",
-      "models": [
-        {
-          "model": "Compass",
-          "count": 27
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "jeep",
-      "model": "Compass",
-      "shard": "part3",
-      "count": 27,
-      "file": "inventory/new-jeep-compass-part3.json",
-      "models": [
-        {
-          "model": "COMPASS",
-          "count": 7
-        },
-        {
-          "model": "Compass",
-          "count": 20
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "jeep",
-      "model": "Compass",
       "shard": "part4",
-      "count": 27,
+      "count": 31,
       "file": "inventory/new-jeep-compass-part4.json",
       "models": [
         {
           "model": "COMPASS",
-          "count": 5
+          "count": 1
         },
         {
           "model": "Compass",
-          "count": 22
+          "count": 30
         }
       ]
     },
@@ -102,12 +106,12 @@
       "make": "jeep",
       "model": "Compass",
       "shard": "part5",
-      "count": 27,
+      "count": 31,
       "file": "inventory/new-jeep-compass-part5.json",
       "models": [
         {
           "model": "Compass",
-          "count": 27
+          "count": 31
         }
       ]
     },
@@ -116,26 +120,12 @@
       "make": "jeep",
       "model": "Compass",
       "shard": "part6",
-      "count": 27,
+      "count": 31,
       "file": "inventory/new-jeep-compass-part6.json",
       "models": [
         {
           "model": "Compass",
-          "count": 27
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "jeep",
-      "model": "Compass",
-      "shard": "part7",
-      "count": 26,
-      "file": "inventory/new-jeep-compass-part7.json",
-      "models": [
-        {
-          "model": "Compass",
-          "count": 26
+          "count": 31
         }
       ]
     },
@@ -175,11 +165,11 @@
       "models": [
         {
           "model": "CHEROKEE",
-          "count": 4
+          "count": 3
         },
         {
           "model": "Cherokee",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -313,11 +303,11 @@
       "models": [
         {
           "model": "CHEROKEE",
-          "count": 1
+          "count": 2
         },
         {
           "model": "Cherokee",
-          "count": 25
+          "count": 24
         }
       ]
     },
@@ -572,6 +562,74 @@
     {
       "condition": "new",
       "make": "jeep",
+      "model": "GRAND CHEROKEE",
+      "shard": "part1",
+      "count": 26,
+      "file": "inventory/new-jeep-grand-cherokee-part1.json",
+      "models": [
+        {
+          "model": "GRAND CHEROKEE",
+          "count": 1
+        },
+        {
+          "model": "Grand Cherokee",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "GRAND CHEROKEE",
+      "shard": "part2",
+      "count": 26,
+      "file": "inventory/new-jeep-grand-cherokee-part2.json",
+      "models": [
+        {
+          "model": "GRAND CHEROKEE",
+          "count": 1
+        },
+        {
+          "model": "Grand Cherokee",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "GRAND CHEROKEE",
+      "shard": "part3",
+      "count": 26,
+      "file": "inventory/new-jeep-grand-cherokee-part3.json",
+      "models": [
+        {
+          "model": "Grand Cherokee",
+          "count": 26
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "GRAND CHEROKEE",
+      "shard": "part4",
+      "count": 23,
+      "file": "inventory/new-jeep-grand-cherokee-part4.json",
+      "models": [
+        {
+          "model": "GRAND CHEROKEE",
+          "count": 1
+        },
+        {
+          "model": "Grand Cherokee",
+          "count": 22
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
       "model": "Grand Cherokee L Laredo 4x4",
       "count": 8,
       "file": "inventory/new-jeep-grand-cherokee-l-laredo-4x4.json",
@@ -611,70 +669,6 @@
         {
           "model": "Grand Cherokee L",
           "count": 29
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "jeep",
-      "model": "Grand Cherokee",
-      "shard": "part1",
-      "count": 25,
-      "file": "inventory/new-jeep-grand-cherokee-part1.json",
-      "models": [
-        {
-          "model": "Grand Cherokee",
-          "count": 25
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "jeep",
-      "model": "Grand Cherokee",
-      "shard": "part2",
-      "count": 25,
-      "file": "inventory/new-jeep-grand-cherokee-part2.json",
-      "models": [
-        {
-          "model": "GRAND CHEROKEE",
-          "count": 1
-        },
-        {
-          "model": "Grand Cherokee",
-          "count": 24
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "jeep",
-      "model": "Grand Cherokee",
-      "shard": "part3",
-      "count": 25,
-      "file": "inventory/new-jeep-grand-cherokee-part3.json",
-      "models": [
-        {
-          "model": "Grand Cherokee",
-          "count": 25
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "jeep",
-      "model": "Grand Cherokee",
-      "shard": "part4",
-      "count": 25,
-      "file": "inventory/new-jeep-grand-cherokee-part4.json",
-      "models": [
-        {
-          "model": "GRAND CHEROKEE",
-          "count": 1
-        },
-        {
-          "model": "Grand Cherokee",
-          "count": 24
         }
       ]
     },

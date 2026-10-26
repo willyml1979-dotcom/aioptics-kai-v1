@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T06:20:54+00:00",
+  "generated_at": "2026-10-26T12:20:55+00:00",
   "condition": "used",
   "make": "hyundai",
   "files": [
@@ -260,12 +260,12 @@
       "make": "hyundai",
       "model": "Santa Fe",
       "shard": "part9",
-      "count": 25,
+      "count": 26,
       "file": "inventory/used-hyundai-santa-fe-part9.json",
       "models": [
         {
           "model": "Santa Fe",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -569,19 +569,6 @@
     {
       "condition": "used",
       "make": "hyundai",
-      "model": "Genesis",
-      "count": 4,
-      "file": "inventory/used-hyundai-genesis.json",
-      "models": [
-        {
-          "model": "Genesis",
-          "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "hyundai",
       "model": "Ioniq",
       "count": 21,
       "file": "inventory/used-hyundai-ioniq.json",
@@ -589,6 +576,19 @@
         {
           "model": "Ioniq",
           "count": 21
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "hyundai",
+      "model": "Genesis",
+      "count": 4,
+      "file": "inventory/used-hyundai-genesis.json",
+      "models": [
+        {
+          "model": "Genesis",
+          "count": 4
         }
       ]
     },

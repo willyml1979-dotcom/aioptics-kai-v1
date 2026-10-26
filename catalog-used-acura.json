@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T06:20:54+00:00",
+  "generated_at": "2026-10-26T12:20:55+00:00",
   "condition": "used",
   "make": "acura",
   "files": [
@@ -147,12 +147,12 @@
       "make": "acura",
       "model": "RDX",
       "shard": "part7",
-      "count": 25,
+      "count": 27,
       "file": "inventory/used-acura-rdx-part7.json",
       "models": [
         {
           "model": "RDX",
-          "count": 25
+          "count": 27
         }
       ]
     },
@@ -297,12 +297,27 @@
       "condition": "used",
       "make": "acura",
       "model": "TLX",
+      "shard": "Lower Mainland",
       "count": 31,
-      "file": "inventory/used-acura-tlx.json",
+      "file": "inventory/used-acura-tlx-lower-mainland.json",
       "models": [
         {
           "model": "TLX",
           "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "acura",
+      "model": "TLX",
+      "shard": "sin-region",
+      "count": 5,
+      "file": "inventory/used-acura-tlx-sin-region.json",
+      "models": [
+        {
+          "model": "TLX",
+          "count": 5
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T06:20:54+00:00",
+  "generated_at": "2026-10-26T12:20:55+00:00",
   "condition": "used",
   "make": "kia",
   "files": [
@@ -106,12 +106,12 @@
       "make": "kia",
       "model": "Seltos",
       "shard": "part6",
-      "count": 29,
+      "count": 28,
       "file": "inventory/used-kia-seltos-part6.json",
       "models": [
         {
           "model": "Seltos",
-          "count": 29
+          "count": 28
         }
       ]
     },
@@ -357,12 +357,12 @@
       "make": "kia",
       "model": "Soul",
       "shard": "sin-region",
-      "count": 30,
+      "count": 29,
       "file": "inventory/used-kia-soul-sin-region.json",
       "models": [
         {
           "model": "Soul",
-          "count": 30
+          "count": 29
         }
       ]
     },
@@ -426,12 +426,12 @@
       "condition": "used",
       "make": "kia",
       "model": "Optima",
-      "count": 5,
+      "count": 6,
       "file": "inventory/used-kia-optima.json",
       "models": [
         {
           "model": "Optima",
-          "count": 5
+          "count": 6
         }
       ]
     },
@@ -808,19 +808,6 @@
     {
       "condition": "used",
       "make": "kia",
-      "model": "Optima Sedan EX",
-      "count": 2,
-      "file": "inventory/used-kia-optima-sedan-ex.json",
-      "models": [
-        {
-          "model": "Optima Sedan EX",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "kia",
       "model": "SedonaLX Passenger",
       "count": 2,
       "file": "inventory/used-kia-sedonalx-passenger.json",
@@ -840,6 +827,19 @@
       "models": [
         {
           "model": "Rondo EX",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "kia",
+      "model": "Optima Sedan EX",
+      "count": 1,
+      "file": "inventory/used-kia-optima-sedan-ex.json",
+      "models": [
+        {
+          "model": "Optima Sedan EX",
           "count": 1
         }
       ]

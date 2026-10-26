@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T06:20:54+00:00",
+  "generated_at": "2026-10-26T12:20:55+00:00",
   "condition": "used",
   "make": "lexus",
   "files": [
@@ -144,6 +144,19 @@
     {
       "condition": "used",
       "make": "lexus",
+      "model": "IS",
+      "count": 17,
+      "file": "inventory/used-lexus-is.json",
+      "models": [
+        {
+          "model": "IS",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
       "model": "UX",
       "count": 8,
       "file": "inventory/used-lexus-ux.json",
@@ -177,19 +190,6 @@
         {
           "model": "IS 300 AWD F SPORT 2",
           "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "lexus",
-      "model": "IS",
-      "count": 17,
-      "file": "inventory/used-lexus-is.json",
-      "models": [
-        {
-          "model": "IS",
-          "count": 17
         }
       ]
     },
@@ -379,27 +379,12 @@
       "condition": "used",
       "make": "lexus",
       "model": "GX",
-      "shard": "Lower Mainland",
-      "count": 33,
-      "file": "inventory/used-lexus-gx-lower-mainland.json",
+      "count": 30,
+      "file": "inventory/used-lexus-gx.json",
       "models": [
         {
           "model": "GX",
-          "count": 33
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "lexus",
-      "model": "GX",
-      "shard": "sin-region",
-      "count": 3,
-      "file": "inventory/used-lexus-gx-sin-region.json",
-      "models": [
-        {
-          "model": "GX",
-          "count": 3
+          "count": 30
         }
       ]
     },
