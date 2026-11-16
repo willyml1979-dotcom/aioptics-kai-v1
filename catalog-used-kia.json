@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T12:20:55+00:00",
+  "generated_at": "2026-11-16T21:50:07+00:00",
   "condition": "used",
   "make": "kia",
   "files": [
@@ -8,12 +8,12 @@
       "make": "kia",
       "model": "Rio",
       "shard": "part1",
-      "count": 33,
+      "count": 22,
       "file": "inventory/used-kia-rio-part1.json",
       "models": [
         {
           "model": "Rio",
-          "count": 33
+          "count": 22
         }
       ]
     },
@@ -22,12 +22,26 @@
       "make": "kia",
       "model": "Rio",
       "shard": "part2",
-      "count": 33,
+      "count": 22,
       "file": "inventory/used-kia-rio-part2.json",
       "models": [
         {
           "model": "Rio",
-          "count": 33
+          "count": 22
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "kia",
+      "model": "Rio",
+      "shard": "part3",
+      "count": 22,
+      "file": "inventory/used-kia-rio-part3.json",
+      "models": [
+        {
+          "model": "Rio",
+          "count": 22
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T12:20:55+00:00",
+  "generated_at": "2026-11-16T21:50:07+00:00",
   "condition": "used",
   "make": "bmw",
   "files": [
@@ -187,12 +187,12 @@
       "make": "bmw",
       "model": "X1",
       "shard": "part4",
-      "count": 25,
+      "count": 23,
       "file": "inventory/used-bmw-x1-part4.json",
       "models": [
         {
           "model": "X1",
-          "count": 25
+          "count": 23
         }
       ]
     },
@@ -255,12 +255,12 @@
       "condition": "used",
       "make": "bmw",
       "model": "X2",
-      "count": 12,
+      "count": 11,
       "file": "inventory/used-bmw-x2.json",
       "models": [
         {
           "model": "X2",
-          "count": 12
+          "count": 11
         }
       ]
     },
@@ -489,12 +489,12 @@
       "condition": "used",
       "make": "bmw",
       "model": "i4",
-      "count": 29,
+      "count": 31,
       "file": "inventory/used-bmw-i4.json",
       "models": [
         {
           "model": "i4",
-          "count": 29
+          "count": 31
         }
       ]
     },
@@ -659,6 +659,19 @@
     {
       "condition": "used",
       "make": "bmw",
+      "model": "8 Series Convertible",
+      "count": 1,
+      "file": "inventory/used-bmw-8-series-convertible.json",
+      "models": [
+        {
+          "model": "8 Series Convertible",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "bmw",
       "model": "i5",
       "count": 2,
       "file": "inventory/used-bmw-i5.json",
@@ -776,12 +789,12 @@
     {
       "condition": "used",
       "make": "bmw",
-      "model": "8 Series Convertible",
+      "model": "i4 M50 xDrive - Premium Essential Pkg, No Accidents",
       "count": 1,
-      "file": "inventory/used-bmw-8-series-convertible.json",
+      "file": "inventory/used-bmw-i4-m50-xdrive-premium-essential-pkg-no-accidents.json",
       "models": [
         {
-          "model": "8 Series Convertible",
+          "model": "i4 M50 xDrive - Premium Essential Pkg, No Accidents",
           "count": 1
         }
       ]
@@ -790,12 +803,12 @@
       "condition": "used",
       "make": "bmw",
       "model": "X5 M",
-      "count": 3,
+      "count": 2,
       "file": "inventory/used-bmw-x5-m.json",
       "models": [
         {
           "model": "X5 M",
-          "count": 3
+          "count": 2
         }
       ]
     },

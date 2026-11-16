@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T12:20:55+00:00",
+  "generated_at": "2026-11-16T21:50:07+00:00",
   "condition": "new",
   "make": "ram",
   "files": [
@@ -260,12 +260,12 @@
       "make": "ram",
       "model": "1500",
       "shard": "part19",
-      "count": 24,
+      "count": 22,
       "file": "inventory/new-ram-1500-part19.json",
       "models": [
         {
           "model": "1500",
-          "count": 24
+          "count": 22
         }
       ]
     },
@@ -286,25 +286,12 @@
       "condition": "new",
       "make": "ram",
       "model": "2500 Tradesman 4x2 Reg Cab 8' Box",
-      "count": 11,
+      "count": 12,
       "file": "inventory/new-ram-2500-tradesman-4x2-reg-cab-8-box.json",
       "models": [
         {
           "model": "2500 Tradesman 4x2 Reg Cab 8' Box",
-          "count": 11
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "ram",
-      "model": "3500 Tradesman 4x2 Reg Cab 8' Box",
-      "count": 8,
-      "file": "inventory/new-ram-3500-tradesman-4x2-reg-cab-8-box.json",
-      "models": [
-        {
-          "model": "3500 Tradesman 4x2 Reg Cab 8' Box",
-          "count": 8
+          "count": 12
         }
       ]
     },
@@ -312,12 +299,12 @@
       "condition": "new",
       "make": "ram",
       "model": "2500",
-      "count": 31,
+      "count": 32,
       "file": "inventory/new-ram-2500.json",
       "models": [
         {
           "model": "2500",
-          "count": 31
+          "count": 32
         }
       ]
     },
@@ -326,12 +313,12 @@
       "make": "ram",
       "model": "3500",
       "shard": "Kootenays",
-      "count": 13,
+      "count": 12,
       "file": "inventory/new-ram-3500-kootenays.json",
       "models": [
         {
           "model": "3500",
-          "count": 13
+          "count": 12
         }
       ]
     },
@@ -580,6 +567,19 @@
         {
           "model": "4500 Chassis Tradesman 4x2 Reg Cab 144.5\" WB",
           "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ram",
+      "model": "3500 Tradesman 4x2 Reg Cab 8' Box",
+      "count": 7,
+      "file": "inventory/new-ram-3500-tradesman-4x2-reg-cab-8-box.json",
+      "models": [
+        {
+          "model": "3500 Tradesman 4x2 Reg Cab 8' Box",
+          "count": 7
         }
       ]
     },

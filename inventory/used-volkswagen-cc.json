@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-26T12:20:55+00:00",
-  "snapshot": "2026-10-26T12:20:55+00:00",
+  "generated_at": "2026-11-16T21:50:07+00:00",
+  "snapshot": "2026-11-16T21:50:07+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "applewood-mazda-surrey-wvwrn7an5de505231",
@@ -33,6 +33,33 @@
       "city": "Surrey",
       "province": "BC",
       "dealer_name": "Applewood Mazda Surrey"
+    },
+    {
+      "pub_id": "tacoma-dodge-chrysler-jeep-ram-wvwmp7an3be729874",
+      "year": 2011,
+      "make": "Volkswagen",
+      "model": "CC",
+      "trim": "Sport",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 127440,
+      "price_cad": 0.0,
+      "price_note": null,
+      "color": "Candy White",
+      "photo_url": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/13238.jpg",
+      "dealer_id": "tacoma-dodge-chrysler-jeep-ram",
+      "vin": "WVWMP7AN3BE729874",
+      "stock": "27934A",
+      "listing_url": "https://www.tacomadodge.com/viewdetails/used/wvwmp7an3be729874/2011-volkswagen-cc-4dr-car?type=cash",
+      "dealer_url": "https://www.tacomadodge.com/viewdetails/used/wvwmp7an3be729874/2011-volkswagen-cc-4dr-car?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-26T07:17:38",
+      "snapshot": "2026-10-26T07:20:10",
+      "go_url": "https://carwhisper.ca/go/tacoma-dodge-chrysler-jeep-ram-wvwmp7an3be729874",
+      "city": null,
+      "province": "US",
+      "dealer_name": "Tacoma Dodge Chrysler Jeep Ram"
     }
   ]
 }

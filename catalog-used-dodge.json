@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T12:20:55+00:00",
+  "generated_at": "2026-11-16T21:50:07+00:00",
   "condition": "used",
   "make": "dodge",
   "files": [
@@ -276,12 +276,12 @@
       "make": "dodge",
       "model": "DURANGO",
       "shard": "sin-region",
-      "count": 23,
+      "count": 22,
       "file": "inventory/used-dodge-durango-sin-region.json",
       "models": [
         {
           "model": "Durango",
-          "count": 23
+          "count": 22
         }
       ]
     },
@@ -433,12 +433,12 @@
       "make": "dodge",
       "model": "Challenger",
       "shard": "Lower Mainland",
-      "count": 26,
+      "count": 25,
       "file": "inventory/used-dodge-challenger-lower-mainland.json",
       "models": [
         {
           "model": "Challenger",
-          "count": 26
+          "count": 25
         }
       ]
     },
@@ -746,6 +746,19 @@
       "models": [
         {
           "model": "Durango R/T",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
+      "model": "RAM Quad Cab SLT",
+      "count": 1,
+      "file": "inventory/used-dodge-ram-quad-cab-slt.json",
+      "models": [
+        {
+          "model": "RAM Quad Cab SLT",
           "count": 1
         }
       ]
