@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T09:50:32+00:00",
-  "snapshot": "2026-11-17T09:50:32+00:00",
+  "generated_at": "2026-11-17T15:50:34+00:00",
+  "snapshot": "2026-11-17T15:50:34+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 26,
+  "count": 27,
   "vehicles": [
     {
       "pub_id": "regency-lexus-2t2bbmca4t1707712",
@@ -130,7 +130,7 @@
       "listing_url": "https://www.abbotsfordnissan.com/used/2026-Lexus-RX.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2026-Lexus-RX.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-22T20:41:59",
-      "snapshot": "2026-10-26T06:56:07",
+      "snapshot": "2026-11-17T06:39:22",
       "go_url": "https://carwhisper.ca/go/abbotsford-nissan-2t2bbmca4tc110456",
       "region": "Lower Mainland",
       "city": "Abbotsford",
@@ -713,6 +713,30 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Lexus of Kelowna"
+    },
+    {
+      "pub_id": "comox-valley-toyota-2t2bbmca6sc072355",
+      "year": 2025,
+      "make": "Lexus",
+      "model": "RX",
+      "propulsion": "hybrid",
+      "propulsion_source": "description",
+      "propulsion_confidence": "medium",
+      "condition": "new",
+      "price_cad": 67549.0,
+      "price_note": null,
+      "dealer_id": "comox-valley-toyota",
+      "vin": "2T2BBMCA6SC072355",
+      "stock": 14353787,
+      "listing_url": "https://www.comoxvalleytoyota.com/used/2025-Lexus-RX.html",
+      "dealer_url": "https://www.comoxvalleytoyota.com/used/2025-Lexus-RX.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T16:50:33",
+      "snapshot": "2026-11-17T08:42:50",
+      "go_url": "https://carwhisper.ca/go/comox-valley-toyota-2t2bbmca6sc072355",
+      "region": "Vancouver Island",
+      "city": "Courtenay",
+      "province": "BC",
+      "dealer_name": "Comox Valley Toyota"
     }
   ]
 }

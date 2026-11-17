@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T09:50:32+00:00",
-  "snapshot": "2026-11-17T09:50:32+00:00",
+  "generated_at": "2026-11-17T15:50:34+00:00",
+  "snapshot": "2026-11-17T15:50:34+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "jonker-honda-jtdbt923481277087",
@@ -117,6 +117,34 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Destination Kingsway Honda Vancouver"
+    },
+    {
+      "pub_id": "openroad-toyota-richmond-vnkktud32ha082337",
+      "year": 2017,
+      "make": "Toyota",
+      "model": "Yaris",
+      "trim": "5dr HB Man LE",
+      "drivetrain": "FWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 69844,
+      "price_cad": 17799.0,
+      "price_note": null,
+      "color": "Alpine White",
+      "dealer_id": "openroad-toyota-richmond",
+      "vin": "VNKKTUD32HA082337",
+      "stock": "1UTNA82337",
+      "listing_url": "https://openroadtoyotarichmond.com/used/2017-toyota-yaris-5dr-hb-man-le/VNKKTUD32HA082337",
+      "dealer_url": "https://openroadtoyotarichmond.com/used/2017-toyota-yaris-5dr-hb-man-le/VNKKTUD32HA082337?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T06:07:55",
+      "snapshot": "2026-11-17T06:26:42",
+      "go_url": "https://carwhisper.ca/go/openroad-toyota-richmond-vnkktud32ha082337",
+      "region": "Lower Mainland",
+      "city": "Richmond",
+      "province": "BC",
+      "dealer_name": "OpenRoad Toyota - Richmond"
     },
     {
       "pub_id": "duncan-hyundai-jtdbt923081200636",

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T09:50:32+00:00",
-  "snapshot": "2026-11-17T09:50:32+00:00",
+  "generated_at": "2026-11-17T15:50:34+00:00",
+  "snapshot": "2026-11-17T15:50:34+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 12,
+  "count": 13,
   "vehicles": [
     {
       "pub_id": "bannister-gm-chilliwack-1gykpmrk2rz103472",
@@ -345,6 +345,32 @@
       "city": "Parksville",
       "province": "BC",
       "dealer_name": "Harris Oceanside Chevrolet Buick GMC Ltd."
+    },
+    {
+      "pub_id": "go-richmond-kia-1gykpmrl6rz108909",
+      "year": 2024,
+      "make": "Cadillac",
+      "model": "Lyriq",
+      "propulsion": "electric",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 26793,
+      "price_cad": 52911.0,
+      "price_note": null,
+      "color": "Blue",
+      "photo_url": "https://www.gorichmondkia.ca/wp-content/themes/convertus-achilles/achilles/assets/images/srp-placeholder/PV.jpg",
+      "dealer_id": "go-richmond-kia",
+      "vin": "1GYKPMRL6RZ108909",
+      "stock": "PB10890",
+      "listing_url": "https://www.gorichmondkia.ca/vehicles/2024/cadillac/lyriq/richmond/bc/ad13733172/?sale_class=used",
+      "dealer_url": "https://www.gorichmondkia.ca/vehicles/2024/cadillac/lyriq/richmond/bc/ad13733172/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T03:03:33",
+      "snapshot": "2026-11-17T03:10:54",
+      "go_url": "https://carwhisper.ca/go/go-richmond-kia-1gykpmrl6rz108909",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Richmond Kia"
     }
   ]
 }

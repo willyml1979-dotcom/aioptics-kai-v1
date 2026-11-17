@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T09:50:32+00:00",
-  "snapshot": "2026-11-17T09:50:32+00:00",
+  "generated_at": "2026-11-17T15:50:34+00:00",
+  "snapshot": "2026-11-17T15:50:34+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 28,
+  "count": 29,
   "vehicles": [
     {
       "pub_id": "marine-chrysler-dodge-jeep-ltd-3c6srfgp7t4199934",
@@ -728,6 +728,32 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Marine Chrysler Dodge Jeep Ltd."
+    },
+    {
+      "pub_id": "jim-pattison-chrysler-jeep-dodge-surrey-3c6srfvp2t4173289",
+      "year": 2026,
+      "make": "RAM",
+      "model": "1500",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "price_cad": 73618.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/087e16db-9fb0-43ee-a4cf-90cffe73cf83_c79e90b4-0bf8-4010-9513-f08e9568d141.jpg?promo=88b34204-f645-404b-820a-e64673e6c997_2&overlay-type=tadv",
+      "dealer_id": "jim-pattison-chrysler-jeep-dodge-surrey",
+      "vin": "3C6SRFVP2T4173289",
+      "stock": "RA3289",
+      "listing_url": "https://www.jpchrysler.com/vehicles/2026/ram/1500/surrey/bc/70071840/?sale_class=new",
+      "dealer_url": "https://www.jpchrysler.com/vehicles/2026/ram/1500/surrey/bc/70071840/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-25T19:20:59",
+      "snapshot": "2026-10-26T04:32:19",
+      "go_url": "https://carwhisper.ca/go/jim-pattison-chrysler-jeep-dodge-surrey-3c6srfvp2t4173289",
+      "region": "Lower Mainland",
+      "city": "Surrey",
+      "province": "BC",
+      "dealer_name": "Jim Pattison Chrysler Jeep Dodge - Surrey"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T09:50:32+00:00",
-  "snapshot": "2026-11-17T09:50:32+00:00",
+  "generated_at": "2026-11-17T15:50:34+00:00",
+  "snapshot": "2026-11-17T15:50:34+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 33,
   "vehicles": [
@@ -917,33 +917,32 @@
       "dealer_name": "Victoria Hyundai"
     },
     {
-      "pub_id": "island-owl-mazda-jm3kmaha4t0169840",
+      "pub_id": "courtenay-mazda-jm3kmaha6t0191838",
       "year": 2026,
       "make": "Mazda",
       "model": "CX-5",
-      "trim": "GX - AWD - HEATED SEATS - BRAKE ASSIST - CARPLAY",
+      "trim": "GX",
       "body_type": "suv",
       "drivetrain": "AWD",
-      "propulsion": "gas",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
+      "propulsion": "unknown",
+      "propulsion_source": null,
       "condition": "new",
-      "odometer_km": 79,
-      "price_cad": 37245.0,
+      "odometer_km": 4257,
+      "price_cad": 36045.0,
       "price_note": null,
       "color": "White",
-      "dealer_id": "island-owl-mazda",
-      "vin": "JM3KMAHA4T0169840",
-      "stock": "14078552",
-      "listing_url": "https://www.islandowlmazda.com/new/inventory/2026-Mazda-CX_5-id14078552.html",
-      "dealer_url": "https://www.islandowlmazda.com/new/inventory/2026-Mazda-CX_5-id14078552.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-11-16T22:24:24",
-      "snapshot": "2026-11-16T22:26:58",
-      "go_url": "https://carwhisper.ca/go/island-owl-mazda-jm3kmaha4t0169840",
+      "dealer_id": "courtenay-mazda",
+      "vin": "JM3KMAHA6T0191838",
+      "stock": "14215415",
+      "listing_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id14215415.html",
+      "dealer_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id14215415.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T08:20:38",
+      "snapshot": "2026-11-17T08:21:18",
+      "go_url": "https://carwhisper.ca/go/courtenay-mazda-jm3kmaha6t0191838",
       "region": "Vancouver Island",
-      "city": "Campbell River",
+      "city": "Courtenay",
       "province": "BC",
-      "dealer_name": "Island Owl Mazda"
+      "dealer_name": "Courtenay Mazda"
     }
   ]
 }

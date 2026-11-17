@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T09:50:32+00:00",
+  "generated_at": "2026-11-17T15:50:34+00:00",
   "condition": "used",
   "make": "mercedes-benz",
   "files": [
@@ -50,12 +50,12 @@
       "make": "mercedes-benz",
       "model": "CLA",
       "shard": "sin-region",
-      "count": 6,
+      "count": 5,
       "file": "inventory/used-mercedes-benz-cla-sin-region.json",
       "models": [
         {
           "model": "CLA",
-          "count": 6
+          "count": 5
         }
       ]
     },
@@ -64,12 +64,12 @@
       "make": "mercedes-benz",
       "model": "G63 AMG",
       "shard": "part1",
-      "count": 29,
+      "count": 25,
       "file": "inventory/used-mercedes-benz-g63-amg-part1.json",
       "models": [
         {
           "model": "G63 AMG",
-          "count": 29
+          "count": 25
         }
       ]
     },
@@ -78,12 +78,12 @@
       "make": "mercedes-benz",
       "model": "G63 AMG",
       "shard": "part2",
-      "count": 29,
+      "count": 25,
       "file": "inventory/used-mercedes-benz-g63-amg-part2.json",
       "models": [
         {
           "model": "G63 AMG",
-          "count": 29
+          "count": 25
         }
       ]
     },
@@ -92,12 +92,12 @@
       "make": "mercedes-benz",
       "model": "G63 AMG",
       "shard": "part3",
-      "count": 29,
+      "count": 25,
       "file": "inventory/used-mercedes-benz-g63-amg-part3.json",
       "models": [
         {
           "model": "G63 AMG",
-          "count": 29
+          "count": 25
         }
       ]
     },
@@ -106,12 +106,26 @@
       "make": "mercedes-benz",
       "model": "G63 AMG",
       "shard": "part4",
-      "count": 28,
+      "count": 25,
       "file": "inventory/used-mercedes-benz-g63-amg-part4.json",
       "models": [
         {
           "model": "G63 AMG",
-          "count": 28
+          "count": 25
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "G63 AMG",
+      "shard": "part5",
+      "count": 25,
+      "file": "inventory/used-mercedes-benz-g63-amg-part5.json",
+      "models": [
+        {
+          "model": "G63 AMG",
+          "count": 25
         }
       ]
     },
@@ -119,12 +133,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "C-Class",
-      "count": 19,
+      "count": 18,
       "file": "inventory/used-mercedes-benz-c-class.json",
       "models": [
         {
           "model": "C-Class",
-          "count": 19
+          "count": 18
         }
       ]
     },
@@ -145,13 +159,13 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "SL63 AMG",
-      "shard": "Lower Mainland",
-      "count": 30,
-      "file": "inventory/used-mercedes-benz-sl63-amg-lower-mainland.json",
+      "shard": "part1",
+      "count": 20,
+      "file": "inventory/used-mercedes-benz-sl63-amg-part1.json",
       "models": [
         {
           "model": "SL63 AMG",
-          "count": 30
+          "count": 20
         }
       ]
     },
@@ -159,26 +173,13 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "SL63 AMG",
-      "shard": "sin-region",
-      "count": 2,
-      "file": "inventory/used-mercedes-benz-sl63-amg-sin-region.json",
+      "shard": "part2",
+      "count": 19,
+      "file": "inventory/used-mercedes-benz-sl63-amg-part2.json",
       "models": [
         {
           "model": "SL63 AMG",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mercedes-benz",
-      "model": "B-Class",
-      "count": 12,
-      "file": "inventory/used-mercedes-benz-b-class.json",
-      "models": [
-        {
-          "model": "B-Class",
-          "count": 12
+          "count": 19
         }
       ]
     },
@@ -186,12 +187,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "M-Class",
-      "count": 10,
+      "count": 17,
       "file": "inventory/used-mercedes-benz-m-class.json",
       "models": [
         {
           "model": "M-Class",
-          "count": 10
+          "count": 17
         }
       ]
     },
@@ -238,11 +239,24 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "CL230",
-      "count": 6,
+      "count": 11,
       "file": "inventory/used-mercedes-benz-cl230.json",
       "models": [
         {
           "model": "CL230",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "B-Class",
+      "count": 6,
+      "file": "inventory/used-mercedes-benz-b-class.json",
+      "models": [
+        {
+          "model": "B-Class",
           "count": 6
         }
       ]
@@ -251,12 +265,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "E-Class",
-      "count": 6,
+      "count": 7,
       "file": "inventory/used-mercedes-benz-e-class.json",
       "models": [
         {
           "model": "E-Class",
-          "count": 6
+          "count": 7
         }
       ]
     },
@@ -264,12 +278,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "ML350",
-      "count": 13,
+      "count": 15,
       "file": "inventory/used-mercedes-benz-ml350.json",
       "models": [
         {
           "model": "ML350",
-          "count": 13
+          "count": 15
         }
       ]
     },
@@ -277,12 +291,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLA",
-      "count": 22,
+      "count": 23,
       "file": "inventory/used-mercedes-benz-gla.json",
       "models": [
         {
           "model": "GLA",
-          "count": 22
+          "count": 23
         }
       ]
     },
@@ -291,12 +305,12 @@
       "make": "mercedes-benz",
       "model": "GLA250",
       "shard": "part1",
-      "count": 30,
+      "count": 29,
       "file": "inventory/used-mercedes-benz-gla250-part1.json",
       "models": [
         {
           "model": "GLA250",
-          "count": 30
+          "count": 29
         }
       ]
     },
@@ -305,12 +319,12 @@
       "make": "mercedes-benz",
       "model": "GLA250",
       "shard": "part2",
-      "count": 30,
+      "count": 29,
       "file": "inventory/used-mercedes-benz-gla250-part2.json",
       "models": [
         {
           "model": "GLA250",
-          "count": 30
+          "count": 29
         }
       ]
     },
@@ -319,12 +333,12 @@
       "make": "mercedes-benz",
       "model": "GLA250",
       "shard": "part3",
-      "count": 30,
+      "count": 29,
       "file": "inventory/used-mercedes-benz-gla250-part3.json",
       "models": [
         {
           "model": "GLA250",
-          "count": 30
+          "count": 29
         }
       ]
     },
@@ -333,12 +347,12 @@
       "make": "mercedes-benz",
       "model": "GLA250",
       "shard": "part4",
-      "count": 30,
+      "count": 29,
       "file": "inventory/used-mercedes-benz-gla250-part4.json",
       "models": [
         {
           "model": "GLA250",
-          "count": 30
+          "count": 29
         }
       ]
     },
@@ -347,12 +361,12 @@
       "make": "mercedes-benz",
       "model": "GLA250",
       "shard": "part5",
-      "count": 29,
+      "count": 25,
       "file": "inventory/used-mercedes-benz-gla250-part5.json",
       "models": [
         {
           "model": "GLA250",
-          "count": 29
+          "count": 25
         }
       ]
     },
@@ -374,12 +388,12 @@
       "make": "mercedes-benz",
       "model": "CLA250",
       "shard": "part1",
-      "count": 24,
+      "count": 21,
       "file": "inventory/used-mercedes-benz-cla250-part1.json",
       "models": [
         {
           "model": "CLA250",
-          "count": 24
+          "count": 21
         }
       ]
     },
@@ -388,12 +402,12 @@
       "make": "mercedes-benz",
       "model": "CLA250",
       "shard": "part2",
-      "count": 23,
+      "count": 21,
       "file": "inventory/used-mercedes-benz-cla250-part2.json",
       "models": [
         {
           "model": "CLA250",
-          "count": 23
+          "count": 21
         }
       ]
     },
@@ -612,8 +626,36 @@
       "make": "mercedes-benz",
       "model": "GLC300",
       "shard": "part16",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-mercedes-benz-glc300-part16.json",
+      "models": [
+        {
+          "model": "GLC300",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "GLC300",
+      "shard": "part17",
+      "count": 29,
+      "file": "inventory/used-mercedes-benz-glc300-part17.json",
+      "models": [
+        {
+          "model": "GLC300",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "GLC300",
+      "shard": "part18",
+      "count": 28,
+      "file": "inventory/used-mercedes-benz-glc300-part18.json",
       "models": [
         {
           "model": "GLC300",
@@ -639,12 +681,12 @@
       "make": "mercedes-benz",
       "model": "C300",
       "shard": "part1",
-      "count": 25,
+      "count": 28,
       "file": "inventory/used-mercedes-benz-c300-part1.json",
       "models": [
         {
           "model": "C300",
-          "count": 25
+          "count": 28
         }
       ]
     },
@@ -653,12 +695,12 @@
       "make": "mercedes-benz",
       "model": "C300",
       "shard": "part2",
-      "count": 25,
+      "count": 28,
       "file": "inventory/used-mercedes-benz-c300-part2.json",
       "models": [
         {
           "model": "C300",
-          "count": 25
+          "count": 28
         }
       ]
     },
@@ -667,12 +709,12 @@
       "make": "mercedes-benz",
       "model": "C300",
       "shard": "part3",
-      "count": 25,
+      "count": 28,
       "file": "inventory/used-mercedes-benz-c300-part3.json",
       "models": [
         {
           "model": "C300",
-          "count": 25
+          "count": 28
         }
       ]
     },
@@ -681,12 +723,12 @@
       "make": "mercedes-benz",
       "model": "C300",
       "shard": "part4",
-      "count": 25,
+      "count": 28,
       "file": "inventory/used-mercedes-benz-c300-part4.json",
       "models": [
         {
           "model": "C300",
-          "count": 25
+          "count": 28
         }
       ]
     },
@@ -695,12 +737,12 @@
       "make": "mercedes-benz",
       "model": "C300",
       "shard": "part5",
-      "count": 21,
+      "count": 24,
       "file": "inventory/used-mercedes-benz-c300-part5.json",
       "models": [
         {
           "model": "C300",
-          "count": 21
+          "count": 24
         }
       ]
     },
@@ -708,13 +750,13 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLE400",
-      "shard": "part1",
-      "count": 19,
-      "file": "inventory/used-mercedes-benz-gle400-part1.json",
+      "shard": "Lower Mainland",
+      "count": 29,
+      "file": "inventory/used-mercedes-benz-gle400-lower-mainland.json",
       "models": [
         {
           "model": "GLE400",
-          "count": 19
+          "count": 29
         }
       ]
     },
@@ -722,13 +764,13 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLE400",
-      "shard": "part2",
-      "count": 18,
-      "file": "inventory/used-mercedes-benz-gle400-part2.json",
+      "shard": "sin-region",
+      "count": 3,
+      "file": "inventory/used-mercedes-benz-gle400-sin-region.json",
       "models": [
         {
           "model": "GLE400",
-          "count": 18
+          "count": 3
         }
       ]
     },
@@ -749,12 +791,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLE350d",
-      "count": 18,
+      "count": 25,
       "file": "inventory/used-mercedes-benz-gle350d.json",
       "models": [
         {
           "model": "GLE350d",
-          "count": 18
+          "count": 25
         }
       ]
     },
@@ -774,67 +816,25 @@
     {
       "condition": "used",
       "make": "mercedes-benz",
-      "model": "GLC",
-      "count": 27,
-      "file": "inventory/used-mercedes-benz-glc.json",
-      "models": [
-        {
-          "model": "GLC",
-          "count": 27
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mercedes-benz",
       "model": "E400",
-      "count": 6,
+      "count": 11,
       "file": "inventory/used-mercedes-benz-e400.json",
       "models": [
         {
           "model": "E400",
-          "count": 6
+          "count": 11
         }
       ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
-      "model": "GLC43 AMG",
-      "shard": "part1",
-      "count": 29,
-      "file": "inventory/used-mercedes-benz-glc43-amg-part1.json",
-      "models": [
-        {
-          "model": "GLC43 AMG",
-          "count": 29
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mercedes-benz",
-      "model": "GLC43 AMG",
-      "shard": "part2",
-      "count": 29,
-      "file": "inventory/used-mercedes-benz-glc43-amg-part2.json",
-      "models": [
-        {
-          "model": "GLC43 AMG",
-          "count": 29
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mercedes-benz",
-      "model": "GLC43 AMG",
-      "shard": "part3",
+      "model": "GLC",
       "count": 28,
-      "file": "inventory/used-mercedes-benz-glc43-amg-part3.json",
+      "file": "inventory/used-mercedes-benz-glc.json",
       "models": [
         {
-          "model": "GLC43 AMG",
+          "model": "GLC",
           "count": 28
         }
       ]
@@ -842,14 +842,70 @@
     {
       "condition": "used",
       "make": "mercedes-benz",
-      "model": "GLB250",
+      "model": "GLC43 AMG",
       "shard": "part1",
       "count": 25,
+      "file": "inventory/used-mercedes-benz-glc43-amg-part1.json",
+      "models": [
+        {
+          "model": "GLC43 AMG",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "GLC43 AMG",
+      "shard": "part2",
+      "count": 25,
+      "file": "inventory/used-mercedes-benz-glc43-amg-part2.json",
+      "models": [
+        {
+          "model": "GLC43 AMG",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "GLC43 AMG",
+      "shard": "part3",
+      "count": 25,
+      "file": "inventory/used-mercedes-benz-glc43-amg-part3.json",
+      "models": [
+        {
+          "model": "GLC43 AMG",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "GLC43 AMG",
+      "shard": "part4",
+      "count": 24,
+      "file": "inventory/used-mercedes-benz-glc43-amg-part4.json",
+      "models": [
+        {
+          "model": "GLC43 AMG",
+          "count": 24
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "GLB250",
+      "shard": "part1",
+      "count": 26,
       "file": "inventory/used-mercedes-benz-glb250-part1.json",
       "models": [
         {
           "model": "GLB250",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -858,12 +914,12 @@
       "make": "mercedes-benz",
       "model": "GLB250",
       "shard": "part2",
-      "count": 25,
+      "count": 26,
       "file": "inventory/used-mercedes-benz-glb250-part2.json",
       "models": [
         {
           "model": "GLB250",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -872,12 +928,12 @@
       "make": "mercedes-benz",
       "model": "GLB250",
       "shard": "part3",
-      "count": 25,
+      "count": 26,
       "file": "inventory/used-mercedes-benz-glb250-part3.json",
       "models": [
         {
           "model": "GLB250",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -886,12 +942,12 @@
       "make": "mercedes-benz",
       "model": "GLB250",
       "shard": "part4",
-      "count": 25,
+      "count": 26,
       "file": "inventory/used-mercedes-benz-glb250-part4.json",
       "models": [
         {
           "model": "GLB250",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -900,12 +956,26 @@
       "make": "mercedes-benz",
       "model": "GLB250",
       "shard": "part5",
-      "count": 25,
+      "count": 26,
       "file": "inventory/used-mercedes-benz-glb250-part5.json",
       "models": [
         {
           "model": "GLB250",
-          "count": 25
+          "count": 26
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "GLB250",
+      "shard": "part6",
+      "count": 26,
+      "file": "inventory/used-mercedes-benz-glb250-part6.json",
+      "models": [
+        {
+          "model": "GLB250",
+          "count": 26
         }
       ]
     },
@@ -913,12 +983,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "A220",
-      "count": 18,
+      "count": 8,
       "file": "inventory/used-mercedes-benz-a220.json",
       "models": [
         {
           "model": "A220",
-          "count": 18
+          "count": 8
         }
       ]
     },
@@ -940,12 +1010,12 @@
       "make": "mercedes-benz",
       "model": "E350",
       "shard": "part1",
-      "count": 26,
+      "count": 23,
       "file": "inventory/used-mercedes-benz-e350-part1.json",
       "models": [
         {
           "model": "E350",
-          "count": 26
+          "count": 23
         }
       ]
     },
@@ -954,12 +1024,12 @@
       "make": "mercedes-benz",
       "model": "E350",
       "shard": "part2",
-      "count": 25,
+      "count": 23,
       "file": "inventory/used-mercedes-benz-e350-part2.json",
       "models": [
         {
           "model": "E350",
-          "count": 25
+          "count": 23
         }
       ]
     },
@@ -981,12 +1051,12 @@
       "make": "mercedes-benz",
       "model": "GLS450",
       "shard": "part1",
-      "count": 26,
+      "count": 23,
       "file": "inventory/used-mercedes-benz-gls450-part1.json",
       "models": [
         {
           "model": "GLS450",
-          "count": 26
+          "count": 23
         }
       ]
     },
@@ -995,12 +1065,12 @@
       "make": "mercedes-benz",
       "model": "GLS450",
       "shard": "part2",
-      "count": 26,
+      "count": 23,
       "file": "inventory/used-mercedes-benz-gls450-part2.json",
       "models": [
         {
           "model": "GLS450",
-          "count": 26
+          "count": 23
         }
       ]
     },
@@ -1009,12 +1079,26 @@
       "make": "mercedes-benz",
       "model": "GLS450",
       "shard": "part3",
-      "count": 25,
+      "count": 23,
       "file": "inventory/used-mercedes-benz-gls450-part3.json",
       "models": [
         {
           "model": "GLS450",
-          "count": 25
+          "count": 23
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "GLS450",
+      "shard": "part4",
+      "count": 23,
+      "file": "inventory/used-mercedes-benz-gls450-part4.json",
+      "models": [
+        {
+          "model": "GLS450",
+          "count": 23
         }
       ]
     },
@@ -1048,12 +1132,25 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "Sprinter Gas 2500 Cargo",
-      "count": 18,
+      "count": 8,
       "file": "inventory/used-mercedes-benz-sprinter-gas-2500-cargo.json",
       "models": [
         {
           "model": "Sprinter Gas 2500 Cargo",
-          "count": 18
+          "count": 8
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "Metris Cargo",
+      "count": 1,
+      "file": "inventory/used-mercedes-benz-metris-cargo.json",
+      "models": [
+        {
+          "model": "Metris Cargo",
+          "count": 1
         }
       ]
     },
@@ -1074,13 +1171,13 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLC350e",
-      "shard": "part1",
-      "count": 19,
-      "file": "inventory/used-mercedes-benz-glc350e-part1.json",
+      "shard": "Lower Mainland",
+      "count": 29,
+      "file": "inventory/used-mercedes-benz-glc350e-lower-mainland.json",
       "models": [
         {
           "model": "GLC350e",
-          "count": 19
+          "count": 29
         }
       ]
     },
@@ -1088,13 +1185,13 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLC350e",
-      "shard": "part2",
-      "count": 18,
-      "file": "inventory/used-mercedes-benz-glc350e-part2.json",
+      "shard": "sin-region",
+      "count": 3,
+      "file": "inventory/used-mercedes-benz-glc350e-sin-region.json",
       "models": [
         {
           "model": "GLC350e",
-          "count": 18
+          "count": 3
         }
       ]
     },
@@ -1103,12 +1200,12 @@
       "make": "mercedes-benz",
       "model": "C43 AMG",
       "shard": "part1",
-      "count": 30,
+      "count": 27,
       "file": "inventory/used-mercedes-benz-c43-amg-part1.json",
       "models": [
         {
           "model": "C43 AMG",
-          "count": 30
+          "count": 27
         }
       ]
     },
@@ -1117,12 +1214,12 @@
       "make": "mercedes-benz",
       "model": "C43 AMG",
       "shard": "part2",
-      "count": 30,
+      "count": 27,
       "file": "inventory/used-mercedes-benz-c43-amg-part2.json",
       "models": [
         {
           "model": "C43 AMG",
-          "count": 30
+          "count": 27
         }
       ]
     },
@@ -1131,12 +1228,12 @@
       "make": "mercedes-benz",
       "model": "C43 AMG",
       "shard": "part3",
-      "count": 29,
+      "count": 25,
       "file": "inventory/used-mercedes-benz-c43-amg-part3.json",
       "models": [
         {
           "model": "C43 AMG",
-          "count": 29
+          "count": 25
         }
       ]
     },
@@ -1144,12 +1241,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLE43 AMG",
-      "count": 9,
+      "count": 4,
       "file": "inventory/used-mercedes-benz-gle43-amg.json",
       "models": [
         {
           "model": "GLE43 AMG",
-          "count": 9
+          "count": 4
         }
       ]
     },
@@ -1157,12 +1254,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "Sprinter V6 2500 Cargo 170",
-      "count": 18,
+      "count": 25,
       "file": "inventory/used-mercedes-benz-sprinter-v6-2500-cargo-170.json",
       "models": [
         {
           "model": "Sprinter V6 2500 Cargo 170",
-          "count": 18
+          "count": 25
         }
       ]
     },
@@ -1279,12 +1376,12 @@
       "make": "mercedes-benz",
       "model": "GLE350",
       "shard": "part5",
-      "count": 24,
+      "count": 21,
       "file": "inventory/used-mercedes-benz-gle350-part5.json",
       "models": [
         {
           "model": "GLE350",
-          "count": 24
+          "count": 21
         }
       ]
     },
@@ -1318,12 +1415,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLE",
-      "count": 15,
+      "count": 22,
       "file": "inventory/used-mercedes-benz-gle.json",
       "models": [
         {
           "model": "GLE",
-          "count": 15
+          "count": 22
         }
       ]
     },
@@ -1357,12 +1454,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLA45 AMG",
-      "count": 6,
+      "count": 12,
       "file": "inventory/used-mercedes-benz-gla45-amg.json",
       "models": [
         {
           "model": "GLA45 AMG",
-          "count": 6
+          "count": 12
         }
       ]
     },
@@ -1421,42 +1518,14 @@
     {
       "condition": "used",
       "make": "mercedes-benz",
-      "model": "Sprinter Cargo",
-      "shard": "part1",
-      "count": 19,
-      "file": "inventory/used-mercedes-benz-sprinter-cargo-part1.json",
-      "models": [
-        {
-          "model": "Sprinter Cargo",
-          "count": 19
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mercedes-benz",
-      "model": "Sprinter Cargo",
-      "shard": "part2",
-      "count": 19,
-      "file": "inventory/used-mercedes-benz-sprinter-cargo-part2.json",
-      "models": [
-        {
-          "model": "Sprinter Cargo",
-          "count": 19
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mercedes-benz",
       "model": "GLE450",
       "shard": "part1",
-      "count": 26,
+      "count": 28,
       "file": "inventory/used-mercedes-benz-gle450-part1.json",
       "models": [
         {
           "model": "GLE450",
-          "count": 26
+          "count": 28
         }
       ]
     },
@@ -1465,12 +1534,12 @@
       "make": "mercedes-benz",
       "model": "GLE450",
       "shard": "part2",
-      "count": 26,
+      "count": 28,
       "file": "inventory/used-mercedes-benz-gle450-part2.json",
       "models": [
         {
           "model": "GLE450",
-          "count": 26
+          "count": 28
         }
       ]
     },
@@ -1479,12 +1548,12 @@
       "make": "mercedes-benz",
       "model": "GLE450",
       "shard": "part3",
-      "count": 26,
+      "count": 28,
       "file": "inventory/used-mercedes-benz-gle450-part3.json",
       "models": [
         {
           "model": "GLE450",
-          "count": 26
+          "count": 28
         }
       ]
     },
@@ -1493,12 +1562,12 @@
       "make": "mercedes-benz",
       "model": "GLE450",
       "shard": "part4",
-      "count": 26,
+      "count": 28,
       "file": "inventory/used-mercedes-benz-gle450-part4.json",
       "models": [
         {
           "model": "GLE450",
-          "count": 26
+          "count": 28
         }
       ]
     },
@@ -1507,26 +1576,54 @@
       "make": "mercedes-benz",
       "model": "GLE450",
       "shard": "part5",
-      "count": 26,
+      "count": 28,
       "file": "inventory/used-mercedes-benz-gle450-part5.json",
       "models": [
         {
           "model": "GLE450",
-          "count": 26
+          "count": 28
         }
       ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
-      "model": "GLE450",
-      "shard": "part6",
-      "count": 23,
-      "file": "inventory/used-mercedes-benz-gle450-part6.json",
+      "model": "Sprinter Cargo",
+      "shard": "Lower Mainland",
+      "count": 28,
+      "file": "inventory/used-mercedes-benz-sprinter-cargo-lower-mainland.json",
       "models": [
         {
-          "model": "GLE450",
-          "count": 23
+          "model": "Sprinter Cargo",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "Sprinter Cargo",
+      "shard": "Vancouver Island",
+      "count": 3,
+      "file": "inventory/used-mercedes-benz-sprinter-cargo-vancouver-island.json",
+      "models": [
+        {
+          "model": "Sprinter Cargo",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "Sprinter Cargo",
+      "shard": "sin-region",
+      "count": 3,
+      "file": "inventory/used-mercedes-benz-sprinter-cargo-sin-region.json",
+      "models": [
+        {
+          "model": "Sprinter Cargo",
+          "count": 3
         }
       ]
     },
@@ -1548,12 +1645,12 @@
       "make": "mercedes-benz",
       "model": "E450",
       "shard": "part1",
-      "count": 17,
+      "count": 19,
       "file": "inventory/used-mercedes-benz-e450-part1.json",
       "models": [
         {
           "model": "E450",
-          "count": 17
+          "count": 19
         }
       ]
     },
@@ -1562,12 +1659,12 @@
       "make": "mercedes-benz",
       "model": "E450",
       "shard": "part2",
-      "count": 16,
+      "count": 19,
       "file": "inventory/used-mercedes-benz-e450-part2.json",
       "models": [
         {
           "model": "E450",
-          "count": 16
+          "count": 19
         }
       ]
     },
@@ -1575,12 +1672,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "EQB 250",
-      "count": 9,
+      "count": 4,
       "file": "inventory/used-mercedes-benz-eqb-250.json",
       "models": [
         {
           "model": "EQB 250",
-          "count": 9
+          "count": 4
         }
       ]
     },
@@ -1614,12 +1711,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "CLS",
-      "count": 15,
+      "count": 14,
       "file": "inventory/used-mercedes-benz-cls.json",
       "models": [
         {
           "model": "CLS",
-          "count": 15
+          "count": 14
         }
       ]
     },
@@ -1628,12 +1725,12 @@
       "make": "mercedes-benz",
       "model": "EQB300",
       "shard": "part1",
-      "count": 25,
+      "count": 22,
       "file": "inventory/used-mercedes-benz-eqb300-part1.json",
       "models": [
         {
           "model": "EQB300",
-          "count": 25
+          "count": 22
         }
       ]
     },
@@ -1642,12 +1739,12 @@
       "make": "mercedes-benz",
       "model": "EQB300",
       "shard": "part2",
-      "count": 25,
+      "count": 22,
       "file": "inventory/used-mercedes-benz-eqb300-part2.json",
       "models": [
         {
           "model": "EQB300",
-          "count": 25
+          "count": 22
         }
       ]
     },
@@ -1656,12 +1753,12 @@
       "make": "mercedes-benz",
       "model": "EQB300",
       "shard": "part3",
-      "count": 24,
+      "count": 20,
       "file": "inventory/used-mercedes-benz-eqb300-part3.json",
       "models": [
         {
           "model": "EQB300",
-          "count": 24
+          "count": 20
         }
       ]
     },
@@ -1669,12 +1766,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "EQE500",
-      "count": 9,
+      "count": 4,
       "file": "inventory/used-mercedes-benz-eqe500.json",
       "models": [
         {
           "model": "EQE500",
-          "count": 9
+          "count": 4
         }
       ]
     },
@@ -1682,13 +1779,13 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLE53",
-      "shard": "part1",
-      "count": 18,
-      "file": "inventory/used-mercedes-benz-gle53-part1.json",
+      "shard": "Lower Mainland",
+      "count": 30,
+      "file": "inventory/used-mercedes-benz-gle53-lower-mainland.json",
       "models": [
         {
           "model": "GLE53",
-          "count": 18
+          "count": 30
         }
       ]
     },
@@ -1696,13 +1793,13 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLE53",
-      "shard": "part2",
-      "count": 18,
-      "file": "inventory/used-mercedes-benz-gle53-part2.json",
+      "shard": "sin-region",
+      "count": 3,
+      "file": "inventory/used-mercedes-benz-gle53-sin-region.json",
       "models": [
         {
           "model": "GLE53",
-          "count": 18
+          "count": 3
         }
       ]
     },
@@ -1723,12 +1820,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "EQE350",
-      "count": 12,
+      "count": 22,
       "file": "inventory/used-mercedes-benz-eqe350.json",
       "models": [
         {
           "model": "EQE350",
-          "count": 12
+          "count": 22
         }
       ]
     },
@@ -1762,9 +1859,8 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "S63 AMG",
-      "shard": "Lower Mainland",
       "count": 29,
-      "file": "inventory/used-mercedes-benz-s63-amg-lower-mainland.json",
+      "file": "inventory/used-mercedes-benz-s63-amg.json",
       "models": [
         {
           "model": "S63 AMG",
@@ -1775,27 +1871,13 @@
     {
       "condition": "used",
       "make": "mercedes-benz",
-      "model": "S63 AMG",
-      "shard": "sin-region",
-      "count": 2,
-      "file": "inventory/used-mercedes-benz-s63-amg-sin-region.json",
-      "models": [
-        {
-          "model": "S63 AMG",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mercedes-benz",
       "model": "Metris Passenger",
-      "count": 4,
+      "count": 11,
       "file": "inventory/used-mercedes-benz-metris-passenger.json",
       "models": [
         {
           "model": "Metris Passenger",
-          "count": 4
+          "count": 11
         }
       ]
     },
@@ -1803,12 +1885,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "CLE300",
-      "count": 20,
+      "count": 25,
       "file": "inventory/used-mercedes-benz-cle300.json",
       "models": [
         {
           "model": "CLE300",
-          "count": 20
+          "count": 25
         }
       ]
     },
@@ -1829,12 +1911,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLE450e",
-      "count": 19,
+      "count": 26,
       "file": "inventory/used-mercedes-benz-gle450e.json",
       "models": [
         {
           "model": "GLE450e",
-          "count": 19
+          "count": 26
         }
       ]
     },
@@ -1907,12 +1989,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "CLE53 AMG",
-      "count": 6,
+      "count": 11,
       "file": "inventory/used-mercedes-benz-cle53-amg.json",
       "models": [
         {
           "model": "CLE53 AMG",
-          "count": 6
+          "count": 11
         }
       ]
     },
@@ -1933,12 +2015,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLS63",
-      "count": 9,
+      "count": 4,
       "file": "inventory/used-mercedes-benz-gls63.json",
       "models": [
         {
           "model": "GLS63",
-          "count": 9
+          "count": 4
         }
       ]
     },
@@ -1946,12 +2028,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "S580",
-      "count": 7,
+      "count": 14,
       "file": "inventory/used-mercedes-benz-s580.json",
       "models": [
         {
           "model": "S580",
-          "count": 7
+          "count": 14
         }
       ]
     },
@@ -1986,12 +2068,12 @@
       "make": "mercedes-benz",
       "model": "E53e",
       "shard": "part1",
-      "count": 19,
+      "count": 24,
       "file": "inventory/used-mercedes-benz-e53e-part1.json",
       "models": [
         {
           "model": "E53e",
-          "count": 19
+          "count": 24
         }
       ]
     },
@@ -2000,12 +2082,12 @@
       "make": "mercedes-benz",
       "model": "E53e",
       "shard": "part2",
-      "count": 19,
+      "count": 24,
       "file": "inventory/used-mercedes-benz-e53e-part2.json",
       "models": [
         {
           "model": "E53e",
-          "count": 19
+          "count": 24
         }
       ]
     },
@@ -2013,12 +2095,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "AMG GT C",
-      "count": 23,
+      "count": 18,
       "file": "inventory/used-mercedes-benz-amg-gt-c.json",
       "models": [
         {
           "model": "AMG GT C",
-          "count": 23
+          "count": 18
         }
       ]
     },
@@ -2053,12 +2135,12 @@
       "make": "mercedes-benz",
       "model": "G550",
       "shard": "part1",
-      "count": 23,
+      "count": 26,
       "file": "inventory/used-mercedes-benz-g550-part1.json",
       "models": [
         {
           "model": "G550",
-          "count": 23
+          "count": 26
         }
       ]
     },
@@ -2067,12 +2149,12 @@
       "make": "mercedes-benz",
       "model": "G550",
       "shard": "part2",
-      "count": 23,
+      "count": 26,
       "file": "inventory/used-mercedes-benz-g550-part2.json",
       "models": [
         {
           "model": "G550",
-          "count": 23
+          "count": 26
         }
       ]
     },
@@ -2081,12 +2163,12 @@
       "make": "mercedes-benz",
       "model": "G550",
       "shard": "part3",
-      "count": 22,
+      "count": 26,
       "file": "inventory/used-mercedes-benz-g550-part3.json",
       "models": [
         {
           "model": "G550",
-          "count": 22
+          "count": 26
         }
       ]
     },
@@ -2094,12 +2176,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "AMG GT55",
-      "count": 6,
+      "count": 11,
       "file": "inventory/used-mercedes-benz-amg-gt55.json",
       "models": [
         {
           "model": "AMG GT55",
-          "count": 6
+          "count": 11
         }
       ]
     },
@@ -2133,12 +2215,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "G580e",
-      "count": 12,
+      "count": 22,
       "file": "inventory/used-mercedes-benz-g580e.json",
       "models": [
         {
           "model": "G580e",
-          "count": 12
+          "count": 22
         }
       ]
     },
@@ -2160,12 +2242,12 @@
       "make": "mercedes-benz",
       "model": "CLA250 4MATIC",
       "shard": "part1",
-      "count": 23,
+      "count": 20,
       "file": "inventory/used-mercedes-benz-cla250-4matic-part1.json",
       "models": [
         {
           "model": "CLA250 4MATIC",
-          "count": 23
+          "count": 20
         }
       ]
     },
@@ -2174,12 +2256,12 @@
       "make": "mercedes-benz",
       "model": "CLA250 4MATIC",
       "shard": "part2",
-      "count": 22,
+      "count": 20,
       "file": "inventory/used-mercedes-benz-cla250-4matic-part2.json",
       "models": [
         {
           "model": "CLA250 4MATIC",
-          "count": 22
+          "count": 20
         }
       ]
     },
@@ -2187,12 +2269,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "EQB300 4MATIC",
-      "count": 27,
+      "count": 28,
       "file": "inventory/used-mercedes-benz-eqb300-4matic.json",
       "models": [
         {
           "model": "EQB300 4MATIC",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -2201,12 +2283,12 @@
       "make": "mercedes-benz",
       "model": "GLC300 4MATIC",
       "shard": "part1",
-      "count": 31,
+      "count": 32,
       "file": "inventory/used-mercedes-benz-glc300-4matic-part1.json",
       "models": [
         {
           "model": "GLC300 4MATIC",
-          "count": 31
+          "count": 32
         }
       ]
     },
@@ -2215,12 +2297,12 @@
       "make": "mercedes-benz",
       "model": "GLC300 4MATIC",
       "shard": "part2",
-      "count": 31,
+      "count": 32,
       "file": "inventory/used-mercedes-benz-glc300-4matic-part2.json",
       "models": [
         {
           "model": "GLC300 4MATIC",
-          "count": 31
+          "count": 32
         }
       ]
     },
@@ -2240,34 +2322,6 @@
     {
       "condition": "used",
       "make": "mercedes-benz",
-      "model": "GLE450 4MATIC",
-      "shard": "Lower Mainland",
-      "count": 33,
-      "file": "inventory/used-mercedes-benz-gle450-4matic-lower-mainland.json",
-      "models": [
-        {
-          "model": "GLE450 4MATIC",
-          "count": 33
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mercedes-benz",
-      "model": "GLE450 4MATIC",
-      "shard": "sin-region",
-      "count": 3,
-      "file": "inventory/used-mercedes-benz-gle450-4matic-sin-region.json",
-      "models": [
-        {
-          "model": "GLE450 4MATIC",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mercedes-benz",
       "model": "GLS63 AMG 4MATIC+",
       "count": 14,
       "file": "inventory/used-mercedes-benz-gls63-amg-4matic.json",
@@ -2281,52 +2335,13 @@
     {
       "condition": "used",
       "make": "mercedes-benz",
-      "model": "CLA45 AMG 4MATIC+",
-      "count": 9,
-      "file": "inventory/used-mercedes-benz-cla45-amg-4matic.json",
-      "models": [
-        {
-          "model": "CLA45 AMG 4MATIC+",
-          "count": 9
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mercedes-benz",
-      "model": "A250 4MATIC Hatch",
-      "count": 9,
-      "file": "inventory/used-mercedes-benz-a250-4matic-hatch.json",
-      "models": [
-        {
-          "model": "A250 4MATIC Hatch",
-          "count": 9
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mercedes-benz",
       "model": "C300 4MATIC Cabriolet",
-      "count": 20,
+      "count": 25,
       "file": "inventory/used-mercedes-benz-c300-4matic-cabriolet.json",
       "models": [
         {
           "model": "C300 4MATIC Cabriolet",
-          "count": 20
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mercedes-benz",
-      "model": "E43 AMG 4MATIC",
-      "count": 9,
-      "file": "inventory/used-mercedes-benz-e43-amg-4matic.json",
-      "models": [
-        {
-          "model": "E43 AMG 4MATIC",
-          "count": 9
+          "count": 25
         }
       ]
     },
@@ -2346,13 +2361,13 @@
     {
       "condition": "used",
       "make": "mercedes-benz",
-      "model": "GLC43 AMG 4MATIC",
-      "count": 22,
-      "file": "inventory/used-mercedes-benz-glc43-amg-4matic.json",
+      "model": "GLE450 4MATIC",
+      "count": 33,
+      "file": "inventory/used-mercedes-benz-gle450-4matic.json",
       "models": [
         {
-          "model": "GLC43 AMG 4MATIC",
-          "count": 22
+          "model": "GLE450 4MATIC",
+          "count": 33
         }
       ]
     },
@@ -2360,25 +2375,27 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLE63 S 4MATIC+",
-      "count": 32,
-      "file": "inventory/used-mercedes-benz-gle63-s-4matic.json",
+      "shard": "part1",
+      "count": 20,
+      "file": "inventory/used-mercedes-benz-gle63-s-4matic-part1.json",
       "models": [
         {
           "model": "GLE63 S 4MATIC+",
-          "count": 32
+          "count": 20
         }
       ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
-      "model": "S63 AMG 4MATIC+ Cabriolet",
-      "count": 6,
-      "file": "inventory/used-mercedes-benz-s63-amg-4matic-cabriolet.json",
+      "model": "GLE63 S 4MATIC+",
+      "shard": "part2",
+      "count": 19,
+      "file": "inventory/used-mercedes-benz-gle63-s-4matic-part2.json",
       "models": [
         {
-          "model": "S63 AMG 4MATIC+ Cabriolet",
-          "count": 6
+          "model": "GLE63 S 4MATIC+",
+          "count": 19
         }
       ]
     },
@@ -2386,12 +2403,12 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "SL63 AMG Roadster",
-      "count": 18,
+      "count": 25,
       "file": "inventory/used-mercedes-benz-sl63-amg-roadster.json",
       "models": [
         {
           "model": "SL63 AMG Roadster",
-          "count": 18
+          "count": 25
         }
       ]
     },
@@ -2425,25 +2442,77 @@
       "condition": "used",
       "make": "mercedes-benz",
       "model": "GLE53 4MATIC+",
-      "count": 18,
+      "count": 25,
       "file": "inventory/used-mercedes-benz-gle53-4matic.json",
       "models": [
         {
           "model": "GLE53 4MATIC+",
-          "count": 18
+          "count": 25
         }
       ]
     },
     {
       "condition": "used",
       "make": "mercedes-benz",
-      "model": "B250 4MATIC Sports Tourer",
-      "count": 8,
-      "file": "inventory/used-mercedes-benz-b250-4matic-sports-tourer.json",
+      "model": "C43 AMG 4MATIC",
+      "count": 11,
+      "file": "inventory/used-mercedes-benz-c43-amg-4matic.json",
       "models": [
         {
-          "model": "B250 4MATIC Sports Tourer",
-          "count": 8
+          "model": "C43 AMG 4MATIC",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "EQB350 4MATIC SUV (BEV)",
+      "count": 11,
+      "file": "inventory/used-mercedes-benz-eqb350-4matic-suv-bev.json",
+      "models": [
+        {
+          "model": "EQB350 4MATIC SUV (BEV)",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "GLA250 4MATIC",
+      "count": 31,
+      "file": "inventory/used-mercedes-benz-gla250-4matic.json",
+      "models": [
+        {
+          "model": "GLA250 4MATIC",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "GLC43 AMG 4MATIC",
+      "count": 19,
+      "file": "inventory/used-mercedes-benz-glc43-amg-4matic.json",
+      "models": [
+        {
+          "model": "GLC43 AMG 4MATIC",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "GLE450e 4MATIC",
+      "count": 12,
+      "file": "inventory/used-mercedes-benz-gle450e-4matic.json",
+      "models": [
+        {
+          "model": "GLE450e 4MATIC",
+          "count": 12
         }
       ]
     },
@@ -2502,52 +2571,13 @@
     {
       "condition": "used",
       "make": "mercedes-benz",
-      "model": "Sprinter Cargo Van 2500 Standard Roof I4 Diesel 144",
-      "count": 6,
-      "file": "inventory/used-mercedes-benz-sprinter-cargo-van-2500-standard-roof-i4-diesel-144.json",
+      "model": "A250 4MATIC Hatch",
+      "count": 4,
+      "file": "inventory/used-mercedes-benz-a250-4matic-hatch.json",
       "models": [
         {
-          "model": "Sprinter Cargo Van 2500 Standard Roof I4 Diesel 144",
-          "count": 6
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mercedes-benz",
-      "model": "C43 AMG 4MATIC",
-      "count": 6,
-      "file": "inventory/used-mercedes-benz-c43-amg-4matic.json",
-      "models": [
-        {
-          "model": "C43 AMG 4MATIC",
-          "count": 6
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mercedes-benz",
-      "model": "EQB350 4MATIC SUV (BEV)",
-      "count": 6,
-      "file": "inventory/used-mercedes-benz-eqb350-4matic-suv-bev.json",
-      "models": [
-        {
-          "model": "EQB350 4MATIC SUV (BEV)",
-          "count": 6
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mercedes-benz",
-      "model": "GLA250 4MATIC",
-      "count": 13,
-      "file": "inventory/used-mercedes-benz-gla250-4matic.json",
-      "models": [
-        {
-          "model": "GLA250 4MATIC",
-          "count": 13
+          "model": "A250 4MATIC Hatch",
+          "count": 4
         }
       ]
     },
@@ -2567,6 +2597,32 @@
     {
       "condition": "used",
       "make": "mercedes-benz",
+      "model": "CLA45 AMG 4MATIC+",
+      "count": 4,
+      "file": "inventory/used-mercedes-benz-cla45-amg-4matic.json",
+      "models": [
+        {
+          "model": "CLA45 AMG 4MATIC+",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "E43 AMG 4MATIC",
+      "count": 4,
+      "file": "inventory/used-mercedes-benz-e43-amg-4matic.json",
+      "models": [
+        {
+          "model": "E43 AMG 4MATIC",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
       "model": "EQS AMG 4MATIC+",
       "count": 1,
       "file": "inventory/used-mercedes-benz-eqs-amg-4matic.json",
@@ -2574,6 +2630,32 @@
         {
           "model": "EQS AMG 4MATIC+",
           "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "Sprinter Cargo Van 2500 Standard Roof I4 Diesel 144",
+      "count": 2,
+      "file": "inventory/used-mercedes-benz-sprinter-cargo-van-2500-standard-roof-i4-diesel-144.json",
+      "models": [
+        {
+          "model": "Sprinter Cargo Van 2500 Standard Roof I4 Diesel 144",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "S63 AMG 4MATIC+ Cabriolet",
+      "count": 3,
+      "file": "inventory/used-mercedes-benz-s63-amg-4matic-cabriolet.json",
+      "models": [
+        {
+          "model": "S63 AMG 4MATIC+ Cabriolet",
+          "count": 3
         }
       ]
     },
@@ -2593,19 +2675,6 @@
     {
       "condition": "used",
       "make": "mercedes-benz",
-      "model": "GLE450e 4MATIC",
-      "count": 5,
-      "file": "inventory/used-mercedes-benz-gle450e-4matic.json",
-      "models": [
-        {
-          "model": "GLE450e 4MATIC",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mercedes-benz",
       "model": "Metris Cargo Van 135\"",
       "count": 1,
       "file": "inventory/used-mercedes-benz-metris-cargo-van-135.json",
@@ -2613,6 +2682,19 @@
         {
           "model": "Metris Cargo Van 135\"",
           "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "B250 4MATIC Sports Tourer",
+      "count": 3,
+      "file": "inventory/used-mercedes-benz-b250-4matic-sports-tourer.json",
+      "models": [
+        {
+          "model": "B250 4MATIC Sports Tourer",
+          "count": 3
         }
       ]
     },
@@ -2892,6 +2974,19 @@
     {
       "condition": "used",
       "make": "mercedes-benz",
+      "model": "GL-Class",
+      "count": 1,
+      "file": "inventory/used-mercedes-benz-gl-class.json",
+      "models": [
+        {
+          "model": "GL-Class",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
       "model": "CLK-Class Convertible",
       "count": 1,
       "file": "inventory/used-mercedes-benz-clk-class-convertible.json",
@@ -2937,6 +3032,19 @@
       "models": [
         {
           "model": "CLA Coupe CLA 250 4MATIC Coupe",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mercedes-benz",
+      "model": "CLA Coupe CLA 250",
+      "count": 1,
+      "file": "inventory/used-mercedes-benz-cla-coupe-cla-250.json",
+      "models": [
+        {
+          "model": "CLA Coupe CLA 250",
           "count": 1
         }
       ]

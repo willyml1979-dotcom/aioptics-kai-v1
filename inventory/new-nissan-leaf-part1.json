@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T09:50:32+00:00",
-  "snapshot": "2026-11-17T09:50:32+00:00",
+  "generated_at": "2026-11-17T15:50:34+00:00",
+  "snapshot": "2026-11-17T15:50:34+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 26,
+  "count": 27,
   "vehicles": [
     {
       "pub_id": "bannister-nissan-chilliwack-jn1bz2ba6vm400146",
@@ -757,6 +757,34 @@
       "city": "Port Coquitlam",
       "province": "BC",
       "dealer_name": "Morrey Nissan of Coquitlam"
+    },
+    {
+      "pub_id": "north-vancouver-nissan-infiniti-north-vancouver-jn1az2ca1vm401795",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "LEAF",
+      "trim": "SV+",
+      "drivetrain": "FWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "odometer_km": 25,
+      "price_cad": 46335.0,
+      "price_note": null,
+      "color": "Everest White Pearl Tricoat (Black Top",
+      "photo_url": "https://img.sm360.ca/images/inventory/ca/2027/nissan/leaf/sv-plus/hatchback/exteriorColors/2026_nissan_wip_leaf_2-sv-plus_ext_001_xkj.png",
+      "dealer_id": "north-vancouver-nissan-infiniti-north-vancouver",
+      "vin": "JN1AZ2CA1VM401795",
+      "stock": "27047",
+      "listing_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/leaf/2027-nissan-leaf-id39404834",
+      "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/leaf/2027-nissan-leaf-id39404834?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-24T21:33:32",
+      "snapshot": "2026-11-16T22:22:32",
+      "go_url": "https://carwhisper.ca/go/north-vancouver-nissan-infiniti-north-vancouver-jn1az2ca1vm401795",
+      "region": "Lower Mainland",
+      "city": "North Vancouver",
+      "province": "BC",
+      "dealer_name": "North Vancouver Nissan / Infiniti North Vancouver"
     }
   ]
 }

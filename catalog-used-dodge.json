@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T09:50:32+00:00",
+  "generated_at": "2026-11-17T15:50:34+00:00",
   "condition": "used",
   "make": "dodge",
   "files": [
@@ -8,7 +8,7 @@
       "make": "dodge",
       "model": "GRAND CARAVAN",
       "shard": "part1",
-      "count": 27,
+      "count": 21,
       "file": "inventory/used-dodge-grand-caravan-part1.json",
       "models": [
         {
@@ -17,7 +17,7 @@
         },
         {
           "model": "Grand Caravan",
-          "count": 25
+          "count": 19
         }
       ]
     },
@@ -26,8 +26,22 @@
       "make": "dodge",
       "model": "GRAND CARAVAN",
       "shard": "part2",
-      "count": 27,
+      "count": 21,
       "file": "inventory/used-dodge-grand-caravan-part2.json",
+      "models": [
+        {
+          "model": "Grand Caravan",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
+      "model": "GRAND CARAVAN",
+      "shard": "part3",
+      "count": 19,
+      "file": "inventory/used-dodge-grand-caravan-part3.json",
       "models": [
         {
           "model": "GRAND CARAVAN",
@@ -35,7 +49,7 @@
         },
         {
           "model": "Grand Caravan",
-          "count": 24
+          "count": 16
         }
       ]
     },
@@ -43,12 +57,12 @@
       "condition": "used",
       "make": "dodge",
       "model": "Journey",
-      "count": 33,
+      "count": 34,
       "file": "inventory/used-dodge-journey.json",
       "models": [
         {
           "model": "Journey",
-          "count": 33
+          "count": 34
         }
       ]
     },
@@ -75,12 +89,12 @@
       "make": "dodge",
       "model": "Durango",
       "shard": "Lower Mainland",
-      "count": 18,
+      "count": 14,
       "file": "inventory/used-dodge-durango-lower-mainland.json",
       "models": [
         {
           "model": "Durango",
-          "count": 18
+          "count": 14
         }
       ]
     },
@@ -149,12 +163,12 @@
       "make": "dodge",
       "model": "Durango",
       "shard": "sin-region",
-      "count": 26,
+      "count": 24,
       "file": "inventory/used-dodge-durango-sin-region.json",
       "models": [
         {
           "model": "Durango",
-          "count": 26
+          "count": 24
         }
       ]
     },
@@ -162,7 +176,7 @@
       "condition": "used",
       "make": "dodge",
       "model": "HORNET",
-      "count": 16,
+      "count": 14,
       "file": "inventory/used-dodge-hornet.json",
       "models": [
         {
@@ -171,7 +185,7 @@
         },
         {
           "model": "Hornet",
-          "count": 12
+          "count": 10
         }
       ]
     },
@@ -293,12 +307,12 @@
       "make": "dodge",
       "model": "Challenger",
       "shard": "Lower Mainland",
-      "count": 24,
+      "count": 25,
       "file": "inventory/used-dodge-challenger-lower-mainland.json",
       "models": [
         {
           "model": "Challenger",
-          "count": 24
+          "count": 25
         }
       ]
     },
@@ -363,12 +377,12 @@
       "make": "dodge",
       "model": "Challenger",
       "shard": "sin-region",
-      "count": 8,
+      "count": 5,
       "file": "inventory/used-dodge-challenger-sin-region.json",
       "models": [
         {
           "model": "Challenger",
-          "count": 8
+          "count": 5
         }
       ]
     },
@@ -395,6 +409,32 @@
         {
           "model": "Ram 3500",
           "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
+      "model": "Durango for salein Abbotsford",
+      "count": 1,
+      "file": "inventory/used-dodge-durango-for-salein-abbotsford.json",
+      "models": [
+        {
+          "model": "Durango for salein Abbotsford",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
+      "model": "Challenger SRT Hellcat",
+      "count": 10,
+      "file": "inventory/used-dodge-challenger-srt-hellcat.json",
+      "models": [
+        {
+          "model": "Challenger SRT Hellcat",
+          "count": 10
         }
       ]
     },
@@ -447,19 +487,6 @@
         {
           "model": "Grand Caravan Passenger Van Crew Plus",
           "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "Challenger SRT Hellcat",
-      "count": 5,
-      "file": "inventory/used-dodge-challenger-srt-hellcat.json",
-      "models": [
-        {
-          "model": "Challenger SRT Hellcat",
-          "count": 5
         }
       ]
     },
@@ -609,13 +636,13 @@
     {
       "condition": "used",
       "make": "dodge",
-      "model": "otros",
-      "count": 2,
-      "file": "inventory/used-dodge-otros.json",
+      "model": "Journey for salein Spruce Grove",
+      "count": 1,
+      "file": "inventory/used-dodge-journey-for-salein-spruce-grove.json",
       "models": [
         {
-          "model": "sin-modelo",
-          "count": 2
+          "model": "Journey for salein Spruce Grove",
+          "count": 1
         }
       ]
     },
@@ -629,6 +656,19 @@
         {
           "model": "Ram 2500",
           "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
+      "model": "otros",
+      "count": 2,
+      "file": "inventory/used-dodge-otros.json",
+      "models": [
+        {
+          "model": "sin-modelo",
+          "count": 2
         }
       ]
     },
@@ -661,90 +701,12 @@
     {
       "condition": "used",
       "make": "dodge",
-      "model": "Hornet R/T Plus*DEMO*Active Driving Asst*Sunroof*",
+      "model": "Charger Scat Pack",
       "count": 1,
-      "file": "inventory/used-dodge-hornet-r-t-plus-demo-active-driving-asst-sunroof.json",
+      "file": "inventory/used-dodge-charger-scat-pack.json",
       "models": [
         {
-          "model": "Hornet R/T Plus*DEMO*Active Driving Asst*Sunroof*",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "Hornet R/T*DEMO*BlackTop Pkg*TrackPack*Activ Driving Asst",
-      "count": 1,
-      "file": "inventory/used-dodge-hornet-r-t-demo-blacktop-pkg-trackpack-activ-driving-asst.json",
-      "models": [
-        {
-          "model": "Hornet R/T*DEMO*BlackTop Pkg*TrackPack*Activ Driving Asst",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "Hornet R/T*DEMO*BlackTop Pkg*Tech Pack*Activ Driving Asst",
-      "count": 1,
-      "file": "inventory/used-dodge-hornet-r-t-demo-blacktop-pkg-tech-pack-activ-driving-asst.json",
-      "models": [
-        {
-          "model": "Hornet R/T*DEMO*BlackTop Pkg*Tech Pack*Activ Driving Asst",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "Journey WHOLESALE UNIT- NOT FOR RETAIL SALE",
-      "count": 1,
-      "file": "inventory/used-dodge-journey-wholesale-unit-not-for-retail-sale.json",
-      "models": [
-        {
-          "model": "Journey WHOLESALE UNIT- NOT FOR RETAIL SALE",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "Durango R/T",
-      "count": 1,
-      "file": "inventory/used-dodge-durango-r-t.json",
-      "models": [
-        {
-          "model": "Durango R/T",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "RAM Quad Cab SLT",
-      "count": 1,
-      "file": "inventory/used-dodge-ram-quad-cab-slt.json",
-      "models": [
-        {
-          "model": "RAM Quad Cab SLT",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "Grand Caravan CVP SE",
-      "count": 1,
-      "file": "inventory/used-dodge-grand-caravan-cvp-se.json",
-      "models": [
-        {
-          "model": "Grand Caravan CVP SE",
+          "model": "Charger Scat Pack",
           "count": 1
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T09:50:32+00:00",
+  "generated_at": "2026-11-17T15:50:34+00:00",
   "condition": "used",
   "make": "lincoln",
   "files": [
@@ -7,25 +7,12 @@
       "condition": "used",
       "make": "lincoln",
       "model": "MKZ",
-      "count": 8,
+      "count": 13,
       "file": "inventory/used-lincoln-mkz.json",
       "models": [
         {
           "model": "MKZ",
-          "count": 8
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "lincoln",
-      "model": "Nautilus for salein British Columbia",
-      "count": 1,
-      "file": "inventory/used-lincoln-nautilus-for-salein-british-columbia.json",
-      "models": [
-        {
-          "model": "Nautilus for salein British Columbia",
-          "count": 1
+          "count": 13
         }
       ]
     },
@@ -45,6 +32,19 @@
     {
       "condition": "used",
       "make": "lincoln",
+      "model": "Nautilus for salein British Columbia",
+      "count": 1,
+      "file": "inventory/used-lincoln-nautilus-for-salein-british-columbia.json",
+      "models": [
+        {
+          "model": "Nautilus for salein British Columbia",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lincoln",
       "model": "Corsair",
       "count": 15,
       "file": "inventory/used-lincoln-corsair.json",
@@ -52,6 +52,19 @@
         {
           "model": "Corsair",
           "count": 15
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lincoln",
+      "model": "Corsair for salein Chilliwack",
+      "count": 1,
+      "file": "inventory/used-lincoln-corsair-for-salein-chilliwack.json",
+      "models": [
+        {
+          "model": "Corsair for salein Chilliwack",
+          "count": 1
         }
       ]
     },

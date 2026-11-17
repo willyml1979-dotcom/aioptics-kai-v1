@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T09:50:32+00:00",
-  "snapshot": "2026-11-17T09:50:32+00:00",
+  "generated_at": "2026-11-17T15:50:34+00:00",
+  "snapshot": "2026-11-17T15:50:34+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 8,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "jim-pattison-hyundai-surrey-kmhtc6ad1gu283595",
@@ -183,32 +183,6 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Sherwood Park Hyundai"
-    },
-    {
-      "pub_id": "go-richmond-subaru-kmhth6ab9ku002331",
-      "year": 2019,
-      "make": "Hyundai",
-      "model": "Veloster",
-      "propulsion": "gas",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
-      "condition": "used",
-      "odometer_km": 58457,
-      "price_cad": 17995.0,
-      "price_note": null,
-      "color": "Red",
-      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/58d27add-c618-4f8e-a276-3b9f051b4cb2_0f21003f-e611-46c7-b674-923463eea1de.jpg",
-      "dealer_id": "go-richmond-subaru",
-      "vin": "KMHTH6AB9KU002331",
-      "stock": "EF0123A",
-      "listing_url": "https://www.gorichmondsubaru.ca/vehicles/2019/hyundai/veloster/richmond/bc/ad13319705/?sale_class=used",
-      "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2019/hyundai/veloster/richmond/bc/ad13319705/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T21:10:11",
-      "snapshot": "2026-10-26T05:52:36",
-      "go_url": "https://carwhisper.ca/go/go-richmond-subaru-kmhth6ab9ku002331",
-      "city": null,
-      "province": "BC",
-      "dealer_name": "Go Richmond Subaru"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T09:50:32+00:00",
-  "snapshot": "2026-11-17T09:50:32+00:00",
+  "generated_at": "2026-11-17T15:50:34+00:00",
+  "snapshot": "2026-11-17T15:50:34+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "richmond-hyundai-1c6rr7lt4ks640528",
@@ -144,6 +144,35 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Marine Chrysler Dodge Jeep Ltd."
+    },
+    {
+      "pub_id": "go-langley-mitsubishi-1c6rr7lt1ps590548",
+      "year": 2023,
+      "make": "RAM",
+      "model": "1500 Classic Crew Cab",
+      "body_type": "truck",
+      "drivetrain": "4WD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 41101,
+      "price_cad": 42672.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/66cfb01d-e61a-423c-a9fb-460f809d2adf_ac4e0b48-1c45-4e05-b244-37bd0e1a05e1.jpg",
+      "dealer_id": "go-langley-mitsubishi",
+      "vin": "1C6RR7LT1PS590548",
+      "stock": "26PH858",
+      "listing_url": "https://www.langleymitsubishi.com/vehicles/2023/ram/1500-classic-crew-cab/surrey/bc/ad13864314/?sale_class=used",
+      "dealer_url": "https://www.langleymitsubishi.com/vehicles/2023/ram/1500-classic-crew-cab/surrey/bc/ad13864314/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T02:50:51",
+      "snapshot": "2026-11-17T02:57:14",
+      "go_url": "https://carwhisper.ca/go/go-langley-mitsubishi-1c6rr7lt1ps590548",
+      "region": "Lower Mainland",
+      "city": "Surrey",
+      "province": "BC",
+      "dealer_name": "Go Langley Mitsubishi"
     }
   ]
 }

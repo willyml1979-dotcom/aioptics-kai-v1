@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T09:50:32+00:00",
-  "snapshot": "2026-11-17T09:50:32+00:00",
+  "generated_at": "2026-11-17T15:50:34+00:00",
+  "snapshot": "2026-11-17T15:50:34+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "tricity-mitsubishi-wddhf2eb2ba484747",
@@ -144,6 +144,34 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Sherwood Park Hyundai"
+    },
+    {
+      "pub_id": "go-richmond-kia-wddhf6hb2fb104616",
+      "year": 2015,
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "body_type": "sedan",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 134490,
+      "price_cad": 19995.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/3d4aaad2-90bc-493e-b4c9-7fc4b0bc974a_70370b64-5ea7-4dd7-a8ad-e34c01591a23.jpg",
+      "dealer_id": "go-richmond-kia",
+      "vin": "WDDHF6HB2FB104616",
+      "stock": "7066743",
+      "listing_url": "https://www.gorichmondkia.ca/vehicles/2015/mercedes-benz/e-class-sedan/richmond/bc/ad13921151/?sale_class=used",
+      "dealer_url": "https://www.gorichmondkia.ca/vehicles/2015/mercedes-benz/e-class-sedan/richmond/bc/ad13921151/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T02:59:59",
+      "snapshot": "2026-11-17T03:10:54",
+      "go_url": "https://carwhisper.ca/go/go-richmond-kia-wddhf6hb2fb104616",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Richmond Kia"
     },
     {
       "pub_id": "country-hills-nissan-wddzh6jb8la701151",

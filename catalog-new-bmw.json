@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T09:50:32+00:00",
+  "generated_at": "2026-11-17T15:50:34+00:00",
   "condition": "new",
   "make": "bmw",
   "files": [
@@ -7,13 +7,13 @@
       "condition": "new",
       "make": "bmw",
       "model": "X2",
-      "shard": "part1",
-      "count": 20,
-      "file": "inventory/new-bmw-x2-part1.json",
+      "shard": "Lower Mainland",
+      "count": 30,
+      "file": "inventory/new-bmw-x2-lower-mainland.json",
       "models": [
         {
           "model": "X2",
-          "count": 20
+          "count": 30
         }
       ]
     },
@@ -21,13 +21,27 @@
       "condition": "new",
       "make": "bmw",
       "model": "X2",
-      "shard": "part2",
-      "count": 20,
-      "file": "inventory/new-bmw-x2-part2.json",
+      "shard": "Okanagan",
+      "count": 2,
+      "file": "inventory/new-bmw-x2-okanagan.json",
       "models": [
         {
           "model": "X2",
-          "count": 20
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "bmw",
+      "model": "X2",
+      "shard": "Vancouver Island",
+      "count": 4,
+      "file": "inventory/new-bmw-x2-vancouver-island.json",
+      "models": [
+        {
+          "model": "X2",
+          "count": 4
         }
       ]
     },
@@ -35,12 +49,12 @@
       "condition": "new",
       "make": "bmw",
       "model": "2 Series",
-      "count": 24,
+      "count": 30,
       "file": "inventory/new-bmw-2-series.json",
       "models": [
         {
           "model": "2 Series",
-          "count": 24
+          "count": 30
         }
       ]
     },
@@ -62,12 +76,12 @@
       "make": "bmw",
       "model": "3 Series",
       "shard": "part1",
-      "count": 19,
+      "count": 22,
       "file": "inventory/new-bmw-3-series-part1.json",
       "models": [
         {
           "model": "3 Series",
-          "count": 19
+          "count": 22
         }
       ]
     },
@@ -76,12 +90,12 @@
       "make": "bmw",
       "model": "3 Series",
       "shard": "part2",
-      "count": 19,
+      "count": 21,
       "file": "inventory/new-bmw-3-series-part2.json",
       "models": [
         {
           "model": "3 Series",
-          "count": 19
+          "count": 21
         }
       ]
     },
@@ -90,12 +104,12 @@
       "make": "bmw",
       "model": "X1",
       "shard": "part1",
-      "count": 30,
+      "count": 32,
       "file": "inventory/new-bmw-x1-part1.json",
       "models": [
         {
           "model": "X1",
-          "count": 30
+          "count": 32
         }
       ]
     },
@@ -104,12 +118,12 @@
       "make": "bmw",
       "model": "X1",
       "shard": "part2",
-      "count": 30,
+      "count": 32,
       "file": "inventory/new-bmw-x1-part2.json",
       "models": [
         {
           "model": "X1",
-          "count": 30
+          "count": 32
         }
       ]
     },
@@ -118,12 +132,12 @@
       "make": "bmw",
       "model": "X1",
       "shard": "part3",
-      "count": 30,
+      "count": 32,
       "file": "inventory/new-bmw-x1-part3.json",
       "models": [
         {
           "model": "X1",
-          "count": 30
+          "count": 32
         }
       ]
     },
@@ -132,12 +146,12 @@
       "make": "bmw",
       "model": "X1",
       "shard": "part4",
-      "count": 30,
+      "count": 29,
       "file": "inventory/new-bmw-x1-part4.json",
       "models": [
         {
           "model": "X1",
-          "count": 30
+          "count": 29
         }
       ]
     },
@@ -157,68 +171,26 @@
     {
       "condition": "new",
       "make": "bmw",
-      "model": "i4",
-      "shard": "part1",
-      "count": 30,
-      "file": "inventory/new-bmw-i4-part1.json",
-      "models": [
-        {
-          "model": "i4",
-          "count": 30
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "bmw",
-      "model": "i4",
-      "shard": "part2",
-      "count": 30,
-      "file": "inventory/new-bmw-i4-part2.json",
-      "models": [
-        {
-          "model": "i4",
-          "count": 30
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "bmw",
       "model": "X2 Sports Activity",
-      "count": 6,
+      "count": 5,
       "file": "inventory/new-bmw-x2-sports-activity.json",
       "models": [
         {
           "model": "X2 Sports Activity",
-          "count": 6
+          "count": 5
         }
       ]
     },
     {
       "condition": "new",
       "make": "bmw",
-      "model": "X3",
+      "model": "i4",
       "shard": "part1",
-      "count": 27,
-      "file": "inventory/new-bmw-x3-part1.json",
-      "models": [
-        {
-          "model": "X3",
-          "count": 27
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "bmw",
-      "model": "X3",
-      "shard": "part2",
       "count": 26,
-      "file": "inventory/new-bmw-x3-part2.json",
+      "file": "inventory/new-bmw-i4-part1.json",
       "models": [
         {
-          "model": "X3",
+          "model": "i4",
           "count": 26
         }
       ]
@@ -226,13 +198,55 @@
     {
       "condition": "new",
       "make": "bmw",
+      "model": "i4",
+      "shard": "part2",
+      "count": 25,
+      "file": "inventory/new-bmw-i4-part2.json",
+      "models": [
+        {
+          "model": "i4",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "bmw",
+      "model": "X3",
+      "shard": "part1",
+      "count": 29,
+      "file": "inventory/new-bmw-x3-part1.json",
+      "models": [
+        {
+          "model": "X3",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "bmw",
+      "model": "X3",
+      "shard": "part2",
+      "count": 28,
+      "file": "inventory/new-bmw-x3-part2.json",
+      "models": [
+        {
+          "model": "X3",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "bmw",
       "model": "4 Series Gran",
-      "count": 18,
+      "count": 17,
       "file": "inventory/new-bmw-4-series-gran.json",
       "models": [
         {
           "model": "4 Series Gran",
-          "count": 18
+          "count": 17
         }
       ]
     },
@@ -253,12 +267,12 @@
       "condition": "new",
       "make": "bmw",
       "model": "4 Series",
-      "count": 7,
+      "count": 6,
       "file": "inventory/new-bmw-4-series.json",
       "models": [
         {
           "model": "4 Series",
-          "count": 7
+          "count": 6
         }
       ]
     },
@@ -318,12 +332,12 @@
       "condition": "new",
       "make": "bmw",
       "model": "iX3 50 xDrive Sports Activity Vehicle",
-      "count": 4,
+      "count": 3,
       "file": "inventory/new-bmw-ix3-50-xdrive-sports-activity-vehicle.json",
       "models": [
         {
           "model": "iX3 50 xDrive Sports Activity Vehicle",
-          "count": 4
+          "count": 3
         }
       ]
     },
@@ -344,12 +358,12 @@
       "condition": "new",
       "make": "bmw",
       "model": "5 Series",
-      "count": 7,
+      "count": 8,
       "file": "inventory/new-bmw-5-series.json",
       "models": [
         {
           "model": "5 Series",
-          "count": 7
+          "count": 8
         }
       ]
     },
@@ -376,19 +390,6 @@
         {
           "model": "i5 xDrive40",
           "count": 7
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "bmw",
-      "model": "i5",
-      "count": 4,
-      "file": "inventory/new-bmw-i5.json",
-      "models": [
-        {
-          "model": "i5",
-          "count": 4
         }
       ]
     },
@@ -434,13 +435,26 @@
     {
       "condition": "new",
       "make": "bmw",
+      "model": "i5",
+      "count": 3,
+      "file": "inventory/new-bmw-i5.json",
+      "models": [
+        {
+          "model": "i5",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "bmw",
       "model": "X5 Sports Activity Vehicle",
-      "count": 8,
+      "count": 7,
       "file": "inventory/new-bmw-x5-sports-activity-vehicle.json",
       "models": [
         {
           "model": "X5 Sports Activity Vehicle",
-          "count": 8
+          "count": 7
         }
       ]
     },
@@ -448,12 +462,12 @@
       "condition": "new",
       "make": "bmw",
       "model": "iX",
-      "count": 9,
+      "count": 4,
       "file": "inventory/new-bmw-ix.json",
       "models": [
         {
           "model": "iX",
-          "count": 9
+          "count": 4
         }
       ]
     },
@@ -461,12 +475,12 @@
       "condition": "new",
       "make": "bmw",
       "model": "X5",
-      "count": 5,
+      "count": 8,
       "file": "inventory/new-bmw-x5.json",
       "models": [
         {
           "model": "X5",
-          "count": 5
+          "count": 8
         }
       ]
     },
@@ -500,12 +514,12 @@
       "condition": "new",
       "make": "bmw",
       "model": "X6 Sports Activity",
-      "count": 5,
+      "count": 4,
       "file": "inventory/new-bmw-x6-sports-activity.json",
       "models": [
         {
           "model": "X6 Sports Activity",
-          "count": 5
+          "count": 4
         }
       ]
     },
@@ -526,12 +540,12 @@
       "condition": "new",
       "make": "bmw",
       "model": "X6",
-      "count": 14,
+      "count": 16,
       "file": "inventory/new-bmw-x6.json",
       "models": [
         {
           "model": "X6",
-          "count": 14
+          "count": 16
         }
       ]
     },
@@ -539,12 +553,12 @@
       "condition": "new",
       "make": "bmw",
       "model": "M4 Convertible - Cabriolet M4 Competition Cabriolet",
-      "count": 6,
+      "count": 5,
       "file": "inventory/new-bmw-m4-convertible-cabriolet-m4-competition-cabriolet.json",
       "models": [
         {
           "model": "M4 Convertible - Cabriolet M4 Competition Cabriolet",
-          "count": 6
+          "count": 5
         }
       ]
     },
@@ -565,38 +579,12 @@
       "condition": "new",
       "make": "bmw",
       "model": "X7 Sports Activity Vehicle",
-      "count": 7,
+      "count": 6,
       "file": "inventory/new-bmw-x7-sports-activity-vehicle.json",
       "models": [
         {
           "model": "X7 Sports Activity Vehicle",
-          "count": 7
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "bmw",
-      "model": "8 Series Convertible",
-      "count": 1,
-      "file": "inventory/new-bmw-8-series-convertible.json",
-      "models": [
-        {
-          "model": "8 Series Convertible",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "bmw",
-      "model": "M4 Convertible",
-      "count": 3,
-      "file": "inventory/new-bmw-m4-convertible.json",
-      "models": [
-        {
-          "model": "M4 Convertible",
-          "count": 3
+          "count": 6
         }
       ]
     },
@@ -617,12 +605,12 @@
       "condition": "new",
       "make": "bmw",
       "model": "M4",
-      "count": 1,
+      "count": 2,
       "file": "inventory/new-bmw-m4.json",
       "models": [
         {
           "model": "M4",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -630,12 +618,12 @@
       "condition": "new",
       "make": "bmw",
       "model": "X6 M",
-      "count": 4,
+      "count": 5,
       "file": "inventory/new-bmw-x6-m.json",
       "models": [
         {
           "model": "X6 M",
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -656,12 +644,12 @@
       "condition": "new",
       "make": "bmw",
       "model": "M5",
-      "count": 4,
+      "count": 3,
       "file": "inventory/new-bmw-m5.json",
       "models": [
         {
           "model": "M5",
-          "count": 4
+          "count": 3
         }
       ]
     },
@@ -682,12 +670,12 @@
       "condition": "new",
       "make": "bmw",
       "model": "M5 Touring",
-      "count": 4,
+      "count": 2,
       "file": "inventory/new-bmw-m5-touring.json",
       "models": [
         {
           "model": "M5 Touring",
-          "count": 4
+          "count": 2
         }
       ]
     },
@@ -695,12 +683,12 @@
       "condition": "new",
       "make": "bmw",
       "model": "7 Series",
-      "count": 6,
+      "count": 5,
       "file": "inventory/new-bmw-7-series.json",
       "models": [
         {
           "model": "7 Series",
-          "count": 6
+          "count": 5
         }
       ]
     },
@@ -747,12 +735,12 @@
       "condition": "new",
       "make": "bmw",
       "model": "X5 M",
-      "count": 5,
+      "count": 4,
       "file": "inventory/new-bmw-x5-m.json",
       "models": [
         {
           "model": "X5 M",
-          "count": 5
+          "count": 4
         }
       ]
     },
@@ -760,25 +748,12 @@
       "condition": "new",
       "make": "bmw",
       "model": "X6 M X6 M Competition Sports Activity",
-      "count": 7,
+      "count": 6,
       "file": "inventory/new-bmw-x6-m-x6-m-competition-sports-activity.json",
       "models": [
         {
           "model": "X6 M X6 M Competition Sports Activity",
-          "count": 7
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "bmw",
-      "model": "i7",
-      "count": 1,
-      "file": "inventory/new-bmw-i7.json",
-      "models": [
-        {
-          "model": "i7",
-          "count": 1
+          "count": 6
         }
       ]
     },
@@ -786,12 +761,51 @@
       "condition": "new",
       "make": "bmw",
       "model": "XM XM Label Sports Activity Vehicle",
-      "count": 8,
+      "count": 7,
       "file": "inventory/new-bmw-xm-xm-label-sports-activity-vehicle.json",
       "models": [
         {
           "model": "XM XM Label Sports Activity Vehicle",
-          "count": 8
+          "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "bmw",
+      "model": "228",
+      "count": 2,
+      "file": "inventory/new-bmw-228.json",
+      "models": [
+        {
+          "model": "228",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "bmw",
+      "model": "228 for salein Victoria",
+      "count": 1,
+      "file": "inventory/new-bmw-228-for-salein-victoria.json",
+      "models": [
+        {
+          "model": "228 for salein Victoria",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "bmw",
+      "model": "228 for salein Nanaimo",
+      "count": 1,
+      "file": "inventory/new-bmw-228-for-salein-nanaimo.json",
+      "models": [
+        {
+          "model": "228 for salein Nanaimo",
+          "count": 1
         }
       ]
     },
@@ -799,12 +813,12 @@
       "condition": "new",
       "make": "bmw",
       "model": "330i",
-      "count": 3,
+      "count": 4,
       "file": "inventory/new-bmw-330i.json",
       "models": [
         {
           "model": "330i",
-          "count": 3
+          "count": 4
         }
       ]
     },
@@ -824,12 +838,90 @@
     {
       "condition": "new",
       "make": "bmw",
+      "model": "M240i",
+      "count": 2,
+      "file": "inventory/new-bmw-m240i.json",
+      "models": [
+        {
+          "model": "M240i",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "bmw",
+      "model": "M240i for salein Nanaimo",
+      "count": 1,
+      "file": "inventory/new-bmw-m240i-for-salein-nanaimo.json",
+      "models": [
+        {
+          "model": "M240i for salein Nanaimo",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "bmw",
+      "model": "iX3",
+      "count": 1,
+      "file": "inventory/new-bmw-ix3.json",
+      "models": [
+        {
+          "model": "iX3",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "bmw",
       "model": "M440i",
       "count": 1,
       "file": "inventory/new-bmw-m440i.json",
       "models": [
         {
           "model": "M440i",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "bmw",
+      "model": "M4 Convertible - Cabriolet",
+      "count": 1,
+      "file": "inventory/new-bmw-m4-convertible-cabriolet.json",
+      "models": [
+        {
+          "model": "M4 Convertible - Cabriolet",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "bmw",
+      "model": "X5 for salein Victoria",
+      "count": 1,
+      "file": "inventory/new-bmw-x5-for-salein-victoria.json",
+      "models": [
+        {
+          "model": "X5 for salein Victoria",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "bmw",
+      "model": "XM",
+      "count": 1,
+      "file": "inventory/new-bmw-xm.json",
+      "models": [
+        {
+          "model": "XM",
           "count": 1
         }
       ]

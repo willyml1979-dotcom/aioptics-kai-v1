@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T09:50:32+00:00",
-  "snapshot": "2026-11-17T09:50:32+00:00",
+  "generated_at": "2026-11-17T15:50:34+00:00",
+  "snapshot": "2026-11-17T15:50:34+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "okanagan-chrysler-dodge-jeep-ram-1gcgteen7l1194421",
@@ -107,6 +107,34 @@
       "city": "Penticton",
       "province": "BC",
       "dealer_name": "Penticton Hyundai"
+    },
+    {
+      "pub_id": "braby-motors-ltd-1gcgteenxm1133517",
+      "year": 2021,
+      "make": "CHEVROLET",
+      "model": "COLORADO",
+      "drivetrain": "4WD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 118123,
+      "price_cad": 46995.0,
+      "price_note": null,
+      "color": "Tan",
+      "photo_url": "https://portal.omni.auto/Media/InventoryMedia/1GCGTEENXM1133517/Optimized/0d8bb4a7de1472e5ef9e53e3616ddbf6.webp",
+      "dealer_id": "braby-motors-ltd",
+      "vin": "1GCGTEENXM1133517",
+      "stock": "25-314A",
+      "listing_url": "https://brabymotors.com/Inventory/2021-CHEVROLET-COLORADO-4WDZR2-1GCGTEENXM1133517",
+      "dealer_url": "https://brabymotors.com/Inventory/2021-CHEVROLET-COLORADO-4WDZR2-1GCGTEENXM1133517?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T06:41:53",
+      "snapshot": "2026-11-17T06:44:58",
+      "go_url": "https://carwhisper.ca/go/braby-motors-ltd-1gcgteenxm1133517",
+      "region": "Okanagan",
+      "city": "Salmon Arm",
+      "province": "BC",
+      "dealer_name": "Braby Motors Ltd."
     },
     {
       "pub_id": "jacobson-ford-sales-ltd-1gcptfek7s1163213",

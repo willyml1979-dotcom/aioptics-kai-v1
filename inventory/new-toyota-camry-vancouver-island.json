@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T09:50:32+00:00",
-  "snapshot": "2026-11-17T09:50:32+00:00",
+  "generated_at": "2026-11-17T15:50:34+00:00",
+  "snapshot": "2026-11-17T15:50:34+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 4,
   "vehicles": [
     {
       "pub_id": "nanaimo-toyota-59097-478143",
@@ -112,35 +112,6 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Jim Pattison Toyota Victoria"
-    },
-    {
-      "pub_id": "comox-valley-toyota-4t1dbadk5vu075639",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "Camry",
-      "trim": "XSE",
-      "body_type": "sedan",
-      "drivetrain": "AWD",
-      "propulsion": "hybrid",
-      "propulsion_source": "description",
-      "propulsion_confidence": "medium",
-      "condition": "new",
-      "odometer_km": 0,
-      "price_cad": 48665.0,
-      "price_note": null,
-      "color": "Black",
-      "dealer_id": "comox-valley-toyota",
-      "vin": "4T1DBADK5VU075639",
-      "stock": "14543113",
-      "listing_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-Camry-id14543113.html",
-      "dealer_url": "https://www.comoxvalleytoyota.com/new/inventory/2027-Toyota-Camry-id14543113.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T16:50:13",
-      "snapshot": "2026-10-26T07:46:30",
-      "go_url": "https://carwhisper.ca/go/comox-valley-toyota-4t1dbadk5vu075639",
-      "region": "Vancouver Island",
-      "city": "Courtenay",
-      "province": "BC",
-      "dealer_name": "Comox Valley Toyota"
     }
   ]
 }

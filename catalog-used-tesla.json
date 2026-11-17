@@ -1,8 +1,78 @@
 {
-  "generated_at": "2026-11-17T09:50:32+00:00",
+  "generated_at": "2026-11-17T15:50:34+00:00",
   "condition": "used",
   "make": "tesla",
   "files": [
+    {
+      "condition": "used",
+      "make": "tesla",
+      "model": "Model 3",
+      "shard": "part1",
+      "count": 26,
+      "file": "inventory/used-tesla-model-3-part1.json",
+      "models": [
+        {
+          "model": "Model 3",
+          "count": 26
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "tesla",
+      "model": "Model 3",
+      "shard": "part2",
+      "count": 26,
+      "file": "inventory/used-tesla-model-3-part2.json",
+      "models": [
+        {
+          "model": "Model 3",
+          "count": 26
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "tesla",
+      "model": "Model 3",
+      "shard": "part3",
+      "count": 26,
+      "file": "inventory/used-tesla-model-3-part3.json",
+      "models": [
+        {
+          "model": "Model 3",
+          "count": 26
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "tesla",
+      "model": "Model 3",
+      "shard": "part4",
+      "count": 26,
+      "file": "inventory/used-tesla-model-3-part4.json",
+      "models": [
+        {
+          "model": "Model 3",
+          "count": 26
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "tesla",
+      "model": "Model 3",
+      "shard": "part5",
+      "count": 23,
+      "file": "inventory/used-tesla-model-3-part5.json",
+      "models": [
+        {
+          "model": "Model 3",
+          "count": 23
+        }
+      ]
+    },
     {
       "condition": "used",
       "make": "tesla",
@@ -36,82 +106,12 @@
       "make": "tesla",
       "model": "Model Y",
       "shard": "part3",
-      "count": 25,
+      "count": 27,
       "file": "inventory/used-tesla-model-y-part3.json",
       "models": [
         {
           "model": "Model Y",
-          "count": 25
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "tesla",
-      "model": "Model 3",
-      "shard": "part1",
-      "count": 28,
-      "file": "inventory/used-tesla-model-3-part1.json",
-      "models": [
-        {
-          "model": "Model 3",
-          "count": 28
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "tesla",
-      "model": "Model 3",
-      "shard": "part2",
-      "count": 28,
-      "file": "inventory/used-tesla-model-3-part2.json",
-      "models": [
-        {
-          "model": "Model 3",
-          "count": 28
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "tesla",
-      "model": "Model 3",
-      "shard": "part3",
-      "count": 28,
-      "file": "inventory/used-tesla-model-3-part3.json",
-      "models": [
-        {
-          "model": "Model 3",
-          "count": 28
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "tesla",
-      "model": "Model 3",
-      "shard": "part4",
-      "count": 28,
-      "file": "inventory/used-tesla-model-3-part4.json",
-      "models": [
-        {
-          "model": "Model 3",
-          "count": 28
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "tesla",
-      "model": "Model 3",
-      "shard": "part5",
-      "count": 25,
-      "file": "inventory/used-tesla-model-3-part5.json",
-      "models": [
-        {
-          "model": "Model 3",
-          "count": 25
+          "count": 27
         }
       ]
     },
@@ -146,12 +146,12 @@
       "make": "tesla",
       "model": "Model X",
       "shard": "part1",
-      "count": 25,
+      "count": 27,
       "file": "inventory/used-tesla-model-x-part1.json",
       "models": [
         {
           "model": "Model X",
-          "count": 25
+          "count": 27
         }
       ]
     },
@@ -160,12 +160,12 @@
       "make": "tesla",
       "model": "Model X",
       "shard": "part2",
-      "count": 24,
+      "count": 27,
       "file": "inventory/used-tesla-model-x-part2.json",
       "models": [
         {
           "model": "Model X",
-          "count": 24
+          "count": 27
         }
       ]
     },

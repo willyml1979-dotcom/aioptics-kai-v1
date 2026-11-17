@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T09:50:32+00:00",
-  "snapshot": "2026-11-17T09:50:32+00:00",
+  "generated_at": "2026-11-17T15:50:34+00:00",
+  "snapshot": "2026-11-17T15:50:34+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "tacoma-dodge-chrysler-jeep-ram-1g1fw6s00p4112298",
@@ -25,7 +25,7 @@
       "listing_url": "https://www.tacomadodge.com/viewdetails/used/1g1fw6s00p4112298/2023-chevrolet-bolt-ev-station-wagon?type=cash",
       "dealer_url": "https://www.tacomadodge.com/viewdetails/used/1g1fw6s00p4112298/2023-chevrolet-bolt-ev-station-wagon?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-22T20:51:29",
-      "snapshot": "2026-10-26T07:20:10",
+      "snapshot": "2026-11-17T07:34:23",
       "go_url": "https://carwhisper.ca/go/tacoma-dodge-chrysler-jeep-ram-1g1fw6s00p4112298",
       "city": null,
       "province": "US",
@@ -59,32 +59,6 @@
       "city": null,
       "province": "BC",
       "dealer_name": "Pacific Honda"
-    },
-    {
-      "pub_id": "go-langley-subaru-1g1fw6s0xp4190135",
-      "year": 2023,
-      "make": "Chevrolet",
-      "model": "Bolt",
-      "propulsion": "electric",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
-      "condition": "used",
-      "odometer_km": 34133,
-      "price_cad": 25999.0,
-      "price_note": null,
-      "color": "Blue",
-      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/c4e015d0-a09a-44be-ba58-07a1fb4744df_1b98362a-8e57-4b2e-8fe3-3d5d4d938199.jpg",
-      "dealer_id": "go-langley-subaru",
-      "vin": "1G1FW6S0XP4190135",
-      "stock": "27UN917",
-      "listing_url": "https://www.langleysubaru.com/vehicles/2023/chevrolet/bolt-ev/surrey/bc/71540990/?sale_class=used",
-      "dealer_url": "https://www.langleysubaru.com/vehicles/2023/chevrolet/bolt-ev/surrey/bc/71540990/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T21:18:35",
-      "snapshot": "2026-10-26T05:54:03",
-      "go_url": "https://carwhisper.ca/go/go-langley-subaru-1g1fw6s0xp4190135",
-      "city": null,
-      "province": "BC",
-      "dealer_name": "Go Langley Subaru"
     }
   ]
 }

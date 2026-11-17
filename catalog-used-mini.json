@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T09:50:32+00:00",
+  "generated_at": "2026-11-17T15:50:34+00:00",
   "condition": "used",
   "make": "mini",
   "files": [
@@ -7,12 +7,16 @@
       "condition": "used",
       "make": "mini",
       "model": "3 Door",
-      "count": 14,
+      "count": 23,
       "file": "inventory/used-mini-3-door.json",
       "models": [
         {
           "model": "3 Door",
-          "count": 14
+          "count": 22
+        },
+        {
+          "model": "3 door",
+          "count": 1
         }
       ]
     },
@@ -71,13 +75,26 @@
     {
       "condition": "used",
       "make": "mini",
+      "model": "Countryman",
+      "count": 19,
+      "file": "inventory/used-mini-countryman.json",
+      "models": [
+        {
+          "model": "Countryman",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mini",
       "model": "COOPER",
-      "count": 4,
+      "count": 11,
       "file": "inventory/used-mini-cooper.json",
       "models": [
         {
           "model": "COOPER",
-          "count": 4
+          "count": 11
         }
       ]
     },
@@ -97,26 +114,13 @@
     {
       "condition": "used",
       "make": "mini",
-      "model": "Countryman",
-      "count": 16,
-      "file": "inventory/used-mini-countryman.json",
-      "models": [
-        {
-          "model": "Countryman",
-          "count": 16
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mini",
       "model": "5 Door",
-      "count": 2,
+      "count": 4,
       "file": "inventory/used-mini-5-door.json",
       "models": [
         {
           "model": "5 Door",
-          "count": 2
+          "count": 4
         }
       ]
     },
@@ -124,12 +128,12 @@
       "condition": "used",
       "make": "mini",
       "model": "COOPER S",
-      "count": 4,
+      "count": 11,
       "file": "inventory/used-mini-cooper-s.json",
       "models": [
         {
           "model": "COOPER S",
-          "count": 4
+          "count": 11
         }
       ]
     },
@@ -194,6 +198,32 @@
       "models": [
         {
           "model": "5 Door for salein Duncan",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mini",
+      "model": "3 Door for salein Victoria",
+      "count": 1,
+      "file": "inventory/used-mini-3-door-for-salein-victoria.json",
+      "models": [
+        {
+          "model": "3 Door for salein Victoria",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mini",
+      "model": "Countryman for salein Victoria",
+      "count": 1,
+      "file": "inventory/used-mini-countryman-for-salein-victoria.json",
+      "models": [
+        {
+          "model": "Countryman for salein Victoria",
           "count": 1
         }
       ]

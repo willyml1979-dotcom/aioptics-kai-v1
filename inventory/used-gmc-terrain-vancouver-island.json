@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T09:50:32+00:00",
-  "snapshot": "2026-11-17T09:50:32+00:00",
+  "generated_at": "2026-11-17T15:50:34+00:00",
+  "snapshot": "2026-11-17T15:50:34+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 14,
+  "count": 15,
   "vehicles": [
     {
       "pub_id": "discovery-honda-2gkflxe36f6341193",
@@ -179,6 +179,34 @@
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Duncan Hyundai"
+    },
+    {
+      "pub_id": "courtenay-mazda-3gkaltev6nl292205",
+      "year": 2022,
+      "make": "GMC",
+      "model": "Terrain",
+      "trim": "SLE",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 27646,
+      "price_cad": 24897.0,
+      "price_note": null,
+      "color": "Blue",
+      "dealer_id": "courtenay-mazda",
+      "vin": "3GKALTEV6NL292205",
+      "stock": "14128724",
+      "listing_url": "https://www.courtenaymazda.com/used/2022-GMC-Terrain-id14128724.html",
+      "dealer_url": "https://www.courtenaymazda.com/used/2022-GMC-Terrain-id14128724.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T07:50:20",
+      "snapshot": "2026-11-17T07:52:24",
+      "go_url": "https://carwhisper.ca/go/courtenay-mazda-3gkaltev6nl292205",
+      "region": "Vancouver Island",
+      "city": "Courtenay",
+      "province": "BC",
+      "dealer_name": "Courtenay Mazda"
     },
     {
       "pub_id": "victoria-hyundai-3gkaltev9ml355053",

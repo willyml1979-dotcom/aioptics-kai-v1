@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T09:50:32+00:00",
-  "snapshot": "2026-11-17T09:50:32+00:00",
+  "generated_at": "2026-11-17T15:50:34+00:00",
+  "snapshot": "2026-11-17T15:50:34+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "north-vancouver-nissan-infiniti-north-vancouver-3n1cn8fv1sl885138",
@@ -91,32 +91,6 @@
       "city": "Surrey",
       "province": "BC",
       "dealer_name": "Applewood Nissan"
-    },
-    {
-      "pub_id": "red-deer-nissan-3n1cn8fv2sl878974",
-      "year": 2025,
-      "make": "Nissan",
-      "model": "Versa",
-      "propulsion": "gas",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
-      "condition": "new",
-      "odometer_km": 40,
-      "price_cad": 24997.0,
-      "price_note": null,
-      "color": "White",
-      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/bea834f5-588e-4e4f-add2-6201eb006e53_7cf9e15e-b4eb-41eb-b4ce-e66a12005c37.jpg",
-      "dealer_id": "red-deer-nissan",
-      "vin": "3N1CN8FV2SL878974",
-      "stock": "RD87897",
-      "listing_url": "https://www.reddeernissan.com/vehicles/2025/nissan/versa/red-deer/ab/68353394/?sale_class=new",
-      "dealer_url": "https://www.reddeernissan.com/vehicles/2025/nissan/versa/red-deer/ab/68353394/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T20:27:01",
-      "snapshot": "2026-10-26T06:06:45",
-      "go_url": "https://carwhisper.ca/go/red-deer-nissan-3n1cn8fv2sl878974",
-      "city": null,
-      "province": "AB",
-      "dealer_name": "Red Deer Nissan"
     }
   ]
 }

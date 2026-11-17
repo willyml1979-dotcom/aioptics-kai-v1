@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T09:50:32+00:00",
+  "generated_at": "2026-11-17T15:50:34+00:00",
   "condition": "new",
   "make": "nissan",
   "files": [
@@ -21,50 +21,8 @@
       "make": "nissan",
       "model": "Sentra",
       "shard": "part1",
-      "count": 24,
-      "file": "inventory/new-nissan-sentra-part1.json",
-      "models": [
-        {
-          "model": "Sentra",
-          "count": 24
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Sentra",
-      "shard": "part2",
-      "count": 24,
-      "file": "inventory/new-nissan-sentra-part2.json",
-      "models": [
-        {
-          "model": "Sentra",
-          "count": 24
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Sentra",
-      "shard": "part3",
-      "count": 24,
-      "file": "inventory/new-nissan-sentra-part3.json",
-      "models": [
-        {
-          "model": "Sentra",
-          "count": 24
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Sentra",
-      "shard": "part4",
       "count": 23,
-      "file": "inventory/new-nissan-sentra-part4.json",
+      "file": "inventory/new-nissan-sentra-part1.json",
       "models": [
         {
           "model": "Sentra",
@@ -75,13 +33,55 @@
     {
       "condition": "new",
       "make": "nissan",
+      "model": "Sentra",
+      "shard": "part2",
+      "count": 23,
+      "file": "inventory/new-nissan-sentra-part2.json",
+      "models": [
+        {
+          "model": "Sentra",
+          "count": 23
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Sentra",
+      "shard": "part3",
+      "count": 23,
+      "file": "inventory/new-nissan-sentra-part3.json",
+      "models": [
+        {
+          "model": "Sentra",
+          "count": 23
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Sentra",
+      "shard": "part4",
+      "count": 22,
+      "file": "inventory/new-nissan-sentra-part4.json",
+      "models": [
+        {
+          "model": "Sentra",
+          "count": 22
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
       "model": "Versa",
-      "count": 4,
+      "count": 3,
       "file": "inventory/new-nissan-versa.json",
       "models": [
         {
           "model": "Versa",
-          "count": 4
+          "count": 3
         }
       ]
     },
@@ -90,12 +90,12 @@
       "make": "nissan",
       "model": "Kicks",
       "shard": "part1",
-      "count": 29,
+      "count": 31,
       "file": "inventory/new-nissan-kicks-part1.json",
       "models": [
         {
           "model": "Kicks",
-          "count": 29
+          "count": 31
         }
       ]
     },
@@ -104,12 +104,12 @@
       "make": "nissan",
       "model": "Kicks",
       "shard": "part2",
-      "count": 29,
+      "count": 31,
       "file": "inventory/new-nissan-kicks-part2.json",
       "models": [
         {
           "model": "Kicks",
-          "count": 29
+          "count": 31
         }
       ]
     },
@@ -118,12 +118,12 @@
       "make": "nissan",
       "model": "Kicks",
       "shard": "part3",
-      "count": 29,
+      "count": 31,
       "file": "inventory/new-nissan-kicks-part3.json",
       "models": [
         {
           "model": "Kicks",
-          "count": 29
+          "count": 31
         }
       ]
     },
@@ -132,12 +132,12 @@
       "make": "nissan",
       "model": "Kicks",
       "shard": "part4",
-      "count": 29,
+      "count": 31,
       "file": "inventory/new-nissan-kicks-part4.json",
       "models": [
         {
           "model": "Kicks",
-          "count": 29
+          "count": 31
         }
       ]
     },
@@ -146,12 +146,12 @@
       "make": "nissan",
       "model": "Kicks",
       "shard": "part5",
-      "count": 29,
+      "count": 31,
       "file": "inventory/new-nissan-kicks-part5.json",
       "models": [
         {
           "model": "Kicks",
-          "count": 29
+          "count": 31
         }
       ]
     },
@@ -160,12 +160,12 @@
       "make": "nissan",
       "model": "Kicks",
       "shard": "part6",
-      "count": 29,
+      "count": 31,
       "file": "inventory/new-nissan-kicks-part6.json",
       "models": [
         {
           "model": "Kicks",
-          "count": 29
+          "count": 31
         }
       ]
     },
@@ -174,12 +174,12 @@
       "make": "nissan",
       "model": "Kicks",
       "shard": "part7",
-      "count": 29,
+      "count": 31,
       "file": "inventory/new-nissan-kicks-part7.json",
       "models": [
         {
           "model": "Kicks",
-          "count": 29
+          "count": 31
         }
       ]
     },
@@ -188,12 +188,12 @@
       "make": "nissan",
       "model": "Kicks",
       "shard": "part8",
-      "count": 29,
+      "count": 31,
       "file": "inventory/new-nissan-kicks-part8.json",
       "models": [
         {
           "model": "Kicks",
-          "count": 29
+          "count": 31
         }
       ]
     },
@@ -202,12 +202,12 @@
       "make": "nissan",
       "model": "Kicks",
       "shard": "part9",
-      "count": 29,
+      "count": 31,
       "file": "inventory/new-nissan-kicks-part9.json",
       "models": [
         {
           "model": "Kicks",
-          "count": 29
+          "count": 31
         }
       ]
     },
@@ -216,12 +216,12 @@
       "make": "nissan",
       "model": "Kicks",
       "shard": "part10",
-      "count": 29,
+      "count": 31,
       "file": "inventory/new-nissan-kicks-part10.json",
       "models": [
         {
           "model": "Kicks",
-          "count": 29
+          "count": 31
         }
       ]
     },
@@ -230,12 +230,12 @@
       "make": "nissan",
       "model": "Kicks",
       "shard": "part11",
-      "count": 29,
+      "count": 31,
       "file": "inventory/new-nissan-kicks-part11.json",
       "models": [
         {
           "model": "Kicks",
-          "count": 29
+          "count": 31
         }
       ]
     },
@@ -244,12 +244,12 @@
       "make": "nissan",
       "model": "Kicks",
       "shard": "part12",
-      "count": 29,
+      "count": 31,
       "file": "inventory/new-nissan-kicks-part12.json",
       "models": [
         {
           "model": "Kicks",
-          "count": 29
+          "count": 31
         }
       ]
     },
@@ -258,12 +258,12 @@
       "make": "nissan",
       "model": "Kicks",
       "shard": "part13",
-      "count": 29,
+      "count": 31,
       "file": "inventory/new-nissan-kicks-part13.json",
       "models": [
         {
           "model": "Kicks",
-          "count": 29
+          "count": 31
         }
       ]
     },
@@ -272,12 +272,12 @@
       "make": "nissan",
       "model": "Kicks",
       "shard": "part14",
-      "count": 29,
+      "count": 31,
       "file": "inventory/new-nissan-kicks-part14.json",
       "models": [
         {
           "model": "Kicks",
-          "count": 29
+          "count": 31
         }
       ]
     },
@@ -286,12 +286,12 @@
       "make": "nissan",
       "model": "Kicks",
       "shard": "part15",
-      "count": 29,
+      "count": 31,
       "file": "inventory/new-nissan-kicks-part15.json",
       "models": [
         {
           "model": "Kicks",
-          "count": 29
+          "count": 31
         }
       ]
     },
@@ -300,26 +300,12 @@
       "make": "nissan",
       "model": "Kicks",
       "shard": "part16",
-      "count": 29,
+      "count": 20,
       "file": "inventory/new-nissan-kicks-part16.json",
       "models": [
         {
           "model": "Kicks",
-          "count": 29
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Kicks",
-      "shard": "part17",
-      "count": 26,
-      "file": "inventory/new-nissan-kicks-part17.json",
-      "models": [
-        {
-          "model": "Kicks",
-          "count": 26
+          "count": 20
         }
       ]
     },
@@ -664,25 +650,12 @@
       "make": "nissan",
       "model": "Rogue",
       "shard": "part25",
-      "count": 27,
+      "count": 26,
       "file": "inventory/new-nissan-rogue-part25.json",
       "models": [
         {
           "model": "Rogue",
-          "count": 27
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Kicks S FWD",
-      "count": 14,
-      "file": "inventory/new-nissan-kicks-s-fwd.json",
-      "models": [
-        {
-          "model": "Kicks S FWD",
-          "count": 14
+          "count": 26
         }
       ]
     },
@@ -691,12 +664,12 @@
       "make": "nissan",
       "model": "LEAF",
       "shard": "part1",
-      "count": 26,
+      "count": 27,
       "file": "inventory/new-nissan-leaf-part1.json",
       "models": [
         {
           "model": "LEAF",
-          "count": 26
+          "count": 27
         }
       ]
     },
@@ -705,12 +678,12 @@
       "make": "nissan",
       "model": "LEAF",
       "shard": "part2",
-      "count": 26,
+      "count": 27,
       "file": "inventory/new-nissan-leaf-part2.json",
       "models": [
         {
           "model": "LEAF",
-          "count": 26
+          "count": 27
         }
       ]
     },
@@ -724,11 +697,11 @@
       "models": [
         {
           "model": "LEAF",
-          "count": 4
+          "count": 5
         },
         {
           "model": "Leaf",
-          "count": 21
+          "count": 20
         }
       ]
     },
@@ -764,7 +737,7 @@
       "condition": "new",
       "make": "nissan",
       "model": "ARIYA",
-      "count": 31,
+      "count": 28,
       "file": "inventory/new-nissan-ariya.json",
       "models": [
         {
@@ -773,24 +746,7 @@
         },
         {
           "model": "Ariya",
-          "count": 8
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "LEAF S+ FWD",
-      "count": 4,
-      "file": "inventory/new-nissan-leaf-s-fwd.json",
-      "models": [
-        {
-          "model": "LEAF S FWD",
-          "count": 2
-        },
-        {
-          "model": "LEAF S+ FWD",
-          "count": 2
+          "count": 5
         }
       ]
     },
@@ -827,52 +783,13 @@
     {
       "condition": "new",
       "make": "nissan",
-      "model": "ARIYA SV FWD",
-      "count": 9,
-      "file": "inventory/new-nissan-ariya-sv-fwd.json",
-      "models": [
-        {
-          "model": "ARIYA SV FWD",
-          "count": 9
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Z Sport Manual",
-      "count": 8,
-      "file": "inventory/new-nissan-z-sport-manual.json",
-      "models": [
-        {
-          "model": "Z Sport Manual",
-          "count": 8
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
       "model": "Frontier",
-      "count": 19,
+      "count": 17,
       "file": "inventory/new-nissan-frontier.json",
       "models": [
         {
           "model": "Frontier",
-          "count": 19
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Pathfinder Rock Creek 4WD",
-      "count": 3,
-      "file": "inventory/new-nissan-pathfinder-rock-creek-4wd.json",
-      "models": [
-        {
-          "model": "Pathfinder Rock Creek 4WD",
-          "count": 3
+          "count": 17
         }
       ]
     },
@@ -923,12 +840,12 @@
       "make": "nissan",
       "model": "Pathfinder",
       "shard": "Vancouver Island",
-      "count": 5,
+      "count": 4,
       "file": "inventory/new-nissan-pathfinder-vancouver-island.json",
       "models": [
         {
           "model": "Pathfinder",
-          "count": 5
+          "count": 4
         }
       ]
     },
@@ -937,64 +854,12 @@
       "make": "nissan",
       "model": "Pathfinder",
       "shard": "sin-region",
-      "count": 7,
+      "count": 5,
       "file": "inventory/new-nissan-pathfinder-sin-region.json",
       "models": [
         {
           "model": "Pathfinder",
-          "count": 7
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Murano Dark Armor AWD",
-      "count": 4,
-      "file": "inventory/new-nissan-murano-dark-armor-awd.json",
-      "models": [
-        {
-          "model": "Murano Dark Armor AWD",
-          "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Frontier Crew Cab 4x4 PRO-4X",
-      "count": 6,
-      "file": "inventory/new-nissan-frontier-crew-cab-4x4-pro-4x.json",
-      "models": [
-        {
-          "model": "Frontier Crew Cab 4x4 PRO-4X",
-          "count": 6
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Murano AWD Platinum",
-      "count": 3,
-      "file": "inventory/new-nissan-murano-awd-platinum.json",
-      "models": [
-        {
-          "model": "Murano AWD Platinum",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Rogue Plug-In Hybrid AWD Platinum",
-      "count": 4,
-      "file": "inventory/new-nissan-rogue-plug-in-hybrid-awd-platinum.json",
-      "models": [
-        {
-          "model": "Rogue Plug-In Hybrid AWD Platinum",
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -1072,38 +937,12 @@
       "make": "nissan",
       "model": "Armada",
       "shard": "sin-region",
-      "count": 4,
+      "count": 7,
       "file": "inventory/new-nissan-armada-sin-region.json",
       "models": [
         {
           "model": "Armada",
-          "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Armada 4x4 SL",
-      "count": 3,
-      "file": "inventory/new-nissan-armada-4x4-sl.json",
-      "models": [
-        {
-          "model": "Armada 4x4 SL",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "nissan",
-      "model": "Armada SL 4x4",
-      "count": 2,
-      "file": "inventory/new-nissan-armada-sl-4x4.json",
-      "models": [
-        {
-          "model": "Armada SL 4x4",
-          "count": 2
+          "count": 7
         }
       ]
     },
@@ -1140,6 +979,19 @@
     {
       "condition": "new",
       "make": "nissan",
+      "model": "ARIYA SV FWD",
+      "count": 7,
+      "file": "inventory/new-nissan-ariya-sv-fwd.json",
+      "models": [
+        {
+          "model": "ARIYA SV FWD",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
       "model": "Armada Pro-4X",
       "count": 8,
       "file": "inventory/new-nissan-armada-pro-4x.json",
@@ -1151,6 +1003,19 @@
         {
           "model": "Armada Pro-4X",
           "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Kicks S FWD",
+      "count": 13,
+      "file": "inventory/new-nissan-kicks-s-fwd.json",
+      "models": [
+        {
+          "model": "Kicks S FWD",
+          "count": 13
         }
       ]
     },
@@ -1430,6 +1295,36 @@
     {
       "condition": "new",
       "make": "nissan",
+      "model": "LEAF S FWD",
+      "count": 3,
+      "file": "inventory/new-nissan-leaf-s-fwd.json",
+      "models": [
+        {
+          "model": "LEAF S FWD",
+          "count": 2
+        },
+        {
+          "model": "LEAF S+ FWD",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Z Sport Manual",
+      "count": 6,
+      "file": "inventory/new-nissan-z-sport-manual.json",
+      "models": [
+        {
+          "model": "Z Sport Manual",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
       "model": "Ariya for salein Kelowna",
       "count": 1,
       "file": "inventory/new-nissan-ariya-for-salein-kelowna.json",
@@ -1456,12 +1351,103 @@
     {
       "condition": "new",
       "make": "nissan",
+      "model": "Pathfinder Rock Creek 4WD",
+      "count": 2,
+      "file": "inventory/new-nissan-pathfinder-rock-creek-4wd.json",
+      "models": [
+        {
+          "model": "Pathfinder Rock Creek 4WD",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Murano Dark Armor AWD",
+      "count": 3,
+      "file": "inventory/new-nissan-murano-dark-armor-awd.json",
+      "models": [
+        {
+          "model": "Murano Dark Armor AWD",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Frontier Crew Cab 4x4 PRO-4X",
+      "count": 4,
+      "file": "inventory/new-nissan-frontier-crew-cab-4x4-pro-4x.json",
+      "models": [
+        {
+          "model": "Frontier Crew Cab 4x4 PRO-4X",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Murano AWD Platinum",
+      "count": 2,
+      "file": "inventory/new-nissan-murano-awd-platinum.json",
+      "models": [
+        {
+          "model": "Murano AWD Platinum",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Rogue Plug-In Hybrid AWD Platinum",
+      "count": 3,
+      "file": "inventory/new-nissan-rogue-plug-in-hybrid-awd-platinum.json",
+      "models": [
+        {
+          "model": "Rogue Plug-In Hybrid AWD Platinum",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Armada 4x4 SL",
+      "count": 2,
+      "file": "inventory/new-nissan-armada-4x4-sl.json",
+      "models": [
+        {
+          "model": "Armada 4x4 SL",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
       "model": "Armada for salein Kelowna",
       "count": 1,
       "file": "inventory/new-nissan-armada-for-salein-kelowna.json",
       "models": [
         {
           "model": "Armada for salein Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Armada SL 4x4",
+      "count": 1,
+      "file": "inventory/new-nissan-armada-sl-4x4.json",
+      "models": [
+        {
+          "model": "Armada SL 4x4",
           "count": 1
         }
       ]
@@ -1488,6 +1474,19 @@
       "models": [
         {
           "model": "Pathfinder Platinum",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "nissan",
+      "model": "Frontier PRO-4X",
+      "count": 1,
+      "file": "inventory/new-nissan-frontier-pro-4x.json",
+      "models": [
+        {
+          "model": "Frontier PRO-4X",
           "count": 1
         }
       ]

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T09:50:32+00:00",
-  "snapshot": "2026-11-17T09:50:32+00:00",
+  "generated_at": "2026-11-17T15:50:34+00:00",
+  "snapshot": "2026-11-17T15:50:34+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "chilliwack-mitsubishi-jn1mz2hb5vm401538",
@@ -63,6 +63,34 @@
       "city": "Chilliwack",
       "province": "BC",
       "dealer_name": "Chilliwack Mitsubishi"
+    },
+    {
+      "pub_id": "red-deer-mitsubishi-jn1mz2hb2vm401853",
+      "year": 2027,
+      "make": "Mitsubishi",
+      "model": "Eclipse Sportback",
+      "trim": "EV",
+      "drivetrain": "FWD",
+      "propulsion": "electric",
+      "propulsion_source": "description",
+      "propulsion_confidence": "medium",
+      "condition": "new",
+      "odometer_km": 5,
+      "price_cad": 51553.0,
+      "price_note": null,
+      "color": "Midnight Blue Pearlescent",
+      "photo_url": "https://img.sm360.ca/images/inventory/red-deer-mitsubishi/mitsubishi/eclipse-sportback/2027/39421540/39421540_02110_c4fac95476c5eafc996e9ff3e46baac7.jpeg",
+      "dealer_id": "red-deer-mitsubishi",
+      "vin": "JN1MZ2HB2VM401853",
+      "stock": "ES27185",
+      "listing_url": "https://www.reddeermitsubishi.ca/en/new-inventory/mitsubishi/eclipse-sportback/2027-mitsubishi-eclipse-sportback-id39421540",
+      "dealer_url": "https://www.reddeermitsubishi.ca/en/new-inventory/mitsubishi/eclipse-sportback/2027-mitsubishi-eclipse-sportback-id39421540?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T04:25:47",
+      "snapshot": "2026-11-17T04:34:33",
+      "go_url": "https://carwhisper.ca/go/red-deer-mitsubishi-jn1mz2hb2vm401853",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Red Deer Mitsubishi"
     }
   ]
 }

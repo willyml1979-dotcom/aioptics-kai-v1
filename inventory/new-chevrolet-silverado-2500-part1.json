@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T09:50:32+00:00",
-  "snapshot": "2026-11-17T09:50:32+00:00",
+  "generated_at": "2026-11-17T15:50:34+00:00",
+  "snapshot": "2026-11-17T15:50:34+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 24,
+  "count": 25,
   "vehicles": [
     {
       "pub_id": "kelowna-chevrolet-2gc4kme75t1241313",
@@ -58,6 +58,32 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Kelowna Chevrolet"
+    },
+    {
+      "pub_id": "island-chevrolet-buick-gmc-2gc4kme74t1241335",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Silverado 2500",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 0,
+      "price_cad": 73965.0,
+      "price_note": null,
+      "photo_url": "https://www.islandgm.com/wp-content/themes/convertus-achilles/achilles/assets/images/srp-placeholder/PV.jpg",
+      "dealer_id": "island-chevrolet-buick-gmc",
+      "vin": "2GC4KME74T1241335",
+      "stock": "N241335",
+      "listing_url": "https://www.islandgm.com/vehicles/2026/chevrolet/silverado-2500/duncan/bc/ad13765735/?sale_class=new",
+      "dealer_url": "https://www.islandgm.com/vehicles/2026/chevrolet/silverado-2500/duncan/bc/ad13765735/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T05:36:27",
+      "snapshot": "2026-11-17T05:42:04",
+      "go_url": "https://carwhisper.ca/go/island-chevrolet-buick-gmc-2gc4kme74t1241335",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Island Chevrolet Buick GMC"
     },
     {
       "pub_id": "harris-oceanside-chevrolet-buick-gmc-ltd-1gc4kme71tf399656",

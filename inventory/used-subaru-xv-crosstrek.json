@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T09:50:32+00:00",
-  "snapshot": "2026-11-17T09:50:32+00:00",
+  "generated_at": "2026-11-17T15:50:34+00:00",
+  "snapshot": "2026-11-17T15:50:34+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 3,
   "vehicles": [
@@ -60,31 +60,30 @@
       "dealer_name": "Subaru of Penticton"
     },
     {
-      "pub_id": "go-richmond-kia-jf2gpbdc0fh251073",
+      "pub_id": "go-richmond-subaru-jf2gpapc1fh256806",
       "year": 2015,
       "make": "Subaru",
       "model": "XV Crosstrek",
-      "drivetrain": "AWD",
-      "propulsion": "unknown",
-      "propulsion_source": "conflict",
-      "propulsion_confidence": "low",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
       "condition": "used",
-      "odometer_km": 91877,
-      "price_cad": 13895.0,
+      "odometer_km": 68472,
+      "price_cad": 18495.0,
       "price_note": null,
-      "color": "Blue",
-      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/fa8254d1-599a-4dd3-8f68-6207ca5ee658_5b663cca-6153-4ae5-91ce-44cea2cc7481.jpg",
-      "dealer_id": "go-richmond-kia",
-      "vin": "JF2GPBDC0FH251073",
-      "stock": "6085566",
-      "listing_url": "https://www.gorichmondkia.ca/vehicles/2015/subaru/xv-crosstrek/richmond/bc/70862808/?sale_class=used",
-      "dealer_url": "https://www.gorichmondkia.ca/vehicles/2015/subaru/xv-crosstrek/richmond/bc/70862808/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-26T05:46:48",
-      "snapshot": "2026-10-26T05:49:12",
-      "go_url": "https://carwhisper.ca/go/go-richmond-kia-jf2gpbdc0fh251073",
+      "color": "Green",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/4383ebe8-d572-49e1-9171-04e153b7fb9b_edad5f60-76dd-41a2-a954-61581f84ba25.jpg",
+      "dealer_id": "go-richmond-subaru",
+      "vin": "JF2GPAPC1FH256806",
+      "stock": "26CT461",
+      "listing_url": "https://www.gorichmondsubaru.ca/vehicles/2015/subaru/xv-crosstrek/richmond/bc/ad13647205/?sale_class=used",
+      "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2015/subaru/xv-crosstrek/richmond/bc/ad13647205/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T03:08:05",
+      "snapshot": "2026-11-17T03:19:52",
+      "go_url": "https://carwhisper.ca/go/go-richmond-subaru-jf2gpapc1fh256806",
       "city": null,
       "province": "BC",
-      "dealer_name": "Go Richmond Kia"
+      "dealer_name": "Go Richmond Subaru"
     }
   ]
 }

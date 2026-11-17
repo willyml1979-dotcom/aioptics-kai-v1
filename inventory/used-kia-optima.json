@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T09:50:32+00:00",
-  "snapshot": "2026-11-17T09:50:32+00:00",
+  "generated_at": "2026-11-17T15:50:34+00:00",
+  "snapshot": "2026-11-17T15:50:34+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "applewood-kia-langley-knagn4a75b5232633",
@@ -33,6 +33,31 @@
       "city": "Langley",
       "province": "BC",
       "dealer_name": "Applewood Kia - Langley"
+    },
+    {
+      "pub_id": "openroad-toyota-richmond-knagm4a73d5349987",
+      "year": 2013,
+      "make": "Kia",
+      "model": "Optima",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 185612,
+      "price_cad": 7000.0,
+      "price_note": null,
+      "dealer_id": "openroad-toyota-richmond",
+      "vin": "KNAGM4A73D5349987",
+      "stock": "1UTNA49987",
+      "listing_url": "https://openroadtoyotarichmond.com/used/2013-kia-optima/KNAGM4A73D5349987",
+      "dealer_url": "https://openroadtoyotarichmond.com/used/2013-kia-optima/KNAGM4A73D5349987?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T06:06:03",
+      "snapshot": "2026-11-17T06:26:42",
+      "go_url": "https://carwhisper.ca/go/openroad-toyota-richmond-knagm4a73d5349987",
+      "region": "Lower Mainland",
+      "city": "Richmond",
+      "province": "BC",
+      "dealer_name": "OpenRoad Toyota - Richmond"
     },
     {
       "pub_id": "applewood-infiniti-langley-5xxgu4l3xkg310741",

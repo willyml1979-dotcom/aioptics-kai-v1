@@ -1,37 +1,96 @@
 {
-  "generated_at": "2026-11-17T09:50:32+00:00",
+  "generated_at": "2026-11-17T15:50:34+00:00",
   "condition": "used",
   "make": "fiat",
   "files": [
     {
       "condition": "used",
       "make": "fiat",
-      "count": 22,
-      "file": "inventory/used-fiat.json",
+      "model": "500",
+      "count": 20,
+      "file": "inventory/used-fiat-500.json",
+      "models": [
+        {
+          "model": "500",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "fiat",
+      "model": "500L",
+      "count": 1,
+      "file": "inventory/used-fiat-500l.json",
+      "models": [
+        {
+          "model": "500L",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "fiat",
+      "model": "500e",
+      "count": 13,
+      "file": "inventory/used-fiat-500e.json",
+      "models": [
+        {
+          "model": "500e",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "fiat",
+      "model": "500c",
+      "count": 1,
+      "file": "inventory/used-fiat-500c.json",
+      "models": [
+        {
+          "model": "500c",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "fiat",
+      "model": "124 Spider",
+      "count": 1,
+      "file": "inventory/used-fiat-124-spider.json",
       "models": [
         {
           "model": "124 Spider",
           "count": 1
-        },
-        {
-          "model": "500",
-          "count": 10
-        },
-        {
-          "model": "500L",
-          "count": 1
-        },
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "fiat",
+      "model": "500LTrekking 4dr",
+      "count": 1,
+      "file": "inventory/used-fiat-500ltrekking-4dr.json",
+      "models": [
         {
           "model": "500LTrekking 4dr",
           "count": 1
-        },
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "fiat",
+      "model": "500 Sport",
+      "count": 1,
+      "file": "inventory/used-fiat-500-sport.json",
+      "models": [
         {
-          "model": "500c",
+          "model": "500 Sport",
           "count": 1
-        },
-        {
-          "model": "500e",
-          "count": 8
         }
       ]
     }
