@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T15:50:34+00:00",
-  "snapshot": "2026-11-17T15:50:34+00:00",
+  "generated_at": "2026-11-17T21:50:35+00:00",
+  "snapshot": "2026-11-17T21:50:35+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 11,
+  "count": 12,
   "vehicles": [
     {
       "pub_id": "acura-of-langley-trut5cfv0g1028717",
@@ -45,7 +45,7 @@
       "listing_url": "https://www.burrardacura.ca/en/used-inventory/audi/tt/2016-audi-tt-id39508522",
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/audi/tt/2016-audi-tt-id39508522?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-11-17T07:44:49",
-      "snapshot": "2026-10-26T07:24:01",
+      "snapshot": "2026-11-17T09:16:50",
       "go_url": "https://carwhisper.ca/go/burrard-acura-trut5cfv0g1028717",
       "region": "Lower Mainland",
       "city": "Vancouver",
@@ -141,7 +141,7 @@
       "listing_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/audi/tt/2016-audi-tt-id39508522",
       "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/audi/tt/2016-audi-tt-id39508522?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-11-17T07:26:51",
-      "snapshot": "2026-10-26T07:11:57",
+      "snapshot": "2026-11-17T08:59:44",
       "go_url": "https://carwhisper.ca/go/mercedes-benz-north-vancouver-trut5cfv0g1028717",
       "region": "Lower Mainland",
       "city": "North Vancouver",
@@ -267,6 +267,29 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Southside Nissan Ltd."
+    },
+    {
+      "pub_id": "pacific-honda-trut5cfv0g1028717",
+      "year": 2016,
+      "make": "Audi",
+      "model": "TT 2.0T qtro 6sp S tronic Rdstr",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 38371,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "pacific-honda",
+      "vin": "TRUT5CFV0G1028717",
+      "stock": "JL12B08",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/audi/tt/2016-audi-tt-id39508522",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/audi/tt/2016-audi-tt-id39508522?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T11:49:26",
+      "snapshot": "2026-11-17T13:47:41",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-trut5cfv0g1028717",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

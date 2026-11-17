@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T15:50:34+00:00",
-  "snapshot": "2026-11-17T15:50:34+00:00",
+  "generated_at": "2026-11-17T21:50:35+00:00",
+  "snapshot": "2026-11-17T21:50:35+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 5,
   "vehicles": [
@@ -35,6 +35,34 @@
       "dealer_name": "Bannister Nissan Chilliwack"
     },
     {
+      "pub_id": "openroad-acura-richmond-1n6ba1f38kn517238",
+      "year": 2019,
+      "make": "Nissan",
+      "model": "Titan XD",
+      "trim": "4x4 Crew Cab Diesel S",
+      "drivetrain": "4WD",
+      "propulsion": "diesel",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 30063,
+      "price_cad": 31107.0,
+      "price_note": null,
+      "color": "Glacier White",
+      "dealer_id": "openroad-acura-richmond",
+      "vin": "1N6BA1F38KN517238",
+      "stock": "31UEBA17238",
+      "listing_url": "https://acurarichmond.com/used/2019-nissan-titan-xd-4x4-crew-cab-diesel-s/1N6BA1F38KN517238",
+      "dealer_url": "https://acurarichmond.com/used/2019-nissan-titan-xd-4x4-crew-cab-diesel-s/1N6BA1F38KN517238?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T14:29:48",
+      "snapshot": "2026-11-17T14:30:31",
+      "go_url": "https://carwhisper.ca/go/openroad-acura-richmond-1n6ba1f38kn517238",
+      "region": "Lower Mainland",
+      "city": "Richmond",
+      "province": "BC",
+      "dealer_name": "OpenRoad Acura Richmond"
+    },
+    {
       "pub_id": "prince-george-ford-1n6aa1f42hn513313",
       "year": 2017,
       "make": "Nissan",
@@ -54,7 +82,7 @@
       "listing_url": "https://www.pgford.ca/vehicles/2017/nissan/titan-xd/prince-george/bc/71491251/?sale_class=used",
       "dealer_url": "https://www.pgford.ca/vehicles/2017/nissan/titan-xd/prince-george/bc/71491251/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-22T02:48:36",
-      "snapshot": "2026-10-26T09:24:38",
+      "snapshot": "2026-11-17T11:45:32",
       "go_url": "https://carwhisper.ca/go/prince-george-ford-1n6aa1f42hn513313",
       "region": "Norte/Cariboo",
       "city": "Prince George",
@@ -108,30 +136,6 @@
       "city": "Penticton",
       "province": "BC",
       "dealer_name": "Penticton Nissan"
-    },
-    {
-      "pub_id": "victoria-hyundai-1n6ba1f43gn501979",
-      "year": 2016,
-      "make": "Nissan",
-      "model": "Titan XD",
-      "propulsion": "unknown",
-      "propulsion_source": null,
-      "condition": "used",
-      "price_cad": 21908.0,
-      "price_note": null,
-      "color": "White",
-      "dealer_id": "victoria-hyundai",
-      "vin": "1N6BA1F43GN501979",
-      "stock": 14516714,
-      "listing_url": "https://www.victoriahyundai.com/used/2016-Nissan-Titan_XD.html",
-      "dealer_url": "https://www.victoriahyundai.com/used/2016-Nissan-Titan_XD.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T09:25:52",
-      "snapshot": "2026-10-26T10:00:10",
-      "go_url": "https://carwhisper.ca/go/victoria-hyundai-1n6ba1f43gn501979",
-      "region": "Vancouver Island",
-      "city": "Victoria",
-      "province": "BC",
-      "dealer_name": "Victoria Hyundai"
     }
   ]
 }

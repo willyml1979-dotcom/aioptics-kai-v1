@@ -1,19 +1,32 @@
 {
-  "generated_at": "2026-11-17T15:50:34+00:00",
+  "generated_at": "2026-11-17T21:50:35+00:00",
   "condition": "new",
   "make": "lexus",
   "files": [
     {
       "condition": "new",
       "make": "lexus",
+      "model": "IS",
+      "count": 21,
+      "file": "inventory/new-lexus-is.json",
+      "models": [
+        {
+          "model": "IS",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "lexus",
       "model": "UX Hybrid",
       "shard": "part1",
-      "count": 24,
+      "count": 32,
       "file": "inventory/new-lexus-ux-hybrid-part1.json",
       "models": [
         {
           "model": "UX Hybrid",
-          "count": 24
+          "count": 32
         }
       ]
     },
@@ -22,39 +35,12 @@
       "make": "lexus",
       "model": "UX Hybrid",
       "shard": "part2",
-      "count": 24,
+      "count": 32,
       "file": "inventory/new-lexus-ux-hybrid-part2.json",
       "models": [
         {
           "model": "UX Hybrid",
-          "count": 24
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "lexus",
-      "model": "UX Hybrid",
-      "shard": "part3",
-      "count": 24,
-      "file": "inventory/new-lexus-ux-hybrid-part3.json",
-      "models": [
-        {
-          "model": "UX Hybrid",
-          "count": 24
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "lexus",
-      "model": "IS",
-      "count": 22,
-      "file": "inventory/new-lexus-is.json",
-      "models": [
-        {
-          "model": "IS",
-          "count": 22
+          "count": 32
         }
       ]
     },
@@ -90,12 +76,12 @@
       "condition": "new",
       "make": "lexus",
       "model": "RZ",
-      "count": 8,
+      "count": 6,
       "file": "inventory/new-lexus-rz.json",
       "models": [
         {
           "model": "RZ",
-          "count": 8
+          "count": 6
         }
       ]
     },
@@ -103,12 +89,12 @@
       "condition": "new",
       "make": "lexus",
       "model": "NX",
-      "count": 32,
+      "count": 31,
       "file": "inventory/new-lexus-nx.json",
       "models": [
         {
           "model": "NX",
-          "count": 32
+          "count": 31
         }
       ]
     },
@@ -116,27 +102,12 @@
       "condition": "new",
       "make": "lexus",
       "model": "NX Hybrid",
-      "shard": "part1",
-      "count": 19,
-      "file": "inventory/new-lexus-nx-hybrid-part1.json",
+      "count": 31,
+      "file": "inventory/new-lexus-nx-hybrid.json",
       "models": [
         {
           "model": "NX Hybrid",
-          "count": 19
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "lexus",
-      "model": "NX Hybrid",
-      "shard": "part2",
-      "count": 19,
-      "file": "inventory/new-lexus-nx-hybrid-part2.json",
-      "models": [
-        {
-          "model": "NX Hybrid",
-          "count": 19
+          "count": 31
         }
       ]
     },
@@ -157,8 +128,9 @@
       "condition": "new",
       "make": "lexus",
       "model": "NX Plug-in Hybrid",
-      "count": 20,
-      "file": "inventory/new-lexus-nx-plug-in-hybrid.json",
+      "shard": "part1",
+      "count": 18,
+      "file": "inventory/new-lexus-nx-plug-in-hybrid-part1.json",
       "models": [
         {
           "model": "NX Plug-In Hybrid",
@@ -166,7 +138,25 @@
         },
         {
           "model": "NX Plug-in Hybrid",
-          "count": 4
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "lexus",
+      "model": "NX Plug-in Hybrid",
+      "shard": "part2",
+      "count": 17,
+      "file": "inventory/new-lexus-nx-plug-in-hybrid-part2.json",
+      "models": [
+        {
+          "model": "NX Plug-In Hybrid",
+          "count": 15
+        },
+        {
+          "model": "NX Plug-in Hybrid",
+          "count": 2
         }
       ]
     },
@@ -174,25 +164,25 @@
       "condition": "new",
       "make": "lexus",
       "model": "RX",
-      "count": 27,
+      "count": 30,
       "file": "inventory/new-lexus-rx.json",
       "models": [
         {
           "model": "RX",
-          "count": 27
+          "count": 30
         }
       ]
     },
     {
       "condition": "new",
       "make": "lexus",
-      "model": "ES Hybrid",
-      "count": 3,
-      "file": "inventory/new-lexus-es-hybrid.json",
+      "model": "ES All-Electric",
+      "count": 2,
+      "file": "inventory/new-lexus-es-all-electric.json",
       "models": [
         {
-          "model": "ES Hybrid",
-          "count": 3
+          "model": "ES All-Electric",
+          "count": 2
         }
       ]
     },
@@ -200,12 +190,12 @@
       "condition": "new",
       "make": "lexus",
       "model": "RX Hybrid",
-      "count": 24,
+      "count": 20,
       "file": "inventory/new-lexus-rx-hybrid.json",
       "models": [
         {
           "model": "RX Hybrid",
-          "count": 24
+          "count": 20
         }
       ]
     },
@@ -213,12 +203,25 @@
       "condition": "new",
       "make": "lexus",
       "model": "TX",
-      "count": 15,
+      "count": 18,
       "file": "inventory/new-lexus-tx.json",
       "models": [
         {
           "model": "TX",
-          "count": 15
+          "count": 18
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "lexus",
+      "model": "ES Hybrid",
+      "count": 4,
+      "file": "inventory/new-lexus-es-hybrid.json",
+      "models": [
+        {
+          "model": "ES Hybrid",
+          "count": 4
         }
       ]
     },
@@ -252,24 +255,11 @@
       "condition": "new",
       "make": "lexus",
       "model": "RX Plug-In Hybrid",
-      "count": 13,
+      "count": 12,
       "file": "inventory/new-lexus-rx-plug-in-hybrid.json",
       "models": [
         {
           "model": "RX Plug-In Hybrid",
-          "count": 13
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "lexus",
-      "model": "TX Hybrid",
-      "count": 12,
-      "file": "inventory/new-lexus-tx-hybrid.json",
-      "models": [
-        {
-          "model": "TX Hybrid",
           "count": 12
         }
       ]
@@ -277,26 +267,26 @@
     {
       "condition": "new",
       "make": "lexus",
-      "model": "GX",
-      "count": 4,
-      "file": "inventory/new-lexus-gx.json",
+      "model": "TX Hybrid",
+      "count": 8,
+      "file": "inventory/new-lexus-tx-hybrid.json",
       "models": [
         {
-          "model": "GX",
-          "count": 4
+          "model": "TX Hybrid",
+          "count": 8
         }
       ]
     },
     {
       "condition": "new",
       "make": "lexus",
-      "model": "GX 550",
-      "count": 1,
-      "file": "inventory/new-lexus-gx-550.json",
+      "model": "GX",
+      "count": 9,
+      "file": "inventory/new-lexus-gx.json",
       "models": [
         {
-          "model": "GX 550",
-          "count": 1
+          "model": "GX",
+          "count": 9
         }
       ]
     },
@@ -304,12 +294,12 @@
       "condition": "new",
       "make": "lexus",
       "model": "LX 600",
-      "count": 8,
+      "count": 7,
       "file": "inventory/new-lexus-lx-600.json",
       "models": [
         {
           "model": "LX 600",
-          "count": 8
+          "count": 7
         }
       ]
     },

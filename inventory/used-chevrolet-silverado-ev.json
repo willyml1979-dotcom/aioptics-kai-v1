@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T15:50:34+00:00",
-  "snapshot": "2026-11-17T15:50:34+00:00",
+  "generated_at": "2026-11-17T21:50:35+00:00",
+  "snapshot": "2026-11-17T21:50:35+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "dueck-richmond-1gc10ued5ru208968",
@@ -33,6 +33,34 @@
       "city": "Richmond",
       "province": "BC",
       "dealer_name": "Dueck Richmond"
+    },
+    {
+      "pub_id": "kelowna-chevrolet-1gc10vel0ru208289",
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Silverado EV",
+      "body_type": "truck",
+      "propulsion": "electric",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 50824,
+      "price_cad": 75980.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/f1d5d12f-a899-433d-af73-d36e2e168772_c29e9ee9-e57b-4cd6-be2f-a91397002ece.jpg",
+      "dealer_id": "kelowna-chevrolet",
+      "vin": "1GC10VEL0RU208289",
+      "stock": "6K19658",
+      "listing_url": "https://www.kelownachev.com/vehicles/2024/chevrolet/silverado-ev/kelowna/bc/ad13595671/?sale_class=used",
+      "dealer_url": "https://www.kelownachev.com/vehicles/2024/chevrolet/silverado-ev/kelowna/bc/ad13595671/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T09:16:09",
+      "snapshot": "2026-11-17T09:22:43",
+      "go_url": "https://carwhisper.ca/go/kelowna-chevrolet-1gc10vel0ru208289",
+      "region": "Okanagan",
+      "city": "Kelowna",
+      "province": "BC",
+      "dealer_name": "Kelowna Chevrolet"
     }
   ]
 }

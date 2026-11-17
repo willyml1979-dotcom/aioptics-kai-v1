@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T15:50:34+00:00",
-  "snapshot": "2026-11-17T15:50:34+00:00",
+  "generated_at": "2026-11-17T21:50:35+00:00",
+  "snapshot": "2026-11-17T21:50:35+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "cranbrook-dodge-3c7wrnbl8vg405470",
@@ -29,6 +29,31 @@
       "dealer_name": "Cranbrook Dodge"
     },
     {
+      "pub_id": "pioneer-chrysler-jeep-78704-488132",
+      "year": 2027,
+      "make": "Ram",
+      "model": "5500 Chassis",
+      "trim": "Tradesman 4x2 Reg Cab 144.5\" WB",
+      "drivetrain": "RWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "price_cad": 74190.0,
+      "price_note": null,
+      "dealer_id": "pioneer-chrysler-jeep",
+      "stock": "78704-488132",
+      "listing_url": "https://www.pioneerchryslerjeep.com/new/2027-Ram-5500_Chassis.html",
+      "dealer_url": "https://www.pioneerchryslerjeep.com/new/2027-Ram-5500_Chassis.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T11:41:50",
+      "snapshot": "2026-11-17T11:44:06",
+      "go_url": "https://carwhisper.ca/go/pioneer-chrysler-jeep-78704-488132",
+      "region": "Lower Mainland",
+      "city": "Mission",
+      "province": "BC",
+      "dealer_name": "Pioneer Chrysler Jeep"
+    },
+    {
       "pub_id": "gustafson-s-dodge-chrysler-jeep-3c7wrnfl5tg307987",
       "year": 2026,
       "make": "RAM",
@@ -45,7 +70,7 @@
       "listing_url": "https://www.gustafsonsdodge.com/new/inventory/2026-RAM-5500_Chassis.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/inventory/2026-RAM-5500_Chassis.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-22T23:51:29",
-      "snapshot": "2026-10-26T09:35:13",
+      "snapshot": "2026-11-17T12:09:26",
       "go_url": "https://carwhisper.ca/go/gustafson-s-dodge-chrysler-jeep-3c7wrnfl5tg307987",
       "region": "Norte/Cariboo",
       "city": "Williams Lake",

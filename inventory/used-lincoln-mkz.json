@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T15:50:34+00:00",
-  "snapshot": "2026-11-17T15:50:34+00:00",
+  "generated_at": "2026-11-17T21:50:35+00:00",
+  "snapshot": "2026-11-17T21:50:35+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 13,
+  "count": 14,
   "vehicles": [
     {
       "pub_id": "acura-of-langley-3ln6l5f92hr639041",
@@ -53,7 +53,7 @@
       "listing_url": "https://www.burrardacura.ca/en/used-inventory/lincoln/mkz/2017-lincoln-mkz-id39448624",
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/lincoln/mkz/2017-lincoln-mkz-id39448624?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-11-17T08:25:19",
-      "snapshot": "2026-10-26T07:24:01",
+      "snapshot": "2026-11-17T09:16:50",
       "go_url": "https://carwhisper.ca/go/burrard-acura-3ln6l5f92hr639041",
       "region": "Lower Mainland",
       "city": "Vancouver",
@@ -165,7 +165,7 @@
       "listing_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/lincoln/mkz/2017-lincoln-mkz-id39448624",
       "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/lincoln/mkz/2017-lincoln-mkz-id39448624?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-11-17T08:07:04",
-      "snapshot": "2026-10-26T07:11:57",
+      "snapshot": "2026-11-17T08:59:44",
       "go_url": "https://carwhisper.ca/go/mercedes-benz-north-vancouver-3ln6l5f92hr639041",
       "region": "Lower Mainland",
       "city": "North Vancouver",
@@ -370,6 +370,33 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Jim Pattison Toyota Victoria"
+    },
+    {
+      "pub_id": "pacific-honda-3ln6l5f92hr639041",
+      "year": 2017,
+      "make": "Lincoln",
+      "model": "MKZ",
+      "trim": "Reserve",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 42835,
+      "price_cad": 19456.0,
+      "price_note": null,
+      "color": "Ruby Red Tinted C.C. (MET)",
+      "photo_url": "https://img.sm360.ca/images/inventory/genesis-downtown-vancouver/lincoln/mkz/2017/39448624/39448624_06254_2f9388cf4eaae059cd6ed02a856d9b75.jpeg",
+      "dealer_id": "pacific-honda",
+      "vin": "3LN6L5F92HR639041",
+      "stock": "G27118A",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/lincoln/mkz/2017-lincoln-mkz-id39448624",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/lincoln/mkz/2017-lincoln-mkz-id39448624?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T12:41:15",
+      "snapshot": "2026-11-17T13:47:41",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-3ln6l5f92hr639041",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

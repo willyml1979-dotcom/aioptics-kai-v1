@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-17T15:50:34+00:00",
+  "generated_at": "2026-11-17T21:50:35+00:00",
   "condition": "new",
   "make": "chrysler",
   "files": [
     {
       "condition": "new",
       "make": "chrysler",
-      "model": "GRAND CARAVAN",
-      "count": 16,
+      "model": "Grand Caravan",
+      "count": 13,
       "file": "inventory/new-chrysler-grand-caravan.json",
       "models": [
         {
           "model": "GRAND CARAVAN",
-          "count": 3
+          "count": 2
         },
         {
           "model": "Grand Caravan",
-          "count": 13
+          "count": 11
         }
       ]
     },
@@ -24,12 +24,12 @@
       "condition": "new",
       "make": "chrysler",
       "model": "Pacifica Select FWD",
-      "count": 9,
+      "count": 7,
       "file": "inventory/new-chrysler-pacifica-select-fwd.json",
       "models": [
         {
           "model": "Pacifica Select FWD",
-          "count": 9
+          "count": 7
         }
       ]
     },
@@ -38,13 +38,9 @@
       "make": "chrysler",
       "model": "Pacifica",
       "shard": "Kootenays",
-      "count": 4,
+      "count": 3,
       "file": "inventory/new-chrysler-pacifica-kootenays.json",
       "models": [
-        {
-          "model": "PACIFICA",
-          "count": 1
-        },
         {
           "model": "Pacifica",
           "count": 3
@@ -56,12 +52,12 @@
       "make": "chrysler",
       "model": "Pacifica",
       "shard": "Lower Mainland",
-      "count": 15,
+      "count": 14,
       "file": "inventory/new-chrysler-pacifica-lower-mainland.json",
       "models": [
         {
           "model": "Pacifica",
-          "count": 15
+          "count": 14
         }
       ]
     },
@@ -70,7 +66,7 @@
       "make": "chrysler",
       "model": "Pacifica",
       "shard": "Norte/Cariboo",
-      "count": 7,
+      "count": 5,
       "file": "inventory/new-chrysler-pacifica-norte-cariboo.json",
       "models": [
         {
@@ -79,7 +75,7 @@
         },
         {
           "model": "Pacifica",
-          "count": 6
+          "count": 4
         }
       ]
     },
@@ -147,12 +143,12 @@
       "condition": "new",
       "make": "chrysler",
       "model": "Pacifica Hybrid Select 2WD",
-      "count": 7,
+      "count": 6,
       "file": "inventory/new-chrysler-pacifica-hybrid-select-2wd.json",
       "models": [
         {
           "model": "Pacifica Hybrid Select 2WD",
-          "count": 7
+          "count": 6
         }
       ]
     },
@@ -160,12 +156,12 @@
       "condition": "new",
       "make": "chrysler",
       "model": "Grand Caravan SXT 2WD",
-      "count": 12,
+      "count": 10,
       "file": "inventory/new-chrysler-grand-caravan-sxt-2wd.json",
       "models": [
         {
           "model": "Grand Caravan SXT 2WD",
-          "count": 12
+          "count": 10
         }
       ]
     },

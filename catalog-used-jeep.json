@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T15:50:34+00:00",
+  "generated_at": "2026-11-17T21:50:35+00:00",
   "condition": "used",
   "make": "jeep",
   "files": [
@@ -8,12 +8,12 @@
       "make": "jeep",
       "model": "Compass",
       "shard": "Kootenays",
-      "count": 5,
+      "count": 3,
       "file": "inventory/used-jeep-compass-kootenays.json",
       "models": [
         {
           "model": "COMPASS",
-          "count": 3
+          "count": 1
         },
         {
           "model": "Compass",
@@ -45,11 +45,11 @@
       "models": [
         {
           "model": "COMPASS",
-          "count": 5
+          "count": 4
         },
         {
           "model": "Compass",
-          "count": 11
+          "count": 12
         }
       ]
     },
@@ -58,7 +58,7 @@
       "make": "jeep",
       "model": "Compass",
       "shard": "Okanagan",
-      "count": 12,
+      "count": 13,
       "file": "inventory/used-jeep-compass-okanagan.json",
       "models": [
         {
@@ -67,7 +67,7 @@
         },
         {
           "model": "Compass",
-          "count": 10
+          "count": 11
         }
       ]
     },
@@ -90,12 +90,12 @@
       "make": "jeep",
       "model": "Compass",
       "shard": "Vancouver Island",
-      "count": 22,
+      "count": 21,
       "file": "inventory/used-jeep-compass-vancouver-island.json",
       "models": [
         {
           "model": "Compass",
-          "count": 22
+          "count": 21
         }
       ]
     },
@@ -104,12 +104,12 @@
       "make": "jeep",
       "model": "Compass",
       "shard": "sin-region",
-      "count": 26,
+      "count": 25,
       "file": "inventory/used-jeep-compass-sin-region.json",
       "models": [
         {
           "model": "Compass",
-          "count": 26
+          "count": 25
         }
       ]
     },
@@ -117,12 +117,12 @@
       "condition": "used",
       "make": "jeep",
       "model": "Wrangler JK Unlimited",
-      "count": 5,
+      "count": 6,
       "file": "inventory/used-jeep-wrangler-jk-unlimited.json",
       "models": [
         {
           "model": "Wrangler JK Unlimited",
-          "count": 5
+          "count": 6
         }
       ]
     },
@@ -135,19 +135,6 @@
       "models": [
         {
           "model": "GLADIATORWillys 4x4",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "jeep",
-      "model": "GRAND CHEROKEE 4XE4x4",
-      "count": 1,
-      "file": "inventory/used-jeep-grand-cherokee-4xe4x4.json",
-      "models": [
-        {
-          "model": "GRAND CHEROKEE 4XE4x4",
           "count": 1
         }
       ]
@@ -170,7 +157,7 @@
       "make": "jeep",
       "model": "Grand Cherokee",
       "shard": "part1",
-      "count": 26,
+      "count": 27,
       "file": "inventory/used-jeep-grand-cherokee-part1.json",
       "models": [
         {
@@ -179,7 +166,7 @@
         },
         {
           "model": "Grand Cherokee",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -188,7 +175,7 @@
       "make": "jeep",
       "model": "Grand Cherokee",
       "shard": "part2",
-      "count": 26,
+      "count": 27,
       "file": "inventory/used-jeep-grand-cherokee-part2.json",
       "models": [
         {
@@ -197,7 +184,7 @@
         },
         {
           "model": "Grand Cherokee",
-          "count": 22
+          "count": 23
         }
       ]
     },
@@ -206,7 +193,7 @@
       "make": "jeep",
       "model": "Grand Cherokee",
       "shard": "part3",
-      "count": 26,
+      "count": 27,
       "file": "inventory/used-jeep-grand-cherokee-part3.json",
       "models": [
         {
@@ -215,7 +202,7 @@
         },
         {
           "model": "Grand Cherokee",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -224,7 +211,7 @@
       "make": "jeep",
       "model": "Grand Cherokee",
       "shard": "part4",
-      "count": 26,
+      "count": 27,
       "file": "inventory/used-jeep-grand-cherokee-part4.json",
       "models": [
         {
@@ -233,7 +220,7 @@
         },
         {
           "model": "Grand Cherokee",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -284,9 +271,13 @@
       "make": "jeep",
       "model": "Grand Cherokee L",
       "shard": "Norte/Cariboo",
-      "count": 2,
+      "count": 4,
       "file": "inventory/used-jeep-grand-cherokee-l-norte-cariboo.json",
       "models": [
+        {
+          "model": "GRAND CHEROKEE L",
+          "count": 2
+        },
         {
           "model": "Grand Cherokee L",
           "count": 2
@@ -352,14 +343,27 @@
     {
       "condition": "used",
       "make": "jeep",
+      "model": "GLADIATOROverland 4x4",
+      "count": 1,
+      "file": "inventory/used-jeep-gladiatoroverland-4x4.json",
+      "models": [
+        {
+          "model": "GLADIATOROverland 4x4",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
       "model": "GLADIATOR",
       "shard": "Kootenays",
-      "count": 3,
+      "count": 2,
       "file": "inventory/used-jeep-gladiator-kootenays.json",
       "models": [
         {
           "model": "GLADIATOR",
-          "count": 2
+          "count": 1
         },
         {
           "model": "Gladiator",
@@ -386,12 +390,12 @@
       "make": "jeep",
       "model": "GLADIATOR",
       "shard": "Norte/Cariboo",
-      "count": 1,
+      "count": 4,
       "file": "inventory/used-jeep-gladiator-norte-cariboo.json",
       "models": [
         {
           "model": "Gladiator",
-          "count": 1
+          "count": 4
         }
       ]
     },
@@ -442,12 +446,12 @@
       "make": "jeep",
       "model": "GLADIATOR",
       "shard": "sin-region",
-      "count": 5,
+      "count": 4,
       "file": "inventory/used-jeep-gladiator-sin-region.json",
       "models": [
         {
           "model": "Gladiator",
-          "count": 5
+          "count": 4
         }
       ]
     },
@@ -456,16 +460,16 @@
       "make": "jeep",
       "model": "WRANGLER",
       "shard": "part1",
-      "count": 31,
+      "count": 28,
       "file": "inventory/used-jeep-wrangler-part1.json",
       "models": [
         {
           "model": "WRANGLER",
-          "count": 7
+          "count": 6
         },
         {
           "model": "Wrangler",
-          "count": 24
+          "count": 22
         }
       ]
     },
@@ -474,12 +478,12 @@
       "make": "jeep",
       "model": "WRANGLER",
       "shard": "part2",
-      "count": 31,
+      "count": 28,
       "file": "inventory/used-jeep-wrangler-part2.json",
       "models": [
         {
           "model": "Wrangler",
-          "count": 31
+          "count": 28
         }
       ]
     },
@@ -488,12 +492,12 @@
       "make": "jeep",
       "model": "WRANGLER",
       "shard": "part3",
-      "count": 31,
+      "count": 28,
       "file": "inventory/used-jeep-wrangler-part3.json",
       "models": [
         {
           "model": "Wrangler",
-          "count": 31
+          "count": 28
         }
       ]
     },
@@ -502,16 +506,12 @@
       "make": "jeep",
       "model": "WRANGLER",
       "shard": "part4",
-      "count": 31,
+      "count": 28,
       "file": "inventory/used-jeep-wrangler-part4.json",
       "models": [
         {
-          "model": "WRANGLER",
-          "count": 1
-        },
-        {
           "model": "Wrangler",
-          "count": 30
+          "count": 28
         }
       ]
     },
@@ -520,12 +520,30 @@
       "make": "jeep",
       "model": "WRANGLER",
       "shard": "part5",
-      "count": 31,
+      "count": 28,
       "file": "inventory/used-jeep-wrangler-part5.json",
       "models": [
         {
           "model": "WRANGLER",
-          "count": 4
+          "count": 3
+        },
+        {
+          "model": "Wrangler",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "WRANGLER",
+      "shard": "part6",
+      "count": 28,
+      "file": "inventory/used-jeep-wrangler-part6.json",
+      "models": [
+        {
+          "model": "WRANGLER",
+          "count": 1
         },
         {
           "model": "Wrangler",
@@ -537,13 +555,13 @@
       "condition": "used",
       "make": "jeep",
       "model": "WRANGLER",
-      "shard": "part6",
-      "count": 31,
-      "file": "inventory/used-jeep-wrangler-part6.json",
+      "shard": "part7",
+      "count": 28,
+      "file": "inventory/used-jeep-wrangler-part7.json",
       "models": [
         {
           "model": "Wrangler",
-          "count": 31
+          "count": 28
         }
       ]
     },
@@ -551,9 +569,9 @@
       "condition": "used",
       "make": "jeep",
       "model": "WRANGLER",
-      "shard": "part7",
-      "count": 30,
-      "file": "inventory/used-jeep-wrangler-part7.json",
+      "shard": "part8",
+      "count": 23,
+      "file": "inventory/used-jeep-wrangler-part8.json",
       "models": [
         {
           "model": "WRANGLER",
@@ -561,7 +579,7 @@
         },
         {
           "model": "Wrangler",
-          "count": 29
+          "count": 22
         }
       ]
     },
@@ -570,12 +588,12 @@
       "make": "jeep",
       "model": "CHEROKEE",
       "shard": "Kootenays",
-      "count": 5,
+      "count": 6,
       "file": "inventory/used-jeep-cherokee-kootenays.json",
       "models": [
         {
           "model": "CHEROKEE",
-          "count": 4
+          "count": 5
         },
         {
           "model": "Cherokee",
@@ -588,12 +606,12 @@
       "make": "jeep",
       "model": "CHEROKEE",
       "shard": "Lower Mainland",
-      "count": 24,
+      "count": 25,
       "file": "inventory/used-jeep-cherokee-lower-mainland.json",
       "models": [
         {
           "model": "Cherokee",
-          "count": 24
+          "count": 25
         }
       ]
     },
@@ -620,7 +638,7 @@
       "make": "jeep",
       "model": "CHEROKEE",
       "shard": "Okanagan",
-      "count": 16,
+      "count": 17,
       "file": "inventory/used-jeep-cherokee-okanagan.json",
       "models": [
         {
@@ -629,7 +647,7 @@
         },
         {
           "model": "Cherokee",
-          "count": 15
+          "count": 16
         }
       ]
     },
@@ -652,12 +670,12 @@
       "make": "jeep",
       "model": "CHEROKEE",
       "shard": "Vancouver Island",
-      "count": 15,
+      "count": 14,
       "file": "inventory/used-jeep-cherokee-vancouver-island.json",
       "models": [
         {
           "model": "Cherokee",
-          "count": 15
+          "count": 14
         }
       ]
     },
@@ -666,12 +684,29 @@
       "make": "jeep",
       "model": "CHEROKEE",
       "shard": "sin-region",
-      "count": 10,
+      "count": 11,
       "file": "inventory/used-jeep-cherokee-sin-region.json",
       "models": [
         {
           "model": "Cherokee",
-          "count": 10
+          "count": 11
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "GRAND CHEROKEE 4XE",
+      "count": 21,
+      "file": "inventory/used-jeep-grand-cherokee-4xe.json",
+      "models": [
+        {
+          "model": "GRAND CHEROKEE 4XE",
+          "count": 1
+        },
+        {
+          "model": "Grand Cherokee 4xe",
+          "count": 20
         }
       ]
     },
@@ -691,26 +726,13 @@
     {
       "condition": "used",
       "make": "jeep",
-      "model": "CHEROKEELimited 4x4",
-      "count": 1,
-      "file": "inventory/used-jeep-cherokeelimited-4x4.json",
-      "models": [
-        {
-          "model": "CHEROKEELimited 4x4",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "jeep",
       "model": "Patriot",
-      "count": 6,
+      "count": 7,
       "file": "inventory/used-jeep-patriot.json",
       "models": [
         {
           "model": "Patriot",
-          "count": 6
+          "count": 7
         }
       ]
     },
@@ -734,38 +756,12 @@
     {
       "condition": "used",
       "make": "jeep",
-      "model": "Wrangler Unlimited",
-      "count": 23,
-      "file": "inventory/used-jeep-wrangler-unlimited.json",
-      "models": [
-        {
-          "model": "Wrangler Unlimited",
-          "count": 23
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "jeep",
-      "model": "Compass for salein British Columbia",
-      "count": 1,
-      "file": "inventory/used-jeep-compass-for-salein-british-columbia.json",
-      "models": [
-        {
-          "model": "Compass for salein British Columbia",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "jeep",
-      "model": "Cherokee for salein British Columbia",
+      "model": "Grand Cherokee for salein Mission",
       "count": 2,
-      "file": "inventory/used-jeep-cherokee-for-salein-british-columbia.json",
+      "file": "inventory/used-jeep-grand-cherokee-for-salein-mission.json",
       "models": [
         {
-          "model": "Cherokee for salein British Columbia",
+          "model": "Grand Cherokee for salein Mission",
           "count": 2
         }
       ]
@@ -773,13 +769,52 @@
     {
       "condition": "used",
       "make": "jeep",
+      "model": "Wrangler Unlimited",
+      "count": 25,
+      "file": "inventory/used-jeep-wrangler-unlimited.json",
+      "models": [
+        {
+          "model": "Wrangler Unlimited",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Compass for salein British Columbia",
+      "count": 2,
+      "file": "inventory/used-jeep-compass-for-salein-british-columbia.json",
+      "models": [
+        {
+          "model": "Compass for salein British Columbia",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Cherokee for salein British Columbia",
+      "count": 4,
+      "file": "inventory/used-jeep-cherokee-for-salein-british-columbia.json",
+      "models": [
+        {
+          "model": "Cherokee for salein British Columbia",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
       "model": "Grand Cherokee 4X4",
-      "count": 26,
+      "count": 23,
       "file": "inventory/used-jeep-grand-cherokee-4x4.json",
       "models": [
         {
           "model": "Grand Cherokee 4X4",
-          "count": 26
+          "count": 23
         }
       ]
     },
@@ -787,12 +822,12 @@
       "condition": "used",
       "make": "jeep",
       "model": "GRAND CHEROKEE LIMITED",
-      "count": 12,
+      "count": 13,
       "file": "inventory/used-jeep-grand-cherokee-limited.json",
       "models": [
         {
           "model": "GRAND CHEROKEE LIMITED",
-          "count": 11
+          "count": 12
         },
         {
           "model": "Grand Cherokee Limited",
@@ -804,25 +839,12 @@
       "condition": "used",
       "make": "jeep",
       "model": "Wrangler for salein British Columbia",
-      "count": 1,
+      "count": 3,
       "file": "inventory/used-jeep-wrangler-for-salein-british-columbia.json",
       "models": [
         {
           "model": "Wrangler for salein British Columbia",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "jeep",
-      "model": "Grand Cherokee 4xe",
-      "count": 19,
-      "file": "inventory/used-jeep-grand-cherokee-4xe.json",
-      "models": [
-        {
-          "model": "Grand Cherokee 4xe",
-          "count": 19
+          "count": 3
         }
       ]
     },
@@ -831,12 +853,12 @@
       "make": "jeep",
       "model": "Wrangler 4xe",
       "shard": "Lower Mainland",
-      "count": 24,
+      "count": 21,
       "file": "inventory/used-jeep-wrangler-4xe-lower-mainland.json",
       "models": [
         {
           "model": "Wrangler 4xe",
-          "count": 24
+          "count": 21
         }
       ]
     },
@@ -887,7 +909,7 @@
       "make": "jeep",
       "model": "Wrangler 4xe",
       "shard": "sin-region",
-      "count": 5,
+      "count": 6,
       "file": "inventory/used-jeep-wrangler-4xe-sin-region.json",
       "models": [
         {
@@ -896,7 +918,46 @@
         },
         {
           "model": "Wrangler 4xe",
-          "count": 4
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "WranglerUnlimited Sport",
+      "count": 1,
+      "file": "inventory/used-jeep-wranglerunlimited-sport.json",
+      "models": [
+        {
+          "model": "WranglerUnlimited Sport",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "GladiatorRubicon",
+      "count": 1,
+      "file": "inventory/used-jeep-gladiatorrubicon.json",
+      "models": [
+        {
+          "model": "GladiatorRubicon",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Wrangler for salein Mission",
+      "count": 1,
+      "file": "inventory/used-jeep-wrangler-for-salein-mission.json",
+      "models": [
+        {
+          "model": "Wrangler for salein Mission",
+          "count": 1
         }
       ]
     },
@@ -904,12 +965,12 @@
       "condition": "used",
       "make": "jeep",
       "model": "Grand Cherokee L for salein British Columbia",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-jeep-grand-cherokee-l-for-salein-british-columbia.json",
       "models": [
         {
           "model": "Grand Cherokee L for salein British Columbia",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -969,12 +1030,12 @@
       "condition": "used",
       "make": "jeep",
       "model": "Gladiator for salein British Columbia",
-      "count": 2,
+      "count": 4,
       "file": "inventory/used-jeep-gladiator-for-salein-british-columbia.json",
       "models": [
         {
           "model": "Gladiator for salein British Columbia",
-          "count": 2
+          "count": 4
         }
       ]
     },
@@ -995,12 +1056,12 @@
       "condition": "used",
       "make": "jeep",
       "model": "Wagoneer 4WD",
-      "count": 2,
+      "count": 3,
       "file": "inventory/used-jeep-wagoneer-4wd.json",
       "models": [
         {
           "model": "Wagoneer 4WD",
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -1021,12 +1082,12 @@
       "condition": "used",
       "make": "jeep",
       "model": "Grand Cherokee for salein British Columbia",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-jeep-grand-cherokee-for-salein-british-columbia.json",
       "models": [
         {
           "model": "Grand Cherokee for salein British Columbia",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -1034,12 +1095,12 @@
       "condition": "used",
       "make": "jeep",
       "model": "Grand Wagoneer for salein British Columbia",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-jeep-grand-wagoneer-for-salein-british-columbia.json",
       "models": [
         {
           "model": "Grand Wagoneer for salein British Columbia",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -1047,7 +1108,7 @@
       "condition": "used",
       "make": "jeep",
       "model": "Grand Wagoneer",
-      "count": 8,
+      "count": 7,
       "file": "inventory/used-jeep-grand-wagoneer.json",
       "models": [
         {
@@ -1056,7 +1117,7 @@
         },
         {
           "model": "Grand Wagoneer",
-          "count": 7
+          "count": 6
         }
       ]
     },
@@ -1154,12 +1215,12 @@
     {
       "condition": "used",
       "make": "jeep",
-      "model": "Grand Wagoneer L",
+      "model": "Grand Cherokee L for salein Maple Ridge",
       "count": 1,
-      "file": "inventory/used-jeep-grand-wagoneer-l.json",
+      "file": "inventory/used-jeep-grand-cherokee-l-for-salein-maple-ridge.json",
       "models": [
         {
-          "model": "Grand Wagoneer L",
+          "model": "Grand Cherokee L for salein Maple Ridge",
           "count": 1
         }
       ]
@@ -1167,12 +1228,77 @@
     {
       "condition": "used",
       "make": "jeep",
-      "model": "GRAND CHEROKEE LLAREDO 4X4",
-      "count": 1,
-      "file": "inventory/used-jeep-grand-cherokee-llaredo-4x4.json",
+      "model": "Grand Cherokee for salein Maple Ridge",
+      "count": 2,
+      "file": "inventory/used-jeep-grand-cherokee-for-salein-maple-ridge.json",
       "models": [
         {
-          "model": "GRAND CHEROKEE LLAREDO 4X4",
+          "model": "Grand Cherokee for salein Maple Ridge",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Compass for salein Prince George",
+      "count": 1,
+      "file": "inventory/used-jeep-compass-for-salein-prince-george.json",
+      "models": [
+        {
+          "model": "Compass for salein Prince George",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Grand Cherokee L for salein Prince George",
+      "count": 1,
+      "file": "inventory/used-jeep-grand-cherokee-l-for-salein-prince-george.json",
+      "models": [
+        {
+          "model": "Grand Cherokee L for salein Prince George",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Wagoneer for salein Prince George",
+      "count": 1,
+      "file": "inventory/used-jeep-wagoneer-for-salein-prince-george.json",
+      "models": [
+        {
+          "model": "Wagoneer for salein Prince George",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Grand Cherokee 4xe for salein Prince George",
+      "count": 1,
+      "file": "inventory/used-jeep-grand-cherokee-4xe-for-salein-prince-george.json",
+      "models": [
+        {
+          "model": "Grand Cherokee 4xe for salein Prince George",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Renegade Trailhawk",
+      "count": 1,
+      "file": "inventory/used-jeep-renegade-trailhawk.json",
+      "models": [
+        {
+          "model": "Renegade Trailhawk",
           "count": 1
         }
       ]
@@ -1285,12 +1411,12 @@
       "condition": "used",
       "make": "jeep",
       "model": "Wrangler 2 Door",
-      "count": 3,
+      "count": 2,
       "file": "inventory/used-jeep-wrangler-2-door.json",
       "models": [
         {
           "model": "Wrangler 2 Door",
-          "count": 3
+          "count": 2
         }
       ]
     },
@@ -1363,12 +1489,12 @@
       "condition": "used",
       "make": "jeep",
       "model": "Grand Cherokee Laredo",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-jeep-grand-cherokee-laredo.json",
       "models": [
         {
           "model": "Grand Cherokee Laredo",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -1551,6 +1677,32 @@
         {
           "model": "Gladiator for salein Duncan",
           "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Grand Cherokee for salein Campbell River",
+      "count": 1,
+      "file": "inventory/used-jeep-grand-cherokee-for-salein-campbell-river.json",
+      "models": [
+        {
+          "model": "Grand Cherokee for salein Campbell River",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jeep",
+      "model": "Wrangler Sport S 4x4",
+      "count": 1,
+      "file": "inventory/used-jeep-wrangler-sport-s-4x4.json",
+      "models": [
+        {
+          "model": "Wrangler Sport S 4x4",
+          "count": 1
         }
       ]
     },

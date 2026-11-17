@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T15:50:34+00:00",
-  "snapshot": "2026-11-17T15:50:34+00:00",
+  "generated_at": "2026-11-17T21:50:35+00:00",
+  "snapshot": "2026-11-17T21:50:35+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 11,
+  "count": 12,
   "vehicles": [
     {
       "pub_id": "acura-of-langley-5uxcr6c09m9e62304",
@@ -45,7 +45,7 @@
       "listing_url": "https://www.burrardacura.ca/en/used-inventory/bmw/x5/2021-bmw-x5-id39425783",
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/bmw/x5/2021-bmw-x5-id39425783?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-11-17T07:49:31",
-      "snapshot": "2026-10-26T07:24:01",
+      "snapshot": "2026-11-17T09:16:50",
       "go_url": "https://carwhisper.ca/go/burrard-acura-5uxcr6c09m9e62304",
       "region": "Lower Mainland",
       "city": "Vancouver",
@@ -141,7 +141,7 @@
       "listing_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/bmw/x5/2021-bmw-x5-id39425783",
       "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/bmw/x5/2021-bmw-x5-id39425783?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-11-17T07:31:31",
-      "snapshot": "2026-10-26T07:11:57",
+      "snapshot": "2026-11-17T08:59:44",
       "go_url": "https://carwhisper.ca/go/mercedes-benz-north-vancouver-5uxcr6c09m9e62304",
       "region": "Lower Mainland",
       "city": "North Vancouver",
@@ -267,6 +267,29 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Southside Nissan Ltd."
+    },
+    {
+      "pub_id": "pacific-honda-5uxcr6c09m9e62304",
+      "year": 2021,
+      "make": "BMW",
+      "model": "X5 xDrive40i",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 75705,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "pacific-honda",
+      "vin": "5UXCR6C09M9E62304",
+      "stock": "L26291A",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/bmw/x5/2021-bmw-x5-id39425783",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/bmw/x5/2021-bmw-x5-id39425783?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T11:55:09",
+      "snapshot": "2026-11-17T13:47:41",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-5uxcr6c09m9e62304",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

@@ -1,17 +1,33 @@
 {
-  "generated_at": "2026-11-17T15:50:34+00:00",
+  "generated_at": "2026-11-17T21:50:35+00:00",
   "condition": "used",
   "make": "rolls-royce",
   "files": [
     {
       "condition": "used",
       "make": "rolls-royce",
-      "count": 1,
+      "count": 11,
       "file": "inventory/used-rolls-royce.json",
       "models": [
         {
-          "model": "Ghost",
+          "model": "Black Badge Ghost",
           "count": 1
+        },
+        {
+          "model": "Cullinan",
+          "count": 4
+        },
+        {
+          "model": "Ghost",
+          "count": 3
+        },
+        {
+          "model": "Phantom",
+          "count": 1
+        },
+        {
+          "model": "Spectre",
+          "count": 2
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T15:50:34+00:00",
-  "snapshot": "2026-11-17T15:50:34+00:00",
+  "generated_at": "2026-11-17T21:50:35+00:00",
+  "snapshot": "2026-11-17T21:50:35+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 4,
   "vehicles": [
@@ -33,6 +33,34 @@
       "city": "Langley",
       "province": "BC",
       "dealer_name": "Applewood Infiniti Langley"
+    },
+    {
+      "pub_id": "openroad-lexus-port-moody-wau3bcfu0sn065467",
+      "year": 2025,
+      "make": "Audi",
+      "model": "A5",
+      "trim": "Technik 2.0 TFSI quattro",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 13988,
+      "price_cad": 49801.0,
+      "price_note": null,
+      "color": "Ascari Blue Metallic",
+      "dealer_id": "openroad-lexus-port-moody",
+      "vin": "WAU3BCFU0SN065467",
+      "stock": "7UBNA65467",
+      "listing_url": "https://openroadlexusportmoody.com/used/2025-audi-a5-technik-2.0-tfsi-quattro/WAU3BCFU0SN065467",
+      "dealer_url": "https://openroadlexusportmoody.com/used/2025-audi-a5-technik-2.0-tfsi-quattro/WAU3BCFU0SN065467?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T14:23:43",
+      "snapshot": "2026-11-17T14:25:07",
+      "go_url": "https://carwhisper.ca/go/openroad-lexus-port-moody-wau3bcfu0sn065467",
+      "region": "Lower Mainland",
+      "city": "Port Moody",
+      "province": "BC",
+      "dealer_name": "OpenRoad Lexus - Port Moody"
     },
     {
       "pub_id": "okanagan-chrysler-dodge-jeep-ram-waudfbfr3da055430",
@@ -81,30 +109,6 @@
       "city": "Penticton",
       "province": "BC",
       "dealer_name": "Penticton Nissan"
-    },
-    {
-      "pub_id": "victoria-hyundai-waudfbfr3da055430",
-      "year": 2013,
-      "make": "Audi",
-      "model": "A5",
-      "propulsion": "unknown",
-      "propulsion_source": null,
-      "condition": "used",
-      "price_cad": 22904.0,
-      "price_note": null,
-      "color": "Grey",
-      "dealer_id": "victoria-hyundai",
-      "vin": "WAUDFBFR3DA055430",
-      "stock": 14371108,
-      "listing_url": "https://www.victoriahyundai.com/used/2013-Audi-A5.html",
-      "dealer_url": "https://www.victoriahyundai.com/used/2013-Audi-A5.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T13:29:04",
-      "snapshot": "2026-10-26T10:00:10",
-      "go_url": "https://carwhisper.ca/go/victoria-hyundai-waudfbfr3da055430",
-      "region": "Vancouver Island",
-      "city": "Victoria",
-      "province": "BC",
-      "dealer_name": "Victoria Hyundai"
     }
   ]
 }

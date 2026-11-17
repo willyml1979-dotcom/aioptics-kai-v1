@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T15:50:34+00:00",
-  "snapshot": "2026-11-17T15:50:34+00:00",
+  "generated_at": "2026-11-17T21:50:35+00:00",
+  "snapshot": "2026-11-17T21:50:35+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "nanaimo-toyota-wddpk3ja5jf154399",
@@ -25,12 +25,39 @@
       "listing_url": "https://www.nanaimotoyota.com/used/2018-Mercedes_Benz-SLC_300-id14244911.html",
       "dealer_url": "https://www.nanaimotoyota.com/used/2018-Mercedes_Benz-SLC_300-id14244911.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-26T00:42:22",
-      "snapshot": "2026-10-26T09:09:24",
+      "snapshot": "2026-11-17T11:15:46",
       "go_url": "https://carwhisper.ca/go/nanaimo-toyota-wddpk3ja5jf154399",
       "region": "Vancouver Island",
       "city": "Nanaimo",
       "province": "BC",
       "dealer_name": "Nanaimo Toyota"
+    },
+    {
+      "pub_id": "three-point-motors-wddpk3jaxjf149764",
+      "year": 2018,
+      "make": "Mercedes-Benz",
+      "model": "SLC 300",
+      "trim": "Roadster |low",
+      "drivetrain": "FWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 50859,
+      "price_cad": 39900.0,
+      "price_note": null,
+      "color": "Grey",
+      "dealer_id": "three-point-motors",
+      "vin": "WDDPK3JAXJF149764",
+      "stock": "14620937",
+      "listing_url": "https://www.mercedes-benz-threepointmotors.ca/used/2018-Mercedes_Benz-SLC_300-id14620937.html",
+      "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/used/2018-Mercedes_Benz-SLC_300-id14620937.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T10:16:17",
+      "snapshot": "2026-11-17T10:19:36",
+      "go_url": "https://carwhisper.ca/go/three-point-motors-wddpk3jaxjf149764",
+      "region": "Vancouver Island",
+      "city": "Victoria",
+      "province": "BC",
+      "dealer_name": "Three Point Motors"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T15:50:34+00:00",
-  "snapshot": "2026-11-17T15:50:34+00:00",
+  "generated_at": "2026-11-17T21:50:35+00:00",
+  "snapshot": "2026-11-17T21:50:35+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 4,
   "vehicles": [
     {
       "pub_id": "mercedes-benz-richmond-wddmh4gb7jj476370",
@@ -89,34 +89,6 @@
       "dealer_name": "Vancouver Honda"
     },
     {
-      "pub_id": "penticton-hyundai-wddmh4eb8hj421889",
-      "year": 2017,
-      "make": "Mercedes-Benz",
-      "model": "B-Class",
-      "body_type": "hatchback",
-      "propulsion": "gas",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
-      "condition": "used",
-      "odometer_km": 62927,
-      "price_cad": 15495.0,
-      "price_note": null,
-      "color": "White",
-      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/03b30966-4b3e-4f8e-9b20-a1f3624e5ee3_61883bac-9938-4c1a-9270-3af2cc119b76.jpg",
-      "dealer_id": "penticton-hyundai",
-      "vin": "WDDMH4EB8HJ421889",
-      "stock": "EY26130",
-      "listing_url": "https://www.pentictonhyundai.com/vehicles/2017/mercedes-benz/b-class/penticton/bc/71410480/?sale_class=used",
-      "dealer_url": "https://www.pentictonhyundai.com/vehicles/2017/mercedes-benz/b-class/penticton/bc/71410480/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-25T15:23:52",
-      "snapshot": "2026-10-26T09:20:10",
-      "go_url": "https://carwhisper.ca/go/penticton-hyundai-wddmh4eb8hj421889",
-      "region": "Okanagan",
-      "city": "Penticton",
-      "province": "BC",
-      "dealer_name": "Penticton Hyundai"
-    },
-    {
       "pub_id": "go-richmond-subaru-wddfh3db0bj714410",
       "year": 2011,
       "make": "Mercedes-Benz",
@@ -141,33 +113,6 @@
       "city": null,
       "province": "BC",
       "dealer_name": "Go Richmond Subaru"
-    },
-    {
-      "pub_id": "pacific-honda-wddmh4gb7jj476370",
-      "year": 2018,
-      "make": "Mercedes-Benz",
-      "model": "B-Class",
-      "trim": "B 250",
-      "drivetrain": "4WD",
-      "propulsion": "unknown",
-      "propulsion_source": null,
-      "condition": "used",
-      "odometer_km": 87435,
-      "price_cad": 13888.0,
-      "price_note": null,
-      "color": "Cosmos Black Met",
-      "photo_url": "https://img.sm360.ca/images/inventory/genesis-downtown-vancouver/mercedes-benz/b-class/2018/39274467/39274467_02590_b977241f26f454e621458d9216e38656.jpeg",
-      "dealer_id": "pacific-honda",
-      "vin": "WDDMH4GB7JJ476370",
-      "stock": "G26122A",
-      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/mercedes-benz/b-class/2018-mercedes-benz-b-class-id39274467",
-      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/mercedes-benz/b-class/2018-mercedes-benz-b-class-id39274467?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T02:18:42",
-      "snapshot": "2026-10-26T09:17:32",
-      "go_url": "https://carwhisper.ca/go/pacific-honda-wddmh4gb7jj476370",
-      "city": null,
-      "province": "BC",
-      "dealer_name": "Pacific Honda"
     }
   ]
 }

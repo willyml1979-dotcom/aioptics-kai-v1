@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T15:50:34+00:00",
-  "snapshot": "2026-11-17T15:50:34+00:00",
+  "generated_at": "2026-11-17T21:50:35+00:00",
+  "snapshot": "2026-11-17T21:50:35+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "marine-chrysler-dodge-jeep-ltd-zacpdfcw9r3a19876",
@@ -32,6 +32,34 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Marine Chrysler Dodge Jeep Ltd."
+    },
+    {
+      "pub_id": "duncan-chrysler-dodge-jeep-ram-ltd-zacpdfcw4r3a16691",
+      "year": 2024,
+      "make": "Dodge",
+      "model": "Hornet PHEV",
+      "body_type": "suv",
+      "propulsion": "plug-in hybrid",
+      "propulsion_source": "model_trim_name",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 262,
+      "price_cad": 39997.0,
+      "price_note": null,
+      "color": "Red",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/1c8693bb-c0df-4094-81b1-0b2f26cd1093_7b91e684-90cb-41af-99d5-de43ca573975.jpg",
+      "dealer_id": "duncan-chrysler-dodge-jeep-ram-ltd",
+      "vin": "ZACPDFCW4R3A16691",
+      "stock": "F24HR66",
+      "listing_url": "https://www.duncandodge.ca/vehicles/2024/dodge/hornet-phev/duncan/bc/ad13280502/?sale_class=used",
+      "dealer_url": "https://www.duncandodge.ca/vehicles/2024/dodge/hornet-phev/duncan/bc/ad13280502/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T08:58:46",
+      "snapshot": "2026-11-17T09:02:19",
+      "go_url": "https://carwhisper.ca/go/duncan-chrysler-dodge-jeep-ram-ltd-zacpdfcw4r3a16691",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Duncan Chrysler Dodge Jeep Ram Ltd."
     },
     {
       "pub_id": "country-hills-nissan-zacpdfcw8r3a24857",

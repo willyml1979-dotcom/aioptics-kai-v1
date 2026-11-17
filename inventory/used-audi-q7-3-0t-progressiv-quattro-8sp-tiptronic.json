@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T15:50:34+00:00",
-  "snapshot": "2026-11-17T15:50:34+00:00",
+  "generated_at": "2026-11-17T21:50:35+00:00",
+  "snapshot": "2026-11-17T21:50:35+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 11,
+  "count": 12,
   "vehicles": [
     {
       "pub_id": "acura-of-langley-wa1laaf71jd001344",
@@ -45,7 +45,7 @@
       "listing_url": "https://www.burrardacura.ca/en/used-inventory/audi/q7/2018-audi-q7-id39486810",
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/audi/q7/2018-audi-q7-id39486810?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-11-17T07:42:33",
-      "snapshot": "2026-10-26T07:24:01",
+      "snapshot": "2026-11-17T09:16:50",
       "go_url": "https://carwhisper.ca/go/burrard-acura-wa1laaf71jd001344",
       "region": "Lower Mainland",
       "city": "Vancouver",
@@ -141,7 +141,7 @@
       "listing_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/audi/q7/2018-audi-q7-id39486810",
       "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/audi/q7/2018-audi-q7-id39486810?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-11-17T07:24:26",
-      "snapshot": "2026-10-26T07:11:57",
+      "snapshot": "2026-11-17T08:59:44",
       "go_url": "https://carwhisper.ca/go/mercedes-benz-north-vancouver-wa1laaf71jd001344",
       "region": "Lower Mainland",
       "city": "North Vancouver",
@@ -267,6 +267,29 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Southside Nissan Ltd."
+    },
+    {
+      "pub_id": "pacific-honda-wa1laaf71jd001344",
+      "year": 2018,
+      "make": "Audi",
+      "model": "Q7 3.0T Progressiv quattro 8sp Tiptronic",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 147388,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "pacific-honda",
+      "vin": "WA1LAAF71JD001344",
+      "stock": "L26724A",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/audi/q7/2018-audi-q7-id39486810",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/audi/q7/2018-audi-q7-id39486810?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T11:46:08",
+      "snapshot": "2026-11-17T13:47:41",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-wa1laaf71jd001344",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

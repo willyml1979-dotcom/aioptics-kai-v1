@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T15:50:34+00:00",
-  "snapshot": "2026-11-17T15:50:34+00:00",
+  "generated_at": "2026-11-17T21:50:35+00:00",
+  "snapshot": "2026-11-17T21:50:35+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 25,
+  "count": 26,
   "vehicles": [
     {
       "pub_id": "acura-of-langley-1n6ed1cm1nn613105",
@@ -53,7 +53,7 @@
       "listing_url": "https://www.burrardacura.ca/en/used-inventory/nissan/frontier/2022-nissan-frontier-id39340945",
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/nissan/frontier/2022-nissan-frontier-id39340945?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-13T21:06:06",
-      "snapshot": "2026-10-26T07:24:01",
+      "snapshot": "2026-11-17T09:16:50",
       "go_url": "https://carwhisper.ca/go/burrard-acura-1n6ed1cm1nn613105",
       "region": "Lower Mainland",
       "city": "Vancouver",
@@ -165,7 +165,7 @@
       "listing_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/nissan/frontier/2022-nissan-frontier-id39340945",
       "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/nissan/frontier/2022-nissan-frontier-id39340945?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T22:51:51",
-      "snapshot": "2026-10-26T07:11:57",
+      "snapshot": "2026-11-17T08:59:44",
       "go_url": "https://carwhisper.ca/go/mercedes-benz-north-vancouver-1n6ed1cm1nn613105",
       "region": "Lower Mainland",
       "city": "North Vancouver",
@@ -703,6 +703,34 @@
       "city": "Richmond",
       "province": "BC",
       "dealer_name": "Mercedes-Benz Richmond"
+    },
+    {
+      "pub_id": "north-shore-honda-1n6ed1ek0nn631123",
+      "year": 2022,
+      "make": "Nissan",
+      "model": "Frontier",
+      "trim": "Crew Cab PRO-4X 4x4 at",
+      "drivetrain": "AWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 66000,
+      "price_cad": 39999.0,
+      "price_note": null,
+      "color": "N/A",
+      "photo_url": "https://img.sm360.ca/images/inventory/northvancouver-nissan/nissan/frontier/2022/39399465/39399465_06495_2022-nissan-frontier_001.png",
+      "dealer_id": "north-shore-honda",
+      "vin": "1N6ED1EK0NN631123",
+      "stock": "27045A",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/nissan/frontier/2022-nissan-frontier-id39399465",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/nissan/frontier/2022-nissan-frontier-id39399465?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T15:39:44",
+      "snapshot": "2026-11-17T00:19:21",
+      "go_url": "https://carwhisper.ca/go/north-shore-honda-1n6ed1ek0nn631123",
+      "region": "Lower Mainland",
+      "city": "North Vancouver",
+      "province": "BC",
+      "dealer_name": "North Shore Honda"
     }
   ]
 }

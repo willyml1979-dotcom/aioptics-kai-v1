@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T15:50:34+00:00",
-  "snapshot": "2026-11-17T15:50:34+00:00",
+  "generated_at": "2026-11-17T21:50:35+00:00",
+  "snapshot": "2026-11-17T21:50:35+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "brian-jessel-bmw-5ym13et07t9485314",
@@ -115,6 +115,34 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Brian Jessel BMW"
+    },
+    {
+      "pub_id": "bmw-langley-5ym13et05t9143148",
+      "year": 2026,
+      "make": "BMW",
+      "model": "X5 M",
+      "trim": "Competition Sports Activity Vehicle",
+      "drivetrain": "AWD",
+      "propulsion": "hybrid",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 30,
+      "price_cad": 178251.0,
+      "price_note": null,
+      "color": "Alpine White",
+      "dealer_id": "bmw-langley",
+      "vin": "5YM13ET05T9143148",
+      "stock": "121X5GT43148",
+      "listing_url": "https://bmwlangley.com/new/2026-bmw-x5-m-competition-sports-activity-vehicle/5YM13ET05T9143148",
+      "dealer_url": "https://bmwlangley.com/new/2026-bmw-x5-m-competition-sports-activity-vehicle/5YM13ET05T9143148?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T10:54:37",
+      "snapshot": "2026-11-17T11:01:30",
+      "go_url": "https://carwhisper.ca/go/bmw-langley-5ym13et05t9143148",
+      "region": "Lower Mainland",
+      "city": "Langley",
+      "province": "BC",
+      "dealer_name": "BMW Langley"
     }
   ]
 }

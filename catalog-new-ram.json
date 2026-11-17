@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T15:50:34+00:00",
+  "generated_at": "2026-11-17T21:50:35+00:00",
   "condition": "new",
   "make": "ram",
   "files": [
@@ -330,12 +330,12 @@
       "make": "ram",
       "model": "1500",
       "shard": "part24",
-      "count": 9,
+      "count": 17,
       "file": "inventory/new-ram-1500-part24.json",
       "models": [
         {
           "model": "1500",
-          "count": 9
+          "count": 17
         }
       ]
     },
@@ -356,12 +356,12 @@
       "condition": "new",
       "make": "ram",
       "model": "2500 Tradesman 4x2 Reg Cab 8' Box",
-      "count": 12,
+      "count": 10,
       "file": "inventory/new-ram-2500-tradesman-4x2-reg-cab-8-box.json",
       "models": [
         {
           "model": "2500 Tradesman 4x2 Reg Cab 8' Box",
-          "count": 12
+          "count": 10
         }
       ]
     },
@@ -465,14 +465,27 @@
     {
       "condition": "new",
       "make": "ram",
+      "model": "1500Rebel 4x4 Crew Cab 5'7 Box",
+      "count": 1,
+      "file": "inventory/new-ram-1500rebel-4x4-crew-cab-5-7-box.json",
+      "models": [
+        {
+          "model": "1500Rebel 4x4 Crew Cab 5'7 Box",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ram",
       "model": "3500",
       "shard": "part1",
-      "count": 26,
+      "count": 25,
       "file": "inventory/new-ram-3500-part1.json",
       "models": [
         {
           "model": "3500",
-          "count": 26
+          "count": 25
         }
       ]
     },
@@ -481,12 +494,12 @@
       "make": "ram",
       "model": "3500",
       "shard": "part2",
-      "count": 26,
+      "count": 25,
       "file": "inventory/new-ram-3500-part2.json",
       "models": [
         {
           "model": "3500",
-          "count": 26
+          "count": 25
         }
       ]
     },
@@ -495,12 +508,12 @@
       "make": "ram",
       "model": "3500",
       "shard": "part3",
-      "count": 26,
+      "count": 25,
       "file": "inventory/new-ram-3500-part3.json",
       "models": [
         {
           "model": "3500",
-          "count": 26
+          "count": 25
         }
       ]
     },
@@ -509,12 +522,12 @@
       "make": "ram",
       "model": "3500",
       "shard": "part4",
-      "count": 26,
+      "count": 25,
       "file": "inventory/new-ram-3500-part4.json",
       "models": [
         {
           "model": "3500",
-          "count": 26
+          "count": 25
         }
       ]
     },
@@ -523,12 +536,12 @@
       "make": "ram",
       "model": "3500",
       "shard": "part5",
-      "count": 26,
+      "count": 25,
       "file": "inventory/new-ram-3500-part5.json",
       "models": [
         {
           "model": "3500",
-          "count": 26
+          "count": 25
         }
       ]
     },
@@ -537,12 +550,12 @@
       "make": "ram",
       "model": "3500",
       "shard": "part6",
-      "count": 26,
+      "count": 21,
       "file": "inventory/new-ram-3500-part6.json",
       "models": [
         {
           "model": "3500",
-          "count": 26
+          "count": 21
         }
       ]
     },
@@ -550,7 +563,7 @@
       "condition": "new",
       "make": "ram",
       "model": "5500 Chassis",
-      "count": 4,
+      "count": 5,
       "file": "inventory/new-ram-5500-chassis.json",
       "models": [
         {
@@ -559,7 +572,7 @@
         },
         {
           "model": "5500 Chassis",
-          "count": 3
+          "count": 4
         }
       ]
     },
@@ -567,12 +580,12 @@
       "condition": "new",
       "make": "ram",
       "model": "ProMaster Cutaway Tradesman 3500 Low Roof 136\" WB",
-      "count": 4,
+      "count": 3,
       "file": "inventory/new-ram-promaster-cutaway-tradesman-3500-low-roof-136-wb.json",
       "models": [
         {
           "model": "ProMaster Cutaway Tradesman 3500 Low Roof 136\" WB",
-          "count": 4
+          "count": 3
         }
       ]
     },
@@ -581,12 +594,12 @@
       "make": "ram",
       "model": "ProMaster Cargo",
       "shard": "Lower Mainland",
-      "count": 13,
+      "count": 14,
       "file": "inventory/new-ram-promaster-cargo-lower-mainland.json",
       "models": [
         {
           "model": "ProMaster Cargo",
-          "count": 13
+          "count": 14
         }
       ]
     },
@@ -623,12 +636,12 @@
       "make": "ram",
       "model": "ProMaster Cargo",
       "shard": "Vancouver Island",
-      "count": 4,
+      "count": 3,
       "file": "inventory/new-ram-promaster-cargo-vancouver-island.json",
       "models": [
         {
           "model": "ProMaster Cargo",
-          "count": 4
+          "count": 3
         }
       ]
     },
@@ -649,25 +662,12 @@
     {
       "condition": "new",
       "make": "ram",
-      "model": "ProMaster Cargo Van Tradesman 1500 Low Roof 118\" WB",
-      "count": 3,
-      "file": "inventory/new-ram-promaster-cargo-van-tradesman-1500-low-roof-118-wb.json",
-      "models": [
-        {
-          "model": "ProMaster Cargo Van Tradesman 1500 Low Roof 118\" WB",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "ram",
-      "model": "3500 Chassis",
+      "model": "ProMaster Cutaway",
       "count": 1,
-      "file": "inventory/new-ram-3500-chassis.json",
+      "file": "inventory/new-ram-promaster-cutaway.json",
       "models": [
         {
-          "model": "3500 Chassis",
+          "model": "ProMaster Cutaway",
           "count": 1
         }
       ]
@@ -675,13 +675,39 @@
     {
       "condition": "new",
       "make": "ram",
+      "model": "ProMaster Cargo Van Tradesman 1500 Low Roof 118\" WB",
+      "count": 2,
+      "file": "inventory/new-ram-promaster-cargo-van-tradesman-1500-low-roof-118-wb.json",
+      "models": [
+        {
+          "model": "ProMaster Cargo Van Tradesman 1500 Low Roof 118\" WB",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ram",
+      "model": "3500 Chassis",
+      "count": 2,
+      "file": "inventory/new-ram-3500-chassis.json",
+      "models": [
+        {
+          "model": "3500 Chassis",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ram",
       "model": "3500 Chassis Tradesman 4x2 Reg Cab 143.5\" WB",
-      "count": 4,
+      "count": 3,
       "file": "inventory/new-ram-3500-chassis-tradesman-4x2-reg-cab-143-5-wb.json",
       "models": [
         {
           "model": "3500 Chassis Tradesman 4x2 Reg Cab 143.5\" WB",
-          "count": 4
+          "count": 3
         }
       ]
     },
@@ -701,26 +727,13 @@
     {
       "condition": "new",
       "make": "ram",
-      "model": "ProMaster Window Van Tradesman 2500 High Roof 159\" WB",
-      "count": 1,
-      "file": "inventory/new-ram-promaster-window-van-tradesman-2500-high-roof-159-wb.json",
-      "models": [
-        {
-          "model": "ProMaster Window Van Tradesman 2500 High Roof 159\" WB",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "ram",
       "model": "4500 Chassis Tradesman 4x2 Reg Cab 144.5\" WB",
-      "count": 4,
+      "count": 3,
       "file": "inventory/new-ram-4500-chassis-tradesman-4x2-reg-cab-144-5-wb.json",
       "models": [
         {
           "model": "4500 Chassis Tradesman 4x2 Reg Cab 144.5\" WB",
-          "count": 4
+          "count": 3
         }
       ]
     },
@@ -728,12 +741,25 @@
       "condition": "new",
       "make": "ram",
       "model": "3500 Tradesman 4x2 Reg Cab 8' Box",
-      "count": 7,
+      "count": 5,
       "file": "inventory/new-ram-3500-tradesman-4x2-reg-cab-8-box.json",
       "models": [
         {
           "model": "3500 Tradesman 4x2 Reg Cab 8' Box",
-          "count": 7
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ram",
+      "model": "ProMaster Window",
+      "count": 1,
+      "file": "inventory/new-ram-promaster-window.json",
+      "models": [
+        {
+          "model": "ProMaster Window",
+          "count": 1
         }
       ]
     },
@@ -754,12 +780,25 @@
       "condition": "new",
       "make": "ram",
       "model": "5500 Chassis Tradesman 4x2 Reg Cab 144.5\" WB",
-      "count": 3,
+      "count": 2,
       "file": "inventory/new-ram-5500-chassis-tradesman-4x2-reg-cab-144-5-wb.json",
       "models": [
         {
           "model": "5500 Chassis Tradesman 4x2 Reg Cab 144.5\" WB",
-          "count": 3
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ram",
+      "model": "4500 Chassis",
+      "count": 1,
+      "file": "inventory/new-ram-4500-chassis.json",
+      "models": [
+        {
+          "model": "4500 Chassis",
+          "count": 1
         }
       ]
     },
@@ -779,12 +818,38 @@
     {
       "condition": "new",
       "make": "ram",
-      "model": "5500",
+      "model": "3500 for salein Mission",
       "count": 1,
-      "file": "inventory/new-ram-5500.json",
+      "file": "inventory/new-ram-3500-for-salein-mission.json",
       "models": [
         {
-          "model": "5500",
+          "model": "3500 for salein Mission",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ram",
+      "model": "3500 for salein Williams Lake near Quesnel",
+      "count": 1,
+      "file": "inventory/new-ram-3500-for-salein-williams-lake-near-quesnel.json",
+      "models": [
+        {
+          "model": "3500 for salein Williams Lake near Quesnel",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ram",
+      "model": "2500 for salein Williams Lake near Quesnel",
+      "count": 1,
+      "file": "inventory/new-ram-2500-for-salein-williams-lake-near-quesnel.json",
+      "models": [
+        {
+          "model": "2500 for salein Williams Lake near Quesnel",
           "count": 1
         }
       ]

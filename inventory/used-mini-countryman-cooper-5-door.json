@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T15:50:34+00:00",
-  "snapshot": "2026-11-17T15:50:34+00:00",
+  "generated_at": "2026-11-17T21:50:35+00:00",
+  "snapshot": "2026-11-17T21:50:35+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "destination-toyota-burnaby-wmz43br0xm3m38097",
@@ -24,12 +24,38 @@
       "listing_url": "https://www.destinationtoyota.ca/vehicles/2021/mini/countryman-cooper-5-door/burnaby/bc/71250523/?sale_class=used",
       "dealer_url": "https://www.destinationtoyota.ca/vehicles/2021/mini/countryman-cooper-5-door/burnaby/bc/71250523/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-26T01:48:10",
-      "snapshot": "2026-10-26T10:17:37",
+      "snapshot": "2026-11-17T14:11:45",
       "go_url": "https://carwhisper.ca/go/destination-toyota-burnaby-wmz43br0xm3m38097",
       "region": "Lower Mainland",
       "city": "Burnaby",
       "province": "BC",
       "dealer_name": "Destination Toyota Burnaby"
+    },
+    {
+      "pub_id": "go-downtown-kia-wmzyv5c50k3f58573",
+      "year": 2019,
+      "make": "MINI",
+      "model": "Countryman Cooper 5-Door",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 79509,
+      "price_cad": 21698.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/b03b5ca8-888a-4e59-b25e-44a200f70b57_c3b69a3d-80b5-4aec-b83b-76f7e922fdb1.jpg",
+      "dealer_id": "go-downtown-kia",
+      "vin": "WMZYV5C50K3F58573",
+      "stock": "NH6028A",
+      "listing_url": "https://www.godowntownkia.ca/vehicles/2019/mini/countryman-cooper-5-door/vancouver/bc/ad13599587/?sale_class=used",
+      "dealer_url": "https://www.godowntownkia.ca/vehicles/2019/mini/countryman-cooper-5-door/vancouver/bc/ad13599587/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T14:08:44",
+      "snapshot": "2026-11-17T14:26:15",
+      "go_url": "https://carwhisper.ca/go/go-downtown-kia-wmzyv5c50k3f58573",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Go Downtown Kia"
     }
   ]
 }

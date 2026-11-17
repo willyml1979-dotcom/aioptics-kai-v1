@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T15:50:34+00:00",
+  "generated_at": "2026-11-17T21:50:35+00:00",
   "condition": "new",
   "make": "mercedes-benz",
   "files": [
@@ -428,12 +428,12 @@
       "make": "mercedes-benz",
       "model": "GLA",
       "shard": "part31",
-      "count": 19,
+      "count": 17,
       "file": "inventory/new-mercedes-benz-gla-part31.json",
       "models": [
         {
           "model": "GLA",
-          "count": 19
+          "count": 17
         }
       ]
     },
@@ -832,6 +832,19 @@
     {
       "condition": "new",
       "make": "mercedes-benz",
+      "model": "CLA 250",
+      "count": 11,
+      "file": "inventory/new-mercedes-benz-cla-250.json",
+      "models": [
+        {
+          "model": "CLA 250",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mercedes-benz",
       "model": "CLA EV",
       "shard": "part1",
       "count": 23,
@@ -889,12 +902,12 @@
       "condition": "new",
       "make": "mercedes-benz",
       "model": "GLA 250",
-      "count": 32,
+      "count": 33,
       "file": "inventory/new-mercedes-benz-gla-250.json",
       "models": [
         {
           "model": "GLA 250",
-          "count": 32
+          "count": 33
         }
       ]
     },
@@ -1175,6 +1188,19 @@
         {
           "model": "EQB",
           "count": 29
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mercedes-benz",
+      "model": "GLB 250",
+      "count": 14,
+      "file": "inventory/new-mercedes-benz-glb-250.json",
+      "models": [
+        {
+          "model": "GLB 250",
+          "count": 14
         }
       ]
     },
@@ -2175,19 +2201,6 @@
     {
       "condition": "new",
       "make": "mercedes-benz",
-      "model": "GLB 250",
-      "count": 14,
-      "file": "inventory/new-mercedes-benz-glb-250.json",
-      "models": [
-        {
-          "model": "GLB 250",
-          "count": 14
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mercedes-benz",
       "model": "Sprinter",
       "count": 10,
       "file": "inventory/new-mercedes-benz-sprinter.json",
@@ -2973,12 +2986,12 @@
       "make": "mercedes-benz",
       "model": "CLE",
       "shard": "part10",
-      "count": 23,
+      "count": 22,
       "file": "inventory/new-mercedes-benz-cle-part10.json",
       "models": [
         {
           "model": "CLE",
-          "count": 23
+          "count": 22
         }
       ]
     },
@@ -4154,19 +4167,6 @@
     {
       "condition": "new",
       "make": "mercedes-benz",
-      "model": "CLA 250",
-      "count": 9,
-      "file": "inventory/new-mercedes-benz-cla-250.json",
-      "models": [
-        {
-          "model": "CLA 250",
-          "count": 9
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mercedes-benz",
       "model": "E-Class 350 4MATIC",
       "count": 12,
       "file": "inventory/new-mercedes-benz-e-class-350-4matic.json",
@@ -4601,12 +4601,12 @@
       "condition": "new",
       "make": "mercedes-benz",
       "model": "GLC 300",
-      "count": 24,
+      "count": 23,
       "file": "inventory/new-mercedes-benz-glc-300.json",
       "models": [
         {
           "model": "GLC 300",
-          "count": 24
+          "count": 23
         }
       ]
     },
@@ -4614,12 +4614,12 @@
       "condition": "new",
       "make": "mercedes-benz",
       "model": "Sprinter Cargo",
-      "count": 13,
+      "count": 14,
       "file": "inventory/new-mercedes-benz-sprinter-cargo.json",
       "models": [
         {
           "model": "Sprinter Cargo",
-          "count": 13
+          "count": 14
         }
       ]
     },
@@ -4640,12 +4640,25 @@
       "condition": "new",
       "make": "mercedes-benz",
       "model": "C 300",
-      "count": 5,
+      "count": 6,
       "file": "inventory/new-mercedes-benz-c-300.json",
       "models": [
         {
           "model": "C 300",
-          "count": 5
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mercedes-benz",
+      "model": "CLA 350",
+      "count": 2,
+      "file": "inventory/new-mercedes-benz-cla-350.json",
+      "models": [
+        {
+          "model": "CLA 350",
+          "count": 2
         }
       ]
     },
@@ -4666,12 +4679,12 @@
       "condition": "new",
       "make": "mercedes-benz",
       "model": "CLE 300",
-      "count": 2,
+      "count": 1,
       "file": "inventory/new-mercedes-benz-cle-300.json",
       "models": [
         {
           "model": "CLE 300",
-          "count": 2
+          "count": 1
         }
       ]
     },
@@ -4691,38 +4704,12 @@
     {
       "condition": "new",
       "make": "mercedes-benz",
-      "model": "CLE 450",
+      "model": "GLC 350e",
       "count": 1,
-      "file": "inventory/new-mercedes-benz-cle-450.json",
+      "file": "inventory/new-mercedes-benz-glc-350e.json",
       "models": [
         {
-          "model": "CLE 450",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mercedes-benz",
-      "model": "E 350",
-      "count": 1,
-      "file": "inventory/new-mercedes-benz-e-350.json",
-      "models": [
-        {
-          "model": "E 350",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mercedes-benz",
-      "model": "GLC 43 AMG",
-      "count": 1,
-      "file": "inventory/new-mercedes-benz-glc-43-amg.json",
-      "models": [
-        {
-          "model": "GLC 43 AMG",
+          "model": "GLC 350e",
           "count": 1
         }
       ]

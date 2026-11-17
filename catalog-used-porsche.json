@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T15:50:34+00:00",
+  "generated_at": "2026-11-17T21:50:35+00:00",
   "condition": "used",
   "make": "porsche",
   "files": [
@@ -21,12 +21,12 @@
       "make": "porsche",
       "model": "Cayenne",
       "shard": "part1",
-      "count": 27,
+      "count": 30,
       "file": "inventory/used-porsche-cayenne-part1.json",
       "models": [
         {
           "model": "Cayenne",
-          "count": 27
+          "count": 30
         }
       ]
     },
@@ -35,12 +35,12 @@
       "make": "porsche",
       "model": "Cayenne",
       "shard": "part2",
-      "count": 27,
+      "count": 30,
       "file": "inventory/used-porsche-cayenne-part2.json",
       "models": [
         {
           "model": "Cayenne",
-          "count": 27
+          "count": 30
         }
       ]
     },
@@ -49,12 +49,12 @@
       "make": "porsche",
       "model": "Cayenne",
       "shard": "part3",
-      "count": 26,
+      "count": 30,
       "file": "inventory/used-porsche-cayenne-part3.json",
       "models": [
         {
           "model": "Cayenne",
-          "count": 26
+          "count": 30
         }
       ]
     },
@@ -76,12 +76,12 @@
       "make": "porsche",
       "model": "Macan",
       "shard": "part1",
-      "count": 27,
+      "count": 28,
       "file": "inventory/used-porsche-macan-part1.json",
       "models": [
         {
           "model": "Macan",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -90,12 +90,12 @@
       "make": "porsche",
       "model": "Macan",
       "shard": "part2",
-      "count": 27,
+      "count": 28,
       "file": "inventory/used-porsche-macan-part2.json",
       "models": [
         {
           "model": "Macan",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -104,12 +104,12 @@
       "make": "porsche",
       "model": "Macan",
       "shard": "part3",
-      "count": 27,
+      "count": 28,
       "file": "inventory/used-porsche-macan-part3.json",
       "models": [
         {
           "model": "Macan",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -118,12 +118,16 @@
       "make": "porsche",
       "model": "Macan",
       "shard": "part4",
-      "count": 25,
+      "count": 27,
       "file": "inventory/used-porsche-macan-part4.json",
       "models": [
         {
+          "model": "MACAN",
+          "count": 1
+        },
+        {
           "model": "Macan",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -131,12 +135,12 @@
       "condition": "used",
       "make": "porsche",
       "model": "Macan GTS",
-      "count": 3,
+      "count": 2,
       "file": "inventory/used-porsche-macan-gts.json",
       "models": [
         {
           "model": "Macan GTS",
-          "count": 3
+          "count": 2
         }
       ]
     },
@@ -144,12 +148,12 @@
       "condition": "used",
       "make": "porsche",
       "model": "Panamera",
-      "count": 27,
+      "count": 30,
       "file": "inventory/used-porsche-panamera.json",
       "models": [
         {
           "model": "Panamera",
-          "count": 27
+          "count": 30
         }
       ]
     },
@@ -170,12 +174,38 @@
       "condition": "used",
       "make": "porsche",
       "model": "Taycan",
-      "count": 25,
+      "count": 29,
       "file": "inventory/used-porsche-taycan.json",
       "models": [
         {
           "model": "Taycan",
-          "count": 25
+          "count": 29
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "porsche",
+      "model": "Taycan for salein Mission",
+      "count": 1,
+      "file": "inventory/used-porsche-taycan-for-salein-mission.json",
+      "models": [
+        {
+          "model": "Taycan for salein Mission",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "porsche",
+      "model": "Taycan Cross Turismo",
+      "count": 1,
+      "file": "inventory/used-porsche-taycan-cross-turismo.json",
+      "models": [
+        {
+          "model": "Taycan Cross Turismo",
+          "count": 1
         }
       ]
     },
@@ -198,12 +228,12 @@
       "make": "porsche",
       "model": "911",
       "shard": "part2",
-      "count": 23,
+      "count": 24,
       "file": "inventory/used-porsche-911-part2.json",
       "models": [
         {
           "model": "911",
-          "count": 23
+          "count": 24
         }
       ]
     },
@@ -237,12 +267,12 @@
       "condition": "used",
       "make": "porsche",
       "model": "Panamera 4 e-Hybrid AWD",
-      "count": 10,
+      "count": 12,
       "file": "inventory/used-porsche-panamera-4-e-hybrid-awd.json",
       "models": [
         {
           "model": "Panamera 4 e-Hybrid AWD",
-          "count": 10
+          "count": 12
         }
       ]
     },
@@ -288,12 +318,12 @@
     {
       "condition": "used",
       "make": "porsche",
-      "model": "Boxster Spyder",
+      "model": "Cayenne for salein Maple Ridge",
       "count": 1,
-      "file": "inventory/used-porsche-boxster-spyder.json",
+      "file": "inventory/used-porsche-cayenne-for-salein-maple-ridge.json",
       "models": [
         {
-          "model": "Boxster Spyder",
+          "model": "Cayenne for salein Maple Ridge",
           "count": 1
         }
       ]

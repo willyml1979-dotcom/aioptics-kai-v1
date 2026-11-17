@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T15:50:34+00:00",
+  "generated_at": "2026-11-17T21:50:35+00:00",
   "condition": "new",
   "make": "honda",
   "files": [
@@ -120,12 +120,12 @@
       "make": "honda",
       "model": "HR-V",
       "shard": "part9",
-      "count": 29,
+      "count": 30,
       "file": "inventory/new-honda-hr-v-part9.json",
       "models": [
         {
           "model": "HR-V",
-          "count": 29
+          "count": 30
         }
       ]
     },
@@ -344,12 +344,26 @@
       "make": "honda",
       "model": "Civic",
       "shard": "part16",
-      "count": 24,
+      "count": 30,
       "file": "inventory/new-honda-civic-part16.json",
       "models": [
         {
           "model": "Civic",
-          "count": 24
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "honda",
+      "model": "Civic",
+      "shard": "part17",
+      "count": 27,
+      "file": "inventory/new-honda-civic-part17.json",
+      "models": [
+        {
+          "model": "Civic",
+          "count": 27
         }
       ]
     },
@@ -848,12 +862,12 @@
       "make": "honda",
       "model": "CR-V",
       "shard": "part31",
-      "count": 23,
+      "count": 24,
       "file": "inventory/new-honda-cr-v-part31.json",
       "models": [
         {
           "model": "CR-V",
-          "count": 23
+          "count": 24
         }
       ]
     },
@@ -917,12 +931,12 @@
       "make": "honda",
       "model": "Odyssey",
       "shard": "part4",
-      "count": 30,
+      "count": 29,
       "file": "inventory/new-honda-odyssey-part4.json",
       "models": [
         {
           "model": "Odyssey",
-          "count": 30
+          "count": 29
         }
       ]
     },
@@ -931,12 +945,12 @@
       "make": "honda",
       "model": "Pilot",
       "shard": "part1",
-      "count": 29,
+      "count": 30,
       "file": "inventory/new-honda-pilot-part1.json",
       "models": [
         {
           "model": "Pilot",
-          "count": 29
+          "count": 30
         }
       ]
     },
@@ -945,12 +959,12 @@
       "make": "honda",
       "model": "Pilot",
       "shard": "part2",
-      "count": 29,
+      "count": 30,
       "file": "inventory/new-honda-pilot-part2.json",
       "models": [
         {
           "model": "Pilot",
-          "count": 29
+          "count": 30
         }
       ]
     },
@@ -959,12 +973,12 @@
       "make": "honda",
       "model": "Pilot",
       "shard": "part3",
-      "count": 29,
+      "count": 28,
       "file": "inventory/new-honda-pilot-part3.json",
       "models": [
         {
           "model": "Pilot",
-          "count": 29
+          "count": 28
         }
       ]
     },
@@ -972,12 +986,12 @@
       "condition": "new",
       "make": "honda",
       "model": "Ridgeline",
-      "count": 32,
+      "count": 33,
       "file": "inventory/new-honda-ridgeline.json",
       "models": [
         {
           "model": "Ridgeline",
-          "count": 32
+          "count": 33
         }
       ]
     },
@@ -1000,12 +1014,12 @@
       "make": "honda",
       "model": "Passport",
       "shard": "Lower Mainland",
-      "count": 24,
+      "count": 27,
       "file": "inventory/new-honda-passport-lower-mainland.json",
       "models": [
         {
           "model": "Passport",
-          "count": 24
+          "count": 27
         }
       ]
     },
@@ -1042,12 +1056,12 @@
       "make": "honda",
       "model": "Passport",
       "shard": "Vancouver Island",
-      "count": 5,
+      "count": 7,
       "file": "inventory/new-honda-passport-vancouver-island.json",
       "models": [
         {
           "model": "Passport",
-          "count": 5
+          "count": 7
         }
       ]
     },
@@ -1062,19 +1076,6 @@
         {
           "model": "Passport",
           "count": 10
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "honda",
-      "model": "Prologue",
-      "count": 2,
-      "file": "inventory/new-honda-prologue.json",
-      "models": [
-        {
-          "model": "Prologue",
-          "count": 2
         }
       ]
     },

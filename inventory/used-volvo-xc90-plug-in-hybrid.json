@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T15:50:34+00:00",
-  "snapshot": "2026-11-17T15:50:34+00:00",
+  "generated_at": "2026-11-17T21:50:35+00:00",
+  "snapshot": "2026-11-17T21:50:35+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 9,
+  "count": 10,
   "vehicles": [
     {
       "pub_id": "morrey-nissan-infiniti-of-burnaby-yv4h60pf4s1295500",
@@ -227,6 +227,35 @@
       "city": "Burnaby",
       "province": "BC",
       "dealer_name": "Morrey Nissan Infiniti of Burnaby"
+    },
+    {
+      "pub_id": "volvo-cars-victoria-yv4h60pb6s1350106",
+      "year": 2025,
+      "make": "Volvo",
+      "model": "XC90 Plug-in Hybrid",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "plug-in hybrid",
+      "propulsion_source": "model_trim_name",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 48780,
+      "price_cad": 72994.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/d7af1a6a-09d5-411d-8765-67cacbde51c7_8178c337-7bfa-4ea3-82dc-9250409c0404.jpg",
+      "dealer_id": "volvo-cars-victoria",
+      "vin": "YV4H60PB6S1350106",
+      "stock": "904090",
+      "listing_url": "https://www.volvocarsvictoria.com/vehicles/2025/volvo/xc90-plug-in-hybrid/victoria/bc/ad13734214/?sale_class=used",
+      "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2025/volvo/xc90-plug-in-hybrid/victoria/bc/ad13734214/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T10:23:31",
+      "snapshot": "2026-11-17T10:24:33",
+      "go_url": "https://carwhisper.ca/go/volvo-cars-victoria-yv4h60pb6s1350106",
+      "region": "Vancouver Island",
+      "city": "Victoria",
+      "province": "BC",
+      "dealer_name": "Volvo Cars Victoria"
     },
     {
       "pub_id": "jaguar-victoria-land-rover-victoria-yv4h60jf7t1452673",

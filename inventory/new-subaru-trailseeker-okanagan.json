@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T15:50:34+00:00",
-  "snapshot": "2026-11-17T15:50:34+00:00",
+  "generated_at": "2026-11-17T21:50:35+00:00",
+  "snapshot": "2026-11-17T21:50:35+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 6,
+  "count": 7,
   "vehicles": [
     {
       "pub_id": "hilltop-subaru-jtmbgahc4vy004392",
@@ -113,6 +113,34 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Kelowna Subaru"
+    },
+    {
+      "pub_id": "subaru-of-penticton-jtmbgahc4vy002495",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Trailseeker",
+      "trim": "Limited",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "odometer_km": 5,
+      "price_cad": 57127.0,
+      "price_note": null,
+      "color": "Brilliant Bronze Metallic",
+      "photo_url": "https://img.sm360.ca/images/inventory/subaru-of-penticton/subaru/trailseeker/2027/39486361/39486361_04918_71008972080c6f0bc6d28f52aa57e4fb.jpeg",
+      "dealer_id": "subaru-of-penticton",
+      "vin": "JTMBGAHC4VY002495",
+      "stock": "PN27007",
+      "listing_url": "https://www.subaruofpenticton.com/en/new-inventory/subaru/trailseeker/2027-subaru-trailseeker-id39486361",
+      "dealer_url": "https://www.subaruofpenticton.com/en/new-inventory/subaru/trailseeker/2027-subaru-trailseeker-id39486361?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T10:04:40",
+      "snapshot": "2026-11-17T10:07:15",
+      "go_url": "https://carwhisper.ca/go/subaru-of-penticton-jtmbgahc4vy002495",
+      "region": "Okanagan",
+      "city": "Penticton",
+      "province": "BC",
+      "dealer_name": "Subaru of Penticton"
     },
     {
       "pub_id": "kelowna-subaru-jtmbgahc5vy003025",

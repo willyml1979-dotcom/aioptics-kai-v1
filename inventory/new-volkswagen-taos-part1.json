@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T15:50:34+00:00",
-  "snapshot": "2026-11-17T15:50:34+00:00",
+  "generated_at": "2026-11-17T21:50:35+00:00",
+  "snapshot": "2026-11-17T21:50:35+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 33,
+  "count": 34,
   "vehicles": [
     {
       "pub_id": "pioneer-chrysler-jeep-3vvuc7b22sm049847",
@@ -21,7 +21,7 @@
       "listing_url": "https://www.pioneerchryslerjeep.com/used/2025-Volkswagen-Taos.html",
       "dealer_url": "https://www.pioneerchryslerjeep.com/used/2025-Volkswagen-Taos.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-26T09:16:52",
-      "snapshot": "2026-10-26T09:19:12",
+      "snapshot": "2026-11-17T11:35:51",
       "go_url": "https://carwhisper.ca/go/pioneer-chrysler-jeep-3vvuc7b22sm049847",
       "region": "Lower Mainland",
       "city": "Mission",
@@ -920,6 +920,35 @@
       "city": "Abbotsford",
       "province": "BC",
       "dealer_name": "Abbotsford Volkswagen"
+    },
+    {
+      "pub_id": "journey-vw-of-coquitlam-3vvuc7b27tm059114",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "trim": "Comfortline 4motion",
+      "body_type": "suv",
+      "drivetrain": "FWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 25,
+      "price_cad": 39970.0,
+      "price_note": null,
+      "color": "Grey",
+      "dealer_id": "journey-vw-of-coquitlam",
+      "vin": "3VVUC7B27TM059114",
+      "stock": "14609867",
+      "listing_url": "https://www.vwofcoquitlam.com/new/inventory/2026-Volkswagen-Taos-id14609867.html",
+      "dealer_url": "https://www.vwofcoquitlam.com/new/inventory/2026-Volkswagen-Taos-id14609867.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-16T22:44:47",
+      "snapshot": "2026-11-16T22:52:17",
+      "go_url": "https://carwhisper.ca/go/journey-vw-of-coquitlam-3vvuc7b27tm059114",
+      "region": "Lower Mainland",
+      "city": "Coquitlam",
+      "province": "BC",
+      "dealer_name": "Journey VW of Coquitlam"
     }
   ]
 }

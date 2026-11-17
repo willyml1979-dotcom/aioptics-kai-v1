@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T15:50:34+00:00",
-  "snapshot": "2026-11-17T15:50:34+00:00",
+  "generated_at": "2026-11-17T21:50:35+00:00",
+  "snapshot": "2026-11-17T21:50:35+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "harris-kia-jn8cf0bf4sm761739",
@@ -32,6 +32,33 @@
       "city": "Nanaimo",
       "province": "BC",
       "dealer_name": "Harris Kia"
+    },
+    {
+      "pub_id": "campus-nissan-jn8af0be1vm630075",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Ariya",
+      "propulsion": "electric",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 1011,
+      "price_cad": 44919.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/e5586330-25b1-4f99-8128-2f113c624d50_f6511afd-0577-44ea-81ec-a5f04042a869.jpg?promo=abbd2a0b-65f7-405f-b283-2ae9cb32cb3c_2&overlay-type=tadv",
+      "dealer_id": "campus-nissan",
+      "vin": "JN8AF0BE1VM630075",
+      "stock": "D-27-Y0",
+      "listing_url": "https://www.campusnissan.com/vehicles/2027/nissan/ariya/victoria/bc/71625317/?sale_class=used",
+      "dealer_url": "https://www.campusnissan.com/vehicles/2027/nissan/ariya/victoria/bc/71625317/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T08:36:07",
+      "snapshot": "2026-11-17T08:39:00",
+      "go_url": "https://carwhisper.ca/go/campus-nissan-jn8af0be1vm630075",
+      "region": "Vancouver Island",
+      "city": "Victoria",
+      "province": "BC",
+      "dealer_name": "Campus Nissan"
     }
   ]
 }

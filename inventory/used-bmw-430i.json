@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T15:50:34+00:00",
-  "snapshot": "2026-11-17T15:50:34+00:00",
+  "generated_at": "2026-11-17T21:50:35+00:00",
+  "snapshot": "2026-11-17T21:50:35+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 12,
+  "count": 13,
   "vehicles": [
     {
       "pub_id": "acura-of-langley-wba63da08scs37177",
@@ -53,7 +53,7 @@
       "listing_url": "https://www.burrardacura.ca/en/used-inventory/bmw/430i/2025-bmw-430i-id39486669",
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/bmw/430i/2025-bmw-430i-id39486669?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-11-17T07:45:35",
-      "snapshot": "2026-10-26T07:24:01",
+      "snapshot": "2026-11-17T09:16:50",
       "go_url": "https://carwhisper.ca/go/burrard-acura-wba63da08scs37177",
       "region": "Lower Mainland",
       "city": "Vancouver",
@@ -165,7 +165,7 @@
       "listing_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/bmw/430i/2025-bmw-430i-id39486669",
       "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/bmw/430i/2025-bmw-430i-id39486669?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-11-17T07:27:40",
-      "snapshot": "2026-10-26T07:11:57",
+      "snapshot": "2026-11-17T08:59:44",
       "go_url": "https://carwhisper.ca/go/mercedes-benz-north-vancouver-wba63da08scs37177",
       "region": "Lower Mainland",
       "city": "North Vancouver",
@@ -340,6 +340,33 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "BMW Victoria/MINI Victoria (1791388 Ontario Limited)"
+    },
+    {
+      "pub_id": "pacific-honda-wba63da08scs37177",
+      "year": 2025,
+      "make": "BMW",
+      "model": "430i",
+      "trim": "xDrive Coupe w/Premium Package",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 11007,
+      "price_cad": 53901.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://img.sm360.ca/images/inventory/burrard-acura/bmw/430i/2025/39486669/39486669_07833_687ea5f4a8683d5d75fc45c009e5f928.jpeg",
+      "dealer_id": "pacific-honda",
+      "vin": "WBA63DA08SCS37177",
+      "stock": "A215012",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/bmw/430i/2025-bmw-430i-id39486669",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/bmw/430i/2025-bmw-430i-id39486669?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T11:50:26",
+      "snapshot": "2026-11-17T13:47:41",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-wba63da08scs37177",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

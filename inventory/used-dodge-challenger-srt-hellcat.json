@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T15:50:34+00:00",
-  "snapshot": "2026-11-17T15:50:34+00:00",
+  "generated_at": "2026-11-17T21:50:35+00:00",
+  "snapshot": "2026-11-17T21:50:35+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 10,
+  "count": 11,
   "vehicles": [
     {
       "pub_id": "acura-of-langley-2c3cdzc99ph691667",
@@ -45,7 +45,7 @@
       "listing_url": "https://www.burrardacura.ca/en/used-inventory/dodge/challenger/2023-dodge-challenger-id39404842",
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/dodge/challenger/2023-dodge-challenger-id39404842?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-11-17T07:53:08",
-      "snapshot": "2026-10-26T07:24:01",
+      "snapshot": "2026-11-17T09:16:50",
       "go_url": "https://carwhisper.ca/go/burrard-acura-2c3cdzc99ph691667",
       "region": "Lower Mainland",
       "city": "Vancouver",
@@ -141,7 +141,7 @@
       "listing_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/dodge/challenger/2023-dodge-challenger-id39404842",
       "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/dodge/challenger/2023-dodge-challenger-id39404842?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-11-17T07:35:04",
-      "snapshot": "2026-10-26T07:11:57",
+      "snapshot": "2026-11-17T08:59:44",
       "go_url": "https://carwhisper.ca/go/mercedes-benz-north-vancouver-2c3cdzc99ph691667",
       "region": "Lower Mainland",
       "city": "North Vancouver",
@@ -243,6 +243,29 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Southside Nissan Ltd."
+    },
+    {
+      "pub_id": "pacific-honda-2c3cdzc99ph691667",
+      "year": 2023,
+      "make": "Dodge",
+      "model": "Challenger SRT Hellcat",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 22159,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "pacific-honda",
+      "vin": "2C3CDZC99PH691667",
+      "stock": "MB32B00",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/dodge/challenger/2023-dodge-challenger-id39404842",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/dodge/challenger/2023-dodge-challenger-id39404842?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T11:59:55",
+      "snapshot": "2026-11-17T13:47:41",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-2c3cdzc99ph691667",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

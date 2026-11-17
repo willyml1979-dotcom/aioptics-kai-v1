@@ -1,101 +1,26 @@
 {
-  "generated_at": "2026-11-17T15:50:34+00:00",
+  "generated_at": "2026-11-17T21:50:35+00:00",
   "condition": "used",
   "make": "chrysler",
   "files": [
     {
       "condition": "used",
       "make": "chrysler",
-      "model": "200",
-      "count": 5,
-      "file": "inventory/used-chrysler-200.json",
+      "model": "GRAND CARAVAN",
+      "shard": "Kootenays",
+      "count": 2,
+      "file": "inventory/used-chrysler-grand-caravan-kootenays.json",
       "models": [
         {
-          "model": "200",
-          "count": 5
+          "model": "GRAND CARAVAN",
+          "count": 2
         }
       ]
     },
     {
       "condition": "used",
       "make": "chrysler",
-      "model": "Pacifica",
-      "shard": "part1",
-      "count": 30,
-      "file": "inventory/used-chrysler-pacifica-part1.json",
-      "models": [
-        {
-          "model": "PACIFICA",
-          "count": 1
-        },
-        {
-          "model": "Pacifica",
-          "count": 29
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chrysler",
-      "model": "Pacifica",
-      "shard": "part2",
-      "count": 30,
-      "file": "inventory/used-chrysler-pacifica-part2.json",
-      "models": [
-        {
-          "model": "Pacifica",
-          "count": 30
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chrysler",
-      "model": "Pacifica",
-      "shard": "part3",
-      "count": 30,
-      "file": "inventory/used-chrysler-pacifica-part3.json",
-      "models": [
-        {
-          "model": "PACIFICA",
-          "count": 1
-        },
-        {
-          "model": "Pacifica",
-          "count": 29
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chrysler",
-      "model": "GRAND CARAVANSXT 2WD",
-      "count": 1,
-      "file": "inventory/used-chrysler-grand-caravansxt-2wd.json",
-      "models": [
-        {
-          "model": "GRAND CARAVANSXT 2WD",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chrysler",
-      "model": "Pacifica for salein British Columbia",
-      "count": 1,
-      "file": "inventory/used-chrysler-pacifica-for-salein-british-columbia.json",
-      "models": [
-        {
-          "model": "Pacifica for salein British Columbia",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chrysler",
-      "model": "Grand Caravan",
+      "model": "GRAND CARAVAN",
       "shard": "Lower Mainland",
       "count": 5,
       "file": "inventory/used-chrysler-grand-caravan-lower-mainland.json",
@@ -109,7 +34,7 @@
     {
       "condition": "used",
       "make": "chrysler",
-      "model": "Grand Caravan",
+      "model": "GRAND CARAVAN",
       "shard": "Norte/Cariboo",
       "count": 3,
       "file": "inventory/used-chrysler-grand-caravan-norte-cariboo.json",
@@ -123,7 +48,7 @@
     {
       "condition": "used",
       "make": "chrysler",
-      "model": "Grand Caravan",
+      "model": "GRAND CARAVAN",
       "shard": "Okanagan",
       "count": 7,
       "file": "inventory/used-chrysler-grand-caravan-okanagan.json",
@@ -137,10 +62,24 @@
     {
       "condition": "used",
       "make": "chrysler",
-      "model": "Grand Caravan",
+      "model": "GRAND CARAVAN",
       "shard": "Vancouver Island",
-      "count": 11,
+      "count": 12,
       "file": "inventory/used-chrysler-grand-caravan-vancouver-island.json",
+      "models": [
+        {
+          "model": "Grand Caravan",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chrysler",
+      "model": "GRAND CARAVAN",
+      "shard": "sin-region",
+      "count": 11,
+      "file": "inventory/used-chrysler-grand-caravan-sin-region.json",
       "models": [
         {
           "model": "Grand Caravan",
@@ -151,14 +90,90 @@
     {
       "condition": "used",
       "make": "chrysler",
-      "model": "Grand Caravan",
-      "shard": "sin-region",
-      "count": 11,
-      "file": "inventory/used-chrysler-grand-caravan-sin-region.json",
+      "model": "Pacifica",
+      "shard": "part1",
+      "count": 24,
+      "file": "inventory/used-chrysler-pacifica-part1.json",
       "models": [
         {
-          "model": "Grand Caravan",
-          "count": 11
+          "model": "PACIFICA",
+          "count": 1
+        },
+        {
+          "model": "Pacifica",
+          "count": 23
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chrysler",
+      "model": "Pacifica",
+      "shard": "part2",
+      "count": 24,
+      "file": "inventory/used-chrysler-pacifica-part2.json",
+      "models": [
+        {
+          "model": "Pacifica",
+          "count": 24
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chrysler",
+      "model": "Pacifica",
+      "shard": "part3",
+      "count": 24,
+      "file": "inventory/used-chrysler-pacifica-part3.json",
+      "models": [
+        {
+          "model": "PACIFICA",
+          "count": 2
+        },
+        {
+          "model": "Pacifica",
+          "count": 22
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chrysler",
+      "model": "Pacifica",
+      "shard": "part4",
+      "count": 22,
+      "file": "inventory/used-chrysler-pacifica-part4.json",
+      "models": [
+        {
+          "model": "Pacifica",
+          "count": 22
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chrysler",
+      "model": "200 for salein Surrey",
+      "count": 1,
+      "file": "inventory/used-chrysler-200-for-salein-surrey.json",
+      "models": [
+        {
+          "model": "200 for salein Surrey",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chrysler",
+      "model": "Pacifica for salein British Columbia",
+      "count": 2,
+      "file": "inventory/used-chrysler-pacifica-for-salein-british-columbia.json",
+      "models": [
+        {
+          "model": "Pacifica for salein British Columbia",
+          "count": 2
         }
       ]
     },
@@ -204,6 +219,19 @@
     {
       "condition": "used",
       "make": "chrysler",
+      "model": "Pacifica Select AWD  Select",
+      "count": 1,
+      "file": "inventory/used-chrysler-pacifica-select-awd-select.json",
+      "models": [
+        {
+          "model": "Pacifica Select AWD  Select",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chrysler",
       "model": "Pacifica for salein Kelowna",
       "count": 2,
       "file": "inventory/used-chrysler-pacifica-for-salein-kelowna.json",
@@ -230,25 +258,25 @@
     {
       "condition": "used",
       "make": "chrysler",
-      "model": "Pacifica for salein Duncan",
-      "count": 1,
-      "file": "inventory/used-chrysler-pacifica-for-salein-duncan.json",
+      "model": "200",
+      "count": 4,
+      "file": "inventory/used-chrysler-200.json",
       "models": [
         {
-          "model": "Pacifica for salein Duncan",
-          "count": 1
+          "model": "200",
+          "count": 4
         }
       ]
     },
     {
       "condition": "used",
       "make": "chrysler",
-      "model": "300",
+      "model": "Pacifica for salein Duncan",
       "count": 1,
-      "file": "inventory/used-chrysler-300.json",
+      "file": "inventory/used-chrysler-pacifica-for-salein-duncan.json",
       "models": [
         {
-          "model": "300",
+          "model": "Pacifica for salein Duncan",
           "count": 1
         }
       ]

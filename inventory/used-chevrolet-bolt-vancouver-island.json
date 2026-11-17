@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T15:50:34+00:00",
-  "snapshot": "2026-11-17T15:50:34+00:00",
+  "generated_at": "2026-11-17T21:50:35+00:00",
+  "snapshot": "2026-11-17T21:50:35+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 8,
+  "count": 9,
   "vehicles": [
     {
       "pub_id": "jim-pattison-subaru-victoria-1g1fz6s05k4144826",
@@ -110,7 +110,7 @@
       "listing_url": "https://www.harrisoceansidegm.com/vehicles/2022/chevrolet/bolt-ev/parksville/bc/71145451/?sale_class=used",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2022/chevrolet/bolt-ev/parksville/bc/71145451/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-26T10:41:40",
-      "snapshot": "2026-10-26T10:43:24",
+      "snapshot": "2026-11-17T14:47:39",
       "go_url": "https://carwhisper.ca/go/harris-oceanside-chevrolet-buick-gmc-ltd-1g1fw6s04n4119932",
       "region": "Vancouver Island",
       "city": "Parksville",
@@ -195,7 +195,7 @@
       "listing_url": "https://www.harrisoceansidegm.com/vehicles/2021/chevrolet/bolt-ev/parksville/bc/ad13277666/?sale_class=used",
       "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2021/chevrolet/bolt-ev/parksville/bc/ad13277666/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-24T18:31:20",
-      "snapshot": "2026-10-26T10:43:24",
+      "snapshot": "2026-11-17T14:47:39",
       "go_url": "https://carwhisper.ca/go/harris-oceanside-chevrolet-buick-gmc-ltd-1g1fy6s00m4102862",
       "region": "Vancouver Island",
       "city": "Parksville",
@@ -229,6 +229,33 @@
       "city": "Nanaimo",
       "province": "BC",
       "dealer_name": "Laird Wheaton GM"
+    },
+    {
+      "pub_id": "harris-oceanside-chevrolet-buick-gmc-ltd-1g1fy6ev3vf126361",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Bolt",
+      "propulsion": "electric",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 4,
+      "price_cad": 44309.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/21fdaa90-cf96-4fc9-99d2-94eb4cb1dc56_74806ecb-371b-4295-986d-02f2c23fda0e.jpg",
+      "dealer_id": "harris-oceanside-chevrolet-buick-gmc-ltd",
+      "vin": "1G1FY6EV3VF126361",
+      "stock": "C126361",
+      "listing_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/ad13940901/?sale_class=used",
+      "dealer_url": "https://www.harrisoceansidegm.com/vehicles/2027/chevrolet/bolt/parksville/bc/ad13940901/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T14:45:25",
+      "snapshot": "2026-11-17T14:47:39",
+      "go_url": "https://carwhisper.ca/go/harris-oceanside-chevrolet-buick-gmc-ltd-1g1fy6ev3vf126361",
+      "region": "Vancouver Island",
+      "city": "Parksville",
+      "province": "BC",
+      "dealer_name": "Harris Oceanside Chevrolet Buick GMC Ltd."
     }
   ]
 }

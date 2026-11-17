@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T15:50:34+00:00",
-  "snapshot": "2026-11-17T15:50:34+00:00",
+  "generated_at": "2026-11-17T21:50:35+00:00",
+  "snapshot": "2026-11-17T21:50:35+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 11,
+  "count": 12,
   "vehicles": [
     {
       "pub_id": "acura-of-langley-wddkj6hb2ff301878",
@@ -55,7 +55,7 @@
       "listing_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/e400/2015-mercedes-benz-e400-id39516302",
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/e400/2015-mercedes-benz-e400-id39516302?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-11-17T08:30:52",
-      "snapshot": "2026-10-26T07:24:01",
+      "snapshot": "2026-11-17T09:16:50",
       "go_url": "https://carwhisper.ca/go/burrard-acura-wddkj6hb2ff301878",
       "region": "Lower Mainland",
       "city": "Vancouver",
@@ -171,7 +171,7 @@
       "listing_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/mercedes-benz/e400/2015-mercedes-benz-e400-id39516302",
       "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/mercedes-benz/e400/2015-mercedes-benz-e400-id39516302?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-11-17T08:12:47",
-      "snapshot": "2026-10-26T07:11:57",
+      "snapshot": "2026-11-17T08:59:44",
       "go_url": "https://carwhisper.ca/go/mercedes-benz-north-vancouver-wddkj6hb2ff301878",
       "region": "Lower Mainland",
       "city": "North Vancouver",
@@ -322,6 +322,34 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Southside Nissan Ltd."
+    },
+    {
+      "pub_id": "pacific-honda-wddkj6hb2ff301878",
+      "year": 2015,
+      "make": "Mercedes-Benz",
+      "model": "E400",
+      "trim": "4MATIC",
+      "body_type": "coupe",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 86655,
+      "price_cad": 22995.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://img.sm360.ca/images/inventory/mercedes-benz-boundary/mercedes-benz/e400/2015/39516302/39516302_04851_824bc2ca8cf3c9f999ef7a40d8de2e7b.jpeg",
+      "dealer_id": "pacific-honda",
+      "vin": "WDDKJ6HB2FF301878",
+      "stock": "6T4474A",
+      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/mercedes-benz/e400/2015-mercedes-benz-e400-id39516302",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/mercedes-benz/e400/2015-mercedes-benz-e400-id39516302?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T12:48:04",
+      "snapshot": "2026-11-17T13:47:41",
+      "go_url": "https://carwhisper.ca/go/pacific-honda-wddkj6hb2ff301878",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Pacific Honda"
     }
   ]
 }

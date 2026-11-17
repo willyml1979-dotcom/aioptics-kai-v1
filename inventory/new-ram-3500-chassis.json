@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T15:50:34+00:00",
-  "snapshot": "2026-11-17T15:50:34+00:00",
+  "generated_at": "2026-11-17T21:50:35+00:00",
+  "snapshot": "2026-11-17T21:50:35+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "langley-chrysler-3c7wrsal2sg517225",
@@ -32,6 +32,31 @@
       "city": "Surrey",
       "province": "BC",
       "dealer_name": "Langley Chrysler"
+    },
+    {
+      "pub_id": "pioneer-chrysler-jeep-78624-487984",
+      "year": 2027,
+      "make": "Ram",
+      "model": "3500 Chassis",
+      "trim": "Tradesman 4x2 Reg Cab 143.5\" WB",
+      "drivetrain": "RWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "price_cad": 69190.0,
+      "price_note": null,
+      "dealer_id": "pioneer-chrysler-jeep",
+      "stock": "78624-487984",
+      "listing_url": "https://www.pioneerchryslerjeep.com/new/2027-Ram-3500_Chassis.html",
+      "dealer_url": "https://www.pioneerchryslerjeep.com/new/2027-Ram-3500_Chassis.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T11:41:29",
+      "snapshot": "2026-11-17T11:44:06",
+      "go_url": "https://carwhisper.ca/go/pioneer-chrysler-jeep-78624-487984",
+      "region": "Lower Mainland",
+      "city": "Mission",
+      "province": "BC",
+      "dealer_name": "Pioneer Chrysler Jeep"
     }
   ]
 }

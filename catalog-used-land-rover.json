@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T15:50:34+00:00",
+  "generated_at": "2026-11-17T21:50:35+00:00",
   "condition": "used",
   "make": "land-rover",
   "files": [
@@ -21,12 +21,12 @@
       "make": "land-rover",
       "model": "Discovery",
       "shard": "part1",
-      "count": 21,
+      "count": 22,
       "file": "inventory/used-land-rover-discovery-part1.json",
       "models": [
         {
           "model": "Discovery",
-          "count": 21
+          "count": 22
         }
       ]
     },
@@ -35,12 +35,12 @@
       "make": "land-rover",
       "model": "Discovery",
       "shard": "part2",
-      "count": 21,
+      "count": 22,
       "file": "inventory/used-land-rover-discovery-part2.json",
       "models": [
         {
           "model": "Discovery",
-          "count": 21
+          "count": 22
         }
       ]
     },
@@ -49,7 +49,7 @@
       "make": "land-rover",
       "model": "Discovery",
       "shard": "part3",
-      "count": 21,
+      "count": 22,
       "file": "inventory/used-land-rover-discovery-part3.json",
       "models": [
         {
@@ -58,7 +58,7 @@
         },
         {
           "model": "Discovery",
-          "count": 19
+          "count": 20
         }
       ]
     },
@@ -66,12 +66,12 @@
       "condition": "used",
       "make": "land-rover",
       "model": "Range Rover Evoque",
-      "count": 29,
+      "count": 30,
       "file": "inventory/used-land-rover-range-rover-evoque.json",
       "models": [
         {
           "model": "Range Rover Evoque",
-          "count": 29
+          "count": 30
         }
       ]
     },
@@ -79,7 +79,7 @@
       "condition": "used",
       "make": "land-rover",
       "model": "Discovery Sport",
-      "count": 20,
+      "count": 22,
       "file": "inventory/used-land-rover-discovery-sport.json",
       "models": [
         {
@@ -88,7 +88,7 @@
         },
         {
           "model": "Discovery Sport",
-          "count": 17
+          "count": 19
         }
       ]
     },
@@ -227,12 +227,12 @@
       "make": "land-rover",
       "model": "Range Rover Sport",
       "shard": "part10",
-      "count": 25,
+      "count": 20,
       "file": "inventory/used-land-rover-range-rover-sport-part10.json",
       "models": [
         {
           "model": "Range Rover Sport",
-          "count": 25
+          "count": 20
         }
       ]
     },
@@ -283,7 +283,7 @@
       "make": "land-rover",
       "model": "Range Rover Velar",
       "shard": "part4",
-      "count": 22,
+      "count": 23,
       "file": "inventory/used-land-rover-range-rover-velar-part4.json",
       "models": [
         {
@@ -292,7 +292,7 @@
         },
         {
           "model": "Range Rover Velar",
-          "count": 17
+          "count": 18
         }
       ]
     },
@@ -431,7 +431,7 @@
       "make": "land-rover",
       "model": "Defender",
       "shard": "part6",
-      "count": 27,
+      "count": 26,
       "file": "inventory/used-land-rover-defender-part6.json",
       "models": [
         {
@@ -440,7 +440,20 @@
         },
         {
           "model": "Defender",
-          "count": 22
+          "count": 21
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "land-rover",
+      "model": "DEFENDERBase",
+      "count": 1,
+      "file": "inventory/used-land-rover-defenderbase.json",
+      "models": [
+        {
+          "model": "DEFENDERBase",
+          "count": 1
         }
       ]
     },
@@ -474,12 +487,12 @@
       "condition": "used",
       "make": "land-rover",
       "model": "Defender 110 P300 S",
-      "count": 33,
+      "count": 31,
       "file": "inventory/used-land-rover-defender-110-p300-s.json",
       "models": [
         {
           "model": "Defender 110 P300 S",
-          "count": 33
+          "count": 31
         }
       ]
     },
@@ -567,12 +580,12 @@
       "condition": "used",
       "make": "land-rover",
       "model": "Range Rover Sport P400 Dynamic HSE",
-      "count": 24,
+      "count": 25,
       "file": "inventory/used-land-rover-range-rover-sport-p400-dynamic-hse.json",
       "models": [
         {
           "model": "Range Rover Sport P400 Dynamic HSE",
-          "count": 24
+          "count": 25
         }
       ]
     },
@@ -621,12 +634,12 @@
       "condition": "used",
       "make": "land-rover",
       "model": "Range Rover P530 SE SWB",
-      "count": 17,
+      "count": 16,
       "file": "inventory/used-land-rover-range-rover-p530-se-swb.json",
       "models": [
         {
           "model": "Range Rover P530 SE SWB",
-          "count": 17
+          "count": 16
         }
       ]
     },
@@ -660,12 +673,12 @@
       "condition": "used",
       "make": "land-rover",
       "model": "Range Rover Sport P400 HST",
-      "count": 23,
+      "count": 24,
       "file": "inventory/used-land-rover-range-rover-sport-p400-hst.json",
       "models": [
         {
           "model": "Range Rover Sport P400 HST",
-          "count": 23
+          "count": 24
         }
       ]
     },
@@ -712,12 +725,12 @@
       "condition": "used",
       "make": "land-rover",
       "model": "Range Rover 5.0L V8 Supercharged P525 Westminster SWB",
-      "count": 17,
+      "count": 16,
       "file": "inventory/used-land-rover-range-rover-5-0l-v8-supercharged-p525-westminster-swb.json",
       "models": [
         {
           "model": "Range Rover 5.0L V8 Supercharged P525 Westminster SWB",
-          "count": 17
+          "count": 16
         }
       ]
     },
@@ -751,12 +764,12 @@
       "condition": "used",
       "make": "land-rover",
       "model": "Defender 110 P400 X-Dynamic HSE",
-      "count": 10,
+      "count": 11,
       "file": "inventory/used-land-rover-defender-110-p400-x-dynamic-hse.json",
       "models": [
         {
           "model": "Defender 110 P400 X-Dynamic HSE",
-          "count": 10
+          "count": 11
         }
       ]
     },
@@ -764,12 +777,12 @@
       "condition": "used",
       "make": "land-rover",
       "model": "Defender 110 P400 X",
-      "count": 10,
+      "count": 11,
       "file": "inventory/used-land-rover-defender-110-p400-x.json",
       "models": [
         {
           "model": "Defender 110 P400 X",
-          "count": 10
+          "count": 11
         }
       ]
     },
@@ -777,12 +790,12 @@
       "condition": "used",
       "make": "land-rover",
       "model": "Range Rover P530 SE LWB 7-SEAT",
-      "count": 10,
+      "count": 11,
       "file": "inventory/used-land-rover-range-rover-p530-se-lwb-7-seat.json",
       "models": [
         {
           "model": "Range Rover P530 SE LWB 7-SEAT",
-          "count": 10
+          "count": 11
         }
       ]
     },
@@ -790,12 +803,12 @@
       "condition": "used",
       "make": "land-rover",
       "model": "Range Rover P530 AUTOBIOGRAPHY LWB 7-SEAT",
-      "count": 10,
+      "count": 11,
       "file": "inventory/used-land-rover-range-rover-p530-autobiography-lwb-7-seat.json",
       "models": [
         {
           "model": "Range Rover P530 AUTOBIOGRAPHY LWB 7-SEAT",
-          "count": 10
+          "count": 11
         }
       ]
     },
@@ -803,12 +816,12 @@
       "condition": "used",
       "make": "land-rover",
       "model": "Range Rover Sport P400 Dynamic SE",
-      "count": 29,
+      "count": 32,
       "file": "inventory/used-land-rover-range-rover-sport-p400-dynamic-se.json",
       "models": [
         {
           "model": "Range Rover Sport P400 Dynamic SE",
-          "count": 29
+          "count": 32
         }
       ]
     },
@@ -816,12 +829,12 @@
       "condition": "used",
       "make": "land-rover",
       "model": "Range Rover 5.0L V8 Supercharged P525 HSE SWB (2)",
-      "count": 10,
+      "count": 11,
       "file": "inventory/used-land-rover-range-rover-5-0l-v8-supercharged-p525-hse-swb-2.json",
       "models": [
         {
           "model": "Range Rover 5.0L V8 Supercharged P525 HSE SWB (2)",
-          "count": 10
+          "count": 11
         }
       ]
     },
@@ -829,12 +842,12 @@
       "condition": "used",
       "make": "land-rover",
       "model": "Range Rover P550e SE SWB",
-      "count": 10,
+      "count": 11,
       "file": "inventory/used-land-rover-range-rover-p550e-se-swb.json",
       "models": [
         {
           "model": "Range Rover P550e SE SWB",
-          "count": 10
+          "count": 11
         }
       ]
     },
@@ -868,12 +881,12 @@
       "condition": "used",
       "make": "land-rover",
       "model": "Range Rover Sport P530 Dynamic SE",
-      "count": 4,
+      "count": 7,
       "file": "inventory/used-land-rover-range-rover-sport-p530-dynamic-se.json",
       "models": [
         {
           "model": "Range Rover Sport P530 Dynamic SE",
-          "count": 4
+          "count": 7
         }
       ]
     },
@@ -894,12 +907,12 @@
       "condition": "used",
       "make": "land-rover",
       "model": "LR4 HSE",
-      "count": 4,
+      "count": 3,
       "file": "inventory/used-land-rover-lr4-hse.json",
       "models": [
         {
           "model": "LR4 HSE",
-          "count": 4
+          "count": 3
         }
       ]
     },
@@ -907,12 +920,12 @@
       "condition": "used",
       "make": "land-rover",
       "model": "Range Rover Evoque P250 SE (2)",
-      "count": 5,
+      "count": 4,
       "file": "inventory/used-land-rover-range-rover-evoque-p250-se-2.json",
       "models": [
         {
           "model": "Range Rover Evoque P250 SE (2)",
-          "count": 5
+          "count": 4
         }
       ]
     },
@@ -920,12 +933,12 @@
       "condition": "used",
       "make": "land-rover",
       "model": "Range Rover Sport P360 HSE Silver",
-      "count": 4,
+      "count": 3,
       "file": "inventory/used-land-rover-range-rover-sport-p360-hse-silver.json",
       "models": [
         {
           "model": "Range Rover Sport P360 HSE Silver",
-          "count": 4
+          "count": 3
         }
       ]
     },
@@ -938,6 +951,19 @@
       "models": [
         {
           "model": "Range Rover EvoqueDynamic Premium",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "land-rover",
+      "model": "LR3",
+      "count": 1,
+      "file": "inventory/used-land-rover-lr3.json",
+      "models": [
+        {
+          "model": "LR3",
           "count": 1
         }
       ]

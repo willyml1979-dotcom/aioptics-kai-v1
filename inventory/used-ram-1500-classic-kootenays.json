@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T15:50:34+00:00",
-  "snapshot": "2026-11-17T15:50:34+00:00",
+  "generated_at": "2026-11-17T21:50:35+00:00",
+  "snapshot": "2026-11-17T21:50:35+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 4,
   "vehicles": [
@@ -30,33 +30,6 @@
       "city": "Castlegar",
       "province": "BC",
       "dealer_name": "Castlegar Toyota"
-    },
-    {
-      "pub_id": "sullivan-motor-products-nelson-ltd-1c6rr7lg6ns229994",
-      "year": 2022,
-      "make": "RAM",
-      "model": "1500 CLASSIC",
-      "propulsion": "gas",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
-      "condition": "used",
-      "odometer_km": 112805,
-      "price_cad": 34160.0,
-      "price_note": null,
-      "color": "Diamond Black Crystal Pearlcoat",
-      "photo_url": "https://portal.omni.auto/Media/SettingsMedia/5ff19d9a-62e5-4d11-a5bc-793c69be64fd.webp",
-      "dealer_id": "sullivan-motor-products-nelson-ltd",
-      "vin": "1C6RR7LG6NS229994",
-      "stock": "2662A",
-      "listing_url": "https://nelsonchrysler.ca/Inventory/2022-RAM-1500CLASSIC-Warlock-1C6RR7LG6NS229994",
-      "dealer_url": "https://nelsonchrysler.ca/Inventory/2022-RAM-1500CLASSIC-Warlock-1C6RR7LG6NS229994?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-26T09:34:57",
-      "snapshot": "2026-10-26T09:35:53",
-      "go_url": "https://carwhisper.ca/go/sullivan-motor-products-nelson-ltd-1c6rr7lg6ns229994",
-      "region": "Kootenays",
-      "city": "Nelson",
-      "province": "BC",
-      "dealer_name": "Sullivan Motor Products-Nelson Ltd"
     },
     {
       "pub_id": "kootenay-chrysler-dodge-jeep-ram-ltd-3c6rr7lt4pg666559",
@@ -113,6 +86,33 @@
       "city": "Trail",
       "province": "BC",
       "dealer_name": "Kootenay Chrysler Dodge Jeep Ram Ltd."
+    },
+    {
+      "pub_id": "sullivan-motor-products-nelson-ltd-1c6rr7kt7rs196895",
+      "year": 2024,
+      "make": "RAM",
+      "model": "1500 CLASSIC",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 55623,
+      "price_cad": 39990.0,
+      "price_note": null,
+      "color": "Diamond Black Crystal Pearl",
+      "photo_url": "https://portal.omni.auto/Media/InventoryMedia/1C6RR7KT7RS196895/Optimized/9ab22fc91ea88e6288a3efee7c571c0d.webp",
+      "dealer_id": "sullivan-motor-products-nelson-ltd",
+      "vin": "1C6RR7KT7RS196895",
+      "stock": "2681A",
+      "listing_url": "https://nelsonchrysler.ca/Inventory/2024-RAM-1500CLASSIC-Tradesman-1C6RR7KT7RS196895",
+      "dealer_url": "https://nelsonchrysler.ca/Inventory/2024-RAM-1500CLASSIC-Tradesman-1C6RR7KT7RS196895?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T12:07:40",
+      "snapshot": "2026-11-17T12:10:10",
+      "go_url": "https://carwhisper.ca/go/sullivan-motor-products-nelson-ltd-1c6rr7kt7rs196895",
+      "region": "Kootenays",
+      "city": "Nelson",
+      "province": "BC",
+      "dealer_name": "Sullivan Motor Products-Nelson Ltd"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T15:50:34+00:00",
-  "snapshot": "2026-11-17T15:50:34+00:00",
+  "generated_at": "2026-11-17T21:50:35+00:00",
+  "snapshot": "2026-11-17T21:50:35+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "mercedes-benz-richmond-sajdv1ee9rck84514",
@@ -78,30 +78,6 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Vancouver Honda"
-    },
-    {
-      "pub_id": "pacific-honda-sajdv1ee9rck84514",
-      "year": 2024,
-      "make": "Jaguar",
-      "model": "F-Type Coupe P450 75 AWD",
-      "body_type": "coupe",
-      "propulsion": "unknown",
-      "propulsion_source": null,
-      "condition": "used",
-      "odometer_km": 9365,
-      "price_cad": null,
-      "price_note": "precio no publicado en la fuente",
-      "dealer_id": "pacific-honda",
-      "vin": "SAJDV1EE9RCK84514",
-      "stock": "JL12B08",
-      "listing_url": "https://www.northshorehonda.ca/en/used-inventory/jaguar/f-type/2024-jaguar-f-type-id39018372",
-      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/jaguar/f-type/2024-jaguar-f-type-id39018372?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-25T14:43:17",
-      "snapshot": "2026-10-26T09:17:32",
-      "go_url": "https://carwhisper.ca/go/pacific-honda-sajdv1ee9rck84514",
-      "city": null,
-      "province": "BC",
-      "dealer_name": "Pacific Honda"
     }
   ]
 }

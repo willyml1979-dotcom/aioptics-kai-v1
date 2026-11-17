@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T15:50:34+00:00",
-  "snapshot": "2026-11-17T15:50:34+00:00",
+  "generated_at": "2026-11-17T21:50:35+00:00",
+  "snapshot": "2026-11-17T21:50:35+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "kia-south-vancouver-w1n4m4hb1lw053495",
@@ -31,6 +31,35 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Kia South Vancouver"
+    },
+    {
+      "pub_id": "openroad-lexus-port-moody-w1n4m4hb0sw418280",
+      "year": 2025,
+      "make": "Mercedes-Benz",
+      "model": "GLB",
+      "trim": "GLB 250 4MATIC",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 17183,
+      "price_cad": 42510.0,
+      "price_note": null,
+      "color": "Polar White",
+      "dealer_id": "openroad-lexus-port-moody",
+      "vin": "W1N4M4HB0SW418280",
+      "stock": "7UIAA18280",
+      "listing_url": "https://openroadlexusportmoody.com/used/2025-mercedes-benz-glb-glb-250-4matic-suv/W1N4M4HB0SW418280",
+      "dealer_url": "https://openroadlexusportmoody.com/used/2025-mercedes-benz-glb-glb-250-4matic-suv/W1N4M4HB0SW418280?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T14:24:28",
+      "snapshot": "2026-11-17T14:25:07",
+      "go_url": "https://carwhisper.ca/go/openroad-lexus-port-moody-w1n4m4hb0sw418280",
+      "region": "Lower Mainland",
+      "city": "Port Moody",
+      "province": "BC",
+      "dealer_name": "OpenRoad Lexus - Port Moody"
     },
     {
       "pub_id": "harris-kia-w1n4m4hb6nw260595",
