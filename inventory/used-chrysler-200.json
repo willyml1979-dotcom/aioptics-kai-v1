@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T03:50:31+00:00",
-  "snapshot": "2026-11-17T03:50:31+00:00",
+  "generated_at": "2026-11-17T09:50:32+00:00",
+  "snapshot": "2026-11-17T09:50:32+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "sullivan-motor-products-nelson-ltd-1c3ccceg2fn598118",
@@ -56,6 +56,35 @@
       "dealer_name": "Duncan Hyundai"
     },
     {
+      "pub_id": "island-ford-1c3cccbgxfn608964",
+      "year": 2015,
+      "make": "Chrysler",
+      "model": "200",
+      "body_type": "sedan",
+      "drivetrain": "FWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 127457,
+      "price_cad": 8499.0,
+      "price_note": null,
+      "color": "Blue",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/1624826e-ee3a-412c-8d8e-af338d5367b7_d7290d89-305c-4344-ac85-50d555e6a47e.jpg?promo=6d534d3b-7ba8-471d-96be-367320fe2f97_2&overlay-type=tadv",
+      "dealer_id": "island-ford",
+      "vin": "1C3CCCBGXFN608964",
+      "stock": "26238AV",
+      "listing_url": "https://www.islandford.ca/vehicles/2015/chrysler/200/duncan/bc/ad13877506/?sale_class=used",
+      "dealer_url": "https://www.islandford.ca/vehicles/2015/chrysler/200/duncan/bc/ad13877506/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-16T22:10:10",
+      "snapshot": "2026-11-16T22:15:56",
+      "go_url": "https://carwhisper.ca/go/island-ford-1c3cccbgxfn608964",
+      "region": "Vancouver Island",
+      "city": "Duncan",
+      "province": "BC",
+      "dealer_name": "Island Ford"
+    },
+    {
       "pub_id": "campus-honda-1c3cccfb3gn119404",
       "year": 2016,
       "make": "Chrysler",
@@ -83,6 +112,31 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Campus Honda"
+    },
+    {
+      "pub_id": "red-deer-nissan-1c3ccccg4gn185217",
+      "year": 2016,
+      "make": "Chrysler",
+      "model": "200",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 147395,
+      "price_cad": 13494.0,
+      "price_note": null,
+      "photo_url": "https://www.reddeernissan.com/wp-content/themes/convertus-achilles/achilles/assets/images/srp-placeholder/PV.jpg",
+      "dealer_id": "red-deer-nissan",
+      "vin": "1C3CCCCG4GN185217",
+      "stock": "RDN3887",
+      "listing_url": "https://www.reddeernissan.com/vehicles/2016/chrysler/200/red-deer/ab/ad13970637/?sale_class=used",
+      "dealer_url": "https://www.reddeernissan.com/vehicles/2016/chrysler/200/red-deer/ab/ad13970637/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T01:37:44",
+      "snapshot": "2026-11-17T01:42:48",
+      "go_url": "https://carwhisper.ca/go/red-deer-nissan-1c3ccccg4gn185217",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Red Deer Nissan"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T03:50:31+00:00",
+  "generated_at": "2026-11-17T09:50:32+00:00",
   "condition": "new",
   "make": "jeep",
   "files": [
@@ -34,12 +34,62 @@
       "make": "jeep",
       "model": "Compass",
       "shard": "part1",
-      "count": 29,
+      "count": 28,
       "file": "inventory/new-jeep-compass-part1.json",
       "models": [
         {
           "model": "COMPASS",
           "count": 5
+        },
+        {
+          "model": "Compass",
+          "count": 23
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Compass",
+      "shard": "part2",
+      "count": 28,
+      "file": "inventory/new-jeep-compass-part2.json",
+      "models": [
+        {
+          "model": "Compass",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Compass",
+      "shard": "part3",
+      "count": 28,
+      "file": "inventory/new-jeep-compass-part3.json",
+      "models": [
+        {
+          "model": "COMPASS",
+          "count": 7
+        },
+        {
+          "model": "Compass",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Compass",
+      "shard": "part4",
+      "count": 28,
+      "file": "inventory/new-jeep-compass-part4.json",
+      "models": [
+        {
+          "model": "COMPASS",
+          "count": 4
         },
         {
           "model": "Compass",
@@ -51,63 +101,13 @@
       "condition": "new",
       "make": "jeep",
       "model": "Compass",
-      "shard": "part2",
-      "count": 29,
-      "file": "inventory/new-jeep-compass-part2.json",
-      "models": [
-        {
-          "model": "Compass",
-          "count": 29
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "jeep",
-      "model": "Compass",
-      "shard": "part3",
-      "count": 29,
-      "file": "inventory/new-jeep-compass-part3.json",
-      "models": [
-        {
-          "model": "COMPASS",
-          "count": 10
-        },
-        {
-          "model": "Compass",
-          "count": 19
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "jeep",
-      "model": "Compass",
-      "shard": "part4",
-      "count": 29,
-      "file": "inventory/new-jeep-compass-part4.json",
-      "models": [
-        {
-          "model": "COMPASS",
-          "count": 2
-        },
-        {
-          "model": "Compass",
-          "count": 27
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "jeep",
-      "model": "Compass",
       "shard": "part5",
-      "count": 29,
+      "count": 28,
       "file": "inventory/new-jeep-compass-part5.json",
       "models": [
         {
           "model": "Compass",
-          "count": 29
+          "count": 28
         }
       ]
     },
@@ -116,12 +116,12 @@
       "make": "jeep",
       "model": "Compass",
       "shard": "part6",
-      "count": 29,
+      "count": 28,
       "file": "inventory/new-jeep-compass-part6.json",
       "models": [
         {
           "model": "Compass",
-          "count": 29
+          "count": 28
         }
       ]
     },
@@ -157,7 +157,7 @@
       "make": "jeep",
       "model": "Cherokee",
       "shard": "part1",
-      "count": 30,
+      "count": 32,
       "file": "inventory/new-jeep-cherokee-part1.json",
       "models": [
         {
@@ -166,7 +166,7 @@
         },
         {
           "model": "Cherokee",
-          "count": 26
+          "count": 28
         }
       ]
     },
@@ -175,12 +175,12 @@
       "make": "jeep",
       "model": "Cherokee",
       "shard": "part2",
-      "count": 30,
+      "count": 32,
       "file": "inventory/new-jeep-cherokee-part2.json",
       "models": [
         {
           "model": "Cherokee",
-          "count": 30
+          "count": 32
         }
       ]
     },
@@ -189,12 +189,12 @@
       "make": "jeep",
       "model": "Cherokee",
       "shard": "part3",
-      "count": 30,
+      "count": 32,
       "file": "inventory/new-jeep-cherokee-part3.json",
       "models": [
         {
           "model": "Cherokee",
-          "count": 30
+          "count": 32
         }
       ]
     },
@@ -203,12 +203,12 @@
       "make": "jeep",
       "model": "Cherokee",
       "shard": "part4",
-      "count": 30,
+      "count": 32,
       "file": "inventory/new-jeep-cherokee-part4.json",
       "models": [
         {
           "model": "Cherokee",
-          "count": 30
+          "count": 32
         }
       ]
     },
@@ -217,16 +217,16 @@
       "make": "jeep",
       "model": "Cherokee",
       "shard": "part5",
-      "count": 30,
+      "count": 32,
       "file": "inventory/new-jeep-cherokee-part5.json",
       "models": [
         {
           "model": "CHEROKEE",
-          "count": 3
+          "count": 2
         },
         {
           "model": "Cherokee",
-          "count": 27
+          "count": 30
         }
       ]
     },
@@ -235,12 +235,12 @@
       "make": "jeep",
       "model": "Cherokee",
       "shard": "part6",
-      "count": 30,
+      "count": 32,
       "file": "inventory/new-jeep-cherokee-part6.json",
       "models": [
         {
           "model": "Cherokee",
-          "count": 30
+          "count": 32
         }
       ]
     },
@@ -249,12 +249,12 @@
       "make": "jeep",
       "model": "Cherokee",
       "shard": "part7",
-      "count": 30,
+      "count": 32,
       "file": "inventory/new-jeep-cherokee-part7.json",
       "models": [
         {
           "model": "Cherokee",
-          "count": 30
+          "count": 32
         }
       ]
     },
@@ -263,9 +263,13 @@
       "make": "jeep",
       "model": "Cherokee",
       "shard": "part8",
-      "count": 30,
+      "count": 32,
       "file": "inventory/new-jeep-cherokee-part8.json",
       "models": [
+        {
+          "model": "CHEROKEE",
+          "count": 2
+        },
         {
           "model": "Cherokee",
           "count": 30
@@ -277,7 +281,7 @@
       "make": "jeep",
       "model": "Cherokee",
       "shard": "part9",
-      "count": 30,
+      "count": 24,
       "file": "inventory/new-jeep-cherokee-part9.json",
       "models": [
         {
@@ -286,25 +290,7 @@
         },
         {
           "model": "Cherokee",
-          "count": 29
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "jeep",
-      "model": "Cherokee",
-      "shard": "part10",
-      "count": 27,
-      "file": "inventory/new-jeep-cherokee-part10.json",
-      "models": [
-        {
-          "model": "CHEROKEE",
-          "count": 2
-        },
-        {
-          "model": "Cherokee",
-          "count": 25
+          "count": 23
         }
       ]
     },
@@ -380,8 +366,12 @@
       "file": "inventory/new-jeep-wrangler-part4.json",
       "models": [
         {
+          "model": "WRANGLER",
+          "count": 1
+        },
+        {
           "model": "Wrangler",
-          "count": 30
+          "count": 29
         }
       ]
     },
@@ -408,12 +398,12 @@
       "make": "jeep",
       "model": "Wrangler",
       "shard": "part6",
-      "count": 30,
+      "count": 29,
       "file": "inventory/new-jeep-wrangler-part6.json",
       "models": [
         {
           "model": "WRANGLER",
-          "count": 2
+          "count": 1
         },
         {
           "model": "Wrangler",
@@ -489,12 +479,12 @@
       "make": "jeep",
       "model": "Gladiator",
       "shard": "Okanagan",
-      "count": 3,
+      "count": 2,
       "file": "inventory/new-jeep-gladiator-okanagan.json",
       "models": [
         {
           "model": "Gladiator",
-          "count": 3
+          "count": 2
         }
       ]
     },
@@ -571,7 +561,7 @@
       "make": "jeep",
       "model": "Grand Cherokee L",
       "shard": "part1",
-      "count": 21,
+      "count": 31,
       "file": "inventory/new-jeep-grand-cherokee-l-part1.json",
       "models": [
         {
@@ -580,7 +570,7 @@
         },
         {
           "model": "Grand Cherokee L",
-          "count": 20
+          "count": 30
         }
       ]
     },
@@ -589,26 +579,12 @@
       "make": "jeep",
       "model": "Grand Cherokee L",
       "shard": "part2",
-      "count": 21,
+      "count": 30,
       "file": "inventory/new-jeep-grand-cherokee-l-part2.json",
       "models": [
         {
           "model": "Grand Cherokee L",
-          "count": 21
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "jeep",
-      "model": "Grand Cherokee L",
-      "shard": "part3",
-      "count": 21,
-      "file": "inventory/new-jeep-grand-cherokee-l-part3.json",
-      "models": [
-        {
-          "model": "Grand Cherokee L",
-          "count": 21
+          "count": 30
         }
       ]
     },
@@ -667,7 +643,7 @@
       "make": "jeep",
       "model": "GRAND CHEROKEE",
       "shard": "part4",
-      "count": 27,
+      "count": 26,
       "file": "inventory/new-jeep-grand-cherokee-part4.json",
       "models": [
         {
@@ -676,7 +652,7 @@
         },
         {
           "model": "Grand Cherokee",
-          "count": 26
+          "count": 25
         }
       ]
     },
@@ -770,12 +746,12 @@
       "condition": "new",
       "make": "jeep",
       "model": "Recon",
-      "count": 4,
+      "count": 5,
       "file": "inventory/new-jeep-recon.json",
       "models": [
         {
           "model": "Recon",
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -789,6 +765,58 @@
         {
           "model": "Grand Wagoneer L",
           "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Compass for salein Kelowna",
+      "count": 1,
+      "file": "inventory/new-jeep-compass-for-salein-kelowna.json",
+      "models": [
+        {
+          "model": "Compass for salein Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Cherokee for salein Kelowna",
+      "count": 1,
+      "file": "inventory/new-jeep-cherokee-for-salein-kelowna.json",
+      "models": [
+        {
+          "model": "Cherokee for salein Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Gladiator for salein Kelowna",
+      "count": 1,
+      "file": "inventory/new-jeep-gladiator-for-salein-kelowna.json",
+      "models": [
+        {
+          "model": "Gladiator for salein Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Grand Cherokee for salein Kelowna",
+      "count": 1,
+      "file": "inventory/new-jeep-grand-cherokee-for-salein-kelowna.json",
+      "models": [
+        {
+          "model": "Grand Cherokee for salein Kelowna",
+          "count": 1
         }
       ]
     },

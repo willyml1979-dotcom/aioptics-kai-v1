@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T03:50:31+00:00",
-  "snapshot": "2026-11-17T03:50:31+00:00",
+  "generated_at": "2026-11-17T09:50:32+00:00",
+  "snapshot": "2026-11-17T09:50:32+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "integrity-subaru-1gnkvfed2hj249910",
@@ -25,13 +25,36 @@
       "stock": "4443-1",
       "listing_url": "https://www.integritysubaru.ca/vehicles/2017/chevrolet/traverse/trail/bc/69992077/?sale_class=used",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2017/chevrolet/traverse/trail/bc/69992077/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-26T03:52:48",
-      "snapshot": "2026-10-26T03:53:48",
+      "last_verified": "2026-11-16T21:40:39",
+      "snapshot": "2026-11-16T21:40:51",
       "go_url": "https://carwhisper.ca/go/integrity-subaru-1gnkvfed2hj249910",
       "region": "Kootenays",
       "city": "Trail",
       "province": "BC",
       "dealer_name": "Integrity Subaru"
+    },
+    {
+      "pub_id": "glacier-honda-1gnkvgkd7hj148677",
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Traverse",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 18076.0,
+      "price_note": null,
+      "dealer_id": "glacier-honda",
+      "vin": "1GNKVGKD7HJ148677",
+      "stock": 13385080,
+      "listing_url": "https://www.glacierhonda.com/used/2017-Chevrolet-Traverse.html",
+      "dealer_url": "https://www.glacierhonda.com/used/2017-Chevrolet-Traverse.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T06:51:42",
+      "snapshot": "2026-11-17T01:47:06",
+      "go_url": "https://carwhisper.ca/go/glacier-honda-1gnkvgkd7hj148677",
+      "region": "Kootenays",
+      "city": "Castlegar",
+      "province": "BC",
+      "dealer_name": "Glacier Honda"
     }
   ]
 }

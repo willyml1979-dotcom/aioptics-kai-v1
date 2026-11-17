@@ -1,8 +1,78 @@
 {
-  "generated_at": "2026-11-17T03:50:31+00:00",
+  "generated_at": "2026-11-17T09:50:32+00:00",
   "condition": "used",
   "make": "mitsubishi",
   "files": [
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "Mirage",
+      "shard": "Kootenays",
+      "count": 1,
+      "file": "inventory/used-mitsubishi-mirage-kootenays.json",
+      "models": [
+        {
+          "model": "Mirage",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "Mirage",
+      "shard": "Lower Mainland",
+      "count": 22,
+      "file": "inventory/used-mitsubishi-mirage-lower-mainland.json",
+      "models": [
+        {
+          "model": "Mirage",
+          "count": 22
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "Mirage",
+      "shard": "Okanagan",
+      "count": 2,
+      "file": "inventory/used-mitsubishi-mirage-okanagan.json",
+      "models": [
+        {
+          "model": "Mirage",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "Mirage",
+      "shard": "Vancouver Island",
+      "count": 6,
+      "file": "inventory/used-mitsubishi-mirage-vancouver-island.json",
+      "models": [
+        {
+          "model": "Mirage",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "Mirage",
+      "shard": "sin-region",
+      "count": 3,
+      "file": "inventory/used-mitsubishi-mirage-sin-region.json",
+      "models": [
+        {
+          "model": "Mirage",
+          "count": 3
+        }
+      ]
+    },
     {
       "condition": "used",
       "make": "mitsubishi",
@@ -21,12 +91,12 @@
       "make": "mitsubishi",
       "model": "Outlander",
       "shard": "part1",
-      "count": 26,
+      "count": 30,
       "file": "inventory/used-mitsubishi-outlander-part1.json",
       "models": [
         {
           "model": "Outlander",
-          "count": 26
+          "count": 30
         }
       ]
     },
@@ -35,12 +105,12 @@
       "make": "mitsubishi",
       "model": "Outlander",
       "shard": "part2",
-      "count": 26,
+      "count": 30,
       "file": "inventory/used-mitsubishi-outlander-part2.json",
       "models": [
         {
           "model": "Outlander",
-          "count": 26
+          "count": 30
         }
       ]
     },
@@ -49,16 +119,16 @@
       "make": "mitsubishi",
       "model": "Outlander",
       "shard": "part3",
-      "count": 26,
+      "count": 30,
       "file": "inventory/used-mitsubishi-outlander-part3.json",
       "models": [
         {
           "model": "OUTLANDER",
-          "count": 1
+          "count": 3
         },
         {
           "model": "Outlander",
-          "count": 25
+          "count": 27
         }
       ]
     },
@@ -67,30 +137,12 @@
       "make": "mitsubishi",
       "model": "Outlander",
       "shard": "part4",
-      "count": 26,
+      "count": 27,
       "file": "inventory/used-mitsubishi-outlander-part4.json",
       "models": [
         {
           "model": "OUTLANDER",
-          "count": 4
-        },
-        {
-          "model": "Outlander",
-          "count": 22
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mitsubishi",
-      "model": "Outlander",
-      "shard": "part5",
-      "count": 25,
-      "file": "inventory/used-mitsubishi-outlander-part5.json",
-      "models": [
-        {
-          "model": "OUTLANDER",
-          "count": 3
+          "count": 5
         },
         {
           "model": "Outlander",
@@ -103,7 +155,7 @@
       "make": "mitsubishi",
       "model": "OUTLANDER PLUG-IN HYBRID",
       "shard": "part1",
-      "count": 18,
+      "count": 21,
       "file": "inventory/used-mitsubishi-outlander-plug-in-hybrid-part1.json",
       "models": [
         {
@@ -112,7 +164,7 @@
         },
         {
           "model": "Outlander Plug-In Hybrid",
-          "count": 17
+          "count": 20
         }
       ]
     },
@@ -121,7 +173,7 @@
       "make": "mitsubishi",
       "model": "OUTLANDER PLUG-IN HYBRID",
       "shard": "part2",
-      "count": 17,
+      "count": 20,
       "file": "inventory/used-mitsubishi-outlander-plug-in-hybrid-part2.json",
       "models": [
         {
@@ -130,7 +182,7 @@
         },
         {
           "model": "Outlander Plug-In Hybrid",
-          "count": 16
+          "count": 19
         }
       ]
     },
@@ -138,12 +190,12 @@
       "condition": "used",
       "make": "mitsubishi",
       "model": "Lancer",
-      "count": 5,
+      "count": 8,
       "file": "inventory/used-mitsubishi-lancer.json",
       "models": [
         {
           "model": "Lancer",
-          "count": 5
+          "count": 8
         }
       ]
     },
@@ -180,68 +232,12 @@
       "make": "mitsubishi",
       "model": "RVR",
       "shard": "part3",
-      "count": 28,
+      "count": 27,
       "file": "inventory/used-mitsubishi-rvr-part3.json",
       "models": [
         {
           "model": "RVR",
-          "count": 28
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mitsubishi",
-      "model": "Mirage",
-      "shard": "Lower Mainland",
-      "count": 24,
-      "file": "inventory/used-mitsubishi-mirage-lower-mainland.json",
-      "models": [
-        {
-          "model": "Mirage",
-          "count": 24
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mitsubishi",
-      "model": "Mirage",
-      "shard": "Okanagan",
-      "count": 3,
-      "file": "inventory/used-mitsubishi-mirage-okanagan.json",
-      "models": [
-        {
-          "model": "Mirage",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mitsubishi",
-      "model": "Mirage",
-      "shard": "Vancouver Island",
-      "count": 6,
-      "file": "inventory/used-mitsubishi-mirage-vancouver-island.json",
-      "models": [
-        {
-          "model": "Mirage",
-          "count": 6
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "mitsubishi",
-      "model": "Mirage",
-      "shard": "sin-region",
-      "count": 3,
-      "file": "inventory/used-mitsubishi-mirage-sin-region.json",
-      "models": [
-        {
-          "model": "Mirage",
-          "count": 3
+          "count": 27
         }
       ]
     },
@@ -250,12 +246,12 @@
       "make": "mitsubishi",
       "model": "Eclipse Cross",
       "shard": "Lower Mainland",
-      "count": 18,
+      "count": 17,
       "file": "inventory/used-mitsubishi-eclipse-cross-lower-mainland.json",
       "models": [
         {
           "model": "Eclipse Cross",
-          "count": 18
+          "count": 17
         }
       ]
     },
@@ -292,12 +288,12 @@
       "make": "mitsubishi",
       "model": "Eclipse Cross",
       "shard": "Vancouver Island",
-      "count": 8,
+      "count": 9,
       "file": "inventory/used-mitsubishi-eclipse-cross-vancouver-island.json",
       "models": [
         {
           "model": "Eclipse Cross",
-          "count": 8
+          "count": 9
         }
       ]
     },
@@ -318,14 +314,40 @@
     {
       "condition": "used",
       "make": "mitsubishi",
+      "model": "Eclipse Cross for salein British Columbia",
+      "count": 2,
+      "file": "inventory/used-mitsubishi-eclipse-cross-for-salein-british-columbia.json",
+      "models": [
+        {
+          "model": "Eclipse Cross for salein British Columbia",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "Mirage for salein British Columbia",
+      "count": 2,
+      "file": "inventory/used-mitsubishi-mirage-for-salein-british-columbia.json",
+      "models": [
+        {
+          "model": "Mirage for salein British Columbia",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
       "model": "Outlander PHEV",
       "shard": "Lower Mainland",
-      "count": 21,
+      "count": 16,
       "file": "inventory/used-mitsubishi-outlander-phev-lower-mainland.json",
       "models": [
         {
           "model": "Outlander PHEV",
-          "count": 21
+          "count": 16
         }
       ]
     },
@@ -396,6 +418,19 @@
     {
       "condition": "used",
       "make": "mitsubishi",
+      "model": "Outlander PHEV for salein British Columbia",
+      "count": 1,
+      "file": "inventory/used-mitsubishi-outlander-phev-for-salein-british-columbia.json",
+      "models": [
+        {
+          "model": "Outlander PHEV for salein British Columbia",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
       "model": "Outlander ES S-AWC",
       "count": 9,
       "file": "inventory/used-mitsubishi-outlander-es-s-awc.json",
@@ -422,12 +457,12 @@
     {
       "condition": "used",
       "make": "mitsubishi",
-      "model": "Lancer Sportback",
+      "model": "Outlander PHEV GT S-AWC",
       "count": 1,
-      "file": "inventory/used-mitsubishi-lancer-sportback.json",
+      "file": "inventory/used-mitsubishi-outlander-phev-gt-s-awc.json",
       "models": [
         {
-          "model": "Lancer Sportback",
+          "model": "Outlander PHEV GT S-AWC",
           "count": 1
         }
       ]
@@ -435,12 +470,12 @@
     {
       "condition": "used",
       "make": "mitsubishi",
-      "model": "Outlander PHEV GT S-AWC",
+      "model": "Eclipse Cross for salein Maple Ridge",
       "count": 1,
-      "file": "inventory/used-mitsubishi-outlander-phev-gt-s-awc.json",
+      "file": "inventory/used-mitsubishi-eclipse-cross-for-salein-maple-ridge.json",
       "models": [
         {
-          "model": "Outlander PHEV GT S-AWC",
+          "model": "Eclipse Cross for salein Maple Ridge",
           "count": 1
         }
       ]
@@ -461,12 +496,51 @@
     {
       "condition": "used",
       "make": "mitsubishi",
-      "model": "Outlander PHEV for salein Kelowna",
+      "model": "Eclipse Cross for salein Kelowna",
       "count": 1,
+      "file": "inventory/used-mitsubishi-eclipse-cross-for-salein-kelowna.json",
+      "models": [
+        {
+          "model": "Eclipse Cross for salein Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "Mirage for salein Kelowna",
+      "count": 1,
+      "file": "inventory/used-mitsubishi-mirage-for-salein-kelowna.json",
+      "models": [
+        {
+          "model": "Mirage for salein Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "Outlander PHEV for salein Kelowna",
+      "count": 2,
       "file": "inventory/used-mitsubishi-outlander-phev-for-salein-kelowna.json",
       "models": [
         {
           "model": "Outlander PHEV for salein Kelowna",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "Outlander for salein Kelowna",
+      "count": 1,
+      "file": "inventory/used-mitsubishi-outlander-for-salein-kelowna.json",
+      "models": [
+        {
+          "model": "Outlander for salein Kelowna",
           "count": 1
         }
       ]

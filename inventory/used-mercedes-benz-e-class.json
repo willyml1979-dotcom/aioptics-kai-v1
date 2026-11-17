@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T03:50:31+00:00",
-  "snapshot": "2026-11-17T03:50:31+00:00",
+  "generated_at": "2026-11-17T09:50:32+00:00",
+  "snapshot": "2026-11-17T09:50:32+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "tricity-mitsubishi-wddhf2eb2ba484747",
@@ -61,6 +61,35 @@
       "city": "Surrey",
       "province": "BC",
       "dealer_name": "Applewood Mazda Surrey"
+    },
+    {
+      "pub_id": "kelowna-toyota-ltd-wdbuf90x78b282685",
+      "year": 2008,
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "body_type": "sedan",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 112551,
+      "price_cad": 12995.0,
+      "price_note": null,
+      "color": "Silver",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/37f23384-ff81-4cd1-ba3d-3cb5308e7c42_8bb27570-f64e-434f-8bfb-659822dcdc4d.jpg",
+      "dealer_id": "kelowna-toyota-ltd",
+      "vin": "WDBUF90X78B282685",
+      "stock": "7BZ6482",
+      "listing_url": "https://www.kelownatoyota.com/vehicles/2008/mercedes-benz/e-class-sedan/kelowna/bc/ad13676868/?sale_class=used",
+      "dealer_url": "https://www.kelownatoyota.com/vehicles/2008/mercedes-benz/e-class-sedan/kelowna/bc/ad13676868/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-16T23:47:02",
+      "snapshot": "2026-11-17T00:00:50",
+      "go_url": "https://carwhisper.ca/go/kelowna-toyota-ltd-wdbuf90x78b282685",
+      "region": "Okanagan",
+      "city": "Kelowna",
+      "province": "BC",
+      "dealer_name": "Kelowna Toyota Ltd."
     },
     {
       "pub_id": "country-hills-nissan-wdbuf65j15a640187",

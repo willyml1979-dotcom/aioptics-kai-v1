@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T03:50:31+00:00",
-  "snapshot": "2026-11-17T03:50:31+00:00",
+  "generated_at": "2026-11-17T09:50:32+00:00",
+  "snapshot": "2026-11-17T09:50:32+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "harmony-acura-5uxkr0c50g0u49077",
@@ -49,6 +49,30 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Harmony Honda"
+    },
+    {
+      "pub_id": "kelowna-hyundai-5uxcr6c53kll01763",
+      "year": 2019,
+      "make": "BMW",
+      "model": "X5 for salein Kelowna",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 32904.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "kelowna-hyundai",
+      "vin": "5UXCR6C53KLL01763",
+      "stock": "PNL0176",
+      "listing_url": "https://www.kelownahyundai.com/used/2019-BMW-X5.html",
+      "dealer_url": "https://www.kelownahyundai.com/used/2019-BMW-X5.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-16T23:18:44",
+      "snapshot": "2026-11-16T23:38:18",
+      "go_url": "https://carwhisper.ca/go/kelowna-hyundai-5uxcr6c53kll01763",
+      "region": "Okanagan",
+      "city": "Kelowna",
+      "province": "BC",
+      "dealer_name": "Kelowna Hyundai"
     }
   ]
 }

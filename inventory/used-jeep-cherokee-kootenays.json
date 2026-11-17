@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T03:50:31+00:00",
-  "snapshot": "2026-11-17T03:50:31+00:00",
+  "generated_at": "2026-11-17T09:50:32+00:00",
+  "snapshot": "2026-11-17T09:50:32+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "sullivan-motor-products-nelson-ltd-1c4pjmmbxpd103220",
@@ -84,6 +84,33 @@
       "city": "Nelson",
       "province": "BC",
       "dealer_name": "Sullivan Motor Products-Nelson Ltd"
+    },
+    {
+      "pub_id": "kootenay-chrysler-dodge-jeep-ram-ltd-1c4pjmbx1jd581404",
+      "year": 2018,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "body_type": "suv",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 77877,
+      "price_cad": 48455.0,
+      "price_note": null,
+      "color": "Granite Crystal Met. Clear Coa",
+      "dealer_id": "kootenay-chrysler-dodge-jeep-ram-ltd",
+      "vin": "1C4PJMBX1JD581404",
+      "stock": "26172A",
+      "listing_url": "https://www.kootenaychryslerdealer.com/inventory/Used-2018-Jeep-Cherokee/1652390",
+      "dealer_url": "https://www.kootenaychryslerdealer.com/inventory/Used-2018-Jeep-Cherokee/1652390?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-16T23:36:16",
+      "snapshot": "2026-11-16T23:40:15",
+      "go_url": "https://carwhisper.ca/go/kootenay-chrysler-dodge-jeep-ram-ltd-1c4pjmbx1jd581404",
+      "region": "Kootenays",
+      "city": "Trail",
+      "province": "BC",
+      "dealer_name": "Kootenay Chrysler Dodge Jeep Ram Ltd."
     },
     {
       "pub_id": "sullivan-motor-products-nelson-ltd-3c4pjmb2xtt290031",

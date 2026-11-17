@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T03:50:31+00:00",
-  "snapshot": "2026-11-17T03:50:31+00:00",
+  "generated_at": "2026-11-17T09:50:32+00:00",
+  "snapshot": "2026-11-17T09:50:32+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "fort-city-chrysler-3c63r3hl0mg647168",
@@ -51,6 +51,29 @@
       "city": "Vernon",
       "province": "BC",
       "dealer_name": "Bannister Chevrolet Inc. Vernon"
+    },
+    {
+      "pub_id": "haley-dodge-sc-3c63r3dl6kg671476",
+      "year": 2019,
+      "make": "RAM",
+      "model": "3500BIG HORN",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 107638,
+      "price_cad": 101420.0,
+      "price_note": null,
+      "dealer_id": "haley-dodge-sc",
+      "vin": "3C63R3DL6KG671476",
+      "stock": "8141780",
+      "listing_url": "https://haleydodgesc.com/Inventory/2019-RAM-3500-BIGHORN-3C63R3DL6KG671476",
+      "dealer_url": "https://haleydodgesc.com/Inventory/2019-RAM-3500-BIGHORN-3C63R3DL6KG671476?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-16T21:26:37",
+      "snapshot": "2026-11-16T21:29:36",
+      "go_url": "https://carwhisper.ca/go/haley-dodge-sc-3c63r3dl6kg671476",
+      "city": "Gibsons",
+      "province": "BC",
+      "dealer_name": "Haley Dodge SC"
     }
   ]
 }

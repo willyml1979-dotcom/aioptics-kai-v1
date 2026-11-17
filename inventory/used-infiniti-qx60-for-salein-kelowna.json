@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T03:50:31+00:00",
-  "snapshot": "2026-11-17T03:50:31+00:00",
+  "generated_at": "2026-11-17T09:50:32+00:00",
+  "snapshot": "2026-11-17T09:50:32+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "harmony-acura-5n1dl0mm8jc529729",
@@ -49,6 +49,30 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Harmony Honda"
+    },
+    {
+      "pub_id": "kelowna-infiniti-nissan-5n1dl1fs3pc331571",
+      "year": 2023,
+      "make": "Infiniti",
+      "model": "QX60 for salein Kelowna",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 38900.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "kelowna-infiniti-nissan",
+      "vin": "5N1DL1FS3PC331571",
+      "stock": "Z1152VI",
+      "listing_url": "https://www.kelownanissan.com/used/2023-Infiniti-QX60.html",
+      "dealer_url": "https://www.kelownanissan.com/used/2023-Infiniti-QX60.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-16T23:12:26",
+      "snapshot": "2026-11-16T23:17:27",
+      "go_url": "https://carwhisper.ca/go/kelowna-infiniti-nissan-5n1dl1fs3pc331571",
+      "region": "Okanagan",
+      "city": "Kelowna",
+      "province": "BC",
+      "dealer_name": "Kelowna Infiniti Nissan"
     }
   ]
 }

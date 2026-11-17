@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T03:50:31+00:00",
-  "snapshot": "2026-11-17T03:50:31+00:00",
+  "generated_at": "2026-11-17T09:50:32+00:00",
+  "snapshot": "2026-11-17T09:50:32+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 7,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "openroad-mercedes-benz-surrey-4jgfb4kb5la063681",
@@ -31,35 +31,6 @@
       "city": "Surrey",
       "province": "BC",
       "dealer_name": "OpenRoad Mercedes Benz Surrey"
-    },
-    {
-      "pub_id": "kelowna-mercedes-benz-4jgfb4kb5pa961090",
-      "year": 2023,
-      "make": "Mercedes-Benz",
-      "model": "GLE 350",
-      "trim": "GLE 350 4MATIC",
-      "body_type": "suv",
-      "drivetrain": "AWD",
-      "propulsion": "gas",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
-      "condition": "used",
-      "odometer_km": 32240,
-      "price_cad": 58300.0,
-      "price_note": null,
-      "color": "Green",
-      "dealer_id": "kelowna-mercedes-benz",
-      "vin": "4JGFB4KB5PA961090",
-      "stock": "14351123",
-      "listing_url": "https://www.mercedes-benz-kelowna.ca/used/2023-Mercedes_Benz-GLE_350-id14351123.html",
-      "dealer_url": "https://www.mercedes-benz-kelowna.ca/used/2023-Mercedes_Benz-GLE_350-id14351123.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-25T19:24:39",
-      "snapshot": "2026-10-26T04:35:57",
-      "go_url": "https://carwhisper.ca/go/kelowna-mercedes-benz-4jgfb4kb5pa961090",
-      "region": "Okanagan",
-      "city": "Kelowna",
-      "province": "BC",
-      "dealer_name": "Kelowna Mercedes-Benz"
     },
     {
       "pub_id": "three-point-motors-4jgfb4kb6la102178",

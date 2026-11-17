@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T03:50:31+00:00",
-  "snapshot": "2026-11-17T03:50:31+00:00",
+  "generated_at": "2026-11-17T09:50:32+00:00",
+  "snapshot": "2026-11-17T09:50:32+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "fort-motors-ltd-1gc4yuey6rf268304",
@@ -28,6 +28,35 @@
       "city": "Fort St. John",
       "province": "BC",
       "dealer_name": "Fort Motors Ltd."
+    },
+    {
+      "pub_id": "kelowna-ford-lincoln-sales-ltd-3gcpdaek3ng649507",
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Silverado",
+      "trim": "1500 WORKTRUCK, 2.7L, 4WD, TOW MODE, REVERSE CAMERA, KEYLESS ENTRY",
+      "body_type": "truck",
+      "drivetrain": "FWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 90235,
+      "price_cad": 31995.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "kelowna-ford-lincoln-sales-ltd",
+      "vin": "3GCPDAEK3NG649507",
+      "stock": "14605201",
+      "listing_url": "https://www.kelownaford.com/used/2022-Chevrolet-Silverado-id14605201.html",
+      "dealer_url": "https://www.kelownaford.com/used/2022-Chevrolet-Silverado-id14605201.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-16T23:07:05",
+      "snapshot": "2026-11-16T23:10:41",
+      "go_url": "https://carwhisper.ca/go/kelowna-ford-lincoln-sales-ltd-3gcpdaek3ng649507",
+      "region": "Okanagan",
+      "city": "Kelowna",
+      "province": "BC",
+      "dealer_name": "Kelowna Ford Lincoln Sales Ltd."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T03:50:31+00:00",
+  "generated_at": "2026-11-17T09:50:32+00:00",
   "condition": "used",
   "make": "lexus",
   "files": [
@@ -8,12 +8,12 @@
       "make": "lexus",
       "model": "RX",
       "shard": "part1",
-      "count": 29,
+      "count": 31,
       "file": "inventory/used-lexus-rx-part1.json",
       "models": [
         {
           "model": "RX",
-          "count": 29
+          "count": 31
         }
       ]
     },
@@ -22,12 +22,12 @@
       "make": "lexus",
       "model": "RX",
       "shard": "part2",
-      "count": 29,
+      "count": 31,
       "file": "inventory/used-lexus-rx-part2.json",
       "models": [
         {
           "model": "RX",
-          "count": 29
+          "count": 31
         }
       ]
     },
@@ -76,12 +76,12 @@
       "make": "lexus",
       "model": "NX",
       "shard": "part1",
-      "count": 21,
+      "count": 30,
       "file": "inventory/used-lexus-nx-part1.json",
       "models": [
         {
           "model": "NX",
-          "count": 21
+          "count": 30
         }
       ]
     },
@@ -90,12 +90,25 @@
       "make": "lexus",
       "model": "NX",
       "shard": "part2",
-      "count": 21,
+      "count": 29,
       "file": "inventory/used-lexus-nx-part2.json",
       "models": [
         {
           "model": "NX",
-          "count": 21
+          "count": 29
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "RX 350 for salein British Columbia",
+      "count": 1,
+      "file": "inventory/used-lexus-rx-350-for-salein-british-columbia.json",
+      "models": [
+        {
+          "model": "RX 350 for salein British Columbia",
+          "count": 1
         }
       ]
     },
@@ -103,12 +116,12 @@
       "condition": "used",
       "make": "lexus",
       "model": "IS",
-      "count": 17,
+      "count": 16,
       "file": "inventory/used-lexus-is.json",
       "models": [
         {
           "model": "IS",
-          "count": 17
+          "count": 16
         }
       ]
     },
@@ -155,12 +168,12 @@
       "condition": "used",
       "make": "lexus",
       "model": "UXh",
-      "count": 28,
+      "count": 24,
       "file": "inventory/used-lexus-uxh.json",
       "models": [
         {
           "model": "UXh",
-          "count": 28
+          "count": 24
         }
       ]
     },
@@ -181,12 +194,12 @@
       "condition": "used",
       "make": "lexus",
       "model": "RZ",
-      "count": 2,
+      "count": 7,
       "file": "inventory/used-lexus-rz.json",
       "models": [
         {
           "model": "RZ",
-          "count": 2
+          "count": 7
         }
       ]
     },
@@ -194,12 +207,12 @@
       "condition": "used",
       "make": "lexus",
       "model": "RXh",
-      "count": 16,
+      "count": 21,
       "file": "inventory/used-lexus-rxh.json",
       "models": [
         {
           "model": "RXh",
-          "count": 16
+          "count": 21
         }
       ]
     },
@@ -284,19 +297,6 @@
     {
       "condition": "used",
       "make": "lexus",
-      "model": "RX 350",
-      "count": 25,
-      "file": "inventory/used-lexus-rx-350.json",
-      "models": [
-        {
-          "model": "RX 350",
-          "count": 25
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "lexus",
       "model": "NX Hybrid",
       "count": 1,
       "file": "inventory/used-lexus-nx-hybrid.json",
@@ -304,6 +304,19 @@
         {
           "model": "NX Hybrid",
           "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "RX 350",
+      "count": 21,
+      "file": "inventory/used-lexus-rx-350.json",
+      "models": [
+        {
+          "model": "RX 350",
+          "count": 21
         }
       ]
     },
@@ -350,12 +363,12 @@
       "condition": "used",
       "make": "lexus",
       "model": "TX",
-      "count": 13,
+      "count": 9,
       "file": "inventory/used-lexus-tx.json",
       "models": [
         {
           "model": "TX",
-          "count": 13
+          "count": 9
         }
       ]
     },
@@ -363,12 +376,12 @@
       "condition": "used",
       "make": "lexus",
       "model": "TXh",
-      "count": 1,
+      "count": 6,
       "file": "inventory/used-lexus-txh.json",
       "models": [
         {
           "model": "TXh",
-          "count": 1
+          "count": 6
         }
       ]
     },
@@ -408,6 +421,58 @@
         {
           "model": "RX 350 AWD",
           "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "RX 350 for salein Kelowna",
+      "count": 2,
+      "file": "inventory/used-lexus-rx-350-for-salein-kelowna.json",
+      "models": [
+        {
+          "model": "RX 350 for salein Kelowna",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "NX for salein Kelowna",
+      "count": 1,
+      "file": "inventory/used-lexus-nx-for-salein-kelowna.json",
+      "models": [
+        {
+          "model": "NX for salein Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "RX for salein Kelowna",
+      "count": 1,
+      "file": "inventory/used-lexus-rx-for-salein-kelowna.json",
+      "models": [
+        {
+          "model": "RX for salein Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lexus",
+      "model": "NX 300",
+      "count": 1,
+      "file": "inventory/used-lexus-nx-300.json",
+      "models": [
+        {
+          "model": "NX 300",
+          "count": 1
         }
       ]
     },

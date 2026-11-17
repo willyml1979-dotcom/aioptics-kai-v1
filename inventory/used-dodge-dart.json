@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T03:50:31+00:00",
-  "snapshot": "2026-11-17T03:50:31+00:00",
+  "generated_at": "2026-11-17T09:50:32+00:00",
+  "snapshot": "2026-11-17T09:50:32+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "duncan-hyundai-1c3cdfbb9ed863077",
@@ -79,6 +79,31 @@
       "city": "Nanaimo",
       "province": "BC",
       "dealer_name": "Harris Kia"
+    },
+    {
+      "pub_id": "red-deer-nissan-1c3cdfaa2dd286707",
+      "year": 2013,
+      "make": "Dodge",
+      "model": "Dart",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 176042,
+      "price_cad": 6987.0,
+      "price_note": null,
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/fee1c347-84f5-4670-b18d-87cd0be4d580_a5da58f8-b0f4-4ea9-bb7e-49ae3c8a7fa2.jpg",
+      "dealer_id": "red-deer-nissan",
+      "vin": "1C3CDFAA2DD286707",
+      "stock": "RDN4865",
+      "listing_url": "https://www.reddeernissan.com/vehicles/2013/dodge/dart/red-deer/ab/ad13666007/?sale_class=used",
+      "dealer_url": "https://www.reddeernissan.com/vehicles/2013/dodge/dart/red-deer/ab/ad13666007/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T01:36:57",
+      "snapshot": "2026-11-17T01:42:48",
+      "go_url": "https://carwhisper.ca/go/red-deer-nissan-1c3cdfaa2dd286707",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Red Deer Nissan"
     },
     {
       "pub_id": "sherwood-park-chevrolet-ll23h1r2633880000",

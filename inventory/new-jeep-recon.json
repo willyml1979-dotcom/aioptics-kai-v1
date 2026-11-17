@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T03:50:31+00:00",
-  "snapshot": "2026-11-17T03:50:31+00:00",
+  "generated_at": "2026-11-17T09:50:32+00:00",
+  "snapshot": "2026-11-17T09:50:32+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "marine-chrysler-dodge-jeep-ltd-3c4rjaak7tt248330",
@@ -59,6 +59,33 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Rivershore Chrysler Dodge Jeep Ram"
+    },
+    {
+      "pub_id": "tacoma-dodge-chrysler-jeep-ram-3c4rjackxtt214928",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Recon",
+      "trim": "Moab",
+      "propulsion": "electric",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 0,
+      "price_cad": 70255.0,
+      "price_note": null,
+      "color": "Sting Gray",
+      "photo_url": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=482819&amp;Width=640&amp;Height=480&amp;Type=jpeg&amp;Angle=03&amp;quality=80&amp;BackGroundColor=white&amp;colorcode=PDN&amp;autocrop=True&amp;useoverrides=true",
+      "dealer_id": "tacoma-dodge-chrysler-jeep-ram",
+      "vin": "3C4RJACKXTT214928",
+      "stock": "TT214928",
+      "listing_url": "https://www.tacomadodge.com/viewdetails/new/3c4rjackxtt214928/2026-jeep-recon-sport-utility?type=finance&term=84",
+      "dealer_url": "https://www.tacomadodge.com/viewdetails/new/3c4rjackxtt214928/2026-jeep-recon-sport-utility?type=finance&term=84&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-16T22:15:30",
+      "snapshot": "2026-11-16T22:28:07",
+      "go_url": "https://carwhisper.ca/go/tacoma-dodge-chrysler-jeep-ram-3c4rjackxtt214928",
+      "city": null,
+      "province": "US",
+      "dealer_name": "Tacoma Dodge Chrysler Jeep Ram"
     },
     {
       "pub_id": "vaughan-chrysler-3c4rjaak4tt275890",

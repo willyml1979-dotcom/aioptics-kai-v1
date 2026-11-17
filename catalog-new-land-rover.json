@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T03:50:31+00:00",
+  "generated_at": "2026-11-17T09:50:32+00:00",
   "condition": "new",
   "make": "land-rover",
   "files": [
@@ -7,12 +7,12 @@
       "condition": "new",
       "make": "land-rover",
       "model": "Range Rover Evoque",
-      "count": 13,
+      "count": 11,
       "file": "inventory/new-land-rover-range-rover-evoque.json",
       "models": [
         {
           "model": "Range Rover Evoque",
-          "count": 13
+          "count": 11
         }
       ]
     },
@@ -20,12 +20,12 @@
       "condition": "new",
       "make": "land-rover",
       "model": "Range Rover Velar",
-      "count": 28,
+      "count": 24,
       "file": "inventory/new-land-rover-range-rover-velar.json",
       "models": [
         {
           "model": "Range Rover Velar",
-          "count": 28
+          "count": 24
         }
       ]
     },
@@ -33,13 +33,13 @@
       "condition": "new",
       "make": "land-rover",
       "model": "Defender",
-      "shard": "Lower Mainland",
-      "count": 22,
-      "file": "inventory/new-land-rover-defender-lower-mainland.json",
+      "shard": "part1",
+      "count": 26,
+      "file": "inventory/new-land-rover-defender-part1.json",
       "models": [
         {
           "model": "Defender",
-          "count": 22
+          "count": 26
         }
       ]
     },
@@ -47,13 +47,13 @@
       "condition": "new",
       "make": "land-rover",
       "model": "Defender",
-      "shard": "Okanagan",
-      "count": 8,
-      "file": "inventory/new-land-rover-defender-okanagan.json",
+      "shard": "part2",
+      "count": 26,
+      "file": "inventory/new-land-rover-defender-part2.json",
       "models": [
         {
           "model": "Defender",
-          "count": 8
+          "count": 26
         }
       ]
     },
@@ -61,27 +61,26 @@
       "condition": "new",
       "make": "land-rover",
       "model": "Defender",
-      "shard": "Vancouver Island",
-      "count": 12,
-      "file": "inventory/new-land-rover-defender-vancouver-island.json",
+      "shard": "part3",
+      "count": 25,
+      "file": "inventory/new-land-rover-defender-part3.json",
       "models": [
         {
           "model": "Defender",
-          "count": 12
+          "count": 25
         }
       ]
     },
     {
       "condition": "new",
       "make": "land-rover",
-      "model": "Defender",
-      "shard": "sin-region",
-      "count": 12,
-      "file": "inventory/new-land-rover-defender-sin-region.json",
+      "model": "Discovery Mild Hybrid",
+      "count": 1,
+      "file": "inventory/new-land-rover-discovery-mild-hybrid.json",
       "models": [
         {
-          "model": "Defender",
-          "count": 12
+          "model": "Discovery Mild Hybrid",
+          "count": 1
         }
       ]
     },
@@ -90,12 +89,12 @@
       "make": "land-rover",
       "model": "Range Rover Sport",
       "shard": "Lower Mainland",
-      "count": 2,
+      "count": 4,
       "file": "inventory/new-land-rover-range-rover-sport-lower-mainland.json",
       "models": [
         {
           "model": "Range Rover Sport",
-          "count": 2
+          "count": 4
         }
       ]
     },
@@ -118,12 +117,12 @@
       "make": "land-rover",
       "model": "Range Rover Sport",
       "shard": "Vancouver Island",
-      "count": 16,
+      "count": 14,
       "file": "inventory/new-land-rover-range-rover-sport-vancouver-island.json",
       "models": [
         {
           "model": "Range Rover Sport",
-          "count": 16
+          "count": 14
         }
       ]
     },
@@ -146,12 +145,12 @@
       "make": "land-rover",
       "model": "Range Rover Sport Mild Hybrid",
       "shard": "part1",
-      "count": 23,
+      "count": 17,
       "file": "inventory/new-land-rover-range-rover-sport-mild-hybrid-part1.json",
       "models": [
         {
           "model": "Range Rover Sport Mild Hybrid",
-          "count": 23
+          "count": 17
         }
       ]
     },
@@ -160,12 +159,26 @@
       "make": "land-rover",
       "model": "Range Rover Sport Mild Hybrid",
       "shard": "part2",
-      "count": 22,
+      "count": 17,
       "file": "inventory/new-land-rover-range-rover-sport-mild-hybrid-part2.json",
       "models": [
         {
           "model": "Range Rover Sport Mild Hybrid",
-          "count": 22
+          "count": 17
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "land-rover",
+      "model": "Range Rover Sport Mild Hybrid",
+      "shard": "part3",
+      "count": 16,
+      "file": "inventory/new-land-rover-range-rover-sport-mild-hybrid-part3.json",
+      "models": [
+        {
+          "model": "Range Rover Sport Mild Hybrid",
+          "count": 16
         }
       ]
     },
@@ -173,25 +186,12 @@
       "condition": "new",
       "make": "land-rover",
       "model": "Range Rover Mild Hybrid",
-      "count": 12,
+      "count": 11,
       "file": "inventory/new-land-rover-range-rover-mild-hybrid.json",
       "models": [
         {
           "model": "Range Rover Mild Hybrid",
-          "count": 12
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "land-rover",
-      "model": "Range Rover",
-      "count": 13,
-      "file": "inventory/new-land-rover-range-rover.json",
-      "models": [
-        {
-          "model": "Range Rover",
-          "count": 13
+          "count": 11
         }
       ]
     },
@@ -224,13 +224,13 @@
     {
       "condition": "new",
       "make": "land-rover",
-      "model": "Discovery Dynamic SE",
-      "count": 1,
-      "file": "inventory/new-land-rover-discovery-dynamic-se.json",
+      "model": "Range Rover",
+      "count": 14,
+      "file": "inventory/new-land-rover-range-rover.json",
       "models": [
         {
-          "model": "Discovery Dynamic SE",
-          "count": 1
+          "model": "Range Rover",
+          "count": 14
         }
       ]
     },
@@ -238,24 +238,11 @@
       "condition": "new",
       "make": "land-rover",
       "model": "Discovery Sport",
-      "count": 5,
+      "count": 2,
       "file": "inventory/new-land-rover-discovery-sport.json",
       "models": [
         {
           "model": "Discovery Sport",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "land-rover",
-      "model": "Discovery",
-      "count": 2,
-      "file": "inventory/new-land-rover-discovery.json",
-      "models": [
-        {
-          "model": "Discovery",
           "count": 2
         }
       ]

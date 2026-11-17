@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T03:50:31+00:00",
-  "snapshot": "2026-11-17T03:50:31+00:00",
+  "generated_at": "2026-11-17T09:50:32+00:00",
+  "snapshot": "2026-11-17T09:50:32+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 12,
+  "count": 13,
   "vehicles": [
     {
       "pub_id": "go-kia-west-3gn7dsrp2ss181278",
@@ -233,6 +233,35 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Jenner Chevrolet Buick GMC Ltd."
+    },
+    {
+      "pub_id": "laird-wheaton-gm-3gn7dsrr9rs261656",
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Equinox EV",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "electric",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 55525,
+      "price_cad": 36698.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/5c8f1d1d-9096-45fb-9a08-286f892317a0_101306c9-cd14-4d5c-b48b-8a47851b4e55.jpg",
+      "dealer_id": "laird-wheaton-gm",
+      "vin": "3GN7DSRR9RS261656",
+      "stock": "126890",
+      "listing_url": "https://www.lairdwheaton.com/vehicles/2024/chevrolet/equinox-ev/nanaimo/bc/ad13795372/?sale_class=used",
+      "dealer_url": "https://www.lairdwheaton.com/vehicles/2024/chevrolet/equinox-ev/nanaimo/bc/ad13795372/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T00:27:48",
+      "snapshot": "2026-11-17T00:31:48",
+      "go_url": "https://carwhisper.ca/go/laird-wheaton-gm-3gn7dsrr9rs261656",
+      "region": "Vancouver Island",
+      "city": "Nanaimo",
+      "province": "BC",
+      "dealer_name": "Laird Wheaton GM"
     },
     {
       "pub_id": "campbell-river-hyundai-3gn7dsrr4rs259202",

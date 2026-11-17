@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T03:50:31+00:00",
-  "snapshot": "2026-11-17T03:50:31+00:00",
+  "generated_at": "2026-11-17T09:50:32+00:00",
+  "snapshot": "2026-11-17T09:50:32+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "carter-gm-burnaby-yv4a22nl4k1078093",
@@ -32,6 +32,34 @@
       "city": "Burnaby",
       "province": "BC",
       "dealer_name": "Carter GM Burnaby"
+    },
+    {
+      "pub_id": "jim-pattison-volvo-cars-surrey-yv4062nl6t1206108",
+      "year": 2026,
+      "make": "Volvo",
+      "model": "V90 Cross Country",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 22512,
+      "price_cad": 69603.0,
+      "price_note": null,
+      "color": "Crystal White Metallic",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/a19bd51e-37d7-486d-880a-8b4b38790c71_6fe1c3b4-7088-4656-b757-4d9cd31695bc.jpg?promo=a31d1383-87fe-44ae-81ff-dcdecbe3f445_1&overlay-type=tadv",
+      "dealer_id": "jim-pattison-volvo-cars-surrey",
+      "vin": "YV4062NL6T1206108",
+      "stock": "U4169-C",
+      "listing_url": "https://www.jpvolvocarssurrey.com/vehicles/2026/volvo/v90-cross-country/surrey/bc/ad13600408/?sale_class=used",
+      "dealer_url": "https://www.jpvolvocarssurrey.com/vehicles/2026/volvo/v90-cross-country/surrey/bc/ad13600408/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-16T22:29:16",
+      "snapshot": "2026-11-16T22:32:05",
+      "go_url": "https://carwhisper.ca/go/jim-pattison-volvo-cars-surrey-yv4062nl6t1206108",
+      "region": "Lower Mainland",
+      "city": "Surrey",
+      "province": "BC",
+      "dealer_name": "Jim Pattison Volvo Cars Surrey"
     }
   ]
 }

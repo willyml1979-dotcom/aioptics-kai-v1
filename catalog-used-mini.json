@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T03:50:31+00:00",
+  "generated_at": "2026-11-17T09:50:32+00:00",
   "condition": "used",
   "make": "mini",
   "files": [
@@ -7,24 +7,24 @@
       "condition": "used",
       "make": "mini",
       "model": "3 Door",
-      "count": 11,
+      "count": 14,
       "file": "inventory/used-mini-3-door.json",
       "models": [
         {
           "model": "3 Door",
-          "count": 11
+          "count": 14
         }
       ]
     },
     {
       "condition": "used",
       "make": "mini",
-      "model": "Convertible",
+      "model": "Cooper Hardtop 5 Door",
       "count": 2,
-      "file": "inventory/used-mini-convertible.json",
+      "file": "inventory/used-mini-cooper-hardtop-5-door.json",
       "models": [
         {
-          "model": "Convertible",
+          "model": "Cooper Hardtop 5 Door",
           "count": 2
         }
       ]
@@ -58,13 +58,26 @@
     {
       "condition": "used",
       "make": "mini",
-      "model": "COOPER",
+      "model": "5 Door for salein British Columbia",
       "count": 1,
+      "file": "inventory/used-mini-5-door-for-salein-british-columbia.json",
+      "models": [
+        {
+          "model": "5 Door for salein British Columbia",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mini",
+      "model": "COOPER",
+      "count": 4,
       "file": "inventory/used-mini-cooper.json",
       "models": [
         {
           "model": "COOPER",
-          "count": 1
+          "count": 4
         }
       ]
     },
@@ -85,12 +98,12 @@
       "condition": "used",
       "make": "mini",
       "model": "Countryman",
-      "count": 14,
+      "count": 16,
       "file": "inventory/used-mini-countryman.json",
       "models": [
         {
           "model": "Countryman",
-          "count": 14
+          "count": 16
         }
       ]
     },
@@ -111,12 +124,12 @@
       "condition": "used",
       "make": "mini",
       "model": "COOPER S",
-      "count": 1,
+      "count": 4,
       "file": "inventory/used-mini-cooper-s.json",
       "models": [
         {
           "model": "COOPER S",
-          "count": 1
+          "count": 4
         }
       ]
     },
@@ -162,12 +175,12 @@
     {
       "condition": "used",
       "make": "mini",
-      "model": "Cooper Hardtop 5 Door",
+      "model": "5 Door for salein Kelowna",
       "count": 1,
-      "file": "inventory/used-mini-cooper-hardtop-5-door.json",
+      "file": "inventory/used-mini-5-door-for-salein-kelowna.json",
       "models": [
         {
-          "model": "Cooper Hardtop 5 Door",
+          "model": "5 Door for salein Kelowna",
           "count": 1
         }
       ]
@@ -194,6 +207,19 @@
       "models": [
         {
           "model": "Cooper Clubman",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mini",
+      "model": "Convertible",
+      "count": 1,
+      "file": "inventory/used-mini-convertible.json",
+      "models": [
+        {
+          "model": "Convertible",
           "count": 1
         }
       ]

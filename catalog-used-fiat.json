@@ -1,17 +1,21 @@
 {
-  "generated_at": "2026-11-17T03:50:31+00:00",
+  "generated_at": "2026-11-17T09:50:32+00:00",
   "condition": "used",
   "make": "fiat",
   "files": [
     {
       "condition": "used",
       "make": "fiat",
-      "count": 10,
+      "count": 22,
       "file": "inventory/used-fiat.json",
       "models": [
         {
+          "model": "124 Spider",
+          "count": 1
+        },
+        {
           "model": "500",
-          "count": 3
+          "count": 10
         },
         {
           "model": "500L",
@@ -27,7 +31,7 @@
         },
         {
           "model": "500e",
-          "count": 4
+          "count": 8
         }
       ]
     }

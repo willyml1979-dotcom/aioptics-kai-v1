@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T03:50:31+00:00",
-  "snapshot": "2026-11-17T03:50:31+00:00",
+  "generated_at": "2026-11-17T09:50:32+00:00",
+  "snapshot": "2026-11-17T09:50:32+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 8,
+  "count": 9,
   "vehicles": [
     {
       "pub_id": "island-chevrolet-buick-gmc-1g1ya3d56v5100484",
@@ -57,6 +57,34 @@
       "city": "Parksville",
       "province": "BC",
       "dealer_name": "Harris Oceanside Chevrolet Buick GMC Ltd."
+    },
+    {
+      "pub_id": "laird-wheaton-gm-1g1ys2d54v5303252",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Corvette",
+      "drivetrain": "RWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 4,
+      "price_cad": 128788.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/43279b5b-2506-4c97-80f0-e56479b6c319_1ec10f1b-25ff-455b-a022-be572a0d4c4a.jpg",
+      "dealer_id": "laird-wheaton-gm",
+      "vin": "1G1YS2D54V5303252",
+      "stock": "132013",
+      "listing_url": "https://www.lairdwheaton.com/vehicles/2027/chevrolet/corvette/nanaimo/bc/ad13586088/?sale_class=new",
+      "dealer_url": "https://www.lairdwheaton.com/vehicles/2027/chevrolet/corvette/nanaimo/bc/ad13586088/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T00:55:29",
+      "snapshot": "2026-11-17T00:58:12",
+      "go_url": "https://carwhisper.ca/go/laird-wheaton-gm-1g1ys2d54v5303252",
+      "region": "Vancouver Island",
+      "city": "Nanaimo",
+      "province": "BC",
+      "dealer_name": "Laird Wheaton GM"
     },
     {
       "pub_id": "island-chevrolet-buick-gmc-1g1yv2d58v5302953",

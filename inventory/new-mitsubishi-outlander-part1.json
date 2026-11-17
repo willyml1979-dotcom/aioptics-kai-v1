@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T03:50:31+00:00",
-  "snapshot": "2026-11-17T03:50:31+00:00",
+  "generated_at": "2026-11-17T09:50:32+00:00",
+  "snapshot": "2026-11-17T09:50:32+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 27,
   "vehicles": [
@@ -53,29 +53,6 @@
       "city": "Port Coquitlam",
       "province": "BC",
       "dealer_name": "Tricity Mitsubishi"
-    },
-    {
-      "pub_id": "maple-ridge-hyundai-ja4j4va88sz614751",
-      "year": 2025,
-      "make": "Mitsubishi",
-      "model": "Outlander",
-      "propulsion": "unknown",
-      "propulsion_source": null,
-      "condition": "new",
-      "price_cad": 35904.0,
-      "price_note": null,
-      "dealer_id": "maple-ridge-hyundai",
-      "vin": "JA4J4VA88SZ614751",
-      "stock": 14313612,
-      "listing_url": "https://www.mapleridgehyundai.com/used/2025-Mitsubishi-Outlander.html",
-      "dealer_url": "https://www.mapleridgehyundai.com/used/2025-Mitsubishi-Outlander.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T07:03:19",
-      "snapshot": "2026-10-26T05:12:51",
-      "go_url": "https://carwhisper.ca/go/maple-ridge-hyundai-ja4j4va88sz614751",
-      "region": "Lower Mainland",
-      "city": "Maple Ridge",
-      "province": "BC",
-      "dealer_name": "Maple Ridge Hyundai"
     },
     {
       "pub_id": "go-langley-mitsubishi-ja4j4vab8tz607862",
@@ -413,7 +390,7 @@
       "listing_url": "https://www.mapleridge-vw.ca/used/2025-Mitsubishi-Outlander.html",
       "dealer_url": "https://www.mapleridge-vw.ca/used/2025-Mitsubishi-Outlander.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-25T20:00:20",
-      "snapshot": "2026-10-26T05:05:06",
+      "snapshot": "2026-11-17T00:48:40",
       "go_url": "https://carwhisper.ca/go/maple-ridge-volkswagen-ja4j4va80sz619877",
       "region": "Lower Mainland",
       "city": "Maple Ridge",
@@ -711,6 +688,33 @@
       "city": "Surrey",
       "province": "BC",
       "dealer_name": "Go Langley Mitsubishi"
+    },
+    {
+      "pub_id": "tricity-mitsubishi-ja4j4vab2tz620932",
+      "year": 2026,
+      "make": "Mitsubishi",
+      "model": "Outlander",
+      "propulsion": "unknown",
+      "propulsion_source": "conflict",
+      "propulsion_confidence": "low",
+      "condition": "new",
+      "odometer_km": 21,
+      "price_cad": 42073.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/1194f439-ea77-41ce-85c3-fc0b534f846a_91217acb-b554-4670-ad33-b8a7b423483c.jpg?promo=c2741aae-6ec1-48ee-8ff9-f4b39e03dbcb_1&overlay-type=tadv",
+      "dealer_id": "tricity-mitsubishi",
+      "vin": "JA4J4VAB2TZ620932",
+      "stock": "260932E",
+      "listing_url": "https://www.tricitymits.com/vehicles/2026/mitsubishi/outlander/port-coquitlam/bc/70595539/?sale_class=new",
+      "dealer_url": "https://www.tricitymits.com/vehicles/2026/mitsubishi/outlander/port-coquitlam/bc/70595539/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-25T15:13:38",
+      "snapshot": "2026-10-26T09:27:53",
+      "go_url": "https://carwhisper.ca/go/tricity-mitsubishi-ja4j4vab2tz620932",
+      "region": "Lower Mainland",
+      "city": "Port Coquitlam",
+      "province": "BC",
+      "dealer_name": "Tricity Mitsubishi"
     }
   ]
 }

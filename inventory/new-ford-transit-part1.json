@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T03:50:31+00:00",
-  "snapshot": "2026-11-17T03:50:31+00:00",
+  "generated_at": "2026-11-17T09:50:32+00:00",
+  "snapshot": "2026-11-17T09:50:32+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 31,
+  "count": 32,
   "vehicles": [
     {
       "pub_id": "coastal-ford-burnaby-1ftye1y84tka54723",
@@ -871,6 +871,34 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Coastal Ford Vancouver"
+    },
+    {
+      "pub_id": "coastal-ford-burnaby-1ftbr1c82tka47061",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Transit",
+      "trim": "Reg 148",
+      "drivetrain": "RWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "odometer_km": 20,
+      "price_cad": 66005.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://img.sm360.ca/images/inventory/coastal-ford-vancouver/ford/transit/2026/37994012/37994012_09540_452519127b5db2643f824f4705115bf2.png",
+      "dealer_id": "coastal-ford-burnaby",
+      "vin": "1FTBR1C82TKA47061",
+      "stock": "132045R",
+      "listing_url": "https://www.coastalfordburnaby.com/en/new-inventory/v/v/v-id37994012",
+      "dealer_url": "https://www.coastalfordburnaby.com/en/new-inventory/v/v/v-id37994012?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-16T17:14:28",
+      "snapshot": "2026-10-26T08:09:00",
+      "go_url": "https://carwhisper.ca/go/coastal-ford-burnaby-1ftbr1c82tka47061",
+      "region": "Lower Mainland",
+      "city": "Burnaby",
+      "province": "BC",
+      "dealer_name": "Coastal Ford Burnaby"
     }
   ]
 }

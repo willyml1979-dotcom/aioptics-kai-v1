@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T03:50:31+00:00",
+  "generated_at": "2026-11-17T09:50:32+00:00",
   "condition": "new",
   "make": "dodge",
   "files": [
@@ -82,12 +82,12 @@
       "make": "dodge",
       "model": "DURANGO",
       "shard": "part6",
-      "count": 26,
+      "count": 24,
       "file": "inventory/new-dodge-durango-part6.json",
       "models": [
         {
           "model": "Durango",
-          "count": 26
+          "count": 24
         }
       ]
     },
@@ -121,16 +121,16 @@
       "condition": "new",
       "make": "dodge",
       "model": "CHARGER",
-      "count": 31,
+      "count": 28,
       "file": "inventory/new-dodge-charger.json",
       "models": [
         {
           "model": "CHARGER",
-          "count": 4
+          "count": 3
         },
         {
           "model": "Charger",
-          "count": 27
+          "count": 25
         }
       ]
     },
@@ -138,25 +138,38 @@
       "condition": "new",
       "make": "dodge",
       "model": "Hornet",
-      "count": 3,
+      "count": 2,
       "file": "inventory/new-dodge-hornet.json",
       "models": [
         {
           "model": "Hornet",
-          "count": 3
+          "count": 2
         }
       ]
     },
     {
       "condition": "new",
       "make": "dodge",
-      "model": "Charger Daytona",
-      "count": 3,
-      "file": "inventory/new-dodge-charger-daytona.json",
+      "model": "Hornet Hybrid",
+      "count": 1,
+      "file": "inventory/new-dodge-hornet-hybrid.json",
       "models": [
         {
-          "model": "Charger Daytona",
-          "count": 3
+          "model": "Hornet Hybrid",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "dodge",
+      "model": "Durango for salein Kelowna",
+      "count": 2,
+      "file": "inventory/new-dodge-durango-for-salein-kelowna.json",
+      "models": [
+        {
+          "model": "Durango for salein Kelowna",
+          "count": 2
         }
       ]
     },
@@ -170,6 +183,19 @@
         {
           "model": "Charger for salein Kelowna",
           "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "dodge",
+      "model": "Charger Daytona",
+      "count": 2,
+      "file": "inventory/new-dodge-charger-daytona.json",
+      "models": [
+        {
+          "model": "Charger Daytona",
+          "count": 2
         }
       ]
     },

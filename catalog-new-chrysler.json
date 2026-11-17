@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T03:50:31+00:00",
+  "generated_at": "2026-11-17T09:50:32+00:00",
   "condition": "new",
   "make": "chrysler",
   "files": [
@@ -37,9 +37,41 @@
       "condition": "new",
       "make": "chrysler",
       "model": "Pacifica",
-      "shard": "part1",
-      "count": 25,
-      "file": "inventory/new-chrysler-pacifica-part1.json",
+      "shard": "Kootenays",
+      "count": 4,
+      "file": "inventory/new-chrysler-pacifica-kootenays.json",
+      "models": [
+        {
+          "model": "PACIFICA",
+          "count": 1
+        },
+        {
+          "model": "Pacifica",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chrysler",
+      "model": "Pacifica",
+      "shard": "Lower Mainland",
+      "count": 16,
+      "file": "inventory/new-chrysler-pacifica-lower-mainland.json",
+      "models": [
+        {
+          "model": "Pacifica",
+          "count": 16
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chrysler",
+      "model": "Pacifica",
+      "shard": "Norte/Cariboo",
+      "count": 8,
+      "file": "inventory/new-chrysler-pacifica-norte-cariboo.json",
       "models": [
         {
           "model": "PACIFICA",
@@ -47,7 +79,7 @@
         },
         {
           "model": "Pacifica",
-          "count": 23
+          "count": 6
         }
       ]
     },
@@ -55,17 +87,13 @@
       "condition": "new",
       "make": "chrysler",
       "model": "Pacifica",
-      "shard": "part2",
-      "count": 25,
-      "file": "inventory/new-chrysler-pacifica-part2.json",
+      "shard": "Okanagan",
+      "count": 1,
+      "file": "inventory/new-chrysler-pacifica-okanagan.json",
       "models": [
         {
-          "model": "PACIFICA",
-          "count": 1
-        },
-        {
           "model": "Pacifica",
-          "count": 24
+          "count": 1
         }
       ]
     },
@@ -73,9 +101,37 @@
       "condition": "new",
       "make": "chrysler",
       "model": "Pacifica",
-      "shard": "part3",
-      "count": 24,
-      "file": "inventory/new-chrysler-pacifica-part3.json",
+      "shard": "Thompson-Okanagan",
+      "count": 7,
+      "file": "inventory/new-chrysler-pacifica-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "Pacifica",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chrysler",
+      "model": "Pacifica",
+      "shard": "Vancouver Island",
+      "count": 2,
+      "file": "inventory/new-chrysler-pacifica-vancouver-island.json",
+      "models": [
+        {
+          "model": "Pacifica",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chrysler",
+      "model": "Pacifica",
+      "shard": "sin-region",
+      "count": 32,
+      "file": "inventory/new-chrysler-pacifica-sin-region.json",
       "models": [
         {
           "model": "PACIFICA",
@@ -83,7 +139,7 @@
         },
         {
           "model": "Pacifica",
-          "count": 23
+          "count": 31
         }
       ]
     },
@@ -116,12 +172,38 @@
     {
       "condition": "new",
       "make": "chrysler",
-      "model": "Pacifica Hybrid",
+      "model": "Grand Caravan for salein Kelowna",
       "count": 1,
-      "file": "inventory/new-chrysler-pacifica-hybrid.json",
+      "file": "inventory/new-chrysler-grand-caravan-for-salein-kelowna.json",
       "models": [
         {
-          "model": "Pacifica Hybrid",
+          "model": "Grand Caravan for salein Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chrysler",
+      "model": "Pacifica for salein Kelowna",
+      "count": 1,
+      "file": "inventory/new-chrysler-pacifica-for-salein-kelowna.json",
+      "models": [
+        {
+          "model": "Pacifica for salein Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chrysler",
+      "model": "Pacifica Hybrid for salein Kelowna",
+      "count": 1,
+      "file": "inventory/new-chrysler-pacifica-hybrid-for-salein-kelowna.json",
+      "models": [
+        {
+          "model": "Pacifica Hybrid for salein Kelowna",
           "count": 1
         }
       ]

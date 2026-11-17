@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T03:50:31+00:00",
-  "snapshot": "2026-11-17T03:50:31+00:00",
+  "generated_at": "2026-11-17T09:50:32+00:00",
+  "snapshot": "2026-11-17T09:50:32+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "bannister-kia-penticton-1c6srfftxrn178296",
@@ -27,6 +27,29 @@
       "city": "Penticton",
       "province": "BC",
       "dealer_name": "Bannister Kia Penticton"
+    },
+    {
+      "pub_id": "haley-dodge-sc-1c6srffp8sn513662",
+      "year": 2025,
+      "make": "RAM",
+      "model": "1500BIG HORN",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 14881,
+      "price_cad": 71530.0,
+      "price_note": null,
+      "dealer_id": "haley-dodge-sc",
+      "vin": "1C6SRFFP8SN513662",
+      "stock": "UV51366",
+      "listing_url": "https://haleydodgesc.com/Inventory/2025-RAM-1500-BIGHORN-1C6SRFFP8SN513662",
+      "dealer_url": "https://haleydodgesc.com/Inventory/2025-RAM-1500-BIGHORN-1C6SRFFP8SN513662?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-16T21:27:18",
+      "snapshot": "2026-11-16T21:29:36",
+      "go_url": "https://carwhisper.ca/go/haley-dodge-sc-1c6srffp8sn513662",
+      "city": "Gibsons",
+      "province": "BC",
+      "dealer_name": "Haley Dodge SC"
     }
   ]
 }

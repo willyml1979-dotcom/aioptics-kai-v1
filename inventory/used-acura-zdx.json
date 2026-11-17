@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T03:50:31+00:00",
-  "snapshot": "2026-11-17T03:50:31+00:00",
+  "generated_at": "2026-11-17T09:50:32+00:00",
+  "snapshot": "2026-11-17T09:50:32+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "abbotsford-nissan-4w5khnrl7rz501944",
@@ -26,6 +26,34 @@
       "city": "Abbotsford",
       "province": "BC",
       "dealer_name": "Abbotsford Nissan"
+    },
+    {
+      "pub_id": "lougheed-acura-4w5khnrl6rz500719",
+      "year": 2024,
+      "make": "Acura",
+      "model": "ZDX",
+      "trim": "A-Spec Package",
+      "drivetrain": "AWD",
+      "propulsion": "electric",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 48558,
+      "price_cad": 50790.0,
+      "price_note": null,
+      "color": "Silver",
+      "dealer_id": "lougheed-acura",
+      "vin": "4W5KHNRL6RZ500719",
+      "stock": "14646327",
+      "listing_url": "https://www.lougheedacura.com/used/2024-Acura-ZDX-id14646327.html",
+      "dealer_url": "https://www.lougheedacura.com/used/2024-Acura-ZDX-id14646327.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T00:20:16",
+      "snapshot": "2026-11-17T00:23:54",
+      "go_url": "https://carwhisper.ca/go/lougheed-acura-4w5khnrl6rz500719",
+      "region": "Lower Mainland",
+      "city": "Coquitlam",
+      "province": "BC",
+      "dealer_name": "Lougheed Acura"
     }
   ]
 }

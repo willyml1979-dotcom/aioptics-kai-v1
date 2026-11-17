@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T03:50:31+00:00",
-  "snapshot": "2026-11-17T03:50:31+00:00",
+  "generated_at": "2026-11-17T09:50:32+00:00",
+  "snapshot": "2026-11-17T09:50:32+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 18,
+  "count": 19,
   "vehicles": [
     {
       "pub_id": "carter-gm-burnaby-1gns6mkd8tr353267",
@@ -514,6 +514,36 @@
       "city": "Burnaby",
       "province": "BC",
       "dealer_name": "Carter GM Burnaby"
+    },
+    {
+      "pub_id": "dueck-downtown-chevrolet-buick-gmc-ltd-1gns6tklxtr258565",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "trim": "4WD 4dr High Country",
+      "body_type": "suv",
+      "drivetrain": "4WD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 7290,
+      "price_cad": 120169.0,
+      "price_note": null,
+      "color": "Gray",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,op_tr,ow_42,v1/adjustment/XDHCWYDP6ZCNVMTNSOVLOFI5CU%3Binventory/77KDP3DIJFDRFAPMHZWF4MNXF4.webp",
+      "dealer_id": "dueck-downtown-chevrolet-buick-gmc-ltd",
+      "vin": "1GNS6TKLXTR258565",
+      "stock": "26TA8565",
+      "listing_url": "https://www.dueckdowntown.com/inventory/2026-chevrolet-tahoe-high-country-kxeRdJwvRca3M6liCpUU0wvdp/",
+      "dealer_url": "https://www.dueckdowntown.com/inventory/2026-chevrolet-tahoe-high-country-kxeRdJwvRca3M6liCpUU0wvdp/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T02:34:37",
+      "snapshot": "2026-11-17T02:38:49",
+      "go_url": "https://carwhisper.ca/go/dueck-downtown-chevrolet-buick-gmc-ltd-1gns6tklxtr258565",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Dueck Downtown Chevrolet Buick GMC Ltd."
     }
   ]
 }

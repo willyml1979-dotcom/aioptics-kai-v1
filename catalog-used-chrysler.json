@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T03:50:31+00:00",
+  "generated_at": "2026-11-17T09:50:32+00:00",
   "condition": "used",
   "make": "chrysler",
   "files": [
@@ -7,12 +7,12 @@
       "condition": "used",
       "make": "chrysler",
       "model": "200",
-      "count": 3,
+      "count": 5,
       "file": "inventory/used-chrysler-200.json",
       "models": [
         {
           "model": "200",
-          "count": 3
+          "count": 5
         }
       ]
     },
@@ -78,6 +78,19 @@
     {
       "condition": "used",
       "make": "chrysler",
+      "model": "Pacifica for salein British Columbia",
+      "count": 1,
+      "file": "inventory/used-chrysler-pacifica-for-salein-british-columbia.json",
+      "models": [
+        {
+          "model": "Pacifica for salein British Columbia",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chrysler",
       "model": "Grand Caravan",
       "shard": "Lower Mainland",
       "count": 5,
@@ -108,12 +121,12 @@
       "make": "chrysler",
       "model": "Grand Caravan",
       "shard": "Okanagan",
-      "count": 6,
+      "count": 7,
       "file": "inventory/used-chrysler-grand-caravan-okanagan.json",
       "models": [
         {
           "model": "Grand Caravan",
-          "count": 6
+          "count": 7
         }
       ]
     },
@@ -148,26 +161,13 @@
     {
       "condition": "used",
       "make": "chrysler",
-      "model": "300",
-      "count": 7,
-      "file": "inventory/used-chrysler-300.json",
-      "models": [
-        {
-          "model": "300",
-          "count": 7
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chrysler",
       "model": "Pacifica Hybrid",
-      "count": 2,
+      "count": 4,
       "file": "inventory/used-chrysler-pacifica-hybrid.json",
       "models": [
         {
           "model": "Pacifica Hybrid",
-          "count": 2
+          "count": 4
         }
       ]
     },
@@ -181,6 +181,19 @@
         {
           "model": "Sebring",
           "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chrysler",
+      "model": "Pacifica for salein Kelowna",
+      "count": 2,
+      "file": "inventory/used-chrysler-pacifica-for-salein-kelowna.json",
+      "models": [
+        {
+          "model": "Pacifica for salein Kelowna",
+          "count": 2
         }
       ]
     },
@@ -207,6 +220,19 @@
         {
           "model": "Pacifica for salein Duncan",
           "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chrysler",
+      "model": "300",
+      "count": 3,
+      "file": "inventory/used-chrysler-300.json",
+      "models": [
+        {
+          "model": "300",
+          "count": 3
         }
       ]
     },
