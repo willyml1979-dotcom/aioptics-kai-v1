@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-16T21:50:07+00:00",
-  "snapshot": "2026-11-16T21:50:07+00:00",
+  "generated_at": "2026-11-17T03:50:31+00:00",
+  "snapshot": "2026-11-17T03:50:31+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "tacoma-dodge-chrysler-jeep-ram-4t4bf1fk4cr184010",
@@ -56,6 +56,40 @@
       "city": null,
       "province": "BC",
       "dealer_name": "Go Richmond Subaru"
+    },
+    {
+      "pub_id": "langley-toyota-4t1b11hk0ju123305",
+      "year": 2018,
+      "make": "Toyota",
+      "model": "Camry",
+      "trim": "SE Auto",
+      "drivetrain": "FWD",
+      "equipment": [
+        "Gas Fuel",
+        "Heated Front Seat(s)",
+        "Back-Up Camera",
+        "Lane Keeping Assist",
+        "Bluetooth Connection",
+        "Climate Control"
+      ],
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 116805,
+      "price_cad": 19960.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "langley-toyota",
+      "vin": "4T1B11HK0JU123305",
+      "listing_url": "https://www.langleytoyota.com/vehicles/93fZAq89oi",
+      "dealer_url": "https://www.langleytoyota.com/vehicles/93fZAq89oi?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-16T14:55:10",
+      "snapshot": "2026-11-16T14:55:40",
+      "go_url": "https://carwhisper.ca/go/langley-toyota-4t1b11hk0ju123305",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Langley Toyota"
     },
     {
       "pub_id": "tacoma-dodge-chrysler-jeep-ram-4t1k61ak7ru887904",
@@ -129,7 +163,7 @@
       "listing_url": "https://www.applewoodford.ca/inventory/2022-toyota-camry-hybrid-se-bXMcpaVnSwG2Sz4hhmUlcQvdp",
       "dealer_url": "https://www.applewoodford.ca/inventory/2022-toyota-camry-hybrid-se-bXMcpaVnSwG2Sz4hhmUlcQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T18:33:36",
-      "snapshot": "2026-10-18T20:48:36",
+      "snapshot": "2026-11-16T15:21:08",
       "go_url": "https://carwhisper.ca/go/applewood-ford-4t1b21hk7nu016688",
       "city": "Port Hardy",
       "province": "BC",

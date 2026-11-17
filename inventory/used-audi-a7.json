@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-16T21:50:07+00:00",
-  "snapshot": "2026-11-16T21:50:07+00:00",
+  "generated_at": "2026-11-17T03:50:31+00:00",
+  "snapshot": "2026-11-17T03:50:31+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 7,
+  "count": 8,
   "vehicles": [
     {
       "pub_id": "maple-ridge-hyundai-wau22afc1hn091754",
@@ -141,7 +141,7 @@
       "listing_url": "https://www.duncanhyundai.net/used/2017-Audi-A7.html",
       "dealer_url": "https://www.duncanhyundai.net/used/2017-Audi-A7.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-20T17:02:15",
-      "snapshot": "2026-10-22T21:57:13",
+      "snapshot": "2026-11-16T15:54:15",
       "go_url": "https://carwhisper.ca/go/duncan-hyundai-wau22afc1hn091754",
       "region": "Vancouver Island",
       "city": "Duncan",
@@ -171,6 +171,34 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Victoria Hyundai"
+    },
+    {
+      "pub_id": "sherwood-park-hyundai-wauwgcfc0dn117785",
+      "year": 2013,
+      "make": "Audi",
+      "model": "A7",
+      "body_type": "hatchback",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 164516,
+      "price_cad": 15900.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/cd8ee8b9-b331-4eee-a174-fe8d84dd5e44_3d5c23ea-f60b-4fa5-9511-db7e573388ea.jpg",
+      "dealer_id": "sherwood-park-hyundai",
+      "vin": "WAUWGCFC0DN117785",
+      "stock": "PC7785",
+      "listing_url": "https://www.sphyundai.com/vehicles/2013/audi/a7/sherwood-park/ab/ad13747643/?sale_class=used",
+      "dealer_url": "https://www.sphyundai.com/vehicles/2013/audi/a7/sherwood-park/ab/ad13747643/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-16T15:08:44",
+      "snapshot": "2026-11-16T15:16:14",
+      "go_url": "https://carwhisper.ca/go/sherwood-park-hyundai-wauwgcfc0dn117785",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Sherwood Park Hyundai"
     }
   ]
 }

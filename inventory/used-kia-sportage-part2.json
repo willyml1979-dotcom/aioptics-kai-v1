@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-16T21:50:07+00:00",
-  "snapshot": "2026-11-16T21:50:07+00:00",
+  "generated_at": "2026-11-17T03:50:31+00:00",
+  "snapshot": "2026-11-17T03:50:31+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 30,
+  "count": 31,
   "vehicles": [
     {
       "pub_id": "kia-south-vancouver-kndpxcaf0p7043561",
@@ -834,12 +834,42 @@
       "listing_url": "https://www.marinechrysler.com/vehicles/2026/kia/sportage/vancouver/bc/71359928/?sale_class=used",
       "dealer_url": "https://www.marinechrysler.com/vehicles/2026/kia/sportage/vancouver/bc/71359928/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-22T16:24:58",
-      "snapshot": "2026-10-26T03:30:25",
+      "snapshot": "2026-11-16T20:06:58",
       "go_url": "https://carwhisper.ca/go/marine-chrysler-dodge-jeep-ltd-kndpucdfxt7467537",
       "region": "Lower Mainland",
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Marine Chrysler Dodge Jeep Ltd."
+    },
+    {
+      "pub_id": "applewood-kia-surrey-kndpucdf4t7527585",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sportage",
+      "trim": "X-Line AWD",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 5890,
+      "price_cad": 36000.0,
+      "price_note": null,
+      "color": "Green",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,op_bl,ow_100,v2/adjustment/3OCOZ3MGPBCRVGQXDTFNDEL3SI%3Btrim/WSKMIGYP6NC6JCGQDOEYYWOSYE-89860.webp",
+      "dealer_id": "applewood-kia-surrey",
+      "vin": "KNDPUCDF4T7527585",
+      "stock": "KS7P2281A",
+      "listing_url": "https://www.applewoodkiasurrey.ca/inventory/2026-kia-sportage-x-line-Fv8WTJKwTZei9pBGkQ8LuQvdp/",
+      "dealer_url": "https://www.applewoodkiasurrey.ca/inventory/2026-kia-sportage-x-line-Fv8WTJKwTZei9pBGkQ8LuQvdp/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-16T15:19:23",
+      "snapshot": "2026-11-16T15:21:05",
+      "go_url": "https://carwhisper.ca/go/applewood-kia-surrey-kndpucdf4t7527585",
+      "region": "Lower Mainland",
+      "city": "Surrey",
+      "province": "BC",
+      "dealer_name": "Applewood Kia - Surrey"
     }
   ]
 }

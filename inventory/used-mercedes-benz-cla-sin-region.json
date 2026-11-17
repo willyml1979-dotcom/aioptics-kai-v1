@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-16T21:50:07+00:00",
-  "snapshot": "2026-11-16T21:50:07+00:00",
+  "generated_at": "2026-11-17T03:50:31+00:00",
+  "snapshot": "2026-11-17T03:50:31+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "tacoma-dodge-chrysler-jeep-ram-w1k5j4hb3sn509706",
@@ -112,6 +112,33 @@
       "city": null,
       "province": "ON",
       "dealer_name": "Go Auto Brampton Chrysler"
+    },
+    {
+      "pub_id": "country-hills-nissan-w1k5j4hb7sn505660",
+      "year": 2025,
+      "make": "Mercedes-Benz",
+      "model": "CLA",
+      "body_type": "coupe",
+      "propulsion": "hybrid",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 7094,
+      "price_cad": 44495.0,
+      "price_note": null,
+      "color": "Red",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/6d1131e1-4683-4ad6-9907-18543d37c301_d4fed3b7-5810-439d-b010-552e0e6e7a6e.jpg",
+      "dealer_id": "country-hills-nissan",
+      "vin": "W1K5J4HB7SN505660",
+      "stock": "ADI1338",
+      "listing_url": "https://www.chnissan.com/vehicles/2025/mercedes-benz/cla-coupe/airdrie/ab/ad13689425/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2025/mercedes-benz/cla-coupe/airdrie/ab/ad13689425/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-16T17:41:43",
+      "snapshot": "2026-11-16T17:58:08",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-w1k5j4hb7sn505660",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Country Hills Nissan"
     },
     {
       "pub_id": "pacific-honda-w1k5j4hb8sn517865",

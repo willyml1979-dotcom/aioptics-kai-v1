@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-16T21:50:07+00:00",
-  "snapshot": "2026-11-16T21:50:07+00:00",
+  "generated_at": "2026-11-17T03:50:31+00:00",
+  "snapshot": "2026-11-17T03:50:31+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 7,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "norden-volkswagen-1v2be2ca1mc230109",
@@ -76,7 +76,7 @@
       "listing_url": "https://www.sherwoodparkchev.com/vehicles/2020/volkswagen/atlas-cross-sport/edmonton/ab/71389901/?sale_class=used",
       "dealer_url": "https://www.sherwoodparkchev.com/vehicles/2020/volkswagen/atlas-cross-sport/edmonton/ab/71389901/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T13:21:26",
-      "snapshot": "2026-10-21T15:02:50",
+      "snapshot": "2026-11-16T15:08:44",
       "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-1v2te2ca3lc210995",
       "city": null,
       "province": "AB",
@@ -155,32 +155,6 @@
       "city": null,
       "province": "BC",
       "dealer_name": "Pacific Honda"
-    },
-    {
-      "pub_id": "sherwood-park-hyundai-1v2fe2caxsc218944",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Atlas Cross Sport",
-      "propulsion": "gas",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
-      "condition": "used",
-      "odometer_km": 16405,
-      "price_cad": 46907.0,
-      "price_note": null,
-      "color": "Blue",
-      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/81aeedb7-c583-40cc-a79a-b938b20d1ee6_5bdcec5d-4a78-4e8d-a26f-fdb72a1be737.jpg",
-      "dealer_id": "sherwood-park-hyundai",
-      "vin": "1V2FE2CAXSC218944",
-      "stock": "P8944",
-      "listing_url": "https://www.sphyundai.com/vehicles/2025/volkswagen/atlas-cross-sport/sherwood-park/ab/70810335/?sale_class=used",
-      "dealer_url": "https://www.sphyundai.com/vehicles/2025/volkswagen/atlas-cross-sport/sherwood-park/ab/70810335/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T15:46:42",
-      "snapshot": "2026-10-21T23:33:05",
-      "go_url": "https://carwhisper.ca/go/sherwood-park-hyundai-1v2fe2caxsc218944",
-      "city": null,
-      "province": "AB",
-      "dealer_name": "Sherwood Park Hyundai"
     }
   ]
 }

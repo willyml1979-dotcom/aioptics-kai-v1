@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-16T21:50:07+00:00",
-  "snapshot": "2026-11-16T21:50:07+00:00",
+  "generated_at": "2026-11-17T03:50:31+00:00",
+  "snapshot": "2026-11-17T03:50:31+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 4,
   "vehicles": [
     {
       "pub_id": "marine-chrysler-dodge-jeep-ltd-3c4rjaak7tt248330",
@@ -29,6 +29,36 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Marine Chrysler Dodge Jeep Ltd."
+    },
+    {
+      "pub_id": "rivershore-chrysler-dodge-jeep-ram-3c4rjaak5tt228562",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Recon",
+      "trim": "Moab 4x4",
+      "body_type": "suv",
+      "drivetrain": "4WD",
+      "propulsion": "electric",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 0,
+      "price_cad": 94346.0,
+      "price_note": null,
+      "color": "Gray",
+      "photo_url": "https://ddztmb1ahc6o7.cloudfront.net/rivershoreram/wp-content/uploads/2026/04/27183148/1-15.jpg",
+      "dealer_id": "rivershore-chrysler-dodge-jeep-ram",
+      "vin": "3C4RJAAK5TT228562",
+      "stock": "TRE8562",
+      "listing_url": "https://www.rivershoreram.ca/inventory/2026-jeep-recon-moab-tQdlrlLGS1GL68gNQeMstgvdp/",
+      "dealer_url": "https://www.rivershoreram.ca/inventory/2026-jeep-recon-moab-tQdlrlLGS1GL68gNQeMstgvdp/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-16T15:58:55",
+      "snapshot": "2026-11-16T16:33:56",
+      "go_url": "https://carwhisper.ca/go/rivershore-chrysler-dodge-jeep-ram-3c4rjaak5tt228562",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Rivershore Chrysler Dodge Jeep Ram"
     },
     {
       "pub_id": "vaughan-chrysler-3c4rjaak4tt275890",

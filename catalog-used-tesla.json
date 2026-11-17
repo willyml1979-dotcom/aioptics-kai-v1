@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T21:50:07+00:00",
+  "generated_at": "2026-11-17T03:50:31+00:00",
   "condition": "used",
   "make": "tesla",
   "files": [
@@ -8,12 +8,12 @@
       "make": "tesla",
       "model": "Model Y",
       "shard": "part1",
-      "count": 25,
+      "count": 26,
       "file": "inventory/used-tesla-model-y-part1.json",
       "models": [
         {
           "model": "Model Y",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -22,12 +22,12 @@
       "make": "tesla",
       "model": "Model Y",
       "shard": "part2",
-      "count": 25,
+      "count": 26,
       "file": "inventory/used-tesla-model-y-part2.json",
       "models": [
         {
           "model": "Model Y",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -36,12 +36,12 @@
       "make": "tesla",
       "model": "Model Y",
       "shard": "part3",
-      "count": 25,
+      "count": 26,
       "file": "inventory/used-tesla-model-y-part3.json",
       "models": [
         {
           "model": "Model Y",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -133,12 +133,12 @@
       "make": "tesla",
       "model": "Model X",
       "shard": "part1",
-      "count": 23,
+      "count": 24,
       "file": "inventory/used-tesla-model-x-part1.json",
       "models": [
         {
           "model": "Model X",
-          "count": 23
+          "count": 24
         }
       ]
     },
@@ -198,6 +198,32 @@
     {
       "condition": "used",
       "make": "tesla",
+      "model": "Model 3 for salein Duncan",
+      "count": 1,
+      "file": "inventory/used-tesla-model-3-for-salein-duncan.json",
+      "models": [
+        {
+          "model": "Model 3 for salein Duncan",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "tesla",
+      "model": "Model Y for salein Duncan",
+      "count": 1,
+      "file": "inventory/used-tesla-model-y-for-salein-duncan.json",
+      "models": [
+        {
+          "model": "Model Y for salein Duncan",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "tesla",
       "model": "Model 3Standard Range",
       "count": 1,
       "file": "inventory/used-tesla-model-3standard-range.json",
@@ -205,6 +231,19 @@
         {
           "model": "Model 3Standard Range",
           "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "tesla",
+      "model": "Model YLong Range 4dr All-Wheel Drive Sport Utility",
+      "count": 2,
+      "file": "inventory/used-tesla-model-ylong-range-4dr-all-wheel-drive-sport-utility.json",
+      "models": [
+        {
+          "model": "Model YLong Range 4dr All-Wheel Drive Sport Utility",
+          "count": 2
         }
       ]
     },

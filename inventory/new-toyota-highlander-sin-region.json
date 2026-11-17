@@ -1,0 +1,52 @@
+{
+  "generated_at": "2026-11-17T03:50:31+00:00",
+  "snapshot": "2026-11-17T03:50:31+00:00",
+  "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
+  "count": 1,
+  "vehicles": [
+    {
+      "pub_id": "langley-toyota-5tdkbrch6ts734703",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Highlander",
+      "trim": "Hybrid XLE AWD",
+      "drivetrain": "AWD",
+      "equipment": [
+        "Gas/Electric Hybrid",
+        "3rd Row Seat",
+        "Heated Steering Wheel",
+        "Heated Front Seat(s)",
+        "Hands-Free Liftgate",
+        "All Wheel Drive",
+        "Back-Up Camera",
+        "Remote Engine Start",
+        "wireless phone charging",
+        "Keyless Start",
+        "Lane Keeping Assist",
+        "Bluetooth Connection",
+        "Blind Spot Monitor",
+        "Climate Control",
+        "Multi-Zone A/C",
+        "Sun/Moonroof"
+      ],
+      "propulsion": "hybrid",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 50,
+      "price_cad": 62474.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "langley-toyota",
+      "vin": "5TDKBRCH6TS734703",
+      "listing_url": "https://www.langleytoyota.com/vehicles/263V83FZZv",
+      "dealer_url": "https://www.langleytoyota.com/vehicles/263V83FZZv?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-16T14:56:29",
+      "snapshot": "2026-11-16T14:59:18",
+      "go_url": "https://carwhisper.ca/go/langley-toyota-5tdkbrch6ts734703",
+      "city": null,
+      "province": "BC",
+      "dealer_name": "Langley Toyota"
+    }
+  ]
+}

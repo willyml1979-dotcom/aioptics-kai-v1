@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T21:50:07+00:00",
+  "generated_at": "2026-11-17T03:50:31+00:00",
   "condition": "used",
   "make": "dodge",
   "files": [
@@ -7,65 +7,9 @@
       "condition": "used",
       "make": "dodge",
       "model": "GRAND CARAVAN",
-      "shard": "Kootenays",
-      "count": 2,
-      "file": "inventory/used-dodge-grand-caravan-kootenays.json",
-      "models": [
-        {
-          "model": "GRAND CARAVAN",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "GRAND CARAVAN",
-      "shard": "Lower Mainland",
-      "count": 30,
-      "file": "inventory/used-dodge-grand-caravan-lower-mainland.json",
-      "models": [
-        {
-          "model": "Grand Caravan",
-          "count": 30
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "GRAND CARAVAN",
-      "shard": "Norte/Cariboo",
-      "count": 2,
-      "file": "inventory/used-dodge-grand-caravan-norte-cariboo.json",
-      "models": [
-        {
-          "model": "Grand Caravan",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "GRAND CARAVAN",
-      "shard": "Okanagan",
-      "count": 4,
-      "file": "inventory/used-dodge-grand-caravan-okanagan.json",
-      "models": [
-        {
-          "model": "Grand Caravan",
-          "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "GRAND CARAVAN",
-      "shard": "Vancouver Island",
-      "count": 8,
-      "file": "inventory/used-dodge-grand-caravan-vancouver-island.json",
+      "shard": "part1",
+      "count": 25,
+      "file": "inventory/used-dodge-grand-caravan-part1.json",
       "models": [
         {
           "model": "GRAND CARAVAN",
@@ -73,7 +17,7 @@
         },
         {
           "model": "Grand Caravan",
-          "count": 6
+          "count": 23
         }
       ]
     },
@@ -81,44 +25,16 @@
       "condition": "used",
       "make": "dodge",
       "model": "GRAND CARAVAN",
-      "shard": "sin-region",
-      "count": 3,
-      "file": "inventory/used-dodge-grand-caravan-sin-region.json",
+      "shard": "part2",
+      "count": 24,
+      "file": "inventory/used-dodge-grand-caravan-part2.json",
       "models": [
         {
           "model": "GRAND CARAVAN",
-          "count": 1
+          "count": 3
         },
         {
           "model": "Grand Caravan",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "Journey",
-      "shard": "Kootenays",
-      "count": 1,
-      "file": "inventory/used-dodge-journey-kootenays.json",
-      "models": [
-        {
-          "model": "Journey",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "Journey",
-      "shard": "Lower Mainland",
-      "count": 21,
-      "file": "inventory/used-dodge-journey-lower-mainland.json",
-      "models": [
-        {
-          "model": "Journey",
           "count": 21
         }
       ]
@@ -127,55 +43,12 @@
       "condition": "used",
       "make": "dodge",
       "model": "Journey",
-      "shard": "Norte/Cariboo",
-      "count": 1,
-      "file": "inventory/used-dodge-journey-norte-cariboo.json",
+      "count": 35,
+      "file": "inventory/used-dodge-journey.json",
       "models": [
         {
           "model": "Journey",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "Journey",
-      "shard": "Okanagan",
-      "count": 8,
-      "file": "inventory/used-dodge-journey-okanagan.json",
-      "models": [
-        {
-          "model": "Journey",
-          "count": 8
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "Journey",
-      "shard": "Vancouver Island",
-      "count": 7,
-      "file": "inventory/used-dodge-journey-vancouver-island.json",
-      "models": [
-        {
-          "model": "Journey",
-          "count": 7
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "Journey",
-      "shard": "sin-region",
-      "count": 2,
-      "file": "inventory/used-dodge-journey-sin-region.json",
-      "models": [
-        {
-          "model": "Journey",
-          "count": 2
+          "count": 35
         }
       ]
     },
@@ -202,12 +75,12 @@
       "make": "dodge",
       "model": "DURANGO",
       "shard": "Lower Mainland",
-      "count": 25,
+      "count": 22,
       "file": "inventory/used-dodge-durango-lower-mainland.json",
       "models": [
         {
           "model": "Durango",
-          "count": 25
+          "count": 22
         }
       ]
     },
@@ -262,12 +135,12 @@
       "make": "dodge",
       "model": "DURANGO",
       "shard": "Vancouver Island",
-      "count": 8,
+      "count": 7,
       "file": "inventory/used-dodge-durango-vancouver-island.json",
       "models": [
         {
           "model": "Durango",
-          "count": 8
+          "count": 7
         }
       ]
     },
@@ -276,12 +149,12 @@
       "make": "dodge",
       "model": "DURANGO",
       "shard": "sin-region",
-      "count": 22,
+      "count": 24,
       "file": "inventory/used-dodge-durango-sin-region.json",
       "models": [
         {
           "model": "Durango",
-          "count": 22
+          "count": 24
         }
       ]
     },
@@ -289,7 +162,7 @@
       "condition": "used",
       "make": "dodge",
       "model": "HORNET",
-      "count": 19,
+      "count": 17,
       "file": "inventory/used-dodge-hornet.json",
       "models": [
         {
@@ -298,7 +171,7 @@
         },
         {
           "model": "Hornet",
-          "count": 15
+          "count": 13
         }
       ]
     },
@@ -322,26 +195,13 @@
     {
       "condition": "used",
       "make": "dodge",
-      "model": "Dakota",
-      "count": 1,
-      "file": "inventory/used-dodge-dakota.json",
-      "models": [
-        {
-          "model": "Dakota",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
       "model": "Grand Caravan Passenger",
-      "count": 21,
+      "count": 20,
       "file": "inventory/used-dodge-grand-caravan-passenger.json",
       "models": [
         {
           "model": "Grand Caravan Passenger",
-          "count": 21
+          "count": 20
         }
       ]
     },
@@ -363,12 +223,12 @@
       "make": "dodge",
       "model": "Charger",
       "shard": "Lower Mainland",
-      "count": 32,
+      "count": 31,
       "file": "inventory/used-dodge-charger-lower-mainland.json",
       "models": [
         {
           "model": "Charger",
-          "count": 32
+          "count": 31
         }
       ]
     },
@@ -377,12 +237,12 @@
       "make": "dodge",
       "model": "Charger",
       "shard": "Norte/Cariboo",
-      "count": 2,
+      "count": 1,
       "file": "inventory/used-dodge-charger-norte-cariboo.json",
       "models": [
         {
           "model": "Charger",
-          "count": 2
+          "count": 1
         }
       ]
     },
@@ -515,6 +375,19 @@
     {
       "condition": "used",
       "make": "dodge",
+      "model": "Hornet PHEV",
+      "count": 2,
+      "file": "inventory/used-dodge-hornet-phev.json",
+      "models": [
+        {
+          "model": "Hornet PHEV",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
       "model": "Ram 3500",
       "count": 3,
       "file": "inventory/used-dodge-ram-3500.json",
@@ -538,6 +411,32 @@
       "models": [
         {
           "model": "JourneyCanada Value Pkg",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
+      "model": "Grand Caravan Passenger Van Crew Plus",
+      "count": 1,
+      "file": "inventory/used-dodge-grand-caravan-passenger-van-crew-plus.json",
+      "models": [
+        {
+          "model": "Grand Caravan Passenger Van Crew Plus",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
+      "model": "Challenger SRT Hellcat",
+      "count": 1,
+      "file": "inventory/used-dodge-challenger-srt-hellcat.json",
+      "models": [
+        {
+          "model": "Challenger SRT Hellcat",
           "count": 1
         }
       ]
@@ -572,12 +471,12 @@
       "condition": "used",
       "make": "dodge",
       "model": "ChallengerSXT 2dr All-Wheel Drive",
-      "count": 2,
+      "count": 1,
       "file": "inventory/used-dodge-challengersxt-2dr-all-wheel-drive.json",
       "models": [
         {
           "model": "ChallengerSXT 2dr All-Wheel Drive",
-          "count": 2
+          "count": 1
         }
       ]
     },
@@ -604,6 +503,19 @@
         {
           "model": "Avenger",
           "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
+      "model": "Grand Caravan for salein Duncan",
+      "count": 2,
+      "file": "inventory/used-dodge-grand-caravan-for-salein-duncan.json",
+      "models": [
+        {
+          "model": "Grand Caravan for salein Duncan",
+          "count": 2
         }
       ]
     },
@@ -649,6 +561,32 @@
     {
       "condition": "used",
       "make": "dodge",
+      "model": "Caliber",
+      "count": 1,
+      "file": "inventory/used-dodge-caliber.json",
+      "models": [
+        {
+          "model": "Caliber",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
+      "model": "Dakota",
+      "count": 1,
+      "file": "inventory/used-dodge-dakota.json",
+      "models": [
+        {
+          "model": "Dakota",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
       "model": "otros",
       "count": 2,
       "file": "inventory/used-dodge-otros.json",
@@ -668,6 +606,19 @@
       "models": [
         {
           "model": "Ram 2500",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
+      "model": "Grand Caravan Passenger Van SXT",
+      "count": 1,
+      "file": "inventory/used-dodge-grand-caravan-passenger-van-sxt.json",
+      "models": [
+        {
+          "model": "Grand Caravan Passenger Van SXT",
           "count": 1
         }
       ]

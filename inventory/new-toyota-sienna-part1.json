@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-16T21:50:07+00:00",
-  "snapshot": "2026-11-16T21:50:07+00:00",
+  "generated_at": "2026-11-17T03:50:31+00:00",
+  "snapshot": "2026-11-17T03:50:31+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 27,
+  "count": 28,
   "vehicles": [
     {
       "pub_id": "nelson-toyota-5tdgrkec0ts000000",
@@ -750,6 +750,35 @@
       "city": "North Vancouver",
       "province": "BC",
       "dealer_name": "Jim Pattison Toyota - Northshore"
+    },
+    {
+      "pub_id": "regency-toyota-5tdgrkec9ts342406",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Sienna",
+      "trim": "XSE FWD 7 PASSENGER",
+      "drivetrain": "FWD",
+      "propulsion": "hybrid",
+      "propulsion_source": "model_trim_name",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 0,
+      "price_cad": 58529.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://img.sm360.ca/images/inventory/regency-toyota/toyota/sienna-hybrid/2026/38990164/38990164_02803_d7c07e7262615fb0d8b3e51e2f6cb702.jpeg",
+      "dealer_id": "regency-toyota",
+      "vin": "5TDGRKEC9TS342406",
+      "stock": "SH26870",
+      "listing_url": "https://www.regencytoyota.com/en/new-inventory/v/v/v-id38990164",
+      "dealer_url": "https://www.regencytoyota.com/en/new-inventory/v/v/v-id38990164?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-19T03:34:55",
+      "snapshot": "2026-10-26T09:55:01",
+      "go_url": "https://carwhisper.ca/go/regency-toyota-5tdgrkec9ts342406",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Regency Toyota"
     }
   ]
 }

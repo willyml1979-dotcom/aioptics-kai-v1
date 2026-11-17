@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T21:50:07+00:00",
+  "generated_at": "2026-11-17T03:50:31+00:00",
   "condition": "used",
   "make": "genesis",
   "files": [
@@ -7,12 +7,12 @@
       "condition": "used",
       "make": "genesis",
       "model": "G70",
-      "count": 12,
+      "count": 16,
       "file": "inventory/used-genesis-g70.json",
       "models": [
         {
           "model": "G70",
-          "count": 12
+          "count": 16
         }
       ]
     },
@@ -76,12 +76,12 @@
       "make": "genesis",
       "model": "GV70",
       "shard": "part4",
-      "count": 24,
+      "count": 25,
       "file": "inventory/used-genesis-gv70-part4.json",
       "models": [
         {
           "model": "GV70",
-          "count": 24
+          "count": 25
         }
       ]
     },
@@ -90,12 +90,12 @@
       "make": "genesis",
       "model": "GV80",
       "shard": "part1",
-      "count": 23,
+      "count": 24,
       "file": "inventory/used-genesis-gv80-part1.json",
       "models": [
         {
           "model": "GV80",
-          "count": 23
+          "count": 24
         }
       ]
     },
@@ -104,12 +104,12 @@
       "make": "genesis",
       "model": "GV80",
       "shard": "part2",
-      "count": 22,
+      "count": 23,
       "file": "inventory/used-genesis-gv80-part2.json",
       "models": [
         {
           "model": "GV80",
-          "count": 22
+          "count": 23
         }
       ]
     },
@@ -162,6 +162,32 @@
         {
           "model": "GV80 3.5T Prestige AWD 7P",
           "count": 12
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "genesis",
+      "model": "GV70 for salein Kelowna",
+      "count": 1,
+      "file": "inventory/used-genesis-gv70-for-salein-kelowna.json",
+      "models": [
+        {
+          "model": "GV70 for salein Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "genesis",
+      "model": "G70 for salein Duncan",
+      "count": 1,
+      "file": "inventory/used-genesis-g70-for-salein-duncan.json",
+      "models": [
+        {
+          "model": "G70 for salein Duncan",
+          "count": 1
         }
       ]
     },

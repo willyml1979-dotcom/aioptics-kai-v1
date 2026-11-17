@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T21:50:07+00:00",
-  "snapshot": "2026-11-16T21:50:07+00:00",
+  "generated_at": "2026-11-17T03:50:31+00:00",
+  "snapshot": "2026-11-17T03:50:31+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 30,
   "vehicles": [
@@ -399,35 +399,6 @@
       "dealer_name": "North Shore Honda"
     },
     {
-      "pub_id": "north-vancouver-nissan-infiniti-north-vancouver-jtm7erav8td006396",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "RAV4",
-      "trim": "GR SPORT AWD",
-      "drivetrain": "4WD",
-      "propulsion": "plug-in hybrid",
-      "propulsion_source": "model_trim_name",
-      "propulsion_confidence": "high",
-      "condition": "used",
-      "odometer_km": 161,
-      "price_cad": 63861.0,
-      "price_note": null,
-      "color": "Midnight Black Metallic",
-      "photo_url": "https://img.sm360.ca/images/inventory/burrard-acura/toyota/rav4-plug-in-hybrid/2026/39018205/39018205_03836_4dd609c6f8f003e6fbe69f10a98e5e38.jpeg",
-      "dealer_id": "north-vancouver-nissan-infiniti-north-vancouver",
-      "vin": "JTM7ERAV8TD006396",
-      "stock": "A22C003",
-      "listing_url": "https://www.northvancouvernissan.ca/en/used-inventory/toyota/rav4-plug-in-hybrid/2026-toyota-rav4-plug-in-hybrid-id39018205",
-      "dealer_url": "https://www.northvancouvernissan.ca/en/used-inventory/toyota/rav4-plug-in-hybrid/2026-toyota-rav4-plug-in-hybrid-id39018205?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T05:04:01",
-      "snapshot": "2026-10-26T03:34:49",
-      "go_url": "https://carwhisper.ca/go/north-vancouver-nissan-infiniti-north-vancouver-jtm7erav8td006396",
-      "region": "Lower Mainland",
-      "city": "North Vancouver",
-      "province": "BC",
-      "dealer_name": "North Vancouver Nissan / Infiniti North Vancouver"
-    },
-    {
       "pub_id": "southside-nissan-ltd-jtm7erav8td006396",
       "year": 2026,
       "make": "Toyota",
@@ -681,7 +652,7 @@
       "listing_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/toyota/rav4-plug-in-hybrid/2026-toyota-rav4-plug-in-hybrid-id39018205",
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/toyota/rav4-plug-in-hybrid/2026-toyota-rav4-plug-in-hybrid-id39018205?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T15:32:32",
-      "snapshot": "2026-10-25T12:50:36",
+      "snapshot": "2026-11-16T19:25:15",
       "go_url": "https://carwhisper.ca/go/mercedes-benz-richmond-jtm7erav8td006396",
       "region": "Lower Mainland",
       "city": "Richmond",
@@ -854,6 +825,28 @@
       "city": "Surrey",
       "province": "BC",
       "dealer_name": "Jim Pattison Toyota - Surrey"
+    },
+    {
+      "pub_id": "heartland-toyota-u4f5787a3de",
+      "year": 2019,
+      "make": "Toyota",
+      "model": "RAV4",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 178781,
+      "price_cad": 25900.0,
+      "price_note": null,
+      "dealer_id": "heartland-toyota",
+      "listing_url": "https://heartlandtoyota.ca/inventory/2019-toyota-rav4/14473048",
+      "dealer_url": "https://heartlandtoyota.ca/inventory/2019-toyota-rav4/14473048?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-16T18:58:16",
+      "snapshot": "2026-11-16T18:58:47",
+      "go_url": "https://carwhisper.ca/go/heartland-toyota-u4f5787a3de",
+      "region": "Norte/Cariboo",
+      "city": "Williams Lake",
+      "province": "BC",
+      "dealer_name": "Heartland Toyota"
     }
   ]
 }

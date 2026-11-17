@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T21:50:07+00:00",
+  "generated_at": "2026-11-17T03:50:31+00:00",
   "condition": "used",
   "make": "jaguar",
   "files": [
@@ -7,12 +7,12 @@
       "condition": "used",
       "make": "jaguar",
       "model": "E-PACE",
-      "count": 7,
+      "count": 6,
       "file": "inventory/used-jaguar-e-pace.json",
       "models": [
         {
           "model": "E-PACE",
-          "count": 7
+          "count": 6
         }
       ]
     },
@@ -20,12 +20,12 @@
       "condition": "used",
       "make": "jaguar",
       "model": "F-Pace",
-      "count": 14,
+      "count": 13,
       "file": "inventory/used-jaguar-f-pace.json",
       "models": [
         {
           "model": "F-PACE",
-          "count": 12
+          "count": 11
         },
         {
           "model": "F-Pace",
@@ -37,12 +37,12 @@
       "condition": "used",
       "make": "jaguar",
       "model": "F-TYPE",
-      "count": 18,
+      "count": 17,
       "file": "inventory/used-jaguar-f-type.json",
       "models": [
         {
           "model": "F-TYPE",
-          "count": 16
+          "count": 15
         },
         {
           "model": "F-Type",
@@ -93,12 +93,12 @@
       "condition": "used",
       "make": "jaguar",
       "model": "F-Type Convertible P450 R-Dynamic AWD",
-      "count": 14,
+      "count": 13,
       "file": "inventory/used-jaguar-f-type-convertible-p450-r-dynamic-awd.json",
       "models": [
         {
           "model": "F-Type Convertible P450 R-Dynamic AWD",
-          "count": 14
+          "count": 13
         }
       ]
     },
@@ -106,12 +106,12 @@
       "condition": "used",
       "make": "jaguar",
       "model": "F-Type Coupe P450 75 AWD",
-      "count": 14,
+      "count": 13,
       "file": "inventory/used-jaguar-f-type-coupe-p450-75-awd.json",
       "models": [
         {
           "model": "F-Type Coupe P450 75 AWD",
-          "count": 14
+          "count": 13
         }
       ]
     },
@@ -163,6 +163,19 @@
       "models": [
         {
           "model": "F-Type Coupe P380 R-Dynamic AWD",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "jaguar",
+      "model": "E-PACE for salein Duncan",
+      "count": 1,
+      "file": "inventory/used-jaguar-e-pace-for-salein-duncan.json",
+      "models": [
+        {
+          "model": "E-PACE for salein Duncan",
           "count": 1
         }
       ]

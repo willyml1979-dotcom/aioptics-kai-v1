@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-16T21:50:07+00:00",
-  "snapshot": "2026-11-16T21:50:07+00:00",
+  "generated_at": "2026-11-17T03:50:31+00:00",
+  "snapshot": "2026-11-17T03:50:31+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "kamloops-kia-1g1ff1r74l0117155",
@@ -33,6 +33,35 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Kamloops Kia"
+    },
+    {
+      "pub_id": "bannister-chevrolet-cadillac-kamloops-ltd-1g1fh3d71n0101186",
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "trim": "2dr Convertible 2SS Convertible",
+      "drivetrain": "RWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 8787,
+      "price_cad": 59988.0,
+      "price_note": null,
+      "color": "Gray",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/trim/AKYYQYSKCVFCLCIADIO3K2LDOA.webp",
+      "dealer_id": "bannister-chevrolet-cadillac-kamloops-ltd",
+      "vin": "1G1FH3D71N0101186",
+      "stock": "486N909A",
+      "listing_url": "https://www.bannisterchevkamloops.com/inventory/2022-chevrolet-camaro-2ss-jrMBv728RpCLYqbdG6dfUQvdp/",
+      "dealer_url": "https://www.bannisterchevkamloops.com/inventory/2022-chevrolet-camaro-2ss-jrMBv728RpCLYqbdG6dfUQvdp/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-16T15:25:41",
+      "snapshot": "2026-11-16T15:40:02",
+      "go_url": "https://carwhisper.ca/go/bannister-chevrolet-cadillac-kamloops-ltd-1g1fh3d71n0101186",
+      "region": "Thompson-Okanagan",
+      "city": "Kamloops",
+      "province": "BC",
+      "dealer_name": "Bannister Chevrolet Cadillac Kamloops Ltd."
     }
   ]
 }

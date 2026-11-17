@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-16T21:50:07+00:00",
-  "snapshot": "2026-11-16T21:50:07+00:00",
+  "generated_at": "2026-11-17T03:50:31+00:00",
+  "snapshot": "2026-11-17T03:50:31+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "duncan-hyundai-1gks2de00dr353234",
@@ -21,7 +21,7 @@
       "listing_url": "https://www.duncanhyundai.net/used/2013-GMC-Yukon.html",
       "dealer_url": "https://www.duncanhyundai.net/used/2013-GMC-Yukon.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T06:22:14",
-      "snapshot": "2026-10-22T21:57:13",
+      "snapshot": "2026-11-16T15:54:15",
       "go_url": "https://carwhisper.ca/go/duncan-hyundai-1gks2de00dr353234",
       "region": "Vancouver Island",
       "city": "Duncan",
@@ -69,7 +69,7 @@
       "listing_url": "https://www.duncanhyundai.net/used/2021-GMC-Yukon.html",
       "dealer_url": "https://www.duncanhyundai.net/used/2021-GMC-Yukon.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T23:16:46",
-      "snapshot": "2026-10-22T21:57:13",
+      "snapshot": "2026-11-16T15:54:15",
       "go_url": "https://carwhisper.ca/go/duncan-hyundai-1gks2akd4mr438793",
       "region": "Vancouver Island",
       "city": "Duncan",
@@ -99,6 +99,34 @@
       "city": "Victoria",
       "province": "BC",
       "dealer_name": "Victoria Hyundai"
+    },
+    {
+      "pub_id": "jenner-chevrolet-buick-gmc-ltd-1gks2drl2sr159113",
+      "year": 2025,
+      "make": "GMC",
+      "model": "Yukon",
+      "body_type": "suv",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 31361,
+      "price_cad": 96052.0,
+      "price_note": null,
+      "color": "Onyx Black",
+      "photo_url": "https://vehicleimages.leadboxhq.com/v1/jennerchevroletbuickgmc/1902374/1bf86d30-9a72-46b1-a67b-bd4d485ee897-600.jpg",
+      "dealer_id": "jenner-chevrolet-buick-gmc-ltd",
+      "vin": "1GKS2DRL2SR159113",
+      "stock": "GC6635A",
+      "listing_url": "https://jennerchev.com/view/used-2025-gmc-yukon-1902374/",
+      "dealer_url": "https://jennerchev.com/view/used-2025-gmc-yukon-1902374/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-16T19:02:10",
+      "snapshot": "2026-11-16T19:05:15",
+      "go_url": "https://carwhisper.ca/go/jenner-chevrolet-buick-gmc-ltd-1gks2drl2sr159113",
+      "region": "Vancouver Island",
+      "city": "Victoria",
+      "province": "BC",
+      "dealer_name": "Jenner Chevrolet Buick GMC Ltd."
     }
   ]
 }

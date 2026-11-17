@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T21:50:07+00:00",
+  "generated_at": "2026-11-17T03:50:31+00:00",
   "condition": "new",
   "make": "land-rover",
   "files": [
@@ -20,12 +20,12 @@
       "condition": "new",
       "make": "land-rover",
       "model": "Range Rover Velar",
-      "count": 24,
+      "count": 28,
       "file": "inventory/new-land-rover-range-rover-velar.json",
       "models": [
         {
           "model": "Range Rover Velar",
-          "count": 24
+          "count": 28
         }
       ]
     },
@@ -74,13 +74,70 @@
     {
       "condition": "new",
       "make": "land-rover",
+      "model": "Defender",
+      "shard": "sin-region",
+      "count": 12,
+      "file": "inventory/new-land-rover-defender-sin-region.json",
+      "models": [
+        {
+          "model": "Defender",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "land-rover",
       "model": "Range Rover Sport",
-      "count": 29,
-      "file": "inventory/new-land-rover-range-rover-sport.json",
+      "shard": "Lower Mainland",
+      "count": 2,
+      "file": "inventory/new-land-rover-range-rover-sport-lower-mainland.json",
       "models": [
         {
           "model": "Range Rover Sport",
-          "count": 29
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "land-rover",
+      "model": "Range Rover Sport",
+      "shard": "Okanagan",
+      "count": 10,
+      "file": "inventory/new-land-rover-range-rover-sport-okanagan.json",
+      "models": [
+        {
+          "model": "Range Rover Sport",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "land-rover",
+      "model": "Range Rover Sport",
+      "shard": "Vancouver Island",
+      "count": 16,
+      "file": "inventory/new-land-rover-range-rover-sport-vancouver-island.json",
+      "models": [
+        {
+          "model": "Range Rover Sport",
+          "count": 16
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "land-rover",
+      "model": "Range Rover Sport",
+      "shard": "sin-region",
+      "count": 14,
+      "file": "inventory/new-land-rover-range-rover-sport-sin-region.json",
+      "models": [
+        {
+          "model": "Range Rover Sport",
+          "count": 14
         }
       ]
     },
@@ -129,12 +186,12 @@
       "condition": "new",
       "make": "land-rover",
       "model": "Range Rover",
-      "count": 9,
+      "count": 13,
       "file": "inventory/new-land-rover-range-rover.json",
       "models": [
         {
           "model": "Range Rover",
-          "count": 9
+          "count": 13
         }
       ]
     },
@@ -181,12 +238,12 @@
       "condition": "new",
       "make": "land-rover",
       "model": "Discovery Sport",
-      "count": 3,
+      "count": 5,
       "file": "inventory/new-land-rover-discovery-sport.json",
       "models": [
         {
           "model": "Discovery Sport",
-          "count": 3
+          "count": 5
         }
       ]
     },

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-16T21:50:07+00:00",
-  "snapshot": "2026-11-16T21:50:07+00:00",
+  "generated_at": "2026-11-17T03:50:31+00:00",
+  "snapshot": "2026-11-17T03:50:31+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 9,
+  "count": 10,
   "vehicles": [
     {
       "pub_id": "norden-volkswagen-5fnyf9h83tb501812",
@@ -246,6 +246,53 @@
       "city": null,
       "province": "BC",
       "dealer_name": "Pacific Honda"
+    },
+    {
+      "pub_id": "go-honda-5fnyf9h84vb500431",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Passport",
+      "trim": "TrailSport Touring AWD",
+      "drivetrain": "AWD",
+      "equipment": [
+        "Heated Steering Wheel",
+        "Heated Front Seat(s)",
+        "Hands-Free Liftgate",
+        "All Wheel Drive",
+        "Back-Up Camera",
+        "Remote Engine Start",
+        "wireless phone charging",
+        "Tow Hitch",
+        "Keyless Start",
+        "Navigation System",
+        "Lane Keeping Assist",
+        "Leather Seats",
+        "Bluetooth Connection",
+        "Blind Spot Monitor",
+        "Cooled Front Seat(s)",
+        "Climate Control",
+        "Multi-Zone A/C",
+        "Sun/Moonroof",
+        "Rain Sensing Wipers",
+        "Heated Rear Seat(s)"
+      ],
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "odometer_km": 10,
+      "price_cad": 69174.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "go-honda",
+      "vin": "5FNYF9H84VB500431",
+      "listing_url": "https://www.gohonda.ca/vehicles/4yvXNkcTov",
+      "dealer_url": "https://www.gohonda.ca/vehicles/4yvXNkcTov?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-16T14:56:57",
+      "snapshot": "2026-11-16T14:57:26",
+      "go_url": "https://carwhisper.ca/go/go-honda-5fnyf9h84vb500431",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Go Honda"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-16T21:50:07+00:00",
-  "snapshot": "2026-11-16T21:50:07+00:00",
+  "generated_at": "2026-11-17T03:50:31+00:00",
+  "snapshot": "2026-11-17T03:50:31+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "carter-gm-northshore-3gyk3dmr4ss159450",
@@ -59,6 +59,33 @@
       "city": "North Vancouver",
       "province": "BC",
       "dealer_name": "Carter GM Northshore"
+    },
+    {
+      "pub_id": "country-hills-nissan-3gyk3em4xts123810",
+      "year": 2026,
+      "make": "Cadillac",
+      "model": "Optiq",
+      "drivetrain": "AWD",
+      "propulsion": "electric",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 14576,
+      "price_cad": 56900.0,
+      "price_note": null,
+      "color": "Silver",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/7372514c-bc63-4244-88d7-6d55a441ba0a_49af39c1-1429-49b4-84c8-609ebd4ddaa7.jpg",
+      "dealer_id": "country-hills-nissan",
+      "vin": "3GYK3EM4XTS123810",
+      "stock": "CGP3810",
+      "listing_url": "https://www.chnissan.com/vehicles/2026/cadillac/optiq/calgary/ab/ad13370774/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2026/cadillac/optiq/calgary/ab/ad13370774/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-16T17:45:18",
+      "snapshot": "2026-11-16T17:58:08",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-3gyk3em4xts123810",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

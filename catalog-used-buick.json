@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T21:50:07+00:00",
+  "generated_at": "2026-11-17T03:50:31+00:00",
   "condition": "used",
   "make": "buick",
   "files": [
@@ -19,26 +19,13 @@
     {
       "condition": "used",
       "make": "buick",
-      "model": "Enclave",
-      "count": 16,
-      "file": "inventory/used-buick-enclave.json",
-      "models": [
-        {
-          "model": "Enclave",
-          "count": 16
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "buick",
       "model": "Encore",
-      "count": 6,
+      "count": 5,
       "file": "inventory/used-buick-encore.json",
       "models": [
         {
           "model": "Encore",
-          "count": 6
+          "count": 5
         }
       ]
     },
@@ -121,12 +108,12 @@
       "make": "buick",
       "model": "Encore GX",
       "shard": "sin-region",
-      "count": 10,
+      "count": 9,
       "file": "inventory/used-buick-encore-gx-sin-region.json",
       "models": [
         {
           "model": "Encore GX",
-          "count": 10
+          "count": 9
         }
       ]
     },
@@ -134,12 +121,12 @@
       "condition": "used",
       "make": "buick",
       "model": "Envista",
-      "count": 28,
+      "count": 24,
       "file": "inventory/used-buick-envista.json",
       "models": [
         {
           "model": "Envista",
-          "count": 28
+          "count": 24
         }
       ]
     },
@@ -147,12 +134,25 @@
       "condition": "used",
       "make": "buick",
       "model": "Envision",
-      "count": 24,
+      "count": 30,
       "file": "inventory/used-buick-envision.json",
       "models": [
         {
           "model": "Envision",
-          "count": 24
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "buick",
+      "model": "Enclave",
+      "count": 11,
+      "file": "inventory/used-buick-enclave.json",
+      "models": [
+        {
+          "model": "Enclave",
+          "count": 11
         }
       ]
     },
@@ -185,12 +185,12 @@
     {
       "condition": "used",
       "make": "buick",
-      "model": "Encore GXPreferred",
+      "model": "EnclaveAvenir All-Wheel Drive",
       "count": 1,
-      "file": "inventory/used-buick-encore-gxpreferred.json",
+      "file": "inventory/used-buick-enclaveavenir-all-wheel-drive.json",
       "models": [
         {
-          "model": "Encore GXPreferred",
+          "model": "EnclaveAvenir All-Wheel Drive",
           "count": 1
         }
       ]
@@ -199,24 +199,11 @@
       "condition": "used",
       "make": "buick",
       "model": "Encore GXAvenir 4dr All-Wheel Drive",
-      "count": 2,
+      "count": 1,
       "file": "inventory/used-buick-encore-gxavenir-4dr-all-wheel-drive.json",
       "models": [
         {
           "model": "Encore GXAvenir 4dr All-Wheel Drive",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "buick",
-      "model": "EnclaveAvenir All-Wheel Drive",
-      "count": 1,
-      "file": "inventory/used-buick-enclaveavenir-all-wheel-drive.json",
-      "models": [
-        {
-          "model": "EnclaveAvenir All-Wheel Drive",
           "count": 1
         }
       ]
@@ -295,19 +282,6 @@
       "models": [
         {
           "model": "EnvisionPreferred All-Wheel Drive",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "buick",
-      "model": "Encore GXPreferred All-Wheel Drive",
-      "count": 1,
-      "file": "inventory/used-buick-encore-gxpreferred-all-wheel-drive.json",
-      "models": [
-        {
-          "model": "Encore GXPreferred All-Wheel Drive",
           "count": 1
         }
       ]

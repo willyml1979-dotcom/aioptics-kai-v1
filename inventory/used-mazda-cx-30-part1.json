@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-16T21:50:07+00:00",
-  "snapshot": "2026-11-16T21:50:07+00:00",
+  "generated_at": "2026-11-17T03:50:31+00:00",
+  "snapshot": "2026-11-17T03:50:31+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 24,
+  "count": 25,
   "vehicles": [
     {
       "pub_id": "richmond-hyundai-3mvdmbdm6pm537914",
@@ -80,7 +80,7 @@
       "listing_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mazda/cx-30/2023-mazda-cx-30-id39108474",
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mazda/cx-30/2023-mazda-cx-30-id39108474?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T14:20:47",
-      "snapshot": "2026-10-25T12:50:36",
+      "snapshot": "2026-11-16T19:25:15",
       "go_url": "https://carwhisper.ca/go/mercedes-benz-richmond-3mvdmbcm5pm521124",
       "region": "Lower Mainland",
       "city": "Richmond",
@@ -654,6 +654,34 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Destination Mazda Vancouver"
+    },
+    {
+      "pub_id": "acura-of-langley-3mvdmbdy7rm661454",
+      "year": 2024,
+      "make": "Mazda",
+      "model": "CX-30",
+      "trim": "GT w/Turbo AWD",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 23615,
+      "price_cad": 29888.0,
+      "price_note": null,
+      "color": "Deep Crystal Blue Mica",
+      "photo_url": "https://img.sm360.ca/images/inventory/southside-nissan/mazda/cx-30/2024/39297078/39297078_08183_54dd5069f7a6db5f7b9defb1bb6ee08b.jpeg",
+      "dealer_id": "acura-of-langley",
+      "vin": "3MVDMBDY7RM661454",
+      "stock": "N22E000",
+      "listing_url": "https://www.acuraoflangley.ca/en/used-inventory/mazda/cx-30/2024-mazda-cx-30-id39297078",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mazda/cx-30/2024-mazda-cx-30-id39297078?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-16T01:45:37",
+      "snapshot": "2026-10-26T05:58:43",
+      "go_url": "https://carwhisper.ca/go/acura-of-langley-3mvdmbdy7rm661454",
+      "region": "Lower Mainland",
+      "city": "Langley",
+      "province": "BC",
+      "dealer_name": "Acura of Langley"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T21:50:07+00:00",
+  "generated_at": "2026-11-17T03:50:31+00:00",
   "condition": "new",
   "make": "dodge",
   "files": [
@@ -8,7 +8,7 @@
       "make": "dodge",
       "model": "DURANGO",
       "shard": "part1",
-      "count": 27,
+      "count": 29,
       "file": "inventory/new-dodge-durango-part1.json",
       "models": [
         {
@@ -17,7 +17,7 @@
         },
         {
           "model": "Durango",
-          "count": 24
+          "count": 26
         }
       ]
     },
@@ -26,12 +26,12 @@
       "make": "dodge",
       "model": "DURANGO",
       "shard": "part2",
-      "count": 27,
+      "count": 29,
       "file": "inventory/new-dodge-durango-part2.json",
       "models": [
         {
           "model": "Durango",
-          "count": 27
+          "count": 29
         }
       ]
     },
@@ -40,12 +40,12 @@
       "make": "dodge",
       "model": "DURANGO",
       "shard": "part3",
-      "count": 27,
+      "count": 29,
       "file": "inventory/new-dodge-durango-part3.json",
       "models": [
         {
           "model": "Durango",
-          "count": 27
+          "count": 29
         }
       ]
     },
@@ -54,12 +54,12 @@
       "make": "dodge",
       "model": "DURANGO",
       "shard": "part4",
-      "count": 27,
+      "count": 29,
       "file": "inventory/new-dodge-durango-part4.json",
       "models": [
         {
           "model": "Durango",
-          "count": 27
+          "count": 29
         }
       ]
     },
@@ -68,12 +68,12 @@
       "make": "dodge",
       "model": "DURANGO",
       "shard": "part5",
-      "count": 27,
+      "count": 29,
       "file": "inventory/new-dodge-durango-part5.json",
       "models": [
         {
           "model": "Durango",
-          "count": 27
+          "count": 29
         }
       ]
     },
@@ -82,12 +82,12 @@
       "make": "dodge",
       "model": "DURANGO",
       "shard": "part6",
-      "count": 27,
+      "count": 26,
       "file": "inventory/new-dodge-durango-part6.json",
       "models": [
         {
           "model": "Durango",
-          "count": 27
+          "count": 26
         }
       ]
     },
@@ -121,7 +121,7 @@
       "condition": "new",
       "make": "dodge",
       "model": "CHARGER",
-      "count": 30,
+      "count": 31,
       "file": "inventory/new-dodge-charger.json",
       "models": [
         {
@@ -130,7 +130,7 @@
         },
         {
           "model": "Charger",
-          "count": 26
+          "count": 27
         }
       ]
     },
@@ -157,6 +157,19 @@
         {
           "model": "Charger Daytona",
           "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "dodge",
+      "model": "Charger for salein Kelowna",
+      "count": 1,
+      "file": "inventory/new-dodge-charger-for-salein-kelowna.json",
+      "models": [
+        {
+          "model": "Charger for salein Kelowna",
+          "count": 1
         }
       ]
     },

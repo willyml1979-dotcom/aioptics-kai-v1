@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-16T21:50:07+00:00",
-  "snapshot": "2026-11-16T21:50:07+00:00",
+  "generated_at": "2026-11-17T03:50:31+00:00",
+  "snapshot": "2026-11-17T03:50:31+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "applewood-mazda-surrey-zaccjbct9gpe25040",
@@ -116,6 +116,48 @@
       "city": null,
       "province": "US",
       "dealer_name": "Tacoma Dodge Chrysler Jeep Ram"
+    },
+    {
+      "pub_id": "go-honda-zaccjbdb8jph56804",
+      "year": 2018,
+      "make": "Jeep",
+      "model": "Renegade",
+      "trim": "Limited 4x4",
+      "drivetrain": "4WD",
+      "equipment": [
+        "Gas Fuel",
+        "Heated Steering Wheel",
+        "Heated Front Seat(s)",
+        "Back-Up Camera",
+        "Remote Engine Start",
+        "Tow Hitch",
+        "Keyless Start",
+        "Navigation System",
+        "Leather Seats",
+        "Bluetooth Connection",
+        "Climate Control",
+        "Multi-Zone A/C",
+        "Sun/Moonroof",
+        "Rain Sensing Wipers"
+      ],
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 117000,
+      "price_cad": 14555.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "go-honda",
+      "vin": "ZACCJBDB8JPH56804",
+      "listing_url": "https://www.gohonda.ca/vehicles/3icwffws99",
+      "dealer_url": "https://www.gohonda.ca/vehicles/3icwffws99?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-16T14:55:47",
+      "snapshot": "2026-11-16T14:57:26",
+      "go_url": "https://carwhisper.ca/go/go-honda-zaccjbdb8jph56804",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Go Honda"
     }
   ]
 }

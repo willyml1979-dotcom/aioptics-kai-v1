@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-16T21:50:07+00:00",
-  "snapshot": "2026-11-16T21:50:07+00:00",
+  "generated_at": "2026-11-17T03:50:31+00:00",
+  "snapshot": "2026-11-17T03:50:31+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "mclaren-vancouver-zhwge51u9cla11476",
@@ -32,6 +32,35 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "McLaren Vancouver"
+    },
+    {
+      "pub_id": "mercedes-benz-richmond-zpbcd6zl2tla42540",
+      "year": 2026,
+      "make": "Lamborghini",
+      "model": "Urus",
+      "trim": "SE",
+      "body_type": "suv",
+      "propulsion": "plug-in hybrid",
+      "propulsion_source": "description",
+      "propulsion_confidence": "medium",
+      "condition": "used",
+      "odometer_km": 1928,
+      "price_cad": 460188.0,
+      "price_note": null,
+      "color": "Rosso Efesto",
+      "photo_url": "https://img.sm360.ca/images/inventory/",
+      "dealer_id": "mercedes-benz-richmond",
+      "vin": "ZPBCD6ZL2TLA42540",
+      "stock": "MB61316",
+      "listing_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/lamborghini/urus/2026-lamborghini-urus-id39544345",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/lamborghini/urus/2026-lamborghini-urus-id39544345?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-16T18:01:52",
+      "snapshot": "2026-11-16T19:25:15",
+      "go_url": "https://carwhisper.ca/go/mercedes-benz-richmond-zpbcd6zl2tla42540",
+      "region": "Lower Mainland",
+      "city": "Richmond",
+      "province": "BC",
+      "dealer_name": "Mercedes-Benz Richmond"
     }
   ]
 }

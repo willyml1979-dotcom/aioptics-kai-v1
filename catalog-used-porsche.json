@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T21:50:07+00:00",
+  "generated_at": "2026-11-17T03:50:31+00:00",
   "condition": "used",
   "make": "porsche",
   "files": [
@@ -22,7 +22,7 @@
       "make": "porsche",
       "model": "Cayenne",
       "shard": "part2",
-      "count": 26,
+      "count": 27,
       "file": "inventory/used-porsche-cayenne-part2.json",
       "models": [
         {
@@ -31,7 +31,7 @@
         },
         {
           "model": "Cayenne",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -40,12 +40,12 @@
       "make": "porsche",
       "model": "Macan",
       "shard": "part1",
-      "count": 26,
+      "count": 27,
       "file": "inventory/used-porsche-macan-part1.json",
       "models": [
         {
           "model": "Macan",
-          "count": 26
+          "count": 27
         }
       ]
     },
@@ -54,12 +54,12 @@
       "make": "porsche",
       "model": "Macan",
       "shard": "part2",
-      "count": 26,
+      "count": 27,
       "file": "inventory/used-porsche-macan-part2.json",
       "models": [
         {
           "model": "Macan",
-          "count": 26
+          "count": 27
         }
       ]
     },
@@ -68,12 +68,12 @@
       "make": "porsche",
       "model": "Macan",
       "shard": "part3",
-      "count": 26,
+      "count": 27,
       "file": "inventory/used-porsche-macan-part3.json",
       "models": [
         {
           "model": "Macan",
-          "count": 26
+          "count": 27
         }
       ]
     },
@@ -82,7 +82,7 @@
       "make": "porsche",
       "model": "Macan",
       "shard": "part4",
-      "count": 26,
+      "count": 24,
       "file": "inventory/used-porsche-macan-part4.json",
       "models": [
         {
@@ -91,7 +91,7 @@
         },
         {
           "model": "Macan",
-          "count": 25
+          "count": 23
         }
       ]
     },
@@ -112,12 +112,12 @@
       "condition": "used",
       "make": "porsche",
       "model": "Panamera",
-      "count": 16,
+      "count": 18,
       "file": "inventory/used-porsche-panamera.json",
       "models": [
         {
           "model": "Panamera",
-          "count": 16
+          "count": 18
         }
       ]
     },
@@ -125,12 +125,12 @@
       "condition": "used",
       "make": "porsche",
       "model": "Taycan",
-      "count": 15,
+      "count": 16,
       "file": "inventory/used-porsche-taycan.json",
       "models": [
         {
           "model": "Taycan",
-          "count": 15
+          "count": 16
         }
       ]
     },
@@ -249,6 +249,19 @@
       "models": [
         {
           "model": "Cayenne AWD",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "porsche",
+      "model": "Panamera 4 e-Hybrid AWD",
+      "count": 1,
+      "file": "inventory/used-porsche-panamera-4-e-hybrid-awd.json",
+      "models": [
+        {
+          "model": "Panamera 4 e-Hybrid AWD",
           "count": 1
         }
       ]

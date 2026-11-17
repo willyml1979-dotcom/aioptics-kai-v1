@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-16T21:50:07+00:00",
+  "generated_at": "2026-11-17T03:50:31+00:00",
   "condition": "used",
   "make": "lincoln",
   "files": [
     {
       "condition": "used",
       "make": "lincoln",
-      "model": "MKC",
-      "count": 1,
-      "file": "inventory/used-lincoln-mkc.json",
+      "model": "MKZ",
+      "count": 3,
+      "file": "inventory/used-lincoln-mkz.json",
       "models": [
         {
-          "model": "MKC",
-          "count": 1
+          "model": "MKZ",
+          "count": 3
         }
       ]
     },
@@ -20,12 +20,12 @@
       "condition": "used",
       "make": "lincoln",
       "model": "Nautilus",
-      "count": 31,
+      "count": 29,
       "file": "inventory/used-lincoln-nautilus.json",
       "models": [
         {
           "model": "Nautilus",
-          "count": 31
+          "count": 29
         }
       ]
     },
@@ -45,19 +45,6 @@
     {
       "condition": "used",
       "make": "lincoln",
-      "model": "Navigator",
-      "count": 9,
-      "file": "inventory/used-lincoln-navigator.json",
-      "models": [
-        {
-          "model": "Navigator",
-          "count": 9
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "lincoln",
       "model": "Aviator",
       "count": 6,
       "file": "inventory/used-lincoln-aviator.json",
@@ -65,6 +52,19 @@
         {
           "model": "Aviator",
           "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lincoln",
+      "model": "Navigator",
+      "count": 7,
+      "file": "inventory/used-lincoln-navigator.json",
+      "models": [
+        {
+          "model": "Navigator",
+          "count": 7
         }
       ]
     },
@@ -123,19 +123,6 @@
     {
       "condition": "used",
       "make": "lincoln",
-      "model": "MKZ",
-      "count": 2,
-      "file": "inventory/used-lincoln-mkz.json",
-      "models": [
-        {
-          "model": "MKZ",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "lincoln",
       "model": "NautilusReserve 4dr All-Wheel Drive",
       "count": 2,
       "file": "inventory/used-lincoln-nautilusreserve-4dr-all-wheel-drive.json",
@@ -149,12 +136,38 @@
     {
       "condition": "used",
       "make": "lincoln",
+      "model": "MKZ for salein Duncan",
+      "count": 1,
+      "file": "inventory/used-lincoln-mkz-for-salein-duncan.json",
+      "models": [
+        {
+          "model": "MKZ for salein Duncan",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lincoln",
       "model": "Mark LT",
       "count": 1,
       "file": "inventory/used-lincoln-mark-lt.json",
       "models": [
         {
           "model": "Mark LT",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lincoln",
+      "model": "Nautilus for salein Duncan",
+      "count": 1,
+      "file": "inventory/used-lincoln-nautilus-for-salein-duncan.json",
+      "models": [
+        {
+          "model": "Nautilus for salein Duncan",
           "count": 1
         }
       ]

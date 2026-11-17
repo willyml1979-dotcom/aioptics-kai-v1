@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-16T21:50:07+00:00",
-  "snapshot": "2026-11-16T21:50:07+00:00",
+  "generated_at": "2026-11-17T03:50:31+00:00",
+  "snapshot": "2026-11-17T03:50:31+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 9,
+  "count": 8,
   "vehicles": [
     {
       "pub_id": "greg-gardner-motors-ltd-1gc10ved6tu419092",
@@ -222,33 +222,6 @@
       "city": "100 Mile House",
       "province": "BC",
       "dealer_name": "Gustafson's Central Chevrolet GMC Buick Ltd."
-    },
-    {
-      "pub_id": "sherwood-park-chevrolet-1gc10wel2tu420088",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Silverado EV",
-      "body_type": "truck",
-      "propulsion": "electric",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
-      "condition": "new",
-      "odometer_km": 15,
-      "price_cad": 89094.0,
-      "price_note": null,
-      "color": "White",
-      "photo_url": "https://www.sherwoodparkchev.com/wp-content/themes/convertus-achilles/achilles/assets/images/srp-placeholder/PV.jpg",
-      "dealer_id": "sherwood-park-chevrolet",
-      "vin": "1GC10WEL2TU420088",
-      "stock": "261S008",
-      "listing_url": "https://www.sherwoodparkchev.com/vehicles/2026/chevrolet/silverado-ev/sherwood-park/ab/ad13318030/?sale_class=new",
-      "dealer_url": "https://www.sherwoodparkchev.com/vehicles/2026/chevrolet/silverado-ev/sherwood-park/ab/ad13318030/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T15:00:49",
-      "snapshot": "2026-10-24T20:34:56",
-      "go_url": "https://carwhisper.ca/go/sherwood-park-chevrolet-1gc10wel2tu420088",
-      "city": null,
-      "province": "AB",
-      "dealer_name": "Sherwood Park Chevrolet"
     }
   ]
 }

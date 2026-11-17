@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-16T21:50:07+00:00",
-  "snapshot": "2026-11-16T21:50:07+00:00",
+  "generated_at": "2026-11-17T03:50:31+00:00",
+  "snapshot": "2026-11-17T03:50:31+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "prince-george-toyota-5n1at2mv5hc734670",
@@ -27,6 +27,30 @@
       "city": "Prince George",
       "province": "BC",
       "dealer_name": "Prince George Toyota"
+    },
+    {
+      "pub_id": "country-hills-nissan-jn8bt3bb3sw163374",
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Rogue SV",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 43502,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "Silver",
+      "dealer_id": "country-hills-nissan",
+      "vin": "JN8BT3BB3SW163374",
+      "stock": "CNE3374",
+      "listing_url": "https://www.chnissan.com/vehicles/2025/nissan/rogue/calgary/ab/ad13601232/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2025/nissan/rogue/calgary/ab/ad13601232/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-16T17:43:46",
+      "snapshot": "2026-11-16T17:58:08",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-jn8bt3bb3sw163374",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

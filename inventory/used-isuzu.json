@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-16T21:50:07+00:00",
-  "snapshot": "2026-11-16T21:50:07+00:00",
+  "generated_at": "2026-11-17T03:50:31+00:00",
+  "snapshot": "2026-11-17T03:50:31+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "dueck-chevrolet-buick-cadillac-gmc-ltd-54dc4w1c9fs801144",
@@ -30,6 +30,32 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Dueck Chevrolet Buick Cadillac GMC Ltd."
+    },
+    {
+      "pub_id": "country-hills-nissan-54dc4w1bxhs805388",
+      "year": 2017,
+      "make": "Isuzu",
+      "model": "NPR",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 280269,
+      "price_cad": 20995.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/71bfdc39-7e68-4b44-bdfb-5f9b06325c52_6589680d-046e-4b64-84a3-dc85ca63f4a6.jpg",
+      "dealer_id": "country-hills-nissan",
+      "vin": "54DC4W1BXHS805388",
+      "stock": "AD15905",
+      "listing_url": "https://www.chnissan.com/vehicles/2017/isuzu/npr/airdrie/ab/ad13970711/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2017/isuzu/npr/airdrie/ab/ad13970711/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-16T17:01:28",
+      "snapshot": "2026-11-16T17:58:08",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-54dc4w1bxhs805388",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }

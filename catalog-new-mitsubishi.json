@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T21:50:07+00:00",
+  "generated_at": "2026-11-17T03:50:31+00:00",
   "condition": "new",
   "make": "mitsubishi",
   "files": [
@@ -8,12 +8,12 @@
       "make": "mitsubishi",
       "model": "RVR",
       "shard": "part1",
-      "count": 27,
+      "count": 30,
       "file": "inventory/new-mitsubishi-rvr-part1.json",
       "models": [
         {
           "model": "RVR",
-          "count": 27
+          "count": 30
         }
       ]
     },
@@ -22,12 +22,12 @@
       "make": "mitsubishi",
       "model": "RVR",
       "shard": "part2",
-      "count": 27,
+      "count": 30,
       "file": "inventory/new-mitsubishi-rvr-part2.json",
       "models": [
         {
           "model": "RVR",
-          "count": 27
+          "count": 30
         }
       ]
     },
@@ -36,12 +36,12 @@
       "make": "mitsubishi",
       "model": "RVR",
       "shard": "part3",
-      "count": 27,
+      "count": 30,
       "file": "inventory/new-mitsubishi-rvr-part3.json",
       "models": [
         {
           "model": "RVR",
-          "count": 27
+          "count": 30
         }
       ]
     },
@@ -50,11 +50,81 @@
       "make": "mitsubishi",
       "model": "RVR",
       "shard": "part4",
-      "count": 27,
+      "count": 30,
       "file": "inventory/new-mitsubishi-rvr-part4.json",
       "models": [
         {
           "model": "RVR",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mitsubishi",
+      "model": "Eclipse Cross",
+      "shard": "part1",
+      "count": 31,
+      "file": "inventory/new-mitsubishi-eclipse-cross-part1.json",
+      "models": [
+        {
+          "model": "Eclipse Cross",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mitsubishi",
+      "model": "Eclipse Cross",
+      "shard": "part2",
+      "count": 31,
+      "file": "inventory/new-mitsubishi-eclipse-cross-part2.json",
+      "models": [
+        {
+          "model": "Eclipse Cross",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mitsubishi",
+      "model": "Eclipse Cross",
+      "shard": "part3",
+      "count": 31,
+      "file": "inventory/new-mitsubishi-eclipse-cross-part3.json",
+      "models": [
+        {
+          "model": "Eclipse Cross",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mitsubishi",
+      "model": "Eclipse Cross",
+      "shard": "part4",
+      "count": 31,
+      "file": "inventory/new-mitsubishi-eclipse-cross-part4.json",
+      "models": [
+        {
+          "model": "Eclipse Cross",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mitsubishi",
+      "model": "Outlander",
+      "shard": "part1",
+      "count": 27,
+      "file": "inventory/new-mitsubishi-outlander-part1.json",
+      "models": [
+        {
+          "model": "Outlander",
           "count": 27
         }
       ]
@@ -62,112 +132,14 @@
     {
       "condition": "new",
       "make": "mitsubishi",
-      "model": "RVR",
-      "shard": "part5",
-      "count": 24,
-      "file": "inventory/new-mitsubishi-rvr-part5.json",
-      "models": [
-        {
-          "model": "RVR",
-          "count": 24
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mitsubishi",
-      "model": "Eclipse Cross",
-      "shard": "part1",
-      "count": 26,
-      "file": "inventory/new-mitsubishi-eclipse-cross-part1.json",
-      "models": [
-        {
-          "model": "Eclipse Cross",
-          "count": 26
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mitsubishi",
-      "model": "Eclipse Cross",
-      "shard": "part2",
-      "count": 26,
-      "file": "inventory/new-mitsubishi-eclipse-cross-part2.json",
-      "models": [
-        {
-          "model": "Eclipse Cross",
-          "count": 26
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mitsubishi",
-      "model": "Eclipse Cross",
-      "shard": "part3",
-      "count": 26,
-      "file": "inventory/new-mitsubishi-eclipse-cross-part3.json",
-      "models": [
-        {
-          "model": "Eclipse Cross",
-          "count": 26
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mitsubishi",
-      "model": "Eclipse Cross",
-      "shard": "part4",
-      "count": 26,
-      "file": "inventory/new-mitsubishi-eclipse-cross-part4.json",
-      "models": [
-        {
-          "model": "Eclipse Cross",
-          "count": 26
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mitsubishi",
-      "model": "Eclipse Cross",
-      "shard": "part5",
-      "count": 26,
-      "file": "inventory/new-mitsubishi-eclipse-cross-part5.json",
-      "models": [
-        {
-          "model": "Eclipse Cross",
-          "count": 26
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mitsubishi",
-      "model": "Outlander",
-      "shard": "part1",
-      "count": 28,
-      "file": "inventory/new-mitsubishi-outlander-part1.json",
-      "models": [
-        {
-          "model": "Outlander",
-          "count": 28
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mitsubishi",
       "model": "Outlander",
       "shard": "part2",
-      "count": 28,
+      "count": 27,
       "file": "inventory/new-mitsubishi-outlander-part2.json",
       "models": [
         {
           "model": "Outlander",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -176,12 +148,12 @@
       "make": "mitsubishi",
       "model": "Outlander",
       "shard": "part3",
-      "count": 28,
+      "count": 27,
       "file": "inventory/new-mitsubishi-outlander-part3.json",
       "models": [
         {
           "model": "Outlander",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -190,12 +162,12 @@
       "make": "mitsubishi",
       "model": "Outlander",
       "shard": "part4",
-      "count": 28,
+      "count": 27,
       "file": "inventory/new-mitsubishi-outlander-part4.json",
       "models": [
         {
           "model": "Outlander",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -204,12 +176,12 @@
       "make": "mitsubishi",
       "model": "Outlander",
       "shard": "part5",
-      "count": 28,
+      "count": 27,
       "file": "inventory/new-mitsubishi-outlander-part5.json",
       "models": [
         {
           "model": "Outlander",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -232,12 +204,12 @@
       "make": "mitsubishi",
       "model": "Outlander PHEV",
       "shard": "part1",
-      "count": 30,
+      "count": 26,
       "file": "inventory/new-mitsubishi-outlander-phev-part1.json",
       "models": [
         {
           "model": "Outlander PHEV",
-          "count": 30
+          "count": 26
         }
       ]
     },
@@ -246,12 +218,12 @@
       "make": "mitsubishi",
       "model": "Outlander PHEV",
       "shard": "part2",
-      "count": 30,
+      "count": 26,
       "file": "inventory/new-mitsubishi-outlander-phev-part2.json",
       "models": [
         {
           "model": "Outlander PHEV",
-          "count": 30
+          "count": 26
         }
       ]
     },
@@ -260,12 +232,12 @@
       "make": "mitsubishi",
       "model": "Outlander PHEV",
       "shard": "part3",
-      "count": 30,
+      "count": 26,
       "file": "inventory/new-mitsubishi-outlander-phev-part3.json",
       "models": [
         {
           "model": "Outlander PHEV",
-          "count": 30
+          "count": 26
         }
       ]
     },
@@ -274,12 +246,12 @@
       "make": "mitsubishi",
       "model": "Outlander PHEV",
       "shard": "part4",
-      "count": 30,
+      "count": 26,
       "file": "inventory/new-mitsubishi-outlander-phev-part4.json",
       "models": [
         {
           "model": "Outlander PHEV",
-          "count": 30
+          "count": 26
         }
       ]
     },
@@ -288,12 +260,25 @@
       "make": "mitsubishi",
       "model": "Outlander PHEV",
       "shard": "part5",
-      "count": 28,
+      "count": 26,
       "file": "inventory/new-mitsubishi-outlander-phev-part5.json",
       "models": [
         {
           "model": "Outlander PHEV",
-          "count": 28
+          "count": 26
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mitsubishi",
+      "model": "Eclipse Sportback",
+      "count": 2,
+      "file": "inventory/new-mitsubishi-eclipse-sportback.json",
+      "models": [
+        {
+          "model": "Eclipse Sportback",
+          "count": 2
         }
       ]
     },

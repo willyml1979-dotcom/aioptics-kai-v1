@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-16T21:50:07+00:00",
-  "snapshot": "2026-11-16T21:50:07+00:00",
+  "generated_at": "2026-11-17T03:50:31+00:00",
+  "snapshot": "2026-11-17T03:50:31+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "applewood-nissan-w1k3g4fb2mj311928",
@@ -91,6 +91,32 @@
       "city": "Prince George",
       "province": "BC",
       "dealer_name": "Subaru of Prince George"
+    },
+    {
+      "pub_id": "harbourview-volkswagen-wdd3g4fb0kw028959",
+      "year": 2019,
+      "make": "Mercedes-Benz",
+      "model": "A-Class",
+      "trim": "A 220",
+      "drivetrain": "AWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 132042,
+      "price_cad": 23277.0,
+      "price_note": null,
+      "dealer_id": "harbourview-volkswagen",
+      "vin": "WDD3G4FB0KW028959",
+      "stock": "14602569",
+      "listing_url": "https://www.harbourviewvw.com/used/2019-Mercedes_Benz-A_Class-id14602569.html",
+      "dealer_url": "https://www.harbourviewvw.com/used/2019-Mercedes_Benz-A_Class-id14602569.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-16T19:20:37",
+      "snapshot": "2026-11-16T19:26:02",
+      "go_url": "https://carwhisper.ca/go/harbourview-volkswagen-wdd3g4fb0kw028959",
+      "region": "Vancouver Island",
+      "city": "Nanaimo",
+      "province": "BC",
+      "dealer_name": "Harbourview Volkswagen"
     },
     {
       "pub_id": "harris-kia-wdd3g4fb9kw009861",

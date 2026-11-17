@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-16T21:50:07+00:00",
-  "snapshot": "2026-11-16T21:50:07+00:00",
+  "generated_at": "2026-11-17T03:50:31+00:00",
+  "snapshot": "2026-11-17T03:50:31+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "norden-volkswagen-jm3kkdhd4r1139144",
@@ -52,6 +52,32 @@
       "city": null,
       "province": "BC",
       "dealer_name": "Pacific Honda"
+    },
+    {
+      "pub_id": "country-hills-nissan-jm3kkdhd6t1376287",
+      "year": 2026,
+      "make": "Mazda",
+      "model": "CX-90 MHEV",
+      "propulsion": "hybrid",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 30072,
+      "price_cad": 46629.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/9a17a40b-6d02-42c8-8b12-2c13b185bf9f_ad5215ad-b16f-429c-b048-95b50a52f6f4.jpg",
+      "dealer_id": "country-hills-nissan",
+      "vin": "JM3KKDHD6T1376287",
+      "stock": "CNE6287",
+      "listing_url": "https://www.chnissan.com/vehicles/2026/mazda/cx-90-mhev/calgary/ab/ad13385112/?sale_class=used",
+      "dealer_url": "https://www.chnissan.com/vehicles/2026/mazda/cx-90-mhev/calgary/ab/ad13385112/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-16T17:51:29",
+      "snapshot": "2026-11-16T17:58:08",
+      "go_url": "https://carwhisper.ca/go/country-hills-nissan-jm3kkdhd6t1376287",
+      "city": null,
+      "province": "AB",
+      "dealer_name": "Country Hills Nissan"
     }
   ]
 }
