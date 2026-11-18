@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-18T09:50:37+00:00",
-  "snapshot": "2026-11-18T09:50:37+00:00",
+  "generated_at": "2026-11-18T15:50:38+00:00",
+  "snapshot": "2026-11-18T15:50:38+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "applewood-chevrolet-buick-gmc-lrbfzmr49td074669",
@@ -61,6 +61,30 @@
       "city": "Port Hardy",
       "province": "BC",
       "dealer_name": "Applewood Chevrolet Buick GMC"
+    },
+    {
+      "pub_id": "gustafson-s-central-chevrolet-gmc-buick-ltd-69798-473862",
+      "year": 2026,
+      "make": "Buick",
+      "model": "Envision",
+      "trim": "AWD 4dr Preferred",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "price_cad": 48699.0,
+      "price_note": null,
+      "dealer_id": "gustafson-s-central-chevrolet-gmc-buick-ltd",
+      "stock": "69798-473862",
+      "listing_url": "https://www.gustafsonscentralgm.ca/new/2026-Buick-Envision.html",
+      "dealer_url": "https://www.gustafsonscentralgm.ca/new/2026-Buick-Envision.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-18T03:57:58",
+      "snapshot": "2026-11-18T03:59:59",
+      "go_url": "https://carwhisper.ca/go/gustafson-s-central-chevrolet-gmc-buick-ltd-69798-473862",
+      "city": "100 Mile House",
+      "province": "BC",
+      "dealer_name": "Gustafson's Central Chevrolet GMC Buick Ltd."
     }
   ]
 }

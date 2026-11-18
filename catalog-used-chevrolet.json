@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T09:50:37+00:00",
+  "generated_at": "2026-11-18T15:50:38+00:00",
   "condition": "used",
   "make": "chevrolet",
   "files": [
@@ -455,12 +455,12 @@
       "make": "chevrolet",
       "model": "Silverado 1500",
       "shard": "part12",
-      "count": 23,
+      "count": 19,
       "file": "inventory/used-chevrolet-silverado-1500-part12.json",
       "models": [
         {
           "model": "Silverado 1500",
-          "count": 23
+          "count": 19
         }
       ]
     },
@@ -469,7 +469,7 @@
       "make": "chevrolet",
       "model": "Trax",
       "shard": "part1",
-      "count": 31,
+      "count": 29,
       "file": "inventory/used-chevrolet-trax-part1.json",
       "models": [
         {
@@ -478,7 +478,7 @@
         },
         {
           "model": "Trax",
-          "count": 30
+          "count": 28
         }
       ]
     },
@@ -487,12 +487,12 @@
       "make": "chevrolet",
       "model": "Trax",
       "shard": "part2",
-      "count": 31,
+      "count": 29,
       "file": "inventory/used-chevrolet-trax-part2.json",
       "models": [
         {
           "model": "Trax",
-          "count": 31
+          "count": 29
         }
       ]
     },
@@ -518,12 +518,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Cruze",
-      "count": 33,
+      "count": 32,
       "file": "inventory/used-chevrolet-cruze.json",
       "models": [
         {
           "model": "Cruze",
-          "count": 33
+          "count": 32
         }
       ]
     },
@@ -605,83 +605,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Malibu",
-      "shard": "Lower Mainland",
-      "count": 10,
-      "file": "inventory/used-chevrolet-malibu-lower-mainland.json",
+      "count": 34,
+      "file": "inventory/used-chevrolet-malibu.json",
       "models": [
         {
           "model": "Malibu",
-          "count": 10
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chevrolet",
-      "model": "Malibu",
-      "shard": "Norte/Cariboo",
-      "count": 2,
-      "file": "inventory/used-chevrolet-malibu-norte-cariboo.json",
-      "models": [
-        {
-          "model": "Malibu",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chevrolet",
-      "model": "Malibu",
-      "shard": "Okanagan",
-      "count": 11,
-      "file": "inventory/used-chevrolet-malibu-okanagan.json",
-      "models": [
-        {
-          "model": "Malibu",
-          "count": 11
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chevrolet",
-      "model": "Malibu",
-      "shard": "Thompson-Okanagan",
-      "count": 1,
-      "file": "inventory/used-chevrolet-malibu-thompson-okanagan.json",
-      "models": [
-        {
-          "model": "Malibu",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chevrolet",
-      "model": "Malibu",
-      "shard": "Vancouver Island",
-      "count": 6,
-      "file": "inventory/used-chevrolet-malibu-vancouver-island.json",
-      "models": [
-        {
-          "model": "Malibu",
-          "count": 6
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chevrolet",
-      "model": "Malibu",
-      "shard": "sin-region",
-      "count": 8,
-      "file": "inventory/used-chevrolet-malibu-sin-region.json",
-      "models": [
-        {
-          "model": "Malibu",
-          "count": 8
+          "count": 34
         }
       ]
     },
@@ -849,12 +778,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Camaro",
-      "count": 22,
+      "count": 20,
       "file": "inventory/used-chevrolet-camaro.json",
       "models": [
         {
           "model": "Camaro",
-          "count": 22
+          "count": 20
         }
       ]
     },
@@ -1177,12 +1106,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Silverado 3500HD",
-      "count": 27,
+      "count": 28,
       "file": "inventory/used-chevrolet-silverado-3500hd.json",
       "models": [
         {
           "model": "Silverado 3500HD",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -1407,11 +1336,24 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Silverado 1500 for salein Maple Ridge",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-chevrolet-silverado-1500-for-salein-maple-ridge.json",
       "models": [
         {
           "model": "Silverado 1500 for salein Maple Ridge",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Trax for salein Maple Ridge",
+      "count": 1,
+      "file": "inventory/used-chevrolet-trax-for-salein-maple-ridge.json",
+      "models": [
+        {
+          "model": "Trax for salein Maple Ridge",
           "count": 1
         }
       ]
@@ -1420,12 +1362,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Equinox AWD LT",
-      "count": 3,
+      "count": 2,
       "file": "inventory/used-chevrolet-equinox-awd-lt.json",
       "models": [
         {
           "model": "Equinox AWD LT",
-          "count": 3
+          "count": 2
         }
       ]
     },
@@ -1657,6 +1599,19 @@
     {
       "condition": "used",
       "make": "chevrolet",
+      "model": "Malibu for salein Kelowna",
+      "count": 1,
+      "file": "inventory/used-chevrolet-malibu-for-salein-kelowna.json",
+      "models": [
+        {
+          "model": "Malibu for salein Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
       "model": "Cruze for salein Kelowna",
       "count": 1,
       "file": "inventory/used-chevrolet-cruze-for-salein-kelowna.json",
@@ -1677,6 +1632,19 @@
         {
           "model": "Volt",
           "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Trax for salein Kelowna",
+      "count": 1,
+      "file": "inventory/used-chevrolet-trax-for-salein-kelowna.json",
+      "models": [
+        {
+          "model": "Trax for salein Kelowna",
+          "count": 1
         }
       ]
     },
@@ -1736,12 +1704,12 @@
       "condition": "used",
       "make": "chevrolet",
       "model": "Silverado 1500 for salein Kelowna",
-      "count": 2,
+      "count": 3,
       "file": "inventory/used-chevrolet-silverado-1500-for-salein-kelowna.json",
       "models": [
         {
           "model": "Silverado 1500 for salein Kelowna",
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -1933,6 +1901,19 @@
     {
       "condition": "used",
       "make": "chevrolet",
+      "model": "Impala for salein Duncan",
+      "count": 1,
+      "file": "inventory/used-chevrolet-impala-for-salein-duncan.json",
+      "models": [
+        {
+          "model": "Impala for salein Duncan",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
       "model": "Equinox for salein Courtenay",
       "count": 1,
       "file": "inventory/used-chevrolet-equinox-for-salein-courtenay.json",
@@ -1972,12 +1953,38 @@
     {
       "condition": "used",
       "make": "chevrolet",
+      "model": "Malibu for salein Duncan",
+      "count": 1,
+      "file": "inventory/used-chevrolet-malibu-for-salein-duncan.json",
+      "models": [
+        {
+          "model": "Malibu for salein Duncan",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
       "model": "Cruze for salein Duncan",
       "count": 1,
       "file": "inventory/used-chevrolet-cruze-for-salein-duncan.json",
       "models": [
         {
           "model": "Cruze for salein Duncan",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Trax for salein Duncan",
+      "count": 1,
+      "file": "inventory/used-chevrolet-trax-for-salein-duncan.json",
+      "models": [
+        {
+          "model": "Trax for salein Duncan",
           "count": 1
         }
       ]
@@ -1998,12 +2005,38 @@
     {
       "condition": "used",
       "make": "chevrolet",
+      "model": "Camaro for salein Duncan",
+      "count": 1,
+      "file": "inventory/used-chevrolet-camaro-for-salein-duncan.json",
+      "models": [
+        {
+          "model": "Camaro for salein Duncan",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
       "model": "Equinox for salein Duncan",
       "count": 1,
       "file": "inventory/used-chevrolet-equinox-for-salein-duncan.json",
       "models": [
         {
           "model": "Equinox for salein Duncan",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Silverado 1500 for salein Duncan",
+      "count": 1,
+      "file": "inventory/used-chevrolet-silverado-1500-for-salein-duncan.json",
+      "models": [
+        {
+          "model": "Silverado 1500 for salein Duncan",
           "count": 1
         }
       ]
@@ -2043,6 +2076,19 @@
       "models": [
         {
           "model": "Silverado 1500 for salein Victoria",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Silverado 1500 for salein Nanaimo",
+      "count": 1,
+      "file": "inventory/used-chevrolet-silverado-1500-for-salein-nanaimo.json",
+      "models": [
+        {
+          "model": "Silverado 1500 for salein Nanaimo",
           "count": 1
         }
       ]
@@ -2115,6 +2161,19 @@
     {
       "condition": "used",
       "make": "chevrolet",
+      "model": "Silverado 1500 Custom Trail Boss *INCOMING UNIT*",
+      "count": 1,
+      "file": "inventory/used-chevrolet-silverado-1500-custom-trail-boss-incoming-unit.json",
+      "models": [
+        {
+          "model": "Silverado 1500 Custom Trail Boss *INCOMING UNIT*",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
       "model": "Silverado 1500 LT",
       "count": 1,
       "file": "inventory/used-chevrolet-silverado-1500-lt.json",
@@ -2173,19 +2232,6 @@
       "models": [
         {
           "model": "Trailblazer ACTIV AWD",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "chevrolet",
-      "model": "Malibu Maxx",
-      "count": 1,
-      "file": "inventory/used-chevrolet-malibu-maxx.json",
-      "models": [
-        {
-          "model": "Malibu Maxx",
           "count": 1
         }
       ]
@@ -2342,6 +2388,19 @@
       "models": [
         {
           "model": "Silverado 3500HD for salein Spruce Grove",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "chevrolet",
+      "model": "Tahoe for salein Edmonton",
+      "count": 1,
+      "file": "inventory/used-chevrolet-tahoe-for-salein-edmonton.json",
+      "models": [
+        {
+          "model": "Tahoe for salein Edmonton",
           "count": 1
         }
       ]

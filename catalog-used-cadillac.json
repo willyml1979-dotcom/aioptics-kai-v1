@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T09:50:37+00:00",
+  "generated_at": "2026-11-18T15:50:38+00:00",
   "condition": "used",
   "make": "cadillac",
   "files": [
@@ -90,12 +90,12 @@
       "make": "cadillac",
       "model": "Escalade",
       "shard": "part1",
-      "count": 26,
+      "count": 25,
       "file": "inventory/used-cadillac-escalade-part1.json",
       "models": [
         {
           "model": "Escalade",
-          "count": 26
+          "count": 25
         }
       ]
     },
@@ -104,12 +104,12 @@
       "make": "cadillac",
       "model": "Escalade",
       "shard": "part2",
-      "count": 26,
+      "count": 25,
       "file": "inventory/used-cadillac-escalade-part2.json",
       "models": [
         {
           "model": "Escalade",
-          "count": 26
+          "count": 25
         }
       ]
     },
@@ -118,12 +118,12 @@
       "make": "cadillac",
       "model": "Escalade",
       "shard": "part3",
-      "count": 24,
+      "count": 25,
       "file": "inventory/used-cadillac-escalade-part3.json",
       "models": [
         {
           "model": "Escalade",
-          "count": 24
+          "count": 25
         }
       ]
     },
@@ -157,12 +157,12 @@
       "condition": "used",
       "make": "cadillac",
       "model": "CT4 AWD",
-      "count": 13,
+      "count": 14,
       "file": "inventory/used-cadillac-ct4-awd.json",
       "models": [
         {
           "model": "CT4 AWD",
-          "count": 13
+          "count": 14
         }
       ]
     },
@@ -287,6 +287,19 @@
       "models": [
         {
           "model": "EscaladeLuxury 4dr 4x4",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "cadillac",
+      "model": "CT5 for salein Maple Ridge",
+      "count": 1,
+      "file": "inventory/used-cadillac-ct5-for-salein-maple-ridge.json",
+      "models": [
+        {
+          "model": "CT5 for salein Maple Ridge",
           "count": 1
         }
       ]

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-18T09:50:37+00:00",
-  "snapshot": "2026-11-18T09:50:37+00:00",
+  "generated_at": "2026-11-18T15:50:38+00:00",
+  "snapshot": "2026-11-18T15:50:38+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "park-shore-bmw-75915-483918",
@@ -50,7 +50,7 @@
       "listing_url": "https://www.brianjesselbmw.com/vehicles/2027/bmw/i5-sedan/vancouver/bc/71204586/?sale_class=new",
       "dealer_url": "https://www.brianjesselbmw.com/vehicles/2027/bmw/i5-sedan/vancouver/bc/71204586/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-26T06:27:18",
-      "snapshot": "2026-11-17T22:58:45",
+      "snapshot": "2026-11-18T08:31:59",
       "go_url": "https://carwhisper.ca/go/brian-jessel-bmw-wby33hg02vcy73133",
       "region": "Lower Mainland",
       "city": "Vancouver",
@@ -78,7 +78,7 @@
       "listing_url": "https://www.brianjesselbmw.com/vehicles/2027/bmw/i5-sedan/vancouver/bc/71613572/?sale_class=new",
       "dealer_url": "https://www.brianjesselbmw.com/vehicles/2027/bmw/i5-sedan/vancouver/bc/71613572/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-21T22:03:31",
-      "snapshot": "2026-11-17T22:58:45",
+      "snapshot": "2026-11-18T08:31:59",
       "go_url": "https://carwhisper.ca/go/brian-jessel-bmw-wby33hg07vcy90574",
       "region": "Lower Mainland",
       "city": "Vancouver",
@@ -135,12 +135,37 @@
       "listing_url": "https://www.brianjesselbmw.com/vehicles/2026/bmw/i5-sedan/vancouver/bc/70709776/?sale_class=new",
       "dealer_url": "https://www.brianjesselbmw.com/vehicles/2026/bmw/i5-sedan/vancouver/bc/70709776/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T23:46:59",
-      "snapshot": "2026-11-17T22:58:45",
+      "snapshot": "2026-11-18T08:31:59",
       "go_url": "https://carwhisper.ca/go/brian-jessel-bmw-wby43hg05tcy25045",
       "region": "Lower Mainland",
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Brian Jessel BMW"
+    },
+    {
+      "pub_id": "bmw-victoria-mini-victoria-1791388-ontario-limited-67407-471114",
+      "year": 2026,
+      "make": "BMW",
+      "model": "i5",
+      "body_type": "sedan",
+      "drivetrain": "AWD",
+      "propulsion": "electric",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "price_cad": 87545.0,
+      "price_note": null,
+      "dealer_id": "bmw-victoria-mini-victoria-1791388-ontario-limited",
+      "stock": "67407-471114",
+      "listing_url": "https://www.bmwvictoria.ca/new/2026-BMW-i5.html",
+      "dealer_url": "https://www.bmwvictoria.ca/new/2026-BMW-i5.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-18T08:41:21",
+      "snapshot": "2026-11-18T08:46:08",
+      "go_url": "https://carwhisper.ca/go/bmw-victoria-mini-victoria-1791388-ontario-limited-67407-471114",
+      "region": "Vancouver Island",
+      "city": "Victoria",
+      "province": "BC",
+      "dealer_name": "BMW Victoria/MINI Victoria (1791388 Ontario Limited)"
     }
   ]
 }

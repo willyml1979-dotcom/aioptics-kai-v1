@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-18T09:50:37+00:00",
-  "snapshot": "2026-11-18T09:50:37+00:00",
+  "generated_at": "2026-11-18T15:50:38+00:00",
+  "snapshot": "2026-11-18T15:50:38+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 4,
   "vehicles": [
     {
       "pub_id": "kelowna-hyundai-ja4j24a58lz612764",
@@ -22,7 +22,7 @@
       "listing_url": "https://www.kelownahyundai.com/used/2020-Mitsubishi-Outlander_PHEV.html",
       "dealer_url": "https://www.kelownahyundai.com/used/2020-Mitsubishi-Outlander_PHEV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-11-16T23:23:23",
-      "snapshot": "2026-11-17T20:49:42",
+      "snapshot": "2026-11-18T06:23:39",
       "go_url": "https://carwhisper.ca/go/kelowna-hyundai-ja4j24a58lz612764",
       "region": "Okanagan",
       "city": "Kelowna",
@@ -47,7 +47,7 @@
       "listing_url": "https://www.okanagandodge.com/used/2020-Mitsubishi-Outlander_PHEV.html",
       "dealer_url": "https://www.okanagandodge.com/used/2020-Mitsubishi-Outlander_PHEV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-11-17T16:56:12",
-      "snapshot": "2026-11-17T17:14:36",
+      "snapshot": "2026-11-18T04:22:46",
       "go_url": "https://carwhisper.ca/go/okanagan-chrysler-dodge-jeep-ram-ja4j24a58lz612764",
       "region": "Okanagan",
       "city": "Kelowna",
@@ -72,12 +72,36 @@
       "listing_url": "https://www.harmonyhonda.com/used/2024-Mitsubishi-Outlander_PHEV.html",
       "dealer_url": "https://www.harmonyhonda.com/used/2024-Mitsubishi-Outlander_PHEV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-11-16T20:04:44",
-      "snapshot": "2026-11-17T18:44:43",
+      "snapshot": "2026-11-18T04:58:10",
       "go_url": "https://carwhisper.ca/go/harmony-honda-ja4t5wa90rz604780",
       "region": "Okanagan",
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Harmony Honda"
+    },
+    {
+      "pub_id": "kelowna-hyundai-ja4t5va97rz617052",
+      "year": 2024,
+      "make": "Mitsubishi",
+      "model": "Outlander PHEV for salein Kelowna",
+      "propulsion": "plug-in hybrid",
+      "propulsion_source": "model_trim_name",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "price_cad": 41904.0,
+      "price_note": null,
+      "dealer_id": "kelowna-hyundai",
+      "vin": "JA4T5VA97RZ617052",
+      "stock": "VH61705",
+      "listing_url": "https://www.kelownahyundai.com/used/2024-Mitsubishi-Outlander_PHEV.html",
+      "dealer_url": "https://www.kelownahyundai.com/used/2024-Mitsubishi-Outlander_PHEV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-18T06:22:24",
+      "snapshot": "2026-11-18T06:23:39",
+      "go_url": "https://carwhisper.ca/go/kelowna-hyundai-ja4t5va97rz617052",
+      "region": "Okanagan",
+      "city": "Kelowna",
+      "province": "BC",
+      "dealer_name": "Kelowna Hyundai"
     }
   ]
 }

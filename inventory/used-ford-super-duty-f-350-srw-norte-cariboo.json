@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-18T09:50:37+00:00",
-  "snapshot": "2026-11-18T09:50:37+00:00",
+  "generated_at": "2026-11-18T15:50:38+00:00",
+  "snapshot": "2026-11-18T15:50:38+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 7,
+  "count": 8,
   "vehicles": [
     {
       "pub_id": "cariboo-ford-ltd-1ft8w3bt2ref18752",
@@ -63,6 +63,34 @@
       "city": "Williams Lake",
       "province": "BC",
       "dealer_name": "Cariboo Chevrolet Buick GMC Ltd."
+    },
+    {
+      "pub_id": "hoskins-ford-sales-ltd-1ft8w3bt8nee28614",
+      "year": 2022,
+      "make": "Ford",
+      "model": "Super Duty F-350 SRW",
+      "trim": "King Ranch",
+      "drivetrain": "FWD",
+      "propulsion": "diesel",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 66609,
+      "price_cad": 84900.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "hoskins-ford-sales-ltd",
+      "vin": "1FT8W3BT8NEE28614",
+      "stock": "14528828",
+      "listing_url": "https://www.hoskinsford.com/used/2022-Ford-Super_Duty_F_350_SRW-id14528828.html",
+      "dealer_url": "https://www.hoskinsford.com/used/2022-Ford-Super_Duty_F_350_SRW-id14528828.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-18T04:53:10",
+      "snapshot": "2026-11-18T04:55:09",
+      "go_url": "https://carwhisper.ca/go/hoskins-ford-sales-ltd-1ft8w3bt8nee28614",
+      "region": "Norte/Cariboo",
+      "city": "Smithers",
+      "province": "BC",
+      "dealer_name": "Hoskins Ford Sales Ltd"
     },
     {
       "pub_id": "fort-motors-ltd-1ft8w3bm7ref35927",

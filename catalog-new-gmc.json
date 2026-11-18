@@ -1,32 +1,19 @@
 {
-  "generated_at": "2026-11-18T09:50:37+00:00",
+  "generated_at": "2026-11-18T15:50:38+00:00",
   "condition": "new",
   "make": "gmc",
   "files": [
     {
       "condition": "new",
       "make": "gmc",
-      "model": "Terrain FWD Elevation",
-      "count": 1,
-      "file": "inventory/new-gmc-terrain-fwd-elevation.json",
-      "models": [
-        {
-          "model": "Terrain FWD Elevation",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "gmc",
       "model": "Terrain",
       "shard": "Kootenays",
-      "count": 5,
+      "count": 6,
       "file": "inventory/new-gmc-terrain-kootenays.json",
       "models": [
         {
           "model": "Terrain",
-          "count": 5
+          "count": 6
         }
       ]
     },
@@ -97,184 +84,6 @@
         {
           "model": "Terrain",
           "count": 12
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "gmc",
-      "model": "Sierra 1500 Regular Cab Standard Box 2-Wheel Drive Pro",
-      "count": 1,
-      "file": "inventory/new-gmc-sierra-1500-regular-cab-standard-box-2-wheel-drive-pro.json",
-      "models": [
-        {
-          "model": "Sierra 1500 Regular Cab Standard Box 2-Wheel Drive Pro",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "gmc",
-      "model": "Acadia AWD Elevation",
-      "count": 2,
-      "file": "inventory/new-gmc-acadia-awd-elevation.json",
-      "models": [
-        {
-          "model": "Acadia AWD Elevation",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "gmc",
-      "model": "Canyon",
-      "shard": "part1",
-      "count": 23,
-      "file": "inventory/new-gmc-canyon-part1.json",
-      "models": [
-        {
-          "model": "Canyon",
-          "count": 23
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "gmc",
-      "model": "Canyon",
-      "shard": "part2",
-      "count": 23,
-      "file": "inventory/new-gmc-canyon-part2.json",
-      "models": [
-        {
-          "model": "Canyon",
-          "count": 23
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "gmc",
-      "model": "Canyon",
-      "shard": "part3",
-      "count": 22,
-      "file": "inventory/new-gmc-canyon-part3.json",
-      "models": [
-        {
-          "model": "Canyon",
-          "count": 22
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "gmc",
-      "model": "Acadia",
-      "shard": "Kootenays",
-      "count": 4,
-      "file": "inventory/new-gmc-acadia-kootenays.json",
-      "models": [
-        {
-          "model": "Acadia",
-          "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "gmc",
-      "model": "Acadia",
-      "shard": "Lower Mainland",
-      "count": 22,
-      "file": "inventory/new-gmc-acadia-lower-mainland.json",
-      "models": [
-        {
-          "model": "Acadia",
-          "count": 22
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "gmc",
-      "model": "Acadia",
-      "shard": "Norte/Cariboo",
-      "count": 5,
-      "file": "inventory/new-gmc-acadia-norte-cariboo.json",
-      "models": [
-        {
-          "model": "Acadia",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "gmc",
-      "model": "Acadia",
-      "shard": "Okanagan",
-      "count": 5,
-      "file": "inventory/new-gmc-acadia-okanagan.json",
-      "models": [
-        {
-          "model": "Acadia",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "gmc",
-      "model": "Acadia",
-      "shard": "Vancouver Island",
-      "count": 17,
-      "file": "inventory/new-gmc-acadia-vancouver-island.json",
-      "models": [
-        {
-          "model": "Acadia",
-          "count": 17
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "gmc",
-      "model": "Acadia",
-      "shard": "sin-region",
-      "count": 3,
-      "file": "inventory/new-gmc-acadia-sin-region.json",
-      "models": [
-        {
-          "model": "Acadia",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "gmc",
-      "model": "Sierra 2500HD Regular Cab Long Box 2-Wheel Drive Pro",
-      "count": 2,
-      "file": "inventory/new-gmc-sierra-2500hd-regular-cab-long-box-2-wheel-drive-pro.json",
-      "models": [
-        {
-          "model": "Sierra 2500HD Regular Cab Long Box 2-Wheel Drive Pro",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "gmc",
-      "model": "Sierra",
-      "count": 8,
-      "file": "inventory/new-gmc-sierra.json",
-      "models": [
-        {
-          "model": "Sierra",
-          "count": 8
         }
       ]
     },
@@ -381,11 +190,260 @@
       "make": "gmc",
       "model": "Sierra 1500",
       "shard": "part8",
-      "count": 26,
+      "count": 28,
       "file": "inventory/new-gmc-sierra-1500-part8.json",
       "models": [
         {
           "model": "Sierra 1500",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Canyon",
+      "shard": "part1",
+      "count": 23,
+      "file": "inventory/new-gmc-canyon-part1.json",
+      "models": [
+        {
+          "model": "Canyon",
+          "count": 23
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Canyon",
+      "shard": "part2",
+      "count": 23,
+      "file": "inventory/new-gmc-canyon-part2.json",
+      "models": [
+        {
+          "model": "Canyon",
+          "count": 23
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Canyon",
+      "shard": "part3",
+      "count": 23,
+      "file": "inventory/new-gmc-canyon-part3.json",
+      "models": [
+        {
+          "model": "Canyon",
+          "count": 23
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Sierra 1500 Regular Cab Standard Box 2-Wheel Drive Pro",
+      "count": 1,
+      "file": "inventory/new-gmc-sierra-1500-regular-cab-standard-box-2-wheel-drive-pro.json",
+      "models": [
+        {
+          "model": "Sierra 1500 Regular Cab Standard Box 2-Wheel Drive Pro",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Acadia",
+      "shard": "Kootenays",
+      "count": 6,
+      "file": "inventory/new-gmc-acadia-kootenays.json",
+      "models": [
+        {
+          "model": "Acadia",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Acadia",
+      "shard": "Lower Mainland",
+      "count": 22,
+      "file": "inventory/new-gmc-acadia-lower-mainland.json",
+      "models": [
+        {
+          "model": "Acadia",
+          "count": 22
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Acadia",
+      "shard": "Norte/Cariboo",
+      "count": 5,
+      "file": "inventory/new-gmc-acadia-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Acadia",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Acadia",
+      "shard": "Okanagan",
+      "count": 5,
+      "file": "inventory/new-gmc-acadia-okanagan.json",
+      "models": [
+        {
+          "model": "Acadia",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Acadia",
+      "shard": "Vancouver Island",
+      "count": 17,
+      "file": "inventory/new-gmc-acadia-vancouver-island.json",
+      "models": [
+        {
+          "model": "Acadia",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Acadia",
+      "shard": "sin-region",
+      "count": 4,
+      "file": "inventory/new-gmc-acadia-sin-region.json",
+      "models": [
+        {
+          "model": "Acadia",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Acadia AWD Elevation",
+      "count": 2,
+      "file": "inventory/new-gmc-acadia-awd-elevation.json",
+      "models": [
+        {
+          "model": "Acadia AWD Elevation",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Sierra 2500HD",
+      "count": 10,
+      "file": "inventory/new-gmc-sierra-2500hd.json",
+      "models": [
+        {
+          "model": "Sierra 2500HD",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Sierra 3500HD",
+      "shard": "part1",
+      "count": 30,
+      "file": "inventory/new-gmc-sierra-3500hd-part1.json",
+      "models": [
+        {
+          "model": "Sierra 3500HD",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Sierra 3500HD",
+      "shard": "part2",
+      "count": 30,
+      "file": "inventory/new-gmc-sierra-3500hd-part2.json",
+      "models": [
+        {
+          "model": "Sierra 3500HD",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Sierra 3500HD",
+      "shard": "part3",
+      "count": 30,
+      "file": "inventory/new-gmc-sierra-3500hd-part3.json",
+      "models": [
+        {
+          "model": "Sierra 3500HD",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Sierra 3500HD",
+      "shard": "part4",
+      "count": 30,
+      "file": "inventory/new-gmc-sierra-3500hd-part4.json",
+      "models": [
+        {
+          "model": "Sierra 3500HD",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Sierra 3500HD",
+      "shard": "part5",
+      "count": 30,
+      "file": "inventory/new-gmc-sierra-3500hd-part5.json",
+      "models": [
+        {
+          "model": "Sierra 3500HD",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Sierra 3500HD",
+      "shard": "part6",
+      "count": 26,
+      "file": "inventory/new-gmc-sierra-3500hd-part6.json",
+      "models": [
+        {
+          "model": "Sierra 3500HD",
           "count": 26
         }
       ]
@@ -393,13 +451,26 @@
     {
       "condition": "new",
       "make": "gmc",
+      "model": "Sierra",
+      "count": 8,
+      "file": "inventory/new-gmc-sierra.json",
+      "models": [
+        {
+          "model": "Sierra",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
       "model": "Sierra 3500 HD",
-      "count": 15,
+      "count": 16,
       "file": "inventory/new-gmc-sierra-3500-hd.json",
       "models": [
         {
           "model": "Sierra 3500 HD",
-          "count": 15
+          "count": 16
         }
       ]
     },
@@ -432,26 +503,13 @@
     {
       "condition": "new",
       "make": "gmc",
-      "model": "HUMMER EV Pickup e4WD Crew Cab 2X w/3VL",
-      "count": 2,
-      "file": "inventory/new-gmc-hummer-ev-pickup-e4wd-crew-cab-2x-w-3vl.json",
+      "model": "HUMMER EV",
+      "count": 15,
+      "file": "inventory/new-gmc-hummer-ev.json",
       "models": [
         {
-          "model": "HUMMER EV Pickup e4WD Crew Cab 2X w/3VL",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "gmc",
-      "model": "HUMMER EV SUV e4WD 4dr 2X w/1SF",
-      "count": 2,
-      "file": "inventory/new-gmc-hummer-ev-suv-e4wd-4dr-2x-w-1sf.json",
-      "models": [
-        {
-          "model": "HUMMER EV SUV e4WD 4dr 2X w/1SF",
-          "count": 2
+          "model": "HUMMER EV",
+          "count": 15
         }
       ]
     },
@@ -465,103 +523,6 @@
         {
           "model": "Savana Cargo",
           "count": 11
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "gmc",
-      "model": "Sierra 2500HD",
-      "count": 9,
-      "file": "inventory/new-gmc-sierra-2500hd.json",
-      "models": [
-        {
-          "model": "Sierra 2500HD",
-          "count": 9
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "gmc",
-      "model": "Sierra 3500HD",
-      "shard": "part1",
-      "count": 29,
-      "file": "inventory/new-gmc-sierra-3500hd-part1.json",
-      "models": [
-        {
-          "model": "Sierra 3500HD",
-          "count": 29
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "gmc",
-      "model": "Sierra 3500HD",
-      "shard": "part2",
-      "count": 29,
-      "file": "inventory/new-gmc-sierra-3500hd-part2.json",
-      "models": [
-        {
-          "model": "Sierra 3500HD",
-          "count": 29
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "gmc",
-      "model": "Sierra 3500HD",
-      "shard": "part3",
-      "count": 29,
-      "file": "inventory/new-gmc-sierra-3500hd-part3.json",
-      "models": [
-        {
-          "model": "Sierra 3500HD",
-          "count": 29
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "gmc",
-      "model": "Sierra 3500HD",
-      "shard": "part4",
-      "count": 29,
-      "file": "inventory/new-gmc-sierra-3500hd-part4.json",
-      "models": [
-        {
-          "model": "Sierra 3500HD",
-          "count": 29
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "gmc",
-      "model": "Sierra 3500HD",
-      "shard": "part5",
-      "count": 29,
-      "file": "inventory/new-gmc-sierra-3500hd-part5.json",
-      "models": [
-        {
-          "model": "Sierra 3500HD",
-          "count": 29
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "gmc",
-      "model": "Sierra 3500HD",
-      "shard": "part6",
-      "count": 27,
-      "file": "inventory/new-gmc-sierra-3500hd-part6.json",
-      "models": [
-        {
-          "model": "Sierra 3500HD",
-          "count": 27
         }
       ]
     },
@@ -645,19 +606,6 @@
         {
           "model": "Yukon",
           "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "gmc",
-      "model": "HUMMER EV",
-      "count": 12,
-      "file": "inventory/new-gmc-hummer-ev.json",
-      "models": [
-        {
-          "model": "HUMMER EV",
-          "count": 12
         }
       ]
     },
@@ -918,6 +866,19 @@
         {
           "model": "SIERRA 1500PRO 4X4 CREW CAB 6.6 FT. BOX (1SA)",
           "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Sierra 2500HD Regular Cab Long Box 2-Wheel Drive Pro",
+      "count": 1,
+      "file": "inventory/new-gmc-sierra-2500hd-regular-cab-long-box-2-wheel-drive-pro.json",
+      "models": [
+        {
+          "model": "Sierra 2500HD Regular Cab Long Box 2-Wheel Drive Pro",
+          "count": 1
         }
       ]
     },
@@ -1242,6 +1203,19 @@
       "models": [
         {
           "model": "Yukon for salein 100 Mile House",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "HUMMER EV Pickup e4WD Crew Cab 2X w/3VL",
+      "count": 1,
+      "file": "inventory/new-gmc-hummer-ev-pickup-e4wd-crew-cab-2x-w-3vl.json",
+      "models": [
+        {
+          "model": "HUMMER EV Pickup e4WD Crew Cab 2X w/3VL",
           "count": 1
         }
       ]

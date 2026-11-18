@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-11-18T09:50:37+00:00",
+  "generated_at": "2026-11-18T15:50:38+00:00",
   "condition": "used",
   "make": "infiniti",
   "files": [
+    {
+      "condition": "used",
+      "make": "infiniti",
+      "model": "FX35",
+      "count": 1,
+      "file": "inventory/used-infiniti-fx35.json",
+      "models": [
+        {
+          "model": "FX35",
+          "count": 1
+        }
+      ]
+    },
     {
       "condition": "used",
       "make": "infiniti",
@@ -36,12 +49,12 @@
       "make": "infiniti",
       "model": "QX50",
       "shard": "part3",
-      "count": 25,
+      "count": 24,
       "file": "inventory/used-infiniti-qx50-part3.json",
       "models": [
         {
           "model": "QX50",
-          "count": 25
+          "count": 24
         }
       ]
     },
@@ -55,6 +68,19 @@
         {
           "model": "QX60 for salein British Columbia",
           "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "infiniti",
+      "model": "QX70",
+      "count": 1,
+      "file": "inventory/used-infiniti-qx70.json",
+      "models": [
+        {
+          "model": "QX70",
+          "count": 1
         }
       ]
     },
@@ -144,6 +170,19 @@
     {
       "condition": "used",
       "make": "infiniti",
+      "model": "QX55",
+      "count": 16,
+      "file": "inventory/used-infiniti-qx55.json",
+      "models": [
+        {
+          "model": "QX55",
+          "count": 16
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "infiniti",
       "model": "QX60",
       "shard": "Lower Mainland",
       "count": 20,
@@ -174,12 +213,12 @@
       "make": "infiniti",
       "model": "QX60",
       "shard": "Okanagan",
-      "count": 3,
+      "count": 1,
       "file": "inventory/used-infiniti-qx60-okanagan.json",
       "models": [
         {
           "model": "QX60",
-          "count": 3
+          "count": 1
         }
       ]
     },
@@ -214,19 +253,6 @@
     {
       "condition": "used",
       "make": "infiniti",
-      "model": "QX55",
-      "count": 16,
-      "file": "inventory/used-infiniti-qx55.json",
-      "models": [
-        {
-          "model": "QX55",
-          "count": 16
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "infiniti",
       "model": "QX56",
       "count": 1,
       "file": "inventory/used-infiniti-qx56.json",
@@ -241,12 +267,12 @@
       "condition": "used",
       "make": "infiniti",
       "model": "QX60 for salein Kelowna",
-      "count": 6,
+      "count": 8,
       "file": "inventory/used-infiniti-qx60-for-salein-kelowna.json",
       "models": [
         {
           "model": "QX60 for salein Kelowna",
-          "count": 6
+          "count": 8
         }
       ]
     },

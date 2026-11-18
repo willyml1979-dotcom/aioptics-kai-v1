@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T09:50:37+00:00",
+  "generated_at": "2026-11-18T15:50:38+00:00",
   "condition": "used",
   "make": "lincoln",
   "files": [
@@ -72,12 +72,12 @@
       "condition": "used",
       "make": "lincoln",
       "model": "Aviator",
-      "count": 9,
+      "count": 8,
       "file": "inventory/used-lincoln-aviator.json",
       "models": [
         {
           "model": "Aviator",
-          "count": 9
+          "count": 8
         }
       ]
     },
@@ -85,12 +85,12 @@
       "condition": "used",
       "make": "lincoln",
       "model": "Navigator",
-      "count": 4,
+      "count": 3,
       "file": "inventory/used-lincoln-navigator.json",
       "models": [
         {
           "model": "Navigator",
-          "count": 4
+          "count": 3
         }
       ]
     },
@@ -188,6 +188,19 @@
     {
       "condition": "used",
       "make": "lincoln",
+      "model": "Navigator for salein Kelowna",
+      "count": 1,
+      "file": "inventory/used-lincoln-navigator-for-salein-kelowna.json",
+      "models": [
+        {
+          "model": "Navigator for salein Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lincoln",
       "model": "NautilusReserve 4dr All-Wheel Drive",
       "count": 2,
       "file": "inventory/used-lincoln-nautilusreserve-4dr-all-wheel-drive.json",
@@ -259,6 +272,19 @@
       "models": [
         {
           "model": "Navigator for salein Campbell River",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lincoln",
+      "model": "Aviator for salein Spruce Grove",
+      "count": 1,
+      "file": "inventory/used-lincoln-aviator-for-salein-spruce-grove.json",
+      "models": [
+        {
+          "model": "Aviator for salein Spruce Grove",
           "count": 1
         }
       ]

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-18T09:50:37+00:00",
-  "snapshot": "2026-11-18T09:50:37+00:00",
+  "generated_at": "2026-11-18T15:50:38+00:00",
+  "snapshot": "2026-11-18T15:50:38+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "maple-ridge-hyundai-ja4j4va81pz605557",
@@ -21,12 +21,36 @@
       "listing_url": "https://www.mapleridgehyundai.com/used/2023-Mitsubishi-Outlander.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2023-Mitsubishi-Outlander.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-11-17T21:32:51",
-      "snapshot": "2026-11-17T21:33:55",
+      "snapshot": "2026-11-18T07:06:39",
       "go_url": "https://carwhisper.ca/go/maple-ridge-hyundai-ja4j4va81pz605557",
       "region": "Lower Mainland",
       "city": "Maple Ridge",
       "province": "BC",
       "dealer_name": "Maple Ridge Hyundai"
+    },
+    {
+      "pub_id": "victoria-hyundai-ja4j4va81pz605557",
+      "year": 2023,
+      "make": "Mitsubishi",
+      "model": "Outlander for salein British Columbia",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 30904.0,
+      "price_note": null,
+      "color": "Grey",
+      "dealer_id": "victoria-hyundai",
+      "vin": "JA4J4VA81PZ605557",
+      "stock": "KH60555",
+      "listing_url": "https://www.victoriahyundai.com/used/2023-Mitsubishi-Outlander.html",
+      "dealer_url": "https://www.victoriahyundai.com/used/2023-Mitsubishi-Outlander.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-18T03:17:02",
+      "snapshot": "2026-11-18T03:18:21",
+      "go_url": "https://carwhisper.ca/go/victoria-hyundai-ja4j4va81pz605557",
+      "region": "Vancouver Island",
+      "city": "Victoria",
+      "province": "BC",
+      "dealer_name": "Victoria Hyundai"
     }
   ]
 }

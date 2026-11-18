@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T09:50:37+00:00",
+  "generated_at": "2026-11-18T15:50:38+00:00",
   "condition": "new",
   "make": "jeep",
   "files": [
@@ -90,12 +90,12 @@
       "make": "jeep",
       "model": "Compass",
       "shard": "part6",
-      "count": 27,
+      "count": 26,
       "file": "inventory/new-jeep-compass-part6.json",
       "models": [
         {
           "model": "Compass",
-          "count": 27
+          "count": 26
         }
       ]
     },
@@ -254,7 +254,7 @@
       "make": "jeep",
       "model": "Cherokee",
       "shard": "part9",
-      "count": 31,
+      "count": 30,
       "file": "inventory/new-jeep-cherokee-part9.json",
       "models": [
         {
@@ -263,7 +263,7 @@
         },
         {
           "model": "Cherokee",
-          "count": 30
+          "count": 29
         }
       ]
     },
@@ -385,7 +385,7 @@
       "make": "jeep",
       "model": "Wrangler",
       "shard": "part7",
-      "count": 23,
+      "count": 22,
       "file": "inventory/new-jeep-wrangler-part7.json",
       "models": [
         {
@@ -394,7 +394,7 @@
         },
         {
           "model": "Wrangler",
-          "count": 22
+          "count": 21
         }
       ]
     },
@@ -686,7 +686,7 @@
       "condition": "new",
       "make": "jeep",
       "model": "Grand Wagoneer",
-      "count": 23,
+      "count": 22,
       "file": "inventory/new-jeep-grand-wagoneer.json",
       "models": [
         {
@@ -695,7 +695,7 @@
         },
         {
           "model": "Grand Wagoneer",
-          "count": 21
+          "count": 20
         }
       ]
     },
@@ -716,12 +716,12 @@
       "condition": "new",
       "make": "jeep",
       "model": "Grand Wagoneer L",
-      "count": 7,
+      "count": 6,
       "file": "inventory/new-jeep-grand-wagoneer-l.json",
       "models": [
         {
           "model": "Grand Wagoneer L",
-          "count": 7
+          "count": 6
         }
       ]
     },
@@ -907,6 +907,19 @@
       "models": [
         {
           "model": "Grand Cherokee for salein Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Grand Wagoneer L for salein Kelowna",
+      "count": 1,
+      "file": "inventory/new-jeep-grand-wagoneer-l-for-salein-kelowna.json",
+      "models": [
+        {
+          "model": "Grand Wagoneer L for salein Kelowna",
           "count": 1
         }
       ]

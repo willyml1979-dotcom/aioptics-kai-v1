@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-18T09:50:37+00:00",
-  "snapshot": "2026-11-18T09:50:37+00:00",
+  "generated_at": "2026-11-18T15:50:38+00:00",
+  "snapshot": "2026-11-18T15:50:38+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "maple-ridge-hyundai-7mmvabdy0pn148077",
@@ -21,12 +21,36 @@
       "listing_url": "https://www.mapleridgehyundai.com/used/2023-Mazda-CX_50.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2023-Mazda-CX_50.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-11-17T21:32:41",
-      "snapshot": "2026-11-17T21:33:55",
+      "snapshot": "2026-11-18T07:06:39",
       "go_url": "https://carwhisper.ca/go/maple-ridge-hyundai-7mmvabdy0pn148077",
       "region": "Lower Mainland",
       "city": "Maple Ridge",
       "province": "BC",
       "dealer_name": "Maple Ridge Hyundai"
+    },
+    {
+      "pub_id": "victoria-hyundai-7mmvabdy0pn148077",
+      "year": 2023,
+      "make": "Mazda",
+      "model": "CX-50 for salein British Columbia",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 35404.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "victoria-hyundai",
+      "vin": "7MMVABDY0PN148077",
+      "stock": "MH14807",
+      "listing_url": "https://www.victoriahyundai.com/used/2023-Mazda-CX_50.html",
+      "dealer_url": "https://www.victoriahyundai.com/used/2023-Mazda-CX_50.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-18T03:16:53",
+      "snapshot": "2026-11-18T03:18:21",
+      "go_url": "https://carwhisper.ca/go/victoria-hyundai-7mmvabdy0pn148077",
+      "region": "Vancouver Island",
+      "city": "Victoria",
+      "province": "BC",
+      "dealer_name": "Victoria Hyundai"
     }
   ]
 }

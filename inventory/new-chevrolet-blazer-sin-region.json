@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-18T09:50:37+00:00",
-  "snapshot": "2026-11-18T09:50:37+00:00",
+  "generated_at": "2026-11-18T15:50:38+00:00",
+  "snapshot": "2026-11-18T15:50:38+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 18,
+  "count": 19,
   "vehicles": [
     {
       "pub_id": "sherwood-park-chevrolet-3gnkbhr4xts172855",
@@ -81,6 +81,30 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Sherwood Park Chevrolet"
+    },
+    {
+      "pub_id": "gustafson-s-central-chevrolet-gmc-buick-ltd-73014-480333",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Blazer",
+      "trim": "LT AWD",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "price_cad": 46599.0,
+      "price_note": null,
+      "dealer_id": "gustafson-s-central-chevrolet-gmc-buick-ltd",
+      "stock": "73014-480333",
+      "listing_url": "https://www.gustafsonscentralgm.ca/new/2026-Chevrolet-Blazer.html",
+      "dealer_url": "https://www.gustafsonscentralgm.ca/new/2026-Chevrolet-Blazer.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-18T03:58:06",
+      "snapshot": "2026-11-18T03:59:59",
+      "go_url": "https://carwhisper.ca/go/gustafson-s-central-chevrolet-gmc-buick-ltd-73014-480333",
+      "city": "100 Mile House",
+      "province": "BC",
+      "dealer_name": "Gustafson's Central Chevrolet GMC Buick Ltd."
     },
     {
       "pub_id": "applewood-chevrolet-buick-gmc-3gnkbhr40ss270470",

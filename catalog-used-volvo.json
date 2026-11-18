@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T09:50:37+00:00",
+  "generated_at": "2026-11-18T15:50:38+00:00",
   "condition": "used",
   "make": "volvo",
   "files": [
@@ -27,6 +27,20 @@
         {
           "model": "XC90",
           "count": 23
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volvo",
+      "model": "XC90",
+      "shard": "Norte/Cariboo",
+      "count": 1,
+      "file": "inventory/used-volvo-xc90-norte-cariboo.json",
+      "models": [
+        {
+          "model": "XC90",
+          "count": 1
         }
       ]
     },
@@ -359,19 +373,6 @@
         {
           "model": "XC90 T6 AWD Momentum (6-Seat)",
           "count": 14
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volvo",
-      "model": "XC90 Inscription",
-      "count": 1,
-      "file": "inventory/used-volvo-xc90-inscription.json",
-      "models": [
-        {
-          "model": "XC90 Inscription",
-          "count": 1
         }
       ]
     },

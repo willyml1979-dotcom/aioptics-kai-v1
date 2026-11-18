@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T09:50:37+00:00",
-  "snapshot": "2026-11-18T09:50:37+00:00",
+  "generated_at": "2026-11-18T15:50:38+00:00",
+  "snapshot": "2026-11-18T15:50:38+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 28,
   "vehicles": [
@@ -61,6 +61,34 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Regency Toyota"
+    },
+    {
+      "pub_id": "jim-pattison-toyota-northshore-jtnk4mbe0v3279061",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "Corolla",
+      "body_type": "hatchback",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 90,
+      "price_cad": 30166.0,
+      "price_note": null,
+      "color": "Blueprint",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/36e327a2-28ab-4047-b464-2a16089a903c_e65c8bfe-13fe-42c2-97c5-93d15c3329e6.jpg",
+      "dealer_id": "jim-pattison-toyota-northshore",
+      "vin": "JTNK4MBE0V3279061",
+      "stock": "27CHB90",
+      "listing_url": "https://www.jptoyota-northshore.com/vehicles/2027/toyota/corolla-hatchback/north-vancouver/bc/ad14070658/?sale_class=new",
+      "dealer_url": "https://www.jptoyota-northshore.com/vehicles/2027/toyota/corolla-hatchback/north-vancouver/bc/ad14070658/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-18T05:52:23",
+      "snapshot": "2026-11-18T05:54:48",
+      "go_url": "https://carwhisper.ca/go/jim-pattison-toyota-northshore-jtnk4mbe0v3279061",
+      "region": "Lower Mainland",
+      "city": "North Vancouver",
+      "province": "BC",
+      "dealer_name": "Jim Pattison Toyota - Northshore"
     },
     {
       "pub_id": "jim-pattison-toyota-downtown-5yfb4mbe4tp296325",
@@ -754,34 +782,6 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "Regency Toyota"
-    },
-    {
-      "pub_id": "jim-pattison-toyota-northshore-jtdbdmhe7v3041445",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "Corolla",
-      "trim": "Hybrid",
-      "propulsion": "hybrid",
-      "propulsion_source": "structured_fuel_type",
-      "propulsion_confidence": "high",
-      "condition": "new",
-      "odometer_km": 90,
-      "price_cad": 34873.0,
-      "price_note": null,
-      "color": "White",
-      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/3dae5edd-35b7-4426-9b49-9e74a13a5a34_45c9b7fb-d437-4c8b-9e4f-f79546247a06.jpg",
-      "dealer_id": "jim-pattison-toyota-northshore",
-      "vin": "JTDBDMHE7V3041445",
-      "stock": "27COH14",
-      "listing_url": "https://www.jptoyota-northshore.com/vehicles/2027/toyota/corolla-hybrid/north-vancouver/bc/ad14043922/?sale_class=new",
-      "dealer_url": "https://www.jptoyota-northshore.com/vehicles/2027/toyota/corolla-hybrid/north-vancouver/bc/ad14043922/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-11-17T20:29:08",
-      "snapshot": "2026-11-17T20:31:36",
-      "go_url": "https://carwhisper.ca/go/jim-pattison-toyota-northshore-jtdbdmhe7v3041445",
-      "region": "Lower Mainland",
-      "city": "North Vancouver",
-      "province": "BC",
-      "dealer_name": "Jim Pattison Toyota - Northshore"
     }
   ]
 }

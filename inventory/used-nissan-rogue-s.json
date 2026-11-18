@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-18T09:50:37+00:00",
-  "snapshot": "2026-11-18T09:50:37+00:00",
+  "generated_at": "2026-11-18T15:50:38+00:00",
+  "snapshot": "2026-11-18T15:50:38+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "prince-george-toyota-5n1at3ab2pc899154",
@@ -29,6 +29,31 @@
       "dealer_name": "Prince George Toyota"
     },
     {
+      "pub_id": "kelowna-toyota-ltd-5n1at2mv2hc736649",
+      "year": 2017,
+      "make": "Nissan",
+      "model": "Rogue S",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "odometer_km": 115933,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "White",
+      "dealer_id": "kelowna-toyota-ltd",
+      "vin": "5N1AT2MV2HC736649",
+      "stock": "DKT5404",
+      "listing_url": "https://www.kelownatoyota.com/vehicles/2017/nissan/rogue/kelowna/bc/ad14073747/?sale_class=used",
+      "dealer_url": "https://www.kelownatoyota.com/vehicles/2017/nissan/rogue/kelowna/bc/ad14073747/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-18T06:30:40",
+      "snapshot": "2026-11-18T06:34:10",
+      "go_url": "https://carwhisper.ca/go/kelowna-toyota-ltd-5n1at2mv2hc736649",
+      "region": "Okanagan",
+      "city": "Kelowna",
+      "province": "BC",
+      "dealer_name": "Kelowna Toyota Ltd."
+    },
+    {
       "pub_id": "country-hills-nissan-jn8bt3ab9rw175301",
       "year": 2024,
       "make": "Nissan",
@@ -46,7 +71,7 @@
       "listing_url": "https://www.chnissan.com/vehicles/2024/nissan/rogue/calgary/ab/ad13850147/?sale_class=used",
       "dealer_url": "https://www.chnissan.com/vehicles/2024/nissan/rogue/calgary/ab/ad13850147/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-11-16T17:33:03",
-      "snapshot": "2026-11-17T18:05:18",
+      "snapshot": "2026-11-18T04:55:56",
       "go_url": "https://carwhisper.ca/go/country-hills-nissan-jn8bt3ab9rw175301",
       "city": null,
       "province": "AB",

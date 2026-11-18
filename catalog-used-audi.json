@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T09:50:37+00:00",
+  "generated_at": "2026-11-18T15:50:38+00:00",
   "condition": "used",
   "make": "audi",
   "files": [
@@ -50,12 +50,12 @@
       "make": "audi",
       "model": "Q5",
       "shard": "part4",
-      "count": 27,
+      "count": 25,
       "file": "inventory/used-audi-q5-part4.json",
       "models": [
         {
           "model": "Q5",
-          "count": 27
+          "count": 25
         }
       ]
     },
@@ -63,12 +63,12 @@
       "condition": "used",
       "make": "audi",
       "model": "A3",
-      "count": 22,
+      "count": 21,
       "file": "inventory/used-audi-a3.json",
       "models": [
         {
           "model": "A3",
-          "count": 22
+          "count": 21
         }
       ]
     },
@@ -77,12 +77,12 @@
       "make": "audi",
       "model": "Q3",
       "shard": "part1",
-      "count": 28,
+      "count": 27,
       "file": "inventory/used-audi-q3-part1.json",
       "models": [
         {
           "model": "Q3",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -91,12 +91,12 @@
       "make": "audi",
       "model": "Q3",
       "shard": "part2",
-      "count": 27,
+      "count": 26,
       "file": "inventory/used-audi-q3-part2.json",
       "models": [
         {
           "model": "Q3",
-          "count": 27
+          "count": 26
         }
       ]
     },
@@ -234,12 +234,12 @@
       "condition": "used",
       "make": "audi",
       "model": "A4",
-      "count": 5,
+      "count": 3,
       "file": "inventory/used-audi-a4.json",
       "models": [
         {
           "model": "A4",
-          "count": 5
+          "count": 3
         }
       ]
     },
@@ -260,12 +260,12 @@
       "condition": "used",
       "make": "audi",
       "model": "A6",
-      "count": 6,
+      "count": 1,
       "file": "inventory/used-audi-a6.json",
       "models": [
         {
           "model": "A6",
-          "count": 6
+          "count": 1
         }
       ]
     },
@@ -350,6 +350,19 @@
     {
       "condition": "used",
       "make": "audi",
+      "model": "Q4 E-tron for salein Abbotsford",
+      "count": 2,
+      "file": "inventory/used-audi-q4-e-tron-for-salein-abbotsford.json",
+      "models": [
+        {
+          "model": "Q4 E-tron for salein Abbotsford",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "audi",
       "model": "Q3 for salein Coquitlam",
       "count": 1,
       "file": "inventory/used-audi-q3-for-salein-coquitlam.json",
@@ -391,12 +404,12 @@
       "make": "audi",
       "model": "Q4 e-tron",
       "shard": "part1",
-      "count": 18,
+      "count": 17,
       "file": "inventory/used-audi-q4-e-tron-part1.json",
       "models": [
         {
           "model": "Q4 e-tron",
-          "count": 18
+          "count": 17
         }
       ]
     },
@@ -405,12 +418,12 @@
       "make": "audi",
       "model": "Q4 e-tron",
       "shard": "part2",
-      "count": 17,
+      "count": 16,
       "file": "inventory/used-audi-q4-e-tron-part2.json",
       "models": [
         {
           "model": "Q4 e-tron",
-          "count": 17
+          "count": 16
         }
       ]
     },
@@ -603,19 +616,6 @@
     {
       "condition": "used",
       "make": "audi",
-      "model": "Q7 for salein Coquitlam",
-      "count": 1,
-      "file": "inventory/used-audi-q7-for-salein-coquitlam.json",
-      "models": [
-        {
-          "model": "Q7 for salein Coquitlam",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "audi",
       "model": "SQ7",
       "count": 11,
       "file": "inventory/used-audi-sq7.json",
@@ -629,12 +629,12 @@
     {
       "condition": "used",
       "make": "audi",
-      "model": "SQ5 for salein Mission",
+      "model": "Q7 for salein Coquitlam",
       "count": 1,
-      "file": "inventory/used-audi-sq5-for-salein-mission.json",
+      "file": "inventory/used-audi-q7-for-salein-coquitlam.json",
       "models": [
         {
-          "model": "SQ5 for salein Mission",
+          "model": "Q7 for salein Coquitlam",
           "count": 1
         }
       ]
@@ -642,13 +642,13 @@
     {
       "condition": "used",
       "make": "audi",
-      "model": "Q6 e-tron",
-      "count": 5,
-      "file": "inventory/used-audi-q6-e-tron.json",
+      "model": "SQ5 for salein Mission",
+      "count": 1,
+      "file": "inventory/used-audi-sq5-for-salein-mission.json",
       "models": [
         {
-          "model": "Q6 e-tron",
-          "count": 5
+          "model": "SQ5 for salein Mission",
+          "count": 1
         }
       ]
     },
@@ -694,13 +694,26 @@
     {
       "condition": "used",
       "make": "audi",
+      "model": "e-tron GT",
+      "count": 1,
+      "file": "inventory/used-audi-e-tron-gt.json",
+      "models": [
+        {
+          "model": "e-tron GT",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "audi",
       "model": "RS Q8",
-      "count": 24,
+      "count": 30,
       "file": "inventory/used-audi-rs-q8.json",
       "models": [
         {
           "model": "RS Q8",
-          "count": 24
+          "count": 30
         }
       ]
     },
@@ -792,19 +805,6 @@
         {
           "model": "R8 Spyder",
           "count": 14
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "audi",
-      "model": "Q4 E-tron for salein Abbotsford",
-      "count": 1,
-      "file": "inventory/used-audi-q4-e-tron-for-salein-abbotsford.json",
-      "models": [
-        {
-          "model": "Q4 E-tron for salein Abbotsford",
-          "count": 1
         }
       ]
     },
@@ -955,12 +955,12 @@
       "condition": "used",
       "make": "audi",
       "model": "RS 5 2.9T quattro 8sp Tiptronic Cpe",
-      "count": 9,
+      "count": 8,
       "file": "inventory/used-audi-rs-5-2-9t-quattro-8sp-tiptronic-cpe.json",
       "models": [
         {
           "model": "RS 5 2.9T quattro 8sp Tiptronic Cpe",
-          "count": 9
+          "count": 8
         }
       ]
     },
@@ -981,12 +981,12 @@
       "condition": "used",
       "make": "audi",
       "model": "Q5 for salein Maple Ridge",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-audi-q5-for-salein-maple-ridge.json",
       "models": [
         {
           "model": "Q5 for salein Maple Ridge",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -1020,11 +1020,24 @@
       "condition": "used",
       "make": "audi",
       "model": "Q5 for salein Kelowna",
-      "count": 2,
+      "count": 3,
       "file": "inventory/used-audi-q5-for-salein-kelowna.json",
       "models": [
         {
           "model": "Q5 for salein Kelowna",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "audi",
+      "model": "A4 for salein Kelowna",
+      "count": 2,
+      "file": "inventory/used-audi-a4-for-salein-kelowna.json",
+      "models": [
+        {
+          "model": "A4 for salein Kelowna",
           "count": 2
         }
       ]
@@ -1123,6 +1136,19 @@
     {
       "condition": "used",
       "make": "audi",
+      "model": "E-tron for salein Nanaimo",
+      "count": 1,
+      "file": "inventory/used-audi-e-tron-for-salein-nanaimo.json",
+      "models": [
+        {
+          "model": "E-tron for salein Nanaimo",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "audi",
       "model": "Q7 for salein Nanaimo",
       "count": 1,
       "file": "inventory/used-audi-q7-for-salein-nanaimo.json",
@@ -1149,12 +1175,12 @@
     {
       "condition": "used",
       "make": "audi",
-      "model": "e-tron",
+      "model": "Q4 E-tron for salein Nanaimo",
       "count": 1,
-      "file": "inventory/used-audi-e-tron.json",
+      "file": "inventory/used-audi-q4-e-tron-for-salein-nanaimo.json",
       "models": [
         {
-          "model": "e-tron",
+          "model": "Q4 E-tron for salein Nanaimo",
           "count": 1
         }
       ]
@@ -1168,6 +1194,19 @@
       "models": [
         {
           "model": "Q8",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "audi",
+      "model": "e-tron Sportback Technik Panoramic Sunroof Navigation",
+      "count": 1,
+      "file": "inventory/used-audi-e-tron-sportback-technik-panoramic-sunroof-navigation.json",
+      "models": [
+        {
+          "model": "e-tron Sportback Technik Panoramic Sunroof Navigation",
           "count": 1
         }
       ]

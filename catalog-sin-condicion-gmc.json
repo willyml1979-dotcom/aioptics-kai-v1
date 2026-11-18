@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-18T09:50:37+00:00",
+  "generated_at": "2026-11-18T15:50:38+00:00",
   "condition": "sin-condicion",
   "make": "gmc",
   "files": [
     {
       "condition": "sin-condicion",
       "make": "gmc",
-      "count": 3,
+      "count": 4,
       "file": "inventory/sin-condicion-gmc.json",
       "models": [
         {
@@ -19,6 +19,10 @@
         },
         {
           "model": "Sierra 3500 for salein British Columbia",
+          "count": 1
+        },
+        {
+          "model": "Yukon for salein British Columbia",
           "count": 1
         }
       ]

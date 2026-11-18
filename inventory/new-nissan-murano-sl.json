@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-18T09:50:37+00:00",
-  "snapshot": "2026-11-18T09:50:37+00:00",
+  "generated_at": "2026-11-18T15:50:38+00:00",
+  "snapshot": "2026-11-18T15:50:38+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "north-vancouver-nissan-infiniti-north-vancouver-5n1az3cs1sc117172",
@@ -21,12 +21,36 @@
       "listing_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/murano/2025-nissan-murano-id35783351",
       "dealer_url": "https://www.northvancouvernissan.ca/en/new-inventory/nissan/murano/2025-nissan-murano-id35783351?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-11-16T22:20:48",
-      "snapshot": "2026-11-17T20:22:52",
+      "snapshot": "2026-11-18T06:15:16",
       "go_url": "https://carwhisper.ca/go/north-vancouver-nissan-infiniti-north-vancouver-5n1az3cs1sc117172",
       "region": "Lower Mainland",
       "city": "North Vancouver",
       "province": "BC",
       "dealer_name": "North Vancouver Nissan / Infiniti North Vancouver"
+    },
+    {
+      "pub_id": "southside-nissan-ltd-5n1az3cs1sc117172",
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Murano SL",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "odometer_km": 7600,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "southside-nissan-ltd",
+      "vin": "5N1AZ3CS1SC117172",
+      "stock": "6732870",
+      "listing_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/murano/2025-nissan-murano-id35783351",
+      "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/murano/2025-nissan-murano-id35783351?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-18T04:44:02",
+      "snapshot": "2026-11-18T04:44:43",
+      "go_url": "https://carwhisper.ca/go/southside-nissan-ltd-5n1az3cs1sc117172",
+      "region": "Lower Mainland",
+      "city": "Vancouver",
+      "province": "BC",
+      "dealer_name": "Southside Nissan Ltd."
     }
   ]
 }

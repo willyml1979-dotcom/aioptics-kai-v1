@@ -1,14 +1,18 @@
 {
-  "generated_at": "2026-11-18T09:50:37+00:00",
+  "generated_at": "2026-11-18T15:50:38+00:00",
   "condition": "sin-condicion",
   "make": "ford",
   "files": [
     {
       "condition": "sin-condicion",
       "make": "ford",
-      "count": 10,
+      "count": 12,
       "file": "inventory/sin-condicion-ford.json",
       "models": [
+        {
+          "model": "Bronco",
+          "count": 1
+        },
         {
           "model": "Bronco Sport",
           "count": 2
@@ -19,7 +23,7 @@
         },
         {
           "model": "Escape",
-          "count": 1
+          "count": 2
         },
         {
           "model": "Explorer",

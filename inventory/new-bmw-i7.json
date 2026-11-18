@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-18T09:50:37+00:00",
-  "snapshot": "2026-11-18T09:50:37+00:00",
+  "generated_at": "2026-11-18T15:50:38+00:00",
+  "snapshot": "2026-11-18T15:50:38+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "park-shore-bmw-78601-487875",
@@ -28,6 +28,31 @@
       "city": "North Vancouver",
       "province": "BC",
       "dealer_name": "Park Shore BMW"
+    },
+    {
+      "pub_id": "bmw-victoria-mini-victoria-1791388-ontario-limited-72322-478299",
+      "year": 2026,
+      "make": "BMW",
+      "model": "i7",
+      "body_type": "sedan",
+      "drivetrain": "AWD",
+      "propulsion": "electric",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "price_cad": 157745.0,
+      "price_note": null,
+      "dealer_id": "bmw-victoria-mini-victoria-1791388-ontario-limited",
+      "stock": "72322-478299",
+      "listing_url": "https://www.bmwvictoria.ca/new/2026-BMW-i7.html",
+      "dealer_url": "https://www.bmwvictoria.ca/new/2026-BMW-i7.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-18T08:41:31",
+      "snapshot": "2026-11-18T08:46:08",
+      "go_url": "https://carwhisper.ca/go/bmw-victoria-mini-victoria-1791388-ontario-limited-72322-478299",
+      "region": "Vancouver Island",
+      "city": "Victoria",
+      "province": "BC",
+      "dealer_name": "BMW Victoria/MINI Victoria (1791388 Ontario Limited)"
     }
   ]
 }

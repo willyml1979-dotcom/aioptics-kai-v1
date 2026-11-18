@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T09:50:37+00:00",
+  "generated_at": "2026-11-18T15:50:38+00:00",
   "condition": "used",
   "make": "bmw",
   "files": [
@@ -91,12 +91,12 @@
       "make": "bmw",
       "model": "3 Series",
       "shard": "Lower Mainland",
-      "count": 28,
+      "count": 29,
       "file": "inventory/used-bmw-3-series-lower-mainland.json",
       "models": [
         {
           "model": "3 Series",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -282,12 +282,25 @@
       "make": "bmw",
       "model": "X5",
       "shard": "part3",
-      "count": 23,
+      "count": 22,
       "file": "inventory/used-bmw-x5-part3.json",
       "models": [
         {
           "model": "X5",
-          "count": 23
+          "count": 22
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "bmw",
+      "model": "X2",
+      "count": 10,
+      "file": "inventory/used-bmw-x2.json",
+      "models": [
+        {
+          "model": "X2",
+          "count": 10
         }
       ]
     },
@@ -314,19 +327,6 @@
         {
           "model": "330eBase",
           "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "bmw",
-      "model": "X2",
-      "count": 10,
-      "file": "inventory/used-bmw-x2.json",
-      "models": [
-        {
-          "model": "X2",
-          "count": 10
         }
       ]
     },
@@ -641,19 +641,6 @@
     {
       "condition": "used",
       "make": "bmw",
-      "model": "X3 for salein Abbotsford",
-      "count": 1,
-      "file": "inventory/used-bmw-x3-for-salein-abbotsford.json",
-      "models": [
-        {
-          "model": "X3 for salein Abbotsford",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "bmw",
       "model": "330i xDriveBase",
       "count": 2,
       "file": "inventory/used-bmw-330i-xdrivebase.json",
@@ -833,12 +820,12 @@
       "make": "bmw",
       "model": "iX",
       "shard": "part3",
-      "count": 22,
+      "count": 23,
       "file": "inventory/used-bmw-ix-part3.json",
       "models": [
         {
           "model": "iX",
-          "count": 22
+          "count": 23
         }
       ]
     },
@@ -940,12 +927,12 @@
       "make": "bmw",
       "model": "M3",
       "shard": "part1",
-      "count": 27,
+      "count": 28,
       "file": "inventory/used-bmw-m3-part1.json",
       "models": [
         {
           "model": "M3",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -967,13 +954,13 @@
       "condition": "used",
       "make": "bmw",
       "model": "M4",
-      "shard": "Lower Mainland",
-      "count": 32,
-      "file": "inventory/used-bmw-m4-lower-mainland.json",
+      "shard": "part1",
+      "count": 19,
+      "file": "inventory/used-bmw-m4-part1.json",
       "models": [
         {
           "model": "M4",
-          "count": 32
+          "count": 19
         }
       ]
     },
@@ -981,13 +968,13 @@
       "condition": "used",
       "make": "bmw",
       "model": "M4",
-      "shard": "sin-region",
-      "count": 3,
-      "file": "inventory/used-bmw-m4-sin-region.json",
+      "shard": "part2",
+      "count": 18,
+      "file": "inventory/used-bmw-m4-part2.json",
       "models": [
         {
           "model": "M4",
-          "count": 3
+          "count": 18
         }
       ]
     },
@@ -1086,12 +1073,12 @@
       "condition": "used",
       "make": "bmw",
       "model": "M8",
-      "count": 6,
+      "count": 1,
       "file": "inventory/used-bmw-m8.json",
       "models": [
         {
           "model": "M8",
-          "count": 6
+          "count": 1
         }
       ]
     },
@@ -1241,6 +1228,19 @@
     {
       "condition": "used",
       "make": "bmw",
+      "model": "2 Series Convertible xDrive",
+      "count": 1,
+      "file": "inventory/used-bmw-2-series-convertible-xdrive.json",
+      "models": [
+        {
+          "model": "2 Series Convertible xDrive",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "bmw",
       "model": "X3xDrive30i 4dr All-Wheel Drive Sports Activity Vehicle",
       "count": 1,
       "file": "inventory/used-bmw-x3xdrive30i-4dr-all-wheel-drive-sports-activity-vehicle.json",
@@ -1307,12 +1307,12 @@
       "condition": "used",
       "make": "bmw",
       "model": "M3 Competition",
-      "count": 5,
+      "count": 6,
       "file": "inventory/used-bmw-m3-competition.json",
       "models": [
         {
           "model": "M3 Competition",
-          "count": 5
+          "count": 6
         }
       ]
     },
@@ -1333,12 +1333,12 @@
       "condition": "used",
       "make": "bmw",
       "model": "X5 for salein Kelowna",
-      "count": 4,
+      "count": 5,
       "file": "inventory/used-bmw-x5-for-salein-kelowna.json",
       "models": [
         {
           "model": "X5 for salein Kelowna",
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -1346,12 +1346,12 @@
       "condition": "used",
       "make": "bmw",
       "model": "X3 for salein Kelowna",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-bmw-x3-for-salein-kelowna.json",
       "models": [
         {
           "model": "X3 for salein Kelowna",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -1494,6 +1494,19 @@
       "models": [
         {
           "model": "i4 for salein Victoria",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "bmw",
+      "model": "M3 for salein Nanaimo",
+      "count": 1,
+      "file": "inventory/used-bmw-m3-for-salein-nanaimo.json",
+      "models": [
+        {
+          "model": "M3 for salein Nanaimo",
           "count": 1
         }
       ]

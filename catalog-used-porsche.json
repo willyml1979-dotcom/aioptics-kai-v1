@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T09:50:37+00:00",
+  "generated_at": "2026-11-18T15:50:38+00:00",
   "condition": "used",
   "make": "porsche",
   "files": [
@@ -76,7 +76,7 @@
       "make": "porsche",
       "model": "Macan",
       "shard": "part4",
-      "count": 25,
+      "count": 26,
       "file": "inventory/used-porsche-macan-part4.json",
       "models": [
         {
@@ -85,7 +85,7 @@
         },
         {
           "model": "Macan",
-          "count": 24
+          "count": 25
         }
       ]
     },
@@ -94,12 +94,12 @@
       "make": "porsche",
       "model": "Cayenne",
       "shard": "part1",
-      "count": 30,
+      "count": 28,
       "file": "inventory/used-porsche-cayenne-part1.json",
       "models": [
         {
           "model": "Cayenne",
-          "count": 30
+          "count": 28
         }
       ]
     },
@@ -108,12 +108,12 @@
       "make": "porsche",
       "model": "Cayenne",
       "shard": "part2",
-      "count": 30,
+      "count": 28,
       "file": "inventory/used-porsche-cayenne-part2.json",
       "models": [
         {
           "model": "Cayenne",
-          "count": 30
+          "count": 28
         }
       ]
     },
@@ -122,12 +122,12 @@
       "make": "porsche",
       "model": "Cayenne",
       "shard": "part3",
-      "count": 28,
+      "count": 27,
       "file": "inventory/used-porsche-cayenne-part3.json",
       "models": [
         {
           "model": "Cayenne",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -339,19 +339,6 @@
       "models": [
         {
           "model": "911S",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "porsche",
-      "model": "Cayenne for salein Maple Ridge",
-      "count": 1,
-      "file": "inventory/used-porsche-cayenne-for-salein-maple-ridge.json",
-      "models": [
-        {
-          "model": "Cayenne for salein Maple Ridge",
           "count": 1
         }
       ]
