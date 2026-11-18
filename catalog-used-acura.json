@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T15:50:38+00:00",
+  "generated_at": "2026-11-18T21:50:39+00:00",
   "condition": "used",
   "make": "acura",
   "files": [
@@ -7,12 +7,12 @@
       "condition": "used",
       "make": "acura",
       "model": "ILX",
-      "count": 5,
+      "count": 4,
       "file": "inventory/used-acura-ilx.json",
       "models": [
         {
           "model": "ILX",
-          "count": 5
+          "count": 4
         }
       ]
     },
@@ -34,12 +34,12 @@
       "make": "acura",
       "model": "RDX",
       "shard": "part1",
-      "count": 29,
+      "count": 30,
       "file": "inventory/used-acura-rdx-part1.json",
       "models": [
         {
           "model": "RDX",
-          "count": 29
+          "count": 30
         }
       ]
     },
@@ -48,12 +48,12 @@
       "make": "acura",
       "model": "RDX",
       "shard": "part2",
-      "count": 29,
+      "count": 30,
       "file": "inventory/used-acura-rdx-part2.json",
       "models": [
         {
           "model": "RDX",
-          "count": 29
+          "count": 30
         }
       ]
     },
@@ -62,12 +62,12 @@
       "make": "acura",
       "model": "RDX",
       "shard": "part3",
-      "count": 29,
+      "count": 30,
       "file": "inventory/used-acura-rdx-part3.json",
       "models": [
         {
           "model": "RDX",
-          "count": 29
+          "count": 30
         }
       ]
     },
@@ -76,12 +76,12 @@
       "make": "acura",
       "model": "RDX",
       "shard": "part4",
-      "count": 29,
+      "count": 30,
       "file": "inventory/used-acura-rdx-part4.json",
       "models": [
         {
           "model": "RDX",
-          "count": 29
+          "count": 30
         }
       ]
     },
@@ -90,12 +90,12 @@
       "make": "acura",
       "model": "RDX",
       "shard": "part5",
-      "count": 29,
+      "count": 30,
       "file": "inventory/used-acura-rdx-part5.json",
       "models": [
         {
           "model": "RDX",
-          "count": 29
+          "count": 30
         }
       ]
     },
@@ -104,12 +104,12 @@
       "make": "acura",
       "model": "RDX",
       "shard": "part6",
-      "count": 29,
+      "count": 30,
       "file": "inventory/used-acura-rdx-part6.json",
       "models": [
         {
           "model": "RDX",
-          "count": 29
+          "count": 30
         }
       ]
     },
@@ -118,12 +118,12 @@
       "make": "acura",
       "model": "RDX",
       "shard": "part7",
-      "count": 29,
+      "count": 30,
       "file": "inventory/used-acura-rdx-part7.json",
       "models": [
         {
           "model": "RDX",
-          "count": 29
+          "count": 30
         }
       ]
     },
@@ -132,12 +132,12 @@
       "make": "acura",
       "model": "RDX",
       "shard": "part8",
-      "count": 29,
+      "count": 30,
       "file": "inventory/used-acura-rdx-part8.json",
       "models": [
         {
           "model": "RDX",
-          "count": 29
+          "count": 30
         }
       ]
     },
@@ -298,12 +298,27 @@
       "condition": "used",
       "make": "acura",
       "model": "TLX",
+      "shard": "Lower Mainland",
       "count": 33,
-      "file": "inventory/used-acura-tlx.json",
+      "file": "inventory/used-acura-tlx-lower-mainland.json",
       "models": [
         {
           "model": "TLX",
           "count": 33
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "acura",
+      "model": "TLX",
+      "shard": "sin-region",
+      "count": 5,
+      "file": "inventory/used-acura-tlx-sin-region.json",
+      "models": [
+        {
+          "model": "TLX",
+          "count": 5
         }
       ]
     },
@@ -317,19 +332,6 @@
         {
           "model": "RDXBase",
           "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "acura",
-      "model": "MDXElite AWD",
-      "count": 1,
-      "file": "inventory/used-acura-mdxelite-awd.json",
-      "models": [
-        {
-          "model": "MDXElite AWD",
-          "count": 1
         }
       ]
     },
@@ -406,13 +408,13 @@
       "condition": "used",
       "make": "acura",
       "model": "ADX",
-      "shard": "Lower Mainland",
-      "count": 31,
-      "file": "inventory/used-acura-adx-lower-mainland.json",
+      "shard": "part1",
+      "count": 21,
+      "file": "inventory/used-acura-adx-part1.json",
       "models": [
         {
           "model": "ADX",
-          "count": 31
+          "count": 21
         }
       ]
     },
@@ -420,55 +422,13 @@
       "condition": "used",
       "make": "acura",
       "model": "ADX",
-      "shard": "Norte/Cariboo",
-      "count": 1,
-      "file": "inventory/used-acura-adx-norte-cariboo.json",
+      "shard": "part2",
+      "count": 20,
+      "file": "inventory/used-acura-adx-part2.json",
       "models": [
         {
           "model": "ADX",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "acura",
-      "model": "ADX",
-      "shard": "Okanagan",
-      "count": 1,
-      "file": "inventory/used-acura-adx-okanagan.json",
-      "models": [
-        {
-          "model": "ADX",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "acura",
-      "model": "ADX",
-      "shard": "Vancouver Island",
-      "count": 3,
-      "file": "inventory/used-acura-adx-vancouver-island.json",
-      "models": [
-        {
-          "model": "ADX",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "acura",
-      "model": "ADX",
-      "shard": "sin-region",
-      "count": 3,
-      "file": "inventory/used-acura-adx-sin-region.json",
-      "models": [
-        {
-          "model": "ADX",
-          "count": 3
+          "count": 20
         }
       ]
     },
@@ -579,6 +539,19 @@
     {
       "condition": "used",
       "make": "acura",
+      "model": "ILX for salein Kelowna",
+      "count": 3,
+      "file": "inventory/used-acura-ilx-for-salein-kelowna.json",
+      "models": [
+        {
+          "model": "ILX for salein Kelowna",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "acura",
       "model": "TLX for salein Kelowna",
       "count": 4,
       "file": "inventory/used-acura-tlx-for-salein-kelowna.json",
@@ -586,19 +559,6 @@
         {
           "model": "TLX for salein Kelowna",
           "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "acura",
-      "model": "ILX for salein Kelowna",
-      "count": 2,
-      "file": "inventory/used-acura-ilx-for-salein-kelowna.json",
-      "models": [
-        {
-          "model": "ILX for salein Kelowna",
-          "count": 2
         }
       ]
     },

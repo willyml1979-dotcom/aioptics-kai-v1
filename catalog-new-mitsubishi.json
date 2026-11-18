@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T15:50:38+00:00",
+  "generated_at": "2026-11-18T21:50:39+00:00",
   "condition": "new",
   "make": "mitsubishi",
   "files": [
@@ -78,12 +78,12 @@
       "make": "mitsubishi",
       "model": "Eclipse Cross",
       "shard": "part1",
-      "count": 31,
+      "count": 25,
       "file": "inventory/new-mitsubishi-eclipse-cross-part1.json",
       "models": [
         {
           "model": "Eclipse Cross",
-          "count": 31
+          "count": 25
         }
       ]
     },
@@ -92,12 +92,12 @@
       "make": "mitsubishi",
       "model": "Eclipse Cross",
       "shard": "part2",
-      "count": 31,
+      "count": 25,
       "file": "inventory/new-mitsubishi-eclipse-cross-part2.json",
       "models": [
         {
           "model": "Eclipse Cross",
-          "count": 31
+          "count": 25
         }
       ]
     },
@@ -106,12 +106,12 @@
       "make": "mitsubishi",
       "model": "Eclipse Cross",
       "shard": "part3",
-      "count": 31,
+      "count": 25,
       "file": "inventory/new-mitsubishi-eclipse-cross-part3.json",
       "models": [
         {
           "model": "Eclipse Cross",
-          "count": 31
+          "count": 25
         }
       ]
     },
@@ -120,12 +120,26 @@
       "make": "mitsubishi",
       "model": "Eclipse Cross",
       "shard": "part4",
-      "count": 29,
+      "count": 25,
       "file": "inventory/new-mitsubishi-eclipse-cross-part4.json",
       "models": [
         {
           "model": "Eclipse Cross",
-          "count": 29
+          "count": 25
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mitsubishi",
+      "model": "Eclipse Cross",
+      "shard": "part5",
+      "count": 21,
+      "file": "inventory/new-mitsubishi-eclipse-cross-part5.json",
+      "models": [
+        {
+          "model": "Eclipse Cross",
+          "count": 21
         }
       ]
     },

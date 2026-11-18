@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T15:50:38+00:00",
+  "generated_at": "2026-11-18T21:50:39+00:00",
   "condition": "new",
   "make": "gmc",
   "files": [
@@ -36,12 +36,12 @@
       "make": "gmc",
       "model": "Terrain",
       "shard": "Norte/Cariboo",
-      "count": 27,
+      "count": 26,
       "file": "inventory/new-gmc-terrain-norte-cariboo.json",
       "models": [
         {
           "model": "Terrain",
-          "count": 27
+          "count": 26
         }
       ]
     },
@@ -78,12 +78,12 @@
       "make": "gmc",
       "model": "Terrain",
       "shard": "sin-region",
-      "count": 12,
+      "count": 13,
       "file": "inventory/new-gmc-terrain-sin-region.json",
       "models": [
         {
           "model": "Terrain",
-          "count": 12
+          "count": 13
         }
       ]
     },
@@ -190,12 +190,12 @@
       "make": "gmc",
       "model": "Sierra 1500",
       "shard": "part8",
-      "count": 28,
+      "count": 29,
       "file": "inventory/new-gmc-sierra-1500-part8.json",
       "models": [
         {
           "model": "Sierra 1500",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -232,12 +232,12 @@
       "make": "gmc",
       "model": "Canyon",
       "shard": "part3",
-      "count": 23,
+      "count": 22,
       "file": "inventory/new-gmc-canyon-part3.json",
       "models": [
         {
           "model": "Canyon",
-          "count": 23
+          "count": 22
         }
       ]
     },
@@ -452,12 +452,12 @@
       "condition": "new",
       "make": "gmc",
       "model": "Sierra",
-      "count": 8,
+      "count": 9,
       "file": "inventory/new-gmc-sierra.json",
       "models": [
         {
           "model": "Sierra",
-          "count": 8
+          "count": 9
         }
       ]
     },
@@ -477,65 +477,14 @@
     {
       "condition": "new",
       "make": "gmc",
-      "model": "Yukon 4WD 4dr Elevation",
-      "count": 3,
-      "file": "inventory/new-gmc-yukon-4wd-4dr-elevation.json",
+      "model": "Yukon",
+      "shard": "Kootenays",
+      "count": 1,
+      "file": "inventory/new-gmc-yukon-kootenays.json",
       "models": [
         {
-          "model": "Yukon 4WD 4dr Elevation",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "gmc",
-      "model": "Yukon XL 4WD 4dr Elevation",
-      "count": 4,
-      "file": "inventory/new-gmc-yukon-xl-4wd-4dr-elevation.json",
-      "models": [
-        {
-          "model": "Yukon XL 4WD 4dr Elevation",
-          "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "gmc",
-      "model": "HUMMER EV",
-      "count": 15,
-      "file": "inventory/new-gmc-hummer-ev.json",
-      "models": [
-        {
-          "model": "HUMMER EV",
-          "count": 15
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "gmc",
-      "model": "Savana Cargo",
-      "count": 11,
-      "file": "inventory/new-gmc-savana-cargo.json",
-      "models": [
-        {
-          "model": "Savana Cargo",
-          "count": 11
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "gmc",
-      "model": "Yukon XL",
-      "count": 31,
-      "file": "inventory/new-gmc-yukon-xl.json",
-      "models": [
-        {
-          "model": "Yukon XL",
-          "count": 31
+          "model": "Yukon",
+          "count": 1
         }
       ]
     },
@@ -558,12 +507,12 @@
       "make": "gmc",
       "model": "Yukon",
       "shard": "Norte/Cariboo",
-      "count": 9,
+      "count": 8,
       "file": "inventory/new-gmc-yukon-norte-cariboo.json",
       "models": [
         {
           "model": "Yukon",
-          "count": 9
+          "count": 8
         }
       ]
     },
@@ -600,12 +549,148 @@
       "make": "gmc",
       "model": "Yukon",
       "shard": "sin-region",
-      "count": 1,
+      "count": 2,
       "file": "inventory/new-gmc-yukon-sin-region.json",
       "models": [
         {
           "model": "Yukon",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Yukon 4WD 4dr Elevation",
+      "count": 2,
+      "file": "inventory/new-gmc-yukon-4wd-4dr-elevation.json",
+      "models": [
+        {
+          "model": "Yukon 4WD 4dr Elevation",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Yukon XL",
+      "shard": "Kootenays",
+      "count": 1,
+      "file": "inventory/new-gmc-yukon-xl-kootenays.json",
+      "models": [
+        {
+          "model": "Yukon XL",
           "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Yukon XL",
+      "shard": "Lower Mainland",
+      "count": 10,
+      "file": "inventory/new-gmc-yukon-xl-lower-mainland.json",
+      "models": [
+        {
+          "model": "Yukon XL",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Yukon XL",
+      "shard": "Norte/Cariboo",
+      "count": 5,
+      "file": "inventory/new-gmc-yukon-xl-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Yukon XL",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Yukon XL",
+      "shard": "Okanagan",
+      "count": 9,
+      "file": "inventory/new-gmc-yukon-xl-okanagan.json",
+      "models": [
+        {
+          "model": "Yukon XL",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Yukon XL",
+      "shard": "Vancouver Island",
+      "count": 5,
+      "file": "inventory/new-gmc-yukon-xl-vancouver-island.json",
+      "models": [
+        {
+          "model": "Yukon XL",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Yukon XL",
+      "shard": "sin-region",
+      "count": 3,
+      "file": "inventory/new-gmc-yukon-xl-sin-region.json",
+      "models": [
+        {
+          "model": "Yukon XL",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Yukon XL 4WD 4dr Elevation",
+      "count": 2,
+      "file": "inventory/new-gmc-yukon-xl-4wd-4dr-elevation.json",
+      "models": [
+        {
+          "model": "Yukon XL 4WD 4dr Elevation",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "HUMMER EV",
+      "count": 15,
+      "file": "inventory/new-gmc-hummer-ev.json",
+      "models": [
+        {
+          "model": "HUMMER EV",
+          "count": 15
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Savana Cargo",
+      "count": 11,
+      "file": "inventory/new-gmc-savana-cargo.json",
+      "models": [
+        {
+          "model": "Savana Cargo",
+          "count": 11
         }
       ]
     },
@@ -638,19 +723,6 @@
     {
       "condition": "new",
       "make": "gmc",
-      "model": "Sierra 3500",
-      "count": 1,
-      "file": "inventory/new-gmc-sierra-3500.json",
-      "models": [
-        {
-          "model": "Sierra 3500",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "gmc",
       "model": "Yukon XL for salein Smithers",
       "count": 1,
       "file": "inventory/new-gmc-yukon-xl-for-salein-smithers.json",
@@ -670,6 +742,19 @@
       "models": [
         {
           "model": "Sierra 1500 for salein Smithers",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
+      "model": "Yukon for salein Smithers",
+      "count": 1,
+      "file": "inventory/new-gmc-yukon-for-salein-smithers.json",
+      "models": [
+        {
+          "model": "Yukon for salein Smithers",
           "count": 1
         }
       ]
@@ -1119,6 +1204,19 @@
     {
       "condition": "new",
       "make": "gmc",
+      "model": "Yukon for salein 100 Mile House",
+      "count": 2,
+      "file": "inventory/new-gmc-yukon-for-salein-100-mile-house.json",
+      "models": [
+        {
+          "model": "Yukon for salein 100 Mile House",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "gmc",
       "model": "SIERRA 3500HDAT4 4X4 CREW CAB 8 FT. BOX SRW (4SB)",
       "count": 1,
       "file": "inventory/new-gmc-sierra-3500hdat4-4x4-crew-cab-8-ft-box-srw-4sb.json",
@@ -1190,19 +1288,6 @@
       "models": [
         {
           "model": "SIERRA 3500HDDENALI 4X4 CREW CAB 6.75 FT. BOX SRW (PEC)",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "gmc",
-      "model": "Yukon for salein 100 Mile House",
-      "count": 1,
-      "file": "inventory/new-gmc-yukon-for-salein-100-mile-house.json",
-      "models": [
-        {
-          "model": "Yukon for salein 100 Mile House",
           "count": 1
         }
       ]

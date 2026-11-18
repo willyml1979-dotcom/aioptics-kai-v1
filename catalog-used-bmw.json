@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T15:50:38+00:00",
+  "generated_at": "2026-11-18T21:50:39+00:00",
   "condition": "used",
   "make": "bmw",
   "files": [
@@ -77,12 +77,12 @@
       "make": "bmw",
       "model": "X3",
       "shard": "part5",
-      "count": 27,
+      "count": 28,
       "file": "inventory/used-bmw-x3-part5.json",
       "models": [
         {
           "model": "X3",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -188,12 +188,12 @@
       "make": "bmw",
       "model": "X1",
       "shard": "part3",
-      "count": 31,
+      "count": 32,
       "file": "inventory/used-bmw-x1-part3.json",
       "models": [
         {
           "model": "X1",
-          "count": 31
+          "count": 32
         }
       ]
     },
@@ -246,48 +246,6 @@
         {
           "model": "3 Series for salein Mission",
           "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "bmw",
-      "model": "X5",
-      "shard": "part1",
-      "count": 24,
-      "file": "inventory/used-bmw-x5-part1.json",
-      "models": [
-        {
-          "model": "X5",
-          "count": 24
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "bmw",
-      "model": "X5",
-      "shard": "part2",
-      "count": 24,
-      "file": "inventory/used-bmw-x5-part2.json",
-      "models": [
-        {
-          "model": "X5",
-          "count": 24
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "bmw",
-      "model": "X5",
-      "shard": "part3",
-      "count": 22,
-      "file": "inventory/used-bmw-x5-part3.json",
-      "models": [
-        {
-          "model": "X5",
-          "count": 22
         }
       ]
     },
@@ -359,6 +317,19 @@
     {
       "condition": "used",
       "make": "bmw",
+      "model": "X3 for salein Coquitlam",
+      "count": 1,
+      "file": "inventory/used-bmw-x3-for-salein-coquitlam.json",
+      "models": [
+        {
+          "model": "X3 for salein Coquitlam",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "bmw",
       "model": "2 Series",
       "count": 11,
       "file": "inventory/used-bmw-2-series.json",
@@ -411,6 +382,48 @@
         {
           "model": "4 Series Gran",
           "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "bmw",
+      "model": "X5",
+      "shard": "part1",
+      "count": 23,
+      "file": "inventory/used-bmw-x5-part1.json",
+      "models": [
+        {
+          "model": "X5",
+          "count": 23
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "bmw",
+      "model": "X5",
+      "shard": "part2",
+      "count": 23,
+      "file": "inventory/used-bmw-x5-part2.json",
+      "models": [
+        {
+          "model": "X5",
+          "count": 23
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "bmw",
+      "model": "X5",
+      "shard": "part3",
+      "count": 23,
+      "file": "inventory/used-bmw-x5-part3.json",
+      "models": [
+        {
+          "model": "X5",
+          "count": 23
         }
       ]
     },
@@ -560,6 +573,19 @@
     {
       "condition": "used",
       "make": "bmw",
+      "model": "M235i",
+      "count": 1,
+      "file": "inventory/used-bmw-m235i.json",
+      "models": [
+        {
+          "model": "M235i",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "bmw",
       "model": "X7",
       "count": 24,
       "file": "inventory/used-bmw-x7.json",
@@ -681,7 +707,7 @@
       "condition": "used",
       "make": "bmw",
       "model": "4 Series",
-      "count": 7,
+      "count": 8,
       "file": "inventory/used-bmw-4-series.json",
       "models": [
         {
@@ -690,7 +716,7 @@
         },
         {
           "model": "4 Series",
-          "count": 6
+          "count": 7
         }
       ]
     },
@@ -730,6 +756,48 @@
         {
           "model": "Z4",
           "count": 15
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "bmw",
+      "model": "iX",
+      "shard": "part1",
+      "count": 24,
+      "file": "inventory/used-bmw-ix-part1.json",
+      "models": [
+        {
+          "model": "iX",
+          "count": 24
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "bmw",
+      "model": "iX",
+      "shard": "part2",
+      "count": 24,
+      "file": "inventory/used-bmw-ix-part2.json",
+      "models": [
+        {
+          "model": "iX",
+          "count": 24
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "bmw",
+      "model": "iX",
+      "shard": "part3",
+      "count": 23,
+      "file": "inventory/used-bmw-ix-part3.json",
+      "models": [
+        {
+          "model": "iX",
+          "count": 23
         }
       ]
     },
@@ -784,48 +852,6 @@
         {
           "model": "530i",
           "count": 21
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "bmw",
-      "model": "iX",
-      "shard": "part1",
-      "count": 23,
-      "file": "inventory/used-bmw-ix-part1.json",
-      "models": [
-        {
-          "model": "iX",
-          "count": 23
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "bmw",
-      "model": "iX",
-      "shard": "part2",
-      "count": 23,
-      "file": "inventory/used-bmw-ix-part2.json",
-      "models": [
-        {
-          "model": "iX",
-          "count": 23
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "bmw",
-      "model": "iX",
-      "shard": "part3",
-      "count": 23,
-      "file": "inventory/used-bmw-ix-part3.json",
-      "models": [
-        {
-          "model": "iX",
-          "count": 23
         }
       ]
     },
@@ -955,12 +981,12 @@
       "make": "bmw",
       "model": "M4",
       "shard": "part1",
-      "count": 19,
+      "count": 18,
       "file": "inventory/used-bmw-m4-part1.json",
       "models": [
         {
           "model": "M4",
-          "count": 19
+          "count": 18
         }
       ]
     },
@@ -1007,12 +1033,38 @@
     {
       "condition": "used",
       "make": "bmw",
+      "model": "540i for salein North Vancouver",
+      "count": 1,
+      "file": "inventory/used-bmw-540i-for-salein-north-vancouver.json",
+      "models": [
+        {
+          "model": "540i for salein North Vancouver",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "bmw",
       "model": "i7",
       "count": 1,
       "file": "inventory/used-bmw-i7.json",
       "models": [
         {
           "model": "i7",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "bmw",
+      "model": "M850i for salein North Vancouver",
+      "count": 1,
+      "file": "inventory/used-bmw-m850i-for-salein-north-vancouver.json",
+      "models": [
+        {
+          "model": "M850i for salein North Vancouver",
           "count": 1
         }
       ]
@@ -1333,12 +1385,12 @@
       "condition": "used",
       "make": "bmw",
       "model": "X5 for salein Kelowna",
-      "count": 5,
+      "count": 4,
       "file": "inventory/used-bmw-x5-for-salein-kelowna.json",
       "models": [
         {
           "model": "X5 for salein Kelowna",
-          "count": 5
+          "count": 4
         }
       ]
     },
@@ -1416,6 +1468,19 @@
       "models": [
         {
           "model": "X5 for salein Duncan",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "bmw",
+      "model": "X1 for salein Courtenay",
+      "count": 1,
+      "file": "inventory/used-bmw-x1-for-salein-courtenay.json",
+      "models": [
+        {
+          "model": "X1 for salein Courtenay",
           "count": 1
         }
       ]

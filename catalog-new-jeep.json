@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T15:50:38+00:00",
+  "generated_at": "2026-11-18T21:50:39+00:00",
   "condition": "new",
   "make": "jeep",
   "files": [
@@ -8,16 +8,16 @@
       "make": "jeep",
       "model": "Compass",
       "shard": "part1",
-      "count": 30,
+      "count": 29,
       "file": "inventory/new-jeep-compass-part1.json",
       "models": [
         {
           "model": "COMPASS",
-          "count": 5
+          "count": 3
         },
         {
           "model": "Compass",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -26,16 +26,16 @@
       "make": "jeep",
       "model": "Compass",
       "shard": "part2",
-      "count": 30,
+      "count": 29,
       "file": "inventory/new-jeep-compass-part2.json",
       "models": [
         {
           "model": "COMPASS",
-          "count": 3
+          "count": 5
         },
         {
           "model": "Compass",
-          "count": 27
+          "count": 24
         }
       ]
     },
@@ -44,16 +44,16 @@
       "make": "jeep",
       "model": "Compass",
       "shard": "part3",
-      "count": 30,
+      "count": 29,
       "file": "inventory/new-jeep-compass-part3.json",
       "models": [
         {
           "model": "COMPASS",
-          "count": 7
+          "count": 5
         },
         {
           "model": "Compass",
-          "count": 23
+          "count": 24
         }
       ]
     },
@@ -62,12 +62,12 @@
       "make": "jeep",
       "model": "Compass",
       "shard": "part4",
-      "count": 30,
+      "count": 29,
       "file": "inventory/new-jeep-compass-part4.json",
       "models": [
         {
           "model": "Compass",
-          "count": 30
+          "count": 29
         }
       ]
     },
@@ -76,12 +76,12 @@
       "make": "jeep",
       "model": "Compass",
       "shard": "part5",
-      "count": 30,
+      "count": 29,
       "file": "inventory/new-jeep-compass-part5.json",
       "models": [
         {
           "model": "Compass",
-          "count": 30
+          "count": 29
         }
       ]
     },
@@ -90,12 +90,12 @@
       "make": "jeep",
       "model": "Compass",
       "shard": "part6",
-      "count": 26,
+      "count": 25,
       "file": "inventory/new-jeep-compass-part6.json",
       "models": [
         {
           "model": "Compass",
-          "count": 26
+          "count": 25
         }
       ]
     },
@@ -115,19 +115,6 @@
     {
       "condition": "new",
       "make": "jeep",
-      "model": "Compass Sport 4x4",
-      "count": 8,
-      "file": "inventory/new-jeep-compass-sport-4x4.json",
-      "models": [
-        {
-          "model": "Compass Sport 4x4",
-          "count": 8
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "jeep",
       "model": "Cherokee",
       "shard": "part1",
       "count": 31,
@@ -135,11 +122,11 @@
       "models": [
         {
           "model": "CHEROKEE",
-          "count": 4
+          "count": 1
         },
         {
           "model": "Cherokee",
-          "count": 27
+          "count": 30
         }
       ]
     },
@@ -254,7 +241,7 @@
       "make": "jeep",
       "model": "Cherokee",
       "shard": "part9",
-      "count": 30,
+      "count": 27,
       "file": "inventory/new-jeep-cherokee-part9.json",
       "models": [
         {
@@ -263,20 +250,7 @@
         },
         {
           "model": "Cherokee",
-          "count": 29
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "jeep",
-      "model": "Cherokee 4x4",
-      "count": 9,
-      "file": "inventory/new-jeep-cherokee-4x4.json",
-      "models": [
-        {
-          "model": "Cherokee 4x4",
-          "count": 9
+          "count": 26
         }
       ]
     },
@@ -385,7 +359,7 @@
       "make": "jeep",
       "model": "Wrangler",
       "shard": "part7",
-      "count": 22,
+      "count": 21,
       "file": "inventory/new-jeep-wrangler-part7.json",
       "models": [
         {
@@ -394,7 +368,7 @@
         },
         {
           "model": "Wrangler",
-          "count": 21
+          "count": 20
         }
       ]
     },
@@ -416,7 +390,7 @@
       "make": "jeep",
       "model": "Gladiator",
       "shard": "Kootenays",
-      "count": 7,
+      "count": 8,
       "file": "inventory/new-jeep-gladiator-kootenays.json",
       "models": [
         {
@@ -425,7 +399,7 @@
         },
         {
           "model": "Gladiator",
-          "count": 6
+          "count": 7
         }
       ]
     },
@@ -434,12 +408,12 @@
       "make": "jeep",
       "model": "Gladiator",
       "shard": "Lower Mainland",
-      "count": 8,
+      "count": 7,
       "file": "inventory/new-jeep-gladiator-lower-mainland.json",
       "models": [
         {
           "model": "Gladiator",
-          "count": 8
+          "count": 7
         }
       ]
     },
@@ -520,27 +494,14 @@
     {
       "condition": "new",
       "make": "jeep",
-      "model": "Gladiator Sport S 4x4",
-      "count": 9,
-      "file": "inventory/new-jeep-gladiator-sport-s-4x4.json",
-      "models": [
-        {
-          "model": "Gladiator Sport S 4x4",
-          "count": 9
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "jeep",
       "model": "Grand Cherokee",
       "shard": "part1",
-      "count": 28,
+      "count": 27,
       "file": "inventory/new-jeep-grand-cherokee-part1.json",
       "models": [
         {
           "model": "Grand Cherokee",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -549,7 +510,7 @@
       "make": "jeep",
       "model": "Grand Cherokee",
       "shard": "part2",
-      "count": 28,
+      "count": 27,
       "file": "inventory/new-jeep-grand-cherokee-part2.json",
       "models": [
         {
@@ -558,7 +519,7 @@
         },
         {
           "model": "Grand Cherokee",
-          "count": 27
+          "count": 26
         }
       ]
     },
@@ -567,7 +528,7 @@
       "make": "jeep",
       "model": "Grand Cherokee",
       "shard": "part3",
-      "count": 28,
+      "count": 27,
       "file": "inventory/new-jeep-grand-cherokee-part3.json",
       "models": [
         {
@@ -576,7 +537,7 @@
         },
         {
           "model": "Grand Cherokee",
-          "count": 27
+          "count": 26
         }
       ]
     },
@@ -585,7 +546,7 @@
       "make": "jeep",
       "model": "Grand Cherokee",
       "shard": "part4",
-      "count": 25,
+      "count": 26,
       "file": "inventory/new-jeep-grand-cherokee-part4.json",
       "models": [
         {
@@ -594,7 +555,7 @@
         },
         {
           "model": "Grand Cherokee",
-          "count": 24
+          "count": 25
         }
       ]
     },
@@ -603,7 +564,7 @@
       "make": "jeep",
       "model": "Grand Cherokee L",
       "shard": "part1",
-      "count": 29,
+      "count": 30,
       "file": "inventory/new-jeep-grand-cherokee-l-part1.json",
       "models": [
         {
@@ -612,7 +573,7 @@
         },
         {
           "model": "Grand Cherokee L",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -633,32 +594,6 @@
     {
       "condition": "new",
       "make": "jeep",
-      "model": "Grand Cherokee Laredo 4x4",
-      "count": 8,
-      "file": "inventory/new-jeep-grand-cherokee-laredo-4x4.json",
-      "models": [
-        {
-          "model": "Grand Cherokee Laredo 4x4",
-          "count": 8
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "jeep",
-      "model": "Grand Cherokee L Laredo 4x4",
-      "count": 6,
-      "file": "inventory/new-jeep-grand-cherokee-l-laredo-4x4.json",
-      "models": [
-        {
-          "model": "Grand Cherokee L Laredo 4x4",
-          "count": 6
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "jeep",
       "model": "Wrangler for salein Cranbrook",
       "count": 1,
       "file": "inventory/new-jeep-wrangler-for-salein-cranbrook.json",
@@ -672,12 +607,12 @@
     {
       "condition": "new",
       "make": "jeep",
-      "model": "Recon Moab 4x4",
+      "model": "Recon",
       "count": 6,
-      "file": "inventory/new-jeep-recon-moab-4x4.json",
+      "file": "inventory/new-jeep-recon.json",
       "models": [
         {
-          "model": "Recon Moab 4x4",
+          "model": "Recon",
           "count": 6
         }
       ]
@@ -702,39 +637,52 @@
     {
       "condition": "new",
       "make": "jeep",
-      "model": "Grand Wagoneer 4x4",
-      "count": 10,
-      "file": "inventory/new-jeep-grand-wagoneer-4x4.json",
-      "models": [
-        {
-          "model": "Grand Wagoneer 4x4",
-          "count": 10
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "jeep",
       "model": "Grand Wagoneer L",
-      "count": 6,
+      "count": 7,
       "file": "inventory/new-jeep-grand-wagoneer-l.json",
       "models": [
         {
           "model": "Grand Wagoneer L",
-          "count": 6
+          "count": 7
         }
       ]
     },
     {
       "condition": "new",
       "make": "jeep",
-      "model": "Grand Wagoneer L 4x4",
-      "count": 11,
-      "file": "inventory/new-jeep-grand-wagoneer-l-4x4.json",
+      "model": "Compass Sport 4x4",
+      "count": 7,
+      "file": "inventory/new-jeep-compass-sport-4x4.json",
       "models": [
         {
-          "model": "Grand Wagoneer L 4x4",
-          "count": 11
+          "model": "Compass Sport 4x4",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Cherokee 4x4",
+      "count": 8,
+      "file": "inventory/new-jeep-cherokee-4x4.json",
+      "models": [
+        {
+          "model": "Cherokee 4x4",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Gladiator Sport S 4x4",
+      "count": 8,
+      "file": "inventory/new-jeep-gladiator-sport-s-4x4.json",
+      "models": [
+        {
+          "model": "Gladiator Sport S 4x4",
+          "count": 8
         }
       ]
     },
@@ -758,6 +706,71 @@
     {
       "condition": "new",
       "make": "jeep",
+      "model": "Gladiator for salein Maple Ridge",
+      "count": 1,
+      "file": "inventory/new-jeep-gladiator-for-salein-maple-ridge.json",
+      "models": [
+        {
+          "model": "Gladiator for salein Maple Ridge",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Grand Cherokee Laredo 4x4",
+      "count": 7,
+      "file": "inventory/new-jeep-grand-cherokee-laredo-4x4.json",
+      "models": [
+        {
+          "model": "Grand Cherokee Laredo 4x4",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Grand Cherokee L Laredo 4x4",
+      "count": 5,
+      "file": "inventory/new-jeep-grand-cherokee-l-laredo-4x4.json",
+      "models": [
+        {
+          "model": "Grand Cherokee L Laredo 4x4",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Recon Moab 4x4",
+      "count": 5,
+      "file": "inventory/new-jeep-recon-moab-4x4.json",
+      "models": [
+        {
+          "model": "Recon Moab 4x4",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Grand Wagoneer 4x4",
+      "count": 8,
+      "file": "inventory/new-jeep-grand-wagoneer-4x4.json",
+      "models": [
+        {
+          "model": "Grand Wagoneer 4x4",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
       "model": "Recon for salein Maple Ridge",
       "count": 1,
       "file": "inventory/new-jeep-recon-for-salein-maple-ridge.json",
@@ -771,13 +784,26 @@
     {
       "condition": "new",
       "make": "jeep",
-      "model": "Recon",
-      "count": 5,
-      "file": "inventory/new-jeep-recon.json",
+      "model": "Grand Wagoneer L 4x4",
+      "count": 10,
+      "file": "inventory/new-jeep-grand-wagoneer-l-4x4.json",
       "models": [
         {
-          "model": "Recon",
-          "count": 5
+          "model": "Grand Wagoneer L 4x4",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Grand Cherokee for salein Prince George",
+      "count": 2,
+      "file": "inventory/new-jeep-grand-cherokee-for-salein-prince-george.json",
+      "models": [
+        {
+          "model": "Grand Cherokee for salein Prince George",
+          "count": 2
         }
       ]
     },
@@ -810,12 +836,12 @@
     {
       "condition": "new",
       "make": "jeep",
-      "model": "Grand Cherokee for salein Prince George",
+      "model": "Wrangler for salein Prince George",
       "count": 1,
-      "file": "inventory/new-jeep-grand-cherokee-for-salein-prince-george.json",
+      "file": "inventory/new-jeep-wrangler-for-salein-prince-george.json",
       "models": [
         {
-          "model": "Grand Cherokee for salein Prince George",
+          "model": "Wrangler for salein Prince George",
           "count": 1
         }
       ]
@@ -888,25 +914,25 @@
     {
       "condition": "new",
       "make": "jeep",
-      "model": "Gladiator for salein Kelowna",
-      "count": 1,
-      "file": "inventory/new-jeep-gladiator-for-salein-kelowna.json",
+      "model": "Grand Cherokee for salein Kelowna",
+      "count": 2,
+      "file": "inventory/new-jeep-grand-cherokee-for-salein-kelowna.json",
       "models": [
         {
-          "model": "Gladiator for salein Kelowna",
-          "count": 1
+          "model": "Grand Cherokee for salein Kelowna",
+          "count": 2
         }
       ]
     },
     {
       "condition": "new",
       "make": "jeep",
-      "model": "Grand Cherokee for salein Kelowna",
+      "model": "Gladiator for salein Kelowna",
       "count": 1,
-      "file": "inventory/new-jeep-grand-cherokee-for-salein-kelowna.json",
+      "file": "inventory/new-jeep-gladiator-for-salein-kelowna.json",
       "models": [
         {
-          "model": "Grand Cherokee for salein Kelowna",
+          "model": "Gladiator for salein Kelowna",
           "count": 1
         }
       ]

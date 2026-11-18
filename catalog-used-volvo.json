@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T15:50:38+00:00",
+  "generated_at": "2026-11-18T21:50:39+00:00",
   "condition": "used",
   "make": "volvo",
   "files": [
@@ -19,108 +19,12 @@
     {
       "condition": "used",
       "make": "volvo",
-      "model": "XC90",
-      "shard": "Lower Mainland",
-      "count": 23,
-      "file": "inventory/used-volvo-xc90-lower-mainland.json",
-      "models": [
-        {
-          "model": "XC90",
-          "count": 23
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volvo",
-      "model": "XC90",
-      "shard": "Norte/Cariboo",
+      "model": "XC90 for salein Coquitlam",
       "count": 1,
-      "file": "inventory/used-volvo-xc90-norte-cariboo.json",
+      "file": "inventory/used-volvo-xc90-for-salein-coquitlam.json",
       "models": [
         {
-          "model": "XC90",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volvo",
-      "model": "XC90",
-      "shard": "Okanagan",
-      "count": 5,
-      "file": "inventory/used-volvo-xc90-okanagan.json",
-      "models": [
-        {
-          "model": "XC90",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volvo",
-      "model": "XC90",
-      "shard": "Vancouver Island",
-      "count": 4,
-      "file": "inventory/used-volvo-xc90-vancouver-island.json",
-      "models": [
-        {
-          "model": "XC90",
-          "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volvo",
-      "model": "XC90",
-      "shard": "sin-region",
-      "count": 4,
-      "file": "inventory/used-volvo-xc90-sin-region.json",
-      "models": [
-        {
-          "model": "XC90",
-          "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volvo",
-      "model": "XC90 Hybrid",
-      "count": 1,
-      "file": "inventory/used-volvo-xc90-hybrid.json",
-      "models": [
-        {
-          "model": "XC90 Hybrid",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volvo",
-      "model": "V90 Cross Country",
-      "count": 2,
-      "file": "inventory/used-volvo-v90-cross-country.json",
-      "models": [
-        {
-          "model": "V90 Cross Country",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volvo",
-      "model": "XC90T6 R-Design",
-      "count": 1,
-      "file": "inventory/used-volvo-xc90t6-r-design.json",
-      "models": [
-        {
-          "model": "XC90T6 R-Design",
+          "model": "XC90 for salein Coquitlam",
           "count": 1
         }
       ]
@@ -130,12 +34,12 @@
       "make": "volvo",
       "model": "XC60",
       "shard": "Lower Mainland",
-      "count": 29,
+      "count": 30,
       "file": "inventory/used-volvo-xc60-lower-mainland.json",
       "models": [
         {
           "model": "XC60",
-          "count": 29
+          "count": 30
         }
       ]
     },
@@ -192,6 +96,128 @@
         {
           "model": "XC60",
           "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volvo",
+      "model": "XC90",
+      "shard": "Lower Mainland",
+      "count": 21,
+      "file": "inventory/used-volvo-xc90-lower-mainland.json",
+      "models": [
+        {
+          "model": "XC90",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volvo",
+      "model": "XC90",
+      "shard": "Norte/Cariboo",
+      "count": 1,
+      "file": "inventory/used-volvo-xc90-norte-cariboo.json",
+      "models": [
+        {
+          "model": "XC90",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volvo",
+      "model": "XC90",
+      "shard": "Okanagan",
+      "count": 5,
+      "file": "inventory/used-volvo-xc90-okanagan.json",
+      "models": [
+        {
+          "model": "XC90",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volvo",
+      "model": "XC90",
+      "shard": "Vancouver Island",
+      "count": 3,
+      "file": "inventory/used-volvo-xc90-vancouver-island.json",
+      "models": [
+        {
+          "model": "XC90",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volvo",
+      "model": "XC90",
+      "shard": "sin-region",
+      "count": 4,
+      "file": "inventory/used-volvo-xc90-sin-region.json",
+      "models": [
+        {
+          "model": "XC90",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volvo",
+      "model": "XC90 for salein Mission",
+      "count": 1,
+      "file": "inventory/used-volvo-xc90-for-salein-mission.json",
+      "models": [
+        {
+          "model": "XC90 for salein Mission",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volvo",
+      "model": "XC90 Hybrid",
+      "count": 1,
+      "file": "inventory/used-volvo-xc90-hybrid.json",
+      "models": [
+        {
+          "model": "XC90 Hybrid",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volvo",
+      "model": "V90 Cross Country",
+      "count": 2,
+      "file": "inventory/used-volvo-v90-cross-country.json",
+      "models": [
+        {
+          "model": "V90 Cross Country",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volvo",
+      "model": "XC90T6 R-Design",
+      "count": 1,
+      "file": "inventory/used-volvo-xc90t6-r-design.json",
+      "models": [
+        {
+          "model": "XC90T6 R-Design",
+          "count": 1
         }
       ]
     },
@@ -406,12 +432,12 @@
       "condition": "used",
       "make": "volvo",
       "model": "XC60 Recharge",
-      "count": 5,
+      "count": 4,
       "file": "inventory/used-volvo-xc60-recharge.json",
       "models": [
         {
           "model": "XC60 Recharge",
-          "count": 5
+          "count": 4
         }
       ]
     },

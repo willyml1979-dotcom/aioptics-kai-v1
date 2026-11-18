@@ -1,32 +1,19 @@
 {
-  "generated_at": "2026-11-18T15:50:38+00:00",
+  "generated_at": "2026-11-18T21:50:39+00:00",
   "condition": "new",
   "make": "lexus",
   "files": [
     {
       "condition": "new",
       "make": "lexus",
-      "model": "IS",
-      "count": 30,
-      "file": "inventory/new-lexus-is.json",
-      "models": [
-        {
-          "model": "IS",
-          "count": 30
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "lexus",
       "model": "UX Hybrid",
       "shard": "part1",
-      "count": 32,
+      "count": 31,
       "file": "inventory/new-lexus-ux-hybrid-part1.json",
       "models": [
         {
           "model": "UX Hybrid",
-          "count": 32
+          "count": 31
         }
       ]
     },
@@ -144,6 +131,19 @@
     {
       "condition": "new",
       "make": "lexus",
+      "model": "IS",
+      "count": 29,
+      "file": "inventory/new-lexus-is.json",
+      "models": [
+        {
+          "model": "IS",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "lexus",
       "model": "NX Hybrid",
       "count": 30,
       "file": "inventory/new-lexus-nx-hybrid.json",
@@ -170,36 +170,17 @@
     {
       "condition": "new",
       "make": "lexus",
-      "model": "NX Plug-in Hybrid",
-      "shard": "part1",
-      "count": 17,
-      "file": "inventory/new-lexus-nx-plug-in-hybrid-part1.json",
+      "model": "NX Plug-In Hybrid",
+      "count": 32,
+      "file": "inventory/new-lexus-nx-plug-in-hybrid.json",
       "models": [
         {
           "model": "NX Plug-In Hybrid",
-          "count": 15
+          "count": 28
         },
         {
           "model": "NX Plug-in Hybrid",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "lexus",
-      "model": "NX Plug-in Hybrid",
-      "shard": "part2",
-      "count": 17,
-      "file": "inventory/new-lexus-nx-plug-in-hybrid-part2.json",
-      "models": [
-        {
-          "model": "NX Plug-In Hybrid",
-          "count": 15
-        },
-        {
-          "model": "NX Plug-in Hybrid",
-          "count": 2
+          "count": 4
         }
       ]
     },
@@ -354,12 +335,12 @@
       "condition": "new",
       "make": "lexus",
       "model": "GX",
-      "count": 7,
+      "count": 5,
       "file": "inventory/new-lexus-gx.json",
       "models": [
         {
           "model": "GX",
-          "count": 7
+          "count": 5
         }
       ]
     },

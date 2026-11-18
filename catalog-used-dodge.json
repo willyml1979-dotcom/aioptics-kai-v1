@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T15:50:38+00:00",
+  "generated_at": "2026-11-18T21:50:39+00:00",
   "condition": "used",
   "make": "dodge",
   "files": [
@@ -195,12 +195,12 @@
       "make": "dodge",
       "model": "Durango",
       "shard": "Vancouver Island",
-      "count": 5,
+      "count": 4,
       "file": "inventory/used-dodge-durango-vancouver-island.json",
       "models": [
         {
           "model": "Durango",
-          "count": 5
+          "count": 4
         }
       ]
     },
@@ -239,7 +239,7 @@
       "condition": "used",
       "make": "dodge",
       "model": "CHARGER DAYTONA",
-      "count": 5,
+      "count": 4,
       "file": "inventory/used-dodge-charger-daytona.json",
       "models": [
         {
@@ -248,20 +248,7 @@
         },
         {
           "model": "Charger Daytona",
-          "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "Grand Caravan Passenger",
-      "count": 14,
-      "file": "inventory/used-dodge-grand-caravan-passenger.json",
-      "models": [
-        {
-          "model": "Grand Caravan Passenger",
-          "count": 14
+          "count": 3
         }
       ]
     },
@@ -283,12 +270,12 @@
       "make": "dodge",
       "model": "Charger",
       "shard": "Lower Mainland",
-      "count": 32,
+      "count": 33,
       "file": "inventory/used-dodge-charger-lower-mainland.json",
       "models": [
         {
           "model": "Charger",
-          "count": 32
+          "count": 33
         }
       ]
     },
@@ -351,14 +338,27 @@
     {
       "condition": "used",
       "make": "dodge",
+      "model": "Grand Caravan Passenger",
+      "count": 13,
+      "file": "inventory/used-dodge-grand-caravan-passenger.json",
+      "models": [
+        {
+          "model": "Grand Caravan Passenger",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
       "model": "Challenger",
       "shard": "Lower Mainland",
-      "count": 23,
+      "count": 22,
       "file": "inventory/used-dodge-challenger-lower-mainland.json",
       "models": [
         {
           "model": "Challenger",
-          "count": 23
+          "count": 22
         }
       ]
     },
@@ -381,12 +381,12 @@
       "make": "dodge",
       "model": "Challenger",
       "shard": "Okanagan",
-      "count": 6,
+      "count": 5,
       "file": "inventory/used-dodge-challenger-okanagan.json",
       "models": [
         {
           "model": "Challenger",
-          "count": 6
+          "count": 5
         }
       ]
     },
@@ -448,6 +448,19 @@
     {
       "condition": "used",
       "make": "dodge",
+      "model": "Challenger for salein Mission",
+      "count": 1,
+      "file": "inventory/used-dodge-challenger-for-salein-mission.json",
+      "models": [
+        {
+          "model": "Challenger for salein Mission",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
       "model": "Ram 3500",
       "count": 2,
       "file": "inventory/used-dodge-ram-3500.json",
@@ -475,12 +488,12 @@
       "condition": "used",
       "make": "dodge",
       "model": "Durango for salein British Columbia",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-dodge-durango-for-salein-british-columbia.json",
       "models": [
         {
           "model": "Durango for salein British Columbia",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -493,6 +506,19 @@
       "models": [
         {
           "model": "Challenger for salein Surrey",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "dodge",
+      "model": "Charger Daytona for salein Richmond",
+      "count": 1,
+      "file": "inventory/used-dodge-charger-daytona-for-salein-richmond.json",
+      "models": [
+        {
+          "model": "Charger Daytona for salein Richmond",
           "count": 1
         }
       ]
@@ -545,19 +571,6 @@
       "models": [
         {
           "model": "Durango GT HEMI Plus",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "dodge",
-      "model": "Challenger for salein Maple Ridge",
-      "count": 1,
-      "file": "inventory/used-dodge-challenger-for-salein-maple-ridge.json",
-      "models": [
-        {
-          "model": "Challenger for salein Maple Ridge",
           "count": 1
         }
       ]
@@ -735,12 +748,12 @@
       "condition": "used",
       "make": "dodge",
       "model": "Charger for salein Courtenay",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-dodge-charger-for-salein-courtenay.json",
       "models": [
         {
           "model": "Charger for salein Courtenay",
-          "count": 1
+          "count": 2
         }
       ]
     },

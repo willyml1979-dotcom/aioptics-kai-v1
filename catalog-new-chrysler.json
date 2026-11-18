@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T15:50:38+00:00",
+  "generated_at": "2026-11-18T21:50:39+00:00",
   "condition": "new",
   "make": "chrysler",
   "files": [
@@ -53,7 +53,7 @@
       "make": "chrysler",
       "model": "Pacifica",
       "shard": "Norte/Cariboo",
-      "count": 5,
+      "count": 3,
       "file": "inventory/new-chrysler-pacifica-norte-cariboo.json",
       "models": [
         {
@@ -62,7 +62,7 @@
         },
         {
           "model": "Pacifica",
-          "count": 4
+          "count": 2
         }
       ]
     },
@@ -175,6 +175,19 @@
         {
           "model": "Pacifica Hybrid Select 2WD",
           "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chrysler",
+      "model": "Pacifica for salein Prince George",
+      "count": 1,
+      "file": "inventory/new-chrysler-pacifica-for-salein-prince-george.json",
+      "models": [
+        {
+          "model": "Pacifica for salein Prince George",
+          "count": 1
         }
       ]
     },

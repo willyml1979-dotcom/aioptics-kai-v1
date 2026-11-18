@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T15:50:38+00:00",
+  "generated_at": "2026-11-18T21:50:39+00:00",
   "condition": "new",
   "make": "chevrolet",
   "files": [
@@ -280,12 +280,12 @@
       "make": "chevrolet",
       "model": "Equinox",
       "shard": "part5",
-      "count": 24,
+      "count": 25,
       "file": "inventory/new-chevrolet-equinox-part5.json",
       "models": [
         {
           "model": "Equinox",
-          "count": 24
+          "count": 25
         }
       ]
     },
@@ -350,12 +350,12 @@
       "make": "chevrolet",
       "model": "Bolt",
       "shard": "part5",
-      "count": 25,
+      "count": 26,
       "file": "inventory/new-chevrolet-bolt-part5.json",
       "models": [
         {
           "model": "Bolt",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -840,12 +840,12 @@
       "make": "chevrolet",
       "model": "Silverado 1500",
       "shard": "part18",
-      "count": 26,
+      "count": 29,
       "file": "inventory/new-chevrolet-silverado-1500-part18.json",
       "models": [
         {
           "model": "Silverado 1500",
-          "count": 26
+          "count": 29
         }
       ]
     },
@@ -900,19 +900,6 @@
       "models": [
         {
           "model": "Traverse AWD 4dr LT",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "chevrolet",
-      "model": "Silverado 1500 Regular Cab Standard Box 2-Wheel Drive WT",
-      "count": 1,
-      "file": "inventory/new-chevrolet-silverado-1500-regular-cab-standard-box-2-wheel-drive-wt.json",
-      "models": [
-        {
-          "model": "Silverado 1500 Regular Cab Standard Box 2-Wheel Drive WT",
           "count": 1
         }
       ]
@@ -1115,12 +1102,12 @@
       "make": "chevrolet",
       "model": "Suburban",
       "shard": "Norte/Cariboo",
-      "count": 2,
+      "count": 1,
       "file": "inventory/new-chevrolet-suburban-norte-cariboo.json",
       "models": [
         {
           "model": "Suburban",
-          "count": 2
+          "count": 1
         }
       ]
     },
@@ -1157,12 +1144,12 @@
       "make": "chevrolet",
       "model": "Suburban",
       "shard": "sin-region",
-      "count": 29,
+      "count": 30,
       "file": "inventory/new-chevrolet-suburban-sin-region.json",
       "models": [
         {
           "model": "Suburban",
-          "count": 29
+          "count": 30
         }
       ]
     },
@@ -1170,63 +1157,11 @@
       "condition": "new",
       "make": "chevrolet",
       "model": "Suburban 2WD 4dr LS",
-      "count": 2,
+      "count": 1,
       "file": "inventory/new-chevrolet-suburban-2wd-4dr-ls.json",
       "models": [
         {
           "model": "Suburban 2WD 4dr LS",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "chevrolet",
-      "model": "Corvette Stingray Coupe 1LT",
-      "count": 2,
-      "file": "inventory/new-chevrolet-corvette-stingray-coupe-1lt.json",
-      "models": [
-        {
-          "model": "Corvette Stingray Coupe 1LT",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "chevrolet",
-      "model": "Corvette Convertible - Cabriolet Stingray Convertible 1LT",
-      "count": 2,
-      "file": "inventory/new-chevrolet-corvette-convertible-cabriolet-stingray-convertible-1lt.json",
-      "models": [
-        {
-          "model": "Corvette Convertible - Cabriolet Stingray Convertible 1LT",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "chevrolet",
-      "model": "Corvette Hybrid",
-      "count": 2,
-      "file": "inventory/new-chevrolet-corvette-hybrid.json",
-      "models": [
-        {
-          "model": "Corvette Hybrid",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "chevrolet",
-      "model": "Corvette Hybrid Grand Sport X Coupe 1LT",
-      "count": 1,
-      "file": "inventory/new-chevrolet-corvette-hybrid-grand-sport-x-coupe-1lt.json",
-      "models": [
-        {
-          "model": "Corvette Hybrid Grand Sport X Coupe 1LT",
           "count": 1
         }
       ]
@@ -1234,26 +1169,14 @@
     {
       "condition": "new",
       "make": "chevrolet",
-      "model": "Express Cargo",
-      "count": 3,
-      "file": "inventory/new-chevrolet-express-cargo.json",
+      "model": "Corvette",
+      "shard": "Kootenays",
+      "count": 1,
+      "file": "inventory/new-chevrolet-corvette-kootenays.json",
       "models": [
         {
-          "model": "Express Cargo",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "chevrolet",
-      "model": "Express Passenger",
-      "count": 2,
-      "file": "inventory/new-chevrolet-express-passenger.json",
-      "models": [
-        {
-          "model": "Express Passenger",
-          "count": 2
+          "model": "Corvette",
+          "count": 1
         }
       ]
     },
@@ -1318,12 +1241,64 @@
       "make": "chevrolet",
       "model": "Corvette",
       "shard": "sin-region",
-      "count": 22,
+      "count": 23,
       "file": "inventory/new-chevrolet-corvette-sin-region.json",
       "models": [
         {
           "model": "Corvette",
-          "count": 22
+          "count": 23
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Corvette Convertible - Cabriolet",
+      "count": 2,
+      "file": "inventory/new-chevrolet-corvette-convertible-cabriolet.json",
+      "models": [
+        {
+          "model": "Corvette Convertible - Cabriolet",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Corvette Hybrid",
+      "count": 3,
+      "file": "inventory/new-chevrolet-corvette-hybrid.json",
+      "models": [
+        {
+          "model": "Corvette Hybrid",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Express Cargo",
+      "count": 3,
+      "file": "inventory/new-chevrolet-express-cargo.json",
+      "models": [
+        {
+          "model": "Express Cargo",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Express Passenger",
+      "count": 2,
+      "file": "inventory/new-chevrolet-express-passenger.json",
+      "models": [
+        {
+          "model": "Express Passenger",
+          "count": 2
         }
       ]
     },
@@ -1884,6 +1859,19 @@
     {
       "condition": "new",
       "make": "chevrolet",
+      "model": "Silverado 3500HD 2WD Regular Cab Long Box Work",
+      "count": 1,
+      "file": "inventory/new-chevrolet-silverado-3500hd-2wd-regular-cab-long-box-work.json",
+      "models": [
+        {
+          "model": "Silverado 3500HD 2WD Regular Cab Long Box Work",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
       "model": "TRAVERSERS 4DR ALL-WHEEL DRIVE (2RS)",
       "count": 1,
       "file": "inventory/new-chevrolet-traversers-4dr-all-wheel-drive-2rs.json",
@@ -1929,6 +1917,19 @@
       "models": [
         {
           "model": "SILVERADO 1500HIGH COUNTRY 4X4 CREW CAB 6.6 FT. BOX (3LZ)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chevrolet",
+      "model": "Silverado 3500HD for salein 100 Mile House",
+      "count": 1,
+      "file": "inventory/new-chevrolet-silverado-3500hd-for-salein-100-mile-house.json",
+      "models": [
+        {
+          "model": "Silverado 3500HD for salein 100 Mile House",
           "count": 1
         }
       ]
@@ -2001,12 +2002,12 @@
     {
       "condition": "new",
       "make": "chevrolet",
-      "model": "Corvette Convertible - Cabriolet",
+      "model": "Corvette Convertible - Cabriolet Stingray Convertible 1LT",
       "count": 1,
-      "file": "inventory/new-chevrolet-corvette-convertible-cabriolet.json",
+      "file": "inventory/new-chevrolet-corvette-convertible-cabriolet-stingray-convertible-1lt.json",
       "models": [
         {
-          "model": "Corvette Convertible - Cabriolet",
+          "model": "Corvette Convertible - Cabriolet Stingray Convertible 1LT",
           "count": 1
         }
       ]

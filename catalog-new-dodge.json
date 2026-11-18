@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T15:50:38+00:00",
+  "generated_at": "2026-11-18T21:50:39+00:00",
   "condition": "new",
   "make": "dodge",
   "files": [
@@ -13,11 +13,11 @@
       "models": [
         {
           "model": "DURANGO",
-          "count": 3
+          "count": 2
         },
         {
           "model": "Durango",
-          "count": 24
+          "count": 25
         }
       ]
     },
@@ -30,8 +30,12 @@
       "file": "inventory/new-dodge-durango-part2.json",
       "models": [
         {
+          "model": "DURANGO",
+          "count": 1
+        },
+        {
           "model": "Durango",
-          "count": 27
+          "count": 26
         }
       ]
     },
@@ -111,19 +115,6 @@
     {
       "condition": "new",
       "make": "dodge",
-      "model": "Charger R/T 2-Door AWD",
-      "count": 8,
-      "file": "inventory/new-dodge-charger-r-t-2-door-awd.json",
-      "models": [
-        {
-          "model": "Charger R/T 2-Door AWD",
-          "count": 8
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "dodge",
       "model": "Hornet",
       "count": 1,
       "file": "inventory/new-dodge-hornet.json",
@@ -131,6 +122,19 @@
         {
           "model": "Hornet",
           "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "dodge",
+      "model": "Charger R/T 2-Door AWD",
+      "count": 7,
+      "file": "inventory/new-dodge-charger-r-t-2-door-awd.json",
+      "models": [
+        {
+          "model": "Charger R/T 2-Door AWD",
+          "count": 7
         }
       ]
     },
@@ -189,6 +193,19 @@
     {
       "condition": "new",
       "make": "dodge",
+      "model": "Durango for salein Prince George",
+      "count": 1,
+      "file": "inventory/new-dodge-durango-for-salein-prince-george.json",
+      "models": [
+        {
+          "model": "Durango for salein Prince George",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "dodge",
       "model": "Hornet Hybrid for salein Kelowna",
       "count": 1,
       "file": "inventory/new-dodge-hornet-hybrid-for-salein-kelowna.json",
@@ -216,12 +233,12 @@
       "condition": "new",
       "make": "dodge",
       "model": "Durango for salein Kelowna",
-      "count": 2,
+      "count": 3,
       "file": "inventory/new-dodge-durango-for-salein-kelowna.json",
       "models": [
         {
           "model": "Durango for salein Kelowna",
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -229,12 +246,12 @@
       "condition": "new",
       "make": "dodge",
       "model": "Charger for salein Kelowna",
-      "count": 1,
+      "count": 2,
       "file": "inventory/new-dodge-charger-for-salein-kelowna.json",
       "models": [
         {
           "model": "Charger for salein Kelowna",
-          "count": 1
+          "count": 2
         }
       ]
     },

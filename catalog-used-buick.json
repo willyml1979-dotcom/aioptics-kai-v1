@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T15:50:38+00:00",
+  "generated_at": "2026-11-18T21:50:39+00:00",
   "condition": "used",
   "make": "buick",
   "files": [
@@ -33,12 +33,12 @@
       "condition": "used",
       "make": "buick",
       "model": "Encore",
-      "count": 3,
+      "count": 4,
       "file": "inventory/used-buick-encore.json",
       "models": [
         {
           "model": "Encore",
-          "count": 3
+          "count": 4
         }
       ]
     },
@@ -103,12 +103,12 @@
       "make": "buick",
       "model": "Encore GX",
       "shard": "Vancouver Island",
-      "count": 10,
+      "count": 9,
       "file": "inventory/used-buick-encore-gx-vancouver-island.json",
       "models": [
         {
           "model": "Encore GX",
-          "count": 10
+          "count": 9
         }
       ]
     },
@@ -252,6 +252,19 @@
       "models": [
         {
           "model": "Encore GXAvenir 4dr All-Wheel Drive",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "buick",
+      "model": "Encore GX for salein Courtenay",
+      "count": 1,
+      "file": "inventory/used-buick-encore-gx-for-salein-courtenay.json",
+      "models": [
+        {
+          "model": "Encore GX for salein Courtenay",
           "count": 1
         }
       ]

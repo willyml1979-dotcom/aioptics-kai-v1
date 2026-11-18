@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-18T15:50:38+00:00",
-  "snapshot": "2026-11-18T15:50:38+00:00",
+  "generated_at": "2026-11-18T21:50:39+00:00",
+  "snapshot": "2026-11-18T21:50:39+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 15,
+  "count": 16,
   "vehicles": [
     {
       "pub_id": "signature-mazda-jm3kkchd4s1210374",
@@ -21,7 +21,7 @@
       "listing_url": "https://www.signaturemazda.com/used/2025-Mazda-CX_90_MHEV.html",
       "dealer_url": "https://www.signaturemazda.com/used/2025-Mazda-CX_90_MHEV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-26T02:26:39",
-      "snapshot": "2026-11-18T03:53:25",
+      "snapshot": "2026-11-18T12:35:14",
       "go_url": "https://carwhisper.ca/go/signature-mazda-jm3kkchd4s1210374",
       "region": "Lower Mainland",
       "city": "Richmond",
@@ -56,6 +56,31 @@
       "city": "Surrey",
       "province": "BC",
       "dealer_name": "Applewood Mazda Surrey"
+    },
+    {
+      "pub_id": "signature-mazda-75237-483114",
+      "year": 2026,
+      "make": "Mazda",
+      "model": "CX-90 MHEV",
+      "trim": "GS AWD",
+      "drivetrain": "AWD",
+      "propulsion": "hybrid",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "price_cad": 50190.0,
+      "price_note": null,
+      "dealer_id": "signature-mazda",
+      "stock": "75237-483114",
+      "listing_url": "https://www.signaturemazda.com/new/2026-Mazda-CX_90_MHEV.html",
+      "dealer_url": "https://www.signaturemazda.com/new/2026-Mazda-CX_90_MHEV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-18T12:43:32",
+      "snapshot": "2026-11-18T12:45:07",
+      "go_url": "https://carwhisper.ca/go/signature-mazda-75237-483114",
+      "region": "Lower Mainland",
+      "city": "Richmond",
+      "province": "BC",
+      "dealer_name": "Signature Mazda"
     },
     {
       "pub_id": "applewood-mazda-surrey-jm3kkdhd1t1420440",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T15:50:38+00:00",
+  "generated_at": "2026-11-18T21:50:39+00:00",
   "condition": "used",
   "make": "porsche",
   "files": [
@@ -189,12 +189,41 @@
       "condition": "used",
       "make": "porsche",
       "model": "Taycan",
-      "count": 31,
-      "file": "inventory/used-porsche-taycan.json",
+      "shard": "Lower Mainland",
+      "count": 30,
+      "file": "inventory/used-porsche-taycan-lower-mainland.json",
       "models": [
         {
           "model": "Taycan",
-          "count": 31
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "porsche",
+      "model": "Taycan",
+      "shard": "Vancouver Island",
+      "count": 1,
+      "file": "inventory/used-porsche-taycan-vancouver-island.json",
+      "models": [
+        {
+          "model": "Taycan",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "porsche",
+      "model": "Taycan",
+      "shard": "sin-region",
+      "count": 2,
+      "file": "inventory/used-porsche-taycan-sin-region.json",
+      "models": [
+        {
+          "model": "Taycan",
+          "count": 2
         }
       ]
     },
@@ -242,12 +271,12 @@
       "make": "porsche",
       "model": "911",
       "shard": "part1",
-      "count": 24,
+      "count": 23,
       "file": "inventory/used-porsche-911-part1.json",
       "models": [
         {
           "model": "911",
-          "count": 24
+          "count": 23
         }
       ]
     },
@@ -262,6 +291,19 @@
         {
           "model": "911",
           "count": 23
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "porsche",
+      "model": "911 for salein Chilliwack",
+      "count": 1,
+      "file": "inventory/used-porsche-911-for-salein-chilliwack.json",
+      "models": [
+        {
+          "model": "911 for salein Chilliwack",
+          "count": 1
         }
       ]
     },

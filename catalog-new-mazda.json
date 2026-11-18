@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T15:50:38+00:00",
+  "generated_at": "2026-11-18T21:50:39+00:00",
   "condition": "new",
   "make": "mazda",
   "files": [
@@ -64,12 +64,12 @@
       "make": "mazda",
       "model": "Mazda3",
       "shard": "part5",
-      "count": 26,
+      "count": 28,
       "file": "inventory/new-mazda-mazda3-part5.json",
       "models": [
         {
           "model": "Mazda3",
-          "count": 26
+          "count": 28
         }
       ]
     },
@@ -78,12 +78,12 @@
       "make": "mazda",
       "model": "Mazda3 Sport",
       "shard": "part1",
-      "count": 33,
+      "count": 27,
       "file": "inventory/new-mazda-mazda3-sport-part1.json",
       "models": [
         {
           "model": "Mazda3 Sport",
-          "count": 33
+          "count": 27
         }
       ]
     },
@@ -92,12 +92,12 @@
       "make": "mazda",
       "model": "Mazda3 Sport",
       "shard": "part2",
-      "count": 33,
+      "count": 27,
       "file": "inventory/new-mazda-mazda3-sport-part2.json",
       "models": [
         {
           "model": "Mazda3 Sport",
-          "count": 33
+          "count": 27
         }
       ]
     },
@@ -106,12 +106,12 @@
       "make": "mazda",
       "model": "Mazda3 Sport",
       "shard": "part3",
-      "count": 33,
+      "count": 27,
       "file": "inventory/new-mazda-mazda3-sport-part3.json",
       "models": [
         {
           "model": "Mazda3 Sport",
-          "count": 33
+          "count": 27
         }
       ]
     },
@@ -120,12 +120,26 @@
       "make": "mazda",
       "model": "Mazda3 Sport",
       "shard": "part4",
-      "count": 32,
+      "count": 27,
       "file": "inventory/new-mazda-mazda3-sport-part4.json",
       "models": [
         {
           "model": "Mazda3 Sport",
-          "count": 32
+          "count": 27
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "mazda",
+      "model": "Mazda3 Sport",
+      "shard": "part5",
+      "count": 26,
+      "file": "inventory/new-mazda-mazda3-sport-part5.json",
+      "models": [
+        {
+          "model": "Mazda3 Sport",
+          "count": 26
         }
       ]
     },
@@ -203,12 +217,12 @@
       "make": "mazda",
       "model": "CX-30",
       "shard": "part5",
-      "count": 33,
+      "count": 32,
       "file": "inventory/new-mazda-cx-30-part5.json",
       "models": [
         {
           "model": "CX-30",
-          "count": 33
+          "count": 32
         }
       ]
     },
@@ -469,12 +483,12 @@
       "make": "mazda",
       "model": "CX-5",
       "shard": "part19",
-      "count": 33,
+      "count": 28,
       "file": "inventory/new-mazda-cx-5-part19.json",
       "models": [
         {
           "model": "CX-5",
-          "count": 33
+          "count": 28
         }
       ]
     },
@@ -494,26 +508,13 @@
     {
       "condition": "new",
       "make": "mazda",
-      "model": "CX-50",
-      "count": 1,
-      "file": "inventory/new-mazda-cx-50.json",
+      "model": "MX-5",
+      "count": 2,
+      "file": "inventory/new-mazda-mx-5.json",
       "models": [
         {
-          "model": "CX-50",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mazda",
-      "model": "MX-5 GS Manual",
-      "count": 1,
-      "file": "inventory/new-mazda-mx-5-gs-manual.json",
-      "models": [
-        {
-          "model": "MX-5 GS Manual",
-          "count": 1
+          "model": "MX-5",
+          "count": 2
         }
       ]
     },
@@ -522,12 +523,12 @@
       "make": "mazda",
       "model": "CX-90 MHEV",
       "shard": "Lower Mainland",
-      "count": 15,
+      "count": 16,
       "file": "inventory/new-mazda-cx-90-mhev-lower-mainland.json",
       "models": [
         {
           "model": "CX-90 MHEV",
-          "count": 15
+          "count": 16
         }
       ]
     },
@@ -563,13 +564,13 @@
       "condition": "new",
       "make": "mazda",
       "model": "CX-90 PHEV",
-      "shard": "Lower Mainland",
-      "count": 32,
-      "file": "inventory/new-mazda-cx-90-phev-lower-mainland.json",
+      "shard": "part1",
+      "count": 28,
+      "file": "inventory/new-mazda-cx-90-phev-part1.json",
       "models": [
         {
           "model": "CX-90 PHEV",
-          "count": 32
+          "count": 28
         }
       ]
     },
@@ -577,79 +578,25 @@
       "condition": "new",
       "make": "mazda",
       "model": "CX-90 PHEV",
-      "shard": "Okanagan",
-      "count": 3,
-      "file": "inventory/new-mazda-cx-90-phev-okanagan.json",
+      "shard": "part2",
+      "count": 28,
+      "file": "inventory/new-mazda-cx-90-phev-part2.json",
       "models": [
         {
           "model": "CX-90 PHEV",
-          "count": 3
+          "count": 28
         }
       ]
     },
     {
       "condition": "new",
       "make": "mazda",
-      "model": "CX-90 PHEV",
-      "shard": "Vancouver Island",
-      "count": 19,
-      "file": "inventory/new-mazda-cx-90-phev-vancouver-island.json",
-      "models": [
-        {
-          "model": "CX-90 PHEV",
-          "count": 19
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mazda",
-      "model": "CX-90 PHEV",
-      "shard": "sin-region",
+      "model": "MX-5 RF",
       "count": 1,
-      "file": "inventory/new-mazda-cx-90-phev-sin-region.json",
+      "file": "inventory/new-mazda-mx-5-rf.json",
       "models": [
         {
-          "model": "CX-90 PHEV",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mazda",
-      "model": "MX-5 RF GS-P Manual",
-      "count": 1,
-      "file": "inventory/new-mazda-mx-5-rf-gs-p-manual.json",
-      "models": [
-        {
-          "model": "MX-5 RF GS-P Manual",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mazda",
-      "model": "CX-50 Hybrid",
-      "count": 1,
-      "file": "inventory/new-mazda-cx-50-hybrid.json",
-      "models": [
-        {
-          "model": "CX-50 Hybrid",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mazda",
-      "model": "CX-90 MHEV GS AWD",
-      "count": 1,
-      "file": "inventory/new-mazda-cx-90-mhev-gs-awd.json",
-      "models": [
-        {
-          "model": "CX-90 MHEV GS AWD",
+          "model": "MX-5 RF",
           "count": 1
         }
       ]
@@ -729,12 +676,12 @@
       "make": "mazda",
       "model": "CX-90 Plug-In Hybrid",
       "shard": "part4",
-      "count": 23,
+      "count": 22,
       "file": "inventory/new-mazda-cx-90-plug-in-hybrid-part4.json",
       "models": [
         {
           "model": "CX-90 Plug-In Hybrid",
-          "count": 23
+          "count": 22
         }
       ]
     },
@@ -795,19 +742,6 @@
     {
       "condition": "new",
       "make": "mazda",
-      "model": "CX-90 PHEV GS AWD",
-      "count": 1,
-      "file": "inventory/new-mazda-cx-90-phev-gs-awd.json",
-      "models": [
-        {
-          "model": "CX-90 PHEV GS AWD",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mazda",
       "model": "CX-70 Mild Hybrid",
       "count": 29,
       "file": "inventory/new-mazda-cx-70-mild-hybrid.json",
@@ -815,19 +749,6 @@
         {
           "model": "CX-70 Mild Hybrid",
           "count": 29
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "mazda",
-      "model": "MX-5",
-      "count": 1,
-      "file": "inventory/new-mazda-mx-5.json",
-      "models": [
-        {
-          "model": "MX-5",
-          "count": 1
         }
       ]
     }

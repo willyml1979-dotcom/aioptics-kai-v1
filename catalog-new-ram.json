@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T15:50:38+00:00",
+  "generated_at": "2026-11-18T21:50:39+00:00",
   "condition": "new",
   "make": "ram",
   "files": [
@@ -330,12 +330,12 @@
       "make": "ram",
       "model": "1500",
       "shard": "part24",
-      "count": 15,
+      "count": 11,
       "file": "inventory/new-ram-1500-part24.json",
       "models": [
         {
           "model": "1500",
-          "count": 15
+          "count": 11
         }
       ]
     },
@@ -343,11 +343,25 @@
       "condition": "new",
       "make": "ram",
       "model": "1500 Tradesman 4x4 Quad Cab 6'4\" Box",
-      "count": 5,
+      "count": 6,
       "file": "inventory/new-ram-1500-tradesman-4x4-quad-cab-6-4-box.json",
       "models": [
         {
           "model": "1500 Tradesman 4x4 Quad Cab 6'4\" Box",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ram",
+      "model": "2500",
+      "shard": "Kootenays",
+      "count": 5,
+      "file": "inventory/new-ram-2500-kootenays.json",
+      "models": [
+        {
+          "model": "2500",
           "count": 5
         }
       ]
@@ -355,13 +369,56 @@
     {
       "condition": "new",
       "make": "ram",
-      "model": "2500 Tradesman 4x2 Reg Cab 8' Box",
-      "count": 10,
-      "file": "inventory/new-ram-2500-tradesman-4x2-reg-cab-8-box.json",
+      "model": "2500",
+      "shard": "Okanagan",
+      "count": 1,
+      "file": "inventory/new-ram-2500-okanagan.json",
       "models": [
         {
-          "model": "2500 Tradesman 4x2 Reg Cab 8' Box",
-          "count": 10
+          "model": "2500",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ram",
+      "model": "2500",
+      "shard": "Thompson-Okanagan",
+      "count": 1,
+      "file": "inventory/new-ram-2500-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "2500",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ram",
+      "model": "2500",
+      "shard": "Vancouver Island",
+      "count": 3,
+      "file": "inventory/new-ram-2500-vancouver-island.json",
+      "models": [
+        {
+          "model": "2500",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ram",
+      "model": "2500",
+      "shard": "sin-region",
+      "count": 28,
+      "file": "inventory/new-ram-2500-sin-region.json",
+      "models": [
+        {
+          "model": "2500",
+          "count": 28
         }
       ]
     },
@@ -426,109 +483,12 @@
       "make": "ram",
       "model": "3500",
       "shard": "part5",
-      "count": 26,
+      "count": 24,
       "file": "inventory/new-ram-3500-part5.json",
       "models": [
         {
           "model": "3500",
-          "count": 26
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "ram",
-      "model": "2500 for salein Cranbrook",
-      "count": 1,
-      "file": "inventory/new-ram-2500-for-salein-cranbrook.json",
-      "models": [
-        {
-          "model": "2500 for salein Cranbrook",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "ram",
-      "model": "2500",
-      "shard": "Kootenays",
-      "count": 4,
-      "file": "inventory/new-ram-2500-kootenays.json",
-      "models": [
-        {
-          "model": "2500",
-          "count": 4
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "ram",
-      "model": "2500",
-      "shard": "Norte/Cariboo",
-      "count": 3,
-      "file": "inventory/new-ram-2500-norte-cariboo.json",
-      "models": [
-        {
-          "model": "2500",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "ram",
-      "model": "2500",
-      "shard": "Okanagan",
-      "count": 1,
-      "file": "inventory/new-ram-2500-okanagan.json",
-      "models": [
-        {
-          "model": "2500",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "ram",
-      "model": "2500",
-      "shard": "Thompson-Okanagan",
-      "count": 1,
-      "file": "inventory/new-ram-2500-thompson-okanagan.json",
-      "models": [
-        {
-          "model": "2500",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "ram",
-      "model": "2500",
-      "shard": "Vancouver Island",
-      "count": 3,
-      "file": "inventory/new-ram-2500-vancouver-island.json",
-      "models": [
-        {
-          "model": "2500",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "ram",
-      "model": "2500",
-      "shard": "sin-region",
-      "count": 28,
-      "file": "inventory/new-ram-2500-sin-region.json",
-      "models": [
-        {
-          "model": "2500",
-          "count": 28
+          "count": 24
         }
       ]
     },
@@ -572,6 +532,19 @@
         {
           "model": "ProMaster Cutaway Tradesman 3500 Low Roof 136\" WB",
           "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ram",
+      "model": "1500 for salein Maple Ridge",
+      "count": 1,
+      "file": "inventory/new-ram-1500-for-salein-maple-ridge.json",
+      "models": [
+        {
+          "model": "1500 for salein Maple Ridge",
+          "count": 1
         }
       ]
     },
@@ -656,13 +629,13 @@
     {
       "condition": "new",
       "make": "ram",
-      "model": "4500 Chassis Tradesman 4x2 Reg Cab 144.5\" WB",
-      "count": 3,
-      "file": "inventory/new-ram-4500-chassis-tradesman-4x2-reg-cab-144-5-wb.json",
+      "model": "2500 Tradesman 4x2 Reg Cab 8' Box",
+      "count": 9,
+      "file": "inventory/new-ram-2500-tradesman-4x2-reg-cab-8-box.json",
       "models": [
         {
-          "model": "4500 Chassis Tradesman 4x2 Reg Cab 144.5\" WB",
-          "count": 3
+          "model": "2500 Tradesman 4x2 Reg Cab 8' Box",
+          "count": 9
         }
       ]
     },
@@ -670,12 +643,25 @@
       "condition": "new",
       "make": "ram",
       "model": "3500 Tradesman 4x2 Reg Cab 8' Box",
-      "count": 5,
+      "count": 6,
       "file": "inventory/new-ram-3500-tradesman-4x2-reg-cab-8-box.json",
       "models": [
         {
           "model": "3500 Tradesman 4x2 Reg Cab 8' Box",
-          "count": 5
+          "count": 6
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ram",
+      "model": "4500 Chassis Tradesman 4x2 Reg Cab 144.5\" WB",
+      "count": 3,
+      "file": "inventory/new-ram-4500-chassis-tradesman-4x2-reg-cab-144-5-wb.json",
+      "models": [
+        {
+          "model": "4500 Chassis Tradesman 4x2 Reg Cab 144.5\" WB",
+          "count": 3
         }
       ]
     },
@@ -760,12 +746,12 @@
     {
       "condition": "new",
       "make": "ram",
-      "model": "3500 for salein Williams Lake near Quesnel",
+      "model": "3500 for salein Maple Ridge",
       "count": 1,
-      "file": "inventory/new-ram-3500-for-salein-williams-lake-near-quesnel.json",
+      "file": "inventory/new-ram-3500-for-salein-maple-ridge.json",
       "models": [
         {
-          "model": "3500 for salein Williams Lake near Quesnel",
+          "model": "3500 for salein Maple Ridge",
           "count": 1
         }
       ]
@@ -773,12 +759,51 @@
     {
       "condition": "new",
       "make": "ram",
+      "model": "1500 for salein Prince George",
+      "count": 2,
+      "file": "inventory/new-ram-1500-for-salein-prince-george.json",
+      "models": [
+        {
+          "model": "1500 for salein Prince George",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ram",
       "model": "3500 for salein Prince George",
-      "count": 1,
+      "count": 2,
       "file": "inventory/new-ram-3500-for-salein-prince-george.json",
       "models": [
         {
           "model": "3500 for salein Prince George",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ram",
+      "model": "2500 for salein Prince George",
+      "count": 2,
+      "file": "inventory/new-ram-2500-for-salein-prince-george.json",
+      "models": [
+        {
+          "model": "2500 for salein Prince George",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ram",
+      "model": "3500 for salein Williams Lake near Quesnel",
+      "count": 1,
+      "file": "inventory/new-ram-3500-for-salein-williams-lake-near-quesnel.json",
+      "models": [
+        {
+          "model": "3500 for salein Williams Lake near Quesnel",
           "count": 1
         }
       ]
@@ -813,12 +838,12 @@
       "condition": "new",
       "make": "ram",
       "model": "1500 for salein Kelowna",
-      "count": 1,
+      "count": 2,
       "file": "inventory/new-ram-1500-for-salein-kelowna.json",
       "models": [
         {
           "model": "1500 for salein Kelowna",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -839,11 +864,24 @@
       "condition": "new",
       "make": "ram",
       "model": "3500 for salein Kelowna",
-      "count": 1,
+      "count": 2,
       "file": "inventory/new-ram-3500-for-salein-kelowna.json",
       "models": [
         {
           "model": "3500 for salein Kelowna",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "ram",
+      "model": "3500 for salein Courtenay",
+      "count": 1,
+      "file": "inventory/new-ram-3500-for-salein-courtenay.json",
+      "models": [
+        {
+          "model": "3500 for salein Courtenay",
           "count": 1
         }
       ]

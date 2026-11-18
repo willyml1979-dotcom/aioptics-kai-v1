@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-18T15:50:38+00:00",
+  "generated_at": "2026-11-18T21:50:39+00:00",
   "condition": "sin-condicion",
   "make": "toyota",
   "files": [
     {
       "condition": "sin-condicion",
       "make": "toyota",
-      "count": 11,
+      "count": 13,
       "file": "inventory/sin-condicion-toyota.json",
       "models": [
         {
@@ -14,8 +14,12 @@
           "count": 1
         },
         {
+          "model": "Camry",
+          "count": 1
+        },
+        {
           "model": "Corolla",
-          "count": 3
+          "count": 2
         },
         {
           "model": "Corolla Cross",
@@ -27,7 +31,7 @@
         },
         {
           "model": "RAV4",
-          "count": 1
+          "count": 3
         },
         {
           "model": "Sienna",

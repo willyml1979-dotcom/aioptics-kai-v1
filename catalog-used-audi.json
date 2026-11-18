@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T15:50:38+00:00",
+  "generated_at": "2026-11-18T21:50:39+00:00",
   "condition": "used",
   "make": "audi",
   "files": [
@@ -50,12 +50,12 @@
       "make": "audi",
       "model": "Q5",
       "shard": "part4",
-      "count": 25,
+      "count": 26,
       "file": "inventory/used-audi-q5-part4.json",
       "models": [
         {
           "model": "Q5",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -91,12 +91,12 @@
       "make": "audi",
       "model": "Q3",
       "shard": "part2",
-      "count": 26,
+      "count": 27,
       "file": "inventory/used-audi-q3-part2.json",
       "models": [
         {
           "model": "Q3",
-          "count": 26
+          "count": 27
         }
       ]
     },
@@ -123,19 +123,6 @@
         {
           "model": "Q7",
           "count": 21
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "audi",
-      "model": "Q5 for salein Richmond",
-      "count": 1,
-      "file": "inventory/used-audi-q5-for-salein-richmond.json",
-      "models": [
-        {
-          "model": "Q5 for salein Richmond",
-          "count": 1
         }
       ]
     },
@@ -188,6 +175,19 @@
         {
           "model": "SQ5",
           "count": 9
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "audi",
+      "model": "TT",
+      "count": 1,
+      "file": "inventory/used-audi-tt.json",
+      "models": [
+        {
+          "model": "TT",
+          "count": 1
         }
       ]
     },
@@ -337,6 +337,19 @@
     {
       "condition": "used",
       "make": "audi",
+      "model": "A3 SEDAN for salein Surrey",
+      "count": 1,
+      "file": "inventory/used-audi-a3-sedan-for-salein-surrey.json",
+      "models": [
+        {
+          "model": "A3 SEDAN for salein Surrey",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "audi",
       "model": "A7",
       "count": 7,
       "file": "inventory/used-audi-a7.json",
@@ -430,19 +443,6 @@
     {
       "condition": "used",
       "make": "audi",
-      "model": "RS 7",
-      "count": 1,
-      "file": "inventory/used-audi-rs-7.json",
-      "models": [
-        {
-          "model": "RS 7",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "audi",
       "model": "RS 3",
       "count": 4,
       "file": "inventory/used-audi-rs-3.json",
@@ -476,6 +476,19 @@
         {
           "model": "S5",
           "count": 14
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "audi",
+      "model": "RS 7 for salein Mission",
+      "count": 1,
+      "file": "inventory/used-audi-rs-7-for-salein-mission.json",
+      "models": [
+        {
+          "model": "RS 7 for salein Mission",
+          "count": 1
         }
       ]
     },
@@ -747,12 +760,12 @@
       "condition": "used",
       "make": "audi",
       "model": "RS 5",
-      "count": 5,
+      "count": 6,
       "file": "inventory/used-audi-rs-5.json",
       "models": [
         {
           "model": "RS 5",
-          "count": 5
+          "count": 6
         }
       ]
     },
@@ -785,12 +798,12 @@
     {
       "condition": "used",
       "make": "audi",
-      "model": "R8",
+      "model": "R8 for salein Mission",
       "count": 1,
-      "file": "inventory/used-audi-r8.json",
+      "file": "inventory/used-audi-r8-for-salein-mission.json",
       "models": [
         {
-          "model": "R8",
+          "model": "R8 for salein Mission",
           "count": 1
         }
       ]
@@ -1006,19 +1019,6 @@
     {
       "condition": "used",
       "make": "audi",
-      "model": "A5 for salein Kelowna",
-      "count": 1,
-      "file": "inventory/used-audi-a5-for-salein-kelowna.json",
-      "models": [
-        {
-          "model": "A5 for salein Kelowna",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "audi",
       "model": "Q5 for salein Kelowna",
       "count": 3,
       "file": "inventory/used-audi-q5-for-salein-kelowna.json",
@@ -1039,19 +1039,6 @@
         {
           "model": "A4 for salein Kelowna",
           "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "audi",
-      "model": "A5 for salein Duncan",
-      "count": 1,
-      "file": "inventory/used-audi-a5-for-salein-duncan.json",
-      "models": [
-        {
-          "model": "A5 for salein Duncan",
-          "count": 1
         }
       ]
     },

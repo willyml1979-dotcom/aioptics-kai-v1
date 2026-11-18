@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T15:50:38+00:00",
+  "generated_at": "2026-11-18T21:50:39+00:00",
   "condition": "new",
   "make": "bmw",
   "files": [
@@ -118,12 +118,12 @@
       "make": "bmw",
       "model": "X1",
       "shard": "part5",
-      "count": 28,
+      "count": 27,
       "file": "inventory/new-bmw-x1-part5.json",
       "models": [
         {
           "model": "X1",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -538,12 +538,12 @@
       "condition": "new",
       "make": "bmw",
       "model": "X6 Sports Activity",
-      "count": 4,
+      "count": 3,
       "file": "inventory/new-bmw-x6-sports-activity.json",
       "models": [
         {
           "model": "X6 Sports Activity",
-          "count": 4
+          "count": 3
         }
       ]
     },
@@ -563,6 +563,19 @@
     {
       "condition": "new",
       "make": "bmw",
+      "model": "X6",
+      "count": 20,
+      "file": "inventory/new-bmw-x6.json",
+      "models": [
+        {
+          "model": "X6",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "bmw",
       "model": "M3 M3",
       "count": 2,
       "file": "inventory/new-bmw-m3-m3.json",
@@ -570,19 +583,6 @@
         {
           "model": "M3 M3",
           "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "bmw",
-      "model": "X6",
-      "count": 19,
-      "file": "inventory/new-bmw-x6.json",
-      "models": [
-        {
-          "model": "X6",
-          "count": 19
         }
       ]
     },

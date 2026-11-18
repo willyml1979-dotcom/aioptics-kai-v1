@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-18T15:50:38+00:00",
-  "snapshot": "2026-11-18T15:50:38+00:00",
+  "generated_at": "2026-11-18T21:50:39+00:00",
+  "snapshot": "2026-11-18T21:50:39+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "comox-valley-dodge-2c3cdxhgxhh631197",
@@ -21,12 +21,35 @@
       "listing_url": "https://www.comoxvalleydodge.com/used/2017-Dodge-Charger.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2017-Dodge-Charger.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-11-18T00:05:23",
-      "snapshot": "2026-11-18T00:06:48",
+      "snapshot": "2026-11-18T09:26:03",
       "go_url": "https://carwhisper.ca/go/comox-valley-dodge-2c3cdxhgxhh631197",
       "region": "Vancouver Island",
       "city": "Courtenay",
       "province": "BC",
       "dealer_name": "Comox Valley Dodge"
+    },
+    {
+      "pub_id": "courtenay-nissan-2c3cdxmg0nh107235",
+      "year": 2022,
+      "make": "Dodge",
+      "model": "Charger for salein Courtenay",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 30000.0,
+      "price_note": null,
+      "dealer_id": "courtenay-nissan",
+      "vin": "2C3CDXMG0NH107235",
+      "stock": "N21573A",
+      "listing_url": "https://www.courtenaynissan.com/used/2022-Dodge-Charger.html",
+      "dealer_url": "https://www.courtenaynissan.com/used/2022-Dodge-Charger.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-18T09:12:56",
+      "snapshot": "2026-11-18T09:18:22",
+      "go_url": "https://carwhisper.ca/go/courtenay-nissan-2c3cdxmg0nh107235",
+      "region": "Vancouver Island",
+      "city": "Courtenay",
+      "province": "BC",
+      "dealer_name": "Courtenay Nissan"
     }
   ]
 }

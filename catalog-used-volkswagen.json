@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T15:50:38+00:00",
+  "generated_at": "2026-11-18T21:50:39+00:00",
   "condition": "used",
   "make": "volkswagen",
   "files": [
@@ -106,12 +106,12 @@
       "make": "volkswagen",
       "model": "Tiguan",
       "shard": "part8",
-      "count": 26,
+      "count": 29,
       "file": "inventory/used-volkswagen-tiguan-part8.json",
       "models": [
         {
           "model": "Tiguan",
-          "count": 26
+          "count": 29
         }
       ]
     },
@@ -133,12 +133,12 @@
       "make": "volkswagen",
       "model": "Jetta",
       "shard": "part1",
-      "count": 30,
+      "count": 31,
       "file": "inventory/used-volkswagen-jetta-part1.json",
       "models": [
         {
           "model": "Jetta",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -147,12 +147,12 @@
       "make": "volkswagen",
       "model": "Jetta",
       "shard": "part2",
-      "count": 30,
+      "count": 31,
       "file": "inventory/used-volkswagen-jetta-part2.json",
       "models": [
         {
           "model": "Jetta",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -161,12 +161,12 @@
       "make": "volkswagen",
       "model": "Jetta",
       "shard": "part3",
-      "count": 30,
+      "count": 29,
       "file": "inventory/used-volkswagen-jetta-part3.json",
       "models": [
         {
           "model": "Jetta",
-          "count": 30
+          "count": 29
         }
       ]
     },
@@ -230,12 +230,12 @@
       "make": "volkswagen",
       "model": "Atlas",
       "shard": "Norte/Cariboo",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-volkswagen-atlas-norte-cariboo.json",
       "models": [
         {
           "model": "Atlas",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -244,12 +244,12 @@
       "make": "volkswagen",
       "model": "Atlas",
       "shard": "Okanagan",
-      "count": 17,
+      "count": 16,
       "file": "inventory/used-volkswagen-atlas-okanagan.json",
       "models": [
         {
           "model": "Atlas",
-          "count": 17
+          "count": 16
         }
       ]
     },
@@ -258,12 +258,12 @@
       "make": "volkswagen",
       "model": "Atlas",
       "shard": "Thompson-Okanagan",
-      "count": 3,
+      "count": 4,
       "file": "inventory/used-volkswagen-atlas-thompson-okanagan.json",
       "models": [
         {
           "model": "Atlas",
-          "count": 3
+          "count": 4
         }
       ]
     },
@@ -298,13 +298,39 @@
     {
       "condition": "used",
       "make": "volkswagen",
+      "model": "Westfalia",
+      "count": 1,
+      "file": "inventory/used-volkswagen-westfalia.json",
+      "models": [
+        {
+          "model": "Westfalia",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volkswagen",
+      "model": "Westfalia for salein Chilliwack",
+      "count": 1,
+      "file": "inventory/used-volkswagen-westfalia-for-salein-chilliwack.json",
+      "models": [
+        {
+          "model": "Westfalia for salein Chilliwack",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "volkswagen",
       "model": "Beetle",
-      "count": 30,
+      "count": 29,
       "file": "inventory/used-volkswagen-beetle.json",
       "models": [
         {
           "model": "Beetle",
-          "count": 30
+          "count": 29
         }
       ]
     },
@@ -339,12 +365,12 @@
       "make": "volkswagen",
       "model": "Golf R",
       "shard": "Lower Mainland",
-      "count": 22,
+      "count": 21,
       "file": "inventory/used-volkswagen-golf-r-lower-mainland.json",
       "models": [
         {
           "model": "Golf R",
-          "count": 22
+          "count": 21
         }
       ]
     },
@@ -491,12 +517,12 @@
       "make": "volkswagen",
       "model": "Atlas Cross Sport",
       "shard": "part1",
-      "count": 22,
+      "count": 23,
       "file": "inventory/used-volkswagen-atlas-cross-sport-part1.json",
       "models": [
         {
           "model": "Atlas Cross Sport",
-          "count": 22
+          "count": 23
         }
       ]
     },
@@ -505,12 +531,12 @@
       "make": "volkswagen",
       "model": "Atlas Cross Sport",
       "shard": "part2",
-      "count": 22,
+      "count": 23,
       "file": "inventory/used-volkswagen-atlas-cross-sport-part2.json",
       "models": [
         {
           "model": "Atlas Cross Sport",
-          "count": 22
+          "count": 23
         }
       ]
     },
@@ -519,12 +545,12 @@
       "make": "volkswagen",
       "model": "Atlas Cross Sport",
       "shard": "part3",
-      "count": 22,
+      "count": 21,
       "file": "inventory/used-volkswagen-atlas-cross-sport-part3.json",
       "models": [
         {
           "model": "Atlas Cross Sport",
-          "count": 22
+          "count": 21
         }
       ]
     },

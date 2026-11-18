@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-18T15:50:38+00:00",
+  "generated_at": "2026-11-18T21:50:39+00:00",
   "condition": "sin-condicion",
   "make": "kia",
   "files": [
     {
       "condition": "sin-condicion",
       "make": "kia",
-      "count": 12,
+      "count": 14,
       "file": "inventory/sin-condicion-kia.json",
       "models": [
         {
@@ -30,11 +30,19 @@
           "count": 1
         },
         {
+          "model": "Seltos",
+          "count": 1
+        },
+        {
           "model": "Sorento",
           "count": 2
         },
         {
           "model": "Soul",
+          "count": 1
+        },
+        {
+          "model": "Sportage",
           "count": 1
         },
         {

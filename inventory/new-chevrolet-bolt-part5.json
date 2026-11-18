@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-18T15:50:38+00:00",
-  "snapshot": "2026-11-18T15:50:38+00:00",
+  "generated_at": "2026-11-18T21:50:39+00:00",
+  "snapshot": "2026-11-18T21:50:39+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 25,
+  "count": 26,
   "vehicles": [
     {
       "pub_id": "jenner-chevrolet-buick-gmc-ltd-1g1fy6ev0vf109078",
@@ -616,6 +616,30 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Sherwood Park Chevrolet"
+    },
+    {
+      "pub_id": "gustafson-s-central-chevrolet-gmc-buick-ltd-74201-481776",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Bolt",
+      "trim": "FWD 4dr LT",
+      "drivetrain": "FWD",
+      "propulsion": "electric",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "price_cad": 42699.0,
+      "price_note": null,
+      "dealer_id": "gustafson-s-central-chevrolet-gmc-buick-ltd",
+      "stock": "74201-481776",
+      "listing_url": "https://www.gustafsonscentralgm.ca/new/2027-Chevrolet-Bolt.html",
+      "dealer_url": "https://www.gustafsonscentralgm.ca/new/2027-Chevrolet-Bolt.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-18T12:43:57",
+      "snapshot": "2026-11-18T12:44:44",
+      "go_url": "https://carwhisper.ca/go/gustafson-s-central-chevrolet-gmc-buick-ltd-74201-481776",
+      "city": "100 Mile House",
+      "province": "BC",
+      "dealer_name": "Gustafson's Central Chevrolet GMC Buick Ltd."
     },
     {
       "pub_id": "gardner-chevrolet-buick-gmc-ltd-1g1fy6evxvf121139",

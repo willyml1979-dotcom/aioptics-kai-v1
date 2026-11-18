@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-18T15:50:38+00:00",
-  "snapshot": "2026-11-18T15:50:38+00:00",
+  "generated_at": "2026-11-18T21:50:39+00:00",
+  "snapshot": "2026-11-18T21:50:39+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 7,
+  "count": 8,
   "vehicles": [
     {
       "pub_id": "mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-salkp9fu4va405856",
@@ -206,6 +206,35 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "MCL Motor Cars 2010 / Aston Martin / Land Rover / Jaguar / Bentley Vancouver"
+    },
+    {
+      "pub_id": "jaguar-victoria-land-rover-victoria-salkp9e9xva402957",
+      "year": 2027,
+      "make": "Land Rover",
+      "model": "Range Rover Mild Hybrid",
+      "trim": "SE SWB",
+      "drivetrain": "4WD",
+      "propulsion": "hybrid",
+      "propulsion_source": "model_trim_name",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "odometer_km": 5,
+      "price_cad": 172925.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://img.sm360.ca/images/newcar/ca/2027/land-rover/range-rover-mhev/se-swb/suv/exteriorColors/2027_land-rover_range-rover_se_032_1ag.png",
+      "dealer_id": "jaguar-victoria-land-rover-victoria",
+      "vin": "SALKP9E9XVA402957",
+      "stock": "201663T",
+      "listing_url": "https://www.landrovervictoria.com/en/new-inventory/v/v/v-id39545394",
+      "dealer_url": "https://www.landrovervictoria.com/en/new-inventory/v/v/v-id39545394?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-18T14:15:09",
+      "snapshot": "2026-11-18T14:18:59",
+      "go_url": "https://carwhisper.ca/go/jaguar-victoria-land-rover-victoria-salkp9e9xva402957",
+      "region": "Vancouver Island",
+      "city": "Victoria",
+      "province": "BC",
+      "dealer_name": "Jaguar Victoria/Land Rover Victoria"
     }
   ]
 }
