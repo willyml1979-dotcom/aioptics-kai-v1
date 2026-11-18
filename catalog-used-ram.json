@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T03:50:36+00:00",
+  "generated_at": "2026-11-18T09:50:37+00:00",
   "condition": "used",
   "make": "ram",
   "files": [
@@ -134,25 +134,12 @@
       "make": "ram",
       "model": "1500",
       "shard": "part10",
-      "count": 26,
+      "count": 23,
       "file": "inventory/used-ram-1500-part10.json",
       "models": [
         {
           "model": "1500",
-          "count": 26
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ram",
-      "model": "3500Limited Longhorn 4x4 Crew Cab 8' Box",
-      "count": 1,
-      "file": "inventory/used-ram-3500limited-longhorn-4x4-crew-cab-8-box.json",
-      "models": [
-        {
-          "model": "3500Limited Longhorn 4x4 Crew Cab 8' Box",
-          "count": 1
+          "count": 23
         }
       ]
     },
@@ -179,12 +166,12 @@
       "make": "ram",
       "model": "1500 Classic",
       "shard": "Lower Mainland",
-      "count": 26,
+      "count": 25,
       "file": "inventory/used-ram-1500-classic-lower-mainland.json",
       "models": [
         {
           "model": "1500 Classic",
-          "count": 26
+          "count": 25
         }
       ]
     },
@@ -243,12 +230,12 @@
       "make": "ram",
       "model": "1500 Classic",
       "shard": "Vancouver Island",
-      "count": 8,
+      "count": 7,
       "file": "inventory/used-ram-1500-classic-vancouver-island.json",
       "models": [
         {
           "model": "1500 Classic",
-          "count": 8
+          "count": 7
         }
       ]
     },
@@ -275,12 +262,12 @@
       "make": "ram",
       "model": "3500",
       "shard": "Kootenays",
-      "count": 8,
+      "count": 11,
       "file": "inventory/used-ram-3500-kootenays.json",
       "models": [
         {
           "model": "3500",
-          "count": 8
+          "count": 11
         }
       ]
     },
@@ -289,12 +276,12 @@
       "make": "ram",
       "model": "3500",
       "shard": "Lower Mainland",
-      "count": 20,
+      "count": 18,
       "file": "inventory/used-ram-3500-lower-mainland.json",
       "models": [
         {
           "model": "3500",
-          "count": 20
+          "count": 18
         }
       ]
     },
@@ -345,12 +332,12 @@
       "make": "ram",
       "model": "3500",
       "shard": "Vancouver Island",
-      "count": 15,
+      "count": 14,
       "file": "inventory/used-ram-3500-vancouver-island.json",
       "models": [
         {
           "model": "3500",
-          "count": 15
+          "count": 14
         }
       ]
     },
@@ -365,32 +352,6 @@
         {
           "model": "3500",
           "count": 16
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ram",
-      "model": "3500Big Horn 4x4 Crew Cab 6'4 Box",
-      "count": 1,
-      "file": "inventory/used-ram-3500big-horn-4x4-crew-cab-6-4-box.json",
-      "models": [
-        {
-          "model": "3500Big Horn 4x4 Crew Cab 6'4 Box",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ram",
-      "model": "3500Big Horn 4x4 Crew Cab 8' Box",
-      "count": 1,
-      "file": "inventory/used-ram-3500big-horn-4x4-crew-cab-8-box.json",
-      "models": [
-        {
-          "model": "3500Big Horn 4x4 Crew Cab 8' Box",
-          "count": 1
         }
       ]
     },
@@ -469,12 +430,12 @@
       "make": "ram",
       "model": "2500",
       "shard": "Vancouver Island",
-      "count": 8,
+      "count": 7,
       "file": "inventory/used-ram-2500-vancouver-island.json",
       "models": [
         {
           "model": "2500",
-          "count": 8
+          "count": 7
         }
       ]
     },
@@ -593,6 +554,19 @@
     {
       "condition": "used",
       "make": "ram",
+      "model": "1500 Classic for salein Mission",
+      "count": 1,
+      "file": "inventory/used-ram-1500-classic-for-salein-mission.json",
+      "models": [
+        {
+          "model": "1500 Classic for salein Mission",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
       "model": "Promaster City",
       "count": 1,
       "file": "inventory/used-ram-promaster-city.json",
@@ -607,12 +581,12 @@
       "condition": "used",
       "make": "ram",
       "model": "1500 for salein British Columbia",
-      "count": 2,
+      "count": 3,
       "file": "inventory/used-ram-1500-for-salein-british-columbia.json",
       "models": [
         {
           "model": "1500 for salein British Columbia",
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -659,12 +633,12 @@
       "condition": "used",
       "make": "ram",
       "model": "ProMaster Cargo",
-      "count": 11,
+      "count": 12,
       "file": "inventory/used-ram-promaster-cargo.json",
       "models": [
         {
           "model": "ProMaster Cargo",
-          "count": 11
+          "count": 12
         }
       ]
     },
@@ -672,12 +646,53 @@
       "condition": "used",
       "make": "ram",
       "model": "RAM 1500 Classic Crew Cab 4x4 (DS)",
-      "count": 28,
-      "file": "inventory/used-ram-ram-1500-classic-crew-cab-4x4-ds.json",
+      "shard": "part1",
+      "count": 18,
+      "file": "inventory/used-ram-ram-1500-classic-crew-cab-4x4-ds-part1.json",
       "models": [
         {
           "model": "RAM 1500 Classic Crew Cab 4x4 (DS)",
-          "count": 28
+          "count": 18
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "RAM 1500 Classic Crew Cab 4x4 (DS)",
+      "shard": "part2",
+      "count": 18,
+      "file": "inventory/used-ram-ram-1500-classic-crew-cab-4x4-ds-part2.json",
+      "models": [
+        {
+          "model": "RAM 1500 Classic Crew Cab 4x4 (DS)",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500 for salein Surrey",
+      "count": 3,
+      "file": "inventory/used-ram-1500-for-salein-surrey.json",
+      "models": [
+        {
+          "model": "1500 for salein Surrey",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500 Classic for salein British Columbia",
+      "count": 1,
+      "file": "inventory/used-ram-1500-classic-for-salein-british-columbia.json",
+      "models": [
+        {
+          "model": "1500 Classic for salein British Columbia",
+          "count": 1
         }
       ]
     },
@@ -723,19 +738,6 @@
     {
       "condition": "used",
       "make": "ram",
-      "model": "1500 for salein Surrey",
-      "count": 2,
-      "file": "inventory/used-ram-1500-for-salein-surrey.json",
-      "models": [
-        {
-          "model": "1500 for salein Surrey",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ram",
       "model": "3500 for salein Surrey",
       "count": 1,
       "file": "inventory/used-ram-3500-for-salein-surrey.json",
@@ -763,12 +765,12 @@
       "condition": "used",
       "make": "ram",
       "model": "3500 for salein British Columbia",
-      "count": 4,
+      "count": 5,
       "file": "inventory/used-ram-3500-for-salein-british-columbia.json",
       "models": [
         {
           "model": "3500 for salein British Columbia",
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -788,12 +790,12 @@
     {
       "condition": "used",
       "make": "ram",
-      "model": "2500 for salein Abbotsford",
+      "model": "3500 for salein Abbotsford",
       "count": 1,
-      "file": "inventory/used-ram-2500-for-salein-abbotsford.json",
+      "file": "inventory/used-ram-3500-for-salein-abbotsford.json",
       "models": [
         {
-          "model": "2500 for salein Abbotsford",
+          "model": "3500 for salein Abbotsford",
           "count": 1
         }
       ]
@@ -833,19 +835,6 @@
       "models": [
         {
           "model": "1500Limited 4x4 Crew Cab",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ram",
-      "model": "1500 Big Horn 4x4 Crew Cab 5'7  Box",
-      "count": 1,
-      "file": "inventory/used-ram-1500-big-horn-4x4-crew-cab-5-7-box.json",
-      "models": [
-        {
-          "model": "1500 Big Horn 4x4 Crew Cab 5'7  Box",
           "count": 1
         }
       ]
@@ -932,12 +921,12 @@
       "condition": "used",
       "make": "ram",
       "model": "1500 Classic Quad Cab",
-      "count": 10,
+      "count": 9,
       "file": "inventory/used-ram-1500-classic-quad-cab.json",
       "models": [
         {
           "model": "1500 Classic Quad Cab",
-          "count": 10
+          "count": 9
         }
       ]
     },
@@ -1016,6 +1005,19 @@
         {
           "model": "1500 ClassicExpress",
           "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500 Sport",
+      "count": 9,
+      "file": "inventory/used-ram-1500-sport.json",
+      "models": [
+        {
+          "model": "1500 Sport",
+          "count": 9
         }
       ]
     },
@@ -1239,12 +1241,12 @@
       "condition": "used",
       "make": "ram",
       "model": "ProMaster Cargo Van for salein Courtenay",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-ram-promaster-cargo-van-for-salein-courtenay.json",
       "models": [
         {
           "model": "ProMaster Cargo Van for salein Courtenay",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -1257,6 +1259,19 @@
       "models": [
         {
           "model": "1500 Classic for salein Duncan",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "1500 Classic for salein Courtenay",
+      "count": 1,
+      "file": "inventory/used-ram-1500-classic-for-salein-courtenay.json",
+      "models": [
+        {
+          "model": "1500 Classic for salein Courtenay",
           "count": 1
         }
       ]
@@ -1316,6 +1331,19 @@
     {
       "condition": "used",
       "make": "ram",
+      "model": "3500 for salein Campbell River",
+      "count": 1,
+      "file": "inventory/used-ram-3500-for-salein-campbell-river.json",
+      "models": [
+        {
+          "model": "3500 for salein Campbell River",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
       "model": "1500 for salein Nanaimo",
       "count": 1,
       "file": "inventory/used-ram-1500-for-salein-nanaimo.json",
@@ -1342,6 +1370,19 @@
     {
       "condition": "used",
       "make": "ram",
+      "model": "ProMaster Cargo Van for salein Victoria",
+      "count": 1,
+      "file": "inventory/used-ram-promaster-cargo-van-for-salein-victoria.json",
+      "models": [
+        {
+          "model": "ProMaster Cargo Van for salein Victoria",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
       "model": "1500 for salein Courtenay",
       "count": 1,
       "file": "inventory/used-ram-1500-for-salein-courtenay.json",
@@ -1355,12 +1396,38 @@
     {
       "condition": "used",
       "make": "ram",
+      "model": "3500 for salein Victoria",
+      "count": 1,
+      "file": "inventory/used-ram-3500-for-salein-victoria.json",
+      "models": [
+        {
+          "model": "3500 for salein Victoria",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
       "model": "1500Limited Longhorn",
       "count": 1,
       "file": "inventory/used-ram-1500limited-longhorn.json",
       "models": [
         {
           "model": "1500Limited Longhorn",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "2500 for salein Courtenay",
+      "count": 1,
+      "file": "inventory/used-ram-2500-for-salein-courtenay.json",
+      "models": [
+        {
+          "model": "2500 for salein Courtenay",
           "count": 1
         }
       ]
@@ -1420,19 +1487,6 @@
     {
       "condition": "used",
       "make": "ram",
-      "model": "1500 TRX",
-      "count": 1,
-      "file": "inventory/used-ram-1500-trx.json",
-      "models": [
-        {
-          "model": "1500 TRX",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ram",
       "model": "1500Sport",
       "count": 1,
       "file": "inventory/used-ram-1500sport.json",
@@ -1453,19 +1507,6 @@
         {
           "model": "2500Big Horn",
           "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "ram",
-      "model": "1500 Sport",
-      "count": 8,
-      "file": "inventory/used-ram-1500-sport.json",
-      "models": [
-        {
-          "model": "1500 Sport",
-          "count": 8
         }
       ]
     },
@@ -1530,6 +1571,19 @@
       "models": [
         {
           "model": "3500Laramie 4x4 Crew Cab 8 ft. box",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "ram",
+      "model": "ProMaster Cargo Van Tradesman",
+      "count": 1,
+      "file": "inventory/used-ram-promaster-cargo-van-tradesman.json",
+      "models": [
+        {
+          "model": "ProMaster Cargo Van Tradesman",
           "count": 1
         }
       ]

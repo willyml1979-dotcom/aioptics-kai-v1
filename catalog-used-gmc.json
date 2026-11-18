@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T03:50:36+00:00",
+  "generated_at": "2026-11-18T09:50:37+00:00",
   "condition": "used",
   "make": "gmc",
   "files": [
@@ -21,12 +21,12 @@
       "make": "gmc",
       "model": "Sierra 1500",
       "shard": "part1",
-      "count": 29,
+      "count": 30,
       "file": "inventory/used-gmc-sierra-1500-part1.json",
       "models": [
         {
           "model": "Sierra 1500",
-          "count": 29
+          "count": 30
         }
       ]
     },
@@ -35,12 +35,12 @@
       "make": "gmc",
       "model": "Sierra 1500",
       "shard": "part2",
-      "count": 29,
+      "count": 30,
       "file": "inventory/used-gmc-sierra-1500-part2.json",
       "models": [
         {
           "model": "Sierra 1500",
-          "count": 29
+          "count": 30
         }
       ]
     },
@@ -49,12 +49,16 @@
       "make": "gmc",
       "model": "Sierra 1500",
       "shard": "part3",
-      "count": 29,
+      "count": 30,
       "file": "inventory/used-gmc-sierra-1500-part3.json",
       "models": [
         {
+          "model": "SIERRA 1500",
+          "count": 2
+        },
+        {
           "model": "Sierra 1500",
-          "count": 29
+          "count": 28
         }
       ]
     },
@@ -63,12 +67,12 @@
       "make": "gmc",
       "model": "Sierra 1500",
       "shard": "part4",
-      "count": 29,
+      "count": 30,
       "file": "inventory/used-gmc-sierra-1500-part4.json",
       "models": [
         {
           "model": "SIERRA 1500",
-          "count": 2
+          "count": 3
         },
         {
           "model": "Sierra 1500",
@@ -81,16 +85,16 @@
       "make": "gmc",
       "model": "Sierra 1500",
       "shard": "part5",
-      "count": 29,
+      "count": 30,
       "file": "inventory/used-gmc-sierra-1500-part5.json",
       "models": [
         {
           "model": "SIERRA 1500",
-          "count": 4
+          "count": 1
         },
         {
           "model": "Sierra 1500",
-          "count": 25
+          "count": 29
         }
       ]
     },
@@ -99,7 +103,7 @@
       "make": "gmc",
       "model": "Sierra 1500",
       "shard": "part6",
-      "count": 29,
+      "count": 30,
       "file": "inventory/used-gmc-sierra-1500-part6.json",
       "models": [
         {
@@ -108,7 +112,7 @@
         },
         {
           "model": "Sierra 1500",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -117,12 +121,12 @@
       "make": "gmc",
       "model": "Sierra 1500",
       "shard": "part7",
-      "count": 29,
+      "count": 30,
       "file": "inventory/used-gmc-sierra-1500-part7.json",
       "models": [
         {
           "model": "Sierra 1500",
-          "count": 29
+          "count": 30
         }
       ]
     },
@@ -131,12 +135,12 @@
       "make": "gmc",
       "model": "Sierra 1500",
       "shard": "part8",
-      "count": 29,
+      "count": 30,
       "file": "inventory/used-gmc-sierra-1500-part8.json",
       "models": [
         {
           "model": "Sierra 1500",
-          "count": 29
+          "count": 30
         }
       ]
     },
@@ -145,12 +149,12 @@
       "make": "gmc",
       "model": "Sierra 1500",
       "shard": "part9",
-      "count": 29,
+      "count": 30,
       "file": "inventory/used-gmc-sierra-1500-part9.json",
       "models": [
         {
           "model": "Sierra 1500",
-          "count": 29
+          "count": 30
         }
       ]
     },
@@ -159,26 +163,12 @@
       "make": "gmc",
       "model": "Sierra 1500",
       "shard": "part10",
-      "count": 29,
+      "count": 24,
       "file": "inventory/used-gmc-sierra-1500-part10.json",
       "models": [
         {
           "model": "Sierra 1500",
-          "count": 29
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "gmc",
-      "model": "Sierra 1500",
-      "shard": "part11",
-      "count": 23,
-      "file": "inventory/used-gmc-sierra-1500-part11.json",
-      "models": [
-        {
-          "model": "Sierra 1500",
-          "count": 23
+          "count": 24
         }
       ]
     },
@@ -288,12 +278,12 @@
       "make": "gmc",
       "model": "Acadia",
       "shard": "Lower Mainland",
-      "count": 27,
+      "count": 18,
       "file": "inventory/used-gmc-acadia-lower-mainland.json",
       "models": [
         {
           "model": "Acadia",
-          "count": 27
+          "count": 18
         }
       ]
     },
@@ -417,12 +407,12 @@
       "condition": "used",
       "make": "gmc",
       "model": "Sierra 2500",
-      "count": 14,
+      "count": 13,
       "file": "inventory/used-gmc-sierra-2500.json",
       "models": [
         {
           "model": "Sierra 2500",
-          "count": 14
+          "count": 13
         }
       ]
     },
@@ -444,12 +434,12 @@
       "make": "gmc",
       "model": "Canyon",
       "shard": "Lower Mainland",
-      "count": 7,
+      "count": 8,
       "file": "inventory/used-gmc-canyon-lower-mainland.json",
       "models": [
         {
           "model": "Canyon",
-          "count": 7
+          "count": 8
         }
       ]
     },
@@ -580,6 +570,19 @@
     {
       "condition": "used",
       "make": "gmc",
+      "model": "Terrain for salein Chilliwack",
+      "count": 1,
+      "file": "inventory/used-gmc-terrain-for-salein-chilliwack.json",
+      "models": [
+        {
+          "model": "Terrain for salein Chilliwack",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "gmc",
       "model": "Sierra 1500 Limited",
       "count": 5,
       "file": "inventory/used-gmc-sierra-1500-limited.json",
@@ -649,12 +652,12 @@
       "make": "gmc",
       "model": "Sierra 3500HD",
       "shard": "Okanagan",
-      "count": 19,
+      "count": 18,
       "file": "inventory/used-gmc-sierra-3500hd-okanagan.json",
       "models": [
         {
           "model": "SIERRA 3500HD",
-          "count": 2
+          "count": 1
         },
         {
           "model": "Sierra 3500HD",
@@ -734,12 +737,12 @@
       "condition": "used",
       "make": "gmc",
       "model": "Sierra 3500",
-      "count": 5,
+      "count": 6,
       "file": "inventory/used-gmc-sierra-3500.json",
       "models": [
         {
           "model": "Sierra 3500",
-          "count": 5
+          "count": 6
         }
       ]
     },
@@ -892,12 +895,12 @@
       "condition": "used",
       "make": "gmc",
       "model": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive AT4",
-      "count": 11,
+      "count": 10,
       "file": "inventory/used-gmc-sierra-1500-crew-cab-short-box-4-wheel-drive-at4.json",
       "models": [
         {
           "model": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive AT4",
-          "count": 11
+          "count": 10
         }
       ]
     },
@@ -969,6 +972,32 @@
     {
       "condition": "used",
       "make": "gmc",
+      "model": "Sierra",
+      "count": 1,
+      "file": "inventory/used-gmc-sierra.json",
+      "models": [
+        {
+          "model": "Sierra",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "gmc",
+      "model": "Sierra for salein Smithers",
+      "count": 1,
+      "file": "inventory/used-gmc-sierra-for-salein-smithers.json",
+      "models": [
+        {
+          "model": "Sierra for salein Smithers",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "gmc",
       "model": "Sierra 1500 for salein Prince George",
       "count": 1,
       "file": "inventory/used-gmc-sierra-1500-for-salein-prince-george.json",
@@ -989,6 +1018,19 @@
         {
           "model": "Sierra 2500HD Crew Cab",
           "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "gmc",
+      "model": "Sierra 3500 for salein Smithers",
+      "count": 1,
+      "file": "inventory/used-gmc-sierra-3500-for-salein-smithers.json",
+      "models": [
+        {
+          "model": "Sierra 3500 for salein Smithers",
+          "count": 1
         }
       ]
     },
@@ -1255,12 +1297,38 @@
     {
       "condition": "used",
       "make": "gmc",
+      "model": "Sierra 1500 for salein Courtenay",
+      "count": 1,
+      "file": "inventory/used-gmc-sierra-1500-for-salein-courtenay.json",
+      "models": [
+        {
+          "model": "Sierra 1500 for salein Courtenay",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "gmc",
       "model": "Terrain for salein Courtenay",
       "count": 1,
       "file": "inventory/used-gmc-terrain-for-salein-courtenay.json",
       "models": [
         {
           "model": "Terrain for salein Courtenay",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "gmc",
+      "model": "Sierra 1500 for salein Campbell River",
+      "count": 1,
+      "file": "inventory/used-gmc-sierra-1500-for-salein-campbell-river.json",
+      "models": [
+        {
+          "model": "Sierra 1500 for salein Campbell River",
           "count": 1
         }
       ]
@@ -1287,6 +1355,19 @@
       "models": [
         {
           "model": "Sierra 3500 for salein Duncan",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "gmc",
+      "model": "Sierra 1500 for salein Victoria",
+      "count": 1,
+      "file": "inventory/used-gmc-sierra-1500-for-salein-victoria.json",
+      "models": [
+        {
+          "model": "Sierra 1500 for salein Victoria",
           "count": 1
         }
       ]
@@ -1398,6 +1479,19 @@
     {
       "condition": "used",
       "make": "gmc",
+      "model": "Sierra 1500 for salein Spruce Grove",
+      "count": 2,
+      "file": "inventory/used-gmc-sierra-1500-for-salein-spruce-grove.json",
+      "models": [
+        {
+          "model": "Sierra 1500 for salein Spruce Grove",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "gmc",
       "model": "CanyonAll Terrain w/Cloth 4x4 Crew Cab 5 ft. box",
       "count": 1,
       "file": "inventory/used-gmc-canyonall-terrain-w-cloth-4x4-crew-cab-5-ft-box.json",
@@ -1443,19 +1537,6 @@
       "models": [
         {
           "model": "Sierra 3500UNKNOWN",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "gmc",
-      "model": "Sierra 1500 for salein Spruce Grove",
-      "count": 1,
-      "file": "inventory/used-gmc-sierra-1500-for-salein-spruce-grove.json",
-      "models": [
-        {
-          "model": "Sierra 1500 for salein Spruce Grove",
           "count": 1
         }
       ]
@@ -1872,6 +1953,19 @@
       "models": [
         {
           "model": "CanyonDenali 4x4 Crew Cab 6 ft. box",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "gmc",
+      "model": "Savana 3500",
+      "count": 1,
+      "file": "inventory/used-gmc-savana-3500.json",
+      "models": [
+        {
+          "model": "Savana 3500",
           "count": 1
         }
       ]

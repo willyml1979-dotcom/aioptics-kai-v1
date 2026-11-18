@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T03:50:36+00:00",
+  "generated_at": "2026-11-18T09:50:37+00:00",
   "condition": "used",
   "make": "cadillac",
   "files": [
@@ -90,12 +90,12 @@
       "make": "cadillac",
       "model": "Escalade",
       "shard": "part1",
-      "count": 25,
+      "count": 26,
       "file": "inventory/used-cadillac-escalade-part1.json",
       "models": [
         {
           "model": "Escalade",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -104,12 +104,12 @@
       "make": "cadillac",
       "model": "Escalade",
       "shard": "part2",
-      "count": 25,
+      "count": 26,
       "file": "inventory/used-cadillac-escalade-part2.json",
       "models": [
         {
           "model": "Escalade",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -118,12 +118,12 @@
       "make": "cadillac",
       "model": "Escalade",
       "shard": "part3",
-      "count": 25,
+      "count": 24,
       "file": "inventory/used-cadillac-escalade-part3.json",
       "models": [
         {
           "model": "Escalade",
-          "count": 25
+          "count": 24
         }
       ]
     },
@@ -170,16 +170,29 @@
       "condition": "used",
       "make": "cadillac",
       "model": "LYRIQ",
-      "count": 13,
+      "count": 12,
       "file": "inventory/used-cadillac-lyriq.json",
       "models": [
         {
           "model": "LYRIQ",
-          "count": 10
+          "count": 9
         },
         {
           "model": "Lyriq",
           "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "cadillac",
+      "model": "CT4-V",
+      "count": 15,
+      "file": "inventory/used-cadillac-ct4-v.json",
+      "models": [
+        {
+          "model": "CT4-V",
+          "count": 15
         }
       ]
     },
@@ -197,19 +210,6 @@
         {
           "model": "Optiq",
           "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "cadillac",
-      "model": "CT4-V",
-      "count": 15,
-      "file": "inventory/used-cadillac-ct4-v.json",
-      "models": [
-        {
-          "model": "CT4-V",
-          "count": 15
         }
       ]
     },
@@ -313,19 +313,6 @@
       "models": [
         {
           "model": "Escalade IQ",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "cadillac",
-      "model": "SRX Luxury Collection",
-      "count": 1,
-      "file": "inventory/used-cadillac-srx-luxury-collection.json",
-      "models": [
-        {
-          "model": "SRX Luxury Collection",
           "count": 1
         }
       ]

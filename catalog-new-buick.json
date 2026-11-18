@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T03:50:36+00:00",
+  "generated_at": "2026-11-18T09:50:37+00:00",
   "condition": "new",
   "make": "buick",
   "files": [
@@ -22,12 +22,12 @@
       "make": "buick",
       "model": "Envista",
       "shard": "Lower Mainland",
-      "count": 27,
+      "count": 26,
       "file": "inventory/new-buick-envista-lower-mainland.json",
       "models": [
         {
           "model": "Envista",
-          "count": 27
+          "count": 26
         }
       ]
     },
@@ -175,9 +175,23 @@
       "condition": "new",
       "make": "buick",
       "model": "Envision",
-      "shard": "part1",
+      "shard": "Kootenays",
+      "count": 3,
+      "file": "inventory/new-buick-envision-kootenays.json",
+      "models": [
+        {
+          "model": "Envision",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "buick",
+      "model": "Envision",
+      "shard": "Lower Mainland",
       "count": 26,
-      "file": "inventory/new-buick-envision-part1.json",
+      "file": "inventory/new-buick-envision-lower-mainland.json",
       "models": [
         {
           "model": "Envision",
@@ -189,13 +203,13 @@
       "condition": "new",
       "make": "buick",
       "model": "Envision",
-      "shard": "part2",
-      "count": 26,
-      "file": "inventory/new-buick-envision-part2.json",
+      "shard": "Norte/Cariboo",
+      "count": 10,
+      "file": "inventory/new-buick-envision-norte-cariboo.json",
       "models": [
         {
           "model": "Envision",
-          "count": 26
+          "count": 10
         }
       ]
     },
@@ -203,13 +217,41 @@
       "condition": "new",
       "make": "buick",
       "model": "Envision",
-      "shard": "part3",
-      "count": 26,
-      "file": "inventory/new-buick-envision-part3.json",
+      "shard": "Okanagan",
+      "count": 4,
+      "file": "inventory/new-buick-envision-okanagan.json",
       "models": [
         {
           "model": "Envision",
-          "count": 26
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "buick",
+      "model": "Envision",
+      "shard": "Vancouver Island",
+      "count": 31,
+      "file": "inventory/new-buick-envision-vancouver-island.json",
+      "models": [
+        {
+          "model": "Envision",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "buick",
+      "model": "Envision",
+      "shard": "sin-region",
+      "count": 2,
+      "file": "inventory/new-buick-envision-sin-region.json",
+      "models": [
+        {
+          "model": "Envision",
+          "count": 2
         }
       ]
     },

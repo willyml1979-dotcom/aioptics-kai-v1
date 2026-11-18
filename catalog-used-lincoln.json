@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T03:50:36+00:00",
+  "generated_at": "2026-11-18T09:50:37+00:00",
   "condition": "used",
   "make": "lincoln",
   "files": [
@@ -72,12 +72,12 @@
       "condition": "used",
       "make": "lincoln",
       "model": "Aviator",
-      "count": 10,
+      "count": 9,
       "file": "inventory/used-lincoln-aviator.json",
       "models": [
         {
           "model": "Aviator",
-          "count": 10
+          "count": 9
         }
       ]
     },
@@ -85,12 +85,12 @@
       "condition": "used",
       "make": "lincoln",
       "model": "Navigator",
-      "count": 5,
+      "count": 4,
       "file": "inventory/used-lincoln-navigator.json",
       "models": [
         {
           "model": "Navigator",
-          "count": 5
+          "count": 4
         }
       ]
     },
@@ -103,6 +103,19 @@
       "models": [
         {
           "model": "AviatorReserve AWD",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lincoln",
+      "model": "Aviator Reserve",
+      "count": 1,
+      "file": "inventory/used-lincoln-aviator-reserve.json",
+      "models": [
+        {
+          "model": "Aviator Reserve",
           "count": 1
         }
       ]
@@ -150,12 +163,12 @@
       "condition": "used",
       "make": "lincoln",
       "model": "MKC",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-lincoln-mkc.json",
       "models": [
         {
           "model": "MKC",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -201,12 +214,51 @@
     {
       "condition": "used",
       "make": "lincoln",
+      "model": "MKC for salein Courtenay",
+      "count": 1,
+      "file": "inventory/used-lincoln-mkc-for-salein-courtenay.json",
+      "models": [
+        {
+          "model": "MKC for salein Courtenay",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lincoln",
       "model": "Nautilus for salein Duncan",
       "count": 1,
       "file": "inventory/used-lincoln-nautilus-for-salein-duncan.json",
       "models": [
         {
           "model": "Nautilus for salein Duncan",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lincoln",
+      "model": "Aviator for salein Campbell River",
+      "count": 1,
+      "file": "inventory/used-lincoln-aviator-for-salein-campbell-river.json",
+      "models": [
+        {
+          "model": "Aviator for salein Campbell River",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "lincoln",
+      "model": "Navigator for salein Campbell River",
+      "count": 1,
+      "file": "inventory/used-lincoln-navigator-for-salein-campbell-river.json",
+      "models": [
+        {
+          "model": "Navigator for salein Campbell River",
           "count": 1
         }
       ]

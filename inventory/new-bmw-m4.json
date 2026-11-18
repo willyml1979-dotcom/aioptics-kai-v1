@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-18T03:50:36+00:00",
-  "snapshot": "2026-11-18T03:50:36+00:00",
+  "generated_at": "2026-11-18T09:50:37+00:00",
+  "snapshot": "2026-11-18T09:50:37+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "park-shore-bmw-75916-483919",
@@ -23,7 +23,7 @@
       "listing_url": "https://www.parkshorebmw.com/new/2027-BMW-M4.html",
       "dealer_url": "https://www.parkshorebmw.com/new/2027-BMW-M4.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-11-17T11:26:04",
-      "snapshot": "2026-11-17T11:26:19",
+      "snapshot": "2026-11-18T02:14:00",
       "go_url": "https://carwhisper.ca/go/park-shore-bmw-75916-483919",
       "region": "Lower Mainland",
       "city": "North Vancouver",
@@ -50,7 +50,7 @@
       "listing_url": "https://www.brianjesselbmw.com/vehicles/2027/bmw/m4/vancouver/bc/71269195/?sale_class=new",
       "dealer_url": "https://www.brianjesselbmw.com/vehicles/2027/bmw/m4/vancouver/bc/71269195/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-11-17T05:00:35",
-      "snapshot": "2026-11-17T05:07:04",
+      "snapshot": "2026-11-17T22:58:45",
       "go_url": "https://carwhisper.ca/go/brian-jessel-bmw-wbs43ba02vcy64680",
       "region": "Lower Mainland",
       "city": "Vancouver",
@@ -77,7 +77,7 @@
       "listing_url": "https://www.brianjesselbmw.com/vehicles/2027/bmw/m4/vancouver/bc/71432314/?sale_class=new",
       "dealer_url": "https://www.brianjesselbmw.com/vehicles/2027/bmw/m4/vancouver/bc/71432314/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-11-17T05:00:46",
-      "snapshot": "2026-11-17T05:07:04",
+      "snapshot": "2026-11-17T22:58:45",
       "go_url": "https://carwhisper.ca/go/brian-jessel-bmw-wbs43ba08vcy83993",
       "region": "Lower Mainland",
       "city": "Vancouver",
@@ -111,6 +111,32 @@
       "city": "Vancouver",
       "province": "BC",
       "dealer_name": "The BMW Store"
+    },
+    {
+      "pub_id": "bmw-victoria-mini-victoria-1791388-ontario-limited-67404-471091",
+      "year": 2026,
+      "make": "BMW",
+      "model": "M4",
+      "trim": "M4",
+      "body_type": "coupe",
+      "drivetrain": "RWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "new",
+      "price_cad": 101745.0,
+      "price_note": null,
+      "dealer_id": "bmw-victoria-mini-victoria-1791388-ontario-limited",
+      "stock": "67404-471091",
+      "listing_url": "https://www.bmwvictoria.ca/new/2026-BMW-M4.html",
+      "dealer_url": "https://www.bmwvictoria.ca/new/2026-BMW-M4.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T23:22:12",
+      "snapshot": "2026-11-17T23:22:28",
+      "go_url": "https://carwhisper.ca/go/bmw-victoria-mini-victoria-1791388-ontario-limited-67404-471091",
+      "region": "Vancouver Island",
+      "city": "Victoria",
+      "province": "BC",
+      "dealer_name": "BMW Victoria/MINI Victoria (1791388 Ontario Limited)"
     }
   ]
 }

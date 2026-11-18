@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-18T03:50:36+00:00",
-  "snapshot": "2026-11-18T03:50:36+00:00",
+  "generated_at": "2026-11-18T09:50:37+00:00",
+  "snapshot": "2026-11-18T09:50:37+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 3,
+  "count": 4,
   "vehicles": [
     {
       "pub_id": "bannister-kia-penticton-jm3kkdhd1s1191708",
@@ -32,6 +32,34 @@
       "city": "Penticton",
       "province": "BC",
       "dealer_name": "Bannister Kia Penticton"
+    },
+    {
+      "pub_id": "land-rover-kelowna-volvo-kelowna-jm3kkdhc3s1219600",
+      "year": 2025,
+      "make": "Mazda",
+      "model": "CX-90 MHEV",
+      "trim": "GT-Premium",
+      "drivetrain": "AWD",
+      "propulsion": "hybrid",
+      "propulsion_source": "description",
+      "propulsion_confidence": "medium",
+      "condition": "used",
+      "odometer_km": 26131,
+      "price_cad": 47995.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "land-rover-kelowna-volvo-kelowna",
+      "vin": "JM3KKDHC3S1219600",
+      "stock": "14404214",
+      "listing_url": "https://www.landroverkelowna.com/used/2025-Mazda-CX_90_MHEV-id14404214.html",
+      "dealer_url": "https://www.landroverkelowna.com/used/2025-Mazda-CX_90_MHEV-id14404214.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T20:51:18",
+      "snapshot": "2026-11-17T20:53:40",
+      "go_url": "https://carwhisper.ca/go/land-rover-kelowna-volvo-kelowna-jm3kkdhc3s1219600",
+      "region": "Okanagan",
+      "city": "Kelowna",
+      "province": "BC",
+      "dealer_name": "Land Rover Kelowna / Volvo Kelowna"
     },
     {
       "pub_id": "okanagan-chrysler-dodge-jeep-ram-jm3kkdhd4r1112882",

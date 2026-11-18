@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T03:50:36+00:00",
+  "generated_at": "2026-11-18T09:50:37+00:00",
   "condition": "used",
   "make": "tesla",
   "files": [
@@ -8,12 +8,12 @@
       "make": "tesla",
       "model": "Model 3",
       "shard": "part1",
-      "count": 30,
+      "count": 26,
       "file": "inventory/used-tesla-model-3-part1.json",
       "models": [
         {
           "model": "Model 3",
-          "count": 30
+          "count": 26
         }
       ]
     },
@@ -22,12 +22,12 @@
       "make": "tesla",
       "model": "Model 3",
       "shard": "part2",
-      "count": 30,
+      "count": 26,
       "file": "inventory/used-tesla-model-3-part2.json",
       "models": [
         {
           "model": "Model 3",
-          "count": 30
+          "count": 26
         }
       ]
     },
@@ -36,12 +36,12 @@
       "make": "tesla",
       "model": "Model 3",
       "shard": "part3",
-      "count": 30,
+      "count": 26,
       "file": "inventory/used-tesla-model-3-part3.json",
       "models": [
         {
           "model": "Model 3",
-          "count": 30
+          "count": 26
         }
       ]
     },
@@ -50,12 +50,12 @@
       "make": "tesla",
       "model": "Model 3",
       "shard": "part4",
-      "count": 30,
+      "count": 26,
       "file": "inventory/used-tesla-model-3-part4.json",
       "models": [
         {
           "model": "Model 3",
-          "count": 30
+          "count": 26
         }
       ]
     },
@@ -190,6 +190,32 @@
       "models": [
         {
           "model": "Model Y Standard Range",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "tesla",
+      "model": "Model 3 for salein Maple Ridge",
+      "count": 1,
+      "file": "inventory/used-tesla-model-3-for-salein-maple-ridge.json",
+      "models": [
+        {
+          "model": "Model 3 for salein Maple Ridge",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "tesla",
+      "model": "Model 3 Premium",
+      "count": 1,
+      "file": "inventory/used-tesla-model-3-premium.json",
+      "models": [
+        {
+          "model": "Model 3 Premium",
           "count": 1
         }
       ]
