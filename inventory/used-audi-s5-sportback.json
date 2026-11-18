@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T21:50:35+00:00",
-  "snapshot": "2026-11-17T21:50:35+00:00",
+  "generated_at": "2026-11-18T03:50:36+00:00",
+  "snapshot": "2026-11-18T03:50:36+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 2,
+  "count": 3,
   "vehicles": [
     {
       "pub_id": "openroad-lexus-richmond-waub4cf5xna027545",
@@ -60,6 +60,36 @@
       "city": "Surrey",
       "province": "BC",
       "dealer_name": "Applewood Mazda Surrey"
+    },
+    {
+      "pub_id": "applewood-infiniti-langley-waub4cf59ra005705",
+      "year": 2024,
+      "make": "Audi",
+      "model": "S5 Sportback",
+      "trim": "Technik 3.0 TFSI quattro",
+      "body_type": "hatchback",
+      "drivetrain": "AWD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 45303,
+      "price_cad": 66000.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,op_bl,ow_100,v1/adjustment/3OCOZ3MGPBCRVGQXDTFNDEL3SI%3Binventory/KUQ7Q4PBLZBCJNVZ4VDUXC6KOA-31623.webp",
+      "dealer_id": "applewood-infiniti-langley",
+      "vin": "WAUB4CF59RA005705",
+      "stock": "NLB65705",
+      "listing_url": "https://www.applewoodinfinitilangley.ca/inventory/2024-audi-s5-sportback-technik-WYuti7KRT62xZ8WCMZAsrAvdp/",
+      "dealer_url": "https://www.applewoodinfinitilangley.ca/inventory/2024-audi-s5-sportback-technik-WYuti7KRT62xZ8WCMZAsrAvdp/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T17:27:21",
+      "snapshot": "2026-11-17T17:38:42",
+      "go_url": "https://carwhisper.ca/go/applewood-infiniti-langley-waub4cf59ra005705",
+      "region": "Lower Mainland",
+      "city": "Langley",
+      "province": "BC",
+      "dealer_name": "Applewood Infiniti Langley"
     }
   ]
 }

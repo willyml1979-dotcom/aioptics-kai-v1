@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T21:50:35+00:00",
+  "generated_at": "2026-11-18T03:50:36+00:00",
   "condition": "used",
   "make": "volkswagen",
   "files": [
@@ -106,12 +106,12 @@
       "make": "volkswagen",
       "model": "Tiguan",
       "shard": "part8",
-      "count": 27,
+      "count": 28,
       "file": "inventory/used-volkswagen-tiguan-part8.json",
       "models": [
         {
           "model": "Tiguan",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -119,83 +119,12 @@
       "condition": "used",
       "make": "volkswagen",
       "model": "Golf",
-      "shard": "Kootenays",
-      "count": 1,
-      "file": "inventory/used-volkswagen-golf-kootenays.json",
+      "count": 31,
+      "file": "inventory/used-volkswagen-golf.json",
       "models": [
         {
           "model": "Golf",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Golf",
-      "shard": "Lower Mainland",
-      "count": 20,
-      "file": "inventory/used-volkswagen-golf-lower-mainland.json",
-      "models": [
-        {
-          "model": "Golf",
-          "count": 20
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Golf",
-      "shard": "Norte/Cariboo",
-      "count": 1,
-      "file": "inventory/used-volkswagen-golf-norte-cariboo.json",
-      "models": [
-        {
-          "model": "Golf",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Golf",
-      "shard": "Okanagan",
-      "count": 5,
-      "file": "inventory/used-volkswagen-golf-okanagan.json",
-      "models": [
-        {
-          "model": "Golf",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Golf",
-      "shard": "Vancouver Island",
-      "count": 7,
-      "file": "inventory/used-volkswagen-golf-vancouver-island.json",
-      "models": [
-        {
-          "model": "Golf",
-          "count": 7
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Golf",
-      "shard": "sin-region",
-      "count": 2,
-      "file": "inventory/used-volkswagen-golf-sin-region.json",
-      "models": [
-        {
-          "model": "Golf",
-          "count": 2
+          "count": 31
         }
       ]
     },
@@ -204,12 +133,12 @@
       "make": "volkswagen",
       "model": "Jetta",
       "shard": "part1",
-      "count": 25,
+      "count": 31,
       "file": "inventory/used-volkswagen-jetta-part1.json",
       "models": [
         {
           "model": "Jetta",
-          "count": 25
+          "count": 31
         }
       ]
     },
@@ -218,12 +147,12 @@
       "make": "volkswagen",
       "model": "Jetta",
       "shard": "part2",
-      "count": 25,
+      "count": 31,
       "file": "inventory/used-volkswagen-jetta-part2.json",
       "models": [
         {
           "model": "Jetta",
-          "count": 25
+          "count": 31
         }
       ]
     },
@@ -232,39 +161,11 @@
       "make": "volkswagen",
       "model": "Jetta",
       "shard": "part3",
-      "count": 25,
+      "count": 30,
       "file": "inventory/used-volkswagen-jetta-part3.json",
       "models": [
         {
           "model": "Jetta",
-          "count": 25
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "Jetta",
-      "shard": "part4",
-      "count": 23,
-      "file": "inventory/used-volkswagen-jetta-part4.json",
-      "models": [
-        {
-          "model": "Jetta",
-          "count": 23
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "ID.4",
-      "shard": "Lower Mainland",
-      "count": 30,
-      "file": "inventory/used-volkswagen-id-4-lower-mainland.json",
-      "models": [
-        {
-          "model": "ID.4",
           "count": 30
         }
       ]
@@ -273,13 +174,13 @@
       "condition": "used",
       "make": "volkswagen",
       "model": "ID.4",
-      "shard": "Okanagan",
-      "count": 2,
-      "file": "inventory/used-volkswagen-id-4-okanagan.json",
+      "shard": "part1",
+      "count": 20,
+      "file": "inventory/used-volkswagen-id-4-part1.json",
       "models": [
         {
           "model": "ID.4",
-          "count": 2
+          "count": 20
         }
       ]
     },
@@ -287,27 +188,13 @@
       "condition": "used",
       "make": "volkswagen",
       "model": "ID.4",
-      "shard": "Vancouver Island",
-      "count": 2,
-      "file": "inventory/used-volkswagen-id-4-vancouver-island.json",
+      "shard": "part2",
+      "count": 19,
+      "file": "inventory/used-volkswagen-id-4-part2.json",
       "models": [
         {
           "model": "ID.4",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "volkswagen",
-      "model": "ID.4",
-      "shard": "sin-region",
-      "count": 3,
-      "file": "inventory/used-volkswagen-id-4-sin-region.json",
-      "models": [
-        {
-          "model": "ID.4",
-          "count": 3
+          "count": 19
         }
       ]
     },
@@ -357,12 +244,12 @@
       "make": "volkswagen",
       "model": "Atlas",
       "shard": "Okanagan",
-      "count": 20,
+      "count": 17,
       "file": "inventory/used-volkswagen-atlas-okanagan.json",
       "models": [
         {
           "model": "Atlas",
-          "count": 20
+          "count": 17
         }
       ]
     },
@@ -439,12 +326,12 @@
       "make": "volkswagen",
       "model": "Golf R",
       "shard": "Lower Mainland",
-      "count": 28,
+      "count": 22,
       "file": "inventory/used-volkswagen-golf-r-lower-mainland.json",
       "models": [
         {
           "model": "Golf R",
-          "count": 28
+          "count": 22
         }
       ]
     },
@@ -453,12 +340,12 @@
       "make": "volkswagen",
       "model": "Golf R",
       "shard": "Okanagan",
-      "count": 5,
+      "count": 6,
       "file": "inventory/used-volkswagen-golf-r-okanagan.json",
       "models": [
         {
           "model": "Golf R",
-          "count": 5
+          "count": 6
         }
       ]
     },
@@ -494,12 +381,12 @@
       "condition": "used",
       "make": "volkswagen",
       "model": "Beetle",
-      "count": 12,
+      "count": 15,
       "file": "inventory/used-volkswagen-beetle.json",
       "models": [
         {
           "model": "Beetle",
-          "count": 12
+          "count": 15
         }
       ]
     },
@@ -564,12 +451,12 @@
       "make": "volkswagen",
       "model": "Taos",
       "shard": "part5",
-      "count": 27,
+      "count": 28,
       "file": "inventory/used-volkswagen-taos-part5.json",
       "models": [
         {
           "model": "Taos",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -590,12 +477,12 @@
       "condition": "used",
       "make": "volkswagen",
       "model": "Jetta GLI",
-      "count": 21,
+      "count": 22,
       "file": "inventory/used-volkswagen-jetta-gli.json",
       "models": [
         {
           "model": "Jetta GLI",
-          "count": 21
+          "count": 22
         }
       ]
     },
@@ -604,12 +491,12 @@
       "make": "volkswagen",
       "model": "Atlas Cross Sport",
       "shard": "part1",
-      "count": 30,
+      "count": 31,
       "file": "inventory/used-volkswagen-atlas-cross-sport-part1.json",
       "models": [
         {
           "model": "Atlas Cross Sport",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -618,12 +505,12 @@
       "make": "volkswagen",
       "model": "Atlas Cross Sport",
       "shard": "part2",
-      "count": 30,
+      "count": 31,
       "file": "inventory/used-volkswagen-atlas-cross-sport-part2.json",
       "models": [
         {
           "model": "Atlas Cross Sport",
-          "count": 30
+          "count": 31
         }
       ]
     },
@@ -631,12 +518,12 @@
       "condition": "used",
       "make": "volkswagen",
       "model": "GTI",
-      "count": 12,
+      "count": 14,
       "file": "inventory/used-volkswagen-gti.json",
       "models": [
         {
           "model": "GTI",
-          "count": 12
+          "count": 14
         }
       ]
     },
@@ -644,12 +531,12 @@
       "condition": "used",
       "make": "volkswagen",
       "model": "ID. Buzz",
-      "count": 7,
+      "count": 6,
       "file": "inventory/used-volkswagen-id-buzz.json",
       "models": [
         {
           "model": "ID. Buzz",
-          "count": 7
+          "count": 6
         }
       ]
     },

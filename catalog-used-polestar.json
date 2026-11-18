@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T21:50:35+00:00",
+  "generated_at": "2026-11-18T03:50:36+00:00",
   "condition": "used",
   "make": "polestar",
   "files": [
@@ -7,12 +7,27 @@
       "condition": "used",
       "make": "polestar",
       "model": "2",
-      "count": 30,
-      "file": "inventory/used-polestar-2.json",
+      "shard": "Lower Mainland",
+      "count": 28,
+      "file": "inventory/used-polestar-2-lower-mainland.json",
       "models": [
         {
           "model": "2",
-          "count": 30
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "polestar",
+      "model": "2",
+      "shard": "sin-region",
+      "count": 5,
+      "file": "inventory/used-polestar-2-sin-region.json",
+      "models": [
+        {
+          "model": "2",
+          "count": 5
         }
       ]
     },
@@ -72,12 +87,12 @@
       "condition": "used",
       "make": "polestar",
       "model": "Polestar 2 for salein Kelowna",
-      "count": 2,
+      "count": 4,
       "file": "inventory/used-polestar-polestar-2-for-salein-kelowna.json",
       "models": [
         {
           "model": "Polestar 2 for salein Kelowna",
-          "count": 2
+          "count": 4
         }
       ]
     },

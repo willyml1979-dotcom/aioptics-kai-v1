@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T21:50:35+00:00",
-  "snapshot": "2026-11-17T21:50:35+00:00",
+  "generated_at": "2026-11-18T03:50:36+00:00",
+  "snapshot": "2026-11-18T03:50:36+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 12,
+  "count": 13,
   "vehicles": [
     {
       "pub_id": "bannister-gm-chilliwack-1gykpmrk2rz103472",
@@ -320,6 +320,34 @@
       "city": "Kamloops",
       "province": "BC",
       "dealer_name": "Bannister Chevrolet Cadillac Kamloops Ltd."
+    },
+    {
+      "pub_id": "harris-kia-1gykpvrlxrz117148",
+      "year": 2024,
+      "make": "Cadillac",
+      "model": "Lyriq",
+      "body_type": "suv",
+      "propulsion": "electric",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 53552,
+      "price_cad": 56999.0,
+      "price_note": null,
+      "color": "White",
+      "photo_url": "https://prod.pictures.autoscout24.net/listing-images/8e128fe3-fb9d-4dc6-af83-4232e793923e_5f363860-a9d5-4318-92d1-d157781fbbe5.jpg",
+      "dealer_id": "harris-kia",
+      "vin": "1GYKPVRLXRZ117148",
+      "stock": "K3861",
+      "listing_url": "https://www.harriskia.ca/vehicles/2024/cadillac/lyriq/nanaimo/bc/ad13572656/?sale_class=used",
+      "dealer_url": "https://www.harriskia.ca/vehicles/2024/cadillac/lyriq/nanaimo/bc/ad13572656/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T14:59:47",
+      "snapshot": "2026-11-17T15:04:53",
+      "go_url": "https://carwhisper.ca/go/harris-kia-1gykpvrlxrz117148",
+      "region": "Vancouver Island",
+      "city": "Nanaimo",
+      "province": "BC",
+      "dealer_name": "Harris Kia"
     },
     {
       "pub_id": "go-richmond-kia-1gykpmrl6rz108909",

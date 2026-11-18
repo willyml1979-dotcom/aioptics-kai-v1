@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T21:50:35+00:00",
-  "snapshot": "2026-11-17T21:50:35+00:00",
+  "generated_at": "2026-11-18T03:50:36+00:00",
+  "snapshot": "2026-11-18T03:50:36+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "kelowna-hyundai-3mvdmbdm2sm816589",
@@ -21,12 +21,36 @@
       "listing_url": "https://www.kelownahyundai.com/used/2025-Mazda-CX_30.html",
       "dealer_url": "https://www.kelownahyundai.com/used/2025-Mazda-CX_30.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-11-16T23:33:19",
-      "snapshot": "2026-11-16T23:38:18",
+      "snapshot": "2026-11-17T20:49:42",
       "go_url": "https://carwhisper.ca/go/kelowna-hyundai-3mvdmbdm2sm816589",
       "region": "Okanagan",
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Kelowna Hyundai"
+    },
+    {
+      "pub_id": "okanagan-chrysler-dodge-jeep-ram-3mvdmbdm2sm816589",
+      "year": 2025,
+      "make": "Mazda",
+      "model": "CX-30 for salein Kelowna",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 36904.0,
+      "price_note": null,
+      "color": "White",
+      "dealer_id": "okanagan-chrysler-dodge-jeep-ram",
+      "vin": "3MVDMBDM2SM816589",
+      "stock": "KH81658",
+      "listing_url": "https://www.okanagandodge.com/used/2025-Mazda-CX_30.html",
+      "dealer_url": "https://www.okanagandodge.com/used/2025-Mazda-CX_30.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T17:08:18",
+      "snapshot": "2026-11-17T17:14:36",
+      "go_url": "https://carwhisper.ca/go/okanagan-chrysler-dodge-jeep-ram-3mvdmbdm2sm816589",
+      "region": "Okanagan",
+      "city": "Kelowna",
+      "province": "BC",
+      "dealer_name": "Okanagan Chrysler Dodge Jeep Ram"
     }
   ]
 }

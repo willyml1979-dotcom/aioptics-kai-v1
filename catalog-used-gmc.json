@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T21:50:35+00:00",
+  "generated_at": "2026-11-18T03:50:36+00:00",
   "condition": "used",
   "make": "gmc",
   "files": [
@@ -173,12 +173,12 @@
       "make": "gmc",
       "model": "Sierra 1500",
       "shard": "part11",
-      "count": 25,
+      "count": 23,
       "file": "inventory/used-gmc-sierra-1500-part11.json",
       "models": [
         {
           "model": "Sierra 1500",
-          "count": 25
+          "count": 23
         }
       ]
     },
@@ -199,13 +199,13 @@
       "condition": "used",
       "make": "gmc",
       "model": "Terrain",
-      "shard": "part1",
-      "count": 30,
-      "file": "inventory/used-gmc-terrain-part1.json",
+      "shard": "Lower Mainland",
+      "count": 28,
+      "file": "inventory/used-gmc-terrain-lower-mainland.json",
       "models": [
         {
           "model": "Terrain",
-          "count": 30
+          "count": 28
         }
       ]
     },
@@ -213,9 +213,9 @@
       "condition": "used",
       "make": "gmc",
       "model": "Terrain",
-      "shard": "part2",
-      "count": 30,
-      "file": "inventory/used-gmc-terrain-part2.json",
+      "shard": "Norte/Cariboo",
+      "count": 15,
+      "file": "inventory/used-gmc-terrain-norte-cariboo.json",
       "models": [
         {
           "model": "TERRAIN",
@@ -223,6 +223,76 @@
         },
         {
           "model": "Terrain",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "gmc",
+      "model": "Terrain",
+      "shard": "Okanagan",
+      "count": 23,
+      "file": "inventory/used-gmc-terrain-okanagan.json",
+      "models": [
+        {
+          "model": "Terrain",
+          "count": 23
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "gmc",
+      "model": "Terrain",
+      "shard": "Thompson-Okanagan",
+      "count": 5,
+      "file": "inventory/used-gmc-terrain-thompson-okanagan.json",
+      "models": [
+        {
+          "model": "Terrain",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "gmc",
+      "model": "Terrain",
+      "shard": "Vancouver Island",
+      "count": 15,
+      "file": "inventory/used-gmc-terrain-vancouver-island.json",
+      "models": [
+        {
+          "model": "Terrain",
+          "count": 15
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "gmc",
+      "model": "Terrain",
+      "shard": "sin-region",
+      "count": 32,
+      "file": "inventory/used-gmc-terrain-sin-region.json",
+      "models": [
+        {
+          "model": "Terrain",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "gmc",
+      "model": "Acadia",
+      "shard": "Lower Mainland",
+      "count": 27,
+      "file": "inventory/used-gmc-acadia-lower-mainland.json",
+      "models": [
+        {
+          "model": "Acadia",
           "count": 27
         }
       ]
@@ -230,28 +300,42 @@
     {
       "condition": "used",
       "make": "gmc",
-      "model": "Terrain",
-      "shard": "part3",
-      "count": 30,
-      "file": "inventory/used-gmc-terrain-part3.json",
+      "model": "Acadia",
+      "shard": "Norte/Cariboo",
+      "count": 2,
+      "file": "inventory/used-gmc-acadia-norte-cariboo.json",
       "models": [
         {
-          "model": "Terrain",
-          "count": 30
+          "model": "Acadia",
+          "count": 2
         }
       ]
     },
     {
       "condition": "used",
       "make": "gmc",
-      "model": "Terrain",
-      "shard": "part4",
-      "count": 30,
-      "file": "inventory/used-gmc-terrain-part4.json",
+      "model": "Acadia",
+      "shard": "Vancouver Island",
+      "count": 4,
+      "file": "inventory/used-gmc-acadia-vancouver-island.json",
       "models": [
         {
-          "model": "Terrain",
-          "count": 30
+          "model": "Acadia",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "gmc",
+      "model": "Acadia",
+      "shard": "sin-region",
+      "count": 14,
+      "file": "inventory/used-gmc-acadia-sin-region.json",
+      "models": [
+        {
+          "model": "Acadia",
+          "count": 14
         }
       ]
     },
@@ -260,12 +344,12 @@
       "make": "gmc",
       "model": "Yukon",
       "shard": "Lower Mainland",
-      "count": 12,
+      "count": 11,
       "file": "inventory/used-gmc-yukon-lower-mainland.json",
       "models": [
         {
           "model": "Yukon",
-          "count": 12
+          "count": 11
         }
       ]
     },
@@ -306,12 +390,12 @@
       "make": "gmc",
       "model": "Yukon",
       "shard": "Vancouver Island",
-      "count": 5,
+      "count": 6,
       "file": "inventory/used-gmc-yukon-vancouver-island.json",
       "models": [
         {
           "model": "Yukon",
-          "count": 5
+          "count": 6
         }
       ]
     },
@@ -332,69 +416,13 @@
     {
       "condition": "used",
       "make": "gmc",
-      "model": "Acadia",
-      "shard": "Lower Mainland",
-      "count": 27,
-      "file": "inventory/used-gmc-acadia-lower-mainland.json",
-      "models": [
-        {
-          "model": "Acadia",
-          "count": 27
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "gmc",
-      "model": "Acadia",
-      "shard": "Norte/Cariboo",
-      "count": 2,
-      "file": "inventory/used-gmc-acadia-norte-cariboo.json",
-      "models": [
-        {
-          "model": "Acadia",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "gmc",
-      "model": "Acadia",
-      "shard": "Vancouver Island",
-      "count": 5,
-      "file": "inventory/used-gmc-acadia-vancouver-island.json",
-      "models": [
-        {
-          "model": "Acadia",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "gmc",
-      "model": "Acadia",
-      "shard": "sin-region",
-      "count": 14,
-      "file": "inventory/used-gmc-acadia-sin-region.json",
-      "models": [
-        {
-          "model": "Acadia",
-          "count": 14
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "gmc",
       "model": "Sierra 2500",
-      "count": 12,
+      "count": 14,
       "file": "inventory/used-gmc-sierra-2500.json",
       "models": [
         {
           "model": "Sierra 2500",
-          "count": 12
+          "count": 14
         }
       ]
     },
@@ -416,12 +444,12 @@
       "make": "gmc",
       "model": "Canyon",
       "shard": "Lower Mainland",
-      "count": 6,
+      "count": 7,
       "file": "inventory/used-gmc-canyon-lower-mainland.json",
       "models": [
         {
           "model": "Canyon",
-          "count": 6
+          "count": 7
         }
       ]
     },
@@ -513,12 +541,12 @@
       "make": "gmc",
       "model": "Yukon XL",
       "shard": "part1",
-      "count": 23,
+      "count": 25,
       "file": "inventory/used-gmc-yukon-xl-part1.json",
       "models": [
         {
           "model": "Yukon XL",
-          "count": 23
+          "count": 25
         }
       ]
     },
@@ -527,12 +555,12 @@
       "make": "gmc",
       "model": "Yukon XL",
       "shard": "part2",
-      "count": 23,
+      "count": 25,
       "file": "inventory/used-gmc-yukon-xl-part2.json",
       "models": [
         {
           "model": "Yukon XL",
-          "count": 23
+          "count": 25
         }
       ]
     },
@@ -585,19 +613,6 @@
         {
           "model": "Sierra 1500 for salein Surrey",
           "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "gmc",
-      "model": "New Sierra 1500 Crew Cab 4x4",
-      "count": 15,
-      "file": "inventory/used-gmc-new-sierra-1500-crew-cab-4x4.json",
-      "models": [
-        {
-          "model": "New Sierra 1500 Crew Cab 4x4",
-          "count": 15
         }
       ]
     },
@@ -680,12 +695,25 @@
       "make": "gmc",
       "model": "Sierra 3500HD",
       "shard": "sin-region",
-      "count": 27,
+      "count": 26,
       "file": "inventory/used-gmc-sierra-3500hd-sin-region.json",
       "models": [
         {
           "model": "Sierra 3500HD",
-          "count": 27
+          "count": 26
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "gmc",
+      "model": "New Sierra 1500 Crew Cab 4x4",
+      "count": 14,
+      "file": "inventory/used-gmc-new-sierra-1500-crew-cab-4x4.json",
+      "models": [
+        {
+          "model": "New Sierra 1500 Crew Cab 4x4",
+          "count": 14
         }
       ]
     },
@@ -864,12 +892,12 @@
       "condition": "used",
       "make": "gmc",
       "model": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive AT4",
-      "count": 13,
+      "count": 11,
       "file": "inventory/used-gmc-sierra-1500-crew-cab-short-box-4-wheel-drive-at4.json",
       "models": [
         {
           "model": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive AT4",
-          "count": 13
+          "count": 11
         }
       ]
     },
@@ -928,12 +956,12 @@
     {
       "condition": "used",
       "make": "gmc",
-      "model": "5 Sierra 3500hd Cars For Sale at Murray Chevy Abbotsford",
+      "model": "6 Sierra 3500hd Cars For Sale at Murray Chevy Abbotsford",
       "count": 1,
-      "file": "inventory/used-gmc-5-sierra-3500hd-cars-for-sale-at-murray-chevy-abbotsford.json",
+      "file": "inventory/used-gmc-6-sierra-3500hd-cars-for-sale-at-murray-chevy-abbotsford.json",
       "models": [
         {
-          "model": "5 Sierra 3500hd Cars For Sale at Murray Chevy Abbotsford",
+          "model": "6 Sierra 3500hd Cars For Sale at Murray Chevy Abbotsford",
           "count": 1
         }
       ]
@@ -1045,13 +1073,13 @@
     {
       "condition": "used",
       "make": "gmc",
-      "model": "Sierra 3500 HD",
-      "count": 2,
-      "file": "inventory/used-gmc-sierra-3500-hd.json",
+      "model": "Sierra 1500 for salein Kelowna",
+      "count": 1,
+      "file": "inventory/used-gmc-sierra-1500-for-salein-kelowna.json",
       "models": [
         {
-          "model": "Sierra 3500 HD",
-          "count": 2
+          "model": "Sierra 1500 for salein Kelowna",
+          "count": 1
         }
       ]
     },
@@ -1059,11 +1087,24 @@
       "condition": "used",
       "make": "gmc",
       "model": "Canyon for salein Kelowna",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-gmc-canyon-for-salein-kelowna.json",
       "models": [
         {
           "model": "Canyon for salein Kelowna",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "gmc",
+      "model": "Sierra 3500 for salein Kelowna",
+      "count": 1,
+      "file": "inventory/used-gmc-sierra-3500-for-salein-kelowna.json",
+      "models": [
+        {
+          "model": "Sierra 3500 for salein Kelowna",
           "count": 1
         }
       ]
@@ -1072,12 +1113,12 @@
       "condition": "used",
       "make": "gmc",
       "model": "Sierra 3500 HD for salein Kelowna",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-gmc-sierra-3500-hd-for-salein-kelowna.json",
       "models": [
         {
           "model": "Sierra 3500 HD for salein Kelowna",
-          "count": 1
+          "count": 2
         }
       ]
     },

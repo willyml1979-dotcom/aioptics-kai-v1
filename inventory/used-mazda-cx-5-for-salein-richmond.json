@@ -1,9 +1,32 @@
 {
-  "generated_at": "2026-11-17T21:50:35+00:00",
-  "snapshot": "2026-11-17T21:50:35+00:00",
+  "generated_at": "2026-11-18T03:50:36+00:00",
+  "snapshot": "2026-11-18T03:50:36+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 3,
   "vehicles": [
+    {
+      "pub_id": "signature-mazda-c537562",
+      "year": 2017,
+      "make": "Mazda",
+      "model": "CX-5 for salein Richmond",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 22990.0,
+      "price_note": null,
+      "color": "{$COLOREX}",
+      "dealer_id": "signature-mazda",
+      "stock": "C537562",
+      "listing_url": "https://www.signaturemazda.com/used/2017-Mazda-CX_5.html",
+      "dealer_url": "https://www.signaturemazda.com/used/2017-Mazda-CX_5.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T15:07:17",
+      "snapshot": "2026-11-17T15:16:28",
+      "go_url": "https://carwhisper.ca/go/signature-mazda-c537562",
+      "region": "Lower Mainland",
+      "city": "Richmond",
+      "province": "BC",
+      "dealer_name": "Signature Mazda"
+    },
     {
       "pub_id": "auto-west-bmw-jm3kfbcm1p0140089",
       "year": 2023,
@@ -27,6 +50,29 @@
       "city": "Richmond",
       "province": "BC",
       "dealer_name": "Auto West BMW"
+    },
+    {
+      "pub_id": "signature-mazda-c594290",
+      "year": 2026,
+      "make": "Mazda",
+      "model": "CX-5 for salein Richmond",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 43890.0,
+      "price_note": null,
+      "color": "{$COLOREX}",
+      "dealer_id": "signature-mazda",
+      "stock": "C594290",
+      "listing_url": "https://www.signaturemazda.com/used/2026-Mazda-CX_5.html",
+      "dealer_url": "https://www.signaturemazda.com/used/2026-Mazda-CX_5.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T15:16:04",
+      "snapshot": "2026-11-17T15:16:28",
+      "go_url": "https://carwhisper.ca/go/signature-mazda-c594290",
+      "region": "Lower Mainland",
+      "city": "Richmond",
+      "province": "BC",
+      "dealer_name": "Signature Mazda"
     }
   ]
 }

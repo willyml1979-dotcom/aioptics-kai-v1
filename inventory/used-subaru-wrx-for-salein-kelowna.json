@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T21:50:35+00:00",
-  "snapshot": "2026-11-17T21:50:35+00:00",
+  "generated_at": "2026-11-18T03:50:36+00:00",
+  "snapshot": "2026-11-18T03:50:36+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "kelowna-hyundai-jf1vbaa62p9814591",
@@ -21,12 +21,36 @@
       "listing_url": "https://www.kelownahyundai.com/used/2023-Subaru-WRX.html",
       "dealer_url": "https://www.kelownahyundai.com/used/2023-Subaru-WRX.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-11-16T23:29:44",
-      "snapshot": "2026-11-16T23:38:18",
+      "snapshot": "2026-11-17T20:49:42",
       "go_url": "https://carwhisper.ca/go/kelowna-hyundai-jf1vbaa62p9814591",
       "region": "Okanagan",
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Kelowna Hyundai"
+    },
+    {
+      "pub_id": "okanagan-chrysler-dodge-jeep-ram-jf1vbaa62p9814591",
+      "year": 2023,
+      "make": "Subaru",
+      "model": "WRX for salein Kelowna",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 30904.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "okanagan-chrysler-dodge-jeep-ram",
+      "vin": "JF1VBAA62P9814591",
+      "stock": "MH81459",
+      "listing_url": "https://www.okanagandodge.com/used/2023-Subaru-WRX.html",
+      "dealer_url": "https://www.okanagandodge.com/used/2023-Subaru-WRX.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T17:03:25",
+      "snapshot": "2026-11-17T17:14:36",
+      "go_url": "https://carwhisper.ca/go/okanagan-chrysler-dodge-jeep-ram-jf1vbaa62p9814591",
+      "region": "Okanagan",
+      "city": "Kelowna",
+      "province": "BC",
+      "dealer_name": "Okanagan Chrysler Dodge Jeep Ram"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T21:50:35+00:00",
-  "snapshot": "2026-11-17T21:50:35+00:00",
+  "generated_at": "2026-11-18T03:50:36+00:00",
+  "snapshot": "2026-11-18T03:50:36+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "duncan-hyundai-1c4rjkbg6n8625652",
@@ -20,12 +20,42 @@
       "listing_url": "https://www.duncanhyundai.net/used/2022-Jeep-Grand_Cherokee_L.html",
       "dealer_url": "https://www.duncanhyundai.net/used/2022-Jeep-Grand_Cherokee_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T23:26:14",
-      "snapshot": "2026-11-16T15:54:15",
+      "snapshot": "2026-11-17T17:32:06",
       "go_url": "https://carwhisper.ca/go/duncan-hyundai-1c4rjkbg6n8625652",
       "region": "Vancouver Island",
       "city": "Duncan",
       "province": "BC",
       "dealer_name": "Duncan Hyundai"
+    },
+    {
+      "pub_id": "alberni-chrysler-dodge-jeep-ram-1c4rjkbg0s8709445",
+      "year": 2025,
+      "make": "Jeep",
+      "model": "Grand Cherokee L",
+      "trim": "Limited 4x4",
+      "body_type": "suv",
+      "drivetrain": "4WD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 411,
+      "price_cad": 66995.0,
+      "price_note": null,
+      "color": "Gray",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,v1/inventory/BTSM7WQVWJDA5LKYJ7JYBNYPJY.webp",
+      "dealer_id": "alberni-chrysler-dodge-jeep-ram",
+      "vin": "1C4RJKBG0S8709445",
+      "stock": "C257171",
+      "listing_url": "https://www.albernichrysler.com/inventory/2025-jeep-grand-cherokee-l-limited-onanpV0DTPeZSNNHd316wQvdp",
+      "dealer_url": "https://www.albernichrysler.com/inventory/2025-jeep-grand-cherokee-l-limited-onanpV0DTPeZSNNHd316wQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T18:27:21",
+      "snapshot": "2026-11-17T18:29:02",
+      "go_url": "https://carwhisper.ca/go/alberni-chrysler-dodge-jeep-ram-1c4rjkbg0s8709445",
+      "region": "Vancouver Island",
+      "city": "Port Alberni",
+      "province": "BC",
+      "dealer_name": "Alberni Chrysler Dodge Jeep Ram"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T21:50:35+00:00",
+  "generated_at": "2026-11-18T03:50:36+00:00",
   "condition": "new",
   "make": "land-rover",
   "files": [
@@ -20,12 +20,12 @@
       "condition": "new",
       "make": "land-rover",
       "model": "Range Rover Velar",
-      "count": 24,
+      "count": 27,
       "file": "inventory/new-land-rover-range-rover-velar.json",
       "models": [
         {
           "model": "Range Rover Velar",
-          "count": 24
+          "count": 27
         }
       ]
     },
@@ -34,12 +34,12 @@
       "make": "land-rover",
       "model": "Defender",
       "shard": "part1",
-      "count": 26,
+      "count": 21,
       "file": "inventory/new-land-rover-defender-part1.json",
       "models": [
         {
           "model": "Defender",
-          "count": 26
+          "count": 21
         }
       ]
     },
@@ -48,12 +48,12 @@
       "make": "land-rover",
       "model": "Defender",
       "shard": "part2",
-      "count": 26,
+      "count": 21,
       "file": "inventory/new-land-rover-defender-part2.json",
       "models": [
         {
           "model": "Defender",
-          "count": 26
+          "count": 21
         }
       ]
     },
@@ -62,12 +62,26 @@
       "make": "land-rover",
       "model": "Defender",
       "shard": "part3",
-      "count": 25,
+      "count": 21,
       "file": "inventory/new-land-rover-defender-part3.json",
       "models": [
         {
           "model": "Defender",
-          "count": 25
+          "count": 21
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "land-rover",
+      "model": "Defender",
+      "shard": "part4",
+      "count": 18,
+      "file": "inventory/new-land-rover-defender-part4.json",
+      "models": [
+        {
+          "model": "Defender",
+          "count": 18
         }
       ]
     },
@@ -131,12 +145,12 @@
       "make": "land-rover",
       "model": "Range Rover Sport",
       "shard": "sin-region",
-      "count": 14,
+      "count": 16,
       "file": "inventory/new-land-rover-range-rover-sport-sin-region.json",
       "models": [
         {
           "model": "Range Rover Sport",
-          "count": 14
+          "count": 16
         }
       ]
     },

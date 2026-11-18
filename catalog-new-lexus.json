@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T21:50:35+00:00",
+  "generated_at": "2026-11-18T03:50:36+00:00",
   "condition": "new",
   "make": "lexus",
   "files": [
@@ -7,12 +7,12 @@
       "condition": "new",
       "make": "lexus",
       "model": "IS",
-      "count": 21,
+      "count": 31,
       "file": "inventory/new-lexus-is.json",
       "models": [
         {
           "model": "IS",
-          "count": 21
+          "count": 31
         }
       ]
     },
@@ -48,13 +48,13 @@
       "condition": "new",
       "make": "lexus",
       "model": "UX",
-      "shard": "Lower Mainland",
-      "count": 28,
-      "file": "inventory/new-lexus-ux-lower-mainland.json",
+      "shard": "part1",
+      "count": 22,
+      "file": "inventory/new-lexus-ux-part1.json",
       "models": [
         {
           "model": "UX",
-          "count": 28
+          "count": 22
         }
       ]
     },
@@ -62,13 +62,27 @@
       "condition": "new",
       "make": "lexus",
       "model": "UX",
-      "shard": "Okanagan",
-      "count": 8,
-      "file": "inventory/new-lexus-ux-okanagan.json",
+      "shard": "part2",
+      "count": 22,
+      "file": "inventory/new-lexus-ux-part2.json",
       "models": [
         {
           "model": "UX",
-          "count": 8
+          "count": 22
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "lexus",
+      "model": "UX",
+      "shard": "part3",
+      "count": 20,
+      "file": "inventory/new-lexus-ux-part3.json",
+      "models": [
+        {
+          "model": "UX",
+          "count": 20
         }
       ]
     },
@@ -89,8 +103,37 @@
       "condition": "new",
       "make": "lexus",
       "model": "NX",
+      "shard": "part1",
       "count": 31,
-      "file": "inventory/new-lexus-nx.json",
+      "file": "inventory/new-lexus-nx-part1.json",
+      "models": [
+        {
+          "model": "NX",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "lexus",
+      "model": "NX",
+      "shard": "part2",
+      "count": 31,
+      "file": "inventory/new-lexus-nx-part2.json",
+      "models": [
+        {
+          "model": "NX",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "lexus",
+      "model": "NX",
+      "shard": "part3",
+      "count": 31,
+      "file": "inventory/new-lexus-nx-part3.json",
       "models": [
         {
           "model": "NX",
@@ -115,12 +158,12 @@
       "condition": "new",
       "make": "lexus",
       "model": "ES",
-      "count": 6,
+      "count": 9,
       "file": "inventory/new-lexus-es.json",
       "models": [
         {
           "model": "ES",
-          "count": 6
+          "count": 9
         }
       ]
     },
@@ -164,12 +207,27 @@
       "condition": "new",
       "make": "lexus",
       "model": "RX",
-      "count": 30,
-      "file": "inventory/new-lexus-rx.json",
+      "shard": "part1",
+      "count": 26,
+      "file": "inventory/new-lexus-rx-part1.json",
       "models": [
         {
           "model": "RX",
-          "count": 30
+          "count": 26
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "lexus",
+      "model": "RX",
+      "shard": "part2",
+      "count": 26,
+      "file": "inventory/new-lexus-rx-part2.json",
+      "models": [
+        {
+          "model": "RX",
+          "count": 26
         }
       ]
     },
@@ -203,12 +261,27 @@
       "condition": "new",
       "make": "lexus",
       "model": "TX",
-      "count": 18,
-      "file": "inventory/new-lexus-tx.json",
+      "shard": "part1",
+      "count": 21,
+      "file": "inventory/new-lexus-tx-part1.json",
       "models": [
         {
           "model": "TX",
-          "count": 18
+          "count": 21
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "lexus",
+      "model": "TX",
+      "shard": "part2",
+      "count": 20,
+      "file": "inventory/new-lexus-tx-part2.json",
+      "models": [
+        {
+          "model": "TX",
+          "count": 20
         }
       ]
     },
@@ -281,12 +354,12 @@
       "condition": "new",
       "make": "lexus",
       "model": "GX",
-      "count": 9,
+      "count": 7,
       "file": "inventory/new-lexus-gx.json",
       "models": [
         {
           "model": "GX",
-          "count": 9
+          "count": 7
         }
       ]
     },
@@ -307,12 +380,12 @@
       "condition": "new",
       "make": "lexus",
       "model": "LX",
-      "count": 3,
+      "count": 5,
       "file": "inventory/new-lexus-lx.json",
       "models": [
         {
           "model": "LX",
-          "count": 3
+          "count": 5
         }
       ]
     },

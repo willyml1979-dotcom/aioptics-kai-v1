@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T21:50:35+00:00",
+  "generated_at": "2026-11-18T03:50:36+00:00",
   "condition": "new",
   "make": "jeep",
   "files": [
@@ -254,7 +254,7 @@
       "make": "jeep",
       "model": "Cherokee",
       "shard": "part9",
-      "count": 29,
+      "count": 30,
       "file": "inventory/new-jeep-cherokee-part9.json",
       "models": [
         {
@@ -263,7 +263,7 @@
         },
         {
           "model": "Cherokee",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -385,7 +385,7 @@
       "make": "jeep",
       "model": "Wrangler",
       "shard": "part7",
-      "count": 25,
+      "count": 24,
       "file": "inventory/new-jeep-wrangler-part7.json",
       "models": [
         {
@@ -394,7 +394,7 @@
         },
         {
           "model": "Wrangler",
-          "count": 24
+          "count": 23
         }
       ]
     },
@@ -494,12 +494,12 @@
       "make": "jeep",
       "model": "Gladiator",
       "shard": "Vancouver Island",
-      "count": 5,
+      "count": 3,
       "file": "inventory/new-jeep-gladiator-vancouver-island.json",
       "models": [
         {
           "model": "Gladiator",
-          "count": 5
+          "count": 3
         }
       ]
     },
@@ -508,12 +508,12 @@
       "make": "jeep",
       "model": "Gladiator",
       "shard": "sin-region",
-      "count": 29,
+      "count": 28,
       "file": "inventory/new-jeep-gladiator-sin-region.json",
       "models": [
         {
           "model": "Gladiator",
-          "count": 29
+          "count": 28
         }
       ]
     },
@@ -548,7 +548,7 @@
       "make": "jeep",
       "model": "Grand Cherokee L",
       "shard": "part1",
-      "count": 30,
+      "count": 29,
       "file": "inventory/new-jeep-grand-cherokee-l-part1.json",
       "models": [
         {
@@ -557,7 +557,7 @@
         },
         {
           "model": "Grand Cherokee L",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -729,12 +729,12 @@
       "condition": "new",
       "make": "jeep",
       "model": "Wrangler 4 Door",
-      "count": 19,
+      "count": 18,
       "file": "inventory/new-jeep-wrangler-4-door.json",
       "models": [
         {
           "model": "Wrangler 4 Door",
-          "count": 7
+          "count": 6
         },
         {
           "model": "Wrangler 4-Door",
@@ -829,6 +829,19 @@
       "models": [
         {
           "model": "Compass for salein Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Wrangler 4 Door for salein Kelowna",
+      "count": 1,
+      "file": "inventory/new-jeep-wrangler-4-door-for-salein-kelowna.json",
+      "models": [
+        {
+          "model": "Wrangler 4 Door for salein Kelowna",
           "count": 1
         }
       ]

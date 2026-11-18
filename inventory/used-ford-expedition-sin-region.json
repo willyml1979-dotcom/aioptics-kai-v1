@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T21:50:35+00:00",
-  "snapshot": "2026-11-17T21:50:35+00:00",
+  "generated_at": "2026-11-18T03:50:36+00:00",
+  "snapshot": "2026-11-18T03:50:36+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 5,
+  "count": 6,
   "vehicles": [
     {
       "pub_id": "tacoma-dodge-chrysler-jeep-ram-1fmju1j80rea24779",
@@ -51,7 +51,7 @@
       "listing_url": "https://www.chnissan.com/vehicles/2024/ford/expedition/calgary/ab/ad13050031/?sale_class=used",
       "dealer_url": "https://www.chnissan.com/vehicles/2024/ford/expedition/calgary/ab/ad13050031/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-22T22:00:21",
-      "snapshot": "2026-11-16T17:58:08",
+      "snapshot": "2026-11-17T18:05:18",
       "go_url": "https://carwhisper.ca/go/country-hills-nissan-1fmju1j85rea46759",
       "city": null,
       "province": "AB",
@@ -142,6 +142,35 @@
       "city": "Port Hardy",
       "province": "BC",
       "dealer_name": "Applewood Ford"
+    },
+    {
+      "pub_id": "kicking-horse-ford-sales-ltd-1fmju1mt5mea85361",
+      "year": 2021,
+      "make": "Ford",
+      "model": "Expedition",
+      "trim": "Platinum 4x4",
+      "body_type": "suv",
+      "drivetrain": "4WD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 147700,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "Gray",
+      "photo_url": "https://media.edealer.ca/w_994,h_708,q_90,c_l,op_mc,ow_100,v1/adjustment/ZI2GYI5Y3RBRPE6TZX6ES663SE%3Btrim/BXFQMAZALVDDBJPLOKYQ7USPRY.webp",
+      "dealer_id": "kicking-horse-ford-sales-ltd",
+      "vin": "1FMJU1MT5MEA85361",
+      "stock": "15572",
+      "listing_url": "https://www.kickinghorseford.ca/inventory/2021-ford-expedition-platinum-gZfIGl8tT2GlbsKi2pQ4Cwvdp/",
+      "dealer_url": "https://www.kickinghorseford.ca/inventory/2021-ford-expedition-platinum-gZfIGl8tT2GlbsKi2pQ4Cwvdp/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T18:16:51",
+      "snapshot": "2026-11-17T18:22:24",
+      "go_url": "https://carwhisper.ca/go/kicking-horse-ford-sales-ltd-1fmju1mt5mea85361",
+      "city": "Golden",
+      "province": "BC",
+      "dealer_name": "Kicking Horse Ford Sales Ltd."
     }
   ]
 }

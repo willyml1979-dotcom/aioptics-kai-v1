@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T21:50:35+00:00",
-  "snapshot": "2026-11-17T21:50:35+00:00",
+  "generated_at": "2026-11-18T03:50:36+00:00",
+  "snapshot": "2026-11-18T03:50:36+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "kelowna-hyundai-wb523cf05ncj71563",
@@ -21,12 +21,36 @@
       "listing_url": "https://www.kelownahyundai.com/used/2022-BMW-iX.html",
       "dealer_url": "https://www.kelownahyundai.com/used/2022-BMW-iX.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-11-16T23:27:03",
-      "snapshot": "2026-11-16T23:38:18",
+      "snapshot": "2026-11-17T20:49:42",
       "go_url": "https://carwhisper.ca/go/kelowna-hyundai-wb523cf05ncj71563",
       "region": "Okanagan",
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Kelowna Hyundai"
+    },
+    {
+      "pub_id": "okanagan-chrysler-dodge-jeep-ram-wb523cf05ncj71563",
+      "year": 2022,
+      "make": "BMW",
+      "model": "iX for salein Kelowna",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "used",
+      "price_cad": 49404.0,
+      "price_note": null,
+      "color": "Black",
+      "dealer_id": "okanagan-chrysler-dodge-jeep-ram",
+      "vin": "WB523CF05NCJ71563",
+      "stock": "VHJ7156",
+      "listing_url": "https://www.okanagandodge.com/used/2022-BMW-iX.html",
+      "dealer_url": "https://www.okanagandodge.com/used/2022-BMW-iX.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-17T17:00:00",
+      "snapshot": "2026-11-17T17:14:36",
+      "go_url": "https://carwhisper.ca/go/okanagan-chrysler-dodge-jeep-ram-wb523cf05ncj71563",
+      "region": "Okanagan",
+      "city": "Kelowna",
+      "province": "BC",
+      "dealer_name": "Okanagan Chrysler Dodge Jeep Ram"
     }
   ]
 }

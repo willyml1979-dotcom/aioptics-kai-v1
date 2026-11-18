@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T21:50:35+00:00",
+  "generated_at": "2026-11-18T03:50:36+00:00",
   "condition": "used",
   "make": "buick",
   "files": [
@@ -103,12 +103,12 @@
       "make": "buick",
       "model": "Encore GX",
       "shard": "Vancouver Island",
-      "count": 8,
+      "count": 10,
       "file": "inventory/used-buick-encore-gx-vancouver-island.json",
       "models": [
         {
           "model": "Encore GX",
-          "count": 8
+          "count": 10
         }
       ]
     },
@@ -117,12 +117,25 @@
       "make": "buick",
       "model": "Encore GX",
       "shard": "sin-region",
-      "count": 9,
+      "count": 7,
       "file": "inventory/used-buick-encore-gx-sin-region.json",
       "models": [
         {
           "model": "Encore GX",
-          "count": 9
+          "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "buick",
+      "model": "Envision",
+      "count": 30,
+      "file": "inventory/used-buick-envision.json",
+      "models": [
+        {
+          "model": "Envision",
+          "count": 30
         }
       ]
     },
@@ -130,12 +143,12 @@
       "condition": "used",
       "make": "buick",
       "model": "Envista",
-      "count": 12,
+      "count": 9,
       "file": "inventory/used-buick-envista.json",
       "models": [
         {
           "model": "Envista",
-          "count": 12
+          "count": 9
         }
       ]
     },
@@ -149,19 +162,6 @@
         {
           "model": "ENCORE GXBase",
           "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "buick",
-      "model": "Envision",
-      "count": 29,
-      "file": "inventory/used-buick-envision.json",
-      "models": [
-        {
-          "model": "Envision",
-          "count": 29
         }
       ]
     },

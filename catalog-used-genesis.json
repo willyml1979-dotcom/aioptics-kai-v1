@@ -1,64 +1,8 @@
 {
-  "generated_at": "2026-11-17T21:50:35+00:00",
+  "generated_at": "2026-11-18T03:50:36+00:00",
   "condition": "used",
   "make": "genesis",
   "files": [
-    {
-      "condition": "used",
-      "make": "genesis",
-      "model": "G70",
-      "shard": "Lower Mainland",
-      "count": 25,
-      "file": "inventory/used-genesis-g70-lower-mainland.json",
-      "models": [
-        {
-          "model": "G70",
-          "count": 25
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "genesis",
-      "model": "G70",
-      "shard": "Okanagan",
-      "count": 2,
-      "file": "inventory/used-genesis-g70-okanagan.json",
-      "models": [
-        {
-          "model": "G70",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "genesis",
-      "model": "G70",
-      "shard": "Vancouver Island",
-      "count": 1,
-      "file": "inventory/used-genesis-g70-vancouver-island.json",
-      "models": [
-        {
-          "model": "G70",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "genesis",
-      "model": "G70",
-      "shard": "sin-region",
-      "count": 5,
-      "file": "inventory/used-genesis-g70-sin-region.json",
-      "models": [
-        {
-          "model": "G70",
-          "count": 5
-        }
-      ]
-    },
     {
       "condition": "used",
       "make": "genesis",
@@ -90,36 +34,8 @@
       "make": "genesis",
       "model": "GV70",
       "shard": "part1",
-      "count": 31,
-      "file": "inventory/used-genesis-gv70-part1.json",
-      "models": [
-        {
-          "model": "GV70",
-          "count": 31
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "genesis",
-      "model": "GV70",
-      "shard": "part2",
-      "count": 31,
-      "file": "inventory/used-genesis-gv70-part2.json",
-      "models": [
-        {
-          "model": "GV70",
-          "count": 31
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "genesis",
-      "model": "GV70",
-      "shard": "part3",
       "count": 30,
-      "file": "inventory/used-genesis-gv70-part3.json",
+      "file": "inventory/used-genesis-gv70-part1.json",
       "models": [
         {
           "model": "GV70",
@@ -130,14 +46,56 @@
     {
       "condition": "used",
       "make": "genesis",
-      "model": "GV80",
-      "shard": "part1",
-      "count": 22,
-      "file": "inventory/used-genesis-gv80-part1.json",
+      "model": "GV70",
+      "shard": "part2",
+      "count": 30,
+      "file": "inventory/used-genesis-gv70-part2.json",
       "models": [
         {
-          "model": "GV80",
-          "count": 22
+          "model": "GV70",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "genesis",
+      "model": "GV70",
+      "shard": "part3",
+      "count": 28,
+      "file": "inventory/used-genesis-gv70-part3.json",
+      "models": [
+        {
+          "model": "GV70",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "genesis",
+      "model": "G70",
+      "shard": "Lower Mainland",
+      "count": 28,
+      "file": "inventory/used-genesis-g70-lower-mainland.json",
+      "models": [
+        {
+          "model": "G70",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "genesis",
+      "model": "G70",
+      "shard": "sin-region",
+      "count": 5,
+      "file": "inventory/used-genesis-g70-sin-region.json",
+      "models": [
+        {
+          "model": "G70",
+          "count": 5
         }
       ]
     },
@@ -145,13 +103,55 @@
       "condition": "used",
       "make": "genesis",
       "model": "GV80",
-      "shard": "part2",
-      "count": 22,
-      "file": "inventory/used-genesis-gv80-part2.json",
+      "shard": "Lower Mainland",
+      "count": 30,
+      "file": "inventory/used-genesis-gv80-lower-mainland.json",
       "models": [
         {
           "model": "GV80",
-          "count": 22
+          "count": 30
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "genesis",
+      "model": "GV80",
+      "shard": "Okanagan",
+      "count": 3,
+      "file": "inventory/used-genesis-gv80-okanagan.json",
+      "models": [
+        {
+          "model": "GV80",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "genesis",
+      "model": "GV80",
+      "shard": "Vancouver Island",
+      "count": 1,
+      "file": "inventory/used-genesis-gv80-vancouver-island.json",
+      "models": [
+        {
+          "model": "GV80",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "genesis",
+      "model": "GV80",
+      "shard": "sin-region",
+      "count": 8,
+      "file": "inventory/used-genesis-gv80-sin-region.json",
+      "models": [
+        {
+          "model": "GV80",
+          "count": 8
         }
       ]
     },
@@ -250,12 +250,12 @@
       "condition": "used",
       "make": "genesis",
       "model": "G70 for salein Kelowna",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-genesis-g70-for-salein-kelowna.json",
       "models": [
         {
           "model": "G70 for salein Kelowna",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -263,12 +263,12 @@
       "condition": "used",
       "make": "genesis",
       "model": "GV70 for salein Kelowna",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-genesis-gv70-for-salein-kelowna.json",
       "models": [
         {
           "model": "GV70 for salein Kelowna",
-          "count": 1
+          "count": 2
         }
       ]
     },

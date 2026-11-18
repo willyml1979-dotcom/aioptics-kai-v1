@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T21:50:35+00:00",
-  "snapshot": "2026-11-17T21:50:35+00:00",
+  "generated_at": "2026-11-18T03:50:36+00:00",
+  "snapshot": "2026-11-18T03:50:36+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 30,
+  "count": 31,
   "vehicles": [
     {
       "pub_id": "a-m-ford-sales-limited-3fttw8j35tra80970",
@@ -853,6 +853,34 @@
       "city": "Squamish",
       "province": "BC",
       "dealer_name": "Coastal Ford Squamish"
+    },
+    {
+      "pub_id": "river-valley-ford-3fttw8ja3trb27766",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Maverick",
+      "trim": "XLT",
+      "drivetrain": "AWD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "odometer_km": 10,
+      "price_cad": 41755.0,
+      "price_note": null,
+      "color": "Shadow Black",
+      "photo_url": "https://img.sm360.ca/ir/w800h600/images/inventory/rivervalleyford/ford/maverick/2026/38813345/38813345_04608_e505c32fd08287b99303ac9fe026aa9e.jpeg",
+      "dealer_id": "river-valley-ford",
+      "vin": "3FTTW8JA3TRB27766",
+      "stock": "26MV7766",
+      "listing_url": "https://www.rivervalleyford.ca/en/new-inventory/ford/maverick/2026-ford-maverick-id38813345",
+      "dealer_url": "https://www.rivervalleyford.ca/en/new-inventory/ford/maverick/2026-ford-maverick-id38813345?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-26T08:44:10",
+      "snapshot": "2026-11-17T10:36:06",
+      "go_url": "https://carwhisper.ca/go/river-valley-ford-3fttw8ja3trb27766",
+      "region": "Lower Mainland",
+      "city": "Mission",
+      "province": "BC",
+      "dealer_name": "River Valley Ford"
     }
   ]
 }

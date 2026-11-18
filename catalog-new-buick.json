@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T21:50:35+00:00",
+  "generated_at": "2026-11-18T03:50:36+00:00",
   "condition": "new",
   "make": "buick",
   "files": [
@@ -36,12 +36,12 @@
       "make": "buick",
       "model": "Envista",
       "shard": "Norte/Cariboo",
-      "count": 5,
+      "count": 7,
       "file": "inventory/new-buick-envista-norte-cariboo.json",
       "models": [
         {
           "model": "Envista",
-          "count": 5
+          "count": 7
         }
       ]
     },
@@ -106,12 +106,12 @@
       "make": "buick",
       "model": "Encore GX",
       "shard": "Lower Mainland",
-      "count": 18,
+      "count": 19,
       "file": "inventory/new-buick-encore-gx-lower-mainland.json",
       "models": [
         {
           "model": "Encore GX",
-          "count": 18
+          "count": 19
         }
       ]
     },
@@ -176,12 +176,12 @@
       "make": "buick",
       "model": "Envision",
       "shard": "part1",
-      "count": 28,
+      "count": 26,
       "file": "inventory/new-buick-envision-part1.json",
       "models": [
         {
           "model": "Envision",
-          "count": 28
+          "count": 26
         }
       ]
     },
@@ -190,12 +190,12 @@
       "make": "buick",
       "model": "Envision",
       "shard": "part2",
-      "count": 28,
+      "count": 26,
       "file": "inventory/new-buick-envision-part2.json",
       "models": [
         {
           "model": "Envision",
-          "count": 28
+          "count": 26
         }
       ]
     },
@@ -204,12 +204,12 @@
       "make": "buick",
       "model": "Envision",
       "shard": "part3",
-      "count": 27,
+      "count": 26,
       "file": "inventory/new-buick-envision-part3.json",
       "models": [
         {
           "model": "Envision",
-          "count": 27
+          "count": 26
         }
       ]
     },
@@ -217,12 +217,12 @@
       "condition": "new",
       "make": "buick",
       "model": "Enclave AWD 4dr Preferred",
-      "count": 3,
+      "count": 1,
       "file": "inventory/new-buick-enclave-awd-4dr-preferred.json",
       "models": [
         {
           "model": "Enclave AWD 4dr Preferred",
-          "count": 3
+          "count": 1
         }
       ]
     },
@@ -230,12 +230,69 @@
       "condition": "new",
       "make": "buick",
       "model": "Enclave",
-      "count": 28,
-      "file": "inventory/new-buick-enclave.json",
+      "shard": "Lower Mainland",
+      "count": 13,
+      "file": "inventory/new-buick-enclave-lower-mainland.json",
       "models": [
         {
           "model": "Enclave",
-          "count": 28
+          "count": 13
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "buick",
+      "model": "Enclave",
+      "shard": "Norte/Cariboo",
+      "count": 7,
+      "file": "inventory/new-buick-enclave-norte-cariboo.json",
+      "models": [
+        {
+          "model": "Enclave",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "buick",
+      "model": "Enclave",
+      "shard": "Okanagan",
+      "count": 4,
+      "file": "inventory/new-buick-enclave-okanagan.json",
+      "models": [
+        {
+          "model": "Enclave",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "buick",
+      "model": "Enclave",
+      "shard": "Vancouver Island",
+      "count": 7,
+      "file": "inventory/new-buick-enclave-vancouver-island.json",
+      "models": [
+        {
+          "model": "Enclave",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "buick",
+      "model": "Enclave",
+      "shard": "sin-region",
+      "count": 4,
+      "file": "inventory/new-buick-enclave-sin-region.json",
+      "models": [
+        {
+          "model": "Enclave",
+          "count": 4
         }
       ]
     },
