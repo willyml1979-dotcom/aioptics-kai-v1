@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T21:50:39+00:00",
+  "generated_at": "2026-11-19T03:50:41+00:00",
   "condition": "used",
   "make": "mitsubishi",
   "files": [
@@ -106,7 +106,7 @@
       "make": "mitsubishi",
       "model": "Outlander",
       "shard": "part3",
-      "count": 29,
+      "count": 30,
       "file": "inventory/used-mitsubishi-outlander-part3.json",
       "models": [
         {
@@ -115,7 +115,7 @@
         },
         {
           "model": "Outlander",
-          "count": 21
+          "count": 22
         }
       ]
     },
@@ -187,12 +187,12 @@
       "make": "mitsubishi",
       "model": "RVR",
       "shard": "part1",
-      "count": 31,
+      "count": 30,
       "file": "inventory/used-mitsubishi-rvr-part1.json",
       "models": [
         {
           "model": "RVR",
-          "count": 31
+          "count": 30
         }
       ]
     },
@@ -201,12 +201,12 @@
       "make": "mitsubishi",
       "model": "RVR",
       "shard": "part2",
-      "count": 31,
+      "count": 30,
       "file": "inventory/used-mitsubishi-rvr-part2.json",
       "models": [
         {
           "model": "RVR",
-          "count": 31
+          "count": 30
         }
       ]
     },
@@ -215,12 +215,12 @@
       "make": "mitsubishi",
       "model": "RVR",
       "shard": "part3",
-      "count": 29,
+      "count": 30,
       "file": "inventory/used-mitsubishi-rvr-part3.json",
       "models": [
         {
           "model": "RVR",
-          "count": 29
+          "count": 30
         }
       ]
     },
@@ -338,12 +338,12 @@
       "make": "mitsubishi",
       "model": "Outlander PHEV",
       "shard": "Lower Mainland",
-      "count": 23,
+      "count": 22,
       "file": "inventory/used-mitsubishi-outlander-phev-lower-mainland.json",
       "models": [
         {
           "model": "Outlander PHEV",
-          "count": 23
+          "count": 22
         }
       ]
     },
@@ -410,6 +410,19 @@
     {
       "condition": "used",
       "make": "mitsubishi",
+      "model": "RVR for salein British Columbia",
+      "count": 1,
+      "file": "inventory/used-mitsubishi-rvr-for-salein-british-columbia.json",
+      "models": [
+        {
+          "model": "RVR for salein British Columbia",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
       "model": "Outlander PHEV for salein Coquitlam",
       "count": 1,
       "file": "inventory/used-mitsubishi-outlander-phev-for-salein-coquitlam.json",
@@ -424,12 +437,12 @@
       "condition": "used",
       "make": "mitsubishi",
       "model": "Outlander PHEV for salein British Columbia",
-      "count": 2,
+      "count": 3,
       "file": "inventory/used-mitsubishi-outlander-phev-for-salein-british-columbia.json",
       "models": [
         {
           "model": "Outlander PHEV for salein British Columbia",
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -580,11 +593,24 @@
       "condition": "used",
       "make": "mitsubishi",
       "model": "Outlander PHEV for salein Maple Ridge",
-      "count": 1,
+      "count": 2,
       "file": "inventory/used-mitsubishi-outlander-phev-for-salein-maple-ridge.json",
       "models": [
         {
           "model": "Outlander PHEV for salein Maple Ridge",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "mitsubishi",
+      "model": "Outlander for salein Maple Ridge",
+      "count": 1,
+      "file": "inventory/used-mitsubishi-outlander-for-salein-maple-ridge.json",
+      "models": [
+        {
+          "model": "Outlander for salein Maple Ridge",
           "count": 1
         }
       ]

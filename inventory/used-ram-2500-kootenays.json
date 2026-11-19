@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-18T21:50:39+00:00",
-  "snapshot": "2026-11-18T21:50:39+00:00",
+  "generated_at": "2026-11-19T03:50:41+00:00",
+  "snapshot": "2026-11-19T03:50:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "sullivan-motor-products-nelson-ltd-3c63r5jl7vg369201",
@@ -30,6 +30,33 @@
       "city": "Nelson",
       "province": "BC",
       "dealer_name": "Sullivan Motor Products-Nelson Ltd"
+    },
+    {
+      "pub_id": "kootenay-chrysler-dodge-jeep-ram-ltd-3c6tr5ej3lg250132",
+      "year": 2020,
+      "make": "Ram",
+      "model": "2500",
+      "body_type": "wagon",
+      "drivetrain": "4WD",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 114773,
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "dealer_id": "kootenay-chrysler-dodge-jeep-ram-ltd",
+      "vin": "3C6TR5EJ3LG250132",
+      "stock": "26019A",
+      "listing_url": "https://www.kootenaychryslerdealer.com/inventory/Used-2020-Ram-2500/1656828",
+      "dealer_url": "https://www.kootenaychryslerdealer.com/inventory/Used-2020-Ram-2500/1656828?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-18T14:50:08",
+      "snapshot": "2026-11-18T14:52:09",
+      "go_url": "https://carwhisper.ca/go/kootenay-chrysler-dodge-jeep-ram-ltd-3c6tr5ej3lg250132",
+      "region": "Kootenays",
+      "city": "Trail",
+      "province": "BC",
+      "dealer_name": "Kootenay Chrysler Dodge Jeep Ram Ltd."
     }
   ]
 }

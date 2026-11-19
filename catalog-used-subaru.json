@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T21:50:39+00:00",
+  "generated_at": "2026-11-19T03:50:41+00:00",
   "condition": "used",
   "make": "subaru",
   "files": [
@@ -372,12 +372,12 @@
       "make": "subaru",
       "model": "Forester",
       "shard": "part27",
-      "count": 27,
+      "count": 28,
       "file": "inventory/used-subaru-forester-part27.json",
       "models": [
         {
           "model": "Forester",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -655,12 +655,12 @@
       "make": "subaru",
       "model": "Crosstrek",
       "shard": "part19",
-      "count": 27,
+      "count": 28,
       "file": "inventory/used-subaru-crosstrek-part19.json",
       "models": [
         {
           "model": "Crosstrek",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -823,12 +823,12 @@
       "make": "subaru",
       "model": "Impreza",
       "shard": "part4",
-      "count": 25,
+      "count": 26,
       "file": "inventory/used-subaru-impreza-part4.json",
       "models": [
         {
           "model": "Impreza",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -985,12 +985,12 @@
       "make": "subaru",
       "model": "WRX",
       "shard": "part3",
-      "count": 28,
+      "count": 27,
       "file": "inventory/used-subaru-wrx-part3.json",
       "models": [
         {
           "model": "WRX",
-          "count": 28
+          "count": 27
         }
       ]
     },
@@ -1095,19 +1095,6 @@
         {
           "model": "WRX STI",
           "count": 15
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "subaru",
-      "model": "OutbackTouring 4dr All-Wheel Drive",
-      "count": 1,
-      "file": "inventory/used-subaru-outbacktouring-4dr-all-wheel-drive.json",
-      "models": [
-        {
-          "model": "OutbackTouring 4dr All-Wheel Drive",
-          "count": 1
         }
       ]
     },
@@ -1374,12 +1361,25 @@
     {
       "condition": "used",
       "make": "subaru",
-      "model": "Forester Limited",
+      "model": "Impreza 2.5i",
       "count": 1,
-      "file": "inventory/used-subaru-forester-limited.json",
+      "file": "inventory/used-subaru-impreza-2-5i.json",
       "models": [
         {
-          "model": "Forester Limited",
+          "model": "Impreza 2.5i",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "subaru",
+      "model": "WRX for salein Edmonton",
+      "count": 1,
+      "file": "inventory/used-subaru-wrx-for-salein-edmonton.json",
+      "models": [
+        {
+          "model": "WRX for salein Edmonton",
           "count": 1
         }
       ]
@@ -1406,19 +1406,6 @@
       "models": [
         {
           "model": "Crosstrek Onyx",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "condition": "used",
-      "make": "subaru",
-      "model": "Impreza Convenience",
-      "count": 1,
-      "file": "inventory/used-subaru-impreza-convenience.json",
-      "models": [
-        {
-          "model": "Impreza Convenience",
           "count": 1
         }
       ]

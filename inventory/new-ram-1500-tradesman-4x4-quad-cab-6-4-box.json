@@ -1,34 +1,9 @@
 {
-  "generated_at": "2026-11-18T21:50:39+00:00",
-  "snapshot": "2026-11-18T21:50:39+00:00",
+  "generated_at": "2026-11-19T03:50:41+00:00",
+  "snapshot": "2026-11-19T03:50:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
   "count": 6,
   "vehicles": [
-    {
-      "pub_id": "cranbrook-dodge-1c6srfft7vn604245",
-      "year": 2027,
-      "make": "Ram",
-      "model": "1500 Tradesman 4x4 Quad Cab 6'4\" Box",
-      "drivetrain": "4WD",
-      "propulsion": "unknown",
-      "propulsion_source": null,
-      "condition": "new",
-      "price_cad": 62390.0,
-      "price_note": null,
-      "color": "{$COLOREX}",
-      "dealer_id": "cranbrook-dodge",
-      "vin": "1C6SRFFT7VN604245",
-      "stock": "79001-488475",
-      "listing_url": "https://www.cranbrookdodge.ca/new/2027-Ram-1500.html",
-      "dealer_url": "https://www.cranbrookdodge.ca/new/2027-Ram-1500.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T00:10:59",
-      "snapshot": "2026-11-18T09:06:12",
-      "go_url": "https://carwhisper.ca/go/cranbrook-dodge-1c6srfft7vn604245",
-      "region": "Kootenays",
-      "city": "Cranbrook",
-      "province": "BC",
-      "dealer_name": "Cranbrook Dodge"
-    },
     {
       "pub_id": "maple-ridge-chrysler-jeep-dodge-1c6rrfcg3tn405082",
       "year": 2026,
@@ -149,6 +124,31 @@
       "city": "Kelowna",
       "province": "BC",
       "dealer_name": "Okanagan Chrysler Dodge Jeep Ram"
+    },
+    {
+      "pub_id": "comox-valley-dodge-1c6srfgt3vn593839",
+      "year": 2027,
+      "make": "Ram",
+      "model": "1500 Tradesman 4x4 Quad Cab 6'4\" Box",
+      "drivetrain": "4WD",
+      "propulsion": "unknown",
+      "propulsion_source": null,
+      "condition": "new",
+      "price_cad": 62390.0,
+      "price_note": null,
+      "color": "{$COLOR}",
+      "dealer_id": "comox-valley-dodge",
+      "vin": "1C6SRFGT3VN593839",
+      "stock": "79001-488475",
+      "listing_url": "https://www.comoxvalleydodge.com/new/2027-Ram-1500.html",
+      "dealer_url": "https://www.comoxvalleydodge.com/new/2027-Ram-1500.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-25T22:56:02",
+      "snapshot": "2026-11-18T19:53:51",
+      "go_url": "https://carwhisper.ca/go/comox-valley-dodge-1c6srfgt3vn593839",
+      "region": "Vancouver Island",
+      "city": "Courtenay",
+      "province": "BC",
+      "dealer_name": "Comox Valley Dodge"
     }
   ]
 }

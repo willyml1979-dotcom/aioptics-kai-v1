@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T21:50:39+00:00",
+  "generated_at": "2026-11-19T03:50:41+00:00",
   "condition": "new",
   "make": "jeep",
   "files": [
@@ -241,7 +241,7 @@
       "make": "jeep",
       "model": "Cherokee",
       "shard": "part9",
-      "count": 27,
+      "count": 26,
       "file": "inventory/new-jeep-cherokee-part9.json",
       "models": [
         {
@@ -250,7 +250,7 @@
         },
         {
           "model": "Cherokee",
-          "count": 26
+          "count": 25
         }
       ]
     },
@@ -359,7 +359,7 @@
       "make": "jeep",
       "model": "Wrangler",
       "shard": "part7",
-      "count": 21,
+      "count": 22,
       "file": "inventory/new-jeep-wrangler-part7.json",
       "models": [
         {
@@ -368,20 +368,7 @@
         },
         {
           "model": "Wrangler",
-          "count": 20
-        }
-      ]
-    },
-    {
-      "condition": "new",
-      "make": "jeep",
-      "model": "Wrangler Sport 2 Door 4x4",
-      "count": 5,
-      "file": "inventory/new-jeep-wrangler-sport-2-door-4x4.json",
-      "models": [
-        {
-          "model": "Wrangler Sport 2 Door 4x4",
-          "count": 5
+          "count": 21
         }
       ]
     },
@@ -670,6 +657,19 @@
         {
           "model": "Cherokee 4x4",
           "count": 8
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "jeep",
+      "model": "Wrangler Sport 2 Door 4x4",
+      "count": 4,
+      "file": "inventory/new-jeep-wrangler-sport-2-door-4x4.json",
+      "models": [
+        {
+          "model": "Wrangler Sport 2 Door 4x4",
+          "count": 4
         }
       ]
     },

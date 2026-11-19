@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T21:50:39+00:00",
+  "generated_at": "2026-11-19T03:50:41+00:00",
   "condition": "new",
   "make": "chrysler",
   "files": [
@@ -7,7 +7,7 @@
       "condition": "new",
       "make": "chrysler",
       "model": "Grand Caravan",
-      "count": 14,
+      "count": 15,
       "file": "inventory/new-chrysler-grand-caravan.json",
       "models": [
         {
@@ -16,7 +16,7 @@
         },
         {
           "model": "Grand Caravan",
-          "count": 12
+          "count": 13
         }
       ]
     },
@@ -99,12 +99,12 @@
       "make": "chrysler",
       "model": "Pacifica",
       "shard": "Vancouver Island",
-      "count": 3,
+      "count": 2,
       "file": "inventory/new-chrysler-pacifica-vancouver-island.json",
       "models": [
         {
           "model": "Pacifica",
-          "count": 3
+          "count": 2
         }
       ]
     },
@@ -226,6 +226,19 @@
       "models": [
         {
           "model": "Pacifica Hybrid for salein Kelowna",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "new",
+      "make": "chrysler",
+      "model": "Grand Caravan for salein Courtenay",
+      "count": 1,
+      "file": "inventory/new-chrysler-grand-caravan-for-salein-courtenay.json",
+      "models": [
+        {
+          "model": "Grand Caravan for salein Courtenay",
           "count": 1
         }
       ]

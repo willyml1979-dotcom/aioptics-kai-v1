@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-18T21:50:39+00:00",
-  "snapshot": "2026-11-18T21:50:39+00:00",
+  "generated_at": "2026-11-19T03:50:41+00:00",
+  "snapshot": "2026-11-19T03:50:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "jacobson-ford-sales-ltd-1ft8w3bt0ref07734",
@@ -30,6 +30,35 @@
       "city": "Salmon Arm",
       "province": "BC",
       "dealer_name": "Jacobson Ford Sales Ltd."
+    },
+    {
+      "pub_id": "orchard-ford-sales-ltd-1ft8w3bm1ted14539",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Super Duty",
+      "body_type": "truck",
+      "drivetrain": "4WD",
+      "propulsion": "diesel",
+      "propulsion_source": "description",
+      "propulsion_confidence": "medium",
+      "condition": "used",
+      "odometer_km": 24525,
+      "price_cad": 105870.0,
+      "price_note": null,
+      "color": "Glacier Gray",
+      "photo_url": "https://vehicleimages.leadboxhq.com/v1/orchardford/1589938/555e6689-9321-434a-822f-e1d5a9c60685-600.jpg",
+      "dealer_id": "orchard-ford-sales-ltd",
+      "vin": "1FT8W3BM1TED14539",
+      "stock": "260066",
+      "listing_url": "https://orchardford.com/view/used-2026-ford-super-duty-1589938/",
+      "dealer_url": "https://orchardford.com/view/used-2026-ford-super-duty-1589938/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-18T18:37:43",
+      "snapshot": "2026-11-18T18:41:05",
+      "go_url": "https://carwhisper.ca/go/orchard-ford-sales-ltd-1ft8w3bm1ted14539",
+      "region": "Okanagan",
+      "city": "Kelowna",
+      "province": "BC",
+      "dealer_name": "Orchard Ford Sales Ltd."
     }
   ]
 }

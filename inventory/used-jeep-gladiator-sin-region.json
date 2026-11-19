@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-18T21:50:39+00:00",
-  "snapshot": "2026-11-18T21:50:39+00:00",
+  "generated_at": "2026-11-19T03:50:41+00:00",
+  "snapshot": "2026-11-19T03:50:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 4,
+  "count": 5,
   "vehicles": [
     {
       "pub_id": "applewood-chevrolet-buick-gmc-1c6hjtag5ll104149",
@@ -86,6 +86,32 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Sherwood Park Chevrolet"
+    },
+    {
+      "pub_id": "go-auto-brampton-chrysler-1c6jjteg2ml540566",
+      "year": 2021,
+      "make": "Jeep",
+      "model": "Gladiator",
+      "propulsion": "gas",
+      "propulsion_source": "structured_fuel_type",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 58689,
+      "price_cad": 39888.0,
+      "price_note": null,
+      "color": "Grey",
+      "photo_url": "https://www.bramptonchrysler.ca/wp-content/themes/convertus-achilles/achilles/assets/images/srp-placeholder/PV.jpg",
+      "dealer_id": "go-auto-brampton-chrysler",
+      "vin": "1C6JJTEG2ML540566",
+      "stock": "T27MA12",
+      "listing_url": "https://www.bramptonchrysler.ca/vehicles/2021/jeep/gladiator/brampton/on/ad14079454/?sale_class=used",
+      "dealer_url": "https://www.bramptonchrysler.ca/vehicles/2021/jeep/gladiator/brampton/on/ad14079454/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-18T16:30:21",
+      "snapshot": "2026-11-18T16:33:25",
+      "go_url": "https://carwhisper.ca/go/go-auto-brampton-chrysler-1c6jjteg2ml540566",
+      "city": null,
+      "province": "ON",
+      "dealer_name": "Go Auto Brampton Chrysler"
     },
     {
       "pub_id": "country-hills-nissan-1c6pjtag6tl152223",

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-18T21:50:39+00:00",
-  "snapshot": "2026-11-18T21:50:39+00:00",
+  "generated_at": "2026-11-19T03:50:41+00:00",
+  "snapshot": "2026-11-19T03:50:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 1,
+  "count": 2,
   "vehicles": [
     {
       "pub_id": "maple-ridge-chrysler-jeep-dodge-ja4t5wa9xtz615308",
@@ -27,6 +27,31 @@
       "city": "Maple Ridge",
       "province": "BC",
       "dealer_name": "Maple Ridge Chrysler Jeep Dodge"
+    },
+    {
+      "pub_id": "maple-ridge-volkswagen-ja4t5va93sz624165",
+      "year": 2025,
+      "make": "Mitsubishi",
+      "model": "Outlander PHEV for salein Maple Ridge",
+      "propulsion": "plug-in hybrid",
+      "propulsion_source": "model_trim_name",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "price_cad": null,
+      "price_note": "precio no publicado en la fuente",
+      "color": "Red",
+      "dealer_id": "maple-ridge-volkswagen",
+      "vin": "JA4T5VA93SZ624165",
+      "stock": "NUMBER",
+      "listing_url": "https://www.mapleridge-vw.ca/used/2025-Mitsubishi-Outlander_PHEV.html",
+      "dealer_url": "https://www.mapleridge-vw.ca/used/2025-Mitsubishi-Outlander_PHEV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-18T15:18:41",
+      "snapshot": "2026-11-18T15:20:36",
+      "go_url": "https://carwhisper.ca/go/maple-ridge-volkswagen-ja4t5va93sz624165",
+      "region": "Lower Mainland",
+      "city": "Maple Ridge",
+      "province": "BC",
+      "dealer_name": "Maple Ridge Volkswagen"
     }
   ]
 }

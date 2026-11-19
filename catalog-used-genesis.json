@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T21:50:39+00:00",
+  "generated_at": "2026-11-19T03:50:41+00:00",
   "condition": "used",
   "make": "genesis",
   "files": [
@@ -262,6 +262,19 @@
     {
       "condition": "used",
       "make": "genesis",
+      "model": "G70 for salein Maple Ridge",
+      "count": 1,
+      "file": "inventory/used-genesis-g70-for-salein-maple-ridge.json",
+      "models": [
+        {
+          "model": "G70 for salein Maple Ridge",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "genesis",
       "model": "G70 for salein Kelowna",
       "count": 2,
       "file": "inventory/used-genesis-g70-for-salein-kelowna.json",
@@ -276,12 +289,25 @@
       "condition": "used",
       "make": "genesis",
       "model": "GV70 for salein Kelowna",
-      "count": 2,
+      "count": 3,
       "file": "inventory/used-genesis-gv70-for-salein-kelowna.json",
       "models": [
         {
           "model": "GV70 for salein Kelowna",
-          "count": 2
+          "count": 3
+        }
+      ]
+    },
+    {
+      "condition": "used",
+      "make": "genesis",
+      "model": "GV80 for salein Kelowna",
+      "count": 1,
+      "file": "inventory/used-genesis-gv80-for-salein-kelowna.json",
+      "models": [
+        {
+          "model": "GV80 for salein Kelowna",
+          "count": 1
         }
       ]
     },

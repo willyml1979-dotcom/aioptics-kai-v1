@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-18T21:50:39+00:00",
-  "snapshot": "2026-11-18T21:50:39+00:00",
+  "generated_at": "2026-11-19T03:50:41+00:00",
+  "snapshot": "2026-11-19T03:50:41+00:00",
   "notice": "Datos de un snapshot con fecha, no disponibilidad en tiempo real. Precios y disponibilidad deben confirmarse con el dealer.",
-  "count": 10,
+  "count": 11,
   "vehicles": [
     {
       "pub_id": "pioneer-chrysler-jeep-3gnkdcrj2rs115643",
@@ -79,7 +79,7 @@
       "listing_url": "https://www.kiavancouver.com/vehicles/2025/chevrolet/blazer-ev/vancouver/bc/70536951/?sale_class=used",
       "dealer_url": "https://www.kiavancouver.com/vehicles/2025/chevrolet/blazer-ev/vancouver/bc/70536951/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-11-16T23:48:47",
-      "snapshot": "2026-11-18T06:22:52",
+      "snapshot": "2026-11-18T14:53:55",
       "go_url": "https://carwhisper.ca/go/kia-south-vancouver-3gnkdgrj5ss206533",
       "region": "Lower Mainland",
       "city": "Vancouver",
@@ -194,7 +194,7 @@
       "listing_url": "https://www.lairdwheaton.com/vehicles/2026/chevrolet/blazer-ev/nanaimo/bc/68075563/?sale_class=used",
       "dealer_url": "https://www.lairdwheaton.com/vehicles/2026/chevrolet/blazer-ev/nanaimo/bc/68075563/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-11-17T21:08:51",
-      "snapshot": "2026-11-18T06:48:03",
+      "snapshot": "2026-11-18T15:16:03",
       "go_url": "https://carwhisper.ca/go/laird-wheaton-gm-3gnkdjrj9ts103629",
       "region": "Vancouver Island",
       "city": "Nanaimo",
@@ -282,6 +282,34 @@
       "city": null,
       "province": "AB",
       "dealer_name": "Country Hills Nissan"
+    },
+    {
+      "pub_id": "maple-ridge-chevrolet-buick-gmc-3gnkderlxts118598",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Blazer EV",
+      "body_type": "suv",
+      "drivetrain": "AWD",
+      "propulsion": "electric",
+      "propulsion_source": "model_variant",
+      "propulsion_confidence": "high",
+      "condition": "used",
+      "odometer_km": 10492,
+      "price_cad": 57357.0,
+      "price_note": null,
+      "color": "Black",
+      "photo_url": "https://vehicleimages.leadboxhq.com/v2/98/39694/520328-1080.jpg",
+      "dealer_id": "maple-ridge-chevrolet-buick-gmc",
+      "vin": "3GNKDERLXTS118598",
+      "stock": "CL230916A",
+      "listing_url": "https://www.mapleridgegm.com/view/used-2026-chevrolet-blazer-ev-39694/",
+      "dealer_url": "https://www.mapleridgegm.com/view/used-2026-chevrolet-blazer-ev-39694/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-11-18T19:06:31",
+      "snapshot": "2026-11-18T19:06:48",
+      "go_url": "https://carwhisper.ca/go/maple-ridge-chevrolet-buick-gmc-3gnkderlxts118598",
+      "city": "Pitt Meadows",
+      "province": "BC",
+      "dealer_name": "Maple Ridge Chevrolet Buick GMC"
     }
   ]
 }
